@@ -1,0 +1,1126 @@
+{
+ "caso": "FUST",
+ "lote": 27,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0163::Domicílio e arranjo familiar",
+   "unit_id": "S0163",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-03",
+   "orador": "Ademir Andrade",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 242,
+     "trecho": "O SR. ADEMIR ANDRADE (Bloco/PSB - PA. Pronuncia o seguinte discurso. Sem revisão do orador.) – Da mesma forma, Senador Pedro Simon, é uma satisfação falar quando V. Exª está na Presidência da Mesa do Senado, pela sua história, pela sua luta."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0164::Macrorregião",
+   "unit_id": "S0164",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-14",
+   "orador": "Eduardo Siqueira Campos",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 909,
+     "fim_corpo": 2350,
+     "trecho": "Evidentemente, a mesma situação é enfrentada pelos Estados, que também vêm promovendo a desestatização de suas empresas. A propósito, o nosso Estado do Tocantins, desde sua criação, foi pioneiro nessa nova abordagem da economia nacional, privatizando, pela primeira vez no País, uma empresa distribuidora de energia elétrica. Pois bem, nosso Estado, para que possa desenvolver-se plenamente, tem premente necessidade de que pelo menos cinco usinas hidrelétricas sejam privatizadas, a fim de assegurar investimentos que poderão ultrapassar a oito bilhões de dólares, além da Ferrovia Norte-Sul. Trata-se das usinas de Serra Quebrada/Itaguatins, Peixe, São Salvador, Estreito e Xambioá/Ananás, que, somadas à Usina Luiz Eduardo Magalhães, quando concluídas, gerarão cinco mil megawatts de energia elétrica. A Ferrovia Norte-Sul, obra da redenção nacional, também deve ser privatizada, a fim de tornar-se efetivamente viável, levando o progresso e o desenvolvimento em seus trilhos, que se estenderão por mais de dois mil quilômetros. Temos convicção de que o ilustre Ministro Alcides Tápias e o Conselho Nacional de Desestatização examinarão esse justo pleito de nosso Estado com o indispensável cuidado e atenção, permitindo, com essa privatização, que o Tocantins efetivamente se transforme naquilo que o Senhor Presidente da República classificou de \"Eldorado Brasileiro\". Era o que tinha a dizer."
+    },
+    {
+     "inicio_corpo": 909,
+     "fim_corpo": 2350,
+     "trecho": "Evidentemente, a mesma situação é enfrentada pelos Estados, que também vêm promovendo a desestatização de suas empresas. A propósito, o nosso Estado do Tocantins, desde sua criação, foi pioneiro nessa nova abordagem da economia nacional, privatizando, pela primeira vez no País, uma empresa distribuidora de energia elétrica. Pois bem, nosso Estado, para que possa desenvolver-se plenamente, tem premente necessidade de que pelo menos cinco usinas hidrelétricas sejam privatizadas, a fim de assegurar investimentos que poderão ultrapassar a oito bilhões de dólares, além da Ferrovia Norte-Sul. Trata-se das usinas de Serra Quebrada/Itaguatins, Peixe, São Salvador, Estreito e Xambioá/Ananás, que, somadas à Usina Luiz Eduardo Magalhães, quando concluídas, gerarão cinco mil megawatts de energia elétrica. A Ferrovia Norte-Sul, obra da redenção nacional, também deve ser privatizada, a fim de tornar-se efetivamente viável, levando o progresso e o desenvolvimento em seus trilhos, que se estenderão por mais de dois mil quilômetros. Temos convicção de que o ilustre Ministro Alcides Tápias e o Conselho Nacional de Desestatização examinarão esse justo pleito de nosso Estado com o indispensável cuidado e atenção, permitindo, com essa privatização, que o Tocantins efetivamente se transforme naquilo que o Senhor Presidente da República classificou de \"Eldorado Brasileiro\". Era o que tinha a dizer."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0164::Urbano e rural",
+   "unit_id": "S0164",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-14",
+   "orador": "Eduardo Siqueira Campos",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "CAMPOS",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 47,
+     "trecho": "O SR. EDUARDO SIQUEIRA CAMPOS (PFL - TO) – Sr."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0165::Domicílio e arranjo familiar",
+   "unit_id": "S0165",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-15",
+   "orador": "Maguito Vilela",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4244,
+     "fim_corpo": 5088,
+     "trecho": "Assim como o Brasil, a República Popular de Bangladesh, localizada na porção sudoeste da Ásia, é um país de contrastes, mas, no tocante a aspectos sociais, é bem pior. Metade dos 128 milhões de habitantes vivem abaixo da linha de pobreza. Além disso, o país é vitimado por constantes enchentes, que mantêm milhares de casas submersas por semanas seguidas nos períodos chuvosos. Pudemos conhecer bem a realidade do país, visitando várias províncias. Tivemos também a oportunidade de manter uma longa conversa com Muhammad Yunus, o fundador, idealizador e Presidente do Grameen Bank, o Banco da Aldeia. Durante mais de três horas, trocamos idéias e conversamos a respeito de projetos sociais. Foi uma oportunidade única. Muhammad Yunus nasceu numa das cinco províncias de Bangladesh, terceiro filho de uma família de 14 irmãos."
+    },
+    {
+     "inicio_corpo": 5871,
+     "fim_corpo": 6939,
+     "trecho": "Iniciaram-se, então, as atividades do Banco do Povo, que, primeiramente, atuou como intermediário e avalista de empréstimos de instituições convencionais de crédito. Hoje, o Grameen Bank atende quase três milhões de pessoas. E vai além: financia a construção de casas populares, coordena ações de saúde, educação e segurança alimentar, numa mostra concreta, real, de que, quando há vontade política, é possível combater a fome e a pobreza absoluta. Hoje Muhammad Yunus financia quase três milhões de pessoas. E o índice de inadimplência do banco dos pobres é de apenas 2%. Isso significa que o pobre é honesto, correto, agradecido. E esse banco financia exclusivamente pobres! Por isso, Sr. Presidente, Srªs e Srs. Senadores, ao pobre tudo se deve. Aos desvalidos; aos velhos já doentes que trabalharam a vida inteira pelo país; às mulheres, mães de numerosas famílias que não têm como sustentar-se e sustentar aos seus; a esses, o poder público, o Governo e o Congresso devem voltar os seus olhos, os seus esforços e as suas ações com todo o vigor."
+    },
+    {
+     "inicio_corpo": 6939,
+     "fim_corpo": 7847,
+     "trecho": "Discordo dos que negam essa realidade. Combato os que pensam ser injusto o Governo dar àqueles que nada têm. Refuto, com indignação, os que tacham as políticas compensatórias pejorativamente de \"assistencialismo\". Investir em educação, em reforma agrária, em microcrédito fácil para os pequenos e numa rede de segurança que dê chances para quem está no chão se levantar e enfrentar a vida é o mínimo que podemos fazer pelo futuro do Brasil. É essa gente simples que, na lavoura, de sol a sol, faz chegar à mesa do País o alimento que fortalece, mas que, às vezes, falta aos seus. É essa gente humilde que, quando há oportunidade, labuta no ofício diuturno da construção civil, levanta paredes que se transformam em lar para a família, em escola para a criança, em hospital para o enfermo - lar que não possui, escola que o filho não freqüenta, hospital que lhe é negado sempre que precisa."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0165::Educação",
+   "unit_id": "S0165",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-15",
+   "orador": "Maguito Vilela",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6939,
+     "fim_corpo": 7847,
+     "trecho": "Discordo dos que negam essa realidade. Combato os que pensam ser injusto o Governo dar àqueles que nada têm. Refuto, com indignação, os que tacham as políticas compensatórias pejorativamente de \"assistencialismo\". Investir em educação, em reforma agrária, em microcrédito fácil para os pequenos e numa rede de segurança que dê chances para quem está no chão se levantar e enfrentar a vida é o mínimo que podemos fazer pelo futuro do Brasil. É essa gente simples que, na lavoura, de sol a sol, faz chegar à mesa do País o alimento que fortalece, mas que, às vezes, falta aos seus. É essa gente humilde que, quando há oportunidade, labuta no ofício diuturno da construção civil, levanta paredes que se transformam em lar para a família, em escola para a criança, em hospital para o enfermo - lar que não possui, escola que o filho não freqüenta, hospital que lhe é negado sempre que precisa."
+    },
+    {
+     "inicio_corpo": 6939,
+     "fim_corpo": 7847,
+     "trecho": "Discordo dos que negam essa realidade. Combato os que pensam ser injusto o Governo dar àqueles que nada têm. Refuto, com indignação, os que tacham as políticas compensatórias pejorativamente de \"assistencialismo\". Investir em educação, em reforma agrária, em microcrédito fácil para os pequenos e numa rede de segurança que dê chances para quem está no chão se levantar e enfrentar a vida é o mínimo que podemos fazer pelo futuro do Brasil. É essa gente simples que, na lavoura, de sol a sol, faz chegar à mesa do País o alimento que fortalece, mas que, às vezes, falta aos seus. É essa gente humilde que, quando há oportunidade, labuta no ofício diuturno da construção civil, levanta paredes que se transformam em lar para a família, em escola para a criança, em hospital para o enfermo - lar que não possui, escola que o filho não freqüenta, hospital que lhe é negado sempre que precisa."
+    },
+    {
+     "inicio_corpo": 7159,
+     "fim_corpo": 8004,
+     "trecho": "Investir em educação, em reforma agrária, em microcrédito fácil para os pequenos e numa rede de segurança que dê chances para quem está no chão se levantar e enfrentar a vida é o mínimo que podemos fazer pelo futuro do Brasil. É essa gente simples que, na lavoura, de sol a sol, faz chegar à mesa do País o alimento que fortalece, mas que, às vezes, falta aos seus. É essa gente humilde que, quando há oportunidade, labuta no ofício diuturno da construção civil, levanta paredes que se transformam em lar para a família, em escola para a criança, em hospital para o enfermo - lar que não possui, escola que o filho não freqüenta, hospital que lhe é negado sempre que precisa. Essa gente traz em si a grandeza que a História nos mostra. Essas pessoas também têm direito ao pão, ao óleo, ao arroz, à casa, à escola, ao hospital."
+    },
+    {
+     "inicio_corpo": 8713,
+     "fim_corpo": 9472,
+     "trecho": "Essa é uma tese que não deve ser discutida, de forma alguma, no Congresso Nacional. A nossa luta, isso sim, deve ser por um Estado forte, sem privilégios e sem distâncias. Que Deus nos permita continuar firmes em nosso propósito de acabar com a fome e com a miséria neste País! Que nos faça fortes, levando-nos a encontrar soluções e a fazer deste presente uma etapa definitiva, que despertará orgulho nas gerações que nos seguirão! O Sr. Ernandes Amorim (PPB - RO) – V. Exª me permite um aparte, nobre Senador Maguito Vilela? O SR. MAGUITO VILELA (PMDB - GO) – Com muito prazer, concedo o aparte a V. Exª nobre Senador. O Sr. Ernandes Amorim (PPB - RO) – Nobre Senador Maguito Vilela, todo o Brasil sabe a escola política de V."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0165::Gênero",
+   "unit_id": "S0165",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-15",
+   "orador": "Maguito Vilela",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "mulheres",
+     "forma_encontrada": "mulheres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "mulheres",
+     "forma_encontrada": "mulheres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3097,
+     "fim_corpo": 3247,
+     "trecho": "De norte a sul, o mesmo quadro, a mesma realidade, o mesmo problema: velhos, mulheres e crianças passando necessidades e, às vezes, morrendo de fome."
+    },
+    {
+     "inicio_corpo": 5871,
+     "fim_corpo": 6939,
+     "trecho": "Iniciaram-se, então, as atividades do Banco do Povo, que, primeiramente, atuou como intermediário e avalista de empréstimos de instituições convencionais de crédito. Hoje, o Grameen Bank atende quase três milhões de pessoas. E vai além: financia a construção de casas populares, coordena ações de saúde, educação e segurança alimentar, numa mostra concreta, real, de que, quando há vontade política, é possível combater a fome e a pobreza absoluta. Hoje Muhammad Yunus financia quase três milhões de pessoas. E o índice de inadimplência do banco dos pobres é de apenas 2%. Isso significa que o pobre é honesto, correto, agradecido. E esse banco financia exclusivamente pobres! Por isso, Sr. Presidente, Srªs e Srs. Senadores, ao pobre tudo se deve. Aos desvalidos; aos velhos já doentes que trabalharam a vida inteira pelo país; às mulheres, mães de numerosas famílias que não têm como sustentar-se e sustentar aos seus; a esses, o poder público, o Governo e o Congresso devem voltar os seus olhos, os seus esforços e as suas ações com todo o vigor."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0165::Idade",
+   "unit_id": "S0165",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-15",
+   "orador": "Maguito Vilela",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "criança",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovem",
+     "forma_encontrada": "jovem",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2102,
+     "fim_corpo": 3097,
+     "trecho": "Para elaborar as emendas que estão agora em votação, ouvimos economistas, sociólogos, especialistas, políticos, entidades. Saímos de Brasília e visitamos o País. Vimos de perto, com a clareza de nossos olhos, a dor, a rudeza e a crueldade da miséria brasileira na famosa Zona da Mata de Pernambuco, nos Municípios de Ribeirão, Catende e Água Preta; nas Alagoas da nossa querida Heloisa Helena, nos paupérrimos São José da Tapera, Jaramataia e Campo Grande; no meu querido Estado de Goiás, aqui pertinho, nas barbas do Palácio do Planalto e da Esplanada dos Ministérios, em Águas Lindas, em Santo Antônio do Descoberto, na Cidade Ocidental; mais perto ainda, no lixão do DF, o cenário horroroso e inadmissível de crianças catando comida no meio do lixo; na grande São Paulo, coração econômico do Brasil, rica em indústrias, mas milionária em pobres e miseráveis; no belíssimo Rio de Janeiro, onde os dólares dos turistas endinheirados contrastam radicalmente com os centavos dos favelados."
+    },
+    {
+     "inicio_corpo": 3097,
+     "fim_corpo": 3247,
+     "trecho": "De norte a sul, o mesmo quadro, a mesma realidade, o mesmo problema: velhos, mulheres e crianças passando necessidades e, às vezes, morrendo de fome."
+    },
+    {
+     "inicio_corpo": 6939,
+     "fim_corpo": 7847,
+     "trecho": "Discordo dos que negam essa realidade. Combato os que pensam ser injusto o Governo dar àqueles que nada têm. Refuto, com indignação, os que tacham as políticas compensatórias pejorativamente de \"assistencialismo\". Investir em educação, em reforma agrária, em microcrédito fácil para os pequenos e numa rede de segurança que dê chances para quem está no chão se levantar e enfrentar a vida é o mínimo que podemos fazer pelo futuro do Brasil. É essa gente simples que, na lavoura, de sol a sol, faz chegar à mesa do País o alimento que fortalece, mas que, às vezes, falta aos seus. É essa gente humilde que, quando há oportunidade, labuta no ofício diuturno da construção civil, levanta paredes que se transformam em lar para a família, em escola para a criança, em hospital para o enfermo - lar que não possui, escola que o filho não freqüenta, hospital que lhe é negado sempre que precisa."
+    },
+    {
+     "inicio_corpo": 16830,
+     "fim_corpo": 17459,
+     "trecho": "Não existe finalidade mais legítima do que a de diminuir as injustiças sociais deste País. O Brasil não pode ser considerado a nona economia do mundo e ter em situação tão miserável mais de 50% da sua população. Gostaria de louvar, mais uma vez, a presença de V. Exª nesta tribuna e dizer que estaremos juntos nessa luta, que tem o referencial de V. Exª, mas tem a marca também do Senado da República. Muito obrigado, Senador Maguito Vilela. O SR. MAGUITO VILELA (PMDB - GO) – Eu é que agradeço a V. Exª, ex-Governador de Pernambuco, Senador brilhante, jovem, que tem sensibilidade para com os problemas dos mais humildes."
+    },
+    {
+     "inicio_corpo": 17042,
+     "fim_corpo": 18501,
+     "trecho": "Gostaria de louvar, mais uma vez, a presença de V. Exª nesta tribuna e dizer que estaremos juntos nessa luta, que tem o referencial de V. Exª, mas tem a marca também do Senado da República. Muito obrigado, Senador Maguito Vilela. O SR. MAGUITO VILELA (PMDB - GO) – Eu é que agradeço a V. Exª, ex-Governador de Pernambuco, Senador brilhante, jovem, que tem sensibilidade para com os problemas dos mais humildes. Sr. Presidente, Srªs e Srs. Senadores, vou encerrar citando o pronunciamento de Martin Luther King em seu inesquecível discurso \"Eu Tenho um Sonho\", cuja íntegra já foi brilhantemente narrada neste plenário pelo Senador Eduardo Suplicy: Agora é a hora de tornarmos reais as promessas da democracia. É hora de levantar nossa nação das areias movediças da injustiça social para a rocha sólida da fraternidade. É o momento de fazer da justiça uma realidade para todas as crianças de Deus. Seria fatal para a nação não perceber a urgência deste momento. Não percamos a urgência e a oportunidade do momento. Não façamos em vão o nosso trabalho. O maior de todos os males, o mais cruel de todos os crimes é a fome, a miséria. Como já foi dito na História, \"um homem com fome não é um homem livre\". Lutemos, portanto, pela liberdade. Lutemos pela justiça social. Esse é um dever inadiável, que nos será cobrado por nossos filhos, nossos netos e pelas futuras gerações. Muito obrigado, Sr. Presidente. a º Z"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0165::Macrorregião",
+   "unit_id": "S0165",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-15",
+   "orador": "Maguito Vilela",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2231,
+     "fim_corpo": 3247,
+     "trecho": "Saímos de Brasília e visitamos o País. Vimos de perto, com a clareza de nossos olhos, a dor, a rudeza e a crueldade da miséria brasileira na famosa Zona da Mata de Pernambuco, nos Municípios de Ribeirão, Catende e Água Preta; nas Alagoas da nossa querida Heloisa Helena, nos paupérrimos São José da Tapera, Jaramataia e Campo Grande; no meu querido Estado de Goiás, aqui pertinho, nas barbas do Palácio do Planalto e da Esplanada dos Ministérios, em Águas Lindas, em Santo Antônio do Descoberto, na Cidade Ocidental; mais perto ainda, no lixão do DF, o cenário horroroso e inadmissível de crianças catando comida no meio do lixo; na grande São Paulo, coração econômico do Brasil, rica em indústrias, mas milionária em pobres e miseráveis; no belíssimo Rio de Janeiro, onde os dólares dos turistas endinheirados contrastam radicalmente com os centavos dos favelados. De norte a sul, o mesmo quadro, a mesma realidade, o mesmo problema: velhos, mulheres e crianças passando necessidades e, às vezes, morrendo de fome."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0165::Posição no trabalho",
+   "unit_id": "S0165",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-15",
+   "orador": "Maguito Vilela",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desempregados",
+     "forma_encontrada": "desempregados",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10199,
+     "fim_corpo": 11001,
+     "trecho": "Exª fez em seu Governo, assim como o Senador Íris Rezende, no caso de Goiás. Essa assistência ao pequeno produtor representa a acomodação dessa gente na área rural, na área produtiva, e isso o Governo Fernando Henrique ainda não acertou. Tem esse programa da reforma agrária, mas é só para inglês ver. Nada vemos de real, apenas um amontoado de pessoas, dentro de um acampamento, esperando, durante três anos, uma porção de terra. Isso não é fazer reforma agrária, isso não é desenvolvimento. Oxalá o Presidente Fernando Henrique siga o exemplo desse líder indiano, criando o banco do pobre, o banco do povo! Tenho certeza de que, com esses parcos recursos, essa gente vai levar adiante este Brasil, acabando com o desemprego, a criminalidade, levando-o a um rumo certo, que é a produção de alimentos."
+    },
+    {
+     "inicio_corpo": 13722,
+     "fim_corpo": 14624,
+     "trecho": "Muito obrigado. O SR. MAGUITO VILELA (PMDB – GO) - Agradeço o aparte de V. Exª. Tenho orgulho de ter sido Governador ao mesmo tempo em que V. Exª também governava, de forma magistral, o Estado da Bahia, considerado também um dos melhores governadores deste País por quase todos os institutos de pesquisa. Mas fico tranqüilo em ouvir o aparte do Senador Ernandes Amorim e o de V. Exª, que é membro do PFL. Ouvi ontem a palavra do nosso Presidente, Senador Antônio Carlos Magalhães, de que não aceita, em hipótese nenhuma, esta idéia levantada no seio do Governo de deslocar recursos do Fundo para complementar o pagamento do salário mínimo. Isso me tranqüiliza, é um sinal de que este Senado, de que este Congresso está realmente com a decisão política, com a vontade política de beneficiar os mais humildes, os excluídos, os pobres, os desempregados, os famintos, os miseráveis deste País."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0165::Renda e classe",
+   "unit_id": "S0165",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-15",
+   "orador": "Maguito Vilela",
+   "n_ocorrencias_no_par": 25,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 19,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobre",
+     "forma_encontrada": "pobre",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobre",
+     "forma_encontrada": "pobre",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 402,
+     "fim_corpo": 1322,
+     "trecho": "O exercício do mandato de Senador tem sido especialmente gratificante. Fazer parte da mais alta Casa política deste País é uma honraria que marcará profundamente a minha vida. A convivência com grandes inteligências políticas deste País é um aprendizado rico e diário. Não tenho dúvidas de que, ao deixar esta Casa, serei um homem público melhor, mais experimentado, com conhecimentos mais acurados, pronto para enfrentar novos desafios. O homem público idealista se realiza no servir ao povo. Sente-se recompensado quando vê um projeto ou uma idéia virar realidade, transformar-se em ações que irão beneficiar a população. O exercício do mandato de Senador tem me proporcionado isso. Os resultados dos trabalhos da Comissão Especial para o Combate à Fome e à Pobreza foram uma vitória protagonizada por esta Casa, talvez a mais importante aqui vista desde que tomei posse em fevereiro do ano passado."
+    },
+    {
+     "inicio_corpo": 1322,
+     "fim_corpo": 2102,
+     "trecho": "A forma como foi desenvolvido o trabalho, com o engajamento de todo o Congresso Nacional, e os resultados apresentados fazem-me antever um alto momento da vida pública brasileira. Fizemos um trabalho onde reinou a consciência e a alma de cada um. Foi um trabalho aplicado, onde não havia distinção entre Direita e Esquerda; não existia situação e oposição. Foi um momento mágico, onde todas as diferenças se nivelaram. Só o mérito contava! Foi, acima de tudo, um exemplo de maturidade política do Congresso e do País. No centro dos debates, estava o maior problema do mundo, o grande desafio dessa geração, que adentra no novo milênio em posições de mando e de poder: o fantasma da fome, da miséria, da pobreza absoluta, que castiga, humilha, subjuga, indigna e mata!"
+    },
+    {
+     "inicio_corpo": 2102,
+     "fim_corpo": 3097,
+     "trecho": "Para elaborar as emendas que estão agora em votação, ouvimos economistas, sociólogos, especialistas, políticos, entidades. Saímos de Brasília e visitamos o País. Vimos de perto, com a clareza de nossos olhos, a dor, a rudeza e a crueldade da miséria brasileira na famosa Zona da Mata de Pernambuco, nos Municípios de Ribeirão, Catende e Água Preta; nas Alagoas da nossa querida Heloisa Helena, nos paupérrimos São José da Tapera, Jaramataia e Campo Grande; no meu querido Estado de Goiás, aqui pertinho, nas barbas do Palácio do Planalto e da Esplanada dos Ministérios, em Águas Lindas, em Santo Antônio do Descoberto, na Cidade Ocidental; mais perto ainda, no lixão do DF, o cenário horroroso e inadmissível de crianças catando comida no meio do lixo; na grande São Paulo, coração econômico do Brasil, rica em indústrias, mas milionária em pobres e miseráveis; no belíssimo Rio de Janeiro, onde os dólares dos turistas endinheirados contrastam radicalmente com os centavos dos favelados."
+    },
+    {
+     "inicio_corpo": 3097,
+     "fim_corpo": 3574,
+     "trecho": "De norte a sul, o mesmo quadro, a mesma realidade, o mesmo problema: velhos, mulheres e crianças passando necessidades e, às vezes, morrendo de fome. Voltamos a Brasília com a frustração de quem pôde constatar a realidade de milhões de brasileiros, irmãos nossos, viverem na mais absoluta miséria, dentro de um País tão rico, com tantas potencialidades como o Brasil. Tínhamos que agir. E agimos! A criação do Fundo de Combate à Pobreza é um avanço extraordinário."
+    },
+    {
+     "inicio_corpo": 3097,
+     "fim_corpo": 3684,
+     "trecho": "De norte a sul, o mesmo quadro, a mesma realidade, o mesmo problema: velhos, mulheres e crianças passando necessidades e, às vezes, morrendo de fome. Voltamos a Brasília com a frustração de quem pôde constatar a realidade de milhões de brasileiros, irmãos nossos, viverem na mais absoluta miséria, dentro de um País tão rico, com tantas potencialidades como o Brasil. Tínhamos que agir. E agimos! A criação do Fundo de Combate à Pobreza é um avanço extraordinário. Com ele, teremos recursos específicos para investimentos em programas de combate à fome e à pobreza absoluta."
+    },
+    {
+     "inicio_corpo": 3684,
+     "fim_corpo": 4489,
+     "trecho": "Há poucos dias, tive a felicidade de integrar uma comitiva do Congresso Nacional em missão oficial à Índia e a Bangladesh. Tive a felicidade maior de poder conhecer de perto e por dentro o funcionamento do Grameen Bank, o Banco da Aldeia, o Banco do Povo, e o seu fundador e diretor, o extraordinário Muhammad Yunus. É um dos mais bem acabados exemplos de que é possível combater a fome e a miséria. É um programa que beneficia a fantástica marca de 2,8 milhões de pessoas. Vivenciei experiências que reforçaram em mim o acerto das medidas aqui tomadas. Assim como o Brasil, a República Popular de Bangladesh, localizada na porção sudoeste da Ásia, é um país de contrastes, mas, no tocante a aspectos sociais, é bem pior. Metade dos 128 milhões de habitantes vivem abaixo da linha de pobreza."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0165::Saúde",
+   "unit_id": "S0165",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-15",
+   "orador": "Maguito Vilela",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6939,
+     "fim_corpo": 7847,
+     "trecho": "Discordo dos que negam essa realidade. Combato os que pensam ser injusto o Governo dar àqueles que nada têm. Refuto, com indignação, os que tacham as políticas compensatórias pejorativamente de \"assistencialismo\". Investir em educação, em reforma agrária, em microcrédito fácil para os pequenos e numa rede de segurança que dê chances para quem está no chão se levantar e enfrentar a vida é o mínimo que podemos fazer pelo futuro do Brasil. É essa gente simples que, na lavoura, de sol a sol, faz chegar à mesa do País o alimento que fortalece, mas que, às vezes, falta aos seus. É essa gente humilde que, quando há oportunidade, labuta no ofício diuturno da construção civil, levanta paredes que se transformam em lar para a família, em escola para a criança, em hospital para o enfermo - lar que não possui, escola que o filho não freqüenta, hospital que lhe é negado sempre que precisa."
+    },
+    {
+     "inicio_corpo": 6939,
+     "fim_corpo": 7847,
+     "trecho": "Discordo dos que negam essa realidade. Combato os que pensam ser injusto o Governo dar àqueles que nada têm. Refuto, com indignação, os que tacham as políticas compensatórias pejorativamente de \"assistencialismo\". Investir em educação, em reforma agrária, em microcrédito fácil para os pequenos e numa rede de segurança que dê chances para quem está no chão se levantar e enfrentar a vida é o mínimo que podemos fazer pelo futuro do Brasil. É essa gente simples que, na lavoura, de sol a sol, faz chegar à mesa do País o alimento que fortalece, mas que, às vezes, falta aos seus. É essa gente humilde que, quando há oportunidade, labuta no ofício diuturno da construção civil, levanta paredes que se transformam em lar para a família, em escola para a criança, em hospital para o enfermo - lar que não possui, escola que o filho não freqüenta, hospital que lhe é negado sempre que precisa."
+    },
+    {
+     "inicio_corpo": 7159,
+     "fim_corpo": 8004,
+     "trecho": "Investir em educação, em reforma agrária, em microcrédito fácil para os pequenos e numa rede de segurança que dê chances para quem está no chão se levantar e enfrentar a vida é o mínimo que podemos fazer pelo futuro do Brasil. É essa gente simples que, na lavoura, de sol a sol, faz chegar à mesa do País o alimento que fortalece, mas que, às vezes, falta aos seus. É essa gente humilde que, quando há oportunidade, labuta no ofício diuturno da construção civil, levanta paredes que se transformam em lar para a família, em escola para a criança, em hospital para o enfermo - lar que não possui, escola que o filho não freqüenta, hospital que lhe é negado sempre que precisa. Essa gente traz em si a grandeza que a História nos mostra. Essas pessoas também têm direito ao pão, ao óleo, ao arroz, à casa, à escola, ao hospital."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0165::Território intraurbano",
+   "unit_id": "S0165",
+   "subcategoria": "Território intraurbano",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-15",
+   "orador": "Maguito Vilela",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "favela",
+     "forma_encontrada": "favela",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2231,
+     "fim_corpo": 3097,
+     "trecho": "Saímos de Brasília e visitamos o País. Vimos de perto, com a clareza de nossos olhos, a dor, a rudeza e a crueldade da miséria brasileira na famosa Zona da Mata de Pernambuco, nos Municípios de Ribeirão, Catende e Água Preta; nas Alagoas da nossa querida Heloisa Helena, nos paupérrimos São José da Tapera, Jaramataia e Campo Grande; no meu querido Estado de Goiás, aqui pertinho, nas barbas do Palácio do Planalto e da Esplanada dos Ministérios, em Águas Lindas, em Santo Antônio do Descoberto, na Cidade Ocidental; mais perto ainda, no lixão do DF, o cenário horroroso e inadmissível de crianças catando comida no meio do lixo; na grande São Paulo, coração econômico do Brasil, rica em indústrias, mas milionária em pobres e miseráveis; no belíssimo Rio de Janeiro, onde os dólares dos turistas endinheirados contrastam radicalmente com os centavos dos favelados."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0165::Urbano e rural",
+   "unit_id": "S0165",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-15",
+   "orador": "Maguito Vilela",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "área rural",
+     "forma_encontrada": "área rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4857,
+     "fim_corpo": 5712,
+     "trecho": "Durante mais de três horas, trocamos idéias e conversamos a respeito de projetos sociais. Foi uma oportunidade única. Muhammad Yunus nasceu numa das cinco províncias de Bangladesh, terceiro filho de uma família de 14 irmãos. PhD em Economia pela Universidade de Vanderbilt, nos Estados Unidos, voltou a Bangladesh em 1972, quando deu de cara com a dureza da realidade de seu país, o que o fez iniciar um trabalho exemplar para todo o mundo. Disse-nos Yunus durante a conversa: \"Quando voltei ao meu país, defrontei-me com muita fome, com muitas pessoas morrendo. Estava frustrado, pois era professor de Teoria Econômica e nada daquilo tinha significado, pois estava muito distante da realidade das nossas pessoas\". Muhammad Yunus, então, fez o que deveriam fazer os burocratas que decidem os destinos da economia nacional. Saiu a campo."
+    },
+    {
+     "inicio_corpo": 9339,
+     "fim_corpo": 10199,
+     "trecho": "Exª nobre Senador. O Sr. Ernandes Amorim (PPB - RO) – Nobre Senador Maguito Vilela, todo o Brasil sabe a escola política de V. Exª como representante de Goiás, assim como o trabalho sério que fez como Governador daquele Estado. E, numa ida a Bangladesh, para buscar conhecimento, V. Exª pôde constatar que o defeito está à vista: o banco da aldeia é o banco do povo. O Presidente Fernando Henrique, há dois ou três anos, foi ao Amazonas e disse que iria instituir, criar esse banco do povo para atender aos pobres, até porque o Banco do Brasil sequer recebe pobre. Os fundos constitucionais - V. Exª tem conhecimento - não são aplicados corretamente. Às vezes ficam depositados, gerando agiotagem, em vez de serem canalizados para a produção de riqueza, como a agricultura, o desenvolvimento, a industrialização, a geração de energia rural, que tanto V."
+    },
+    {
+     "inicio_corpo": 9472,
+     "fim_corpo": 10437,
+     "trecho": "Exª como representante de Goiás, assim como o trabalho sério que fez como Governador daquele Estado. E, numa ida a Bangladesh, para buscar conhecimento, V. Exª pôde constatar que o defeito está à vista: o banco da aldeia é o banco do povo. O Presidente Fernando Henrique, há dois ou três anos, foi ao Amazonas e disse que iria instituir, criar esse banco do povo para atender aos pobres, até porque o Banco do Brasil sequer recebe pobre. Os fundos constitucionais - V. Exª tem conhecimento - não são aplicados corretamente. Às vezes ficam depositados, gerando agiotagem, em vez de serem canalizados para a produção de riqueza, como a agricultura, o desenvolvimento, a industrialização, a geração de energia rural, que tanto V. Exª fez em seu Governo, assim como o Senador Íris Rezende, no caso de Goiás. Essa assistência ao pequeno produtor representa a acomodação dessa gente na área rural, na área produtiva, e isso o Governo Fernando Henrique ainda não acertou."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0166::Macrorregião",
+   "unit_id": "S0166",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-15",
+   "orador": "Eduardo Siqueira Campos",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desenvolvimento regional",
+     "forma_encontrada": "desenvolvimento regional",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 732,
+     "trecho": "O SR. EDUARDO SIQUEIRA CAMPOS (PFL - TO) – Sr. Presidente, Srªs e Srs. Senadores, quero registrar neste momento dois atos de singular importância que estão ocorrendo na área do Ministério das Minas e Energia que dão, pela sua natureza mais do que pela sua dimensão, um novo rumo às perspectivas energéticas do país. Tradicionalmente, a geração de energia hidrelétrica tem sido o suporte do sistema energético brasileiro. Sobe a mais de 90% o percentual de energia de origem hidráulica, sobre o total de nossa produção. No entanto, as grandes reservas de energia hídrica das Regiões Sul, Sudeste, Nordeste e Centro-Oeste do País estão esgotadas em sua maior parte Impõe-se um novo rumo à nossa política energética."
+    },
+    {
+     "inicio_corpo": 316,
+     "fim_corpo": 1236,
+     "trecho": "Tradicionalmente, a geração de energia hidrelétrica tem sido o suporte do sistema energético brasileiro. Sobe a mais de 90% o percentual de energia de origem hidráulica, sobre o total de nossa produção. No entanto, as grandes reservas de energia hídrica das Regiões Sul, Sudeste, Nordeste e Centro-Oeste do País estão esgotadas em sua maior parte Impõe-se um novo rumo à nossa política energética. Este rumo deve caminhar em duas direções: a primeira, aproveitando energias de outras fontes – exceto o petróleo, mas onde se inclui, como exemplo, o carvão, o xisto, e sobretudo o gás natural, além de outras fontes alternativas; a segunda direção, Sr. Presidente, nos leva ao aproveitamento dos imensos recursos naturais dos rios da Amazônia – questão bem mais complexa – não só em função das questões ambientais, mas, inclusive, dos tradicionais custos e prazos de construção das usinas hidrelétricas."
+    },
+    {
+     "inicio_corpo": 1910,
+     "fim_corpo": 2487,
+     "trecho": "Serão cerca de 15 milhões de quilowatts que poderão ser, dessa forma, acrescidos ao sistema energético nacional. Tocantins, o Estado da livre iniciativa, foi, e continua sendo, pioneiro nesta nova estratégia de privatizar para buscar investimentos, ao invés de investir recursos públicos para depois privatizar. Assim é que, logo após a criação do Estado do Tocantins, há pouco mais de 10 anos, a CELTINS – Companhia Hidrelétrica do Tocantins que assumia a imensa tarefa de energizar o Estado, até então o esquecido norte goiano, foi entregue à iniciativa privada."
+    },
+    {
+     "inicio_corpo": 3523,
+     "fim_corpo": 4430,
+     "trecho": "Será mais um acréscimo de 6.470 milhões de quilowatts ao sistema energético do País. Na mesma ocasião o Presidente Fernando Henrique transferiu a gestão do programa para o Ministério das Minas e Energia, restando à Aneel a responsabilidade pelo acompanhamento e análise final dos atos de concessão. Entre as usinas a serem construídas no rio Tocantins estão as de Serra Quebrada, Estreito, São Salvador, Peixe e Stª Izabel, esta no rio Araguaia. O Estado do Tocantins, com o apoio do Ministério de Minas e Energia do próprio consórcio que constrói a usina do Lajeado, já procedeu ao inventário dessas usinas, que deverão produzir cerca de 5 milhões de quilowatts. Simultaneamente trata-se de desenvolver os primeiros estudos de impacto ambiental e de aproveitamento múltiplo das águas, de modo a se garantir a sustentabilidade desses empreendimentos e promover o desenvolvimento regional."
+    },
+    {
+     "inicio_corpo": 3828,
+     "fim_corpo": 4799,
+     "trecho": "Entre as usinas a serem construídas no rio Tocantins estão as de Serra Quebrada, Estreito, São Salvador, Peixe e Stª Izabel, esta no rio Araguaia. O Estado do Tocantins, com o apoio do Ministério de Minas e Energia do próprio consórcio que constrói a usina do Lajeado, já procedeu ao inventário dessas usinas, que deverão produzir cerca de 5 milhões de quilowatts. Simultaneamente trata-se de desenvolver os primeiros estudos de impacto ambiental e de aproveitamento múltiplo das águas, de modo a se garantir a sustentabilidade desses empreendimentos e promover o desenvolvimento regional. Desejo registrar, Sr. Presidente, que esses atos ontem praticados, estão exatamente na linha da 2ª direção a que me referia no início deste pronunciamento, ou seja, o início do aproveitamento sustentável e múltiplo dos rios Amazônicos, dando uma nova dimensão ao Brasil, a reintegração da Amazônia na Comunidade Nacional e uma nova dimensão à questão energética."
+    },
+    {
+     "inicio_corpo": 4430,
+     "fim_corpo": 5834,
+     "trecho": "Desejo registrar, Sr. Presidente, que esses atos ontem praticados, estão exatamente na linha da 2ª direção a que me referia no início deste pronunciamento, ou seja, o início do aproveitamento sustentável e múltiplo dos rios Amazônicos, dando uma nova dimensão ao Brasil, a reintegração da Amazônia na Comunidade Nacional e uma nova dimensão à questão energética. Retorno a assinalar também a importância de que, os investimentos previstos que só no que se refere às usinas referidas para o Rio Tocantins devem alcançar a casa dos 10 bilhões de reais e provêm basicamente da iniciativa privada. Espero poder anunciar brevemente, Sr. Presidente, a conclusão do mesmo processo de privatização da ferrovia Norte-Sul, conduzido com a mesma competência pelo Ministério dos Transportes. É desta forma , Sr. Presidente, que se constrói o novo Brasil, um Brasil integrado em si mesmo, um Brasil participativo, capaz de mover suas próprias potencialidades, para ingressar no mundo da globalização de forma soberana, e capaz de criar condições de desenvolvimento humano e sustentável para suas populações. Cumprimento o Estado do Tocantins e seu Governador Siqueira Campos, por mais esta etapa vencida. Cumprimento o Ministério das Minas e Energia e ao Presidente Fernando Henrique, especialmente, pelas medidas adotadas. Muito obrigado, Sr. Presidente. ita8 À"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0166::Urbano e rural",
+   "unit_id": "S0166",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-15",
+   "orador": "Eduardo Siqueira Campos",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "CAMPOS",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "Campos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 47,
+     "trecho": "O SR. EDUARDO SIQUEIRA CAMPOS (PFL - TO) – Sr."
+    },
+    {
+     "inicio_corpo": 4799,
+     "fim_corpo": 5834,
+     "trecho": "Retorno a assinalar também a importância de que, os investimentos previstos que só no que se refere às usinas referidas para o Rio Tocantins devem alcançar a casa dos 10 bilhões de reais e provêm basicamente da iniciativa privada. Espero poder anunciar brevemente, Sr. Presidente, a conclusão do mesmo processo de privatização da ferrovia Norte-Sul, conduzido com a mesma competência pelo Ministério dos Transportes. É desta forma , Sr. Presidente, que se constrói o novo Brasil, um Brasil integrado em si mesmo, um Brasil participativo, capaz de mover suas próprias potencialidades, para ingressar no mundo da globalização de forma soberana, e capaz de criar condições de desenvolvimento humano e sustentável para suas populações. Cumprimento o Estado do Tocantins e seu Governador Siqueira Campos, por mais esta etapa vencida. Cumprimento o Ministério das Minas e Energia e ao Presidente Fernando Henrique, especialmente, pelas medidas adotadas. Muito obrigado, Sr. Presidente. ita8 À"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0167::Administração pública",
+   "unit_id": "S0167",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-16",
+   "orador": "Carlos Wilson",
+   "n_ocorrencias_no_par": 20,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 14,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "prefeitura",
+     "forma_encontrada": "prefeitura",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeituras",
+     "forma_encontrada": "prefeituras",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeituras",
+     "forma_encontrada": "prefeituras",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeituras",
+     "forma_encontrada": "prefeituras",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeituras",
+     "forma_encontrada": "prefeituras",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeituras",
+     "forma_encontrada": "prefeituras",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeitura",
+     "forma_encontrada": "Prefeitura",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeitura",
+     "forma_encontrada": "Prefeitura",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeitura",
+     "forma_encontrada": "Prefeitura",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeitura",
+     "forma_encontrada": "Prefeitura",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeitura",
+     "forma_encontrada": "Prefeitura",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeitura",
+     "forma_encontrada": "prefeitura",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 504,
+     "trecho": "O SR. CARLOS WILSON (PPS - PE. Pronuncia o seguinte discurso.) – Sr. Presidente, Srªs e Srs. Senadores, trago hoje ao debate nesta tribuna uma questão que considero crucial para resolver o problema do desemprego no nosso País: o engajamento dos governos municipais nessa batalha; a necessidade de encarar o problema não como simplesmente de natureza federal ou de natureza \"estadual\". Até agora, tem sido fácil para o prefeito municipal chegar e dizer: \"Desemprego não é um problema da prefeitura."
+    },
+    {
+     "inicio_corpo": 504,
+     "fim_corpo": 1446,
+     "trecho": "É um problema federal, porque diz respeito à política de juros, ou à política de exportações, ou à política de câmbio\". Esse tipo de raciocínio, embora se valha de algumas informações verídicas, aproveita-se de um dado conjuntural para eximir os executivos municipais de suas responsabilidades, mas deixa de levar em conta a verdade mais elementar: antes de ser cidadão de seu país ou de seu Estado, a pessoa é moradora de um município. Mora numa rua que se localiza num bairro cuja identidade mais próxima é a do município. Entretanto, essa visão óbvia parece estar distante de alguns governantes municipais que, nessa hora, se esquecem de seus cidadãos e jogam a responsabilidade para resolver o problema apenas nas costas do Governo Federal. No entanto, o sucesso de algumas prefeituras na redução do desemprego, como é o caso do Rio de Janeiro, vem a desmentir essas atitudes de cegueira administrativa e de insensibilidade humana."
+    },
+    {
+     "inicio_corpo": 3332,
+     "fim_corpo": 4149,
+     "trecho": "Como se não bastasse a perda das famílias, que se vêem despojadas do salário mensal recebido pelo trabalhador, o Tesouro acaba arcando com mais despesas. Taxas altas de desemprego, oscilando acima de 6% em 1994, trouxeram para o País um aumento estrondoso nos gastos do seguro-desemprego: se considerarmos os três últimos anos, veremos que os dispêndios subiram de R$3.54 bilhões, em 1997, para R$4.3 bilhões, em 1999. Além disso, é claro, os níveis de inadimplência no comércio atingiram patamares elevadíssimos, levando diversas empresas à falência, empresas que manteriam sua saúde financeira se as taxas de juros não fossem tão altas e se a inadimplência não fosse tão gritante. Mas nada disso, repito, exime as prefeituras municipais de suas responsabilidades com a geração de emprego e renda."
+    },
+    {
+     "inicio_corpo": 5327,
+     "fim_corpo": 6241,
+     "trecho": "Exª está vislumbrando. V. Exª faz, com uma clareza incrível, uma exposição desses problemas, apontando cada item que tem dificultado a criação de empregos e vinculando um fator importante, que é a responsabilidade dos prefeitos nessa luta contra o desemprego. Parabéns, Senador. Que Deus o ilumine no prosseguimento desse trabalho brilhante que desenvolvendo a respeito do assunto. O SR. CARLOS WILSON (PPS - PE) – Muito obrigado, Senador Romeu Tuma. V. Exª, sempre muito preciso, muito inteligente e muito experiente, traz enorme contribuição ao nosso modesto pronunciamento. V. Exª sabe que nos preocupamos, que nos identificamos com esse sofrimento, com essa questão do desemprego. Recife e São Paulo são as duas capitais que têm os mais altos índices de desemprego do País. Isso mostra que, se não houver uma participação das prefeituras das duas capitais no combate ao desemprego, a tendência é piorar."
+    },
+    {
+     "inicio_corpo": 5784,
+     "fim_corpo": 6704,
+     "trecho": "V. Exª, sempre muito preciso, muito inteligente e muito experiente, traz enorme contribuição ao nosso modesto pronunciamento. V. Exª sabe que nos preocupamos, que nos identificamos com esse sofrimento, com essa questão do desemprego. Recife e São Paulo são as duas capitais que têm os mais altos índices de desemprego do País. Isso mostra que, se não houver uma participação das prefeituras das duas capitais no combate ao desemprego, a tendência é piorar. V. Exª, com a experiência e vivência que tem, traz grande contribuição, repito, à solução do problema do desemprego. O desemprego tem de ser combatido em todas as esferas. Não se pode apenas atribuir ao Governo Federal a responsabilidade de combatê-lo. O Governo Federal tem a sua responsabilidade. Da mesma forma, o governo estadual e o governo municipal não podem ficar omissos, como tem acontecido na maioria das prefeituras municipais deste País."
+    },
+    {
+     "inicio_corpo": 6018,
+     "fim_corpo": 6995,
+     "trecho": "Recife e São Paulo são as duas capitais que têm os mais altos índices de desemprego do País. Isso mostra que, se não houver uma participação das prefeituras das duas capitais no combate ao desemprego, a tendência é piorar. V. Exª, com a experiência e vivência que tem, traz grande contribuição, repito, à solução do problema do desemprego. O desemprego tem de ser combatido em todas as esferas. Não se pode apenas atribuir ao Governo Federal a responsabilidade de combatê-lo. O Governo Federal tem a sua responsabilidade. Da mesma forma, o governo estadual e o governo municipal não podem ficar omissos, como tem acontecido na maioria das prefeituras municipais deste País. É muito fácil esquivar-se da cobrança da população, dizendo que a responsabilidade maior não é do município. Entendemos que é, sim, do governo municipal. Mostrarei, no final de meu pronunciamento, que outras prefeituras que tomaram a iniciativa de combater o desemprego foram bem-sucedidas."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0167::Domicílio e arranjo familiar",
+   "unit_id": "S0167",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-16",
+   "orador": "Carlos Wilson",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1882,
+     "fim_corpo": 2656,
+     "trecho": "E por que as taxas têm estado tão elevadas? Não é demais repetir que a incapacidade de o Governo Federal diminuir seu déficit fiscal é a grande responsável. Para salvar sua política econômica, tem elevado as taxas de juros até cifras astronômicas. O resto da história, sabemos bem: muitos empresários reduzem ou cessam suas atividades, acabando com considerável número de vagas e jogando na rua centenas de milhares de trabalhadores honrados, que, de uma hora para outra, ficam sem perspectivas de emprego. Para os que se mantiveram empregados, mesmo o pequeno ganho no rendimento médio dos trabalhadores, obtido pelo Plano Real até 1997 – de 31% -, sofreu uma queda, baixando para 19%, em 1999. Como conseqüência, claro, baixou o consumo dessas famílias."
+    },
+    {
+     "inicio_corpo": 1882,
+     "fim_corpo": 2946,
+     "trecho": "E por que as taxas têm estado tão elevadas? Não é demais repetir que a incapacidade de o Governo Federal diminuir seu déficit fiscal é a grande responsável. Para salvar sua política econômica, tem elevado as taxas de juros até cifras astronômicas. O resto da história, sabemos bem: muitos empresários reduzem ou cessam suas atividades, acabando com considerável número de vagas e jogando na rua centenas de milhares de trabalhadores honrados, que, de uma hora para outra, ficam sem perspectivas de emprego. Para os que se mantiveram empregados, mesmo o pequeno ganho no rendimento médio dos trabalhadores, obtido pelo Plano Real até 1997 – de 31% -, sofreu uma queda, baixando para 19%, em 1999. Como conseqüência, claro, baixou o consumo dessas famílias. E todos sabemos o quanto o rendimento dos assalariados é importante para o mercado, pois todo o dinheiro ganho pelas famílias dos trabalhadores transforma-se em alimentos, vestuário, transportes, enfim, reverte-se imediatamente para o aquecimento do mercado, o que faz aumentar a produção."
+    },
+    {
+     "inicio_corpo": 2596,
+     "fim_corpo": 3492,
+     "trecho": "Como conseqüência, claro, baixou o consumo dessas famílias. E todos sabemos o quanto o rendimento dos assalariados é importante para o mercado, pois todo o dinheiro ganho pelas famílias dos trabalhadores transforma-se em alimentos, vestuário, transportes, enfim, reverte-se imediatamente para o aquecimento do mercado, o que faz aumentar a produção. Aliás, este é o maior desafio do Governo em todas as esferas: aumentar o poder de compra dos mais pobres. Esse, por sinal, é um dos três componentes da medição do Índice de Desenvolvimento Humano (IDH), medido pela ONU. Ao lado da educação e da expectativa de vida, o acesso à renda para comprar uma determinada cesta básica é o que indica se uma nação tem alto desenvolvimento ou não. Como se não bastasse a perda das famílias, que se vêem despojadas do salário mensal recebido pelo trabalhador, o Tesouro acaba arcando com mais despesas."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0167::Idade",
+   "unit_id": "S0167",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-16",
+   "orador": "Carlos Wilson",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "idoso",
+     "forma_encontrada": "ido so",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7570,
+     "fim_corpo": 8424,
+     "trecho": "Além disso, foram adotadas políticas de microcrédito e de qualificação profissional. Com isso, diminuiu o desemprego na Região Metropolitana do Recife em relação a outras regiões metropolitanas do País. Infelizmente, nos últimos dois anos, as taxas de desemprego no Grande Recife voltaram a se posicionar entre as mais altas do País. Em 1998, só foi mais baixa que a de Salvador; e, em 1999, como destacava ao Senador Romeu Tuma, mais baixa que a de São Paulo e a de Salvador. Com isso, Sr. Presidente, Srªs e Srs. Senadores, quero alertar para o papel dos governos regionais, seja o estadual, seja o municipal, para recuperações de níveis de emprego. Mas a atual gestão da Prefeitura do Recife, em lugar de assumir seu papel, tem-se omitido sob o argumento de que o desemprego é de alçada do Governo Federal, apesar de ser seu aliado."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0167::Posição no trabalho",
+   "unit_id": "S0167",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-16",
+   "orador": "Carlos Wilson",
+   "n_ocorrencias_no_par": 31,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 25,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "Desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 385,
+     "trecho": "O SR. CARLOS WILSON (PPS - PE. Pronuncia o seguinte discurso.) – Sr. Presidente, Srªs e Srs. Senadores, trago hoje ao debate nesta tribuna uma questão que considero crucial para resolver o problema do desemprego no nosso País: o engajamento dos governos municipais nessa batalha; a necessidade de encarar o problema não como simplesmente de natureza federal ou de natureza \"estadual\"."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 504,
+     "trecho": "O SR. CARLOS WILSON (PPS - PE. Pronuncia o seguinte discurso.) – Sr. Presidente, Srªs e Srs. Senadores, trago hoje ao debate nesta tribuna uma questão que considero crucial para resolver o problema do desemprego no nosso País: o engajamento dos governos municipais nessa batalha; a necessidade de encarar o problema não como simplesmente de natureza federal ou de natureza \"estadual\". Até agora, tem sido fácil para o prefeito municipal chegar e dizer: \"Desemprego não é um problema da prefeitura."
+    },
+    {
+     "inicio_corpo": 504,
+     "fim_corpo": 1446,
+     "trecho": "É um problema federal, porque diz respeito à política de juros, ou à política de exportações, ou à política de câmbio\". Esse tipo de raciocínio, embora se valha de algumas informações verídicas, aproveita-se de um dado conjuntural para eximir os executivos municipais de suas responsabilidades, mas deixa de levar em conta a verdade mais elementar: antes de ser cidadão de seu país ou de seu Estado, a pessoa é moradora de um município. Mora numa rua que se localiza num bairro cuja identidade mais próxima é a do município. Entretanto, essa visão óbvia parece estar distante de alguns governantes municipais que, nessa hora, se esquecem de seus cidadãos e jogam a responsabilidade para resolver o problema apenas nas costas do Governo Federal. No entanto, o sucesso de algumas prefeituras na redução do desemprego, como é o caso do Rio de Janeiro, vem a desmentir essas atitudes de cegueira administrativa e de insensibilidade humana."
+    },
+    {
+     "inicio_corpo": 941,
+     "fim_corpo": 1632,
+     "trecho": "Mora numa rua que se localiza num bairro cuja identidade mais próxima é a do município. Entretanto, essa visão óbvia parece estar distante de alguns governantes municipais que, nessa hora, se esquecem de seus cidadãos e jogam a responsabilidade para resolver o problema apenas nas costas do Governo Federal. No entanto, o sucesso de algumas prefeituras na redução do desemprego, como é o caso do Rio de Janeiro, vem a desmentir essas atitudes de cegueira administrativa e de insensibilidade humana. Com isso, Srªs e Srs. Senadores, não quero isentar de responsabilidades o Governo Federal. Com certeza, a política de juros altos tem sido uma das principais causas do desemprego."
+    },
+    {
+     "inicio_corpo": 1446,
+     "fim_corpo": 2401,
+     "trecho": "Com isso, Srªs e Srs. Senadores, não quero isentar de responsabilidades o Governo Federal. Com certeza, a política de juros altos tem sido uma das principais causas do desemprego. Como sabemos, a taxa de juros básica da economia nos últimos dois anos tem estado acima de 19%. Essa é a taxa de juros básica, como o nome diz, mas, na prática, os empresários têm sempre arcado, no curto prazo, com o pagamento de taxas acima de 50%. E por que as taxas têm estado tão elevadas? Não é demais repetir que a incapacidade de o Governo Federal diminuir seu déficit fiscal é a grande responsável. Para salvar sua política econômica, tem elevado as taxas de juros até cifras astronômicas. O resto da história, sabemos bem: muitos empresários reduzem ou cessam suas atividades, acabando com considerável número de vagas e jogando na rua centenas de milhares de trabalhadores honrados, que, de uma hora para outra, ficam sem perspectivas de emprego."
+    },
+    {
+     "inicio_corpo": 1632,
+     "fim_corpo": 2596,
+     "trecho": "Como sabemos, a taxa de juros básica da economia nos últimos dois anos tem estado acima de 19%. Essa é a taxa de juros básica, como o nome diz, mas, na prática, os empresários têm sempre arcado, no curto prazo, com o pagamento de taxas acima de 50%. E por que as taxas têm estado tão elevadas? Não é demais repetir que a incapacidade de o Governo Federal diminuir seu déficit fiscal é a grande responsável. Para salvar sua política econômica, tem elevado as taxas de juros até cifras astronômicas. O resto da história, sabemos bem: muitos empresários reduzem ou cessam suas atividades, acabando com considerável número de vagas e jogando na rua centenas de milhares de trabalhadores honrados, que, de uma hora para outra, ficam sem perspectivas de emprego. Para os que se mantiveram empregados, mesmo o pequeno ganho no rendimento médio dos trabalhadores, obtido pelo Plano Real até 1997 – de 31% -, sofreu uma queda, baixando para 19%, em 1999."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0167::Renda e classe",
+   "unit_id": "S0167",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-16",
+   "orador": "Carlos Wilson",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2401,
+     "fim_corpo": 3052,
+     "trecho": "Para os que se mantiveram empregados, mesmo o pequeno ganho no rendimento médio dos trabalhadores, obtido pelo Plano Real até 1997 – de 31% -, sofreu uma queda, baixando para 19%, em 1999. Como conseqüência, claro, baixou o consumo dessas famílias. E todos sabemos o quanto o rendimento dos assalariados é importante para o mercado, pois todo o dinheiro ganho pelas famílias dos trabalhadores transforma-se em alimentos, vestuário, transportes, enfim, reverte-se imediatamente para o aquecimento do mercado, o que faz aumentar a produção. Aliás, este é o maior desafio do Governo em todas as esferas: aumentar o poder de compra dos mais pobres."
+    }
+   ]
+  }
+ ]
+}

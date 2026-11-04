@@ -1,0 +1,1070 @@
+{
+ "caso": "FUST",
+ "lote": 21,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0129::Domicílio e arranjo familiar",
+   "unit_id": "S0129",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-03",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4739,
+     "fim_corpo": 5679,
+     "trecho": "O SR. EDUARDO SUPLICY (Bloco/PT - SP) - Concedo o aparte, com muita honra, ao Senador Roberto Requião. O Sr. Roberto Requião (PMDB - PR) – Senador Eduardo Suplicy, a questão que V. Ex.ª levanta é da máxima seriedade. Não creio que seria o caso de se montar um grupo para estudar a dolarização. Qualquer proposta de dolarização seria objeto de um impeachment, porque se trata de terceirização da soberania nacional. Por mais essa ação e essas declarações, ficam extremamente claras as razões do Fundo Monetário Internacional. Ele pretende mesmo acabar com os países da América Latina. É a história da Alca e da dolarização da economia no Equador. É evidente que a dolarização acaba com a soberania de um país. Os Estados Unidos resolvem, por meio do Federal Reserve Bank – que essa súcia de economistas chama intimamente de FED como se fosse um parente próximo, um amigo da família - aumentar a taxa de juros nos Estados Unidos."
+    },
+    {
+     "inicio_corpo": 5679,
+     "fim_corpo": 6611,
+     "trecho": "O Equador vai pagar por isso, pois terá início um processo recessivo que seguramente seria desnecessário, porque não há sincronia entre as duas economias, que são rigorosamente diversas. Essa terceirização tem sido ensaiada. O currency board, proposto por Chico Lopes em determinado momento - na Comissão, ele admitiu o estabelecimento do currency board –, seria o primeiro passo para a dolarização da economia. O SR. EDUARDO SUPLICY (Bloco/PT - SP) – Permita-me, Senador Roberto Requião. Gostaria de recordar com maior precisão, porque me lembro de ter dialogado com o ex-presidente Chico Lopes. Depois, ele repetiu e confirmou isto perante a CPI. Francisco Lopes mencionou que, na oportunidade em que exerceu a presidência do Banco Central, ouviu as proposições de representantes do Fundo Monetário Internacional e do Governo dos Estados Unidos no sentido de que o Brasil instituísse o conselho da moeda, o currency board ."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0129::Posição no trabalho",
+   "unit_id": "S0129",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-03",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 864,
+     "fim_corpo": 1882,
+     "trecho": "Os prós e contras da dolarização\". Ora, Sr. Presidente, essa proposta, rebatida ontem mesmo pelo Governo Fernando de la Rúa – ele ratificou seu posicionamento contrário à dolarização da economia -, merece séria reflexão por parte do Senado Federal. Disse Pablo Gerchunoff, Chefe de gabinete do Ministro da Economia, José Luiz Machinea: \"não estamos a favor da dolarização\". No entanto, é preciso nos darmos conta da existência de alguns fatos de grande importância, tais como: há cerca de dois anos, o Presidente Carlos Menem, da Argentina, chegou a propor ao Governo brasileiro que pensasse na possibilidade de, ambos, dolarizarem suas economias. Há um mês, o governo do Equador resolveu, num ato de desespero, dolarizar a sua economia, abandonando a própria moeda. Isso causou extraordinária movimentação popular. Nas ruas, houve mobilização e manifestação dos índios, dos trabalhadores e, inclusive, de membros das Forças Armadas, que, afinal, derrubaram o Presidente que havia anunciado a dolarização."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0129::Raça e etnia",
+   "unit_id": "S0129",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-03",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "índios",
+     "forma_encontrada": "índios",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "índios",
+     "forma_encontrada": "Índios",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "indígena",
+     "forma_encontrada": "indígena",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "índios",
+     "forma_encontrada": "índios",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 864,
+     "fim_corpo": 1882,
+     "trecho": "Os prós e contras da dolarização\". Ora, Sr. Presidente, essa proposta, rebatida ontem mesmo pelo Governo Fernando de la Rúa – ele ratificou seu posicionamento contrário à dolarização da economia -, merece séria reflexão por parte do Senado Federal. Disse Pablo Gerchunoff, Chefe de gabinete do Ministro da Economia, José Luiz Machinea: \"não estamos a favor da dolarização\". No entanto, é preciso nos darmos conta da existência de alguns fatos de grande importância, tais como: há cerca de dois anos, o Presidente Carlos Menem, da Argentina, chegou a propor ao Governo brasileiro que pensasse na possibilidade de, ambos, dolarizarem suas economias. Há um mês, o governo do Equador resolveu, num ato de desespero, dolarizar a sua economia, abandonando a própria moeda. Isso causou extraordinária movimentação popular. Nas ruas, houve mobilização e manifestação dos índios, dos trabalhadores e, inclusive, de membros das Forças Armadas, que, afinal, derrubaram o Presidente que havia anunciado a dolarização."
+    },
+    {
+     "inicio_corpo": 1119,
+     "fim_corpo": 2066,
+     "trecho": "Disse Pablo Gerchunoff, Chefe de gabinete do Ministro da Economia, José Luiz Machinea: \"não estamos a favor da dolarização\". No entanto, é preciso nos darmos conta da existência de alguns fatos de grande importância, tais como: há cerca de dois anos, o Presidente Carlos Menem, da Argentina, chegou a propor ao Governo brasileiro que pensasse na possibilidade de, ambos, dolarizarem suas economias. Há um mês, o governo do Equador resolveu, num ato de desespero, dolarizar a sua economia, abandonando a própria moeda. Isso causou extraordinária movimentação popular. Nas ruas, houve mobilização e manifestação dos índios, dos trabalhadores e, inclusive, de membros das Forças Armadas, que, afinal, derrubaram o Presidente que havia anunciado a dolarização. O Presidente da Confederação dos Índios da América, no Equador, liderou um grande movimento popular – lá, 40% da população é indígena ou originária da América, como eles se denominam."
+    },
+    {
+     "inicio_corpo": 1119,
+     "fim_corpo": 2066,
+     "trecho": "Disse Pablo Gerchunoff, Chefe de gabinete do Ministro da Economia, José Luiz Machinea: \"não estamos a favor da dolarização\". No entanto, é preciso nos darmos conta da existência de alguns fatos de grande importância, tais como: há cerca de dois anos, o Presidente Carlos Menem, da Argentina, chegou a propor ao Governo brasileiro que pensasse na possibilidade de, ambos, dolarizarem suas economias. Há um mês, o governo do Equador resolveu, num ato de desespero, dolarizar a sua economia, abandonando a própria moeda. Isso causou extraordinária movimentação popular. Nas ruas, houve mobilização e manifestação dos índios, dos trabalhadores e, inclusive, de membros das Forças Armadas, que, afinal, derrubaram o Presidente que havia anunciado a dolarização. O Presidente da Confederação dos Índios da América, no Equador, liderou um grande movimento popular – lá, 40% da população é indígena ou originária da América, como eles se denominam."
+    },
+    {
+     "inicio_corpo": 1643,
+     "fim_corpo": 2536,
+     "trecho": "Isso causou extraordinária movimentação popular. Nas ruas, houve mobilização e manifestação dos índios, dos trabalhadores e, inclusive, de membros das Forças Armadas, que, afinal, derrubaram o Presidente que havia anunciado a dolarização. O Presidente da Confederação dos Índios da América, no Equador, liderou um grande movimento popular – lá, 40% da população é indígena ou originária da América, como eles se denominam. Eles protestaram veementemente e ocuparam a praça diante do palácio. Acompanhados de oficiais das Forças Armadas, tomaram o palácio, levando o Presidente a renunciar. Poucos dias depois, eis que a junta militar resolve dar posse ao Vice-Presidente e ao Congresso Nacional como que para constitucionalizar a transferência do cargo para o Vice-Presidente. No entanto, a liderança dos índios considerou que houve uma inadequação, uma transferência de poder insatisfatória."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0130::Administração pública",
+   "unit_id": "S0130",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-03",
+   "orador": "Ademir Andrade",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "prefeituras",
+     "forma_encontrada": "prefeituras",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeituras",
+     "forma_encontrada": "Prefeituras",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeitura",
+     "forma_encontrada": "Prefeitura",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 848,
+     "trecho": "O SR. ADEMIR ANDRADE (Bloco/PSB - PA. Pronuncia o seguinte discurso. Sem revisão do orador.) - Sr. Presidente, Srªs e Srs. Senadores, após dois anos de funcionamento do Fundef, torna-se inegável reconhecer o acerto da criação desse Fundo, o qual possibilitou maior qualificação do ensino fundamental, especialmente quando são criados mecanismos para estabelecer melhoria das condições de trabalho do professor e a equalização na aplicação dos recursos para a educação no nível obrigatório. Observa-se, porém, a necessidade de correções pontuais na lei, para que o funcionamento do Fundef ocorra com maior eficácia. E o Fundef, diga-se de passagem, que se tornou, na maior parte do País, a maior fonte de renda das prefeituras municipais, foi aprovado pela unanimidade do Congresso Nacional, inclusive com a participação da Oposição."
+    },
+    {
+     "inicio_corpo": 18357,
+     "fim_corpo": 19484,
+     "trecho": "Apresento este projeto, Sr. Presidente, no momento em que o Fundef está sendo comentado em todos os jornais do nosso País; está havendo divulgação, questionamentos, enfim, uma irregularidade generalizada está ocorrendo com os recursos do fundo de educação para o ensino público de primeiro grau. O jornal O Globo, do dia 16 de janeiro, traz uma tabela dos Estados brasileiros e do número de alunos matriculados, alunos informados e a realidade das informações, cujo título é: “Conheça a auditoria do MEC.” É evidente que essa auditoria não foi feita no País inteiro, ela foi feita por amostragem em alguns Municípios. O título da matéria é: “Os fantasmas do ensino público”, ou seja, está sendo constatado que inúmeras Prefeituras em todo o Brasil criam alunos que não existem, mandam uma demonstração de matrícula, o que é outro problema, para o Ministério da Educação, e, quando o Ministério da Educação vai verificar, esses alunos não existem, são fictícios, porque, à medida que tem maior número de alunos, mais dinheiro o Prefeito recebe, considerando que ele recebe R$315,00 por aluno/ano."
+    },
+    {
+     "inicio_corpo": 19006,
+     "fim_corpo": 19641,
+     "trecho": "O título da matéria é: “Os fantasmas do ensino público”, ou seja, está sendo constatado que inúmeras Prefeituras em todo o Brasil criam alunos que não existem, mandam uma demonstração de matrícula, o que é outro problema, para o Ministério da Educação, e, quando o Ministério da Educação vai verificar, esses alunos não existem, são fictícios, porque, à medida que tem maior número de alunos, mais dinheiro o Prefeito recebe, considerando que ele recebe R$315,00 por aluno/ano. Então, se ele puser mais 100 alunos, são mais R$31.500,00 que ele recebe a mais. E isso para uma Prefeitura do interior é uma grande quantidade de recursos."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0130::Educação",
+   "unit_id": "S0130",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-03",
+   "orador": "Ademir Andrade",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "Escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4897,
+     "fim_corpo": 5769,
+     "trecho": "Isso gera uma distorção que faz com que os Estados levem vantagem, enquanto os Municípios são prejudicados. De fato, é impossível contar com os dados das matrículas atualizados logo no início de cada ano. Contudo, cumpre efetuar as compensações de acordo com as matrículas do ano em curso, naturalmente quando essas estiverem disponíveis, ainda que no segundo semestre. Não se pode é continuar pagando, durante todo o ano, o número de matrículas efetivadas, pois, praticamente, quando terminar dezembro, estar-se-á pagando a matrícula contabilizada há dois anos, uma vez que o registro se deu no início do ano anterior. Caso contrário, os entes federados que fizerem um esforço especial para matricular os estudantes em suas escolas não receberão, no ano correspondente, os recursos devidos, relativos à disponibilidade per capita no âmbito de cada Estado."
+    },
+    {
+     "inicio_corpo": 5282,
+     "fim_corpo": 6211,
+     "trecho": "Não se pode é continuar pagando, durante todo o ano, o número de matrículas efetivadas, pois, praticamente, quando terminar dezembro, estar-se-á pagando a matrícula contabilizada há dois anos, uma vez que o registro se deu no início do ano anterior. Caso contrário, os entes federados que fizerem um esforço especial para matricular os estudantes em suas escolas não receberão, no ano correspondente, os recursos devidos, relativos à disponibilidade per capita no âmbito de cada Estado. Conseqüentemente, ao ampliar a oferta de vagas, faz-se em detrimento da qualidade, já que o valor aluno/ano baixa enormemente. Para corrigir essa distorção, estamos propondo a inclusão, no art. 2º da Lei, de um novo parágrafo, com a seguinte redação. § 7º. Antes de findo cada ano, serão promovidas as compensações na distribuição dos recursos do Fundo com base nos dados do Censo Escolar do ano correspondente."
+    },
+    {
+     "inicio_corpo": 10749,
+     "fim_corpo": 11638,
+     "trecho": "Há, inclusive, questionamentos no Supremo Tribunal Federal. Estamos buscando uma forma de superar qualquer espécie de questionamento por parte dos Prefeitos e Governadores. Outro ponto estamos modificando. A sanção prevista na lei pelo não cumprimento de alguma de suas determinações, embora bastante rigorosa, pois prevê a intervenção nos Estados e Municípios, esbarra em limites constitucionais, uma vez que não pode ferir o princípio da autonomia federativa e nem extrapolar aquilo que é atribuído pela Constituição Federal aos entes federados. Entretanto, entendemos de maneira diferente. Se criamos uma lei federal, estabelecendo um fundo para a educação, os recursos serão tirados dos próprios Estados e Municípios, com complementação do Governo Federal, para atingir-se o objetivo, que é permitir uma educação digna a todo aluno que esteja na escola."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0130::Escolaridade e letramento",
+   "unit_id": "S0130",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-03",
+   "orador": "Ademir Andrade",
+   "n_ocorrencias_no_par": 26,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 20,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "aluno",
+     "forma_encontrada": "aluno",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "aluno",
+     "forma_encontrada": "aluno",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "estudantes",
+     "forma_encontrada": "estudantes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "aluno",
+     "forma_encontrada": "aluno",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "aluno",
+     "forma_encontrada": "aluno",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "aluno",
+     "forma_encontrada": "aluno",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "aluno",
+     "forma_encontrada": "aluno",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "estudantes",
+     "forma_encontrada": "estudantes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "aluno",
+     "forma_encontrada": "aluno",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2093,
+     "fim_corpo": 2886,
+     "trecho": "É grande, pois, o número de municípios que não obedecem a previsões legais. No Pará, em levantamento feito no ano passado, de 143 municípios existentes, apenas 69 criaram os referidos Conselhos de Acompanhamento, ou seja, menos da metade. É, então, com o objetivo de promover as modificações necessárias na Lei que criou o Fundef, de forma a torná-lo mais eficiente, que estamos propondo ao Congresso Nacional um projeto de lei que modifica a atual legislação, aperfeiçoando e corrigindo os seus erros. A distorção que vem ocorrendo pela não observância do valor mínimo nacional por aluno, considerando que, de acordo com a regulamentação da lei pelo Decreto nº 2.264, de 1997, os dados de arrecadação e do número de matrículas computados são de anos diferentes."
+    },
+    {
+     "inicio_corpo": 2169,
+     "fim_corpo": 3123,
+     "trecho": "No Pará, em levantamento feito no ano passado, de 143 municípios existentes, apenas 69 criaram os referidos Conselhos de Acompanhamento, ou seja, menos da metade. É, então, com o objetivo de promover as modificações necessárias na Lei que criou o Fundef, de forma a torná-lo mais eficiente, que estamos propondo ao Congresso Nacional um projeto de lei que modifica a atual legislação, aperfeiçoando e corrigindo os seus erros. A distorção que vem ocorrendo pela não observância do valor mínimo nacional por aluno, considerando que, de acordo com a regulamentação da lei pelo Decreto nº 2.264, de 1997, os dados de arrecadação e do número de matrículas computados são de anos diferentes. Considera-se o número de matrículas efetivadas no ano anterior. Ou seja: o Fundef é uma lei que estabeleceu que cada Município e cada Estado brasileiro receberá um valor mínimo por aluno matriculado, de acordo com dados do ano anterior."
+    },
+    {
+     "inicio_corpo": 2332,
+     "fim_corpo": 3317,
+     "trecho": "É, então, com o objetivo de promover as modificações necessárias na Lei que criou o Fundef, de forma a torná-lo mais eficiente, que estamos propondo ao Congresso Nacional um projeto de lei que modifica a atual legislação, aperfeiçoando e corrigindo os seus erros. A distorção que vem ocorrendo pela não observância do valor mínimo nacional por aluno, considerando que, de acordo com a regulamentação da lei pelo Decreto nº 2.264, de 1997, os dados de arrecadação e do número de matrículas computados são de anos diferentes. Considera-se o número de matrículas efetivadas no ano anterior. Ou seja: o Fundef é uma lei que estabeleceu que cada Município e cada Estado brasileiro receberá um valor mínimo por aluno matriculado, de acordo com dados do ano anterior. Assim, se o Estado tem um milhão de estudantes no Primeiro Grau, ele receberá uma importância de R$315,00 por aluno/ano, de acordo com o número de matrículas que ele apresentou no ano anterior."
+    },
+    {
+     "inicio_corpo": 2611,
+     "fim_corpo": 3317,
+     "trecho": "A distorção que vem ocorrendo pela não observância do valor mínimo nacional por aluno, considerando que, de acordo com a regulamentação da lei pelo Decreto nº 2.264, de 1997, os dados de arrecadação e do número de matrículas computados são de anos diferentes. Considera-se o número de matrículas efetivadas no ano anterior. Ou seja: o Fundef é uma lei que estabeleceu que cada Município e cada Estado brasileiro receberá um valor mínimo por aluno matriculado, de acordo com dados do ano anterior. Assim, se o Estado tem um milhão de estudantes no Primeiro Grau, ele receberá uma importância de R$315,00 por aluno/ano, de acordo com o número de matrículas que ele apresentou no ano anterior."
+    },
+    {
+     "inicio_corpo": 3123,
+     "fim_corpo": 3949,
+     "trecho": "Assim, se o Estado tem um milhão de estudantes no Primeiro Grau, ele receberá uma importância de R$315,00 por aluno/ano, de acordo com o número de matrículas que ele apresentou no ano anterior. O mesmo se faz com relação aos municípios. Esse valor, ainda que, no nosso entendimento, seja baixo, irreal, de qualquer forma, permitiu uma equalização e uma melhoria das condições de ensino, basicamente nas Regiões Norte e Nordeste. Considerando que ainda não foram disponibilizados dados do ano de 1999, mostraremos aqui algumas distorções baseadas em dados do ano anterior. Passo, pois, a dar exemplos de como essa distorção ocorre. Por exemplo, pelos dados de 1999, o Estado de Minas Gerais recebeu, por aluno matriculado, R$419,00/ano, ao passo que os municípios mineiros receberam R$216,00/ano."
+    },
+    {
+     "inicio_corpo": 3317,
+     "fim_corpo": 4104,
+     "trecho": "O mesmo se faz com relação aos municípios. Esse valor, ainda que, no nosso entendimento, seja baixo, irreal, de qualquer forma, permitiu uma equalização e uma melhoria das condições de ensino, basicamente nas Regiões Norte e Nordeste. Considerando que ainda não foram disponibilizados dados do ano de 1999, mostraremos aqui algumas distorções baseadas em dados do ano anterior. Passo, pois, a dar exemplos de como essa distorção ocorre. Por exemplo, pelos dados de 1999, o Estado de Minas Gerais recebeu, por aluno matriculado, R$419,00/ano, ao passo que os municípios mineiros receberam R$216,00/ano. Temos outro exemplo no Pará. O Governo do Estado do Pará recebeu R$428,00/aluno/ano, ao passo que os municípios paraenses receberam apenas R$198,00/aluno."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0130::Idade",
+   "unit_id": "S0130",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-03",
+   "orador": "Ademir Andrade",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 20558,
+     "fim_corpo": 21364,
+     "trecho": "Logo o Piauí. Imaginem V. Exªs como funciona quando o Prefeito não é obrigado a criar o Conselho e o Plano de Remuneração. Aqui tem outras manchetes: “Metade dos Municípios do Pará usa mal o Fundef”. E aí aparece até uma caricatura de um Prefeito tomando sorvete e comendo galinha e perguntando que desvio, porque não usa o recurso para a educação. Metade dos Municípios têm queixas feitas ao Tribunal de Contas da União. “Dossiê do Sintepp denuncia desvios de verbas do Fundef”; Folha de S. Paulo: “Dossiê mostra irregularidades no Fundef”. O Liberal: “Sintepp vê fraude no Fundef”. Enfim, há um descalabro total na aplicação desses recursos que são tão importantes para o futuro da nossa Pátria, porque o futuro do Brasil depende da educação do seu povo, das suas crianças principalmente."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0130::Macrorregião",
+   "unit_id": "S0130",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-03",
+   "orador": "Ademir Andrade",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2886,
+     "fim_corpo": 3552,
+     "trecho": "Considera-se o número de matrículas efetivadas no ano anterior. Ou seja: o Fundef é uma lei que estabeleceu que cada Município e cada Estado brasileiro receberá um valor mínimo por aluno matriculado, de acordo com dados do ano anterior. Assim, se o Estado tem um milhão de estudantes no Primeiro Grau, ele receberá uma importância de R$315,00 por aluno/ano, de acordo com o número de matrículas que ele apresentou no ano anterior. O mesmo se faz com relação aos municípios. Esse valor, ainda que, no nosso entendimento, seja baixo, irreal, de qualquer forma, permitiu uma equalização e uma melhoria das condições de ensino, basicamente nas Regiões Norte e Nordeste."
+    },
+    {
+     "inicio_corpo": 2886,
+     "fim_corpo": 3552,
+     "trecho": "Considera-se o número de matrículas efetivadas no ano anterior. Ou seja: o Fundef é uma lei que estabeleceu que cada Município e cada Estado brasileiro receberá um valor mínimo por aluno matriculado, de acordo com dados do ano anterior. Assim, se o Estado tem um milhão de estudantes no Primeiro Grau, ele receberá uma importância de R$315,00 por aluno/ano, de acordo com o número de matrículas que ele apresentou no ano anterior. O mesmo se faz com relação aos municípios. Esse valor, ainda que, no nosso entendimento, seja baixo, irreal, de qualquer forma, permitiu uma equalização e uma melhoria das condições de ensino, basicamente nas Regiões Norte e Nordeste."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0130::Posição no trabalho",
+   "unit_id": "S0130",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-03",
+   "orador": "Ademir Andrade",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "autônomo",
+     "forma_encontrada": "autônomo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12770,
+     "fim_corpo": 13609,
+     "trecho": "Ressalte-se, principalmente, que se alargaram e se especificaram as hipóteses de condutas a serem consideradas ilícitas, como o emprego irregular de verbas ou rendas públicas com a correspondente sanção penal, inclusive, se for o caso, com a incidência de crime de responsabilidade. Ademais, o mero fato de se revogar o parágrafo único do art. 10 e de se estabelecerem sanções para o descumprimento genérico da lei já amplia em demasia as possibilidades de cumprimento dela, afinal de contas, a sanção aplica-se não somente aos casos de descumprimento dos incisos do art. 10, como atualmente acontece; mas, ao contrário, ao se estabelecer um dispositivo autônomo, abrangente de todos os dispositivos da legislação, inequivocamente, todas as suas regras serão melhor observadas face à possibilidade de sanção."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0130::Renda e classe",
+   "unit_id": "S0130",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-03",
+   "orador": "Ademir Andrade",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "carentes",
+     "forma_encontrada": "carentes",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5769,
+     "fim_corpo": 6845,
+     "trecho": "Conseqüentemente, ao ampliar a oferta de vagas, faz-se em detrimento da qualidade, já que o valor aluno/ano baixa enormemente. Para corrigir essa distorção, estamos propondo a inclusão, no art. 2º da Lei, de um novo parágrafo, com a seguinte redação. § 7º. Antes de findo cada ano, serão promovidas as compensações na distribuição dos recursos do Fundo com base nos dados do Censo Escolar do ano correspondente. Outro problema constatado e que procuramos corrigir na proposição ora apresentada diz respeito à regularidade nas transferências da complementação federal, que, na forma como está prevista no Decreto que regulamenta a Lei do Fundef, assegura o repasse da complementação somente no final de cada exercício e não permite que esta complementação seja reajustada ao longo do mesmo exercício. Isto vem provocando, especialmente nas áreas mais carentes, que dependem mais das complementações da União, uma irregularidade na distribuição temporal dos recursos, o que compromete a linearidade na oferta do serviço educacional."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0131::Domicílio e arranjo familiar",
+   "unit_id": "S0131",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-03",
+   "orador": "Geraldo Cândido",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2135,
+     "fim_corpo": 3735,
+     "trecho": "As empregadas domésticas ainda são discriminadas pelas leis trabalhistas brasileiras. Colocadas à parte da Consolidação das Leis do Trabalho (CLT), não possuem até hoje direitos básicos, como o limite de jornada de oito horas de trabalho e, somente a partir de 1988, com a Constituição atual, passaram a desfrutar da licença-maternidade, aviso prévio e irredutibilidade de salários. Assim, o parágrafo único do art. 7º da Constituição Federal determina que são assegurados à categoria dos trabalhadores domésticos os direitos previstos nos seguintes incisos: \"IV – salário mínimo, fixado em lei, nacionalmente unificado, capaz de atender às suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes periódicos que lhe preservem o poder aquisitivo, sendo vedada sua vinculação para qualquer fim; VI – irredutibilidade de salário , salvo o disposto em convenção ou acordo coletivo; VIII – décimo terceiro salário com base na remuneração integral ou no valor da aposentadoria; XV – repouso semanal remunerado , preferencialmente aos domingos; XVII – gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal; XVIII – licença à gestante , sem prejuízo do emprego e do salário, com a duração de cento e vinte dias; XIX- licença-paternidade, nos termos fixados em lei; XXI – aviso prévio proporcional ao tempo de serviço , sendo no mínimo de trinta dias, nos termos da lei; XXIV- aposentadoria."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0131::Gênero",
+   "unit_id": "S0131",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-03",
+   "orador": "Geraldo Cândido",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "mulheres",
+     "forma_encontrada": "mulheres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 636,
+     "trecho": "O SR. GERALDO CÂNDIDO (Bloco/PT – RJ. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, em meu pronunciamento, quero fazer a defesa de uma categoria de trabalhadores do nosso País, uma categoria numerosíssima e extremamente explorada e prejudicada nos seus direitos. Trata-se dos trabalhadores domésticos, constituída por expressivo número – cerca de três milhões de pessoas, segundo os sindicatos, e mais de quinhentas mil pessoas, segundo a Previdência Social –, representando a segunda atividade profissional exercida por mulheres no Brasil, superadas apenas pelas trabalhadoras rurais."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0131::Posição no trabalho",
+   "unit_id": "S0131",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-03",
+   "orador": "Geraldo Cândido",
+   "n_ocorrencias_no_par": 43,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 37,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 313,
+     "trecho": "O SR. GERALDO CÂNDIDO (Bloco/PT – RJ. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, em meu pronunciamento, quero fazer a defesa de uma categoria de trabalhadores do nosso País, uma categoria numerosíssima e extremamente explorada e prejudicada nos seus direitos."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 636,
+     "trecho": "O SR. GERALDO CÂNDIDO (Bloco/PT – RJ. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, em meu pronunciamento, quero fazer a defesa de uma categoria de trabalhadores do nosso País, uma categoria numerosíssima e extremamente explorada e prejudicada nos seus direitos. Trata-se dos trabalhadores domésticos, constituída por expressivo número – cerca de três milhões de pessoas, segundo os sindicatos, e mais de quinhentas mil pessoas, segundo a Previdência Social –, representando a segunda atividade profissional exercida por mulheres no Brasil, superadas apenas pelas trabalhadoras rurais."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 636,
+     "trecho": "O SR. GERALDO CÂNDIDO (Bloco/PT – RJ. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, em meu pronunciamento, quero fazer a defesa de uma categoria de trabalhadores do nosso País, uma categoria numerosíssima e extremamente explorada e prejudicada nos seus direitos. Trata-se dos trabalhadores domésticos, constituída por expressivo número – cerca de três milhões de pessoas, segundo os sindicatos, e mais de quinhentas mil pessoas, segundo a Previdência Social –, representando a segunda atividade profissional exercida por mulheres no Brasil, superadas apenas pelas trabalhadoras rurais."
+    },
+    {
+     "inicio_corpo": 313,
+     "fim_corpo": 1242,
+     "trecho": "Trata-se dos trabalhadores domésticos, constituída por expressivo número – cerca de três milhões de pessoas, segundo os sindicatos, e mais de quinhentas mil pessoas, segundo a Previdência Social –, representando a segunda atividade profissional exercida por mulheres no Brasil, superadas apenas pelas trabalhadoras rurais. Mesmo representando tamanha força de trabalho, o reconhecimento da profissão, através da Constituição, somente foi alcançado por meio de muita luta para vencer o preconceito que até hoje existe, quando se fala dos direitos dessa categoria. A regulamentação, por meio de lei ordinária, é um processo que vem se arrastando há vários anos no Congresso Nacional. O projeto de lei de autoria da então Deputada Federal Benedita da Silva, apresentado na Câmara dos Deputados em 1989, que disciplina o regime de trabalho da categoria dos trabalhadores domésticos e tramita há mais de onze anos no Congresso."
+    },
+    {
+     "inicio_corpo": 636,
+     "fim_corpo": 1585,
+     "trecho": "Mesmo representando tamanha força de trabalho, o reconhecimento da profissão, através da Constituição, somente foi alcançado por meio de muita luta para vencer o preconceito que até hoje existe, quando se fala dos direitos dessa categoria. A regulamentação, por meio de lei ordinária, é um processo que vem se arrastando há vários anos no Congresso Nacional. O projeto de lei de autoria da então Deputada Federal Benedita da Silva, apresentado na Câmara dos Deputados em 1989, que disciplina o regime de trabalho da categoria dos trabalhadores domésticos e tramita há mais de onze anos no Congresso. O objetivo da proposição é equiparar as domésticas aos demais trabalhadores, estendendo-lhes os benefícios da Consolidação das Leis do Trabalho (CLT), sem nenhuma distinção que gere preconceito e seguindo o princípio da isonomia de direitos, que prevê a igualdade para todos perante a lei, assegurada como princípio constitucional (art."
+    },
+    {
+     "inicio_corpo": 876,
+     "fim_corpo": 1816,
+     "trecho": "A regulamentação, por meio de lei ordinária, é um processo que vem se arrastando há vários anos no Congresso Nacional. O projeto de lei de autoria da então Deputada Federal Benedita da Silva, apresentado na Câmara dos Deputados em 1989, que disciplina o regime de trabalho da categoria dos trabalhadores domésticos e tramita há mais de onze anos no Congresso. O objetivo da proposição é equiparar as domésticas aos demais trabalhadores, estendendo-lhes os benefícios da Consolidação das Leis do Trabalho (CLT), sem nenhuma distinção que gere preconceito e seguindo o princípio da isonomia de direitos, que prevê a igualdade para todos perante a lei, assegurada como princípio constitucional (art. 5º da Constituição Federal). Propõe o referido projeto, por exemplo, que aos trabalhadores domésticos sejam estendidos direitos sociais aos quais a grande maioria dos trabalhadores já tem acesso, como o FGTS e o seguro-desemprego."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0132::Escolaridade e letramento",
+   "unit_id": "S0132",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-04",
+   "orador": "Leomar Quintanilha",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "analfabetismo",
+     "forma_encontrada": "analfabetismo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 678,
+     "fim_corpo": 1496,
+     "trecho": "O Norte, o Nordeste e o Centro-Oeste, visivelmente observados ao longo da História do Brasil, não receberam investimentos maciços de recursos que lhes permitissem organizar suas infra-estruturas e economias, promover um processo efetivo de desenvolvimento, oferecer oportunidades à sua população e, com seu esforço próprio e sua competência, nas mais diversas atividades, desenvolver um trabalho que robustecesse a economia e naturalmente oferecesse melhores condições de vida ao seu povo. Por motivos claros e óbvios, os fundos constitucionais representam um fator importante na tentativa de minimizar as diferenças regionais e mitigar os sofrimentos das pessoas contempladas com esses recursos, com o objetivo de combater a pobreza, a atividade produtiva desassistida, a mortalidade infantil, o analfabetismo."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0132::Macrorregião",
+   "unit_id": "S0132",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-04",
+   "orador": "Leomar Quintanilha",
+   "n_ocorrencias_no_par": 15,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 9,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desenvolvimento regional",
+     "forma_encontrada": "desenvolvimento regional",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 274,
+     "trecho": "O SR. LEOMAR QUINTANILHA (PPB - TO. Pronuncia o seguinte discurso. Sem revisão do orador) - Sr. Presidente, Srs. Senadores, é minha intenção fazer alguns comentários sobre os fundos de financiamento do Norte, do Nordeste e do Centro-Oeste criados pela Constituição de 1988."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 274,
+     "trecho": "O SR. LEOMAR QUINTANILHA (PPB - TO. Pronuncia o seguinte discurso. Sem revisão do orador) - Sr. Presidente, Srs. Senadores, é minha intenção fazer alguns comentários sobre os fundos de financiamento do Norte, do Nordeste e do Centro-Oeste criados pela Constituição de 1988."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1174,
+     "trecho": "O SR. LEOMAR QUINTANILHA (PPB - TO. Pronuncia o seguinte discurso. Sem revisão do orador) - Sr. Presidente, Srs. Senadores, é minha intenção fazer alguns comentários sobre os fundos de financiamento do Norte, do Nordeste e do Centro-Oeste criados pela Constituição de 1988. Certamente inspirados pelas imensas dificuldades regionais com o sofrimento das populações das regiões mais sofridas, isoladas e pobres deste País, os eminentes legisladores entenderam que, incluindo os fundos no texto constitucional, estariam viabilizando um mecanismo que viesse contribuir para mitigar as mazelas que afligem, que afligiam e que continuam afligindo as populações dessas Regiões. O Norte, o Nordeste e o Centro-Oeste, visivelmente observados ao longo da História do Brasil, não receberam investimentos maciços de recursos que lhes permitissem organizar suas infra-estruturas e economias, promover um processo efetivo de desenvolvimento, oferecer oportunidades à sua população e, com seu esforço próprio e sua competência, nas mais diversas atividades, desenvolver um trabalho que robustecesse a economia e naturalmente oferecesse melhores condições de vida ao seu povo."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1174,
+     "trecho": "O SR. LEOMAR QUINTANILHA (PPB - TO. Pronuncia o seguinte discurso. Sem revisão do orador) - Sr. Presidente, Srs. Senadores, é minha intenção fazer alguns comentários sobre os fundos de financiamento do Norte, do Nordeste e do Centro-Oeste criados pela Constituição de 1988. Certamente inspirados pelas imensas dificuldades regionais com o sofrimento das populações das regiões mais sofridas, isoladas e pobres deste País, os eminentes legisladores entenderam que, incluindo os fundos no texto constitucional, estariam viabilizando um mecanismo que viesse contribuir para mitigar as mazelas que afligem, que afligiam e que continuam afligindo as populações dessas Regiões. O Norte, o Nordeste e o Centro-Oeste, visivelmente observados ao longo da História do Brasil, não receberam investimentos maciços de recursos que lhes permitissem organizar suas infra-estruturas e economias, promover um processo efetivo de desenvolvimento, oferecer oportunidades à sua população e, com seu esforço próprio e sua competência, nas mais diversas atividades, desenvolver um trabalho que robustecesse a economia e naturalmente oferecesse melhores condições de vida ao seu povo."
+    },
+    {
+     "inicio_corpo": 1496,
+     "fim_corpo": 2184,
+     "trecho": "Os mecanismos criados por esse fundo constitucional destinam-se a estimular o setor produtivo, encorajando, por conseguinte, a iniciativa privada. Esse processo fez com que um rasgo de esperança pairasse sobre as populações dessas regiões que começaram a desenvolver atividades, ainda que com dificuldades, como o isolamento em que vivem, a inexistência de comunicação adequada, de assistência à saúde e à educação e de serviços de transporte. Mesmo assim, os empreendimentos começaram a surgir nas mais diversas atividades nos diversos Estados que integram as regiões contempladas por esse programa de financiamento dos fundos constitucionais das Regiões Norte, Nordeste e Centro-Oeste."
+    },
+    {
+     "inicio_corpo": 1496,
+     "fim_corpo": 2184,
+     "trecho": "Os mecanismos criados por esse fundo constitucional destinam-se a estimular o setor produtivo, encorajando, por conseguinte, a iniciativa privada. Esse processo fez com que um rasgo de esperança pairasse sobre as populações dessas regiões que começaram a desenvolver atividades, ainda que com dificuldades, como o isolamento em que vivem, a inexistência de comunicação adequada, de assistência à saúde e à educação e de serviços de transporte. Mesmo assim, os empreendimentos começaram a surgir nas mais diversas atividades nos diversos Estados que integram as regiões contempladas por esse programa de financiamento dos fundos constitucionais das Regiões Norte, Nordeste e Centro-Oeste."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0132::Renda e classe",
+   "unit_id": "S0132",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-04",
+   "orador": "Leomar Quintanilha",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 678,
+     "trecho": "O SR. LEOMAR QUINTANILHA (PPB - TO. Pronuncia o seguinte discurso. Sem revisão do orador) - Sr. Presidente, Srs. Senadores, é minha intenção fazer alguns comentários sobre os fundos de financiamento do Norte, do Nordeste e do Centro-Oeste criados pela Constituição de 1988. Certamente inspirados pelas imensas dificuldades regionais com o sofrimento das populações das regiões mais sofridas, isoladas e pobres deste País, os eminentes legisladores entenderam que, incluindo os fundos no texto constitucional, estariam viabilizando um mecanismo que viesse contribuir para mitigar as mazelas que afligem, que afligiam e que continuam afligindo as populações dessas Regiões."
+    },
+    {
+     "inicio_corpo": 678,
+     "fim_corpo": 1496,
+     "trecho": "O Norte, o Nordeste e o Centro-Oeste, visivelmente observados ao longo da História do Brasil, não receberam investimentos maciços de recursos que lhes permitissem organizar suas infra-estruturas e economias, promover um processo efetivo de desenvolvimento, oferecer oportunidades à sua população e, com seu esforço próprio e sua competência, nas mais diversas atividades, desenvolver um trabalho que robustecesse a economia e naturalmente oferecesse melhores condições de vida ao seu povo. Por motivos claros e óbvios, os fundos constitucionais representam um fator importante na tentativa de minimizar as diferenças regionais e mitigar os sofrimentos das pessoas contempladas com esses recursos, com o objetivo de combater a pobreza, a atividade produtiva desassistida, a mortalidade infantil, o analfabetismo."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0132::Urbano e rural",
+   "unit_id": "S0132",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-04",
+   "orador": "Leomar Quintanilha",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12713,
+     "fim_corpo": 13535,
+     "trecho": "A Europa toda protege a sua agricultura, porque ela é importante, é estratégica para o equilíbrio sócio-econômico de qualquer nação. Por essa razão, é preciso que nos dediquemos mais à análise desta medida provisória, para que possamos, quem sabe, oferecer alguma alternativa para melhorá-la e aprimorá-la, a fim de que não continue penalizando o setor primário brasileiro. Ela traz uma inovação que considero interessante, que é o bônus pela adimplência, que é um estímulo, um prêmio para quem consegue pagar suas dívidas em dia. Parece que a inadimplência ainda é o estigma do setor primário. Nunca ouvi falar que é mau pagador aquele que tem dinheiro. Via de regra, e é o que ocorre basicamente no setor primário, quando os financiamentos não são resgatados, isso ocorre porque o produtor rural não tem dinheiro."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0133::Educação",
+   "unit_id": "S0133",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-07",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 301,
+     "trecho": "O SR. LÚCIO ALCÂNTARA (PSDB - CE. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, desejo registrar a viagem que o Presidente Fernando Henrique Cardoso faz hoje a Parintins, no Estado do Amazonas, a fim de abrir solenemente em todo o País o ano escolar."
+    },
+    {
+     "inicio_corpo": 474,
+     "fim_corpo": 1213,
+     "trecho": "Se com relação ao terceiro grau, por exemplo, o Governo ainda tem muito a fazer – acredito que as universidades estão recebendo pouco apoio do Governo Federal –, na área do ensino fundamental os avanços são extraordinários. Os números falam por si mesmos, os dados são muito eloqüentes. O Ministro da Educação, Paulo Renato, conseguiu mobilizar o País em torno do ensino fundamental (Prefeitos, Governadores, Secretários de Educação, a comunidade, sobretudo) e tem demonstrado um grande empenho em tratar dessa questão, que está a requerer uma ação definitiva do Governo. Os números anunciados para este ano: 73 milhões de livros para serem distribuídos a 33 milhões de alunos do ensino fundamental, matriculados em 170 mil escolas."
+    },
+    {
+     "inicio_corpo": 474,
+     "fim_corpo": 1278,
+     "trecho": "Se com relação ao terceiro grau, por exemplo, o Governo ainda tem muito a fazer – acredito que as universidades estão recebendo pouco apoio do Governo Federal –, na área do ensino fundamental os avanços são extraordinários. Os números falam por si mesmos, os dados são muito eloqüentes. O Ministro da Educação, Paulo Renato, conseguiu mobilizar o País em torno do ensino fundamental (Prefeitos, Governadores, Secretários de Educação, a comunidade, sobretudo) e tem demonstrado um grande empenho em tratar dessa questão, que está a requerer uma ação definitiva do Governo. Os números anunciados para este ano: 73 milhões de livros para serem distribuídos a 33 milhões de alunos do ensino fundamental, matriculados em 170 mil escolas. Praticamente, não há aluno fora da escola no ensino fundamental."
+    },
+    {
+     "inicio_corpo": 2288,
+     "fim_corpo": 3152,
+     "trecho": "Para exemplificar, a emenda constitucional e a lei que criaram o Fundo de Desenvolvimento do Ensino Fundamental – Fundef –, que tem sido alvo de alguns desmandos em alguns Estados e Municípios, numa situação absolutamente inaceitável – prefeitos malbaratando esses recursos, recursos destinados ao ensino fundamental, que são escassos e que, mesmo assim, os prefeitos gastam mal, aplicam mal ou são desonestos na aplicação desses recursos. Felizmente, a sociedade está alerta e cobra dos responsáveis a punição para esses maus administradores. Outro programa aprovado aqui foi o projeto de educação vinculado à renda mínima, com a participação dos municípios, que está sendo executado nacionalmente pelo Ministério da Educação e que visa a oferecer um estímulo financeiro aos municípios mais pobres do País, para que os pais mantenham seus filhos na escola."
+    },
+    {
+     "inicio_corpo": 3530,
+     "fim_corpo": 4091,
+     "trecho": "Esse desafio está sendo enfrentado pelo Governo em todos os seus níveis e pela sociedade brasileira, que se conscientizou de que a educação é essencial. Se não dermos condições aos nossos jovens, às nossas crianças, para enfrentar, com possibilidade de êxito, o mundo novo que se descortina, o Brasil será sempre uma nação injusta, subdesenvolvida e que não consegue realizar seu grande destino. Gostaria de registrar a grande simbologia existente na ida do Senhor Presidente da República ao Município de Parintins para a abertura oficial do ano escolar."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0133::Escolaridade e letramento",
+   "unit_id": "S0133",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-07",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "aluno",
+     "forma_encontrada": "aluno",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "analfabetos",
+     "forma_encontrada": "analfabetos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 301,
+     "fim_corpo": 1213,
+     "trecho": "Por mais rigorosos que sejamos na crítica ao Governo de Sua Excelência, ninguém deixará de lhe dar o crédito do grande avanço alcançado na área do ensino fundamental. Se com relação ao terceiro grau, por exemplo, o Governo ainda tem muito a fazer – acredito que as universidades estão recebendo pouco apoio do Governo Federal –, na área do ensino fundamental os avanços são extraordinários. Os números falam por si mesmos, os dados são muito eloqüentes. O Ministro da Educação, Paulo Renato, conseguiu mobilizar o País em torno do ensino fundamental (Prefeitos, Governadores, Secretários de Educação, a comunidade, sobretudo) e tem demonstrado um grande empenho em tratar dessa questão, que está a requerer uma ação definitiva do Governo. Os números anunciados para este ano: 73 milhões de livros para serem distribuídos a 33 milhões de alunos do ensino fundamental, matriculados em 170 mil escolas."
+    },
+    {
+     "inicio_corpo": 474,
+     "fim_corpo": 1278,
+     "trecho": "Se com relação ao terceiro grau, por exemplo, o Governo ainda tem muito a fazer – acredito que as universidades estão recebendo pouco apoio do Governo Federal –, na área do ensino fundamental os avanços são extraordinários. Os números falam por si mesmos, os dados são muito eloqüentes. O Ministro da Educação, Paulo Renato, conseguiu mobilizar o País em torno do ensino fundamental (Prefeitos, Governadores, Secretários de Educação, a comunidade, sobretudo) e tem demonstrado um grande empenho em tratar dessa questão, que está a requerer uma ação definitiva do Governo. Os números anunciados para este ano: 73 milhões de livros para serem distribuídos a 33 milhões de alunos do ensino fundamental, matriculados em 170 mil escolas. Praticamente, não há aluno fora da escola no ensino fundamental."
+    },
+    {
+     "inicio_corpo": 698,
+     "fim_corpo": 1596,
+     "trecho": "Os números falam por si mesmos, os dados são muito eloqüentes. O Ministro da Educação, Paulo Renato, conseguiu mobilizar o País em torno do ensino fundamental (Prefeitos, Governadores, Secretários de Educação, a comunidade, sobretudo) e tem demonstrado um grande empenho em tratar dessa questão, que está a requerer uma ação definitiva do Governo. Os números anunciados para este ano: 73 milhões de livros para serem distribuídos a 33 milhões de alunos do ensino fundamental, matriculados em 170 mil escolas. Praticamente, não há aluno fora da escola no ensino fundamental. Há um crescimento que já se reflete no ensino médio, que vai requerer um esforço adicional dos Estados e da própria União para criar novas vagas. É evidente que há ainda um percentual de analfabetos, pessoas que já ultrapassaram uma determinada idade e que estão sendo tratadas, também, por programas especiais."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0133::Idade",
+   "unit_id": "S0133",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-07",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2728,
+     "fim_corpo": 3530,
+     "trecho": "Felizmente, a sociedade está alerta e cobra dos responsáveis a punição para esses maus administradores. Outro programa aprovado aqui foi o projeto de educação vinculado à renda mínima, com a participação dos municípios, que está sendo executado nacionalmente pelo Ministério da Educação e que visa a oferecer um estímulo financeiro aos municípios mais pobres do País, para que os pais mantenham seus filhos na escola. Todo dia ouvimos o refrão: só podemos sair do subdesenvolvimento se educarmos nossas crianças, se formos capazes de abrir as janelas para que elas enxerguem e possam se inserir nesse admirável mundo novo, que já chegou, que é o mundo da Internet, da tecnologia, da informática, da comunicação, que requer aptidões especiais das pessoas, objetivando o mercado de trabalho."
+    },
+    {
+     "inicio_corpo": 2832,
+     "fim_corpo": 3926,
+     "trecho": "Outro programa aprovado aqui foi o projeto de educação vinculado à renda mínima, com a participação dos municípios, que está sendo executado nacionalmente pelo Ministério da Educação e que visa a oferecer um estímulo financeiro aos municípios mais pobres do País, para que os pais mantenham seus filhos na escola. Todo dia ouvimos o refrão: só podemos sair do subdesenvolvimento se educarmos nossas crianças, se formos capazes de abrir as janelas para que elas enxerguem e possam se inserir nesse admirável mundo novo, que já chegou, que é o mundo da Internet, da tecnologia, da informática, da comunicação, que requer aptidões especiais das pessoas, objetivando o mercado de trabalho. Esse desafio está sendo enfrentado pelo Governo em todos os seus níveis e pela sociedade brasileira, que se conscientizou de que a educação é essencial. Se não dermos condições aos nossos jovens, às nossas crianças, para enfrentar, com possibilidade de êxito, o mundo novo que se descortina, o Brasil será sempre uma nação injusta, subdesenvolvida e que não consegue realizar seu grande destino."
+    },
+    {
+     "inicio_corpo": 3152,
+     "fim_corpo": 3926,
+     "trecho": "Todo dia ouvimos o refrão: só podemos sair do subdesenvolvimento se educarmos nossas crianças, se formos capazes de abrir as janelas para que elas enxerguem e possam se inserir nesse admirável mundo novo, que já chegou, que é o mundo da Internet, da tecnologia, da informática, da comunicação, que requer aptidões especiais das pessoas, objetivando o mercado de trabalho. Esse desafio está sendo enfrentado pelo Governo em todos os seus níveis e pela sociedade brasileira, que se conscientizou de que a educação é essencial. Se não dermos condições aos nossos jovens, às nossas crianças, para enfrentar, com possibilidade de êxito, o mundo novo que se descortina, o Brasil será sempre uma nação injusta, subdesenvolvida e que não consegue realizar seu grande destino."
+    }
+   ]
+  }
+ ]
+}

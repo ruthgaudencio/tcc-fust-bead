@@ -1,0 +1,1052 @@
+{
+ "caso": "BEAD",
+ "lote": 52,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0231::Saúde",
+   "unit_id": "W0231",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Ernesto Falcon",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 993,
+     "fim_corpo": 1848,
+     "trecho": "Founded in 1990, EFF champions user privacy, free expression, and innovation through impact litigation, policy analysis, grassroots activism, and technology development. With over 35,000 dues-paying members and well over 1 million followers on social networks, we focus on promoting policies that benefit both creators and users of technology. My organization has been at the forefront of studying the future of broadband access in the high-speed market because without 21 st century ready connectivity , you are not a full participant in society. We have conducted in-depth research and produced publications on the issue from both a legal and technical perspective. For years , I have interview ed ISPs, both big and small, consultants, municipalities, cooperatives, financial experts, and advocates for schools, libraries, and telehealth."
+    },
+    {
+     "inicio_corpo": 6644,
+     "fim_corpo": 7590,
+     "trecho": "Federal policy now appropriately presumes that usage will always grow. Since the 1980s, consumer usage of the internet has grown by 21% on average every year and that rate of growth has only shown signs of increasing, not decreasing. 5 Using Openvault’s finding that average use in 2021 was 207 Mbps downstream and 16 Mbps upstream, applying a 21% annual growth places usage in 2026 as over 500 Mbps downstream and 40 Mbps upstream. By 2032, average use will be nearly 2 gi gabits downstream. 6 Even conservative estimates for demand in rural areas predict the need for gigabit speeds by 2029. 7 Crucially, downstream and upstream growth are not equivalent, with consumer need for upstream data growing at an even faster pace. As the pandemic underscored , people are moving toward remote socializing, remote learning, remote work, telehealth, and various other s ervices that require high upstream speed and capacity as well."
+    },
+    {
+     "inicio_corpo": 9916,
+     "fim_corpo": 10674,
+     "trecho": "Rural economies also increasingly require high quality, reliable broadband. Essential economic endeavors like agriculture, forestry, mining, and energy production are best suited to rural areas and, with increasing digitization, need greater speeds and capacity to remain competitive. Precision farming requires the use of ground sensors, drones, and satellite data to analyze the needs of the soil and monitor applications of water and nutrients on a foot -by-foot basis. 11 Beyond what is necessary for the future of work, drastically higher upstream speeds to the point of requiring symmetrical usage will be necessary for the future of person-to -person communication (telehealth, videoconferencin g, distance learning) and entertainment."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0231::Saúde e deficiência",
+   "unit_id": "W0231",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Ernesto Falcon",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "deaf",
+     "forma_encontrada": "de a f",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11761,
+     "fim_corpo": 12757,
+     "trecho": "Because usage will always grow, twenty years from now user demand could conservatively be in the realm of 6 gigabit per second symmetrical speeds. History Shows us That Overriding Local and State Power Has Not Promoted Equitable Distribution of Broadband Several proposals before the Subcommittee today, I believe, address parts of the puzzle to ensuring the successful implementation of BEAD, and I will suggest additional areas the Subcommittee should consider if it is to move a package to enhance BEAD’s chances of success. However, we should remember some of the lessons we have learned along the way here. Past deregulation efforts did not lead to equitable deployment of broadband, but rather gave us digital redlining problems even in areas that were completely prof itable to serve in the long run. In 2005, the Federal Communications Commission (FCC) made a foundational decision on how broadband competition policy would work with the entry of fiber to the home."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0231::Urbano e rural",
+   "unit_id": "W0231",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Ernesto Falcon",
+   "n_ocorrencias_no_par": 11,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 5,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2548,
+     "fim_corpo": 3236,
+     "trecho": "3 The Success of the Broadband Equity Access and Deployment (BEAD) Program is Critical to Our International Competitiveness The EFF’s goal in broadband access is focused on the deployment of universally available, affordable, and competitive fiber networks. EFF’s focus on fiber is due to its properties as the only data transmission medium capable of low latency and cost -efficient capacity upgrades for generations to come , once built. We were original sponsors of the California broadband infrastructure law (S.B. 156) that promises to deliver the largest deployment of open -access fiber of any state throughout its rural and urban unserved and underserved areas."
+    },
+    {
+     "inicio_corpo": 6329,
+     "fim_corpo": 7251,
+     "trecho": "5 Why the Future Points Towards Fiber Infrastruture Every community will need fiber -based infrastructure as envisioned by the Biden Administration. Future innovations in applications and services will rely on multi -gigabit near instantaneous transmission of data possible as soon a decade from now . Federal policy now appropriately presumes that usage will always grow. Since the 1980s, consumer usage of the internet has grown by 21% on average every year and that rate of growth has only shown signs of increasing, not decreasing. 5 Using Openvault’s finding that average use in 2021 was 207 Mbps downstream and 16 Mbps upstream, applying a 21% annual growth places usage in 2026 as over 500 Mbps downstream and 40 Mbps upstream. By 2032, average use will be nearly 2 gi gabits downstream. 6 Even conservative estimates for demand in rural areas predict the need for gigabit speeds by 2029."
+    },
+    {
+     "inicio_corpo": 7590,
+     "fim_corpo": 9041,
+     "trecho": "In fact, services reported an increase of 56% in upstream traffic in 2020 alone. 8 This was not an aberration; these are the new facts of life when it comes to the provisioning of broadband ser vice and upstream -limited infrastructure will be ill suited for the shift. 5 Doug Dawson, Why Fiber?, CircleID (February 13, 2021), available at https://circleid.com/pos ts/20210213-why- fiber/ 6 Ernesto Falcon and Katharine Trendacosta, The Future Is In Symmetrical, High-Speed Internet Speeds, Electronic Frontier Foundation (July 2, 2021), available at https://www .eff.org/deeplinks/2021/07/future-symmetrical -high - speed-internet-speeds ; See also Presentation, Week 2: Why Fiber is the Only Future Ready Broadband (January 12, 2022), Fiber Broadband Association’s Fiber for Breakfast (January 12, 2022), available at https://www.fiberbroadband.org/page/fiber -for-breakfast 7 The Rural Digital Divide: Fiber Broadband Can Eliminate The North American Rural Digital Divide , Fiber Broadband Association (June 2021), https://www.fiberbroadband.org/p/cm/ld/fid=978 8 Dan O’Shea, Pandemic Drove Upstream Broadband Traffic Boom: Openvault, Fierce Telecom (April 1, 2021), available at https://www .fiercetelecom.com/telecom/pandemic-drove-upstream-broadband-traffic-boom-openvault 6 To contextualize the increase in average use, consider the many critical services that now require both high upstream and downstream capacity."
+    },
+    {
+     "inicio_corpo": 7672,
+     "fim_corpo": 9041,
+     "trecho": "8 This was not an aberration; these are the new facts of life when it comes to the provisioning of broadband ser vice and upstream -limited infrastructure will be ill suited for the shift. 5 Doug Dawson, Why Fiber?, CircleID (February 13, 2021), available at https://circleid.com/pos ts/20210213-why- fiber/ 6 Ernesto Falcon and Katharine Trendacosta, The Future Is In Symmetrical, High-Speed Internet Speeds, Electronic Frontier Foundation (July 2, 2021), available at https://www .eff.org/deeplinks/2021/07/future-symmetrical -high - speed-internet-speeds ; See also Presentation, Week 2: Why Fiber is the Only Future Ready Broadband (January 12, 2022), Fiber Broadband Association’s Fiber for Breakfast (January 12, 2022), available at https://www.fiberbroadband.org/page/fiber -for-breakfast 7 The Rural Digital Divide: Fiber Broadband Can Eliminate The North American Rural Digital Divide , Fiber Broadband Association (June 2021), https://www.fiberbroadband.org/p/cm/ld/fid=978 8 Dan O’Shea, Pandemic Drove Upstream Broadband Traffic Boom: Openvault, Fierce Telecom (April 1, 2021), available at https://www .fiercetelecom.com/telecom/pandemic-drove-upstream-broadband-traffic-boom-openvault 6 To contextualize the increase in average use, consider the many critical services that now require both high upstream and downstream capacity."
+    },
+    {
+     "inicio_corpo": 9041,
+     "fim_corpo": 9916,
+     "trecho": "At the start of the pandemic, the sur ge in home usage led to a massive degradation of service for capacity constrained networks. The cable networks operators and legacy telecoms dependent on copper wires were not ready to handle what we now consider normal volumes of data usage. 9 Contrary to what many allege, American broadband infrastructure did not handle the wide spread transition to remote well. While most businesses will not transition to a 100% remote workforce going forward, nearly 80% of businesses now have work-from -home policies, signaling that remote work, and the demands it places on networks, is here to stay. 10 The white-collar economy is no longer urban high rises, but suburbs, multi -tenement apartments, and Americans in rural areas who will all require a reliable, fast network to participate and contribute to the American economy."
+    },
+    {
+     "inicio_corpo": 9041,
+     "fim_corpo": 9996,
+     "trecho": "At the start of the pandemic, the sur ge in home usage led to a massive degradation of service for capacity constrained networks. The cable networks operators and legacy telecoms dependent on copper wires were not ready to handle what we now consider normal volumes of data usage. 9 Contrary to what many allege, American broadband infrastructure did not handle the wide spread transition to remote well. While most businesses will not transition to a 100% remote workforce going forward, nearly 80% of businesses now have work-from -home policies, signaling that remote work, and the demands it places on networks, is here to stay. 10 The white-collar economy is no longer urban high rises, but suburbs, multi -tenement apartments, and Americans in rural areas who will all require a reliable, fast network to participate and contribute to the American economy. Rural economies also increasingly require high quality, reliable broadband."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0233::Domicílio e arranjo familiar",
+   "unit_id": "W0233",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Michael Romano",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1047,
+     "fim_corpo": 2210,
+     "trecho": "My prior work experience and educational background are detailed in the curriculum vitae provided to the Subcommittee. My remarks today are on behalf of the NTCA membership, which consists of over 850 small community-based providers of telecommunications and broadband services in some of the hardest-to-serve reaches of rural America across 45 states. Despite having approximately 5,000 customers on average, facing typical densities of fewer than six locations per mile, and operating with an average of fewer than 30 employees, these providers have deployed advanced networks in deeply rural spaces; NTCA’s latest survey indicates that on average 80% of members’ customers have fiber connections and 100 Mbps service levels or greater. This good work has not been easy, however. It has taken extraordinary effort by these providers to serve their neighbors, friends, and family – and this work rests atop a unique mix of commitment to their communities, entrepreneurial spirit, and effective governmental policies and programs that help make and sustain the business case for investing and continuing to operate networks in deeply rural areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0233::Educação",
+   "unit_id": "W0233",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Michael Romano",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10748,
+     "fim_corpo": 11684,
+     "trecho": "• One member experienced significant delays receiving permits for two separate projects funded by the ReConnect program. In each case, the projects were primarily in previously disturbed terrain, but historical preservation and consultation processes under NHPA nevertheless took approximately two years to complete. • Another NTCA member has been informed that final release of ReConnect grant funds would require securing more than two dozen wetlands permits, which cannot be obtained without first submitting more detailed engineering and network design plans – despite such plans having been included in the ReConnect grant application in the first instance. NTCA April 19, 2023 Page 6 of 13 • A member reported attempting to deliver fiber connections to several schools on Tribal lands, but apparent staffing shortages in Tribal offices to complete NHPA consultation obligations have delayed this work."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0233::Infraestrutura e porte populacional",
+   "unit_id": "W0233",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Michael Romano",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "high-cost areas",
+     "forma_encontrada": "high-cost areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 16861,
+     "fim_corpo": 17927,
+     "trecho": "Particularly for NTCA members operating in weather-shortened construction seasons, a better expectation of the time period in which permits must be approved or denied will facilitate planning of their infrastructure deployments. NTCA April 19, 2023 Page 9 of 13 In addition, the BROADBAND Leadership Act would tie fee structures directly to the specific costs incurred by a government entity related to the installation and upgrade of communications facilities. Dating back to its participation on the Rates and Fees working group of the Broadband Deployment Advisory Committee under the Federal Communications Commission, NTCA has been a vocal supporter of cost-based fees that enable governments to recover their actual and direct costs associated with processing applications and allowing use of rights-of-way. Ensuring that investment dollars expended in high-cost areas where grant funds are needed to enable deployment will go directly to connect consumers is the embodiment of efficiency and coordination among governmental agencies."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0233::Posição no trabalho",
+   "unit_id": "W0233",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Michael Romano",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 23411,
+     "fim_corpo": 24257,
+     "trecho": "Second, the Enhancing Administrative Reviews for Broadband Deployment Act calls upon USDA and the Department of Interior to identify means of improving the efficiency of the communications use authorizations process. The study and report generated through this effort would undoubtedly contain effective insights from “inside the agencies” regarding potential improvements. It should be noted, however, that there should be no need specifically for the agencies to highlight staffing resource concerns as part of the report because, as noted earlier in this testimony, such concerns are already prevalent and well-known. Indeed, if NTCA could convey one point regarding how to make permitting processes more efficient, it would be that workforce development and training in this area must be seen as a critical piece of the puzzle."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0233::Urbano e rural",
+   "unit_id": "W0233",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Michael Romano",
+   "n_ocorrencias_no_par": 24,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 18,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 744,
+     "trecho": "Statement by Michael Romano Executive Vice President NTCA–The Rural Broadband Association Before the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology “Breaking Barriers: Streamlining Permitting to Expedite Broadband Deployment” Washington, DC April 19, 2023 NTCA April 19, 2023 Page 1 of 13 INTRODUCTION AND BACKGROUND Chairman Latta, Ranking Member Matsui, and members of the Subcommittee, thank you for this opportunity to testify regarding how to help accelerate and make more efficient the deployment of communications networks for the benefit of millions of Americans still in need of better broadband connectivity."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 839,
+     "trecho": "Statement by Michael Romano Executive Vice President NTCA–The Rural Broadband Association Before the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology “Breaking Barriers: Streamlining Permitting to Expedite Broadband Deployment” Washington, DC April 19, 2023 NTCA April 19, 2023 Page 1 of 13 INTRODUCTION AND BACKGROUND Chairman Latta, Ranking Member Matsui, and members of the Subcommittee, thank you for this opportunity to testify regarding how to help accelerate and make more efficient the deployment of communications networks for the benefit of millions of Americans still in need of better broadband connectivity. I am Michael Romano, the Executive Vice President of NTCA–The Rural Broadband Association."
+    },
+    {
+     "inicio_corpo": 744,
+     "fim_corpo": 1047,
+     "trecho": "I am Michael Romano, the Executive Vice President of NTCA–The Rural Broadband Association. I oversee NTCA’s public policy, government affairs, and business development initiatives, the educational mission of the Foundation for Rural Service, and several areas of internal association operations."
+    },
+    {
+     "inicio_corpo": 744,
+     "fim_corpo": 1406,
+     "trecho": "I am Michael Romano, the Executive Vice President of NTCA–The Rural Broadband Association. I oversee NTCA’s public policy, government affairs, and business development initiatives, the educational mission of the Foundation for Rural Service, and several areas of internal association operations. My prior work experience and educational background are detailed in the curriculum vitae provided to the Subcommittee. My remarks today are on behalf of the NTCA membership, which consists of over 850 small community-based providers of telecommunications and broadband services in some of the hardest-to-serve reaches of rural America across 45 states."
+    },
+    {
+     "inicio_corpo": 839,
+     "fim_corpo": 1797,
+     "trecho": "I oversee NTCA’s public policy, government affairs, and business development initiatives, the educational mission of the Foundation for Rural Service, and several areas of internal association operations. My prior work experience and educational background are detailed in the curriculum vitae provided to the Subcommittee. My remarks today are on behalf of the NTCA membership, which consists of over 850 small community-based providers of telecommunications and broadband services in some of the hardest-to-serve reaches of rural America across 45 states. Despite having approximately 5,000 customers on average, facing typical densities of fewer than six locations per mile, and operating with an average of fewer than 30 employees, these providers have deployed advanced networks in deeply rural spaces; NTCA’s latest survey indicates that on average 80% of members’ customers have fiber connections and 100 Mbps service levels or greater."
+    },
+    {
+     "inicio_corpo": 1406,
+     "fim_corpo": 2210,
+     "trecho": "Despite having approximately 5,000 customers on average, facing typical densities of fewer than six locations per mile, and operating with an average of fewer than 30 employees, these providers have deployed advanced networks in deeply rural spaces; NTCA’s latest survey indicates that on average 80% of members’ customers have fiber connections and 100 Mbps service levels or greater. This good work has not been easy, however. It has taken extraordinary effort by these providers to serve their neighbors, friends, and family – and this work rests atop a unique mix of commitment to their communities, entrepreneurial spirit, and effective governmental policies and programs that help make and sustain the business case for investing and continuing to operate networks in deeply rural areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0234::Administração pública",
+   "unit_id": "W0234",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Michael Saperstein",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "Local Governments",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "Local Governments",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 15510,
+     "fim_corpo": 16879,
+     "trecho": "11 Similarly, the FCC’s 2018 Orders streamlined the deployment of small wireless facilities by clarifying the scope of local authority, curbing excessive fees and instituting shot clocks for state and local review. The FCC did this by making use of the tools Congress provided in Sections 253 and 332 of the Communications Act to promote 5G infrastructure. Relatedly , the FCC used the statutory provisions of section 253(a) to ban siting moratoria while still respecting the role of local governments. Data shows that such reforms were effective, with siting activity in the subsequent two years exceeding the previous seven years combined.12 10 See, e.g., Middle Class Tax Relief and Job Creation Act of 2012, Pub. L. 112-96 at Sec. 6409, codified at 47 U.S.C. § 1455(a); Implementation of State and Local Governments' Obligation to Approve Certain Wireless Facility Modification Requests Under Section 6409(a) of the Spectrum Act of 2012, Declaratory Ruling, 35 FCC Rcd 5977 (2020) (“5G Upgrade Order”); Accelerating Wireless Broadband Deployment by Removing Barriers to Infrastructure Investment, Declaratory Ruling and Third Report and Order, 30 FCC Rcd 9088 (2018) (“Small Cell Order”); Accelerating Wireless Broadband Deployment by Improving Wireless Facilities Siti ng Policies, Report and Order, 29 FCC Rcd 12865 (2014) (“2014 Order”)."
+    },
+    {
+     "inicio_corpo": 16025,
+     "fim_corpo": 17127,
+     "trecho": "Data shows that such reforms were effective, with siting activity in the subsequent two years exceeding the previous seven years combined.12 10 See, e.g., Middle Class Tax Relief and Job Creation Act of 2012, Pub. L. 112-96 at Sec. 6409, codified at 47 U.S.C. § 1455(a); Implementation of State and Local Governments' Obligation to Approve Certain Wireless Facility Modification Requests Under Section 6409(a) of the Spectrum Act of 2012, Declaratory Ruling, 35 FCC Rcd 5977 (2020) (“5G Upgrade Order”); Accelerating Wireless Broadband Deployment by Removing Barriers to Infrastructure Investment, Declaratory Ruling and Third Report and Order, 30 FCC Rcd 9088 (2018) (“Small Cell Order”); Accelerating Wireless Broadband Deployment by Improving Wireless Facilities Siti ng Policies, Report and Order, 29 FCC Rcd 12865 (2014) (“2014 Order”). 11 Implementation of State and Local Governments' Obligation to Approve Certain Wireless Facility Modification Requests Under Section 6409(a) of the Spectrum Act of 2012, Declaratory Ruling, 35 FCC Rcd 5977 (June 10, 2020) (“5G Upgrade Order”)."
+    },
+    {
+     "inicio_corpo": 21571,
+     "fim_corpo": 22504,
+     "trecho": "A number of the bills presented seek to do so and WIA is broadly supportive of these reforms. These measures take pragmatic steps to remove overly proscriptive rules that put additional, and unnecessary strain on the resources of both government and industry. Environmental and historic review processes are important, but the exception has started to swallow the rule with minimally disruptive modifications potentially being mired in months of review and approval. The nature of the equipment and installations at issue is such that the tradeoff between timely communications deployment and protracted review counsels in favor of an exclusion in many instances. Third, WIA is also broadly supportive of efforts to increase state and local governments’ ability to prepare them selves for the increased permitting demands both as BEAD funding is deployed and wireless service providers continue their 5G rollouts."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0234::Cultura e informação",
+   "unit_id": "W0234",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Michael Saperstein",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "library",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9319,
+     "fim_corpo": 10099,
+     "trecho": "FWA broadband can bring speed to market and cost advantages over wireline solutions because it skips the time and cost of dragging miles of wires through the countryside while delivering the reliable service people need to power their online lives. All of this means that consumers win. FWA is making high-speed broadband available for the first time for millions of Americans, helping to rapidly close our digital divide, while providing more competition in the home broadband market, directly competing with wired broadband. 4 ERICSSON MOBILITY REPORT at 16 (Nov. 2022), https://www.ericsson.com/en/reports-and-papers/mobility-report. 5 The Wireless Industry: Industry Data, CTIA, https://www.ctia.org/the-wireless-industry/infographics-library (last visited Apr."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0234::Gênero",
+   "unit_id": "W0234",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Michael Saperstein",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4776,
+     "fim_corpo": 6221,
+     "trecho": "The impact of billions in federal infrastructure investment, as well as the impact of new spectrum freed for commercial use (from past and future actions) , will be significantly enh anced by an equal commitment to accelerating and streamlining the permitting process for responsible and sustainable infrastructure deployment. While not the subject of this hearing, it is also essential that we continue to focus on two additional types of infrastructure, spectrum —the invisible infrastructure that physical infrastructure transforms—and human infrastructure—the workforce that builds, maintains, and operates wireless infrastructure. WIA appreciates the Committee's attention to the need for freeing up more spectrum for commercial use and your consistent effort to reauthorize the FCC's spectrum auction authority. Finally, we must also recognize the men and women working across the country expanding access to highspeed internet—a top priority for our rural areas—and we cannot accomplish that without improving the permitting process.”); The Biden-Harris Permitting Action Plan to Rebuild America’s Infrastructure, Accelerate the Clean Energy Transition, Revitalize Communities, and Create Jobs (May 2022), https://www.whitehouse.gov/wp-content/uploads/2022/05/Biden-Harris-Permitting-Action-Plan.pdf (providing the Administrations strategies in ensure connectivity to all Americans, including permitting reform) ."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0234::Idade",
+   "unit_id": "W0234",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Michael Saperstein",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 734,
+     "trecho": "Testimony of Michael Saperstein Senior Vice President, Government Affairs, and Chief Strategy Officer Wireless Infrastructure Association Before the Subcommittee on Communications and Technology Energy and Commerce Committee United States House of Representatives Hearing titled “Breaking Barriers: Streamlining Permitting to Expedite Broadband Deployment” April 19, 2023 Chairman Latta, Ranking Member Matsui, Chairwoman McMorris Ro dgers, Ranking Member Pallone, and members of the Subcommittee, thank you for holding this timely hearing highlighting the importance of efficient and streamlined infrastructure permitting processes to achieve our shared objective of universal broadband connectivity."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 883,
+     "trecho": "Testimony of Michael Saperstein Senior Vice President, Government Affairs, and Chief Strategy Officer Wireless Infrastructure Association Before the Subcommittee on Communications and Technology Energy and Commerce Committee United States House of Representatives Hearing titled “Breaking Barriers: Streamlining Permitting to Expedite Broadband Deployment” April 19, 2023 Chairman Latta, Ranking Member Matsui, Chairwoman McMorris Ro dgers, Ranking Member Pallone, and members of the Subcommittee, thank you for holding this timely hearing highlighting the importance of efficient and streamlined infrastructure permitting processes to achieve our shared objective of universal broadband connectivity. I am Mike Saperstein, Senior Vice President of Governmen t Affairs and Chief Strategy Officer for the Wireless Infrastructure Association (WIA)."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0234::Infraestrutura e porte populacional",
+   "unit_id": "W0234",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Michael Saperstein",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 18904,
+     "fim_corpo": 19907,
+     "trecho": "FCC, 141 S. Ct. 2855 (2021) (largely upholding the FCC’s decisions to implement limitations on rules for siting small wireless facilities); Montgomery County v. FCC, 811 F.3d 121 (4th Cir. 2015) (affirming 2014 order implementing section 6409). 14 League of CA Cities, et. al. v. FCC, No. 20-71765 (and consolidated cases Nos. 20-72734 and 20-72749) (9th Cir.). 10 clearly.15 Accordingly, there are several themes in the bills proposed for discussion that build on prior legislative and FCC actions, which WIA supports Congress exploring. First, Congress can set a national example by ensuring the expedient deployment of wireless communications in its own backyard, on federal lands. Members report that permitting on federal lands continues to be one of the most time -consuming and unpredictable of all permitting processes. Given the nature of the areas that remain unserved today, siting on federal lands will be increasingly necessary t o meet national service objectives."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0234::Posição no trabalho",
+   "unit_id": "W0234",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Michael Saperstein",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4585,
+     "fim_corpo": 5423,
+     "trecho": "It is particularly relevant on the heels of the historic Infrastructure Investment and Job Act (IIJA) and as the Administration launches an effort to develop a National Spectrum Strategy. The impact of billions in federal infrastructure investment, as well as the impact of new spectrum freed for commercial use (from past and future actions) , will be significantly enh anced by an equal commitment to accelerating and streamlining the permitting process for responsible and sustainable infrastructure deployment. While not the subject of this hearing, it is also essential that we continue to focus on two additional types of infrastructure, spectrum —the invisible infrastructure that physical infrastructure transforms—and human infrastructure—the workforce that builds, maintains, and operates wireless infrastructure."
+    },
+    {
+     "inicio_corpo": 5608,
+     "fim_corpo": 6510,
+     "trecho": "Finally, we must also recognize the men and women working across the country expanding access to highspeed internet—a top priority for our rural areas—and we cannot accomplish that without improving the permitting process.”); The Biden-Harris Permitting Action Plan to Rebuild America’s Infrastructure, Accelerate the Clean Energy Transition, Revitalize Communities, and Create Jobs (May 2022), https://www.whitehouse.gov/wp-content/uploads/2022/05/Biden-Harris-Permitting-Action-Plan.pdf (providing the Administrations strategies in ensure connectivity to all Americans, including permitting reform) . 2 Don Graves, Deputy Secretary of Commerce, https://ustelecom.org/american -connectivity-forum/ (40:03). 4 to make our networks operational and continue to focus our efforts on developing the workforce capable of meeting the broadband deployments needs of today and tomorrow."
+    },
+    {
+     "inicio_corpo": 6221,
+     "fim_corpo": 6728,
+     "trecho": "2 Don Graves, Deputy Secretary of Commerce, https://ustelecom.org/american -connectivity-forum/ (40:03). 4 to make our networks operational and continue to focus our efforts on developing the workforce capable of meeting the broadband deployments needs of today and tomorrow. WIA is a national leader in workforce development for the mobile and fixed broadband industry and we appreciate the efforts Co ngress and the Administration have taken to make resources available for this purpose."
+    },
+    {
+     "inicio_corpo": 6221,
+     "fim_corpo": 6895,
+     "trecho": "2 Don Graves, Deputy Secretary of Commerce, https://ustelecom.org/american -connectivity-forum/ (40:03). 4 to make our networks operational and continue to focus our efforts on developing the workforce capable of meeting the broadband deployments needs of today and tomorrow. WIA is a national leader in workforce development for the mobile and fixed broadband industry and we appreciate the efforts Co ngress and the Administration have taken to make resources available for this purpose. WIA is committed to proactively working with stakeholders nationwide to ensure our communications workforce needs do not become an additional barrier to deployment."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0234::Urbano e rural",
+   "unit_id": "W0234",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Michael Saperstein",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 734,
+     "fim_corpo": 1409,
+     "trecho": "I am Mike Saperstein, Senior Vice President of Governmen t Affairs and Chief Strategy Officer for the Wireless Infrastructure Association (WIA). WIA is the principal association representing the companies that build, design, own, and manage mobile and fixed wireless broadband facilities nationwide . WIA members’ efforts to deploy and upgrade wireless infrastructure are directly affected by permitting decisions daily, and we welcome the opportunity to share our perspective. We have never been closer to achieving our bipartisan goal of nationwide connectivity – making broadband available literally everywhere from dense urban cores to the last rural acre."
+    },
+    {
+     "inicio_corpo": 5109,
+     "fim_corpo": 6221,
+     "trecho": "While not the subject of this hearing, it is also essential that we continue to focus on two additional types of infrastructure, spectrum —the invisible infrastructure that physical infrastructure transforms—and human infrastructure—the workforce that builds, maintains, and operates wireless infrastructure. WIA appreciates the Committee's attention to the need for freeing up more spectrum for commercial use and your consistent effort to reauthorize the FCC's spectrum auction authority. Finally, we must also recognize the men and women working across the country expanding access to highspeed internet—a top priority for our rural areas—and we cannot accomplish that without improving the permitting process.”); The Biden-Harris Permitting Action Plan to Rebuild America’s Infrastructure, Accelerate the Clean Energy Transition, Revitalize Communities, and Create Jobs (May 2022), https://www.whitehouse.gov/wp-content/uploads/2022/05/Biden-Harris-Permitting-Action-Plan.pdf (providing the Administrations strategies in ensure connectivity to all Americans, including permitting reform) ."
+    },
+    {
+     "inicio_corpo": 11372,
+     "fim_corpo": 12559,
+     "trecho": "A new report shows that WIA members’ investment in physical infrastructure, which accounted for $11.9 billion in 2022, manifests itself physically today in nearly 150,000 towers, 450,000 small cell nodes, 750,000 indoor small cell and distributed antenna system nodes undergirding our wireless networks. This also means good paying American jobs, with 400,000 employed in wireless infrastructure deployment to say nothing of the millions more jobs enabled by the wireless industry. Investment and ingenuity have enabled wireless connectivity in ways that could not have been imagined only a decade ago. Our work continues today to extend the same wireless coverage benefits, particularly to rural areas to support mobile communications that are not only life changing but truly lifesaving, with 80 percent of 911 calls coming from mobile devices.9 Whether it is mobile broadband or FWA to the home, wireless broadband service is essential, and we need policies that promote greater availability – funding opportunities on a level playing field with 8 See, e.g., DEPARTMENT FOR SCIENCE, INNOVATION & TECHNOLOGY, UK Wireless Infrastructure Strategy, POLICY PAPER (Apr."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0235::Domicílio e arranjo familiar",
+   "unit_id": "W0235",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1437,
+     "fim_corpo": 2250,
+     "trecho": "While I won't comment on each bill, I appreciate and applaud the Subcommittee’s attention to ease the broadband permitting process and address the necessary component of pole attachments. In several instances, I do believe that the legislative effort, particularly as it relates to pole attachments, should go much further. I look forward to an assembleance of these bills working through the legislative process in the near future and stand ready to assist the Subcommittee in any way I can. 2 A Critical Imperative to Act For multiple decades, policymakers rightfully have declared it U.S. policy that all Americans should have access to broadband service. The Covid pandemic reaffirmed and strengthened the benefits broadband service brings to our society and individual families."
+    },
+    {
+     "inicio_corpo": 1766,
+     "fim_corpo": 2584,
+     "trecho": "I look forward to an assembleance of these bills working through the legislative process in the near future and stand ready to assist the Subcommittee in any way I can. 2 A Critical Imperative to Act For multiple decades, policymakers rightfully have declared it U.S. policy that all Americans should have access to broadband service. The Covid pandemic reaffirmed and strengthened the benefits broadband service brings to our society and individual families. It's one reason that approximately $100 billion in direct Federal funds will be invested in broadband networks over the next few years. Despite changing definitions of speed and capacity requirements over time, the charge has remained constant: bring private sector broadband offerings to every unserved household in our nation."
+    },
+    {
+     "inicio_corpo": 3264,
+     "fim_corpo": 4070,
+     "trecho": "Additionally, he remarked that the agency was reviewing ways to condition its grants on commitments to improve state and local permitting by recipients. While I may not favor using such a conditional approach, which could possibly to be outside the statute, the urgency and importance of rectifying this issue was appreciated. Second, just last week U.S. Commerce Deputy Secretary Don Graves expressed his view at USTelecom’s American Connectivity Forum that permitting reform was at the top of the list in terms of activities the Department was reviewing, in coordination with NTIA, to facilitate broadband expansion. From my vantage point, Members of the Subcommittee should consider three activities to improve broadband availability and bring service to those American households without."
+    },
+    {
+     "inicio_corpo": 7828,
+     "fim_corpo": 8742,
+     "trecho": "Dating myself, I remember when this Committee had jurisdiction over railroad matters, and I suggest that the Subcommittee should consider expanding the state reforms to cover all states. Likewise, the U.S. cannot be a global leader in wireless connectivity without necessary upgrades to the existing wireless infrastructure. Using higher frequency spectrum bands, for instance, requires denser network architecture and the installation of additional antennas and towers. This will be 2 This is a rough estimate that is likely elevated above the actual unserved population. 5 especially true for 6G wireless offerings, likely to operate in both midbands and high bands. Moreover, the role of wireless broadband offerings to meet unserved and underserved households will increase – despite the Administration’s rejection of the BEAD program’s statutory technology neutrality mandate."
+    },
+    {
+     "inicio_corpo": 13672,
+     "fim_corpo": 15114,
+     "trecho": "At the same time, this bill’s applicability may be too narrow to deal with the current pole exemption problem. Consider that it is highly likely that some non-exempt entities will win federal funds for areas covered by pole owners currently exempt. In these instances, the bill wouldn’t provide any assistance for the respective area, leaving the winning broadband provider at the mercy of the current ineffective system. Moreover, exempt entities may have partnerships that could escape the bill’s reach. Fundamentally, the exemption should be deleted. At a minimum, the bill’s scope should be expanded to apply in all unserved and underserved areas. Otherwise, there may be opportunities for gamesmanship and unfair maneuvering by exempt entities that prevent broadband service from reaching needy households. * * * As is its history, this Subcommittee has put a great spotlight on a needed area for attention in the communications space to enable broadband service expansion to reach all Americans. Without necessary attention, Federal broadband funding and the related projects will get unnecessary delayed or bogged down. Worse yet, the funding will ultimately cover fewer households than expected, leaving 8 households outside of the digital revolution. Legislating on this subject to address abuses or incompetence of the permitting and pole attachment fee mechanisms is necessary and prudent."
+    },
+    {
+     "inicio_corpo": 14101,
+     "fim_corpo": 15114,
+     "trecho": "Moreover, exempt entities may have partnerships that could escape the bill’s reach. Fundamentally, the exemption should be deleted. At a minimum, the bill’s scope should be expanded to apply in all unserved and underserved areas. Otherwise, there may be opportunities for gamesmanship and unfair maneuvering by exempt entities that prevent broadband service from reaching needy households. * * * As is its history, this Subcommittee has put a great spotlight on a needed area for attention in the communications space to enable broadband service expansion to reach all Americans. Without necessary attention, Federal broadband funding and the related projects will get unnecessary delayed or bogged down. Worse yet, the funding will ultimately cover fewer households than expected, leaving 8 households outside of the digital revolution. Legislating on this subject to address abuses or incompetence of the permitting and pole attachment fee mechanisms is necessary and prudent."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0235::Infraestrutura e porte populacional",
+   "unit_id": "W0235",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1766,
+     "fim_corpo": 2584,
+     "trecho": "I look forward to an assembleance of these bills working through the legislative process in the near future and stand ready to assist the Subcommittee in any way I can. 2 A Critical Imperative to Act For multiple decades, policymakers rightfully have declared it U.S. policy that all Americans should have access to broadband service. The Covid pandemic reaffirmed and strengthened the benefits broadband service brings to our society and individual families. It's one reason that approximately $100 billion in direct Federal funds will be invested in broadband networks over the next few years. Despite changing definitions of speed and capacity requirements over time, the charge has remained constant: bring private sector broadband offerings to every unserved household in our nation."
+    },
+    {
+     "inicio_corpo": 5527,
+     "fim_corpo": 6542,
+     "trecho": "Sadly, these are not new issues. For decades, permitting and pole attachments procedures and rates have stymied progress in the communications arena. At Congress’ direction and reflecting the need to promote deployment, the FCC has acted in numerous proceedings to alleviate the barriers – occasionally pushing its statutory boundaries to the edge, which often resulted in tortuous litigation over the agency’s jurisdiction. But with the proposed bills before the Subcommittee, Congress can affirm the Commission’s authority in certain instances and grant other agencies or the courts authority to remove these barriers. If the ultimate goal is to get broadband access to those unserved Americans, 1See “A Conservative Case for the Affordable Connectivity Program,” The Hill, February 2, 2023 Affordable Connectivity Program needs permanent funding | The Hill 4 this effort – if sufficiently broad and comprehensive -- can remove a known and legitimate set of obstacles to deployment."
+    },
+    {
+     "inicio_corpo": 7547,
+     "fim_corpo": 8416,
+     "trecho": "The process that private railroads use to permit crossings by broadband companies is borderline predatory. The State of Virginia has led legislation to curtail the exceptionally long timelines, estimated at multiple months, and outrageous fees sought by the select railroads. Dating myself, I remember when this Committee had jurisdiction over railroad matters, and I suggest that the Subcommittee should consider expanding the state reforms to cover all states. Likewise, the U.S. cannot be a global leader in wireless connectivity without necessary upgrades to the existing wireless infrastructure. Using higher frequency spectrum bands, for instance, requires denser network architecture and the installation of additional antennas and towers. This will be 2 This is a rough estimate that is likely elevated above the actual unserved population."
+    },
+    {
+     "inicio_corpo": 7828,
+     "fim_corpo": 8742,
+     "trecho": "Dating myself, I remember when this Committee had jurisdiction over railroad matters, and I suggest that the Subcommittee should consider expanding the state reforms to cover all states. Likewise, the U.S. cannot be a global leader in wireless connectivity without necessary upgrades to the existing wireless infrastructure. Using higher frequency spectrum bands, for instance, requires denser network architecture and the installation of additional antennas and towers. This will be 2 This is a rough estimate that is likely elevated above the actual unserved population. 5 especially true for 6G wireless offerings, likely to operate in both midbands and high bands. Moreover, the role of wireless broadband offerings to meet unserved and underserved households will increase – despite the Administration’s rejection of the BEAD program’s statutory technology neutrality mandate."
+    },
+    {
+     "inicio_corpo": 7828,
+     "fim_corpo": 8742,
+     "trecho": "Dating myself, I remember when this Committee had jurisdiction over railroad matters, and I suggest that the Subcommittee should consider expanding the state reforms to cover all states. Likewise, the U.S. cannot be a global leader in wireless connectivity without necessary upgrades to the existing wireless infrastructure. Using higher frequency spectrum bands, for instance, requires denser network architecture and the installation of additional antennas and towers. This will be 2 This is a rough estimate that is likely elevated above the actual unserved population. 5 especially true for 6G wireless offerings, likely to operate in both midbands and high bands. Moreover, the role of wireless broadband offerings to meet unserved and underserved households will increase – despite the Administration’s rejection of the BEAD program’s statutory technology neutrality mandate."
+    },
+    {
+     "inicio_corpo": 13517,
+     "fim_corpo": 15114,
+     "trecho": "This would be an improvement and certainly seems justifiable given that these entities would be entering the broadband marketplace using Federal funds. At the same time, this bill’s applicability may be too narrow to deal with the current pole exemption problem. Consider that it is highly likely that some non-exempt entities will win federal funds for areas covered by pole owners currently exempt. In these instances, the bill wouldn’t provide any assistance for the respective area, leaving the winning broadband provider at the mercy of the current ineffective system. Moreover, exempt entities may have partnerships that could escape the bill’s reach. Fundamentally, the exemption should be deleted. At a minimum, the bill’s scope should be expanded to apply in all unserved and underserved areas. Otherwise, there may be opportunities for gamesmanship and unfair maneuvering by exempt entities that prevent broadband service from reaching needy households. * * * As is its history, this Subcommittee has put a great spotlight on a needed area for attention in the communications space to enable broadband service expansion to reach all Americans. Without necessary attention, Federal broadband funding and the related projects will get unnecessary delayed or bogged down. Worse yet, the funding will ultimately cover fewer households than expected, leaving 8 households outside of the digital revolution. Legislating on this subject to address abuses or incompetence of the permitting and pole attachment fee mechanisms is necessary and prudent."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0235::Urbano e rural",
+   "unit_id": "W0235",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9576,
+     "fim_corpo": 10465,
+     "trecho": "Streamlining Federal siting provisions and codifying recent efforts of the Commission, such as timelimes/deemed approved procedures, application fee amounts, minimizing upgrade approvals needed, and addressing environmental and historic preservation, would go a long way towards securing a wireless future and short-circuiting endless litigation. Additionally, a number of bills under consideration would address the wireless siting procedures on Federal lands. Given the benefits that wireless networks bring for public safety and convenience, I personally have little sympathy for aesthetic concerns raised over towers or antennas. Pole Attachments Although new broadband maps are still in the process of being completed, we do know from past mapping efforts that many of the locations without broadband service are located in more rural, 6 less dense areas."
+    },
+    {
+     "inicio_corpo": 12237,
+     "fim_corpo": 13080,
+     "trecho": "To the extent that this exemption ever made substantive sense, I join many parties in asserting that it no longer does. Defenders of the exemption argue that the applicable entities need to maximize fees given the economics of their systems and there are unique concerns, such as safety and reliability, for these systems’ poles. These arguments, however, fall apart under the most rudimentary review. There is nothing special about these poles as opposed to non-exempt ones, such as neighboring ones owned and operated by non-exempt entities. Moreover, the FCC is fully capable to exploring, and 7 addressing, if necessary, any special health and safety issues arising over these discrete poles. In terms of extraordinary fees, the Commission during my time moved away from a rural/urban distinction for poles rates."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0236::Educação",
+   "unit_id": "W0236",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Alan Davidson",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "minority-serving institutions",
+     "forma_encontrada": "Minority Serving Institutions",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3360,
+     "fim_corpo": 4294,
+     "trecho": "While these programs are still in the important planning stages, NTIA has also been funding projects that can get shovels in the ground and devices in people’s hands quickly. One place where funding is needed most is on Tribal lands – some of the least connected areas in the country. But we’re working to change that. In the last year-and-a-half we have awarded 157 grants totaling more than $1.77 billion through our Tribal Broadband Connectivity Program, serving 230 Tribal Governments. These grants will be used for broadband deployment on tribal lands, as well as for telehealth, distance learning, broadband affordability, and digital inclusion activities. Also in the last year, NTIA has awarded nearly $263 million in Connecting Minority Communities grants to 93 Historically Black Colleges and Universities, Hispanic Serving Institutions, Minority Serving Institutions, and Tribal colleges and universities."
+    },
+    {
+     "inicio_corpo": 3540,
+     "fim_corpo": 4415,
+     "trecho": "One place where funding is needed most is on Tribal lands – some of the least connected areas in the country. But we’re working to change that. In the last year-and-a-half we have awarded 157 grants totaling more than $1.77 billion through our Tribal Broadband Connectivity Program, serving 230 Tribal Governments. These grants will be used for broadband deployment on tribal lands, as well as for telehealth, distance learning, broadband affordability, and digital inclusion activities. Also in the last year, NTIA has awarded nearly $263 million in Connecting Minority Communities grants to 93 Historically Black Colleges and Universities, Hispanic Serving Institutions, Minority Serving Institutions, and Tribal colleges and universities. This program helps schools pay for Internet access and devices, or to hire and train information technology personnel."
+    },
+    {
+     "inicio_corpo": 3859,
+     "fim_corpo": 4654,
+     "trecho": "These grants will be used for broadband deployment on tribal lands, as well as for telehealth, distance learning, broadband affordability, and digital inclusion activities. Also in the last year, NTIA has awarded nearly $263 million in Connecting Minority Communities grants to 93 Historically Black Colleges and Universities, Hispanic Serving Institutions, Minority Serving Institutions, and Tribal colleges and universities. This program helps schools pay for Internet access and devices, or to hire and train information technology personnel. These grants are already helping people in need: from the grandmother in Oklahoma who made a fresh start as a fiber technician to a member of Navajo Nation in Arizona who was able to go back to school thanks to a new device and hotspot."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0236::Infraestrutura e porte populacional",
+   "unit_id": "W0236",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Alan Davidson",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "last mile",
+     "forma_encontrada": "last mile",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4034,
+     "fim_corpo": 4978,
+     "trecho": "Also in the last year, NTIA has awarded nearly $263 million in Connecting Minority Communities grants to 93 Historically Black Colleges and Universities, Hispanic Serving Institutions, Minority Serving Institutions, and Tribal colleges and universities. This program helps schools pay for Internet access and devices, or to hire and train information technology personnel. These grants are already helping people in need: from the grandmother in Oklahoma who made a fresh start as a fiber technician to a member of Navajo Nation in Arizona who was able to go back to school thanks to a new device and hotspot. Finally, in the coming months we will be announcing awards in our $1 billion Enabling Middle Mile Broadband Infrastructure program. This program will support deployment of high-capacity national and regional networks and lower the cost of the last mile networks states will use to connect homes and small businesses."
+    },
+    {
+     "inicio_corpo": 7420,
+     "fim_corpo": 8297,
+     "trecho": "But AI is only going to succeed if we address its risks and harms. That’s why NTIA issued a request for comment and is seeking public feedback on what policies can support the development of audits, assessments, and other mechanisms to create earned trust in AI systems. Our inquiry will help inform recommendations for policymakers on how to verify AI systems work as claimed and do not cause harm. Another pressing issue is privacy. Americans are concerned about how their personal data is collected and used online. The Administration has called for a comprehensive federal privacy law, one with clear limits on how companies can collect, use, and share highly personal data. We know there are few areas where the consequences of these practices are more starkly felt than in violations of the privacy and security of marginalized or underserved communities."
+    }
+   ]
+  }
+ ]
+}

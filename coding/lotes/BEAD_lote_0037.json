@@ -1,0 +1,1095 @@
+{
+ "caso": "BEAD",
+ "lote": 37,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0150::Educação",
+   "unit_id": "W0150",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Joi Chaney",
+   "n_ocorrencias_no_par": 10,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 4,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "Schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1396,
+     "fim_corpo": 2570,
+     "trecho": "I am honored to testify today about the need for universal broadband and how we can leverage the lessons learned from the COVID-19 pandemic for a more inclusive, 21st century society. Rarely does an issue have implications across so many indicia of equity, including racial justice, economic opportunity, health care, education, and workforce development. It is undeniable that the COVID-19 pandemic has had an unprecedented, widespread impact on households across our country, changing the way we work, attend classes, obtain healthcare, access government services, worship, connect with loved ones and entertain ourselves. All of these activities shifted online, making access to reliable home broadband internet more critical than ever. Prior to the COVID-19 pandemic, many individuals, families, and children relied on their schools, places of work, and other public “third spaces” like libraries, churches, internet cafes and coffee shops to connect to the internet because they did not have a broadband internet connection in the home--with a disproportionate number of these Americans being from communities of color or low-income communities."
+    },
+    {
+     "inicio_corpo": 4632,
+     "fim_corpo": 5402,
+     "trecho": "The index provided evidence that the new job, business, and educational opportunities created by increased digitization of our world were not being equally shared. Unfortunately, despite commendable public and private efforts to close the gaps, disparities in digital life were not prioritized. The disparities grew at the speed of innovation with the costs hidden to all except those who faced the challenge of finding a public hotspot or public computer to do the things most of us did within the comfort of our own homes without much thought to our privilege. But with the onset of the COVID-19, the costs of not being connected could no longer be hidden within families, within school systems, within workplaces, within economies, within our nation."
+    },
+    {
+     "inicio_corpo": 4798,
+     "fim_corpo": 5664,
+     "trecho": "Unfortunately, despite commendable public and private efforts to close the gaps, disparities in digital life were not prioritized. The disparities grew at the speed of innovation with the costs hidden to all except those who faced the challenge of finding a public hotspot or public computer to do the things most of us did within the comfort of our own homes without much thought to our privilege. But with the onset of the COVID-19, the costs of not being connected could no longer be hidden within families, within school systems, within workplaces, within economies, within our nation. For instance, a growing “homework gap,” at the start of the pandemic shined an uncomfortable light on the digital inequities that persist for many K-12 students. The schools that had the resources were able to transition to online learning fairly quickly."
+    },
+    {
+     "inicio_corpo": 4798,
+     "fim_corpo": 5783,
+     "trecho": "Unfortunately, despite commendable public and private efforts to close the gaps, disparities in digital life were not prioritized. The disparities grew at the speed of innovation with the costs hidden to all except those who faced the challenge of finding a public hotspot or public computer to do the things most of us did within the comfort of our own homes without much thought to our privilege. But with the onset of the COVID-19, the costs of not being connected could no longer be hidden within families, within school systems, within workplaces, within economies, within our nation. For instance, a growing “homework gap,” at the start of the pandemic shined an uncomfortable light on the digital inequities that persist for many K-12 students. The schools that had the resources were able to transition to online learning fairly quickly. However, the schools who did not have the resources were left scrambling when schools were forced to abruptly close."
+    },
+    {
+     "inicio_corpo": 4934,
+     "fim_corpo": 5783,
+     "trecho": "The disparities grew at the speed of innovation with the costs hidden to all except those who faced the challenge of finding a public hotspot or public computer to do the things most of us did within the comfort of our own homes without much thought to our privilege. But with the onset of the COVID-19, the costs of not being connected could no longer be hidden within families, within school systems, within workplaces, within economies, within our nation. For instance, a growing “homework gap,” at the start of the pandemic shined an uncomfortable light on the digital inequities that persist for many K-12 students. The schools that had the resources were able to transition to online learning fairly quickly. However, the schools who did not have the resources were left scrambling when schools were forced to abruptly close."
+    },
+    {
+     "inicio_corpo": 5205,
+     "fim_corpo": 6109,
+     "trecho": "But with the onset of the COVID-19, the costs of not being connected could no longer be hidden within families, within school systems, within workplaces, within economies, within our nation. For instance, a growing “homework gap,” at the start of the pandemic shined an uncomfortable light on the digital inequities that persist for many K-12 students. The schools that had the resources were able to transition to online learning fairly quickly. However, the schools who did not have the resources were left scrambling when schools were forced to abruptly close. In some communities, students received laptops and their teachers began posting videos of lessons, giving assignments and responding to students’ questions and messages. In other communities, students were being asked to pick up packets of schoolwork that they were left to figure out by themselves or with their parents."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0150::Escolaridade e letramento",
+   "unit_id": "W0150",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Joi Chaney",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "digital literacy",
+     "forma_encontrada": "digital literacy",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4798,
+     "fim_corpo": 5569,
+     "trecho": "Unfortunately, despite commendable public and private efforts to close the gaps, disparities in digital life were not prioritized. The disparities grew at the speed of innovation with the costs hidden to all except those who faced the challenge of finding a public hotspot or public computer to do the things most of us did within the comfort of our own homes without much thought to our privilege. But with the onset of the COVID-19, the costs of not being connected could no longer be hidden within families, within school systems, within workplaces, within economies, within our nation. For instance, a growing “homework gap,” at the start of the pandemic shined an uncomfortable light on the digital inequities that persist for many K-12 students."
+    },
+    {
+     "inicio_corpo": 4934,
+     "fim_corpo": 5955,
+     "trecho": "The disparities grew at the speed of innovation with the costs hidden to all except those who faced the challenge of finding a public hotspot or public computer to do the things most of us did within the comfort of our own homes without much thought to our privilege. But with the onset of the COVID-19, the costs of not being connected could no longer be hidden within families, within school systems, within workplaces, within economies, within our nation. For instance, a growing “homework gap,” at the start of the pandemic shined an uncomfortable light on the digital inequities that persist for many K-12 students. The schools that had the resources were able to transition to online learning fairly quickly. However, the schools who did not have the resources were left scrambling when schools were forced to abruptly close. In some communities, students received laptops and their teachers began posting videos of lessons, giving assignments and responding to students’ questions and messages."
+    },
+    {
+     "inicio_corpo": 5205,
+     "fim_corpo": 5955,
+     "trecho": "But with the onset of the COVID-19, the costs of not being connected could no longer be hidden within families, within school systems, within workplaces, within economies, within our nation. For instance, a growing “homework gap,” at the start of the pandemic shined an uncomfortable light on the digital inequities that persist for many K-12 students. The schools that had the resources were able to transition to online learning fairly quickly. However, the schools who did not have the resources were left scrambling when schools were forced to abruptly close. In some communities, students received laptops and their teachers began posting videos of lessons, giving assignments and responding to students’ questions and messages."
+    },
+    {
+     "inicio_corpo": 5205,
+     "fim_corpo": 6109,
+     "trecho": "But with the onset of the COVID-19, the costs of not being connected could no longer be hidden within families, within school systems, within workplaces, within economies, within our nation. For instance, a growing “homework gap,” at the start of the pandemic shined an uncomfortable light on the digital inequities that persist for many K-12 students. The schools that had the resources were able to transition to online learning fairly quickly. However, the schools who did not have the resources were left scrambling when schools were forced to abruptly close. In some communities, students received laptops and their teachers began posting videos of lessons, giving assignments and responding to students’ questions and messages. In other communities, students were being asked to pick up packets of schoolwork that they were left to figure out by themselves or with their parents."
+    },
+    {
+     "inicio_corpo": 5569,
+     "fim_corpo": 6713,
+     "trecho": "The schools that had the resources were able to transition to online learning fairly quickly. However, the schools who did not have the resources were left scrambling when schools were forced to abruptly close. In some communities, students received laptops and their teachers began posting videos of lessons, giving assignments and responding to students’ questions and messages. In other communities, students were being asked to pick up packets of schoolwork that they were left to figure out by themselves or with their parents. Further, some school districts, such as Philadelphia Public Schools (PPS), appeared to give up, as they initially stated that PPS would not provide remote learning instruction, citing inequity as the main reason. The Superintendent stated that “If [it’s] not available to all children, we cannot make it available to some.” For these students, the traditional summer slide in educational achievement—which could usually be mitigated through a thoughtful summer online tutoring program—had become a catastrophic COVID slide, placing unconnected students in danger of falling permanently behind."
+    },
+    {
+     "inicio_corpo": 5783,
+     "fim_corpo": 6713,
+     "trecho": "In some communities, students received laptops and their teachers began posting videos of lessons, giving assignments and responding to students’ questions and messages. In other communities, students were being asked to pick up packets of schoolwork that they were left to figure out by themselves or with their parents. Further, some school districts, such as Philadelphia Public Schools (PPS), appeared to give up, as they initially stated that PPS would not provide remote learning instruction, citing inequity as the main reason. The Superintendent stated that “If [it’s] not available to all children, we cannot make it available to some.” For these students, the traditional summer slide in educational achievement—which could usually be mitigated through a thoughtful summer online tutoring program—had become a catastrophic COVID slide, placing unconnected students in danger of falling permanently behind."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0150::Idade",
+   "unit_id": "W0150",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Joi Chaney",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 633,
+     "trecho": "1 Testimony of Joi Olivia Chaney Senior Vice President, Policy and Advocacy and Executive Director, Washington Bureau, National Urban League Committee on Appropriations, Subcommittee on Financial Services and General Government “The Need for Universal Broadband: Lessons from the COVID-19 Pandemic” May 18, 2021 Subcommittee Chairman Quigley, Ranking Member Womack, Full Committee Chairwoman DeLauro, Ranking Member Granger, and Members of the Subcommittee on Financial Services and General Government, thank you for the opportunity to present the views of the National Urban League in today’s hearing."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 797,
+     "trecho": "1 Testimony of Joi Olivia Chaney Senior Vice President, Policy and Advocacy and Executive Director, Washington Bureau, National Urban League Committee on Appropriations, Subcommittee on Financial Services and General Government “The Need for Universal Broadband: Lessons from the COVID-19 Pandemic” May 18, 2021 Subcommittee Chairman Quigley, Ranking Member Womack, Full Committee Chairwoman DeLauro, Ranking Member Granger, and Members of the Subcommittee on Financial Services and General Government, thank you for the opportunity to present the views of the National Urban League in today’s hearing. My name is Joi Chaney, and I serve as Senior Vice President of Policy and Advocacy and Executive Director of the Washington Bureau for the National Urban League."
+    },
+    {
+     "inicio_corpo": 2740,
+     "fim_corpo": 3619,
+     "trecho": "Only 54 percent of 2 households earning $50,000 or less have broadband in the home compared to 84 percent of households earning $75,000 or more. Overnight, “third spaces” disappeared and the pandemic revealed two different Americas: one where people were connected and one where they were not at a time when we needed connection the most. The pandemic accelerated the ongoing migration to “remote everything,” particularly for essential activities such as employment, health care, and education. The benefits of being connected grew even faster, but so did the costs to communities who were not connected. The COVID-19 pandemic proved that broadband was no longer a nicety; it had become a necessity, just as necessary as electricity and running water. But policymakers and experts will tell you that this has been a decades-old issue in the making."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0150::Infraestrutura e porte populacional",
+   "unit_id": "W0150",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Joi Chaney",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "Underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 633,
+     "fim_corpo": 1126,
+     "trecho": "My name is Joi Chaney, and I serve as Senior Vice President of Policy and Advocacy and Executive Director of the Washington Bureau for the National Urban League. I bring you greetings on behalf of Marc Morial, our President and CEO, who regrets that he is unable to join us today. The National Urban League is an historic civil rights organization dedicated to providing economic empowerment, educational opportunities and the guarantee of civil rights for the underserved in America."
+    },
+    {
+     "inicio_corpo": 19276,
+     "fim_corpo": 20092,
+     "trecho": "The COVID-19 crisis has not only brought the availability, adoption, and affordability gaps to the forefront, it has also demonstrated that, despite the capacity and capability of our networks, we are suffering from a utilization diffusion lag, similar to that which accompanied electrification in the 1900s. Learnings from this unprecedented experience, however, could illuminate a better path forward. As the Washington Post noted in praising the Latimer Plan’s discussion of the utilization gap, “Treating broadband as infrastructure is the right approach, yet for the investment to pay off, we must build more than wires.” There is already precedent for this in President Biden’s Executive Order 13985 on Advancing Racial Equity and Support for Underserved Communities Through the Federal Government."
+    },
+    {
+     "inicio_corpo": 19588,
+     "fim_corpo": 20382,
+     "trecho": "Learnings from this unprecedented experience, however, could illuminate a better path forward. As the Washington Post noted in praising the Latimer Plan’s discussion of the utilization gap, “Treating broadband as infrastructure is the right approach, yet for the investment to pay off, we must build more than wires.” There is already precedent for this in President Biden’s Executive Order 13985 on Advancing Racial Equity and Support for Underserved Communities Through the Federal Government. As the order mandates, the federal government is now committed to pursuing: 8 [A] comprehensive approach to advancing equity, including for people of color and others who have been historically underserved, marginalized, and adversely affected by persistent poverty and inequality."
+    },
+    {
+     "inicio_corpo": 20092,
+     "fim_corpo": 20988,
+     "trecho": "As the order mandates, the federal government is now committed to pursuing: 8 [A] comprehensive approach to advancing equity, including for people of color and others who have been historically underserved, marginalized, and adversely affected by persistent poverty and inequality. Affirmatively advancing equity, civil rights, racial justice, and equal opportunity is now the responsibility of the whole of our government. Because advancing equity requires a systematic approach to embedding fairness in decision-making processes, executive departments and agencies (agencies) must recognize and work to remedy inequities in their policies and programs that serve as barriers to equal opportunity. By advancing equity across the federal government, we can create opportunities for the improvement of communities that have been historically underserved, which benefits everyone."
+    },
+    {
+     "inicio_corpo": 20382,
+     "fim_corpo": 21432,
+     "trecho": "Affirmatively advancing equity, civil rights, racial justice, and equal opportunity is now the responsibility of the whole of our government. Because advancing equity requires a systematic approach to embedding fairness in decision-making processes, executive departments and agencies (agencies) must recognize and work to remedy inequities in their policies and programs that serve as barriers to equal opportunity. By advancing equity across the federal government, we can create opportunities for the improvement of communities that have been historically underserved, which benefits everyone. The Executive Order further mandates that “each agency must assess whether, and to what extent, its programs and policies perpetuate systemic barriers to opportunities and benefits for people of color and other underserved groups.” If one were to make such an assessment, it would inevitably find that today, and to an even greater extent in the future, those opportunities and benefits are either best, or exclusively, provided online."
+    },
+    {
+     "inicio_corpo": 27084,
+     "fim_corpo": 28170,
+     "trecho": "The National Urban League therefore urges Congress to aggressively and comprehensively address the digital divide issues identified in the Lewis Latimer Plan and to consider our recommendations for solving those issues, including a sustainable, long- term or permanent broadband benefit. We must seize this moment of overdue investment in America and Americans to ensure that all of us, including those who work on the frontlines or represent communities that have been historically underserved and systemically disenfranchised, can benefit from this digital era. This includes expanding availability, ensuring affordability, lowering barriers to adoption, improving utilization, and demanding access to economic opportunity that universal broadband will provide. Thank you to the subcommittee for the opportunity to testify. Thank you to my colleagues at the National Urban League who helped me prepare for today and for the experts who helped us develop, draft and release the Lewis Latimer Plan for Digital Equity and Inclusion. I look forward to answering any questions."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0150::Posição no trabalho",
+   "unit_id": "W0150",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Joi Chaney",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unemployed",
+     "forma_encontrada": "unemployed",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "job training",
+     "forma_encontrada": "job training",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 917,
+     "fim_corpo": 1759,
+     "trecho": "The National Urban League is an historic civil rights organization dedicated to providing economic empowerment, educational opportunities and the guarantee of civil rights for the underserved in America. Founded in 1910 and headquartered in New York City, the National Urban League has 90 affiliates serving 300 communities in 37 states and the District of Columbia, providing direct services that impact and improve the lives of more than two million people nationwide. I am honored to testify today about the need for universal broadband and how we can leverage the lessons learned from the COVID-19 pandemic for a more inclusive, 21st century society. Rarely does an issue have implications across so many indicia of equity, including racial justice, economic opportunity, health care, education, and workforce development."
+    },
+    {
+     "inicio_corpo": 15803,
+     "fim_corpo": 17006,
+     "trecho": "One idea is a Digital Equity Fund that could be the repository of contributions, including from spectrum auction proceeds. We also need to ensure even greater accountability with respect to internet service providers. While we believe a broadband benefit to be the strongest solution to unaffordability, our Latimer Plan proposes an alternative in which Congress creates a new program to guarantee access to essential services. The new program, which we call Lifeline+, would include LifelineMobile, which would continue the current Lifeline subsidy for basic voice and mobile functions with some limited data, albeit with comprehensive reforms; and LifelineHome. LifelineHome would be composed of LifelineJobs, which would provide broadband at home to the unemployed, empowering them to utilize online programs to upgrade their skills, as well as search, apply and interview for jobs; LifelineMed, which would provide broadband at home to low-income persons, to utilize the full suite of telehealth services; and LifelineEd, which would provide broadband at home to low- income families with K-12 schoolchildren and members of their households, to utilize all forms of digital learning."
+    },
+    {
+     "inicio_corpo": 25956,
+     "fim_corpo": 27084,
+     "trecho": "A free Black patent-holder and the son of slaves, his inventions and contributions were critical to the success of his employers, Thomas Edison, and Alexander Graham Bell. Yet, unfortunately and all-too-predictably, he had no opportunity to take ownership or accumulate generational wealth from the vast businesses those inventions spawned. It is our job to ensure these historic injustices do not continue to repeat themselves. Demanding broadband access is really about demanding inclusion and enabling all Americans to participate in modern society and our economy. Whether in rural or urban communities, much of American life requires quality, fast, reliable, and secure internet on demand. You cannot adequately keep up in school without it, you cannot communicate with financial institutions without it, you cannot compete in business without it, you cannot receive job training or even apply for a job without it, you cannot converse easily for 10 government services without it, including registering to get COVID-19 vaccine, and you cannot connect with loved ones and the broader community without it."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0150::Raça e etnia",
+   "unit_id": "W0150",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Joi Chaney",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "minorities",
+     "forma_encontrada": "minorities",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "minority",
+     "forma_encontrada": "minority",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3367,
+     "fim_corpo": 4632,
+     "trecho": "The COVID-19 pandemic proved that broadband was no longer a nicety; it had become a necessity, just as necessary as electricity and running water. But policymakers and experts will tell you that this has been a decades-old issue in the making. In fact, ten years ago, the National Broadband Plan (NBP) observed that as “more aspects of daily life move online and offline alternatives disappear, the range of choices available to people without broadband narrows. Digital exclusion compounds inequities for historically marginalized groups.” Based on those trends, the NBP also warned that “digital exclusion is large and growing. For individuals, the cost manifests itself in the form of lost opportunities. . . .People with low incomes, people with disabilities, racial and ethnic minorities, people living on Tribal lands and people living in rural areas are less likely to have broadband at home.” The NBP further predicted that “our accelerating reliance on digital technology appears to be driving greater disparities; [and if] left unaddressed, those gaps will likely grow.” 3 The National Urban League’s own 2018 State of Black America Report also raised concerns about the digital divide and launched the Digital Inclusion Index."
+    },
+    {
+     "inicio_corpo": 22514,
+     "fim_corpo": 23450,
+     "trecho": "Lastly, while we are focused on ensuring all Americans have the tools, skills, and resources to participate fully in 21st century society and the digital economy, we also want to close gaps that limit opportunities to participate meaningfully and to create value in the tech industry as broadband and broadband-enabled enterprises continue to innovate, grow, and prosper. The Latimer Plan identifies this as the access to economic opportunity gap. This is the gap between how different communities have access to opportunities for wealth generation created by broadband and digital technologies. Early tech optimists touted the rise of the internet as having the potential to be the great equalizer of society. Instead, it has exacerbated the historic divisions between the haves and have nots, leaving minority communities with fewer avenues to participate and 9 develop economic opportunities in the Internet economy."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0150::Renda e classe",
+   "unit_id": "W0150",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Joi Chaney",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low income",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1759,
+     "fim_corpo": 2570,
+     "trecho": "It is undeniable that the COVID-19 pandemic has had an unprecedented, widespread impact on households across our country, changing the way we work, attend classes, obtain healthcare, access government services, worship, connect with loved ones and entertain ourselves. All of these activities shifted online, making access to reliable home broadband internet more critical than ever. Prior to the COVID-19 pandemic, many individuals, families, and children relied on their schools, places of work, and other public “third spaces” like libraries, churches, internet cafes and coffee shops to connect to the internet because they did not have a broadband internet connection in the home--with a disproportionate number of these Americans being from communities of color or low-income communities."
+    },
+    {
+     "inicio_corpo": 3256,
+     "fim_corpo": 4632,
+     "trecho": "The benefits of being connected grew even faster, but so did the costs to communities who were not connected. The COVID-19 pandemic proved that broadband was no longer a nicety; it had become a necessity, just as necessary as electricity and running water. But policymakers and experts will tell you that this has been a decades-old issue in the making. In fact, ten years ago, the National Broadband Plan (NBP) observed that as “more aspects of daily life move online and offline alternatives disappear, the range of choices available to people without broadband narrows. Digital exclusion compounds inequities for historically marginalized groups.” Based on those trends, the NBP also warned that “digital exclusion is large and growing. For individuals, the cost manifests itself in the form of lost opportunities. . . .People with low incomes, people with disabilities, racial and ethnic minorities, people living on Tribal lands and people living in rural areas are less likely to have broadband at home.” The NBP further predicted that “our accelerating reliance on digital technology appears to be driving greater disparities; [and if] left unaddressed, those gaps will likely grow.” 3 The National Urban League’s own 2018 State of Black America Report also raised concerns about the digital divide and launched the Digital Inclusion Index."
+    },
+    {
+     "inicio_corpo": 13526,
+     "fim_corpo": 14436,
+     "trecho": "7% for unavailable or insufficient service. As such, it does not help much to have lightning-fast broadband at your front door, if you cannot afford to subscribe to it. 6 This is why we are supportive of the Federal Communications Commission’s Emergency Broadband Benefit. We were thrilled to see it launched on May 12th. It addresses affordability during this current crisis. But our goal is not to return to pre-pandemic inequity once the emergency is over. We need a sustainable solution to ensure Americans can afford quality broadband long-term. There are some who believe greater deployment alone can close both availability and adoption gaps through competition that will drive down prices. While we would love this to be true, the data we have seen does not support this or is uneven at best. Moreover, where competition had some benefit, it had little impact on low-income adoption."
+    },
+    {
+     "inicio_corpo": 15928,
+     "fim_corpo": 17006,
+     "trecho": "We also need to ensure even greater accountability with respect to internet service providers. While we believe a broadband benefit to be the strongest solution to unaffordability, our Latimer Plan proposes an alternative in which Congress creates a new program to guarantee access to essential services. The new program, which we call Lifeline+, would include LifelineMobile, which would continue the current Lifeline subsidy for basic voice and mobile functions with some limited data, albeit with comprehensive reforms; and LifelineHome. LifelineHome would be composed of LifelineJobs, which would provide broadband at home to the unemployed, empowering them to utilize online programs to upgrade their skills, as well as search, apply and interview for jobs; LifelineMed, which would provide broadband at home to low-income persons, to utilize the full suite of telehealth services; and LifelineEd, which would provide broadband at home to low- income families with K-12 schoolchildren and members of their households, to utilize all forms of digital learning."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0150::Saúde",
+   "unit_id": "W0150",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Joi Chaney",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "Telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6328,
+     "fim_corpo": 7107,
+     "trecho": "The Superintendent stated that “If [it’s] not available to all children, we cannot make it available to some.” For these students, the traditional summer slide in educational achievement—which could usually be mitigated through a thoughtful summer online tutoring program—had become a catastrophic COVID slide, placing unconnected students in danger of falling permanently behind. A similar story can be told about healthcare. We see the lack of broadband access leading to inequality in obtaining the vaccine for COVID-19. However, the relationship between access to broadband and access to healthcare is not a short-term story but rather, part of what will be a long-term trend. Telehealth has become a critical necessity since the start of the COVID-19 pandemic."
+    },
+    {
+     "inicio_corpo": 6328,
+     "fim_corpo": 7260,
+     "trecho": "The Superintendent stated that “If [it’s] not available to all children, we cannot make it available to some.” For these students, the traditional summer slide in educational achievement—which could usually be mitigated through a thoughtful summer online tutoring program—had become a catastrophic COVID slide, placing unconnected students in danger of falling permanently behind. A similar story can be told about healthcare. We see the lack of broadband access leading to inequality in obtaining the vaccine for COVID-19. However, the relationship between access to broadband and access to healthcare is not a short-term story but rather, part of what will be a long-term trend. Telehealth has become a critical necessity since the start of the COVID-19 pandemic. Some estimates show that healthcare providers are seeing 50 to 175 times more patients using telehealth than they did immediately before the pandemic."
+    },
+    {
+     "inicio_corpo": 6713,
+     "fim_corpo": 7418,
+     "trecho": "A similar story can be told about healthcare. We see the lack of broadband access leading to inequality in obtaining the vaccine for COVID-19. However, the relationship between access to broadband and access to healthcare is not a short-term story but rather, part of what will be a long-term trend. Telehealth has become a critical necessity since the start of the COVID-19 pandemic. Some estimates show that healthcare providers are seeing 50 to 175 times more patients using telehealth than they did immediately before the pandemic. We don’t expect this trend to simply reverse post pandemic because of the benefits telehealth provides to those who cannot easily visit a doctor in person."
+    },
+    {
+     "inicio_corpo": 6713,
+     "fim_corpo": 7550,
+     "trecho": "A similar story can be told about healthcare. We see the lack of broadband access leading to inequality in obtaining the vaccine for COVID-19. However, the relationship between access to broadband and access to healthcare is not a short-term story but rather, part of what will be a long-term trend. Telehealth has become a critical necessity since the start of the COVID-19 pandemic. Some estimates show that healthcare providers are seeing 50 to 175 times more patients using telehealth than they did immediately before the pandemic. We don’t expect this trend to simply reverse post pandemic because of the benefits telehealth provides to those who cannot easily visit a doctor in person. Nevertheless, telehealth is out of reach or made more difficult for those Americans without a home broadband internet connection."
+    },
+    {
+     "inicio_corpo": 6861,
+     "fim_corpo": 7742,
+     "trecho": "However, the relationship between access to broadband and access to healthcare is not a short-term story but rather, part of what will be a long-term trend. Telehealth has become a critical necessity since the start of the COVID-19 pandemic. Some estimates show that healthcare providers are seeing 50 to 175 times more patients using telehealth than they did immediately before the pandemic. We don’t expect this trend to simply reverse post pandemic because of the benefits telehealth provides to those who cannot easily visit a doctor in person. Nevertheless, telehealth is out of reach or made more difficult for those Americans without a home broadband internet connection. One study found that only 38.6% of the people who live more than a 70- minute drive from a primary care physician subscribe to an Internet connection capable of handling telehealth services."
+    },
+    {
+     "inicio_corpo": 7020,
+     "fim_corpo": 7920,
+     "trecho": "Telehealth has become a critical necessity since the start of the COVID-19 pandemic. Some estimates show that healthcare providers are seeing 50 to 175 times more patients using telehealth than they did immediately before the pandemic. We don’t expect this trend to simply reverse post pandemic because of the benefits telehealth provides to those who cannot easily visit a doctor in person. Nevertheless, telehealth is out of reach or made more difficult for those Americans without a home broadband internet connection. One study found that only 38.6% of the people who live more than a 70- minute drive from a primary care physician subscribe to an Internet connection capable of handling telehealth services. 4 Many of the individuals without access to telehealth are also earning lower incomes and cannot afford to take time off work or pay for childcare to get seen by a doctor."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0150::Saúde e deficiência",
+   "unit_id": "W0150",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Joi Chaney",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "disabilities",
+     "forma_encontrada": "disabilities",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3256,
+     "fim_corpo": 4632,
+     "trecho": "The benefits of being connected grew even faster, but so did the costs to communities who were not connected. The COVID-19 pandemic proved that broadband was no longer a nicety; it had become a necessity, just as necessary as electricity and running water. But policymakers and experts will tell you that this has been a decades-old issue in the making. In fact, ten years ago, the National Broadband Plan (NBP) observed that as “more aspects of daily life move online and offline alternatives disappear, the range of choices available to people without broadband narrows. Digital exclusion compounds inequities for historically marginalized groups.” Based on those trends, the NBP also warned that “digital exclusion is large and growing. For individuals, the cost manifests itself in the form of lost opportunities. . . .People with low incomes, people with disabilities, racial and ethnic minorities, people living on Tribal lands and people living in rural areas are less likely to have broadband at home.” The NBP further predicted that “our accelerating reliance on digital technology appears to be driving greater disparities; [and if] left unaddressed, those gaps will likely grow.” 3 The National Urban League’s own 2018 State of Black America Report also raised concerns about the digital divide and launched the Digital Inclusion Index."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0150::Territórios de povos e comunidades tradicionais",
+   "unit_id": "W0150",
+   "subcategoria": "Territórios de povos e comunidades tradicionais",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Joi Chaney",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "Tribal lands",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3367,
+     "fim_corpo": 4632,
+     "trecho": "The COVID-19 pandemic proved that broadband was no longer a nicety; it had become a necessity, just as necessary as electricity and running water. But policymakers and experts will tell you that this has been a decades-old issue in the making. In fact, ten years ago, the National Broadband Plan (NBP) observed that as “more aspects of daily life move online and offline alternatives disappear, the range of choices available to people without broadband narrows. Digital exclusion compounds inequities for historically marginalized groups.” Based on those trends, the NBP also warned that “digital exclusion is large and growing. For individuals, the cost manifests itself in the form of lost opportunities. . . .People with low incomes, people with disabilities, racial and ethnic minorities, people living on Tribal lands and people living in rural areas are less likely to have broadband at home.” The NBP further predicted that “our accelerating reliance on digital technology appears to be driving greater disparities; [and if] left unaddressed, those gaps will likely grow.” 3 The National Urban League’s own 2018 State of Black America Report also raised concerns about the digital divide and launched the Digital Inclusion Index."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0150::Urbano e rural",
+   "unit_id": "W0150",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Joi Chaney",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3367,
+     "fim_corpo": 4632,
+     "trecho": "The COVID-19 pandemic proved that broadband was no longer a nicety; it had become a necessity, just as necessary as electricity and running water. But policymakers and experts will tell you that this has been a decades-old issue in the making. In fact, ten years ago, the National Broadband Plan (NBP) observed that as “more aspects of daily life move online and offline alternatives disappear, the range of choices available to people without broadband narrows. Digital exclusion compounds inequities for historically marginalized groups.” Based on those trends, the NBP also warned that “digital exclusion is large and growing. For individuals, the cost manifests itself in the form of lost opportunities. . . .People with low incomes, people with disabilities, racial and ethnic minorities, people living on Tribal lands and people living in rural areas are less likely to have broadband at home.” The NBP further predicted that “our accelerating reliance on digital technology appears to be driving greater disparities; [and if] left unaddressed, those gaps will likely grow.” 3 The National Urban League’s own 2018 State of Black America Report also raised concerns about the digital divide and launched the Digital Inclusion Index."
+    },
+    {
+     "inicio_corpo": 9994,
+     "fim_corpo": 10954,
+     "trecho": "Our Lewis Latimer Plan for Digital Equity and Inclusion provides an agenda for achieving that vision by honing in on four big, but achievable goals: ● Deploying networks everywhere; ● Getting everyone connected to those networks; ● Using the networks to improve how we deliver essential services like education, employment, and healthcare; and ● Creating new economic opportunities to participate in growth of the digital economy. To achieve these goals, the Latimer Plan provides a detailed and comprehensive agenda. The first gap the Plan addresses is the availability gap between those who have access to broadband networks where they live and those who do not. For millions of American homes, businesses and other enterprises, there is no available broadband network 5 capable of allowing them to participate fully in 21st century life. This is generally a rural problem, where higher capital costs are required to reach fewer customers."
+    },
+    {
+     "inicio_corpo": 25769,
+     "fim_corpo": 26661,
+     "trecho": "As successful as Mr. Latimer was, his story also illustrates the longstanding problem of Black and Latinx participation in the tech sector and the experience of America’s working poor. A free Black patent-holder and the son of slaves, his inventions and contributions were critical to the success of his employers, Thomas Edison, and Alexander Graham Bell. Yet, unfortunately and all-too-predictably, he had no opportunity to take ownership or accumulate generational wealth from the vast businesses those inventions spawned. It is our job to ensure these historic injustices do not continue to repeat themselves. Demanding broadband access is really about demanding inclusion and enabling all Americans to participate in modern society and our economy. Whether in rural or urban communities, much of American life requires quality, fast, reliable, and secure internet on demand."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0150::Vínculo institucional",
+   "unit_id": "W0150",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Joi Chaney",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "Veterans",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "veterans",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 20805,
+     "fim_corpo": 21795,
+     "trecho": "By advancing equity across the federal government, we can create opportunities for the improvement of communities that have been historically underserved, which benefits everyone. The Executive Order further mandates that “each agency must assess whether, and to what extent, its programs and policies perpetuate systemic barriers to opportunities and benefits for people of color and other underserved groups.” If one were to make such an assessment, it would inevitably find that today, and to an even greater extent in the future, those opportunities and benefits are either best, or exclusively, provided online. It is not surprising that in a report by the Partnership for Public Service on “Federal Success Stories from the COVID-19 Pandemic”, the best examples of improving service to customers all included online innovation. One example was the Veterans’ Administration developing a COVID-19 “chatbot” to triage veterans based on their specific questions and needs."
+    },
+    {
+     "inicio_corpo": 20988,
+     "fim_corpo": 21795,
+     "trecho": "The Executive Order further mandates that “each agency must assess whether, and to what extent, its programs and policies perpetuate systemic barriers to opportunities and benefits for people of color and other underserved groups.” If one were to make such an assessment, it would inevitably find that today, and to an even greater extent in the future, those opportunities and benefits are either best, or exclusively, provided online. It is not surprising that in a report by the Partnership for Public Service on “Federal Success Stories from the COVID-19 Pandemic”, the best examples of improving service to customers all included online innovation. One example was the Veterans’ Administration developing a COVID-19 “chatbot” to triage veterans based on their specific questions and needs."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0152::Administração pública",
+   "unit_id": "W0152",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Matt Dunne",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local\ngovernments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8336,
+     "fim_corpo": 9641,
+     "trecho": "Yet we must recognize these forwhat they are: Stop-gaps, not answers for the long term. There are also some homesthat are off-grid or miles off the main road for which wireless can be the solution,but those should be the exception and not the rule. When rural electrification was the cause, we didn’tgive rural people flimsy windmills to put on their houses, but instead builtlong-term, resilient infrastructure to put 98% of all Americans on equal footing to access electricity— transforming economies and education across the nation. We should expectno less with broadband. 3.Allow municipal, coop, and public-private broadbandsolutions When the private sector did not bring electricityto rural places, rural communities created cooperative and municipal utilities to closethe gaps. We must allow local governments, counties, communication union districts, and electric cooperatives to do the same for broadband.States that have explicitlyallowed for public-private partnerships for delivering broadband have seen adramatically higher rate of deployment of fiber to the home.With more taxpayermoney than ever going to subsidizing broadband deployment, we recommend thatfederal broadband funding be predicated upon a state eliminating barriers to thesesolutions for unserved and underserved communities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0152::Cultura e informação",
+   "unit_id": "W0152",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Matt Dunne",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "library",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "library",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "library",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2049,
+     "fim_corpo": 2901,
+     "trecho": "Where we are right now Broadband is no longer a luxury. It is a necessarypiece of infrastructure to ensure there is equal access to healthcare, education,and jobs. And COVID has created a moment where there is the motivation andmomentum to close the broadband gap. Nearly a century ago, our leaders realized that unequalaccess to electricity prevented regions of the country from being able tocompete and thrive, and they stepped up to solve the problem. We need to take alesson from rural electrification and do this right. If we do not focus on delivering future-proofbroadband, we will be back here in five years and billions of dollars later discussingonce again the inequity in broadband connectivity. Even before the pandemic, rural America struggledwith the broadband gap. There’s a small town near our headquarters that hasa fantastic library."
+    },
+    {
+     "inicio_corpo": 2105,
+     "fim_corpo": 3027,
+     "trecho": "It is a necessarypiece of infrastructure to ensure there is equal access to healthcare, education,and jobs. And COVID has created a moment where there is the motivation andmomentum to close the broadband gap. Nearly a century ago, our leaders realized that unequalaccess to electricity prevented regions of the country from being able tocompete and thrive, and they stepped up to solve the problem. We need to take alesson from rural electrification and do this right. If we do not focus on delivering future-proofbroadband, we will be back here in five years and billions of dollars later discussingonce again the inequity in broadband connectivity. Even before the pandemic, rural America struggledwith the broadband gap. There’s a small town near our headquarters that hasa fantastic library. You’d drive by on Sundays and the parking lot would be full, whichwouldn’t be so odd if the library weren’t closed on Sunday."
+    },
+    {
+     "inicio_corpo": 2314,
+     "fim_corpo": 3164,
+     "trecho": "Nearly a century ago, our leaders realized that unequalaccess to electricity prevented regions of the country from being able tocompete and thrive, and they stepped up to solve the problem. We need to take alesson from rural electrification and do this right. If we do not focus on delivering future-proofbroadband, we will be back here in five years and billions of dollars later discussingonce again the inequity in broadband connectivity. Even before the pandemic, rural America struggledwith the broadband gap. There’s a small town near our headquarters that hasa fantastic library. You’d drive by on Sundays and the parking lot would be full, whichwouldn’t be so odd if the library weren’t closed on Sunday. That parking lot was full of people doing work or homework from their cars, making the most of the wifi leakingfrom the library windows."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0152::Educação",
+   "unit_id": "W0152",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Matt Dunne",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2756,
+     "fim_corpo": 3597,
+     "trecho": "Even before the pandemic, rural America struggledwith the broadband gap. There’s a small town near our headquarters that hasa fantastic library. You’d drive by on Sundays and the parking lot would be full, whichwouldn’t be so odd if the library weren’t closed on Sunday. That parking lot was full of people doing work or homework from their cars, making the most of the wifi leakingfrom the library windows. But this was no longer funny once COVID hit. The pandemiclaid bare the depth and severity of the digital divide — more than 20%of rural Americans don’t have access to broadband, a figure that is even worse for communitiesof color.In the Black rural south, for example, it’s estimated that 46% of ruralBlack residents don’t have broadband access at home.During the pandemic, millionsof children couldn’t participate in remote school."
+    },
+    {
+     "inicio_corpo": 2901,
+     "fim_corpo": 3806,
+     "trecho": "You’d drive by on Sundays and the parking lot would be full, whichwouldn’t be so odd if the library weren’t closed on Sunday. That parking lot was full of people doing work or homework from their cars, making the most of the wifi leakingfrom the library windows. But this was no longer funny once COVID hit. The pandemiclaid bare the depth and severity of the digital divide — more than 20%of rural Americans don’t have access to broadband, a figure that is even worse for communitiesof color.In the Black rural south, for example, it’s estimated that 46% of ruralBlack residents don’t have broadband access at home.During the pandemic, millionsof children couldn’t participate in remote school. Superintendents reportedlosing touch completely with many of their at-risk students. People who could workremotely would sit in running cars trying to use hotspots hastily put up by schools orpolice stations."
+    },
+    {
+     "inicio_corpo": 10874,
+     "fim_corpo": 11776,
+     "trecho": "The fact is we all know that we shouldn’t make allof these kinds of community infrastructure decisions from Washington. We needto work in partnership with states and communities that are on the ground, the peoplewho already understand where we need to prioritize and can be effective in holdingthe recipients of these funds accountable. 5.Invest in programs to build the broadband laborforce Building out universal fiber broadband in the U.S.would require 250,000 new jobs, and that doesn't even count the number of jobsthat wireless deployments, like 5G, would require on top of that. The good news is trainingfor these jobs can allow for well-compensated careers beyond this intensive periodof infrastructure investment. This moment deserves a massive investment in apprenticeshipsand partnerships with tech schools and community colleges to ensure we’rebuilding the workforce to realize the vision."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0152::Escolaridade e letramento",
+   "unit_id": "W0152",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Matt Dunne",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2829,
+     "fim_corpo": 3682,
+     "trecho": "There’s a small town near our headquarters that hasa fantastic library. You’d drive by on Sundays and the parking lot would be full, whichwouldn’t be so odd if the library weren’t closed on Sunday. That parking lot was full of people doing work or homework from their cars, making the most of the wifi leakingfrom the library windows. But this was no longer funny once COVID hit. The pandemiclaid bare the depth and severity of the digital divide — more than 20%of rural Americans don’t have access to broadband, a figure that is even worse for communitiesof color.In the Black rural south, for example, it’s estimated that 46% of ruralBlack residents don’t have broadband access at home.During the pandemic, millionsof children couldn’t participate in remote school. Superintendents reportedlosing touch completely with many of their at-risk students."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0152::Idade",
+   "unit_id": "W0152",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Matt Dunne",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "seniors",
+     "forma_encontrada": "Seniors",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3027,
+     "fim_corpo": 3949,
+     "trecho": "That parking lot was full of people doing work or homework from their cars, making the most of the wifi leakingfrom the library windows. But this was no longer funny once COVID hit. The pandemiclaid bare the depth and severity of the digital divide — more than 20%of rural Americans don’t have access to broadband, a figure that is even worse for communitiesof color.In the Black rural south, for example, it’s estimated that 46% of ruralBlack residents don’t have broadband access at home.During the pandemic, millionsof children couldn’t participate in remote school. Superintendents reportedlosing touch completely with many of their at-risk students. People who could workremotely would sit in running cars trying to use hotspots hastily put up by schools orpolice stations. Seniors unable to access new telehealth technologies due to poor broadbandwere forced to risk infection to visit clinics for routine checkups."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0152::Infraestrutura e porte populacional",
+   "unit_id": "W0152",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Matt Dunne",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "last mile",
+     "forma_encontrada": "last mile",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8872,
+     "fim_corpo": 9641,
+     "trecho": "We should expectno less with broadband. 3.Allow municipal, coop, and public-private broadbandsolutions When the private sector did not bring electricityto rural places, rural communities created cooperative and municipal utilities to closethe gaps. We must allow local governments, counties, communication union districts, and electric cooperatives to do the same for broadband.States that have explicitlyallowed for public-private partnerships for delivering broadband have seen adramatically higher rate of deployment of fiber to the home.With more taxpayermoney than ever going to subsidizing broadband deployment, we recommend thatfederal broadband funding be predicated upon a state eliminating barriers to thesesolutions for unserved and underserved communities."
+    },
+    {
+     "inicio_corpo": 8872,
+     "fim_corpo": 9641,
+     "trecho": "We should expectno less with broadband. 3.Allow municipal, coop, and public-private broadbandsolutions When the private sector did not bring electricityto rural places, rural communities created cooperative and municipal utilities to closethe gaps. We must allow local governments, counties, communication union districts, and electric cooperatives to do the same for broadband.States that have explicitlyallowed for public-private partnerships for delivering broadband have seen adramatically higher rate of deployment of fiber to the home.With more taxpayermoney than ever going to subsidizing broadband deployment, we recommend thatfederal broadband funding be predicated upon a state eliminating barriers to thesesolutions for unserved and underserved communities."
+    },
+    {
+     "inicio_corpo": 9641,
+     "fim_corpo": 10602,
+     "trecho": "4.Resist the temptation of reverse auctions, andhave funding follow plans such as USDA ReConnect that are driven by states and regions Reverse auctions sound good in concept, but they havefrequently failed to deliver in practice for critical infrastructure likebroadband.We can’t imagine distributing transportation funds the same way — a D.C.-based competitionto fund construction companies willing to pave the most roads for the leastamount of money, but not necessarily building the roads between communitiesthat will have less traffic. Seizing this moment to build universal broadband requiresfocusing on serving an entire community or region, not funding privateinternet service providers (ISPs) to take on a patchwork of locations. Provide fundingto states based on plans designed with local context and expertise that ensure a pathto fiber coverage for the last mile, with a clear focus on those locations that currentlyhave less than 25/3 connectivity."
+    },
+    {
+     "inicio_corpo": 11211,
+     "fim_corpo": 12244,
+     "trecho": "5.Invest in programs to build the broadband laborforce Building out universal fiber broadband in the U.S.would require 250,000 new jobs, and that doesn't even count the number of jobsthat wireless deployments, like 5G, would require on top of that. The good news is trainingfor these jobs can allow for well-compensated careers beyond this intensive periodof infrastructure investment. This moment deserves a massive investment in apprenticeshipsand partnerships with tech schools and community colleges to ensure we’rebuilding the workforce to realize the vision. 6.Create enforcement mechanisms that hold providersaccountable After all we’ve spent, and all we’re considering spendingto solve this issue, why would we not also implement the appropriate enforcementmechanisms to ensure these funds achieve their intended purpose? In the past,when ISPs failed to meet their obligations for reaching unserved communities withfederal subsidy money, the government moved the goalposts — essentially gavethem a pass so no one looked bad."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0152::Posição no trabalho",
+   "unit_id": "W0152",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Matt Dunne",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 941,
+     "fim_corpo": 1601,
+     "trecho": "The rural-urban divide that’s emerged since the GreatRecession was driven by automation and a decline in entrepreneurship. As ofJanuary 2020, less than half of all rural counties had returned to their pre-recessionemployment levels — and COVID-19 only knocked these counties to new lows. The reasonfor this divide is in large part due to the fact that high-paying, resilient, digital economyjobs that are resistant to automation — like computer programmers, cybersecurity analysts, IT specialists, and others — are not distributed equally across the country. Rural America represents 15% of the nation’s workforce but only 5% of the digitaleconomy workforce."
+    },
+    {
+     "inicio_corpo": 941,
+     "fim_corpo": 1601,
+     "trecho": "The rural-urban divide that’s emerged since the GreatRecession was driven by automation and a decline in entrepreneurship. As ofJanuary 2020, less than half of all rural counties had returned to their pre-recessionemployment levels — and COVID-19 only knocked these counties to new lows. The reasonfor this divide is in large part due to the fact that high-paying, resilient, digital economyjobs that are resistant to automation — like computer programmers, cybersecurity analysts, IT specialists, and others — are not distributed equally across the country. Rural America represents 15% of the nation’s workforce but only 5% of the digitaleconomy workforce."
+    },
+    {
+     "inicio_corpo": 10874,
+     "fim_corpo": 11776,
+     "trecho": "The fact is we all know that we shouldn’t make allof these kinds of community infrastructure decisions from Washington. We needto work in partnership with states and communities that are on the ground, the peoplewho already understand where we need to prioritize and can be effective in holdingthe recipients of these funds accountable. 5.Invest in programs to build the broadband laborforce Building out universal fiber broadband in the U.S.would require 250,000 new jobs, and that doesn't even count the number of jobsthat wireless deployments, like 5G, would require on top of that. The good news is trainingfor these jobs can allow for well-compensated careers beyond this intensive periodof infrastructure investment. This moment deserves a massive investment in apprenticeshipsand partnerships with tech schools and community colleges to ensure we’rebuilding the workforce to realize the vision."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0152::Saúde",
+   "unit_id": "W0152",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Matt Dunne",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3027,
+     "fim_corpo": 3949,
+     "trecho": "That parking lot was full of people doing work or homework from their cars, making the most of the wifi leakingfrom the library windows. But this was no longer funny once COVID hit. The pandemiclaid bare the depth and severity of the digital divide — more than 20%of rural Americans don’t have access to broadband, a figure that is even worse for communitiesof color.In the Black rural south, for example, it’s estimated that 46% of ruralBlack residents don’t have broadband access at home.During the pandemic, millionsof children couldn’t participate in remote school. Superintendents reportedlosing touch completely with many of their at-risk students. People who could workremotely would sit in running cars trying to use hotspots hastily put up by schools orpolice stations. Seniors unable to access new telehealth technologies due to poor broadbandwere forced to risk infection to visit clinics for routine checkups."
+    },
+    {
+     "inicio_corpo": 7201,
+     "fim_corpo": 8123,
+     "trecho": "Please create a penalty if providers send the FCC inaccurate information,and a mechanism to spot-check or verify that information. Congress didpass the Broadband Deployment Accuracy and Technological Availability (DATA) Actlast year, and the FCC is currently working on it, but an explicit requirement for accuratereporting would make all of this easier now and into the future. 2.Focus on fast, and focus on fiber In order to truly seize this moment, we need to focuson building the broadband infrastructure that can support decades of use. Andthat means putting resources behind getting fiber to the home whenever possible.Consumer bandwidth needs increase 20-30% each year, and wireless solutions,including low-earth orbit (LEO) satellites, simply will not be able to keep up withthe growing speed demands of modern internet usage, especially when it comes to telehealthand collaborative tools for work and education."
+    }
+   ]
+  }
+ ]
+}

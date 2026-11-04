@@ -1,0 +1,602 @@
+# W0195 | Denny Law | Inc
+# 117th Congress | Senate | 2021-06-22
+# Hearings to examine building resilient networks.
+# source: transcript jacket 54372
+
+STATEMENT OF DENNY LAW, CHIEF EXECUTIVE OFFICER, GOLDEN WEST 
+              TELECOMMUNICATIONS COOPERATIVE, INC.
+
+    Mr. Law. Thank you, Chairman Lujan, Ranking Member Thune, 
+members of the Subcommittee. Thank you for this opportunity to 
+participate in today's hearing on network resiliency.
+    For over a century, Golden West has provided communications 
+services to rural South Dakota. Today, we have more than 30,000 
+accounts, located across a geographic area, the size of 
+Maryland, New Jersey, Connecticut, and Delaware combined. That 
+is fewer than 2 customers per square mile. In addition to 
+robust service for consumers and businesses within our 
+territory, we serve several Tribal reservations, numerous 
+anchor institutions, including schools and hospitals, VA 
+facilities, and five Public Safety Answering Points.
+    Golden 111--The Rural Broadband Association, which 
+represents approximately 850 rural, community-based carriers 
+like Golden West that offer advanced communications services 
+throughout the most sparsely populated areas of the Nation. We 
+operate in deeply rural markets where the cost of deploying and 
+operating networks is high and a tailored approach to managing 
+risk and resiliency, as necessary, to create sustainable 
+networks.
+    The first step to achieving resilient and reliable 
+communications services begins with the network infrastructure. 
+Golden West technology infrastructure is designed with 
+resiliency in mind, including the construction of hardened 
+buildings to withstand extreme weather conditions, large banks 
+of redundant batteries in every network office, that are also 
+backed up by standby generators.
+    Golden West has also invested in physically diverse fiber 
+routes, connecting to each of our network offices, coupled with 
+redundant electronics with multiple connections to prevent 
+large numbers of customers from being isolated from Golden 
+West's local networks. We have also established connections to 
+statewide fiber networks that provide middle mile transport and 
+added redundant connections to separate Internet points of 
+presence where possible.
+    To mitigate the cost of purchasing this capacity from 
+larger regional or national carriers, SDN Communications--an 
+entity owned by Golden West--and a number of other small 
+community-based providers in South Dakota enables connectivity 
+between rural South Dakota and the rest of the world. SDN was 
+created 30 years ago to connect rural markets to better long 
+distance telephone service. And today, it is because of SDN's 
+50,000-mile fiber network, that Golden West customers do not 
+get isolated from the world in the event of a fiber cut, or a 
+single network disruption.
+    Deployment of cheaper technologies than fiber, often sounds 
+attractive in rural markets. But it comes at a different kind 
+of cost. Technology that causes connectivity to be spotty when 
+it rains or snows, suffers from degradation or complete 
+shutdown in extreme temperatures, and counters line of sight 
+issues with seasonal foliage growth, or have network components 
+exposed to the elements, may be less expensive to install 
+initially.
+    But those technologies often come with a higher operating 
+cost over time, and lack the kind of reliability for essential 
+functions, which could leave consumers without the ability to 
+dial 911 during a hurricane, because the underlying network 
+does not perform reliably in the rain.
+    Another leading threat to network resiliency involves 
+security. Each day, our networks can face the same security 
+threats and denial of service attacks as the larger national 
+broadband providers. To help mitigate those risks, Golden West, 
+again, partnered with SDN to collectively deploy distributed 
+denial of service protection across our networks.
+    Knowing where to monitor, or take steps to manage risk on a 
+network, can be the hardest part for many smaller providers. To 
+support those efforts, NTCA created Cybershare which, among 
+other things, is an information sharing center that provides 
+access to daily threat indicators and a weekly technical 
+analysis for small broadband providers, like Golden West.
+    Finally, while high cost is the most imposing obstacle to 
+deploying and maintaining reliable broadband in rural areas, 
+other barriers can affect the ability to achieve resiliency, 
+redundancy, and security objectives, including permitting 
+delays or other access issues, like crossing railroads, supply 
+chain shortages for critical communications equipment such as 
+fiber or customer premise equipment, and shortages of skilled 
+telecommunications workers, that help all providers deploy or 
+repair networks.
+    Mr. Chairman, Ranking Member Thune, thank you for this 
+opportunity to testify today and I look forward to your 
+questions later.
+    [The prepared statement of Mr. Law follows:]
+
+[...]
+
+Prepared Statement of Denny Law, Chief Executive Officer, Golden West 
+                  Telecommunications Cooperative, Inc.
+    Chairman Lujan, Ranking Member Thune, and members of the 
+Subcommittee, thank you for the opportunity to participate in today's 
+hearing focused on building resilient networks.
+    I am Denny Law, Chief Executive Officer of Golden West 
+Telecommunications Cooperative, Inc. in Wall, South Dakota. For over a 
+century, Golden West and its subsidiaries have provided communications 
+services to rural South Dakota, starting in 1916 with the stringing of 
+a telephone line along fence posts. Today, Golden West has more than 
+30,000 accounts, including 29,000 broadband subscribers and nearly 
+9,000 cable television customers. Our customers are located across 
+24,500 square miles--an area approximately the size of Maryland, New 
+Jersey, Connecticut, and Delaware combined--which equates to fewer than 
+2 customers per square mile. In addition to robust service for 
+consumers and businesses within our territory, we serve numerous anchor 
+institutions, including 73 K-12 schools, 62 health clinics and 
+hospitals, 20 libraries, five Veterans Administration facilities, and 
+five Public Safety Answering Points (PSAPs).
+    Golden West is a member of NTCA--The Rural Broadband Association 
+(NTCA), which represents approximately 850 rural, community-based 
+carriers like Golden West that offer advanced communications services 
+throughout the most sparsely populated areas of the Nation. All NTCA 
+members are fixed voice and broadband providers, and many members also 
+provide mobile, video, and other communications-related services in 
+their communities. Operators like those in NTCA's membership serve less 
+than five percent of the population of the United States but cover 
+about one third of its landmass. We operate in rural areas left behind 
+decades ago when networks were first being built out by other service 
+providers because the markets were too sparsely populated, too high 
+cost, or just too difficult to serve in terms of terrain. In the vast 
+majority of these rural areas, companies like Golden West are the only 
+full-service fixed communications networks available.
+    Despite the challenges of distance and density, Golden West and its 
+fellow small broadband providers have led the charge in deploying 
+advanced communications infrastructure that responds to consumer and 
+business demands and connects rural America with the rest of the world. 
+In rural America, broadband infrastructure enables economic development 
+and job creation not only in agriculture, but for any other industry or 
+enterprise that requires advanced connections to operate in today's 
+economy. Yet those networks need to keep pace with consumer demand and 
+provide reliable connections that deliver consistent performance for 
+users when they depend on those services the most. Throughout the 
+pandemic, as Americans worked and learned from home, consumers drove up 
+network bandwidth usage and demand. Golden West and other small rural 
+operators were able to meet those demands thanks to years of network 
+investments and upgrades in robust and reliable networks.
+    Yet, for all our progress to date, we still have more work to do in 
+deploying and operating this critical infrastructure, as too many rural 
+consumers still lack sufficient connectivity altogether. And, even 
+where networks exist, operators face the challenges of: (1) sustaining 
+and upgrading them to keep pace with consumer demand; (2) delivering 
+affordable services that can be relied upon both for everyday functions 
+that have become increasingly important during the pandemic; (3) 
+ensuring users have access to them in the face of emergencies that may 
+range from extreme heat or cold to wildfires, earthquakes, or other 
+natural disasters; and (4) taking reasonable steps to manage risk and 
+promote the security of networks from intrusions of all kinds.
+    In short, network deployment is an essential goal and a condition 
+precedent to achieving national connectivity objectives, which includes 
+making sure that these networks are there for consumers in their times 
+of greatest need. But the job is not done when the network is built, as 
+community-based providers like Golden West and other smaller rural 
+broadband providers know all too well. Living in the communities we 
+serve, we can see firsthand how the decisions we make and the measures 
+we implement affect our neighbors, friends, and family, and we 
+therefore have substantial incentive to do what we can to make sure 
+they have access to the best possible communications services. At the 
+same time, however, the fact is that we operate in deeply rural markets 
+where the costs of deploying and operating networks can be higher, and 
+a tailored approach to managing risk, resiliency, and redundancy is 
+necessary to create sustainable networks that provide services 
+customers can afford. In this testimony I will provide examples of the 
+kinds of measures we take--starting with network architecture and 
+deployment and continuing through ongoing operations--to promote the 
+availability of robust and reliable communications services for our 
+users.
+Network Resiliency Starts with Smart Network Investment
+    As an initial matter, networks must address the rising demand of 
+consumers' bandwidth needs and be easily scalable to meet that demand. 
+The COVID-19 pandemic has underscored the essential nature of high-
+speed download and upload connectivity for every American, whether at 
+work or at home. For years, small rural community-based providers like 
+Golden West have seen that high-speed broadband facilitates so much 
+more than just downstream applications like streaming video 
+entertainment, and the value of these other uses (and a network capable 
+of supporting them) have been recognized and realized more widely now 
+during the pandemic. Indeed, many Americans now realize the importance 
+of robust broadband in connecting with a doctor without traveling to 
+the medical office or hospital and for students to continue their 
+education even when the classroom is hundreds of miles away or just 
+right down the street but closed. A high-capacity network capable of 
+handling significant upload speeds is also critical for people to 
+continue receiving paychecks by working remotely using secure and 
+bandwidth-intensive virtual private networks. Additionally higher 
+upload speeds enable better two-way capability and network performance 
+that not only allows us to video conference during the work day, but to 
+maintain social interactions with friends, family, and other loved 
+ones.
+    A robust network is also important of course to accommodate the 
+needs of public safety--and the public served by first responders and 
+other professionals in the case of emergencies. Deployment of cheaper 
+technologies often sounds attractive in rural markets, but it comes at 
+a different kind of cost. Connectivity that is spotty when it rains, 
+unreliable when it snows, suffers from degradation or complete shutdown 
+in higher or lower temperatures, encounters line-of-sight issues when 
+foliage grows back on trees, or has network components exposed to the 
+elements may be less expensive to install initially, but these 
+technologies often come with higher operating costs over time, are 
+often unable to keep pace with ever-escalating consumer demand, and 
+lack the kind of reliability that one wants for the conduct of everyday 
+life such as telework, remote learning, or telemedicine, and especially 
+in the case of an emergency. In short, no one wants to be in the 
+position of being unable to access 911 in the event of a hurricane 
+because the underlying network does not perform reliably in the rain.
+    Golden West and other small rural broadband providers have used a 
+variety of methods over the years to deploy service and, as a result, 
+have gained first-hand experience with the differing capabilities and 
+shortcomings of certain technologies. As we look to future needs of our 
+customers and our communities, we have taken aggressive steps to focus 
+on anticipated increases in usage and make network choices that will 
+give our communities that they can rely upon for essential functions 
+such as working or learning from home--and to reach public safety or 
+others in the event of emergencies. Put plainly, we are investing in 
+more and more fiber technology to meet that demand. Golden West has 
+invested in physically-diverse fiber routes connecting to each Golden 
+West network office, coupled with redundant electronics with multiple 
+connections to the network to prevent large numbers of customers from 
+being isolated from Golden West's local network.
+    In addition to continuing to deploy ``last mile'' fiber as fast as 
+we can where we can, we have taken measures to establish robust and 
+reliable connections to statewide fiber networks that provide ``middle 
+mile transport'' between our local communities and the rest of the 
+world, and by adding redundant connections to separate Internet points-
+of-presence where possible. SDN Communications, an entity owned by 
+Golden West and a number of other small community-based providers in 
+South Dakota, was created 30 years ago to help connect rural markets to 
+better long distance telephone service and today it has a 50,000-mile 
+fiber network that enables more robust broadband data connectivity 
+between rural South Dakota and the rest of the world. In partnership 
+with SDN, Golden West maintains multiple connections to the Internet 
+backbone to ensure Golden West customers do not get isolated from the 
+world in the event of a fiber cut or single network disruption.
+    Efforts to deploy more robust and resilient networks, however, come 
+at a cost. Whether we are talking about wired or wireless networks, 
+building redundancy and greater resiliency into networks--especially in 
+rural areas where distances are great and densities are low--can be a 
+challenge. For example, redundancy in a wireless network translates to 
+placement of more antennas or towers and more backhaul capacity such as 
+fiber. Similarly, burying fiber provides relatively greater resiliency 
+and security for both wired connections themselves and for the wireless 
+services that depend upon that fiber foundation. Indeed, one must not 
+overlook how critical a fiber foundation is to every kind of 
+communications technology--wired or wireless. Fiber not only offers the 
+most efficient and economical means of meeting consumer demand well 
+into the future,\1\ but it also is essential to our Nation's 5G future. 
+As the Wireless Infrastructure Association aptly captured in a report 
+last year, ``The buzz around 5G focuses on the wireless aspect of the 
+technology. However, the connectivity it advances is only made possible 
+by extremely dense fiber networks.'' \2\
+---------------------------------------------------------------------------
+    \1\ See BROADBAND TODAY: Rural America's Critical Connection, 
+Foundation for Rural Service (Mar. 8, 2021) (``BROADBAND TODAY''), 
+available at: https://www.ntca.org/sites/default/files/documents/2021-
+02/Rural%20America%27s%20Critical%20Connection%20--%20FRS%20
+White%20Paper.pdf.
+    \2\ Fiber, An Essential Facet of the Connected Community, WIA 
+Innovation & Technology Council (Jul. 22, 2020), p. 4, available at: 
+https://wia.org/wp-content/uploads/Fiber-v3-1.pdf.
+---------------------------------------------------------------------------
+    But burying wires to fulfill the needs of users for better and more 
+reliable wired and wireless connections alike can often be more costly 
+than if one were to string aerial fiber on poles--and in certain parts 
+of the country, it is difficult to impossible at this point to bury 
+fiber for a variety of logistical, environmental, and economic reasons. 
+Similarly, procuring redundant connections to distant peering points 
+hundreds if not thousands of miles away for Internet connectivity is 
+expensive, and it is a cost that is not entirely under our control as 
+many smaller providers must purchase such capacity from larger regional 
+or national operators. In a number of rural states, smaller operators 
+have taken steps to mitigate such costs by banding together to form 
+statewide fiber networks; as noted above, and Golden West is proud to 
+be a member of SDN Communications one of the earliest such statewide 
+collaborative ventures that today provides robust connections to 
+multiple Tier 1 Internet backbone providers. Nonetheless, even as we 
+have taken these great strides to become more efficient while putting 
+into place such redundancy and promoting the reliability of our 
+connections to the rest of the world, we still are forced to rely 
+upon--and pay--the Tier 1 operators.
+    Local providers like Golden West are well-positioned to assess the 
+balance needed in investment strategies and have sound incentives to do 
+all they reasonably can to ensure the communities they serve have 
+services they can depend upon. Our commitment can be seen in the 
+efforts we have made to deploy the best possible networks. Indeed, as 
+NTCA's annual broadband survey confirms year after year, small 
+community-based providers like Golden West have consistently led the 
+charge in rural broadband deployment, with the most recent report 
+indicating that nearly two-thirds of NTCA members' rural customers have 
+access to fiber-to-the-premises connectivity and speeds in excess of 
+100 Mbps. Golden West is in the midst of a multi-year upgrade to 
+replace our decades-old copper network with fiber optics. With more 
+than 14,000 network route miles within South Dakota, at the end of 2021 
+we will have successfully completed 70 percent of the copper network 
+replacement with fiber optic service. This is the kind of connectivity 
+that provides a reliable foundation for users when emergencies strike 
+and a platform for community development and sustainability in rural 
+areas that face many other challenges as well.
+    Nonetheless, because of the higher costs of operating in rural 
+areas, there is a need for governmental support to make the business 
+case work and ultimately to support the kinds of networks that will 
+provide greater resiliency, reliability, redundancy, and capability for 
+rural users. Smaller rural telecom providers like Golden West have long 
+leveraged support from the High-Cost Universal Service Fund (USF) 
+overseen by the Federal Communications Commission (FCC) and Rural 
+Utilities Service (RUS) loans through the Department of Agriculture in 
+concert to deploy advanced telecommunications services in the most 
+rural areas of the United States. Many smaller providers have 
+successfully leveraged a mix of funds from these programs and private 
+investment to deploy robust broadband to millions of homes, businesses, 
+farms, and anchor institutions including public safety entities. While 
+RUS lending programs have helped to finance the substantial upfront 
+costs of network deployment, the USF High-Cost Fund helps make the 
+business case for construction and sustains ongoing operations at 
+affordable rates. More specifically, USF by law aims to ensure 
+``reasonably comparable'' services are available at ``reasonably 
+comparable'' rates.
+    Both the RUS loan programs and the FCC's USF programs are therefore 
+critical to the deployment of the best possible networks in rural areas 
+that meet the objectives of this Subcommittee and other policymakers 
+when it comes to network performance and reliability. It is worth 
+noting, however, that these programs are limited in their resources. 
+Indeed, at times over the past decade, we have seen caps and even cuts 
+in support enacted to the FCC programs in particular that have 
+undermined, rather than furthered, the goal of deploying more robust 
+and reliable networks more deeply into rural areas. In fact, we even 
+saw for a time some policies that encouraged providers not to invest in 
+network deployment as rapidly or that penalized perceived ``gold-
+plating'' of networks that would be more robust and reliable--these 
+caps and constraints certainly did not place value on the notion of 
+redundant connections or help in spurring their deployment. In recent 
+years, however, steps have been taken to enhance and address such 
+concerns in these programs, but the fundamental point remains--rural 
+broadband is not easy, it faces challenges of distance and density that 
+make it higher cost than deploying and operating networks in an urban 
+or suburban area, and without sufficient and predictable support, the 
+goal of promoting resilient and redundant networks in rural American 
+will be far more difficult to achieve.
+Ongoing Efforts to Promote Resilient, Reliable, and More Secure 
+        Networks
+    Often, the primary focus in national broadband discussions is on 
+the one-time act of building networks while insufficient attention is 
+paid to what comes next. Once built, networks must be maintained, 
+upgraded, and made useful over their entire lives, or those investment 
+could be wasted or ultimately become incapable of meeting consumer 
+demands whether in everyday life or in the context of an emergency. 
+Services must be delivered over that infrastructure on an ongoing 
+basis, at rates that are affordable enough for consumers to make good 
+use of them and at consistent and reliable levels of performance. 
+Maintenance must be performed, customer calls must be answered, 
+``middle mile'' capacity to reach distant Internet points of presence 
+must be procured, and upgrades must be made to facilities and 
+electronics to enable services to keep pace with consumer demand and 
+business needs. Constant concerns arise too in the form of bad weather, 
+natural disasters, and third-party risks that make it important both to 
+make sound choices in what kinds of networks to deploy in the first 
+instance and then how those networks will be managed over time.
+    All of this bears witness to the fact that as policymakers consider 
+how best to promote broadband access going forward, we need to consider 
+not only current demand, but also reliability and future projections 
+for performance. When being built--or being funded--networks must 
+account for potential surges or shifts in utilization and how demands 
+on networks continue to increase at astounding rates. The pandemic has 
+certainly highlighted the need for such advance planning and 
+forethought, with a recent report indicating that broadband providers 
+saw a 40 percent increase in broadband usage between the end of 2019 
+and 2020 and estimating that around 30 percent of the modern workforce 
+could be working from home multiple days a week by as soon as the end 
+of 2021, creating a permanent demand for higher speeds and upload 
+capacity.\3\ Similarly, OpenVault has found that upstream broadband 
+that upstream broadband traffic increased by 63 percent from December 
+2019 to December 2020,\4\ underscoring the shifts in network 
+utilization and the need for reliable networks that will deliver 
+consistent performance for those working, learning, or seeking medical 
+assistance from home. Golden West's network usage during the pandemic 
+experienced dramatic changes. In the span of just 90 days from January 
+2020 to April 2020, Golden West's overall network usage increased by 25 
+percent, and the bandwidth usage for upstream alone increased by 41 
+percent in that time. Golden West's network was able to withstand the 
+sudden and unpredicted increase in usage and our customers were able to 
+seamlessly transition to their remote work and education activities.
+---------------------------------------------------------------------------
+    \3\ BROADBAND TODAY, pp. 2, 15.
+    \4\ Dan O'Shea, Pandemic Drove Upstream Broadband Traffic Boom: 
+OpenVault, Fierce Telecom (April 1, 2021, 12:46 PM), https://
+www.fiercetelecom.com/telecom/pandemic-drove-upstream-broadband-
+traffic-boom-openvault.
+---------------------------------------------------------------------------
+    Fortunately, networks like those built by Golden West, SDN, and 
+other providers based in rural America were architected to meet such 
+demands brought on by shifting consumer and business usage. Indeed, as 
+NTCA's annual broadband survey confirms year after year, NTCA members 
+have led the charge in rural broadband deployment, with the most recent 
+report indicating that nearly two-thirds of their rural customers have 
+access to fiber-to-the-premises connectivity and speeds in excess of 
+100 Mbps. Throughout the pandemic, NTCA members reported that their 
+networks performed as designed, without congestion or disruption 
+despite unprecedented increases in demand.
+    Continued growth in demand is expected to increase significantly in 
+coming years, such that peak demand for a family of four is projected 
+to exceed 400 Mbps symmetric in just seven years, with bandwidth needs 
+accelerating in the years after that.\5\ These imminent increases are 
+anticipated due to an array of new technologies that hold substantial 
+promise for consumers and businesses alike, such as greatly improved 
+virtual education, telemedicine, agriculture, business, security, and 
+entertainment. Golden West submits that federally funded broadband 
+programs should therefore focus on the consumer experience and the 
+long-term implications for rural communities by requiring the 
+deployment of networks that in a decade or more will still deliver 
+reliable and resilient services that consumers can depend upon. More 
+specifically, we believe that fiber represents the best choice of 
+network technologies to promote reliability in meeting these demands 
+and ensuring that users have reliable access to public safety and other 
+essential services as well. We also support an increase in the minimum 
+broadband deployment performance benchmark to at least a symmetrical 
+speed of 100 Mbps/100 Mbps to ensure that federally supported networks 
+will meet the future needs of consumers. Any funding programs going 
+forward should generally aim to ensure that new deployments perform at 
+least at this speed threshold.
+---------------------------------------------------------------------------
+    \5\ See Comments of The Fiber Broadband Association, GN Docket No. 
+20-269 (fil. Sep. 18, 2020), pp. 9-10.
+---------------------------------------------------------------------------
+    The same reasoning with respect to ``planning ahead'' and not 
+treating the job as done once the network is built in the first 
+instance follows with respect to promoting network reliability, 
+resiliency, and security. Achieving these objectives in more rural 
+areas turns not just upon the kind of network built--although that is 
+certainly an important factor for the reasons discussed above--but also 
+on the efforts made to operate and upgrade that network over time. 
+Golden West's technology infrastructure is designed with resiliency in 
+mind, including the construction of hardened buildings to withstand 
+extreme weather conditions and large banks of redundant batteries in 
+every network office that are also backed up by standby generators. For 
+all of our customers that are served directly by fiber optics, Golden 
+West installs UPS batteries at customer's homes and businesses to 
+ensure performance during limited power interruptions.
+    Golden West and smaller broadband providers also take seriously 
+network security. On a daily basis, our networks can face the same 
+security threats of intrusion and denial of service attacks as the 
+larger, nationally known broadband providers. As one example of the 
+measures we take to help mitigate these risks, Golden West has 
+partnered with SDN Communications and its other members to collectively 
+deploy Distributed Denial of Service (DDoS) protection across our 
+respective networks. More broadly, smaller rural network owners again 
+have sound incentives to take reasonable steps to secure their 
+operations and manage risks given that any threats to their networks 
+affect the communities in which they live and work--any incidents can 
+affect their own homes and their friends, family, and neighbors. The 
+hardest part for many smaller providers can simply be monitoring 
+threats and taking reasonable steps to manage risk. To enable and 
+empower such efforts, NTCA has worked with a number of members and 
+collaborated with other stakeholders in a variety of ways to raise 
+awareness of cybersecurity issues and to provide tools and actionable 
+information to members regarding cyber risks. Such efforts include 
+participation on the Executive Committee of the Communications Sector 
+Coordinating Council and co-chairing of the Small and Medium-Size 
+Business Working Group organized under the Information and 
+Communications Technology Supply Chain Risk Management Task Force. NTCA 
+also hosts an annual Cyber Summit for members and other small broadband 
+providers that often includes presenters from key agencies such as the 
+Cybersecurity and Infrastructure Security Agency. Finally, NTCA created 
+CyberShare: The Small Broadband Provider Information Sharing and 
+Analysis Center, a member of the National Council of Information 
+Sharing and Analysis Centers, that among other things provides access 
+to daily threat indicators curated for smaller operators' needs along 
+with weekly technical analysis and bi-monthly calls in which providers 
+can share experiences and resources.
+    It is worth noting again, however, that these efforts do not come 
+at a small cost in rural America. As noted earlier, Golden West's 
+serving area is 24,500 square miles--roughly equal in scale to 
+Maryland, New Jersey, Connecticut, and Delaware combined. Dispatching 
+technicians to address network resiliency or redundancy needs across 
+such a wide swath of rural America is not easy, and recovering the 
+costs of doing so from 30,000 customers stretched across this vast 
+terrain would render services unaffordable. For this reason, I must 
+emphasize again the significance of predictable and sufficient ongoing 
+USF support for smaller operators--without such resources, efforts to 
+promote greater resiliency, redundancy, and security in rural networks 
+will run headfirst into the economic realities of operating in areas 
+where there are at most a handful of customers per square mile.
+Other Considerations
+    While high costs are perhaps the most imposing obstacle to 
+deploying and maintaining reliable broadband in rural areas, other 
+barriers can affect the ability to achieve resiliency, redundancy, and 
+security objectives. Several of these are discussed below.
+Permitting Delays
+    Infrastructure investment depends on prompt acquisition or receipt 
+of permissions to build networks. Roadblocks, delays, and increased 
+costs associated with permitting and approval processes are 
+particularly problematic for Golden West and other NTCA members, each 
+of which is a small business that operates only in rural areas where 
+construction projects are undertaken over wide swaths of land. The time 
+involved in obtaining construction permits can take substantial amounts 
+of time, undermining the ability to plan for and deploy broadband 
+infrastructure--especially in those areas of the country with shorter 
+construction seasons due to winter temperatures that freeze the soil 
+and prevent any excavation for burying fiber. Additionally, in some 
+areas of the country, obtaining reasonable terms and conditions for 
+attaching network facilities to poles that are owned and operated by 
+other entities or for installing fiber near or under railroad crossings 
+can result in long delays and costly fees charged to providers seeking 
+to build out networks to rural communities lacking service. These can 
+all affect both the timing for and economics of deploying resilient 
+networks, and redundant facilities in particular.
+    Navigating complicated application and review processes within 
+individual Federal land-managing and property-managing agencies can be 
+burdensome for any network provider, but particularly the smaller 
+network operators that serve the most rural portions of the country. 
+The lack of coordination and standardization in application and 
+approval processes across Federal agencies further complicates the 
+deployment of broadband infrastructure. Congress should look to 
+implement the recommendations of the FCC's Broadband Deployment 
+Advisory Committee's Streamlining Federal Siting Working Group final 
+report issued in January 2018.\6\ NTCA participated in the development 
+of these recommendations, which address streamlining of environmental 
+and historical reviews and application review periods, among other 
+pertinent recommendations in removing further regulatory barriers to 
+broadband deployment. Such measures will be critical to the deployment 
+and sustainability of wired and wireless networks alike, all of which 
+rely in many rural areas upon robust fiber backbones that must often 
+traverse Federal lands.
+---------------------------------------------------------------------------
+    \6\ Broadband Deployment Advisory Committee, Streamlining Federal 
+Siting Working Group, Final Report, Federal Communications Commission, 
+(Jan. 23-24, 2018), available at: https://www.fcc.gov/sites/default/
+files/bdac-federalsiting-01232018.pdf.
+---------------------------------------------------------------------------
+Addressing Supply Chain Concerns
+    In recent years, Congress has provided significant funding through 
+several agencies to deploy broadband infrastructure with the goal of 
+bridging the digital divide. However, as broadband providers construct 
+these networks, it is important to monitor the status of the 
+communications supply chain. Many have been rightly focused on supply 
+chain security in recent years--but there is a looming concern about 
+supply chain resiliency as well, and this has the potential to 
+undermine national objectives to deploy the best possible networks to 
+as many Americans as possible in the coming years.
+    Specifically, NTCA members are beginning to report significant 
+backlogs for critical communications equipment like fiber, routers, 
+antennas, network terminals, and customer premise equipment--ranging 
+from several weeks to more than one year. As an example, Golden West is 
+now finalizing our 2022 network and fiber optic buildout plans. As 
+recently as last week, our fiber optic suppliers have indicated the 
+delivery date for fiber-optics is 42 to 65 weeks out. Delays in 
+production of necessary equipment appear to be related to both 
+increased demand for broadband investment as well as ongoing effects of 
+the pandemic. To ensure that existing and new infrastructure 
+initiatives are as successful as possible in responding to consumer 
+needs and demands, we believe it is important that the Federal 
+government work closely and directly with manufacturers, distributors, 
+and other suppliers to avoid disruptions in the communications supply 
+chain. For these reasons, while there has been a great deal of focus on 
+the security of our supply chains, we strongly encourage Congress to 
+consider supply chain resiliency as a key component of delivering on 
+national broadband objectives.
+Workforce Development
+    We also recommend Congress help in the development of a skilled 
+telecommunications workforce that can help providers of all sizes 
+deploy robust networks and help to keep them resilient and more secure. 
+Earlier this year, NTCA and a number of other telecommunications 
+associations sent a letter to the White House regarding how the United 
+States currently faces a shortfall of skilled workers needed to ensure 
+the deployment of robust fiber, mobile, and fixed wireless networks. A 
+concerted effort by industry and government will likely be needed to 
+develop a skilled workforce able to deploy next generation wired and 
+wireless networks. To develop the telecommunications jobs needed, 
+Congress could help by bolstering the capabilities of institutions of 
+higher education and other institutions and providing support for 
+employers to expand registered apprenticeships and associated technical 
+instruction and certification costs. Several legislative proposals, 
+including Senator Thune's Telecommunications Skilled Workforce Act, 
+which would establish an interagency working group to develop 
+telecommunications industry workforce solutions, or Senators Wicker and 
+Sinema's Improving Minority Participation and Careers in 
+Telecommunications Act to address this need by awarding grants to 
+Historically Black Colleges and Universities and Tribal Colleges and 
+Universities for workforce training, could go a long way in achieving 
+this goal. We cannot build the networks of tomorrow without a skilled 
+and diverse workforce today.
+Conclusion
+    Community-based providers like Golden West are deeply committed to 
+the customers we serve and, given our experience and success in serving 
+the most rural areas, we are critical components of any strategy 
+seeking to achieve the Nation's broadband goals. We look forward to 
+working with policymakers and other stakeholders to ensure that all 
+Americans have access to sustainable and affordable networks that 
+successfully manage risk, resiliency, and redundancy, so that those 
+services are available when needed the most.
+    Thank you for the opportunity to testify, and for the 
+Subcommittee's commitment to broadband infrastructure investment in 
+rural America.
+
+    Senator Lujan. Thank you, Mr. Law, and it is very 
+impressive what you all have built out there, as well. And 
+again, thank you so much for being with us today.
+    Next, we are going to hear from Mr. Harold Feld, who is the 
+Senior Vice President with Public Knowledge, here in 
+Washington, DC. You are recognized for 5 minutes.

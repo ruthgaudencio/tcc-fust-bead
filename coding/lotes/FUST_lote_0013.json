@@ -1,0 +1,971 @@
+{
+ "caso": "FUST",
+ "lote": 13,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0058::Renda e classe",
+   "unit_id": "S0058",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Carlos Patrocínio",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "carente",
+     "forma_encontrada": "carente",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobre",
+     "forma_encontrada": "pobre",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 971,
+     "fim_corpo": 1921,
+     "trecho": "Ou seja, estou propondo uma modificação na Emenda Constitucional nº 20, quando alteramos para 16 anos a idade mínima para ingresso no mercado de trabalho. Justificando-a, lembramos que certas normas jurídicas distanciadas da realidade social em que vivemos deixam de representar contribuição válida para um ordenamento legal efetivamente justo. Normas que se afastam do dia-a-dia da sociedade, ainda quando de grau superior, não são eficazes. Esse é o caso de se haver elevado a idade mínima do ingresso do menor no mercado de trabalho, de 14 para 16 anos, na forma estabelecida pela Emenda Constitucional nº 20, de 1998. Decerto, essa alteração provém da preocupação dos Srs. Congressistas com o problema da exploração de mão-de-obra de jovens e crianças. De fato, milhões de famílias vivem em estado de extrema pobreza, tentando emergir dessa situação pela mobilização do grupo na tentativa de obter qualquer trabalho e algum alimento."
+    },
+    {
+     "inicio_corpo": 1322,
+     "fim_corpo": 2247,
+     "trecho": "Normas que se afastam do dia-a-dia da sociedade, ainda quando de grau superior, não são eficazes. Esse é o caso de se haver elevado a idade mínima do ingresso do menor no mercado de trabalho, de 14 para 16 anos, na forma estabelecida pela Emenda Constitucional nº 20, de 1998. Decerto, essa alteração provém da preocupação dos Srs. Congressistas com o problema da exploração de mão-de-obra de jovens e crianças. De fato, milhões de famílias vivem em estado de extrema pobreza, tentando emergir dessa situação pela mobilização do grupo na tentativa de obter qualquer trabalho e algum alimento. Esse quadro que classificamos de grande injustiça é tanto mais doloroso quando consideramos que os filhos das classes mais privilegiadas empregam seu tempo com estudos e atividades complementares, ao passo que as crianças e os adolescentes pobres são obrigados a trabalhar, em detrimento até da própria educação básica."
+    },
+    {
+     "inicio_corpo": 5576,
+     "fim_corpo": 6700,
+     "trecho": "A educação é obrigação do Estado, no entanto vemos a qualidade da educação que o Estado está fornecendo. Segurança é obrigação do Estado; entretanto, se os cidadãos não colocarem grades em suas casas, o ladrão as rouba. Se não ficarmos atentos nas ruas, podemos ser assaltados. A assistência médica é obrigação do Estado, mas temos que pagar planos de saúde particulares. V. Exª, como médico, conhece a realidade da assistência médica pública. Então, temos que começar a discutir agora o grande problema que é a questão social. V. Exª age muito bem adiantando um pouco da idade do menor para o ingresso no mercado de trabalho, pois, ao começar como aprendiz, ele já estará conseguindo levar alguma coisa para casa. Mas o grande problema da área social hoje talvez esteja exatamente na legislação de combate à pobreza que vem aí, com a possibilidade de a família não obrigar aquele menino a cair na rua ou ir para o emprego muito cedo para suprir suas necessidades, e às vezes até um problema educacional, de pais que exploram o filho, não trabalham como deviam e colocam o filho na mendicância, em trabalho humilhante, - V."
+    },
+    {
+     "inicio_corpo": 10375,
+     "fim_corpo": 11153,
+     "trecho": "Também, sugeriu a reflexão e o debate de questões jurídicas relevantes, a partir do fato de as Constituições, \"sempre que possível\", atrelarem \"a idade limite para o trabalho à idade em que o menor conclui os estudos de primeiro grau\", conforme adiantamos. No Brasil, \"as crianças iniciam o primeiro grau aos 7 anos, porque assim dita a legislação vigente, e aos 15, regra geral, completam esses estudos\". Com a alteração produzida, ou seja, a Emenda nº 20, o menor não poderá trabalhar, caso não tenha sido contratado como aprendiz, aos 14 anos. Será um ano de \"ócio obrigatório\", quando \"é sabido por todos nós que o ócio é um mau conselheiro\". Não se há de crer que esses menores seguirão cursando o segundo grau, \"neste país carente de escolas gratuitas desse nível\"."
+    },
+    {
+     "inicio_corpo": 15001,
+     "fim_corpo": 15884,
+     "trecho": "165 da Carta Política de 1967. Portanto, encontrando-se menor de 14 anos laborando em empresa sem ser na condição de aprendiz, a relação empregatícia deveria ser desfeita, garantido ao menor o direito às verbas salariais e indenizatórias. E, em depoimento a ser também considerado, o Ministro Arnaldo Süssekind já sustentava, há uma década, que, \"não obstante as normas de tratados multilaterais, de constituições e de leis nacionais, a verdade é que milhões de menores trabalham, sistemática ou interpoladamente, antes da idade mínima para o trabalho\". Isso se daria, na avaliação da Comissão de Expertos da Aplicação de Convenções e Recomendações da OIT, porque os menores são compelidos a procurar trabalho, mesmo antes de alcançar a idade legal, em conseqüência da pobreza da família, \"quase sempre estreitamente vinculada à falta de desenvolvimento do país em que vivem\"."
+    },
+    {
+     "inicio_corpo": 15896,
+     "fim_corpo": 17194,
+     "trecho": "PRESIDENTE (Geraldo Melo. Fazendo soar a campainha.) O SR. CARLOS PATROCÍNIO (PFL – TO) – Já concluo, Sr. Presidente. Ainda acerca do tema, determinadas correntes de opinião reconhecem que a amplitude da tutela da ordem jurídica, de certa forma, expõe o menor a uma posição fragilizada em face da exploração do seu trabalho. Outras, temem o desemprego e o ócio do menor, assinalando que a legislação marginaliza-o, ao contrário de protegê-lo, empurrando-o para o desemprego ou para o setor informal, quando não para a criminalidade. Algumas empresas julgam que a legislação constitui um empecilho à contratação do menor, enquanto grandes órgãos da imprensa avalizam o trabalho infantil como necessário para prevenir a delinqüência, defendendo a sua institucionalização. Profissionais e técnicos que trabalham na área da proteção do menor, confrontados com os problemas da pobreza, ora projetam a concessão de prioridade à adequação do menor ao trabalho como o meio mais eficaz de gerar renda imediata, ora sublinham a carência social do menor e priorizam a adequação do trabalho ao menor, para garantir a sua organização em formas de convivência solidária, ora, finalmente, enfatizam o potencial não realizado do menor e propõem a integração recíproca entre o menor e o trabalho."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0058::Urbano e rural",
+   "unit_id": "S0058",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Carlos Patrocínio",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "Campos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "Campos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3813,
+     "fim_corpo": 4899,
+     "trecho": "Gerson Camata (PMDB - ES) – Senador Carlos Patrocínio, V. Exª me concede um aparte? O SR. CARLOS PATROCÍNIO (PFL - TO) – Concedo, com muito prazer, o aparte ao eminente Senador Gerson Camata. O Sr. Gerson Camata (PMDB - ES) – Ilustre Senador Carlos Patrocínio, orgulhosamente, sou um dos signatários da emenda de V. Exª. Tenho acompanhado sua vida parlamentar e vejo que V. Exª, como médico, vem se preocupando com esse tema há muitos anos e culmina agora com a apresentação dessa emenda. Creio que o grande problema que enfrentamos – e tenho certeza de que V. Exª começa a abordar este aspecto também – é que, às vezes, o legislador pensa – e eu disse isso quando da discussão da Emenda nº 20 – que com lei se revolvem todos os problemas. Recordo-me de um debate ocorrido na época em que o Congresso Nacional fixava o valor do salário mínimo. Em uma votação, o Senador Roberto Campos estava discursando da tribuna sobre o limite para o valor do salário mínimo, que estava em torno de US$80, e a Oposição queria elevá-lo para US$150 – ou o equivalente a cruzeiros na época."
+    },
+    {
+     "inicio_corpo": 4023,
+     "fim_corpo": 5026,
+     "trecho": "Gerson Camata (PMDB - ES) – Ilustre Senador Carlos Patrocínio, orgulhosamente, sou um dos signatários da emenda de V. Exª. Tenho acompanhado sua vida parlamentar e vejo que V. Exª, como médico, vem se preocupando com esse tema há muitos anos e culmina agora com a apresentação dessa emenda. Creio que o grande problema que enfrentamos – e tenho certeza de que V. Exª começa a abordar este aspecto também – é que, às vezes, o legislador pensa – e eu disse isso quando da discussão da Emenda nº 20 – que com lei se revolvem todos os problemas. Recordo-me de um debate ocorrido na época em que o Congresso Nacional fixava o valor do salário mínimo. Em uma votação, o Senador Roberto Campos estava discursando da tribuna sobre o limite para o valor do salário mínimo, que estava em torno de US$80, e a Oposição queria elevá-lo para US$150 – ou o equivalente a cruzeiros na época. O Senador Roberto Campos, então, disse o seguinte: \"O erro do legislador é achar que, por lei, resolvem-se todos os problemas."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0060::Posição no trabalho",
+   "unit_id": "S0060",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Antonio Carlos Valadares",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 622,
+     "trecho": "O SR. ANTONIO CARLOS VALADARES (Bloco/PSB – SE. Para uma comunicação inadiável. Sem revisão do orador.) – Sr. Presidente, à primeira vista, o povo brasileiro, por intermédio dos canais de comunicação, é orientado no sentido de que o Brasil, hoje, não vive um processo inflacionário. Logicamente, todos nós que lutamos por uma economia equilibrada, em que as empresas possam investir sem medo de uma inflação galopante, em que os trabalhadores possam receber os seus salários sem que os mesmos sejam diluídos com as altas dos preços, torcemos para que o Brasil prossiga num trabalho de recuperação total de nossa economia."
+    },
+    {
+     "inicio_corpo": 1666,
+     "fim_corpo": 2671,
+     "trecho": "As comunicações – e aí estão embutidas as tarifas do próprio Governo - subiram 292,65%; o telefone fixo, por exemplo, que é o telefone residencial, subiu 291,9%; a habitação teve uma alta de 212,15%; o gás de botijão ou gás de cozinha subiu 208,18%; a gasolina teve uma alta de 129,28%; a energia elétrica, 122,84%. O SR. PRESIDENTE (Geraldo Melo) – O tempo de V. Exª está esgotado, Senador Valadares. V. Exª deve se lembrar que a sua inscrição foi para uma comunicação inadiável. O SR. ANTONIO CARLOS VALADARES – Vou terminar, então. Ao concluir, Sr. Presidente, não quero fazer uma análise, quero apenas alertar o Governo: durante a administração do Plano Real houve inflação – para os aluguéis, ela chegou a 390%! É a hora e a vez de o Governo se sensibilizar e impedir que o trabalhador seja mais penalizado com o congelamento dos salários. É preciso que haja aumento de salários para o trabalhador, porque durante todos esses anos o trabalhador perdeu com o processo inflacionário."
+    },
+    {
+     "inicio_corpo": 1982,
+     "fim_corpo": 2671,
+     "trecho": "O SR. PRESIDENTE (Geraldo Melo) – O tempo de V. Exª está esgotado, Senador Valadares. V. Exª deve se lembrar que a sua inscrição foi para uma comunicação inadiável. O SR. ANTONIO CARLOS VALADARES – Vou terminar, então. Ao concluir, Sr. Presidente, não quero fazer uma análise, quero apenas alertar o Governo: durante a administração do Plano Real houve inflação – para os aluguéis, ela chegou a 390%! É a hora e a vez de o Governo se sensibilizar e impedir que o trabalhador seja mais penalizado com o congelamento dos salários. É preciso que haja aumento de salários para o trabalhador, porque durante todos esses anos o trabalhador perdeu com o processo inflacionário."
+    },
+    {
+     "inicio_corpo": 1982,
+     "fim_corpo": 2671,
+     "trecho": "O SR. PRESIDENTE (Geraldo Melo) – O tempo de V. Exª está esgotado, Senador Valadares. V. Exª deve se lembrar que a sua inscrição foi para uma comunicação inadiável. O SR. ANTONIO CARLOS VALADARES – Vou terminar, então. Ao concluir, Sr. Presidente, não quero fazer uma análise, quero apenas alertar o Governo: durante a administração do Plano Real houve inflação – para os aluguéis, ela chegou a 390%! É a hora e a vez de o Governo se sensibilizar e impedir que o trabalhador seja mais penalizado com o congelamento dos salários. É preciso que haja aumento de salários para o trabalhador, porque durante todos esses anos o trabalhador perdeu com o processo inflacionário."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0061::Domicílio e arranjo familiar",
+   "unit_id": "S0061",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 521,
+     "trecho": "O SR. FRANCELINO PEREIRA (PFL - MG. Para comunicação inadiável. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, quero comunicar à Casa, no exato momento em que assume a Presidência o Senador Antonio Carlos Magalhães, que o nosso partido, hoje pela manhã, numa demonstração de unidade, numa demonstração de preocupação com os destinos da nossa instituição e do próprio País, reelegeu por aclamação, sem nenhuma discordância, o Deputado Inocêncio de Oliveira como líder de nossa bancada na Câmara Federal."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0062::Educação",
+   "unit_id": "S0062",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Iris Rezende",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escolas públicas",
+     "forma_encontrada": "escolas públicas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9584,
+     "fim_corpo": 10509,
+     "trecho": "Sr. Presidente, temos um Código de Processo Penal que propicia aos defensores de réus de crimes hediondos a procrastinação do julgamento das ações penais. No entanto, não se tomam providências. Louvo, repito, a iniciativa dos meus colegas autores desses projetos. Estou disposto a participar de estudos com todos eles, de forma tal que esses projetos sejam realmente aperfeiçoados, mas não no período de convocação extraordinária, em que, indiscutivelmente, a discussão e a votação ocorrerão a toque de caixa, o que é desaconselhável em se tratando de uma questão tão séria. É essa a providência mais urgente? Não é. São outras, é claro. O Governo tem lutado no âmbito municipal, no estadual e no federal para aperfeiçoar o nosso ensino público, que é um motivador também da criminalidade, porque, normalmente, os filhos dos operários, dos trabalhadores, freqüentam as escolas públicas, que, nem sempre, são as melhores."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0062::Idade",
+   "unit_id": "S0062",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Iris Rezende",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10847,
+     "fim_corpo": 11544,
+     "trecho": "Sr. Presidente, gostaria que, no âmbito da segurança pública, também as forças do Congresso Nacional, dos segmentos organizados da sociedade abraçassem essa causa, realizando um trabalho, um estudo de fôlego, de tal forma que fosse apresentado um projeto contendo soluções satisfatórias em relação a essa questão. Tal projeto teria que abranger o preparo das polícias civis e militares dos Estados; a dotação pela Polícia Federal dos equipamentos necessários; o estudo da participação das Forças Armadas na segurança pública. Esse projeto teria que passar pela área da educação, da saúde, do emprego, enfim, de todas as áreas da integração familiar, da formação cívica de nossas crianças."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0062::Infraestrutura e porte populacional",
+   "unit_id": "S0062",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Iris Rezende",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "fronteiras",
+     "forma_encontrada": "fronteiras",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "fronteiras",
+     "forma_encontrada": "fronteiras",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 15235,
+     "fim_corpo": 15927,
+     "trecho": "Bem, quando se requer o porte de arma, busca-se, até por meio de exame psicológico, saber se aquela pessoa tem possibilidade de portar uma arma. Então, que se transfira essa exigência para aquisição. Essa é a minha preocupação. Pergunto: a proibição da venda de armas reduziu o contrabando de armas no Brasil? Não. Disse há poucos instantes, e reafirmo, que quase todos os crimes considerados graves, hediondos, são praticados por pessoas cujas armas não têm registro, ninguém sabe como foram adquiridas ou como chegaram ao Brasil. A primeira solução para o caso seria ter um domínio efetivo de nossas inúmeras fronteiras, principalmente com países produtores de cocaína e outras drogas."
+    },
+    {
+     "inicio_corpo": 15235,
+     "fim_corpo": 16041,
+     "trecho": "Bem, quando se requer o porte de arma, busca-se, até por meio de exame psicológico, saber se aquela pessoa tem possibilidade de portar uma arma. Então, que se transfira essa exigência para aquisição. Essa é a minha preocupação. Pergunto: a proibição da venda de armas reduziu o contrabando de armas no Brasil? Não. Disse há poucos instantes, e reafirmo, que quase todos os crimes considerados graves, hediondos, são praticados por pessoas cujas armas não têm registro, ninguém sabe como foram adquiridas ou como chegaram ao Brasil. A primeira solução para o caso seria ter um domínio efetivo de nossas inúmeras fronteiras, principalmente com países produtores de cocaína e outras drogas. Deveríamos controlar, realmente, nossas fronteiras antes de proibir que o cidadão de bem possua uma arma de fogo."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0062::Macrorregião",
+   "unit_id": "S0062",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Iris Rezende",
+   "n_ocorrencias_no_par": 12,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 6,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2167,
+     "fim_corpo": 2924,
+     "trecho": "Há algum tempo, eu imaginava que uma das questões sérias do meu Estado fosse o desemprego ou a saúde, mas uma pesquisa mostrou que era a segurança pública que mais preocupava aquela população. Tenho certeza de que o mesmo se repete em todos os Estados do País, principalmente nos grandes centros. Sr. Presidente, nenhum Governo, nos últimos tempos, se preocupou tanto com a questão da segurança pública como tem-se preocupado o Governo do Presidente Fernando Henrique Cardoso. Conheci de perto todos os projetos em andamento no País na área da segurança pública. Lembro-me de que, nos meus primeiros dias nesta Casa, há quase cinco anos, o Senado debatia o projeto que instituía o Sivam, que tem como objetivo a segurança sobretudo da Amazônia."
+    },
+    {
+     "inicio_corpo": 2364,
+     "fim_corpo": 3112,
+     "trecho": "Tenho certeza de que o mesmo se repete em todos os Estados do País, principalmente nos grandes centros. Sr. Presidente, nenhum Governo, nos últimos tempos, se preocupou tanto com a questão da segurança pública como tem-se preocupado o Governo do Presidente Fernando Henrique Cardoso. Conheci de perto todos os projetos em andamento no País na área da segurança pública. Lembro-me de que, nos meus primeiros dias nesta Casa, há quase cinco anos, o Senado debatia o projeto que instituía o Sivam, que tem como objetivo a segurança sobretudo da Amazônia. Posteriormente, entendeu o Governo que o Sivam não era suficiente, e o Ministério da Justiça, por meio da Polícia Federal, elaborou dois projetos importantes: o Pró-Amazônia e o Promotec."
+    },
+    {
+     "inicio_corpo": 2364,
+     "fim_corpo": 3296,
+     "trecho": "Tenho certeza de que o mesmo se repete em todos os Estados do País, principalmente nos grandes centros. Sr. Presidente, nenhum Governo, nos últimos tempos, se preocupou tanto com a questão da segurança pública como tem-se preocupado o Governo do Presidente Fernando Henrique Cardoso. Conheci de perto todos os projetos em andamento no País na área da segurança pública. Lembro-me de que, nos meus primeiros dias nesta Casa, há quase cinco anos, o Senado debatia o projeto que instituía o Sivam, que tem como objetivo a segurança sobretudo da Amazônia. Posteriormente, entendeu o Governo que o Sivam não era suficiente, e o Ministério da Justiça, por meio da Polícia Federal, elaborou dois projetos importantes: o Pró-Amazônia e o Promotec. O Pró-Amazônia foi criado porque o Governo compreendeu que o Sivam garantia apenas o espaço aéreo, deixando a imensidão dos nossos rios e das nossas selvas sem a mínima segurança."
+    },
+    {
+     "inicio_corpo": 2468,
+     "fim_corpo": 3507,
+     "trecho": "Sr. Presidente, nenhum Governo, nos últimos tempos, se preocupou tanto com a questão da segurança pública como tem-se preocupado o Governo do Presidente Fernando Henrique Cardoso. Conheci de perto todos os projetos em andamento no País na área da segurança pública. Lembro-me de que, nos meus primeiros dias nesta Casa, há quase cinco anos, o Senado debatia o projeto que instituía o Sivam, que tem como objetivo a segurança sobretudo da Amazônia. Posteriormente, entendeu o Governo que o Sivam não era suficiente, e o Ministério da Justiça, por meio da Polícia Federal, elaborou dois projetos importantes: o Pró-Amazônia e o Promotec. O Pró-Amazônia foi criado porque o Governo compreendeu que o Sivam garantia apenas o espaço aéreo, deixando a imensidão dos nossos rios e das nossas selvas sem a mínima segurança. O Pró-Amazônia tem como objetivo dar à Polícia Federal condições para complementar o Sivam, ficando, assim, a Amazônia brasileira absolutamente protegida dos traficantes de drogas e dos contrabandistas de arma."
+    },
+    {
+     "inicio_corpo": 2652,
+     "fim_corpo": 3507,
+     "trecho": "Conheci de perto todos os projetos em andamento no País na área da segurança pública. Lembro-me de que, nos meus primeiros dias nesta Casa, há quase cinco anos, o Senado debatia o projeto que instituía o Sivam, que tem como objetivo a segurança sobretudo da Amazônia. Posteriormente, entendeu o Governo que o Sivam não era suficiente, e o Ministério da Justiça, por meio da Polícia Federal, elaborou dois projetos importantes: o Pró-Amazônia e o Promotec. O Pró-Amazônia foi criado porque o Governo compreendeu que o Sivam garantia apenas o espaço aéreo, deixando a imensidão dos nossos rios e das nossas selvas sem a mínima segurança. O Pró-Amazônia tem como objetivo dar à Polícia Federal condições para complementar o Sivam, ficando, assim, a Amazônia brasileira absolutamente protegida dos traficantes de drogas e dos contrabandistas de arma."
+    },
+    {
+     "inicio_corpo": 3507,
+     "fim_corpo": 4563,
+     "trecho": "O Governo preparou um projeto de combate ao crime, mais especificamente na divisa do Estado do Paraná com o vizinho Paraguai. Quando as aeronaves adentravam clandestinamente em nosso território, os aviões da FAB imediatamente determinavam que elas descessem no aeroporto mais próximo. Elas simplesmente desconheciam a ordem e voltavam aos aeroportos de origem, situados no Paraguai. Encaminhou o Governo, o Poder Executivo, ao Congresso Nacional o projeto de lei que permite o abate de aeronaves que clandestinamente adentrarem o nosso território e desrespeitarem a ordem das autoridades brasileiras para que desçam no aeroporto mais próximo e determinado. Avançamos um pouco com a aprovação dessa lei, e a nossa legislação vai-se aperfeiçoando, com a implantação do Sivam, do Pró-Amazônia e do Promotec, que dão à Polícia Federal condições físicas para atuar com eficiência em todo o território nacional, a fim de buscarmos parte da solução para combater a criminalidade que tem no contrabando de armas e no tráfico de drogas o seu maior poderio."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0062::Posição no trabalho",
+   "unit_id": "S0062",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Iris Rezende",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1674,
+     "fim_corpo": 2364,
+     "trecho": "Preocupo-me em evitar que o Congresso Nacional crie junto à opinião pública uma expectativa de solução da questão da criminalidade no País e que, após a aprovação desse projeto, o povo brasileiro se sinta, mais uma vez, frustrado. Sabemos muito bem que, em toda pesquisa que se fizer neste País, principalmente nos grandes centros, indagando da população qual o mais complexo problema enfrentado pela sociedade, indiscutivelmente a maioria das respostas será relativa à segurança pública. Há algum tempo, eu imaginava que uma das questões sérias do meu Estado fosse o desemprego ou a saúde, mas uma pesquisa mostrou que era a segurança pública que mais preocupava aquela população."
+    },
+    {
+     "inicio_corpo": 8017,
+     "fim_corpo": 8996,
+     "trecho": "Como proibir o porte de armas a fazendeiros que se deslocam de suas propriedades pelas matas e cerrados durante horas e não encontram uma vivalma que possa socorrê-los da agressão de malfeitores? Como deixar entregues à própria sorte os donos de sítios e chácaras que não têm a quem recorrer, se, em determinado momento, forem alvo de agressão? Essas são situações diferenciadas daqueles que têm um vizinho à direita, à esquerda, à frente ou pelos fundos, que, ao sinal de qualquer alarme, recebem em sua defesa dezenas de pessoas. Assim, Sr. Presidente, não podemos, em hipótese nenhuma, criar a expectativa de que, aprovando os projetos, a questão da segurança pública do País estará solucionada. Não! Realmente, o porte e a venda facilitada de armas propiciam, muitas vezes, o crime, mas não é simplesmente isso. São causas da criminalidade o desemprego, a pobreza, essa distribuição de renda injusta que vivemos no País, a má qualidade do ensino público e tantas outras."
+    },
+    {
+     "inicio_corpo": 9584,
+     "fim_corpo": 10509,
+     "trecho": "Sr. Presidente, temos um Código de Processo Penal que propicia aos defensores de réus de crimes hediondos a procrastinação do julgamento das ações penais. No entanto, não se tomam providências. Louvo, repito, a iniciativa dos meus colegas autores desses projetos. Estou disposto a participar de estudos com todos eles, de forma tal que esses projetos sejam realmente aperfeiçoados, mas não no período de convocação extraordinária, em que, indiscutivelmente, a discussão e a votação ocorrerão a toque de caixa, o que é desaconselhável em se tratando de uma questão tão séria. É essa a providência mais urgente? Não é. São outras, é claro. O Governo tem lutado no âmbito municipal, no estadual e no federal para aperfeiçoar o nosso ensino público, que é um motivador também da criminalidade, porque, normalmente, os filhos dos operários, dos trabalhadores, freqüentam as escolas públicas, que, nem sempre, são as melhores."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0062::Renda e classe",
+   "unit_id": "S0062",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Iris Rezende",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8017,
+     "fim_corpo": 8996,
+     "trecho": "Como proibir o porte de armas a fazendeiros que se deslocam de suas propriedades pelas matas e cerrados durante horas e não encontram uma vivalma que possa socorrê-los da agressão de malfeitores? Como deixar entregues à própria sorte os donos de sítios e chácaras que não têm a quem recorrer, se, em determinado momento, forem alvo de agressão? Essas são situações diferenciadas daqueles que têm um vizinho à direita, à esquerda, à frente ou pelos fundos, que, ao sinal de qualquer alarme, recebem em sua defesa dezenas de pessoas. Assim, Sr. Presidente, não podemos, em hipótese nenhuma, criar a expectativa de que, aprovando os projetos, a questão da segurança pública do País estará solucionada. Não! Realmente, o porte e a venda facilitada de armas propiciam, muitas vezes, o crime, mas não é simplesmente isso. São causas da criminalidade o desemprego, a pobreza, essa distribuição de renda injusta que vivemos no País, a má qualidade do ensino público e tantas outras."
+    },
+    {
+     "inicio_corpo": 10163,
+     "fim_corpo": 10847,
+     "trecho": "É essa a providência mais urgente? Não é. São outras, é claro. O Governo tem lutado no âmbito municipal, no estadual e no federal para aperfeiçoar o nosso ensino público, que é um motivador também da criminalidade, porque, normalmente, os filhos dos operários, dos trabalhadores, freqüentam as escolas públicas, que, nem sempre, são as melhores. Dizia da distribuição de renda, das injustiças sociais. Esta Casa, pela oportuna iniciativa de V. Exª, Sr. Presidente, instituiu uma Comissão para estudar a questão da miséria em nosso País, que realmente realizou um trabalho extraordinário, cujo resultado redundou na apreciação de um projeto que cria um fundo de combate à pobreza."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0062::Território intraurbano",
+   "unit_id": "S0062",
+   "subcategoria": "Território intraurbano",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Iris Rezende",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "periferia",
+     "forma_encontrada": "periferia",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6684,
+     "fim_corpo": 7501,
+     "trecho": "Não é justo. Não podemos votar açodadamente projetos de lei, buscando soluções, sem atentar para os resultados efetivos dessas leis. Sr. Presidente, o Brasil é um país - todos nós decantamos isso - de dimensões continentais. São muitos brasis em um só, portanto são muitas realidades: a do Estado de São Paulo, a do Estado do Rio de Janeiro, a do Nordeste, a do Norte, a do Centro-Oeste, a dos grandes centros, a das cidades médias e pequenas, povoados e distritos, a do sertão, a da selva amazônica. Em Brasília, a Quadra 309 Sul, onde se localizam os blocos em que nós, Senadores, habitamos, apresenta uma realidade diferente da Quadra 203 Norte, assim como Brasília apresenta uma realidade diferente da do Estado de São Paulo. Na Quadra 309 Sul, há policiamento dia e noite, o que não ocorre na periferia."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0063::Posição no trabalho",
+   "unit_id": "S0063",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Maguito Vilela",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 661,
+     "trecho": "O SR. MAGUITO VILELA (PMDB - GO. Como Líder. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, meu pronunciamento é mais um alerta e mais um protesto, diante da inaceitável realidade imposta ao produtor rural, vítima de uma política atroz de importação que seguramente coloca em risco a sobrevivência da nossa bacia leiteira. Informações divulgadas ontem pela CNA, Confederação Nacional da Agricultura, comprovam que práticas desleais e predatórias continuam em curso no mercado do leite, prejudicando sensivelmente a produção brasileira, disseminando o desemprego e fazendo com que o País, novamente, sofra irreparáveis perdas de divisas."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0063::Urbano e rural",
+   "unit_id": "S0063",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Maguito Vilela",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 341,
+     "trecho": "O SR. MAGUITO VILELA (PMDB - GO. Como Líder. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, meu pronunciamento é mais um alerta e mais um protesto, diante da inaceitável realidade imposta ao produtor rural, vítima de uma política atroz de importação que seguramente coloca em risco a sobrevivência da nossa bacia leiteira."
+    },
+    {
+     "inicio_corpo": 3343,
+     "fim_corpo": 4265,
+     "trecho": "A CNA comprova: os preços recebidos pelos pecuaristas nacionais estão entre os mais baixos do mundo, se não for o mais baixo. A mudança do regime cambial só fez intensificar esse estágio negativo. São alarmantes as desigualdades no processo competitivo. O produtor argentino recebe em torno de 0,20 dólar por litro de leite; o produtor brasileiro recebe 0,15 dólar. Isso, sem dúvida nenhuma, é uma desigualdade muito grande. Os dados estarrecedores não param aí. Ainda de acordo com a CNA, de dezembro de 1994, marco do Plano Real, até dezembro de 1999 os preços médios reais recebidos pelos produtores de leite sofreram queda de 32%. A situação foi agravada pelo aumento dos custos de produção, notadamente depois da desvalorização do Real. No período de janeiro a setembro de 1999, o índice de preços pagos pelo produtor rural para aquisição de insumos e mão-de-obra aumentou acima de 25 pontos percentuais."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0064::Posição no trabalho",
+   "unit_id": "S0064",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Roberto Saturnino",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "Trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1898,
+     "fim_corpo": 2853,
+     "trecho": "Tais recursos deveriam servir à capitalização, à constituição de empreendimentos eminentemente brasileiros. As empresas estrangeiras eram bem-vindas, sim, mas desde que trouxessem capitais de fora, desde que trouxessem poupança externa que acrescesse a poupança nacional. Esse era o argumento que fundamentava a proibição legal do BNDE de financiar empresas estrangeiras e foi, de longe, a principal agência do processo de crescimento econômico do Brasil dos anos 50, 60 e 70. O argumento é válido até hoje e tem mais força ainda, a meu juízo, na medida em que a poupança nacional decresceu significativamente nos últimos anos. Estamos precisando de poupança estrangeira, mas que ela venha de fora e não que as empresas estrangeiras adquiram capital nacional, ativos nacionais com financiamento concedido por poupanças de brasileiros, especialmente de trabalhadores, do Fundo de Amparo aos Trabalhadores que é a principal fonte de recursos do BNDE."
+    },
+    {
+     "inicio_corpo": 1898,
+     "fim_corpo": 2853,
+     "trecho": "Tais recursos deveriam servir à capitalização, à constituição de empreendimentos eminentemente brasileiros. As empresas estrangeiras eram bem-vindas, sim, mas desde que trouxessem capitais de fora, desde que trouxessem poupança externa que acrescesse a poupança nacional. Esse era o argumento que fundamentava a proibição legal do BNDE de financiar empresas estrangeiras e foi, de longe, a principal agência do processo de crescimento econômico do Brasil dos anos 50, 60 e 70. O argumento é válido até hoje e tem mais força ainda, a meu juízo, na medida em que a poupança nacional decresceu significativamente nos últimos anos. Estamos precisando de poupança estrangeira, mas que ela venha de fora e não que as empresas estrangeiras adquiram capital nacional, ativos nacionais com financiamento concedido por poupanças de brasileiros, especialmente de trabalhadores, do Fundo de Amparo aos Trabalhadores que é a principal fonte de recursos do BNDE."
+    },
+    {
+     "inicio_corpo": 3238,
+     "fim_corpo": 4297,
+     "trecho": "Quero dizer, financiar empresas estrangeiras, tudo bem. Nós não podemos impedir mais isso, porque a Constituição brasileira desfez a diferenciação entre empresas brasileiras de capital estrangeiro e empresas brasileiras de capital nacional. Não podemos proibir esse empréstimo, mas podemos condicionar financiamentos do BNDES, para empresas estrangeiras. Se bem que eu, pessoalmente, não concordo, preferiria reservar os recursos do BNDES só para nacionais baseado no fundamento de que poupança brasileira deve servir a empreendimentos brasileiros. Mas, tendo em vista o que diz a Constituição, e foi a vontade do Congresso Nacional que assim determinou, tendo em vista isso, não se pode proibir, mas vamos criar condicionamentos. Financiar com o dinheiro do BNDE, com o dinheiro do trabalhador empresas estrangeiras, só se for para ampliar empreendimentos existentes ou criar novos empreendimentos, criar empregos, criar novas fatias de renda e de emprego para a economia nacional, e não para adquirir patrimônio já existente, empreendimentos já realizados."
+    },
+    {
+     "inicio_corpo": 5315,
+     "fim_corpo": 6052,
+     "trecho": "Não me refiro ao tipo de defesa que se fazia no passado: reserva de mercado, imposição de barreiras alfandegárias muito elevadas que, efetivamente, protegiam e, às vezes, demasiadamente, e ofereciam às empresas brasileiras a oportunidade de acomodação sem preocupação com produtividade. Falo da necessidade da instituição de uma política de defesa positiva da empresa brasileira, de uma política de desenvolvimento da empresa nacional, que utilize os recursos escassos da poupança brasileira por meio do BNDES. Então, é preciso reservar uma fatia maior, para as empresas brasileiras, desses recursos e impedir que o BNDES, com o dinheiro do trabalhador, financie aquisição de ativos e de patrimônio brasileiro por empresas estrangeiras."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0064::Urbano e rural",
+   "unit_id": "S0064",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Roberto Saturnino",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "Campos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "Campos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "Campos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7191,
+     "fim_corpo": 8157,
+     "trecho": "Ora, trata-se da segunda maior empresa em faturamento no mundo. Obteve, de um total de aproximadamente R$20 bilhões de recursos desembolsados pelo BNDES em 1999, uma parcela de quase R$1 bilhão, o que certamente vai aumentar aquela proporção, provavelmente fazendo-a passar de 4,7% para 8% ou 10% - ainda não disponho dos dados completos. É importante que o BNDES destine recursos sobretudo para empresas nacionais; e não apenas para médias e grandes, mas também para as microempresas e para as empresas de pequeno porte. Ressalto que também solicitei ao BNDES a evolução de 1995 a 1999 por tamanho e por destinação, por finalidade. E a informação resultou incompleta. Por essa razão, ontem apresentei requerimento, por uma questão de ordem, solicitando que os dados sejam apresentados de forma consistente e comparável. Recentemente, o Senador Lauro Campos fez um pronunciamento – ocasião, aliás, em que sofreu uma indisposição – que tratava de assunto semelhante."
+    },
+    {
+     "inicio_corpo": 7530,
+     "fim_corpo": 8392,
+     "trecho": "É importante que o BNDES destine recursos sobretudo para empresas nacionais; e não apenas para médias e grandes, mas também para as microempresas e para as empresas de pequeno porte. Ressalto que também solicitei ao BNDES a evolução de 1995 a 1999 por tamanho e por destinação, por finalidade. E a informação resultou incompleta. Por essa razão, ontem apresentei requerimento, por uma questão de ordem, solicitando que os dados sejam apresentados de forma consistente e comparável. Recentemente, o Senador Lauro Campos fez um pronunciamento – ocasião, aliás, em que sofreu uma indisposição – que tratava de assunto semelhante. O Senador Lauro Campos apresentou, na oportunidade - não lembro se em novembro ou dezembro último - um projeto de lei que guarda relação com o propósito ora apresentado por V Exª, dando força também aos argumentos e à proposição de V."
+    },
+    {
+     "inicio_corpo": 8157,
+     "fim_corpo": 8926,
+     "trecho": "O Senador Lauro Campos apresentou, na oportunidade - não lembro se em novembro ou dezembro último - um projeto de lei que guarda relação com o propósito ora apresentado por V Exª, dando força também aos argumentos e à proposição de V. Exª. Muito obrigado. O SR. ROBERTO SATURNINO (Bloco/PSB - RJ) – Nobre Senador Eduardo Suplicy, agradeço imensamente o aparte, que reforça tudo o que estou a dizer nesta tarde. V. Exª é um dos Senadores de quem tenho escutado a preocupação crescente a respeito do processo de desnacionalização da nossa indústria e de escasseamento dos recursos do BNDES para empresas nacionais, em razão da sua aplicação cada vez maior para empresas estrangeiras. Tive conhecimento do projeto de lei apresentado pelo Senador Lauro Campos."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0068::Macrorregião",
+   "unit_id": "S0068",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Carlos Bezerra",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "regiões menos desenvolvidas",
+     "forma_encontrada": "regiões menos desenvolvidas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2692,
+     "fim_corpo": 3578,
+     "trecho": "Sr. Presidente, sabemos como os países ricos apóiam e subsidiam sua agricultura. A produção no Centro-Oeste, sua agropecuária, sua agroindústria, nem precisam de tanto. Não queremos juros negativos; tudo o que necessitamos é não sermos submetidos às taxas de juros escorchantes que imperam na economia brasileira. No caso do FCO, o que está faltando é uma reorientação em suas modalidades de operação que permita que ele se alinhe às intenções do comando constitucional que o concebeu e às diretrizes da lei que o regulamentou. É evidente que a Constituição estabeleceu os fundos regionais com o intuito de contribuir para a correção das desigualdades sociais e econômicas no âmbito nacional. A Lei nº 7.827, de 27 de setembro de 1989, que criou os fundos regionais, deixa claro que eles devem contribuir para o progresso econômico e social das regiões menos desenvolvidas."
+    },
+    {
+     "inicio_corpo": 4009,
+     "fim_corpo": 5617,
+     "trecho": "Srªs. e Srs. Senadores, são excelentes as diretrizes para a atuação do Fundo Constitucional do Centro-Oeste. O que nunca se conseguiu acertar, até hoje, é um modo de operação que concilie os objetivos desenvolvimentistas do FCO com as realidades da Região Centro-Oeste. Recentemente, foi dado um importante passo na institucionalização do Fundo: o Decreto nº 3.130, de 9 de agosto de 1999, criou o Conselho Deliberativo do FCO, com as atribuições de administrar os recursos do Fundo, estabelecer prioridades de financiamento, aprovar projetos, regulamentar a concessão de empréstimos e assim por diante. Foi muito importante a criação desse Conselho, já que o Centro-Oeste não possui instituições similares à SUDENE, à SUDAM, ao Banco do Nordeste ou ao Banco da Amazônia. É o Conselho Deliberativo do FCO que tem que atuar como agência de promoção de desenvolvimento do Centro-Oeste. É o Conselho Deliberativo que deve criar as novas regras de financiamento que façam com que o FCO possa desempenhar o verdadeiro papel que lhe foi destinado pela Constituição e pela Lei que o regulamentou. Pois bem, nesse Conselho, a presença preponderante é de representantes do Poder Executivo Federal. É, pois, o Governo Federal que deve formular uma nova política para as operações do Fundo. É, portanto, ao Governo Federal que dirijo esta minha conclamação: viabilize-se, já, a missão institucional do Fundo Constitucional do Centro-Oeste! Permita-se, de imediato, que ele se torne uma alavanca para o desenvolvimento do Centro-Oeste! Era o que tinha a dizer. Muito obrigado pela atenção."
+    },
+    {
+     "inicio_corpo": 4009,
+     "fim_corpo": 5617,
+     "trecho": "Srªs. e Srs. Senadores, são excelentes as diretrizes para a atuação do Fundo Constitucional do Centro-Oeste. O que nunca se conseguiu acertar, até hoje, é um modo de operação que concilie os objetivos desenvolvimentistas do FCO com as realidades da Região Centro-Oeste. Recentemente, foi dado um importante passo na institucionalização do Fundo: o Decreto nº 3.130, de 9 de agosto de 1999, criou o Conselho Deliberativo do FCO, com as atribuições de administrar os recursos do Fundo, estabelecer prioridades de financiamento, aprovar projetos, regulamentar a concessão de empréstimos e assim por diante. Foi muito importante a criação desse Conselho, já que o Centro-Oeste não possui instituições similares à SUDENE, à SUDAM, ao Banco do Nordeste ou ao Banco da Amazônia. É o Conselho Deliberativo do FCO que tem que atuar como agência de promoção de desenvolvimento do Centro-Oeste. É o Conselho Deliberativo que deve criar as novas regras de financiamento que façam com que o FCO possa desempenhar o verdadeiro papel que lhe foi destinado pela Constituição e pela Lei que o regulamentou. Pois bem, nesse Conselho, a presença preponderante é de representantes do Poder Executivo Federal. É, pois, o Governo Federal que deve formular uma nova política para as operações do Fundo. É, portanto, ao Governo Federal que dirijo esta minha conclamação: viabilize-se, já, a missão institucional do Fundo Constitucional do Centro-Oeste! Permita-se, de imediato, que ele se torne uma alavanca para o desenvolvimento do Centro-Oeste! Era o que tinha a dizer. Muito obrigado pela atenção."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0068::Urbano e rural",
+   "unit_id": "S0068",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Carlos Bezerra",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 947,
+     "trecho": "O SR. CARLOS BEZERRA (PMDB – MT) – Sr. Presidente, Srªs. e Srs. Senadores, mais uma vez quero usar desta Tribuna para alertar o Governo sobre a necessidade urgente de modificar os atuais critérios de financiamento do Fundo Constitucional do Centro-Oeste, o FCO. Repetidas vezes tenho aqui me pronunciado a respeito desse tema, mas vejo, com profunda preocupação, que o impasse continua: o Fundo não está conseguindo ser fonte de esperança para produtores rurais e empresários do Centro-Oeste, como deveria, mas, sim, causa de aflição e de desconfiança. Quem o diz não são apenas os cidadãos do Centro-Oeste que recorreram ou tentam recorrer às linhas de financiamento do Fundo; quem o afirma não é apenas este representante do povo de Mato Grosso; quem expressou essa preocupação foi o próprio Banco do Brasil, principal agente operador do Fundo, na pessoa do seu Diretor de Crédito Rural e Negócios com o Governo, Senhor Ricardo Conceição."
+    },
+    {
+     "inicio_corpo": 262,
+     "fim_corpo": 1157,
+     "trecho": "Repetidas vezes tenho aqui me pronunciado a respeito desse tema, mas vejo, com profunda preocupação, que o impasse continua: o Fundo não está conseguindo ser fonte de esperança para produtores rurais e empresários do Centro-Oeste, como deveria, mas, sim, causa de aflição e de desconfiança. Quem o diz não são apenas os cidadãos do Centro-Oeste que recorreram ou tentam recorrer às linhas de financiamento do Fundo; quem o afirma não é apenas este representante do povo de Mato Grosso; quem expressou essa preocupação foi o próprio Banco do Brasil, principal agente operador do Fundo, na pessoa do seu Diretor de Crédito Rural e Negócios com o Governo, Senhor Ricardo Conceição. Conforme matéria da Agência Estado, publicada pelo Correio Braziliense de 23 de dezembro, o Diretor de Crédito Rural do Banco do Brasil admitiu que os altos encargos do FCO estão assustando os mutuários."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0069::Domicílio e arranjo familiar",
+   "unit_id": "S0069",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Luzia Toledo",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9045,
+     "fim_corpo": 9855,
+     "trecho": "Aparentemente, tudo leva a crer que as causas que motivaram o estudante de Medicina, Mateus Meira, a cometer bárbara chacina na semana passada, em plena sala de cinema do Morumbi Shopping, somente podem ser, minimamente, elucidadas a partir de uma fratura psicopatológica entre o mundo da ficção socialmente compartilhado e a realidade subjetiva vivida pelo jovem atirador. É a pós-modernidade se inscrevendo catastroficamente na cultura social brasileira. De qualquer modo, o que mais impressionou a todos foi que tal agressão criminosa não partiu da iniciativa de um indivíduo tipicamente excluído do circuito brasileiro do consumo e da cidadania. Pelo contrário, Mateus é filho da alta classe média brasileira, oriundo de uma família de médicos, com uma formação educacional potencialmente impecável."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0069::Educação",
+   "unit_id": "S0069",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Luzia Toledo",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12128,
+     "fim_corpo": 12948,
+     "trecho": "Nessas condições, o paradoxo no qual o filme se enredou só faz, ainda mais, crescer o interesse de todos pelo mesmo. Por isso, a pertinência da pergunta: até que ponto a truculência criminosa de Mateus não foi, de fato, um acerto de contas do espectador com a própria televisão? Seja qual for a resposta, o que importa, aqui, não é somente buscar diagnósticos, mas sobretudo viabilizar políticas e programas que inibam a expansão de crimes tão hediondos. Nessa ótica, além de cobrar maior vigilância na linguagem veiculada, coibindo a profusão de palavrões e expressões chulas na televisão e rádio, a Secretaria Nacional dos Direitos Humanos articula a criação de uma campanha nacional mobilizando pais, professores e vizinhos para uma aproximação mais responsável com os adolescentes na escola, na casa e na rua."
+    },
+    {
+     "inicio_corpo": 12589,
+     "fim_corpo": 13505,
+     "trecho": "Nessa ótica, além de cobrar maior vigilância na linguagem veiculada, coibindo a profusão de palavrões e expressões chulas na televisão e rádio, a Secretaria Nacional dos Direitos Humanos articula a criação de uma campanha nacional mobilizando pais, professores e vizinhos para uma aproximação mais responsável com os adolescentes na escola, na casa e na rua. Nessa direção mais democrática, o Deputado Federal Marcos Rolim, que integra a Comissão dos Direitos Humanos, recomenda a criação de um código de ética com participação popular, que legitime a intervenção administrativa de grupos sociais na elaboração da programação televisiva. Mais arrojada, ainda, é a proposta de criação de um Instituto de Defesa do Telespectador, uma entidade da sociedade civil, destinada a difundir os direitos do espectador, estimular sua visão crítica, orientar discussões nas escolas e dar seguimento às queixas dos mesmos."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0069::Escolaridade e letramento",
+   "unit_id": "S0069",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Luzia Toledo",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "estudante",
+     "forma_encontrada": "estudante",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "estudante",
+     "forma_encontrada": "estudante",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8373,
+     "fim_corpo": 9419,
+     "trecho": "Embora o próprio Senado seja incumbido de estudar e aprovar novos pedidos de renovação de concessões de rádio e televisão, falta-nos maior intimidade com a instrumentação teórica e política da matéria. Tal carência, obviamente, recai sobre nosso desconhecimento e indisfarçável indiferença com relação ao conteúdo programático das emissoras para as quais autorizamos funcionamento em todo o País. Bem a propósito, a julgar pelos últimos trágicos acontecimentos que abalaram os moradores do Morumbi e a capital paulistana por inteiro, a violência a que estamos diariamente sujeitos pela programação cinematográfica é capaz de gerar verdadeiras monstruosidades. Aparentemente, tudo leva a crer que as causas que motivaram o estudante de Medicina, Mateus Meira, a cometer bárbara chacina na semana passada, em plena sala de cinema do Morumbi Shopping, somente podem ser, minimamente, elucidadas a partir de uma fratura psicopatológica entre o mundo da ficção socialmente compartilhado e a realidade subjetiva vivida pelo jovem atirador."
+    },
+    {
+     "inicio_corpo": 10693,
+     "fim_corpo": 11528,
+     "trecho": "O próprio Secretário Nacional dos Direitos Humanos, José Gregori, solicitou a todas as emissoras de TV do País que deixem de exibir cenas de sexo e violência em suas programações durante o próximo dia 10 de dezembro, quando se comemora O Dia Mundial dos Direitos Humanos. Em que pese o efeito apenas efêmero da solicitação, a simbologia do ato deve produzir repercussões mais significativas no longo prazo. Num plano mais extenso, o Secretário propõe a classificação etária mais rígida dos filmes, com o objetivo explícito de impedir que sejam vistos por crianças e adolescentes. Naturalmente, a proposta do Governo consiste em evitar que jovens, ávidos para ver enredos recheados de tiros e mortes, tenham acesso a filmes do teor de Clube da Luta , em cuja exibição o estudante Mateus disparou as dezenas de tiros fatais."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,542 @@
+# W0330 | Asad Ramzanali | anderbilt Policy Accelerator, Vanderbilt University
+# 119th Congress | House | 2025-06-04
+# AI in the Everyday: Current Applications and Future Frontiers in Communications and Technology
+# source: https://www.congress.gov/119/meeting/house/118333/witnesses/HHRG-119-IF16-Wstate-RamzanaliA-20250604.pdf
+
+1 
+Testimony of Asad Ramzanali 
+Director of Artificial Intelligence and Technology Policy 
+Vanderbilt Policy Accelerator 
+Vanderbilt University 
+ 
+Hearing on  
+AI in the Everyday: Current Applications and Future Frontiers in Communications and 
+Technology 
+before the Subcommittee on Communications and Technology  
+Committee on Energy and Commerce  
+United States House of Representatives  
+June 4, 2025 
+ 
+ 
+Chairmen Guthrie and Hudson, Ranking Members Pallone and Matsui, and members of the 
+Subcommittee, thank you for holding this important hearing and inviting me to appear before 
+you today.  
+ 
+My name is Asad Ramzanali, and I’m the Director of Artificial Intelligence and Technology 
+Policy at the Vanderbilt Policy Accelerator (VPA), a center at Vanderbilt University. I have 
+fifteen years of experience working in the technology industry and in technology policy, 
+including serving in the White House Office of Science and Technology Policy (OSTP). Prior to 
+that role, I was a staffer here on Capitol Hill, both in the Senate and for a member of this 
+Subcommittee. I started my career in Silicon Valley – first on the corporate strategy team at 
+Intuit, then managing the Financial Solutions Lab, which invested in early-stage startups.  
+ 
+Summary 
+ 
+Well before chatbots, AI was in our lives, often playing a behind-the-scenes role in many of the 
+daily interactions people have online. For the purposes of policy analysis, it is useful to think of 
+AI as a technological stack with four layers: (1) business- and consumer-facing applications built 
+on (2) AI models developed and accessed using (3) cloud computing data centers that use (4) 
+high-performance AI-specialized chips. The data centers that host cloud computing require fiber-
+optic network connectivity, substantial energy, and cooling infrastructure (e.g., water).  
+ 
+American leadership in AI is critical to our geopolitical competition with the People’s Republic 
+of China (PRC). While many see this competition narrowly by focusing only on today’s AI 
+capabilities, to sustain long-term American leadership, we must have a strategy that centers on 
+our historic technological advantages: substantial public investment in research and development 
+(R&D), supporting startups, enabling all Americans to benefit from technology, and mitigating 
+the societal harms of technology. Interesting AI R&D is emerging today that can improve 
+efficiency for many areas of the Subcommittee’s focus, such as spectrum sharing, next-
+generation 9-1-1, and radio access networks (RAN).  
+ 
+While AI is powerful, our country has a long history of using tried-and-tested policy tools to 
+address the problems presented by powerful technologies. Today, many uses of AI cause or 
+Testimony of Asad Ramzanali 
+ 
+2 
+accelerate real-world harms, which sometimes violate existing laws and sometimes require new 
+regulations. This is an area where states are making important progress. More will be needed by 
+states and by Congress to mitigate harms to consumers and competition.  
+ 
+This Committee has been central to the American tradition of enabling important new industries 
+based on powerful technologies to flourish while mitigating real-world harms through thoughtful 
+bipartisan legislation. During the Second Industrial Revolution, it was this Committee that 
+protected farmers and small businesses from real abuses by the powerful technology of that era, 
+railroads. Congress should continue that tradition by encouraging the enforcement of current 
+federal and state laws that may apply to AI, allowing states to remain the laboratories of 
+democracy, and enacting new laws where gaps exist.  
+ 
+I. AI is Best Understood as a Technological Stack 
+ 
+Today’s interactive chatbots that generate text, images, audio, video, and software code, along 
+with those that promise ‘agents,’ have grabbed everyone’s attention since the release of ChatGPT 
+in 2022. However, AI has long been in our lives. AI enables voice assistants, mobile phone face-
+unlock, GPS driving directions, search engines, social media feeds, online shopping, targeted 
+ads, bank fraud alerts, and spam email filters.1 AI is also being used or has been used in 
+ineffective, biased, or troubling ways in criminal justice and law enforcement,2 especially 
+involving facial recognition;3 medicine;4 financial services;5 search engines;6 social media feeds 
+and ads;7 surveillance;8 robocalls;9 and more.  
+ 
+I have found it helpful to break AI into its 
+component parts, as depicted in the 
+accompanying figure. AI is commonly 
+described as a technological stack,10 where 
+the top layer represents an application that 
+consumers or businesses use, and the 
+bottom layers represent the physical 
+infrastructure necessary to develop and use 
+AI. The data centers that house the physical 
+layers of the stack require high-capacity 
+fiber connectivity for transferring data in 
+from businesses and out to users. 
+Businesses and consumers are only able to 
+access the applications if they have access to high-speed internet, which has long been a key 
+priority of this Subcommittee.  
+ 
+Like any model, this depiction is overly simplified. Many important inputs to AI are not 
+illustrated, including a robust R&D ecosystem, an educated and capable workforce, a 
+competitive marketplace, internet access, intellectual and creative content, a robust rule of law, 
+and even a California state ban on noncompete agreements that enables startup formation. 
+ 
+This stack framework helps illustrate that each layer presents its own policy issues, which often 
+have known policy solutions. For example, breaking down the chips layer into design and 
+
+Testimony of Asad Ramzanali 
+ 
+3 
+fabrication (i.e., manufacturing), along with assembly, testing, and advanced packaging, revealed 
+that semiconductor manufacturing was becoming highly concentrated in a precarious geography 
+(i.e., Taiwan), leading Congress to use industrial policy tools and pass the bipartisan CHIPS 
+Act.11  
+ 
+II. America Must Maintain its Lead  
+ 
+American global leadership has long depended on maintaining a technological advantage, and 
+this remains true today for AI in our geopolitical competition with the PRC.12 Some view 
+American leadership in narrowly in the context of today’s AI, recommending increasingly large-
+scale versions of today’s AI models, which means building ever more energy-consuming data 
+centers, often with the aid of government support. However, I urge you to pay attention to the 
+larger picture for maintaining American leadership in AI, which requires (A) investment in R&D, 
+(B) supporting startups, and (C) enabling all Americans to benefit from AI.  
+ 
+A. Investment in R&D 
+ 
+Today’s private sector advances in AI build on a history of R&D funded by American taxpayers. 
+From the 1960s onward, federal agencies funded R&D13 in what now serves as the foundation 
+for modern AI. This research became useful as the three inputs to AI became increasingly 
+available: computer processing power (i.e., compute), digitized data, and advanced algorithms.14 
+Government R&D funding also played key roles in other technologies critical to AI, including 
+advanced semiconductor technologies, GPS, the internet, and smartphones.15 
+ 
+Unfortunately, the U.S. is now decreasing overall federal R&D funding, with AI R&D funding 
+being far from where it needs to be, while at the same time the PRC is increasing its investments. 
+Last year, the PRC announced a 10% increase in public funding for R&D16 while the U.S. 
+decreased non-defense federal R&D by the same amount.17 This year, science agencies and the 
+universities they fund are experiencing even more damaging cuts, and the proposals for next year 
+are more severe.18 For AI R&D specifically, in fiscal year 2024, the federal government invested 
+$3 billion in AI R&D,19 though some recommend an order of magnitude more.20  
+ 
+In addition to the amount of spending, how the federal government invests in R&D matters. 
+Some parts of AI R&D show early promise but are fundamentally aimed at public missions, 
+beyond market incentives. For example, last June, OSTP hosted AI Aspirations, a conference to 
+show several big visions for how AI can be used toward public missions, such as rapid 
+development of therapeutics, development and delivery of individualized education, and 
+enabling more accurate and granular weather predictions.21  
+ 
+Publicly funded, shared resources for compute and data can significantly accelerate AI R&D. 
+Part of what makes AI R&D difficult outside of a few well-capitalized companies is the cost of 
+developing and using large AI models. Even the largest American universities lack the resources 
+to make the investments necessary for AI research demands.22 A solution for this problem is the 
+National AI Research Resource (NAIRR),23 which is operating as a small-scale pilot at the 
+National Science Foundation and is an example of a trend of countries investing in public AI.24 
+ 
+Testimony of Asad Ramzanali 
+ 
+4 
+Beyond investing in research, we need to attract and foster the best and brightest to research and 
+develop AI in the U.S. This means growing talent domestically by strengthening universities and 
+recruiting and retaining the best minds from across the world. Today’s generative AI is based on 
+the transformer model (the ‘T’ in GPT), first introduced in a technical paper in 2017.25 The eight 
+researchers who authored the paper were working in the U.S. for an American company, but six 
+were born outside the U.S. and the other two are children of immigrants.26 A recent analysis 
+shows that 60% of the top AI startups in the U.S. have at least one immigrant founder,27 with 
+70% of those founders originally coming to the U.S. on student visas.28 Recent immigration 
+actions risk hurting AI R&D supremacy and causing a “brain drain” of scientists.29 
+ 
+In the domain of this Subcommittee, the telecommunications sector is seeing interesting and 
+important uses of AI that deserve attention. While these may not be ready for full-scale 
+deployment, the following are some of the areas worthy of the Subcommittee’s attention: 
+ 
+• Spectrum – Modern life depends upon spectrum, and ways to make more efficient use of 
+the fundamentally limited public resource are important. AI systems trained on 
+unstructured radiofrequency data are showing early promise for being able to detect 
+interference more quickly, potentially enabling more effective dynamic spectrum sharing. 
+In the context of national security, these systems may be able to better detect spectrum 
+jamming.30 As part of its Public Wireless Supply Chain Innovation Fund, which this 
+Subcommittee helped establish in a bipartisan fashion, the NTIA recently awarded a grant 
+for research into this area.31 
+ 
+• Next-Gen 9-1-1 – Access to 9-1-1 is essential for public safety, and AI may be able to 
+bolster capabilities for next-generation 9-1-1. Two interesting use cases include the use of 
+rapid translation systems to enable support for non-English callers, and using analytics 
+from call metadata to pinpoint potential natural disaster locations.32 
+ 
+• RAN – The radio access network (RAN) is part of the core wireless infrastructure that 
+enables mobile connectivity. Some American and European companies have started 
+integrating AI in their RAN offerings with the aim of improving performance and 
+efficiency. Critically, Huawei and China Mobile are also making progress on this front.33 
+ 
+B. Supporting Competition from Startups 
+ 
+Today’s tech giants were originally able to take root and grow thanks to an earlier generation of 
+pro-competition policies34 and are now dominating their sectors and stifling emerging 
+competition. We too often see concentration and vertical integration across every layer of the AI 
+tech stack. For example, three companies – Amazon, Microsoft, and Google – now control two-
+thirds of the cloud computing market by revenue.35 They play roles up and down the stack: Each 
+designs its own chips, develops AI models, and controls key applications.36 To further complicate 
+matters, these companies use investments, exclusivity agreements, and revenue sharing 
+partnerships to further vertically integrate and maintain moats around their businesses.37 To 
+model developers, cloud companies are simultaneously their suppliers, investors, customers, and 
+competitors. This leads to documented cases of self-preferencing, such as cloud providers 
+Testimony of Asad Ramzanali 
+ 
+5 
+prioritizing compute for large companies in which they invest over smaller startups.38 As I 
+suggest later, pro-competition policies can aid in mitigating these impacts. 
+ 
+C. Increasing AI Access and Adoption for All Americans  
+ 
+Finally, AI’s power and usefulness will be fundamentally limited if all Americans are not able to 
+access applications that use AI. This Subcommittee has long led the charge for increasing access 
+to and adoption of broadband. As mentioned earlier, AI systems are computers that connect to the 
+world via fiber connections to the public internet, and which end-users access from their at-home 
+or mobile internet connections. If all Americans do not have high-speed internet, we will 
+exacerbate the digital divide. The Broadband Equity, Access, and Deployment (BEAD) and 
+Digital Equity programs that this Subcommittee included in the bipartisan Infrastructure 
+Investment and Jobs Act are important steps to close the digital divide, particularly in rural areas. 
+Implementation of the former is paused, while the latter has been permanently halted.39  
+ 
+III. AI is a Normal Technology that Needs Normal Regulation 
+ 
+AI is powerful technology, but it is fundamentally a “normal” technology, in contrast to the 
+utopian and dystopian science-fiction futures often debated, as computer scientists Arvind 
+Narayanan and Sayash Kapoor write.40 They discuss AI’s normality as a description of today’s 
+technology, a prediction of its future development, and a prescription for societal responses. This 
+simple idea is important because it shows that today’s public policy problems can have normal, 
+well-known public policy solutions. 
+ 
+This Committee has been central to the American tradition of enabling powerful industries to 
+flourish while passing thoughtful bipartisan regulations to mitigate real-world harms. This is a 
+tradition that should continue by encouraging the enforcement of current federal and state laws 
+that may apply to AI, allowing states to remain the laboratories of democracy, and enacting new 
+laws where gaps exist. 
+ 
+A. Real-World Harms to Real People 
+ 
+In many instances, current laws can be used to deal with AI-caused or AI-accelerated harms. As 
+leaders of 10 federal agencies explained last year, “Existing legal authorities apply to the use of 
+automated systems and innovative new technologies just as they apply to other practices.”41 Put 
+more plainly, “There is no AI exemption to the laws on the books.”42 As an example of this idea, 
+the Federal Communications Commission (FCC) ruled that the Telephone Consumer Protection 
+Act of 1991 applies when robocalls and robotexts are generated using AI,43 and the FCC brought 
+an enforcement action against a company that transmitted a spoofed call using generative AI 
+voice cloning.44 Other federal agencies have gone after fake “robot lawyers” that bilked 
+consumers of millions, tools generating false product reviews, an algorithmic pricing scheme that 
+harmed millions, and more.45 States are using existing laws too. For example, the State of Texas 
+sued a healthcare AI company that made deceptive claims about the accuracy of its AI tool and a 
+large insurance company using surveillance-based pricing algorithms.46 
+ 
+Testimony of Asad Ramzanali 
+ 
+6 
+However, some AI-caused or AI-accelerated harms require new regulations, and states have 
+taken the lead on this front.47 Many commenters have lamented the hundreds of state AI bills, but 
+it is worth noting that actual state laws do things like require basic transparency, prevent scams, 
+and protect renters from algorithmic predatory pricing, according to dozens of state attorneys 
+general.48 States have also taken the lead in passing privacy laws that begin offering some 
+protections in a world of increasing private surveillance.49 The need for privacy protections will 
+only increase as chatbots and other AI tools become more personalized and invasive.50 
+ 
+Finally, the harms to children from the use of screens, social media, and other addictive 
+technologies are worsening with AI. While some question the robustness of the evidence to 
+develop a causal link between technology use and harm to children, the former Surgeon General 
+described it well when he said that “in an emergency, you don’t have the luxury to wait for 
+perfect information.”51 These issues are accelerating as AI is increasingly intertwined with tools 
+kids use and as we see new applications directed to children, like companion chatbots designed 
+by companies like Meta that have problematic histories of building tools that harm children.52  
+ 
+The state AI law moratorium recently passed by the House would wipe away guardrails 
+protecting real people from real harms, not to mention its unintended consequences.53 If passed, 
+the provision would strip millions of Americans of rights promised to them by state lawmakers. 
+Notably, eight out of ten voters opposed this measure in a poll conducted last week.54 
+ 
+B. Harm to Competition  
+ 
+Market concentration and anticompetitive behaviors across layers of the AI stack are impeding 
+competition from startups, and again we have known solutions and tools to address these 
+problems. The House Antitrust Subcommittee investigated the concentration of digital markets,55 
+and passed six bipartisan pro-competition bills that remedy issues it uncovered.56 Recently, Garry 
+Tan, who leads the startup accelerator Y Combinator, testified before the Senate Antitrust 
+Subcommittee supporting three of these policies: (1) mandating access to application 
+programming interfaces (APIs), (2) requiring interoperability, and (3) restricting self-
+preferencing.57 Beyond these, Ganesh Sitaraman, my colleague at VPA, and Tejas Narechania 
+published a useful inventory of pro-competition AI policies Congress should consider.58 
+ 
+C. This Committee has a Storied, Bipartisan History of Regulating Powerful 
+Technologies 
+ 
+One instructive parallel for thinking about AI is looking back at the Second Industrial Revolution 
+of the late 19th and early 20th Century. That era had its own tech stack: coal at the bottom 
+(analogous to chips), followed by railroads (analogous to cloud computing), industrial plants 
+(analogous to AI models), and mass manufactured goods (analogous to applications). Railroads 
+were a powerful technology that fundamentally changed the American geography, industry, and 
+society. This tech stack presented policy problems that Congress solved through bipartisan laws. 
+ 
+After decades of government support – in the form of land, funding, and even reduced liability 
+standards – railroads expanded across the U.S. in the mid-1800s. In 1867, farmers, small 
+business owners, and others organized as part of the Grange movement and effectively advocated 
+Testimony of Asad Ramzanali 
+ 
+7 
+for states to pass laws that prohibited the pricing discrimination that was rampant (e.g., railroads 
+charging more for short-haul shipments than long-haul ones). After courts struck down state 
+laws, Congress outlawed pricing discrimination and other anticompetitive practices, based on 
+state laws in 1887. It created the Interstate Commerce Commission (ICC) as the first major 
+independent regulatory commission, which became the template for the FCC, FTC, and others.59 
+ 
+The problems later included vertical integration. By 1900, six railroad companies had captured 
+90% of the anthracite coal market.60 In 1906, Congress passed the Hepburn Act, which further 
+empowered the ICC and required rail companies to divest their coal holdings,61 followed by laws 
+prohibiting rail companies from owning steamboat companies in 191262 and trucking companies 
+in 194063. Like today’s AI companies, railroad companies comprised a powerful industry led by 
+powerful barons who had strong negative reactions to regulations. Ultimately, Congress re-
+established democratic governance over the industry and enabled fair competition, equitable 
+pricing and terms for farmers and small businesses, diverse and plentiful goods for consumers, 
+and a rebalancing of power in America.  
+ 
+The parallels between the history of railroads and today’s tech and AI industry are manifold: an 
+industry grows based on government funding, powerful technology changes many aspects of 
+society, legal liability is softened, and state regulation passes before federal. The next step in the 
+journey, applied to our current situation, is Congress passing bipartisan AI regulations.  
+ 
+Critically, it was not just Congress generally that regulated railroads. As you all know, this 
+Committee was created in 1795 and is the oldest continuous Committee in the House of 
+Representatives.64 It was specifically this Committee that drafted, debated, and passed bipartisan 
+legislation to regulate the railroads, and later telegraph, radio, telephone, and so many other 
+industries based on powerful technologies. The Hepburn Act is named for Col. William P. 
+Hepburn, a Republican representing Iowa’s Eighth Congressional District in the U.S. House of 
+Representatives from 1881 to 1887 and again from 1893 to 1909, who drafted the legislation 
+when he served on this Committee.65  
+ 
+The lesson from this story is simple: This Committee has a long history of bipartisan, sector-
+specific laws to mitigate harms and restore fairness. 
+ 
+IV. Conclusion 
+ 
+I urge Congress to take actions to bolster American leadership in AI based on proven tools that 
+have given the U.S. a technological advantage historically: (1) substantial public investment in 
+R&D, (2) supporting startups, (3) enabling all Americans to benefit from technology, and (4) 
+mitigating the harms of AI. Harms are best mitigated through the great American tradition of 
+regulated capitalism, in which this Committee plays a leading role. Congress should (1) 
+encourage the enforcement of current federal and state laws that may apply to AI companies, (2) 
+allow states to continue their role as the laboratories of democracy, and (3) enact new laws where 
+gaps exist. 
+ 
+I once again thank this Subcommittee for holding this important hearing and inviting me to 
+testify, and I look forward to your questions. 
+Testimony of Asad Ramzanali 
+ 
+8 
+End Notes 
+ 
+1 Nikita Sachdeva, 20 Uses of Artificial Intelligence in Day-to-Day Life, DAFFODIL UNTHINKABLE SOFTWARE CORP., 
+https://insights.daffodilsw.com/blog/20-uses-of-artificial-intelligence-in-day-to-day-life (last visited May 31, 2025). 
+2 ANDREW GUTHRIE FERGUSON, THE RISE OF BIG DATA POLICING: SURVEILLANCE, RACE, AND THE FUTURE OF LAW ENFORCEMENT 
+(2017); KATHERINE B. FORREST, WHEN MACHINES CAN BE JUDGE, JURY, AND EXECUTIONER: JUSTICE IN THE AGE OF ARTIFICIAL 
+INTELLIGENCE (2021); CATHY O’NEIL, WEAPONS OF MATH DESTRUCTION: HOW BIG DATA INCREASES INEQUALITY AND 
+THREATENS DEMOCRACY 84–104 (2017). 
+3 JOY BUOLAMWINI, UNMASKING AI: MY MISSION TO PROTECT WHAT IS HUMAN IN A WORLD OF MACHINES (2023); KASHMIR 
+HILL, YOUR FACE BELONGS TO US: A SECRETIVE STARTUP’S QUEST TO END PRIVACY AS WE KNOW IT (2023). 
+4 Ryan Levi, AI in Medicine Needs to Be Carefully Deployed to Counter Bias – and Not Entrench It, NPR, Jun. 6, 2023, 
+https://www npr.org/sections/health-shots/2023/06/06/1180314219/artificial-intelligence-racial-bias-health-care. 
+5 FRANK PASQUALE, THE BLACK BOX SOCIETY: THE SECRET ALGORITHMS THAT CONTROL MONEY AND INFORMATION (2015); 
+O’NEIL, supra note 2 at 141–178. 
+6 SAFIYA UMOJA NOBLE, ALGORITHMS OF OPPRESSION: HOW SEARCH ENGINES REINFORCE RACISM (2018). 
+7 CHRIS HAYES, THE SIRENS’ CALL: HOW ATTENTION BECAME THE WORLD’S MOST ENDANGERED RESOURCE (2025); PHILIP N. 
+HOWARD, LIE MACHINES: HOW TO SAVE DEMOCRACY FROM TROLL ARMIES, DECEITFUL ROBOTS, JUNK NEWS OPERATIONS, AND 
+POLITICAL OPERATIVES (2020); MATTHEW CRAIN, PROFIT OVER PRIVACY: HOW SURVEILLANCE ADVERTISING CONQUERED THE 
+INTERNET (2021). 
+8 SHOSHANA ZUBOFF, THE AGE OF SURVEILLANCE CAPITALISM: THE FIGHT FOR A HUMAN FUTURE AT THE NEW FRONTIER OF POWER 
+(2019); CARISSA VÉLIZ, PRIVACY IS POWER: WHY AND HOW YOU SHOULD TAKE BACK CONTROL OF YOUR DATA (2020); ARAM 
+SINNREICH & JESSE GILBERT, THE SECRET LIFE OF DATA: NAVIGATING HYPE AND UNCERTAINTY IN THE AGE OF ALGORITHMIC 
+SURVEILLANCE (2024); KAREN LEVY, DATA DRIVEN: TRUCKERS, TECHNOLOGY, AND THE NEW WORKPLACE SURVEILLANCE (2024). 
+9 John Haraburda, Robocalls Surged Ahead of the 2024 Election, RCR WIRELESS NEWS (Nov. 18, 2024), 
+https://www rcrwireless.com/20241118/policy/robocalls-2024-election. 
+10 NATIONAL SECURITY COMMISSION ON ARTIFICIAL INTELLIGENCE, FINAL REPORT 31 (2021), https://reports nscai.gov/final-
+report/; Matt Bornstein, Guido Appenzeller & Martin Casado, Who Owns the Generative AI Platform?, ANDREESSEN HOROWITZ 
+(Jan. 19, 2023), https://a16z.com/who-owns-the-generative-ai-platform/; Tejas N. Narechania & Ganesh Sitaraman, An 
+Antimonopoly Approach to Governing Artificial Intelligence, 43 YALE LAW & POLICY REVIEW 95, 108–127 (2024), 
+https://yalelawandpolicy.org/antimonopoly-approach-governing-artificial-intelligence; Hearing on “Winning the AI Race: 
+Strengthening U.S. Capabilities in Computing and Innovation” (Testimony of Brad Smith), 3 (Senate Committee on Commerce, 
+Science, and Transportation 2025), https://www.commerce.senate.gov/services/files/148A94E5-DB50-4EE0-BD16-
+C52E07F8D3AE. 
+11 CHRIS MILLER, CHIP WAR: THE FIGHT FOR THE WORLD’S MOST CRITICAL TECHNOLOGY (2022). 
+12 KAI-FU LEE, AI SUPERPOWERS: CHINA, SILICON VALLEY, AND THE NEW WORLD ORDER (2021). 
+13 Gwendolyn Bogard, How We Think: Brain-Inspired Models of Human Cognition Contribute to the Foundations of Today’s 
+Artificial Intelligence, THE GOLDEN GOOSE AWARD (Sep. 16, 2024), https://www.goldengooseaward.org/01awardees/pdp; 
+Artificial Intelligence, NATIONAL SCIENCE FOUNDATION, https://www.nsf.gov/focus-areas/artificial-intelligence (last visited May 
+30, 2025); Scott Fouse, Stephen Cross & Zachary Lapin, DARPA’s Impact on Artificial Intelligence, 41 AI MAGAZINE 3 (2020), 
+https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/5294; Artificial Intelligence, DEPARTMENT OF ENERGY (Apr. 
+29, 2024), https://www.energy.gov/topics/artificial-intelligence. 
+14 BEN BUCHANAN, THE AI TRIAD AND WHAT IT MEANS FOR NATIONAL SECURITY STRATEGY (2020), 
+https://cset.georgetown.edu/publication/the-ai-triad-and-what-it-means-for-national-security-strategy/. 
+15 MARIANA MAZZUCATO, THE ENTREPRENEURIAL STATE: DEBUNKING PUBLIC VS. PRIVATE SECTOR MYTHS (2015). 
+16 Smriti Mallapaty, China Promises More Money for Science in 2024, NATURE (2024), https://www nature.com/articles/d41586-
+024-00695-4. 
+17 ALESSANDRA ZIMMERMANN, THE FINAL FY 2024 BUDGET: A SUMMARY OF HOW R&D FARED 2 (2024), 
+https://www.aaas.org/sites/default/files/2024-
+05/Final%20FY2024%20Report.pdf?adobe_mc=MCMID%3D23000849054056839993358493784186094648%7CMCORGID%
+3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1718236800. 
+18 Trump’s Proposed Budget Would Mean ‘Disastrous’ Cuts to Science, SCIENCE, May 2025, 
+https://www.science.org/content/article/trump-s-proposed-budget-would-mean-disastrous-cuts-science. 
+Testimony of Asad Ramzanali 
+ 
+9 
+ 
+19 NETWORKING AND INFORMATION TECHNOLOGY R&D PROGRAM AND THE NATIONAL ARTIFICIAL INTELLIGENCE INITIATIVE 
+OFFICE SUPPLEMENT TO THE PRESIDENT’S FY2025 BUDGET RELEASED 14 (2024), https://www nitrd.gov/fy2025-nitrd-naiio-
+supplement/. 
+20 THE BIPARTISAN AI WORKING GROUP, DRIVING U.S. INNOVATION IN ARTIFICIAL INTELLIGENCE: A ROADMAP FOR ARTIFICIAL 
+INTELLIGENCE POLICY IN THE UNITED STATES 5, 28 (2024), 
+https://www.schumer.senate.gov/imo/media/doc/Roadmap_Electronic1.32pm.pdf; NATIONAL SECURITY COMMISSION ON 
+ARTIFICIAL INTELLIGENCE, supra note 11 at 12, 188, 439–440, 733. 
+21 White House Office of Science and Technology Policy, AI Aspirations: R&D for Public Missions, AI.GOV, 
+https://web.archive.org/web/20250116082054/https://ai.gov/aspirations/ (last visited May 30, 2025). 
+22 DANIEL E. HO ET AL., BUILDING A NATIONAL AI RESEARCH RESOURCE (2021), https://hai.stanford.edu/policy/white-paper-
+building-national-ai-research-resource. 
+23 National Artificial Intelligence Initiative Act of 2020, §5106 (2021), originally based on a bipartisan bill, “National AI 
+Research Resource Task Force Act of 2020,” H.R. 7096 (116th Cong.); NATIONAL ARTIFICIAL INTELLIGENCE RESEARCH 
+RESOURCE TASK FORCE, STRENGTHENING AND DEMOCRATIZING THE U.S. ARTIFICIAL INTELLIGENCE INNOVATION ECOSYSTEM: AN 
+IMPLEMENTATION PLAN FOR A NATIONAL ARTIFICIAL INTELLIGENCE RESEARCH RESOURCE (2023), https://www.ai.gov/wp-
+content/uploads/2023/01/NAIRR-TF-Final-Report-2023.pdf. 
+24 GANESH SITARAMAN & KARUN PAREK, THE GLOBAL RISE OF PUBLIC AI (2025), https://cdn.vanderbilt.edu/vu-URL/wp-
+content/uploads/sites/412/2025/05/05220054/The-Global-Rise-of-Public-AI.pdf. 
+25 Ashish Vaswani et al., Attention Is All You Need, in PROCEEDINGS OF THE 31ST INTERNATIONAL CONFERENCE ON NEURAL 
+INFORMATION PROCESSING SYSTEMS 6000 (2017), 
+https://proceedings neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf. 
+26 Steven Levy, 8 Google Employees Invented Modern AI. Here’s the Inside Story, WIRED, Mar. 2024, 
+https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/. 
+27 Jeremy Neufeld & Lindsay Milliken, Most of America’s Top AI Companies Were Founded by Immigrants, INSTITUTE FOR 
+PROGRESS (Apr. 16, 2025), https://ifp.org/most-of-americas-top-ai-companies-were-founded-by-immigrants/. 
+28 TINA HUANG, ZACHARY ARNOLD, & REMCO ZWETSLOOT, MOST OF AMERICA’S “MOST PROMISING” AI STARTUPS HAVE 
+IMMIGRANT FOUNDERS (2020), https://cset.georgetown.edu/publication/most-of-americas-most-promising-ai-startups-have-
+immigrant-founders/. 
+29 Will Knight, Trump’s Crackdown on Foreign Student Visas Could Derail Critical AI Research, WIRED, May 29, 2025, 
+https://www.wired.com/story/trump-administration-foreign-student-visa-brain-drain/; Nisha Gaind et al., US Brain Drain: 
+Nature’s Guide to the Initiatives Drawing Scientists Abroad, 641 NATURE 1077 (2025), https://www nature.com/articles/d41586-
+025-01540-y. 
+30 Chris Christou, Why AI Holds Major Promise for Spectrum Sharing at Scale, RCR WIRELESS NEWS (Apr. 2, 2024), 
+https://www rcrwireless.com/20240402/5g/why-ai-holds-major-promise-for-spectrum-sharing-at-scale-reader-forum; Ramy Riad 
+Al-Fatlawy et al., AI-Enabled Dynamic Spectrum Sharing in Next-Generation Networks, in 2024 IEEE INTERNATIONAL 
+CONFERENCE ON COMMUNICATION, COMPUTING AND SIGNAL PROCESSING (IICCCS) 1 (2024), 
+https://ieeexplore.ieee.org/document/10763711. 
+31 DEEPSIG SECURES NTIA GRANT TO ADVANCE TELECOM AI-DRIVEN SPECTRUM SENSING (2025), 
+https://www.businesswire.com/news/home/20250113108539/en/DeepSig-Secures-NTIA-Grant-to-Advance-Telecom-AI-Driven-
+Spectrum-Sensing. 
+32 THE FUTURE OF EMERGENCY COMMUNICATION: HOW NG911 INTEGRATES AI AND REAL-TIME DATA (2025), 
+https://nga911.com/blogs/post/future-emergency-communication-how-ng911-integrates-ai-and-real-time-data. 
+33 Dimitris Mavrakis, AI RAN – Chinese Operators Make It a Reality, at Scale, RCR WIRELESS NEWS (May 23, 2025), 
+https://www rcrwireless.com/20250523/analyst-angle/ai-ran-china. 
+34 Adi Robertson, How the Antitrust Battles of the ‘90s Set the Stage for Today’s Tech Giants, THE VERGE, Sep. 2018, 
+https://www.theverge.com/2018/9/6/17827042/antitrust-1990s-microsoft-google-aol-monopoly-lawsuits-history. 
+35 SYNERGY RESEARCH GROUP, CLOUD MARKET GETS ITS MOJO BACK; AI HELPS PUSH Q4 INCREASE IN CLOUD SPENDING TO NEW 
+HIGHS (2024), https://www.srgresearch.com/articles/cloud-market-gets-its-mojo-back-q4-increase-in-cloud-spending-reaches-
+new-highs. 
+36 JAI VIPRA & SARAH MYERS WEST, COMPUTATIONAL POWER AND AI (AI Now Institute, 2023), 
+https://ainowinstitute.org/publications/compute-and-ai. 
+37 See, e.g., OFFICE OF TECHNOLOGY STAFF OF THE FEDERAL TRADE COMMISSION, PARTNERSHIPS BETWEEN CLOUD SERVICE 
+PROVIDERS AND AI DEVELOPERS (2025), 
+https://www ftc.gov/system/files/ftc_gov/pdf/p246201_aipartnerships6breport_redacted_0.pdf; Paul Sawers, Data-Labeling 
+Startup Scale AI Raises $1B as Valuation Doubles to $13.8B, TECHCRUNCH, May 2024, https://techcrunch.com/2024/05/21/data-
+Testimony of Asad Ramzanali 
+ 
+10 
+ 
+labeling-startup-scale-ai-raises-1b-as-valuation-doubles-to-13-8b/; Kevin McLaughlin & Anissa Gardizy, After Years of 
+Resistance, AWS Opens Checkbook for Open-Source Providers, THE INFORMATION, May 2023, 
+https://www.theinformation.com/articles/after-years-of-resistance-aws-opens-checkbook-for-open-source-providers. 
+38 OFFICE OF TECHNOLOGY STAFF OF THE FEDERAL TRADE COMMISSION, supra note 37 at 31. 
+39 Jessica Dine, Trump’s Cancellation of Digital Equity Act Programs Will Perpetuate the Digital Divide, TECH POLICY PRESS, 
+May 2025, https://techpolicy.press/trumps-cancellation-of-digital-equity-act-programs-will-perpetuate-the-digital-divide. 
+40 ARVIND NARAYANAN & SAYASH KAPOOR, AI AS NORMAL TECHNOLOGY (Knight First Amendment Institute, 2025), 
+http://knightcolumbia.org/content/ai-as-normal-technology. 
+41 Joint Statement on Enforcement of Civil Rights, Fair Competition, Consumer Protection, and Equal Opportunity Laws in 
+Automated Systems, (2024), https://www.justice.gov/archives/crt/media/1346821/dl?inline. 
+42 FTC Chair Khan and Officials from DOJ, CFPB and EEOC Release Joint Statement on AI, FEDERAL TRADE COMMISSION 
+(Apr. 25, 2023), https://www ftc.gov/news-events/news/press-releases/2023/04/ftc-chair-khan-officials-doj-cfpb-eeoc-release-
+joint-statement-ai. 
+43 “Implications of Artificial Intelligence Technologies on Protecting Consumers from Unwanted Robocalls and Robotexts,” 39 
+FCC Rcd 1783, FEDERAL COMMUNICATIONS COMMISSION (Feb. 8, 2024), https://www fcc.gov/document/fcc-confirms-tcpa-
+applies-ai-technologies-generate-human-voices. 
+44 FCC Settles Spoofed AI-Generated Robocalls Case, FEDERAL COMMUNICATIONS COMMISSION (Aug. 21, 2024), 
+https://www fcc.gov/document/fcc-settles-spoofed-ai-generated-robocalls-case. 
+45 JUSTICE DEPARTMENT SUES SIX LARGE LANDLORDS FOR ALGORITHMIC PRICING SCHEME THAT HARMS MILLIONS OF AMERICAN 
+RENTERS (2025), https://www.justice.gov/archives/opa/pr/justice-department-sues-six-large-landlords-algorithmic-pricing-
+scheme-harms-millions; FTC ANNOUNCES CRACKDOWN ON DECEPTIVE AI CLAIMS AND SCHEMES (2024), 
+https://www ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-crackdown-deceptive-ai-claims-schemes. 
+46 Andrea Fox, Texas AG Settles with Clinical genAI Company, HEALTHCARE IT NEWS, Sep. 2024, 
+https://www healthcareitnews.com/news/texas-ag-settles-lawsuit-clinical-genai-company; Kashmir Hill, Texas Sues Allstate Over 
+Its Collection of Driver Data, THE NEW YORK TIMES, Jan. 13, 2025, https://www.nytimes.com/2025/01/13/technology/texas-
+allstate-driver-data-lawsuit html. 
+47 ARTIFICIAL INTELLIGENCE 2025 LEGISLATION (National Conference of State Legislatures, 2025), 
+https://www ncsl.org/technology-and-communication/artificial-intelligence-2025-legislation. 
+48 Phil Weiser et al., Letter from 40 Attorneys General to Speaker Johnson, Majority Leader Thune, Minority Leader Jeffries, and 
+Minority Leader Schumer (2025), https://www.doj nh.gov/sites/g/files/ehbemt721/files/inline-documents/sonh/letter-to-congress-
+re-proposed-ai-preemption-_final.pdf. 
+49 C Kibby, US State Privacy Legislation Tracker (IAPP, May 31, 2025), https://iapp.org/resources/article/us-state-privacy-
+legislation-tracker/. 
+50 Geoffrey A. Fowler, Zuckerberg’s New Meta AI App Gets Personal in a Very Creepy Way, THE WASHINGTON POST, May 5, 
+2025, https://www.washingtonpost.com/technology/2025/05/05/meta-ai-privacy/. 
+51 Vivek H. Murthy, Surgeon General: Why I’m Calling for a Warning Label on Social Media Platforms, THE NEW YORK TIMES, 
+Jun. 17, 2024, https://www nytimes.com/2024/06/17/opinion/social-media-health-warning html. 
+52 Jeff Horwitz, Meta’s ‘Digital Companions’ Will Talk Sex With Users—Even Children, WALL STREET JOURNAL, Apr. 26, 2025, 
+https://www.wsj.com/tech/ai/meta-ai-chatbots-sex-a25311bf; Will Oremus & Andrea Jiménez, Kids Are Talking to ‘AI 
+Companions.’ Lawmakers Want to Regulate That., THE WASHINGTON POST, Apr. 1, 2025, 
+https://www.washingtonpost.com/politics/2025/04/01/ai-companions-kids-ca-ny-bill-ban/; Queenie Wong, FTC Refers Snap 
+Complaint Alleging Its Chatbot Harms Young Users, LOS ANGELES TIMES, Jan. 16, 2025, 
+https://www.latimes.com/business/story/2025-01-16/ftc-refers-snap-complaint-alleging-its-chatbot-harms-young-users; FRANCES 
+HAUGEN, THE POWER OF ONE: HOW I FOUND THE STRENGTH TO TELL THE TRUTH AND WHY I BLEW THE WHISTLE ON FACEBOOK 
+(2023). 
+53 David Brody, The Big Beautiful Bill Could Decimate Legal Accountability for Tech and Anything Tech Touches, TECH POLICY 
+PRESS, May 2025, https://techpolicy.press/the-big-beautiful-bill-could-decimate-legal-accountability-for-tech-and-anything-tech-
+touches. 
+54 New Poll Reveals Strong Bipartisan Opposition to Proposed Ban on State AI Laws, (Common Sense Media, 2025), 
+https://www.commonsensemedia.org/press-releases/new-poll-reveals-strong-bipartisan-opposition-to-proposed-ban-on-state-ai-
+laws. 
+55 INVESTIGATION OF COMPETITION IN DIGITAL MARKETS: MAJORITY STAFF REPORT AND RECOMMENDATIONS (Subcommittee on 
+Antitrust of the House Committee on the Judiciary, 2020), https://www.govinfo.gov/content/pkg/CPRT-
+117HPRT47832/pdf/CPRT-117HPRT47832.pdf. 
+Testimony of Asad Ramzanali 
+ 
+11 
+ 
+56 Cecilia Kang & David McCabe, House Lawmakers Are Considering 6 Bills Aimed at Big Tech, THE NEW YORK TIMES, Jun. 23, 
+2021, https://www nytimes.com/2021/06/23/technology/big-tech-antitrust-bills html. 
+57 Hearing on “Big Fixes for Big Tech” (Testimony of Garry Tan) (Subcommittee on Antitrust, Competition Policy, and 
+Consumer Rights of the Senate Committee on the Judiciary, Apr. 1, 2025), https://www.judiciary.senate.gov/imo/media/doc/2025-
+04-01_testimony_tan.pdf. 
+58 Narechania and Sitaraman, supra note 11; GANESH SITARAMAN & TEJAS N. NARECHANIA, ANTIMONOPOLY TOOLS FOR 
+REGULATING ARTIFICIAL INTELLIGENCE (Vanderbilt Policy Accelerator, 2024), https://cdn.vanderbilt.edu/vu-sub/wp-
+content/uploads/sites/281/2023/12/19183408/Policy-Brief-2023.10.08-.pdf. 
+59 For the history of railroad regulations, see, generally, TOM WHEELER, FROM GUTENBERG TO GOOGLE: THE HISTORY OF OUR 
+FUTURE 55–86 (2019); Lina M. Khan, The Separation of Platforms and Commerce, 119 COLUM. L. REV. 973, 1037–1041 (2019), 
+https://columbialawreview.org/content/the-separation-of-platforms-and-commerce/; AMY KLOBUCHAR, ANTITRUST: TAKING ON 
+MONOPOLY POWER FROM THE GILDED AGE TO THE DIGITAL AGE 62–82 (2021); MORGAN RICKS, GANESH SITARAMAN & SHELLEY 
+WELTON LEV MENAND, NETWORKS, PLATFORMS, AND UTILITIES: LAW AND POLICY 475–496 (2022). 
+60 The Judicial History of the Anthracite Monopoly, 41 THE YALE LAW JOURNAL 439, 439 (1932), 
+https://www.jstor.org/stable/791007. 
+61 Hepburn Act (Pub. L. No. 59-337), 34 Stat. 584 (1906). 
+62 Panama Canal Act of 1912 (Pub. L. No. 62-337) §11, 37 Stat. 560, 566-567 (1912). 
+63 Transportation Act of 1940 (Pub. L. No. 76-785) §14(b) of the Interstate Commerce Act as added by §4(a), 54 Stat. 898, 901 
+(1940). 
+64 About, HOUSE COMMITTEE ON ENERGY AND COMMERCE, https://energycommerce house.gov/about (last visited Jun. 1, 2025). 
+65 W.P. Hepburn Dies After Long Illness, THE NEW YORK TIMES, Feb. 8, 1916, at 11.

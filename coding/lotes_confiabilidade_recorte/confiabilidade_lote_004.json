@@ -1,0 +1,957 @@
+{
+ "lote": "confiabilidade_lote_004.json",
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0010::Renda e classe",
+   "unit_id": "W0010",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Marcelo Claure",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low income",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low income",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 15770,
+     "fim_corpo": 16588,
+     "trecho": "III. What the Transaction Means for Americans Simply put, this transaction will bring benefits all across the country—in urban, suburban, and rural America. The combined company will deliver a far superior network, delivering tremendous value to consumers. Together, the New T -Mobile can supercharge the wireless industry with innovation, disruption, and an obsessive dedication to our customers. These benefits will be felt in several areas: 4G LTE. In the near term, the combined company will offer better 4G LTE services. The combined network will be anchored on the existing T -Mobile 4G LTE network and augmented with contributions from Sprint’s network to improve coverage, consistency, speed, and capacity, with low income, black, and Hispanic customers among those who would benefit the most."
+    },
+    {
+     "inicio_corpo": 18972,
+     "fim_corpo": 19769,
+     "trecho": "Lower Prices and Cost Savings. As we have shown in the analyses we have submitted in support of the merger to DOJ, the FCC, and state regulators, the New T-Mobile will have powerful incentives to offer low prices to consumers in order to utilize the huge increase in network capacity that the transaction will make possible. The vision that John and Mike have for the New T-Mobile is that of a “supercharged maverick,” with the scale and resources to make a significant impact on the wireless marketplace for the better. This means the combined company will continuously look for ways to offer more for less, so it can grow its subscriber base and improve value propositi ons for American consumers. Critically, low income consumers will particularly benefit from these developments."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0014::Infraestrutura e porte populacional",
+   "unit_id": "W0014",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Matthew Wood",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 44762,
+     "fim_corpo": 46209,
+     "trecho": "25​SeeS.DerekTurner,FreePress“TaleTalesandTitleII,”(Feb.15,2019), https://www.freepress.net/our-response/expert-analysis/insights-opinions/tall-tales-and-title-ii​.Thepost links to EOT’s joint press release with Huawei, contemporaneous news stories, and additional sources. 24 ●In​March2015​,justafewdaysaftertheFCC’shistoricvotereturningtoTitleII, EOTandHuaweiputoutajointpressreleaseannouncinganew fiber-to-the-premisesdeploymentprojectthatwouldbringgigabitserviceto“over 8,000homesandbusinessesinHermistonandthesurroundingarea.”Therelease announcedinitialdeploymentinlate2015,continuinginto2016.Alocal newspaperreportthatsamedayquotedtheEOTwitnesssayingthatwiththenew build ​EOT “expects to invest $2 million” on the project​. ●EOTsubstantiallyexpandeditscablefootprintintopreviouslyunservedareas; upgraded100percentofitscablelinestohigher-capacityDOCSIS3;andmore thantripledthemarketeddownstreamspeedsofallofthesecable-modemlines from30Mbpsto100Mbps.Thisupgradeoccurredpredominantly​in2016aswell –thatis,longbeforeDonaldTrump’selection,andbeforeEOTcouldhave “started to ​hear the commitment from the [Trump] FCC to repeal Title II.” ●AsubstantialnumberofEOT’sdeploymentsandupgradesmadeduringthistime wereinareasclassifiedasruralorunpopulatedblocksasofthe2010Census​."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0014::Posição no trabalho",
+   "unit_id": "W0014",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Matthew Wood",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 49133,
+     "fim_corpo": 50031,
+     "trecho": "Twosamplecharts,updatedwith2017data,illustratethesteady(ifbynomeans sufficientineverycongressionaldistrict)paceofbroadbandimprovementsduringthis period, unaltered by continued debate over how to preserve Net Neutrality. 27 ManyLargeBroadbandProvidersDecreasedTheirInvestmentsin2017and2018, Even After the ​2017 Net Neutrality Repeal ​Vote Whenwetestifiedonthistopiclastmonth,wenotedthatmanymajorISPshad begunreportingtheir2018revenuesandinvestmentnumbers.Atthatpoint,Verizon 27 alreadyhadreportedaninvestmentdecreasefor2018whencomparedto2017.Sohad AT&T,whichannouncedthatinsteadofthetax-cutfueledjobgrowthithadpromisedit wouldbelayingoffworkers.AndComcastreportedthatcapitalexpendituresfor2018 28 likewise decreased, after double-digit growth in the years when Title II was in place."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0014::Urbano e rural",
+   "unit_id": "W0014",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Matthew Wood",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13839,
+     "fim_corpo": 14816,
+     "trecho": "Yetitwasn’tjustvoiceservicethatremainedunderthatlaw.TheFCCusedits TitleIIauthoritytoregulatecommoncarrierphonelinesoverwhichdial-upinternet servicewasdelivered.IttreatedDSL–thebroadbandinternetaccessfirstofferedby telephonecompanies–asatelecomserviceuntil2005,duringatimewhentelecom investmenthitarecordpeak.Andlongafter2005,TitleIIappliedtomorethana thousandruralDSLproviderswhochosetocontinueprovidingbroadbandasatelecom service.Thatlawstillappliestobusiness-gradebroadbandtoo,sosuccessfullythat AT&Tcalleditsusean“unqualifiedregulatorysuccessstory”responsibleforspurring “billions of dollars” of investment in “state-of-the-art broadband networks.” 11 11CommentsofAT&TInc.,WCDocketNo.05-25,at3(filedApr.16,2013)(furtherarguingthatTitleII with forbearance promoted “the paramount federal policy of fostering deployment of advanced services”)."
+    },
+    {
+     "inicio_corpo": 43045,
+     "fim_corpo": 44179,
+     "trecho": "24 24 Comments of AT&T, WT Docket No. 10-133, at 34 (filed July 30, 2010). 23 ThreeadditionaldatapointsanddatasetshavecometolightsincetheFebruary 2019hearingonthistopic.Becauseofthepersistentunsupportedclaimsandoutright falsehoodssurroundingthisquestion,weclosewithsummariesofthesedevelopments covered more fully in our other articles and filings. ABroadbandProviderWitnessClaimsattheSubcommittee’sInitialHearingon this Subject Did Not Detail the Full Extent of His Investments Under Title II Lastmonthinthissamehearingroom,anEasternOregonTelecom(“EOT”) executivetestifiedaboutthesupposedchillingimpacttheTitleIIframeworkrestoredin 2015hadonhisbusiness.Histestimonywasmeanttosuggestthatratifyingthatsame legalframework,astheSavetheInternetActdoes,wouldbebadforsmallandrural broadbandproviders.Fortunatelyforthebill’ssponsors–andinfact,fortunatelyfor EOT’sbusinessprospects,ifnottheprobativevalueofitscongressionaltestimony– EOT continued right on investing and improving service under Title II."
+    },
+    {
+     "inicio_corpo": 45592,
+     "fim_corpo": 46209,
+     "trecho": "●EOTsubstantiallyexpandeditscablefootprintintopreviouslyunservedareas; upgraded100percentofitscablelinestohigher-capacityDOCSIS3;andmore thantripledthemarketeddownstreamspeedsofallofthesecable-modemlines from30Mbpsto100Mbps.Thisupgradeoccurredpredominantly​in2016aswell –thatis,longbeforeDonaldTrump’selection,andbeforeEOTcouldhave “started to ​hear the commitment from the [Trump] FCC to repeal Title II.” ●AsubstantialnumberofEOT’sdeploymentsandupgradesmadeduringthistime wereinareasclassifiedasruralorunpopulatedblocksasofthe2010Census​."
+    },
+    {
+     "inicio_corpo": 45592,
+     "fim_corpo": 46494,
+     "trecho": "●EOTsubstantiallyexpandeditscablefootprintintopreviouslyunservedareas; upgraded100percentofitscablelinestohigher-capacityDOCSIS3;andmore thantripledthemarketeddownstreamspeedsofallofthesecable-modemlines from30Mbpsto100Mbps.Thisupgradeoccurredpredominantly​in2016aswell –thatis,longbeforeDonaldTrump’selection,andbeforeEOTcouldhave “started to ​hear the commitment from the [Trump] FCC to repeal Title II.” ●AsubstantialnumberofEOT’sdeploymentsandupgradesmadeduringthistime wereinareasclassifiedasruralorunpopulatedblocksasofthe2010Census​. Betweentheendof2014andtheendof2016,EOTexpandeditstotalnumberof ruralblocksservedby24percent;thenumberofruralblockswhereitoffers cable-modemserviceby315percent;andthenumberofruralblockswhereit offers fiber service by 25 percent."
+    },
+    {
+     "inicio_corpo": 45592,
+     "fim_corpo": 46494,
+     "trecho": "●EOTsubstantiallyexpandeditscablefootprintintopreviouslyunservedareas; upgraded100percentofitscablelinestohigher-capacityDOCSIS3;andmore thantripledthemarketeddownstreamspeedsofallofthesecable-modemlines from30Mbpsto100Mbps.Thisupgradeoccurredpredominantly​in2016aswell –thatis,longbeforeDonaldTrump’selection,andbeforeEOTcouldhave “started to ​hear the commitment from the [Trump] FCC to repeal Title II.” ●AsubstantialnumberofEOT’sdeploymentsandupgradesmadeduringthistime wereinareasclassifiedasruralorunpopulatedblocksasofthe2010Census​. Betweentheendof2014andtheendof2016,EOTexpandeditstotalnumberof ruralblocksservedby24percent;thenumberofruralblockswhereitoffers cable-modemserviceby315percent;andthenumberofruralblockswhereit offers fiber service by 25 percent."
+    },
+    {
+     "inicio_corpo": 45592,
+     "fim_corpo": 46494,
+     "trecho": "●EOTsubstantiallyexpandeditscablefootprintintopreviouslyunservedareas; upgraded100percentofitscablelinestohigher-capacityDOCSIS3;andmore thantripledthemarketeddownstreamspeedsofallofthesecable-modemlines from30Mbpsto100Mbps.Thisupgradeoccurredpredominantly​in2016aswell –thatis,longbeforeDonaldTrump’selection,andbeforeEOTcouldhave “started to ​hear the commitment from the [Trump] FCC to repeal Title II.” ●AsubstantialnumberofEOT’sdeploymentsandupgradesmadeduringthistime wereinareasclassifiedasruralorunpopulatedblocksasofthe2010Census​. Betweentheendof2014andtheendof2016,EOTexpandeditstotalnumberof ruralblocksservedby24percent;thenumberofruralblockswhereitoffers cable-modemserviceby315percent;andthenumberofruralblockswhereit offers fiber service by 25 percent."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0024::Domicílio e arranjo familiar",
+   "unit_id": "W0024",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6244,
+     "fim_corpo": 7185,
+     "trecho": "Our wireless maps are so suspect they are now the subject of an ongoing investigation. Getting this right matters. If we don’t have proper maps, we will not be able to target policy solutions effectively. The FCC distributes billions of dollars each year to help accelerate the build out of broadband, so we can connect with all our communities. It’s wasteful and irresponsible for the agency to do so without having a truly accurate picture of where those resources should go. Competition Competition is fundamental. It yields lower prices and higher quality services. But there is a troubling trend in the state of competition. Right now, too few American consumers have a choice for high-speed broadband service. I know this personally, because I’m one of them. But I also know this professionally, because the FCC’s data show that half the households in this country have no choice of broadband provider."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0024::Infraestrutura e porte populacional",
+   "unit_id": "W0024",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 432,
+     "fim_corpo": 1537,
+     "trecho": "Thank you for the opportunity to appear before you today. I believe the future belongs to the connected. No matter who you are or where you live in this country you need access to modern communications to have a fair shot at 21st century success. Clearing the way for this connected future should be at the heart of everything we do at the Federal Communications Commission. I believe we can do this when we focus on the most basic values in our laws: consumer protection, universal service, competition, and public safety. It saddens me that during the past two years, we have not led with these values. Instead, too often this agency has acted at the behest of the corporate forces that surround it, shortchanging the American people. You see it clearly in our failure to fix robocalls, in our inability to bring broadband to underserved communities, in the mess we made with our roll back of net neutrality, and in our failure to offer anything but silence in response to revelations that our privacy has been violated with the sale of wireless location data on our phones."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0025::Idade",
+   "unit_id": "W0025",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 14342,
+     "fim_corpo": 15090,
+     "trecho": "The report also provides an assessment of whether the diverted funds were used for purposes related in some capacity to public safety or completely unrelated. You may find it shocking that the diversion rate was as high as 90 percent in one state (New York). Beyond creating a problem of public confidence in the fee system itself, fee diversion also shortchanges the budgets of emergency call centers and has prevented much needed upgrades. I’ve been to public safety answering points (PSAP) and I’ve met with the dedicated emergency communications professionals in many of the states subject to diversion. I can assure you that they are continually frustrated by their state politicians who do not have the will to do the right thing."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0026::Urbano e rural",
+   "unit_id": "W0026",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Christopher Guith",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 24316,
+     "fim_corpo": 24997,
+     "trecho": " Regulatory flexibility and efficiency of service—proposing commonsense, flexible policies to improve the enabling environment for businesses to continue creative and innovative approaches.  Resilience—facilitating resilient infrastructure, including water and watershed management and flood control, through funding and policies to support predisaster mitigation and engaging experts and stakeholders.  Small communities and small business needs—providing investments and policy solutions specifically focused on the needs of the agricultural sector, small communities, and small businesses, including improving access to water and sanitation in rural areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0029::Vínculo institucional",
+   "unit_id": "W0029",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jessica Eckdish",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "veterans",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "Veterans",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 50598,
+     "fim_corpo": 51518,
+     "trecho": "America’s public lands also act as critical environmental regulators. Despite the role that public lands play in our nation’s economic and environmental well-being, governing agencies at all levels are challenged to support these resources. Across the country, cities and localities have increasingly been faced with declining state and federal funding for parks. For over 50 years the Land and Water Conservation Fund (LWCF) has generated funding to protect some of these public lands. Legislative Requests: 1. Address public lands maintenance backlog: • Establish a public lands maintenance fund to reduce the maintenance backlog by allocating from existing revenues. • Create a guaranteed source of funding for projects that expand outdoor recreational opportunities in cities across the country, particularly in underserved areas. • Connect veterans with employment opportunities in public lands maintenance."
+    },
+    {
+     "inicio_corpo": 50965,
+     "fim_corpo": 52010,
+     "trecho": "For over 50 years the Land and Water Conservation Fund (LWCF) has generated funding to protect some of these public lands. Legislative Requests: 1. Address public lands maintenance backlog: • Establish a public lands maintenance fund to reduce the maintenance backlog by allocating from existing revenues. • Create a guaranteed source of funding for projects that expand outdoor recreational opportunities in cities across the country, particularly in underserved areas. • Connect veterans with employment opportunities in public lands maintenance. Relevant Legislation H.R. 1225 – Restore our Parks and Public Lands Act (Bishop) (116th) S. 500 – Restore our Parks Act (Portman) (116th) H.R. 134 – Outdoor Recreation Legacy Partnership Grant Program Act (Barragan) (116th) H.R. 2274 – Veterans Conservation Corps Act (Neguse) (116th) Priority 13: Reclaim Abandoned Mine Lands, and Clean Up Hazardous Waste and Brownfield Sites Need: Along with protecting public lands, the federal government plays a large role in environmental remediation."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0030::Infraestrutura e porte populacional",
+   "unit_id": "W0030",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Mignon Clyburn",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4118,
+     "fim_corpo": 5051,
+     "trecho": "But what is just as important is getting this right. How then do we ensure 4 that the money we invest is best used to serve the American people? The answers, I believe, should include the very principles Congress considers in the LIFT America Act. Capital expenditures should be prioritized for communities currently without broadband- capable infrastructure — by this I mean those areas in both rural and urban America, that today do not even have 10/1 Mbps speeds. Funding must be targeted to places with the greatest need, to ensure that those communities and citizens who have been completely left behind, are connected as quickly as possible. Prior attempts — while important and well- intentioned — simply have not done enough to close persistent gaps. Investments must begin there. These communities should be our top priority, as such, I support the Act prioritizing unserved areas with a reverse auction."
+    },
+    {
+     "inicio_corpo": 5458,
+     "fim_corpo": 6365,
+     "trecho": "FCC Form 477. In short, it needs to be changed. Providers should be required to show where they currently provide service, using subscription-based information to confirm network coverage, and comparing the FCC’s information to third-party sources, like Microsoft’s broadband usage data that is publicly available. Commissioner Rosenworcel has suggested crowd-sourcing information to improve the maps… another good idea. It is critical that Congress requires the FCC to update Form 477 and reform its maps right away, so that we know the geographic areas in the U.S. without 10/1 Mbps coverage — the areas that should be prioritized for the LIFT America Act funding. In sum, I recommend the LIFT America Act 5 clarify that these steps must be taken to improve the National Broadband Availability Map before it is used to determine the unserved areas eligible for LIFT America Act funding."
+    },
+    {
+     "inicio_corpo": 8156,
+     "fim_corpo": 9030,
+     "trecho": "They are benefiting tremendously from scarce public dollars, and we should allow those dollars to be 6 leveraged by the private sector in as many ways possible. Accordingly, I recommend adding a clause to the legislation that prohibits recipients from unreasonably withholding wholesale service to other broadband providers. Fourth, as FCC Commissioner O’Reilly has emphasized, we must be mindful and coordinate all of the government broadband funding mechanisms to avoid duplicative funding and ensure that we get as much bang from our limited bucks as possible. Accordingly, the new funding provided by the LIFT America Act should be restricted to those unserved areas that are not receiving funds from the Connect America Fund Phase II, the USDA’s ReConnect program, or the upcoming Rural Digital Opportunity Fund that Chairman Pai recently announced."
+    },
+    {
+     "inicio_corpo": 11279,
+     "fim_corpo": 12207,
+     "trecho": "As you may be aware, broadband providers have faced barriers to obtaining access to poles, conduits, rights-of-way and multi-tenant buildings. Accordingly, the legislation should clarify that funded providers cannot be refused the access needed to construct their networks and reach consumers. In San Francisco, where the city passed a local ordinance requiring building owners to allow broadband providers access when a tenant requests service from that provider, a new fiber-to-the-home provider has been able to build its network faster, enabling 1 Gig of symmetrical service at reasonable prices in areas that previously had no such offering. I would be remiss if I also did not draw attention to the fact that while infrastructure funding is crucial to connecting unserved areas, low-income and minority consumers are more likely to remain disconnected from broadband opportunities due to the cost of service."
+    },
+    {
+     "inicio_corpo": 12642,
+     "fim_corpo": 13488,
+     "trecho": "I stand with both Commissioners Starks and Rosenworcel in calling for that proposal's rejection. We need to make it a priority that no American should be left behind because they cannot afford broadband and that the digital divide not be ignored while we are enabling taxpayer Universal Service Funds to be used only to build broadband networks. If any two institutions deserve the moniker of anchor institutions, it is our nation's schools and libraries. They remain the foundation and the backstop of educational, employment and (re)training opportunities and are primarily responsible for our professional successes. Enabling these institutions the option to participate in the auction at the state level where communities are deemed unserved, may very well net innovative alternatives for those who are digitally disconnected."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0031::Renda e classe",
+   "unit_id": "W0031",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brian Wahler",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "Low Income",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low income",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low income",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low income",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "Low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4148,
+     "fim_corpo": 5063,
+     "trecho": "This explains why when the mayors came together to craft their infrastructure plan – Mayors’ Infrastructure Priorities for the 116th Congress – we focused on traditional infrastructure issues. Specifically, we set forth recommendations in these issue areas: 1. Transportation: Highways and Transit, Ports and Aviation; 2. Water Infrastructure: Water, Wastewater and Water Resources; 3. Energy: EECBG, Renewable Energy and Energy Assurance; 4. Community Infrastructure: CDBG and Brownfields; and 5. Tax Law: Renewable Energy and Storage Tax Credits, and Tax-Exempt Bonds. You will note that broadband and wireless infrastructure is not in our plan and let me talk about this issue briefly. In larger cities, broadband networks are largely being provided by the private sector. The private sector’s willingness to extend networks into low-income and disadvantaged neighborhoods, however, has been uneven."
+    },
+    {
+     "inicio_corpo": 21736,
+     "fim_corpo": 22769,
+     "trecho": "Some of the major findings indicated that: • 60% of cities have launched or expanded a climate initiative or policy in the past year; • 65% of cities procure renewable electricity for municipal operations; • 70% of cities have energy efficiency policies for new and existing municipal buildings; • 83% of cities are partnering with the business community for support in advancing transportation, renewable energy, and energy efficiency solutions. We know we need to do more. There is tremendous potential to expand these activities and expedite implementation of technologies. However, we cannot do it alone and especially not without resources. Which is why the reauthorization and fully funding the Energy Efficiency and Conservation Block Grant (EECBG) program is vitally important. Clean Distributed Energy Systems and Solar Installations in Low Income and Underserved Communities The Conference of Mayors supports both clean distributed energy systems and solar installations in low income and underserved communities."
+    },
+    {
+     "inicio_corpo": 22185,
+     "fim_corpo": 22769,
+     "trecho": "We know we need to do more. There is tremendous potential to expand these activities and expedite implementation of technologies. However, we cannot do it alone and especially not without resources. Which is why the reauthorization and fully funding the Energy Efficiency and Conservation Block Grant (EECBG) program is vitally important. Clean Distributed Energy Systems and Solar Installations in Low Income and Underserved Communities The Conference of Mayors supports both clean distributed energy systems and solar installations in low income and underserved communities."
+    },
+    {
+     "inicio_corpo": 22185,
+     "fim_corpo": 23007,
+     "trecho": "We know we need to do more. There is tremendous potential to expand these activities and expedite implementation of technologies. However, we cannot do it alone and especially not without resources. Which is why the reauthorization and fully funding the Energy Efficiency and Conservation Block Grant (EECBG) program is vitally important. Clean Distributed Energy Systems and Solar Installations in Low Income and Underserved Communities The Conference of Mayors supports both clean distributed energy systems and solar installations in low income and underserved communities. These provisions are both inclusive and innovative. The low-income solar grant program targets an income group that struggles to afford basic utilities and could help reduce household energy costs as well as reducing carbon emissions."
+    },
+    {
+     "inicio_corpo": 67291,
+     "fim_corpo": 68266,
+     "trecho": "Coleman With the EECBG program funds, the city will retroﬁt twenty-nine city buildings with energy efﬁcient technologies as well as retroﬁt pedestrian trafﬁc light signals to LED. The city is also establishing a GreenSwitch revolving loan fund, capitalized at $1 million, to serve as an incentive for businesses that are looking to expand and rehabilitate their current site or relocate into one of the targeted areas within the city, whereby loan funds can be used for energy efﬁciency retroﬁts. The city is also constructing bike parking facilities in ﬁve downtown garages, four bike shelters along downtown intersections, two secure shelters and two sets of 10-bike lockers along the downtown city core, with a capacity to store 260 bicycles. To reduce energy consumption and assist Columbus Power low-income customers in reducing their electric bills, the city is developing the Home Energy Efﬁciency Baseload Reduction Program to retroﬁt approximately 60 homes."
+    },
+    {
+     "inicio_corpo": 114624,
+     "fim_corpo": 115570,
+     "trecho": "The majority of our EECBG funding is directed towards upgrades to our facilities and supporting the conversion of our ﬂeet to alternative fuels (compressed natural gas). The energy efﬁciency upgrades to our City facilities will curb carbon emissions signiﬁcantly (as will the upgrades done under our revolving loan fund) and create jobs through the auditing and retroﬁtting process. The fast-ﬁll CNG fueling station will allow General Services to continue converting our ﬂeet away from standard gasoline and diesel combustion engines. CNG vehicles have a much smaller carbon footprint than gasoline and diesel vehicles. Our recycling programs are supported by a partnership with “It’s My Community Initiative” (a recipient of a green jobs training grant from the U.S. Department of Labor) wherein low income residents will receive training to collect recyclables, staff the drop-off facilities, and help process the recyclable materials."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0031::Territórios de povos e comunidades tradicionais",
+   "unit_id": "W0031",
+   "subcategoria": "Territórios de povos e comunidades tradicionais",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brian Wahler",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Tribal governments",
+     "forma_encontrada": "tribal governments",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Tribal governments",
+     "forma_encontrada": "Tribal governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 151205,
+     "fim_corpo": 152195,
+     "trecho": "Foreword The United States Conference of Mayors Mayors Climate Protection Center It was just about five years ago that The U.S. Conference of Mayors and the nation’s mayors persuaded Congressional and Administration leaders to authorize and then fund the Energy Efficiency and Conservation Block Grant (EECBG) Program. In late 2007 , Congress authorized a five-year, $10 billion commitment to cities, counties and states, providing for new federal investment in local energy and climate initiatives as part of the Energy Independence and Security Act (P .L. 110-140). About a year later in early 2009, President Barack Obama and Congressional leaders made the EECBG Program a top funding priority in the American Recovery and Reinvestment Act (P .L. 111-5). Appropriating $2.7 billion in formula grant funds (to be distributed directly to cities, counties, states and tribal governments) and another $400 million in discretionary grants (to be awarded competitively by the U.S."
+    },
+    {
+     "inicio_corpo": 155278,
+     "fim_corpo": 156063,
+     "trecho": "Of the $2.7 billion to the program for formula grants, nearly half of these EECBG funds ($1 .3 billion) were allocated directly to cities; the average EECBG formula grant to cities was about $1 million. In 2009, as part of the American Recovery and Reinvestment Act, this U.S. Department of Energy-administered program distributed $2.7 billion in formula grants (largely based on population) directly to: • Cities with a population of 35,000 or more (including some cities below this population threshold depending on the state); • Counties with a population of 200,000 or more (including some counties below this population threshold depending on the state); • States to allocate funds to cities and counties not receiving direct formula funding; and • Tribal governments."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0033::Domicílio e arranjo familiar",
+   "unit_id": "W0033",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Greg Carlson",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3381,
+     "fim_corpo": 4072,
+     "trecho": "Though wireless may provide improvement in speed in the short term, it’s unlikely to enable the county to achieve the broadband speed goal of 100/20 by 2026. In addition, i nterviews with healthcare providers revealed a concern for infrastructure sufficient to support emerging technology, particularly in underserved rural areas of the county. Healthcare professionals expect more services to become available on -line to reduce costs and impro ve patient outcomes, including monitoring the health and safety of elderly and others recently released from the hospital; providing services to people in their homes as long as possible can save money for families and other payers."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0034::Saúde e deficiência",
+   "unit_id": "W0034",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Marc Johnson",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "deaf",
+     "forma_encontrada": "de a f",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "disabilities",
+     "forma_encontrada": "disabilities",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "disabilities",
+     "forma_encontrada": "disabilities",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 810,
+     "trecho": "Mr. Marc Johnson Executive Director East Central Minnesota Educational Cable Cooperative (ECMECC) Braham, MN May 30, 2019 Chair Golden, Rep. Stauber, members, staff, guests: Small businesses are the lifeblood of communities and rural areas in East Central MN, throughout the state and around the nation. Agriculture, tourism, hospitality, manufacturing, healthcare, retail and other sectors rely on the Internet to communicate with suppliers and customers, to provide their services and to stay viable. These businesses also need an educated workforce willing to live and raise families in rural areas. Without access to affordable high speed Internet, businesses cannot thrive, families are less likely to locate in the area and it is difficult to provide a fair and equitable education."
+    },
+    {
+     "inicio_corpo": 9327,
+     "fim_corpo": 10312,
+     "trecho": "% Steele 88.44% Meeker 71.72% Roseau 75.88% Stevens 99.22% Lac qui Parle 97.35% Traverse 67.25% Clay 95.82% Kanabec 66.05% Yellow Medicine 68.31% Marshall 56.11% Wabasha 77.61% Norman 98.45% Hennepin 99.39% Mower 85.22% Stearns 91.72% Pine 58.28%Todd 71.91% Cook 94.5% Koochiching 81.22% Grant 87.85% Clearwater 99.74% Red Lake 99.99% Mille Lacs 83.86% Beltrami 99.41% Sibley 73.59% Chippewa 83.23% Redwood 70.94% Otter Tail 92.93% Pope 76.99% Lincoln 59.7% Carlton 71.71% Aitkin 60.17% Isanti 73.5% Wright 91.07% Olmsted 94.63% Le Sueur 79.91% Faribault 78.31% Watonwan 79.21% Goodhue 79.44% Morrison 76% Mahnomen 89.87% Anoka 98.8% Lake 93.86% Pipestone 81.1% Wadena 93.01% Murray 65.37% Lyon 85.8% Freeborn 87.92% Dakota 98.46% Carver 92.14% Cass 88.02% Hubbard 97.97% Winona 86.58% 0 20 40 60 8010 miles · Upon request, this information can be made available in alternate formats for people with disabilities by contacting the DEED Office of Broadband Development at 651-259-7610."
+    },
+    {
+     "inicio_corpo": 11114,
+     "fim_corpo": 12062,
+     "trecho": "This data is current as of December 31, 2018. Itasca Lake of the Woods Chisago Pennington McLeod Cottonwood Fillmore Becker Ramsey Rock Martin Wilkin Swift Scott Crow Wing Dodge Douglas Benton Nicollet Polk HoustonNobles Sherburne Kittson Brown Big Stone Rice Blue Earth Kandiyohi Waseca Jackson St. Louis Renville Washington Steele Meeker Roseau Stevens Lac qui Parle Traverse Clay Kanabec Yellow Medicine Marshall Wabasha Norman Hennepin Mower Stearns Pine Todd Cook Koochiching Grant Clearwater Red Lake Mille Lacs Beltrami Sibley Chippewa Redwood Otter Tail Pope Lincoln CarltonAitkin Isanti Wright Olmsted Le Sueur Faribault Watonwan Goodhue Morrison Mahnomen Anoka Lake Pipestone Wadena Murray Lyon Freeborn Dakota Carver Cass Hubbard Winona 0 20 40 60 8010 miles · Upon request, this information can be made available in alternate formats for people with disabilities by contacting the DEED Office of Broadband Development at 651-259-7610."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0044::Escolaridade e letramento",
+   "unit_id": "W0044",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Councilwoman Ophelia Watahomigie-Corliss",
+   "n_ocorrencias_no_par": 15,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 9,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 515,
+     "fim_corpo": 1503,
+     "trecho": "My name is Ophelia Watahomigie-Corliss, I am a member of the Havasupai Tribe, and I am currently serving my second term as a tribal councilwoman. I am here in my official capacity as an elected leader of the sovereign Havasupai Nation. I also serve as the telecommunications lead among my Tribal Council colleagues. Within this testimony I will tell you about my Tribes’ inability to participate in online education opportunities until 2018 and how our children must leave their families and canyon home in order to obtain a high school diploma at age fourteen. My community had been promised working telemedicine for the past fifteen years and yet agencies have failed every time to execute their promises. Finally, in partnership with MuralNet, we built our own Havasupai pilot network that was successful in bringing high-speed Internet to homes for students and teachers, which has pushed the Tribe to find ways to provide broadband to the rest of our community."
+    },
+    {
+     "inicio_corpo": 4853,
+     "fim_corpo": 5567,
+     "trecho": "I have reports from many contracted doctors who, after waiting forty-five minutes to get into a patient profile, will lose the connection and the file. They refuse to use the electronic system and many choose to stick with paper charts. There was not enough Internet speed to support an electronic medical records system, let alone have the ability to establish telemedicine in the canyon. Many organizations have donated telemedicine equipment, but the equipment is useless due to low Internet speeds. Fast forward to 2015 when a local community college tried to partner with the Tribe to establish its first GED classes so that students could complete their work online and earn their diploma."
+    },
+    {
+     "inicio_corpo": 4853,
+     "fim_corpo": 5716,
+     "trecho": "I have reports from many contracted doctors who, after waiting forty-five minutes to get into a patient profile, will lose the connection and the file. They refuse to use the electronic system and many choose to stick with paper charts. There was not enough Internet speed to support an electronic medical records system, let alone have the ability to establish telemedicine in the canyon. Many organizations have donated telemedicine equipment, but the equipment is useless due to low Internet speeds. Fast forward to 2015 when a local community college tried to partner with the Tribe to establish its first GED classes so that students could complete their work online and earn their diploma. The Tribe did not have the ability to get Internet to the homes of the GED students, so they would have to use the Internet in the village center."
+    },
+    {
+     "inicio_corpo": 5007,
+     "fim_corpo": 5863,
+     "trecho": "They refuse to use the electronic system and many choose to stick with paper charts. There was not enough Internet speed to support an electronic medical records system, let alone have the ability to establish telemedicine in the canyon. Many organizations have donated telemedicine equipment, but the equipment is useless due to low Internet speeds. Fast forward to 2015 when a local community college tried to partner with the Tribe to establish its first GED classes so that students could complete their work online and earn their diploma. The Tribe did not have the ability to get Internet to the homes of the GED students, so they would have to use the Internet in the village center. It was a very ambitious project, and many of the students already had jobs and wanted to work on their schooling at home, before or after work."
+    },
+    {
+     "inicio_corpo": 5249,
+     "fim_corpo": 6140,
+     "trecho": "Many organizations have donated telemedicine equipment, but the equipment is useless due to low Internet speeds. Fast forward to 2015 when a local community college tried to partner with the Tribe to establish its first GED classes so that students could complete their work online and earn their diploma. The Tribe did not have the ability to get Internet to the homes of the GED students, so they would have to use the Internet in the village center. It was a very ambitious project, and many of the students already had jobs and wanted to work on their schooling at home, before or after work. The program had no graduates that year because it was nearly impossible to get their school work done in the allotted time when they had no access to the Internet at home. MuralNet had promised to help the Tribe bridge the homework gap the GED students were experiencing."
+    },
+    {
+     "inicio_corpo": 7871,
+     "fim_corpo": 8718,
+     "trecho": "If we sent them out of the canyon to attend school, we would also lose the employee at the Head Start. There are online classes, but the old network didn’t have the capability to stream the videos, and the OHS deadline was getting close. Within ten days of receiving the STA from the FCC, I had developed a check out program for the MuralNet CPEs for online educational use. Anyone in the community could present to me a printed approval letter of any type of online educational classes they would be taking, and I would check them out a CPE to connect them to Internet at home. Immediately twelve CPEs were checkout out to Early Head Start and Head Start teachers who began enrolling in GED classes, and community college classes. By the summer semesters, students were able to enroll into classes towards their bachelor’s degrees."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0044::Raça e etnia",
+   "unit_id": "W0044",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Councilwoman Ophelia Watahomigie-Corliss",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "American Indian",
+     "forma_encontrada": "American Indian",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "American Indian",
+     "forma_encontrada": "American Indian",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "American Indian",
+     "forma_encontrada": "American Indian",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 663,
+     "fim_corpo": 1602,
+     "trecho": "I am here in my official capacity as an elected leader of the sovereign Havasupai Nation. I also serve as the telecommunications lead among my Tribal Council colleagues. Within this testimony I will tell you about my Tribes’ inability to participate in online education opportunities until 2018 and how our children must leave their families and canyon home in order to obtain a high school diploma at age fourteen. My community had been promised working telemedicine for the past fifteen years and yet agencies have failed every time to execute their promises. Finally, in partnership with MuralNet, we built our own Havasupai pilot network that was successful in bringing high-speed Internet to homes for students and teachers, which has pushed the Tribe to find ways to provide broadband to the rest of our community. The Havasupai Reservation is the most isolated American Indian tribe in the lower 48 states."
+    },
+    {
+     "inicio_corpo": 15981,
+     "fim_corpo": 16950,
+     "trecho": "It is extremely important to allocate funding to rural America, and tribal rural America, to build reliable broadband. If my community has had its first opportunities to participate in online education in 2018, then there are other communities out there who don’t have the capabilities. Extremely isolated areas are in desperate need of telemedicine services and we still don’t have those capabilities. That is an opportunity with the monies you allocate to provide us that ability. The Havasupai would use the funds to establish the community’s first charter school and credit recovery programs, which are desperately needed to increase the morale of families to earn a better living and give them the opportunity to live their best life. I support monies allocated specifically to rural American Indian Nations within the funds being negotiated to support Building opportunity in rural America through affordable, reliable and high-speed broadband."
+    },
+    {
+     "inicio_corpo": 16273,
+     "fim_corpo": 17707,
+     "trecho": "Extremely isolated areas are in desperate need of telemedicine services and we still don’t have those capabilities. That is an opportunity with the monies you allocate to provide us that ability. The Havasupai would use the funds to establish the community’s first charter school and credit recovery programs, which are desperately needed to increase the morale of families to earn a better living and give them the opportunity to live their best life. I support monies allocated specifically to rural American Indian Nations within the funds being negotiated to support Building opportunity in rural America through affordable, reliable and high-speed broadband. I can only speak to what is my expertise and that is my community, the most isolated and rural tribe in the lower 48 states, which is the story of American Indian Country. If my story and expertise can also expand into other parts of rural America and help your decision making to support building opportunity for all rural America, well then, I am also honored. I ask you to never to forget about us again, living at the bottom of the canyon, having had no access to online education or telemedicine services. We have felt left out and forgotten for decades. Now you have the ability to help communities like us, and I know that you will. I will be honored to address any questions the Committee might have of me. Thank you for your time."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0046::Macrorregião",
+   "unit_id": "W0046",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Blake Hurst",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Puerto Rico",
+     "forma_encontrada": "Puerto Rico",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 514,
+     "fim_corpo": 1213,
+     "trecho": "My name is Blake Hurst, and I am a corn, soybean, and greenhouse farmer from Atchison County, Missouri. I serve as President of Missouri Farm Bureau and sit on the Board of Directors for the American Farm Bureau Federation, whom I am representing here today. Farm Bureau appreciates the opportunity to provide input on the necessity of broadband technology on America’s farms, ranches, and in our agribusinesses. A. Introduction The American Farm Bureau Federation (Farm Bureau) is the nation’s largest general farm organization, with nearly 6 million-member families, representing agricultural producers of nearly every type of crop and livestock across all 50 states and Puerto Rico."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0052::Cultura e informação",
+   "unit_id": "W0052",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Michael Calabrese",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "libraries",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 26430,
+     "fim_corpo": 27397,
+     "trecho": "This is especially critical for small business and families. The overwhelming majority of consumer welfare and economic value generated by unlicensed spectrum – and particularly by Wi-Fi – is indoors, in homes and businesses literally walled off from incumbent receivers in the U-NII-5 and U-NII-7 band segments. Although expensive, professionally-installed, higher-power and AFC-controlled unlicensed access will be important for enterprise networks and outdoor deployments, the failure to set a power level at which Wi-Fi can operate indoors across the entire 6 GHz band will 12 sacrifice what is likely to be the greatest benefit of this rulemaking. Wi-Fi is the workhorse of the Internet because low-cost, off-the-shelf routers and devices can easily and affordably offer access to unlicensed spectrum that provides high-capacity connectivity in homes, at work, at school, in libraries, at restaurants, retailers and virtually every public place."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0052::Renda e classe",
+   "unit_id": "W0052",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Michael Calabrese",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2811,
+     "fim_corpo": 3687,
+     "trecho": "The benefits of 5G – high throughput, low latency, and the ability to connect hundreds of different devices and sensors in a local area (e.g., IoT) – will be most available outdoors and in high-traffic areas on cellular networks. As described 3 below, Next Generation Wi-Fi (Wi-Fi 6) and private LTE networks will be most relevant indoors where more than 80% of mobile data use actually takes place. A second fundamental reason to make mid-band spectrum available on a licensed, unlicensed and shared basis is that a guiding goal of the Communications Act is to “encourage the deployment on a reasonable and timely basis of advanced telecommunications capability to all Americans.”1 While there are heated disagreements about progress towards this goal, there is no question that we can and must do better in addressing the rural and low-income digital divides."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0054::Urbano e rural",
+   "unit_id": "W0054",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Scott Bergmann",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11022,
+     "fim_corpo": 11848,
+     "trecho": "Congress directed the FCC to identify 30 megahertz of low-band spectrum for wireless services by 2022.22 Wireless providers are busy building out existing low-band 5G right now , and we encourage Congress to consider the need for additional low-band spectrum as part of its overall spectrum efforts. In order to maintain our 5G leadership, and as alluded to above, mid -band spectrum will be a key ingredient, and we need to make quick progress in the near term. Mid -band spectrum is important because it will be a workhorse band for 5G —it represents the “sweet spot” of spectrum innovation. That’s because it leverages both capacity and coverage opportunities—meaning it can handle the increased traffic that 5G will bring, and it can tr avel distances, which is helpful in more rural and suburban settings."
+    }
+   ]
+  }
+ ]
+}

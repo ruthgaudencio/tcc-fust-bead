@@ -1,0 +1,994 @@
+{
+ "caso": "BEAD",
+ "lote": 65,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0306::Renda e classe",
+   "unit_id": "W0306",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Blair Levin",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 957,
+     "fim_corpo": 1930,
+     "trecho": "• As a matter of law, the correct interpretation is that the states cannot use BEAD to impose general price regulation on an ISP . But the states can, as part of the terms of the grant, require the service to be affordable. • As a matter of history, that is exactly what every FCC, under both Republican and Democratic leadership, has done when providing subsidies for high-cost area deployments. • It is necessary to condition the government subsidy on an affordability requirement as the subsidy creates a monopoly. Monopolies price in ways that would make the service unaffordable to many, which would be contrary to Congressional intent. Further, the affordability issue would not be a problem if Congress had extended the Affordable Connectivity Program. • Congress would be wise to clearly authorize the FCC to make the National Verifier available to ISPs offering low-income programs, as that would serve the affordability goal and improve the economics of BEAD."
+    },
+    {
+     "inicio_corpo": 21538,
+     "fim_corpo": 22299,
+     "trecho": "As an administrative matter, the expiration of ACP has caused untold additional hours of state and ISP resources, as they spent 2023 and much of 2024 having to develop plans for how to allocate funds with an ACP and without one. And since the expiration of ACP , they had to spend significant resources figuring out how to address the affordability issue. To be candid, the fault lies in this building. A majority of the House signed on to legislation that would have extended the ACP . But House leadership, ignoring the economic and policy arguments18 that a majority agreed with, as well as the wisdom of Leviticus, Luke and Matthew,19 never brought the legislation up for a vote. Fortunately, many ISPs have stepped up and offered low-income programs."
+    },
+    {
+     "inicio_corpo": 22818,
+     "fim_corpo": 23676,
+     "trecho": "https://www.benton.org/blog/ten-things-about-acp-ted-cruz-cares-about-7-acp-and-bead 17 https://governor.nc.gov/governors-acp-letter/open 18 I summarized those in a speech that can be found here: https://www.benton.org/blog/economic-political-historic-and-even-theological-case-acp 19 https://dcjournal.com/speaker-johnson-should-heed-the-theological-case-for-broadband/ To help BEAD become more effective, we should encourage ISP affordability efforts. Congress should encourage having the FCC take on the task—which it is better positioned than ISPs to do—of clarifying that the agency is authorized to operate the verifier for determining eligibility for ISP low-income programs.20 Finally, let me note that there are other critical issues that we are unlikely to get to today but that will play a big role in determining the fate of the BEAD program."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0306::Urbano e rural",
+   "unit_id": "W0306",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Blair Levin",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3878,
+     "fim_corpo": 4989,
+     "trecho": "That learning process should consider a range of programs in evaluating what is going right and what might be going wrong the BEAD program. For example, we should look at another federal broadband program, the U.S. Department of Treasury’s Capital Projects Fund, a $10 billion program that was also established in 2021. Like BEAD, Capital Projects was designed to fund broadband networks where private market dynamics on their own would not. It has already awarded over 98% of its funds.1 So, in addition to congratulating Treasury for doing what I hope we would all agree was an excellent job, we should ask why did the Capital Projects fund succeed in getting the money out the door quickly while the BEAD program has not yet done so? 1 For a through and excellent analysis about how those funds have been spent, including its focus on rural and the diversity of providers receiving funds, please see this analysis from Pew: https://www.pewtrusts.org/en/research-and-analysis/articles/2024/08/06/federal-pandemic-rules-enhance-state-flexibility-in-deploying-broadband-funds There are two big reasons."
+    },
+    {
+     "inicio_corpo": 10389,
+     "fim_corpo": 11371,
+     "trecho": "It's a totally different, and much more difficult, policy problem. 6 https://www.pewtrusts.org/en/research-and-analysis/articles/2022/11/18/what-is-the-fccs-new-broadband-map-and-why-does-it-matter There have been many attempts to narrow the digital access divide, including Capital Projects and several other programs in the last few years. But BEAD is the only program designed to end the digital access divide. That is a much more difficult problem, and it takes more time. In short, while many of the criticisms the of BEAD implementation has focused on issues that take weeks or months to resolve, the same critics has ignored the structural issues that have added many months if not years to the process. This Committee should also ask itself, why, after decades of trusting the FCC to spend the Lion’s Share of government funds for rural deployments, did Congress suddenly decide not to give any funding to the FCC for the biggest deployment program ever?"
+    },
+    {
+     "inicio_corpo": 17830,
+     "fim_corpo": 18910,
+     "trecho": "So, to those who think the affordability directive is price regulation, let me say this: I know price regulation, price regulation was no friend of mine, and the affordability directive is no price regulation. There is another historical error critics make in attacking the affordability requirements. The affordability issue was not a problem until it became clear that the Affordable Connectivity Program (ACP) would expire. When that program was in place, everyone agreed on what would be affordable and not one was protesting the requirement. That expiration was a huge setback for the BEAD program. As an economic matter, it will reduce the value of the BEAD expenditures. As the consulting group BCG found, ACP reduces the subsidy needed to incentivize providers to build in rural areas by 25% per household, writing “the existence of ACP , which subsidizes subscriber service fees up to $360 per year, reduces the per-household subsidy required to incentive ISP 13 My memory is that they were signed by 34 Senators and 128 Members of the House of Representatives."
+    },
+    {
+     "inicio_corpo": 26285,
+     "fim_corpo": 27429,
+     "trecho": "In 2016, the FCC authorized support for 11 additional bids while also announcing 35 more defaults. Similarly, one can look at the record of the FCC with the winning bidders in the CAF II auctions and see many defaults. If we can go beyond BEAD and remember the ultimate mission of universal access and affordability, it would also be a good thing to have an oversight hearing on the greatest threat to the goal of universal service that our country has faced in the last century; that is, the recent Fifth Circuit decision that the current framework for Universal Service, which has been in place nearly three decades, is suddenly unconstitutional. As my fellow panelist from NTCA recently noted, if that decision is upheld, rural Americans’ broadband rates could skyrocket, and there is substantial potential for default on outstanding network construction loans, including many held by the federal government.23 The gathering storm about the future of USF, both from the legal perspective and the economic perspective,24 is another element making the BEAD planning process more problematic and cries out for this committee’s involvement."
+    },
+    {
+     "inicio_corpo": 27429,
+     "fim_corpo": 28429,
+     "trecho": "To be clear, I am not suggesting that the implementation of the BEAD program has been perfect. Nothing ever is. But I hope that this Committee attempts in good faith to understand the history that preceded the program and many trade-offs in making sure this effort succeeds. Because at the end of the day, the most important thing is to keep our country’s critical, century long commitment to communications being universally accessible and affordable to all. Thank you. 23 https://www.ntca.org/ruraliscool/newsroom/press-releases/2024/4/ntca-survey-highlights-significant-risks-skyrocketing 24 As an indication of the economic thin ice on which the current system resides, at the end of August, USAC projected that USF revenues for 4Q2024 to be approximately $329 million less than the previous quarter and the lowest quarterly revenue in the history of the USF. As a result, contribution factor for 4Q24 will rise from 34.4% to 36.5%, the highest quarterly contribution factor ever."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0307::Escolaridade e letramento",
+   "unit_id": "W0307",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Misty Ann Giles",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1085,
+     "fim_corpo": 2069,
+     "trecho": "In Montana, Governor Gianforte prioritized broadband in 2021 by establishing the state's first broadband office and allocating $310 million in American Rescue Plan Act dollars to begin closing the state's digital divide. This funding supported 62,000 serviceable locations and well- positioned us to deploy our BEAD allocation. Montana is proud to be the first state in the country to be open for business to receive BEAD applications. However, this success has not been achieved without difficulty. I thank NTIA for their hard work and dedication to this program. Today's hearing is critical for the subcommittee to understand the issues we face with implementation at the state level, both past and present. We all recognize that broadband is no longer a luxury but a necessity in the modern world. Our teachers and students rely on it for education, our healthcare industry to provide medical care, and our citizens predominantly access government services online."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0307::Infraestrutura e porte populacional",
+   "unit_id": "W0307",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Misty Ann Giles",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3142,
+     "fim_corpo": 3931,
+     "trecho": "The Big Sky State is known for its epic beauty and rurality - and harsh winters, serving as home to both the Great Plains and the Rocky Mountains. This geography, though spectacular, carries a cost in the broadband world. To bring this into focus, I'd like to provide the subcommittee with a few concrete examples of what Montana has faced. Montana is our country's 4th largest state, with a land area of over 145,000 square miles, yet we rank 44th in population with a density of 7.4 people per square mile. For comparison, my home state of Georgia has 168 persons per square mile. Montana received a nearly $629 million BEAD allocation. However, based on FCC CostQuest data, Montana's estimated need is closer to $1 billion to reach all unserved and underserved citizens."
+    },
+    {
+     "inicio_corpo": 3142,
+     "fim_corpo": 3931,
+     "trecho": "The Big Sky State is known for its epic beauty and rurality - and harsh winters, serving as home to both the Great Plains and the Rocky Mountains. This geography, though spectacular, carries a cost in the broadband world. To bring this into focus, I'd like to provide the subcommittee with a few concrete examples of what Montana has faced. Montana is our country's 4th largest state, with a land area of over 145,000 square miles, yet we rank 44th in population with a density of 7.4 people per square mile. For comparison, my home state of Georgia has 168 persons per square mile. Montana received a nearly $629 million BEAD allocation. However, based on FCC CostQuest data, Montana's estimated need is closer to $1 billion to reach all unserved and underserved citizens."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0307::Macrorregião",
+   "unit_id": "W0307",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Misty Ann Giles",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7183,
+     "fim_corpo": 8280,
+     "trecho": "Currently, we are torn between either trying to get ahead of the guidance or facing further delays in completing the proposal. These concerns are further exacerbated as the BEAD NOFO requires more elements than the statute while NTIA continues to issue more unfunded mandates. These are just a few examples of countless encounters states face with NTIA and executing the BEAD program. In summary, we are almost three years in - the NTIA is slowing states down and second-guessing good-faith efforts, not providing pro-active guidance to speed deployment. Conclusion The NTIA has a challenging task of implementing BEAD - it is the most significant investment in rural broadband this country has ever seen. I understand that trying to have all states and territories swimming in the same direction in the same lane is no small task. We appreciate the hard work and dedication to these efforts, but unnecessary risk of deployment has been created in implementation. I welcome the opportunity to discuss further to ensure that all states successfully close our nation's digital divide."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0307::Urbano e rural",
+   "unit_id": "W0307",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Misty Ann Giles",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 871,
+     "trecho": "1 Written Statement of Misty Ann Giles Director, Department of Administration Chief Operating Officer State of Montana Before the House Committee on Energy & Commerce Subcommittee on Communications & Technology “From Introduction to Implementation: A BEAD Program Progress Report.” September 10, 2024 Chair Latta, Chair Rodgers, Ranking Member Matsui, Ranking Member Pallone, and Members of the Subcommittee, thank you for the invitation to speak with you today regarding NTIA's BEAD implementation. My name is Misty Ann Giles. I serve as the Director of the Department of Administration and am the Chief Operating Officer for the State of Montana. Background Before joining Governor Greg Gianforte's administration, I served under former governors Sonny Perdue and Nathan Deal of Georgia and as Chief of Staff for Rural Development at USDA."
+    },
+    {
+     "inicio_corpo": 2380,
+     "fim_corpo": 3292,
+     "trecho": "NTIA's functional requests are akin to building a plane while flying it without having the necessary instructions to be successful. NTIA has provided either no guidance, guidance given too late, or guidance changing midstream, all with a lack of appreciation for state operations and costs and the needs of our telecommunication providers – this has created a chaotic implementation environment. In addition, while prioritizing advancement in social policies is well intended, these policies create undue complications that states and providers have never faced in other broadband programs. Our telecommunication providers, many of whom are small businesses, are left to navigate these trials while being tasked with successfully deploying BEAD dollars. The Big Sky State is known for its epic beauty and rurality - and harsh winters, serving as home to both the Great Plains and the Rocky Mountains."
+    },
+    {
+     "inicio_corpo": 7019,
+     "fim_corpo": 8280,
+     "trecho": "Looking toward the final required proposal, we eagerly await guidance from NTIA to prepare as much as possible in parallel with our subgrant application process. Currently, we are torn between either trying to get ahead of the guidance or facing further delays in completing the proposal. These concerns are further exacerbated as the BEAD NOFO requires more elements than the statute while NTIA continues to issue more unfunded mandates. These are just a few examples of countless encounters states face with NTIA and executing the BEAD program. In summary, we are almost three years in - the NTIA is slowing states down and second-guessing good-faith efforts, not providing pro-active guidance to speed deployment. Conclusion The NTIA has a challenging task of implementing BEAD - it is the most significant investment in rural broadband this country has ever seen. I understand that trying to have all states and territories swimming in the same direction in the same lane is no small task. We appreciate the hard work and dedication to these efforts, but unnecessary risk of deployment has been created in implementation. I welcome the opportunity to discuss further to ensure that all states successfully close our nation's digital divide."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0308::Educação",
+   "unit_id": "W0308",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Shirley Bloomfield",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 15559,
+     "fim_corpo": 16536,
+     "trecho": "As I explained in my May letter to Administrator Davidson, prior grant programs highlight that the larger the minimum project service area, the less likely it is that smaller community-based providers will participate in the program and the more likely it is that every end user in that geography will receive a less capable network. Smaller and more flexible project service areas will entice participation by providers of all kinds seeking to compete for BEAD funds. NTCA members, for example, have historically “edged out” in deploying broadband networks, incrementally expanding their networks over time to reach more customers outside of their traditional service footprints. By contrast, requiring applicants for BEAD funding to apply to reach every unserved location in a county or school district that in some states may be as large as other states in their entirety is a recipe for promoting participation by only the largest providers – or no one at all."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0308::Infraestrutura e porte populacional",
+   "unit_id": "W0308",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Shirley Bloomfield",
+   "n_ocorrencias_no_par": 9,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 3,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "high-cost areas",
+     "forma_encontrada": "high-cost areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved location",
+     "forma_encontrada": "unserved location",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved locations",
+     "forma_encontrada": "unserved locations",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved location",
+     "forma_encontrada": "unserved location",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1303,
+     "fim_corpo": 2218,
+     "trecho": "For example, our most recent annual survey found that, on average, more than 80% of NTCA members’ customers have access to fiber connectivity and 100 Mbps broadband service or better; nearly 61% of members’ customers on average have access to Gigabit downstream speeds. It must be noted that most of this progress was made without the benefit of the wave of recent grant programs. Instead, this remarkable level of rural broadband deployment has largely been achieved through a mix of community commitment, private capital, loans from the U.S. Department of Agriculture (USDA) and other cooperative and mission-based lenders, and the support of the federal Universal Service Fund (USF) that has helped to make the business case for such investment, to cover the ongoing costs of operations in high-cost areas, and to help keep rates more affordable despite these higher costs of deployment and operation."
+    },
+    {
+     "inicio_corpo": 5147,
+     "fim_corpo": 6277,
+     "trecho": "What Has Gone Well Before turning to the outstanding issues in BEAD implementation and several areas of particular concern, it is useful to highlight several ways in which the IIJA “got it right” and BEAD implementation has gone well. 1. Sound Priorities It is worth noting two important priorities articulated by the IIJA – (1) connecting those most in need of broadband access first; and (2) looking to build lasting networks to wherever possible before resorting to “good enough for now” connectivity options. These two priorities are critical to ensuring that our nation realizes an effective, long-term return on the tens of billions of dollars made available for this effort. First, to avoid duplicating networks already delivering reasonable levels of broadband performance, the IIJA directed that funds should be used, in order, to: (a) connect the unserved (defined as lacking 25/3 Mbps reliable broadband); (b) connect the underserved (defined as lacking 100/20 Mbps reliable broadband); (c) connect anchor institutions; and (d) enable other non-deployment purposes such as adoption programs."
+    },
+    {
+     "inicio_corpo": 5390,
+     "fim_corpo": 6277,
+     "trecho": "1. Sound Priorities It is worth noting two important priorities articulated by the IIJA – (1) connecting those most in need of broadband access first; and (2) looking to build lasting networks to wherever possible before resorting to “good enough for now” connectivity options. These two priorities are critical to ensuring that our nation realizes an effective, long-term return on the tens of billions of dollars made available for this effort. First, to avoid duplicating networks already delivering reasonable levels of broadband performance, the IIJA directed that funds should be used, in order, to: (a) connect the unserved (defined as lacking 25/3 Mbps reliable broadband); (b) connect the underserved (defined as lacking 100/20 Mbps reliable broadband); (c) connect anchor institutions; and (d) enable other non-deployment purposes such as adoption programs."
+    },
+    {
+     "inicio_corpo": 15559,
+     "fim_corpo": 16536,
+     "trecho": "As I explained in my May letter to Administrator Davidson, prior grant programs highlight that the larger the minimum project service area, the less likely it is that smaller community-based providers will participate in the program and the more likely it is that every end user in that geography will receive a less capable network. Smaller and more flexible project service areas will entice participation by providers of all kinds seeking to compete for BEAD funds. NTCA members, for example, have historically “edged out” in deploying broadband networks, incrementally expanding their networks over time to reach more customers outside of their traditional service footprints. By contrast, requiring applicants for BEAD funding to apply to reach every unserved location in a county or school district that in some states may be as large as other states in their entirety is a recipe for promoting participation by only the largest providers – or no one at all."
+    },
+    {
+     "inicio_corpo": 17413,
+     "fim_corpo": 18301,
+     "trecho": "As a generational investment, efficiency and effectiveness are properly measured over the life of the networks that taxpayers are paying for rather than based upon upfront cost alone. Even with this priority, BEAD is clearly technologically neutral because alternative technologies can participate, and such technologies will in fact “win” to some degree in nearly every, if not every, state and territory. But not all technologies are equally capable. Therefore, the appropriate question is whether BEAD draws the lines correctly in deciding which locations should get more capable prioritized networks before resorting to other options. The project service area size drives the answer to this question; if areas are reasonably sized or providers can design their own, the vast majority of unserved locations in a given area might receive proposals to be connected by fiber."
+    },
+    {
+     "inicio_corpo": 17599,
+     "fim_corpo": 18456,
+     "trecho": "Even with this priority, BEAD is clearly technologically neutral because alternative technologies can participate, and such technologies will in fact “win” to some degree in nearly every, if not every, state and territory. But not all technologies are equally capable. Therefore, the appropriate question is whether BEAD draws the lines correctly in deciding which locations should get more capable prioritized networks before resorting to other options. The project service area size drives the answer to this question; if areas are reasonably sized or providers can design their own, the vast majority of unserved locations in a given area might receive proposals to be connected by fiber. But if a provider must bid to serve a huge geography, it may be the case that an alternative technology is the only way to reach every unserved location."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0308::Macrorregião",
+   "unit_id": "W0308",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Shirley Bloomfield",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 17047,
+     "fim_corpo": 17827,
+     "trecho": "NTIA in turn determined that this translated logically to prioritizing fiber projects. To be clear, this does not mean – and it will not result in – only fiber projects being funded. But it does mean that the historic amount of capital funding available through BEAD should be used to deploy scalable networks as far as possible before turning to other options. As a generational investment, efficiency and effectiveness are properly measured over the life of the networks that taxpayers are paying for rather than based upon upfront cost alone. Even with this priority, BEAD is clearly technologically neutral because alternative technologies can participate, and such technologies will in fact “win” to some degree in nearly every, if not every, state and territory."
+    },
+    {
+     "inicio_corpo": 18301,
+     "fim_corpo": 19197,
+     "trecho": "But if a provider must bid to serve a huge geography, it may be the case that an alternative technology is the only way to reach every unserved location. By way of example, a smaller project service area might permit 90% of customers in a given county to be connected by fiber, with the remaining 10% being served by an alternative technology – but if bids can only be submitted for the entire county, this may result in no fiber connections for that area and only the delivery of a less capable, less scalable alternative technology for every county resident. NTIA recently released draft guidance related to the use of alternative technologies in the BEAD Program; comments on that are being filed today. While we appreciate NTIA’s efforts to seek input and provide further guidance to states and territories regarding this issue, NTCA is concerned about where this could be headed."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0308::Renda e classe",
+   "unit_id": "W0308",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Shirley Bloomfield",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 26532,
+     "fim_corpo": 27420,
+     "trecho": "NTCA recently conducted a survey of members to determine how this decision might affect their consumers, their investment plans, and the viability of their networks. Among the key findings of that survey were: • If USF support were eliminated, rural Americans’ broadband rates could skyrocket. o Respondents reported receiving an average of $72 per month per broadband subscriber in USF support to help recover their invested capital, repay loans, and cover operating expenses. Testimony of Shirley Bloomfield NTCA September 10, 2024 Page 9 of 10 o If rural providers needed to recover all of this lost support from consumers, this kind of rate increase would more than double the $30 affordability gap created by the expiration of the Affordable Connectivity Program – and apply not only to low-income consumers but to every subscriber in these rural communities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0308::Urbano e rural",
+   "unit_id": "W0308",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Shirley Bloomfield",
+   "n_ocorrencias_no_par": 27,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 21,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 647,
+     "trecho": "Statement by Shirley Bloomfield Chief Executive Officer NTCA–The Rural Broadband Association Before the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology “From Introduction to Implementation: A BEAD Program Progress Report” Washington, D.C September 10, 2024 Testimony of Shirley Bloomfield NTCA September 10, 2024 Page 1 of 10 Introduction Chairman Latta and Ranking Member Matsui, and members of the Subcommittee, thank you for this opportunity to testify regarding the Broadband Equity, Access, and Deployment (BEAD) Program."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 874,
+     "trecho": "Statement by Shirley Bloomfield Chief Executive Officer NTCA–The Rural Broadband Association Before the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology “From Introduction to Implementation: A BEAD Program Progress Report” Washington, D.C September 10, 2024 Testimony of Shirley Bloomfield NTCA September 10, 2024 Page 1 of 10 Introduction Chairman Latta and Ranking Member Matsui, and members of the Subcommittee, thank you for this opportunity to testify regarding the Broadband Equity, Access, and Deployment (BEAD) Program. I am Shirley Bloomfield, Chief Executive Officer of the NTCA–The Rural Broadband Association, which represents about 850 community-based companies and cooperatives that are leading innovation in rural and small-town America."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 874,
+     "trecho": "Statement by Shirley Bloomfield Chief Executive Officer NTCA–The Rural Broadband Association Before the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology “From Introduction to Implementation: A BEAD Program Progress Report” Washington, D.C September 10, 2024 Testimony of Shirley Bloomfield NTCA September 10, 2024 Page 1 of 10 Introduction Chairman Latta and Ranking Member Matsui, and members of the Subcommittee, thank you for this opportunity to testify regarding the Broadband Equity, Access, and Deployment (BEAD) Program. I am Shirley Bloomfield, Chief Executive Officer of the NTCA–The Rural Broadband Association, which represents about 850 community-based companies and cooperatives that are leading innovation in rural and small-town America."
+    },
+    {
+     "inicio_corpo": 647,
+     "fim_corpo": 1303,
+     "trecho": "I am Shirley Bloomfield, Chief Executive Officer of the NTCA–The Rural Broadband Association, which represents about 850 community-based companies and cooperatives that are leading innovation in rural and small-town America. NTCA members and companies like them provide voice and broadband services to less than five percent of the U.S. population spread across more than 30 percent of the country’s geography. Despite operating in the most rural parts of the country where population density averages approximately seven locations per square mile, NTCA members have worked for decades to deploy essential advanced communications infrastructure."
+    },
+    {
+     "inicio_corpo": 874,
+     "fim_corpo": 1853,
+     "trecho": "NTCA members and companies like them provide voice and broadband services to less than five percent of the U.S. population spread across more than 30 percent of the country’s geography. Despite operating in the most rural parts of the country where population density averages approximately seven locations per square mile, NTCA members have worked for decades to deploy essential advanced communications infrastructure. For example, our most recent annual survey found that, on average, more than 80% of NTCA members’ customers have access to fiber connectivity and 100 Mbps broadband service or better; nearly 61% of members’ customers on average have access to Gigabit downstream speeds. It must be noted that most of this progress was made without the benefit of the wave of recent grant programs. Instead, this remarkable level of rural broadband deployment has largely been achieved through a mix of community commitment, private capital, loans from the U.S."
+    },
+    {
+     "inicio_corpo": 1576,
+     "fim_corpo": 2481,
+     "trecho": "It must be noted that most of this progress was made without the benefit of the wave of recent grant programs. Instead, this remarkable level of rural broadband deployment has largely been achieved through a mix of community commitment, private capital, loans from the U.S. Department of Agriculture (USDA) and other cooperative and mission-based lenders, and the support of the federal Universal Service Fund (USF) that has helped to make the business case for such investment, to cover the ongoing costs of operations in high-cost areas, and to help keep rates more affordable despite these higher costs of deployment and operation. For all of this progress, however, there is more to do. We need to finish connecting those customers still awaiting higher levels of service. In rural areas not fortunate enough to be served by community-based providers, many more customers remain in need."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0309::Idade",
+   "unit_id": "W0309",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Clete D. Johnson",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "SENIOR",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 162,
+     "trecho": "STATEMENT OF CLETE D. JOHNSON, SENIOR FELLOW, CENTER FOR STRATEGIC AND INTERNATIONAL STUDIES; PARTNER, WILKINSON BARKER KNAUER, LLP Mr."
+    },
+    {
+     "inicio_corpo": 4733,
+     "fim_corpo": 5934,
+     "trecho": "So, in conclusion, we need to act urgently to optimize our spectrum use so that America can lead in all areas of the wireless environment. This begins with restoring the FCC's authority to auction spectrum. The lapse in this authority severely damages U.S. security every day it lapses. We need to restore auction authority so that spectrum studies become a pipeline for concrete advances in capacity and auctions for mid-band spectrum. This will benefit all parties. The only loser in a zero sum game is U.S. national security. We need our best commercial and Government engineers to find opportunities to optimize. So, with that, I would love to take your questions and expand on these important points, but this is--we have a moment we need to seize here. [The prepared statement of Mr. Johnson follows:] [...] Prepared Statement of Clete D. Johnson, Senior Fellow, Center for Strategic and International Studies; Partner, Wilkinson Barker Knauer, LLP Spectrum and National Security Chairwoman Cantwell, Senator Cruz, Members of the Committee, thank you for allowing me to share my perspective on spectrum and national security."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0310::Idade",
+   "unit_id": "W0310",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Diane Rinaldo",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3136,
+     "fim_corpo": 3914,
+     "trecho": "DOD's use of commercially viable and available products stimulates the ecosystem while leveraging the best that industry has to offer. Most recently the Naval Air Station at Whidbey Island issued a contract to build a standalone 5G network. This project includes seven coalition--several coalition members including Dish Wireless, Cisco, JMA Wireless, and Intel. These partnerships build trust and are crucial and are crucial to the security and resiliency of our DOD networks. Last December, The Wall Street Journal wrote an article that Huawei expects 9 percent growth, with their Chairman claiming that they are back to business as usual. I know this article gave a lot of people heartburn. I am here today to tell you that we are your good news story."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0310::Infraestrutura e porte populacional",
+   "unit_id": "W0310",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Diane Rinaldo",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8409,
+     "fim_corpo": 9353,
+     "trecho": "My experiences in various roles, including on the House Intelligence Committee and as the head of the NTIA, have highlighted the persistent issue of developing nations' financial constraints, which make them susceptible to predatory moves by malign actors, such as the CCP. To close that funding gap, we must simplify and expedite the processes for our companies to compete effectively on what is an artificially uneven playing field. Globally harmonized spectrum for trusted suppliers provides one important element to do just that. The Coalition's global engagement spans over 80 countries, promoting open and interoperable telecommunications standards. This presence not only enhances connectivity and economic growth but also strengthens international relations. The Coalition's efforts in bridging the digital divide in underserved regions exemplifies our commitment to global leadership and technological advancement."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0310::Urbano e rural",
+   "unit_id": "W0310",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Diane Rinaldo",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1763,
+     "fim_corpo": 2664,
+     "trecho": "As developing nations look to deploy 5G, Open RAN is a viable and desirable option, offering a cost effective and adaptable solution. And while our education mission at the Coalition is incredibly important to bring heightened awareness to international partners, Coalition members are eager to benefit from deployments here in the U.S. Unfortunately, additional movement in the U.S. has been handicapped due to the expiration of spectrum auction authority. With no new bands in the pipeline for future deployments, Open RAN has limited opportunities to grow. Furthermore, the FCC's Rip and Replace program is stalled due to lack of funding. The passage of the Secure Equipment Act in 2021 deemed Huawei and ZTE a national security threat, yet it still litters our networks. Huawei continues to service U.S. network functions, including software updates in rural communities."
+    },
+    {
+     "inicio_corpo": 2109,
+     "fim_corpo": 2971,
+     "trecho": "Unfortunately, additional movement in the U.S. has been handicapped due to the expiration of spectrum auction authority. With no new bands in the pipeline for future deployments, Open RAN has limited opportunities to grow. Furthermore, the FCC's Rip and Replace program is stalled due to lack of funding. The passage of the Secure Equipment Act in 2021 deemed Huawei and ZTE a national security threat, yet it still litters our networks. Huawei continues to service U.S. network functions, including software updates in rural communities. If additional funding is not forthcoming, we must develop a Plan B. Open RAN was a nascent concept when the FCC catalog was drafted three years ago. With the deployment of more than 100 networks around the world, Open RAN is now a viable option and our Nation's rural carriers deserve more choice."
+    },
+    {
+     "inicio_corpo": 11191,
+     "fim_corpo": 12105,
+     "trecho": "As developing nations look to deploy 5G, Open RAN is a viable and desirable option, offering a cost-effective and adaptable solution. And while our education mission at the Coalition is incredibly important to bring heightened awareness to international partners, Coalition members are eager to deploy in the United States. Unfortunately, additional movement in the U.S. has been handicapped due to the expiration of spectrum auction authority. With no new bands in the pipeline for future deployments, Open RAN has limited opportunities to grow further in the United States. Furthermore, the FCC's ``Rip and Replace'' program is stalled due to a lack of funding. The passage of the Secure Equipment Act in 2021 deemed Huawei and ZTE a national security threat, yet it still litters our networks. Huawei continues to service U.S. network functions, including software updates in rural communities."
+    },
+    {
+     "inicio_corpo": 11519,
+     "fim_corpo": 12391,
+     "trecho": "Unfortunately, additional movement in the U.S. has been handicapped due to the expiration of spectrum auction authority. With no new bands in the pipeline for future deployments, Open RAN has limited opportunities to grow further in the United States. Furthermore, the FCC's ``Rip and Replace'' program is stalled due to a lack of funding. The passage of the Secure Equipment Act in 2021 deemed Huawei and ZTE a national security threat, yet it still litters our networks. Huawei continues to service U.S. network functions, including software updates in rural communities. If additional funding is not forthcoming, we must develop a Plan B. Open RAN was a nascent concept when the FCC catalog was drafted three years ago; with the deployment of more than 100 networks, Open RAN is now a viable option and our Nation's rural carriers deserve more options."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0311::Educação",
+   "unit_id": "W0311",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Harold Furchtgott-Roth",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6372,
+     "fim_corpo": 7382,
+     "trecho": "Our global competitors speed ahead. American consumers are left behind. And our Nation's ability to be nimble in the midst of new forms of wireless warfare is potentially compromised. Today I will compare the success of America's historical spectrum policy with today's comparatively weak spectrum policy and discuss the hazards this presents for American national security. I will also discuss the Spectrum Pipeline Act of 2024, a bill that will move America in the right direction on spectrum policy, as well as best practices for spectrum policy going forward. I. Qualifications I am Senior Fellow and Director of the Center for the Economics of the Internet at the Hudson Institute. I am also president of an economic consulting firm, Furchtgott-Roth Economic Enterprises. Additionally, I am an adjunct professor at Brooklyn Law School, where I teach communications law, as well as at the University of Baltimore Law School, where I teach law and economics."
+    },
+    {
+     "inicio_corpo": 6445,
+     "fim_corpo": 7382,
+     "trecho": "And our Nation's ability to be nimble in the midst of new forms of wireless warfare is potentially compromised. Today I will compare the success of America's historical spectrum policy with today's comparatively weak spectrum policy and discuss the hazards this presents for American national security. I will also discuss the Spectrum Pipeline Act of 2024, a bill that will move America in the right direction on spectrum policy, as well as best practices for spectrum policy going forward. I. Qualifications I am Senior Fellow and Director of the Center for the Economics of the Internet at the Hudson Institute. I am also president of an economic consulting firm, Furchtgott-Roth Economic Enterprises. Additionally, I am an adjunct professor at Brooklyn Law School, where I teach communications law, as well as at the University of Baltimore Law School, where I teach law and economics."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0311::Idade",
+   "unit_id": "W0311",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Harold Furchtgott-Roth",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "SENIOR",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 154,
+     "trecho": "STATEMENT OF HAROLD FURCHTGOTT-ROTH, SENIOR FELLOW AND DIRECTOR, CENTER FOR THE ECONOMIC OF THE INTERNET, HUDSON INSTITUTE Dr."
+    },
+    {
+     "inicio_corpo": 3319,
+     "fim_corpo": 4358,
+     "trecho": "Vital national security interest is not compromised, and substantial improvements in spectrum policy rights--and spectrum property rights, allowing more flexible use, less costly contract and lease arrangements, and improved enforcement against interference. The Spectrum Pipeline Act of 2024 addresses the first three points. It is an excellent start. It would benefit American consumers enormously. They may not know what spectrum is or what policy is, but they will know when more competitors offer better and lower cost wireless services. The time to act is now. Be bold. Be decisive, not just for today, but for the rest of the 21st century. Thank you very much. [The prepared statement of Dr. Furchtgott-Roth follows.] [...] Prepared Statement of Dr. Harold Furchtgott-Roth, Senior Fellow and Director, Center for the Economic of the Internet, Hudson Institute Chair Cantwell, Ranking Member Cruz, and Members of the Senate Commerce Committee, thank you for inviting me to testify before you today."
+    },
+    {
+     "inicio_corpo": 6286,
+     "fim_corpo": 7103,
+     "trecho": "The end result? American leadership in international spectrum coordination wanes. Our global competitors speed ahead. American consumers are left behind. And our Nation's ability to be nimble in the midst of new forms of wireless warfare is potentially compromised. Today I will compare the success of America's historical spectrum policy with today's comparatively weak spectrum policy and discuss the hazards this presents for American national security. I will also discuss the Spectrum Pipeline Act of 2024, a bill that will move America in the right direction on spectrum policy, as well as best practices for spectrum policy going forward. I. Qualifications I am Senior Fellow and Director of the Center for the Economics of the Internet at the Hudson Institute."
+    },
+    {
+     "inicio_corpo": 30801,
+     "fim_corpo": 31627,
+     "trecho": "The Chair. And what do you do, because I want to ask Mr. Johnson a question. So quickly, what do you do about the national security element? Do we figure out how to get more collaborative dialog with people who have national security clearances? You know, how do we solve that problem? Dr. Ghosh. I think that--I mean, I have a security clearance. A lot of academics at Notre Dame do. We are involved in, you know, DARPA projects, DOD projects. I think getting those connections done better would definitely help take what is happening in the research labs and getting them into the hands of the military, of the science agencies, of even commercial industry. The Chair. Mr. Johnson, your artery analogy is so apt. And so, what is it that you think that we need to do now that would help unleash that?"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0311::Posição no trabalho",
+   "unit_id": "W0311",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Harold Furchtgott-Roth",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 29741,
+     "fim_corpo": 30572,
+     "trecho": "In the recent past, we have had other agencies like NTIA also come in with research funding to help the--grow this ecosystem of spectrum research, as well as things like ORAN. I really think when we look at advancing R&D, it shouldn't be off in a silo by itself. The better we integrate academia with industry, with Government, to tackle the really important problems facing us today in this world of communications, the more effect that research funding will have. The Spectrum X, the research center that I am a part of, which is led by the University of Notre Dame, is an excellent example of one way that we can go about getting this research funding out. It is a nationwide center. It has about 47 and growing number of universities. It is a way to educate the next generation, the workforce needs."
+    },
+    {
+     "inicio_corpo": 29741,
+     "fim_corpo": 30801,
+     "trecho": "In the recent past, we have had other agencies like NTIA also come in with research funding to help the--grow this ecosystem of spectrum research, as well as things like ORAN. I really think when we look at advancing R&D, it shouldn't be off in a silo by itself. The better we integrate academia with industry, with Government, to tackle the really important problems facing us today in this world of communications, the more effect that research funding will have. The Spectrum X, the research center that I am a part of, which is led by the University of Notre Dame, is an excellent example of one way that we can go about getting this research funding out. It is a nationwide center. It has about 47 and growing number of universities. It is a way to educate the next generation, the workforce needs. We have heard from a lot of the agencies that the spectrum workforce is aging, and we need the next generation to be educated in all of the various aspects, starting from the engineering and technical, to the policy aspects."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0312::Educação",
+   "unit_id": "W0312",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Mary Brown",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1726,
+     "fim_corpo": 2587,
+     "trecho": "led momentum for unlicensed spectrum, urging a global plan to advantage Chinese government sponsored companies by allowing only exclusive licensed mobile networks in the upper half of the 6 Gigahertz band. Thanks to U.S. leadership, China's attempts largely failed. Post WRC, U.S. companies can and will continue to engage country by country to encourage harmonized unlicensed use, which benefits the U.S. That said, we already see that China has simply changed venues. Its vigorous campaign for Huawei and ZTE positioned as the fight against Wi-Fi continues. We therefore appreciate this committee's focus on how spectrum policy advances U.S. national security and economic interests, both at home and abroad. Second, Wi-Fi enables the public to reliably connect and communicate in places such as their homes, businesses, and schools."
+    },
+    {
+     "inicio_corpo": 6549,
+     "fim_corpo": 7193,
+     "trecho": "Thanks to U.S. leadership, China's attempts largely failed. Post-WRC, U.S. companies can and will continue to engage country by country to encourage harmonized unlicensed use, which benefits the U.S. That said, we already see that China has simply changed venues--its vigorous campaign for Huawei and ZTE, positioned as a fight against Wi- Fi, continues. We therefore appreciate this Committee's focus on how spectrum policy advances U.S. national security and economic interests both at home and abroad. Second, Wi-Fi enables the public to reliably connect and communicate in places such as their homes, businesses and schools."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0313::Educação",
+   "unit_id": "W0313",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Professor Monisha Ghosh",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "minority-serving institutions",
+     "forma_encontrada": "Minority Serving Institutions",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8127,
+     "fim_corpo": 9070,
+     "trecho": "I am also an active member of industry's NextG Alliance, developing standards for 6G and beyond, and participated in the National Spectrum Consortium's (NSC) Partnering to Advance Trusted and Holistic Spectrum Solutions (PATHSS) Task Group which partnered with the Department of Defense (DoD) to explore efficient sharing solutions in 3.1-3.45 GHz. In addition, I am the Policy Outreach Director for SpectrumX,\\2\\ NSF's Center for Spectrum Innovation, led by the Wireless Institute\\3\\ in the College of Engineering at the University of Notre Dame. SpectrumX was initiated in September 2021 with a five-year $25M NSF grant that brings together 56 researchers and staff from 30 universities and a number of Minority Serving Institutions (MSIs) with broad expertise spanning radio technologies, wireless terrestrial and satellite networks, scientific uses of spectrum and economic considerations related to spectrum allocations."
+    }
+   ]
+  }
+ ]
+}

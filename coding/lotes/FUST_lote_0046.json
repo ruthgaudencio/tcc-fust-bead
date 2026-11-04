@@ -1,0 +1,990 @@
+{
+ "caso": "FUST",
+ "lote": 46,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0276::Idade",
+   "unit_id": "S0276",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-29",
+   "orador": "José Jorge",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 14961,
+     "fim_corpo": 16038,
+     "trecho": "Assim, foram contemplados, entre as emendas coletivas da Bancada, os municípios do Recife, Paulista e Jaboatão, com destaques orçamentários para a realização de projetos específicos de revitalização urbana e obras emergenciais. Os recursos consignados no Orçamento Geral da União são, respectivamente, de R$11,6 milhões para Recife, R$10 milhões para Paulista e R$9,5 milhões para Jaboatão. Projetos de Desenvolvimento Social: Na área de desenvolvimento social, destaco as ações do Governo Federal em Pernambuco através dos programas de apoio às populações carentes, a exemplo do Comunidade Solidária e, principalmente, do Programa de Erradicação de Mão-de-Obra Infantil, implantado na área da cana, e de Garantia de Renda Mínima. Fundef: O Brasil vem conseguindo grande êxito, já reconhecido inclusive no exterior, com o programa de universalização do acesso das crianças e jovens ao ensino fundamental, em que a preocupação com a oferta de vagas, a qualidade do ensino e a valorização do magistério são diretrizes prioritárias na aplicação dos recursos públicos."
+    },
+    {
+     "inicio_corpo": 14961,
+     "fim_corpo": 16038,
+     "trecho": "Assim, foram contemplados, entre as emendas coletivas da Bancada, os municípios do Recife, Paulista e Jaboatão, com destaques orçamentários para a realização de projetos específicos de revitalização urbana e obras emergenciais. Os recursos consignados no Orçamento Geral da União são, respectivamente, de R$11,6 milhões para Recife, R$10 milhões para Paulista e R$9,5 milhões para Jaboatão. Projetos de Desenvolvimento Social: Na área de desenvolvimento social, destaco as ações do Governo Federal em Pernambuco através dos programas de apoio às populações carentes, a exemplo do Comunidade Solidária e, principalmente, do Programa de Erradicação de Mão-de-Obra Infantil, implantado na área da cana, e de Garantia de Renda Mínima. Fundef: O Brasil vem conseguindo grande êxito, já reconhecido inclusive no exterior, com o programa de universalização do acesso das crianças e jovens ao ensino fundamental, em que a preocupação com a oferta de vagas, a qualidade do ensino e a valorização do magistério são diretrizes prioritárias na aplicação dos recursos públicos."
+    },
+    {
+     "inicio_corpo": 15698,
+     "fim_corpo": 16522,
+     "trecho": "Fundef: O Brasil vem conseguindo grande êxito, já reconhecido inclusive no exterior, com o programa de universalização do acesso das crianças e jovens ao ensino fundamental, em que a preocupação com a oferta de vagas, a qualidade do ensino e a valorização do magistério são diretrizes prioritárias na aplicação dos recursos públicos. Esse novo cenário da educação foi consolidado com a criação do Fundef, uma das ações mais acertadas do atual Governo, que encontrou consistente respaldo no Congresso Nacional. Tive a honra de ser relator da Emenda Constitucional nº14/96, criando o Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério, que levou o Brasil a ter, já em 1999, o total de 95,5% das crianças de 7 a 14 anos matriculadas em diversos sistemas públicos e privados."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0276::Macrorregião",
+   "unit_id": "S0276",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-29",
+   "orador": "José Jorge",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6883,
+     "fim_corpo": 7952,
+     "trecho": "Entre os projetos estruturadores, destinados a recuperar e a fortalecer a base econômica do Estado, impulsionando seu desenvolvimento, que receberam uma atenção especial da Bancada, destaco os de maior impacto na área de infra-estrutura, incluindo irrigação e abastecimento d’água: - Complexo de Suape . A ampliação do Porto de Suape deverá contar com um aporte de R$49,9 milhões do Orçamento Geral da União para o ano 2000, além da contrapartida do Estado, que deverá ser de R$8 milhões a R$10 milhões. É o maior destaque de recursos já consignados no Orçamento da União para o Complexo Industrial e Portuário de Suape desde o início das obras, em 1975. O Complexo está estrategicamente situado próximo às rotas marítimas internacionais do Atlântico Sul, sendo conectado pelas principais rodovias e ferrovias do Nordeste às principais áreas produtoras de mercadorias exportáveis como o açúcar da Zona da Mata, as frutas tropicais do Vale do São Francisco e, em breve, os grãos dos cerrados, através da Transnordestina e da hidrovia do São Francisco."
+    },
+    {
+     "inicio_corpo": 7399,
+     "fim_corpo": 8256,
+     "trecho": "É o maior destaque de recursos já consignados no Orçamento da União para o Complexo Industrial e Portuário de Suape desde o início das obras, em 1975. O Complexo está estrategicamente situado próximo às rotas marítimas internacionais do Atlântico Sul, sendo conectado pelas principais rodovias e ferrovias do Nordeste às principais áreas produtoras de mercadorias exportáveis como o açúcar da Zona da Mata, as frutas tropicais do Vale do São Francisco e, em breve, os grãos dos cerrados, através da Transnordestina e da hidrovia do São Francisco. Já está sendo concluído um estudo de viabilidade técnica e econômica de um terminal de grãos, que deverá receber R$50 milhões de investimentos privados. Este terminal devera transformar Suape* no maior distribuidor de grãos do Nordeste, movimentando de dois a seis bilhões de toneladas de grãos por ano."
+    },
+    {
+     "inicio_corpo": 8713,
+     "fim_corpo": 9752,
+     "trecho": "A União participará neste ano com R$20,4 milhões. Essa obra veio melhorar e conseqüentemente reduzir os custos de transporte inclusive dos produtos da agricultura irrigada do Vale do São Francisco e do gesso da região do Araripe, que demandam a região metropolitana do Recife tanto para consumo como para exportação pelo Porto de Suape. A obra também possibilitará uma maior integração entre o Recife e os mais importantes centros urbanos do interior do Estado, como Caruaru, Petrolina, Garanhuns, Arcoverde, Belo Jardim e Gravatá. - BR–101. A sua duplicação melhorará as interligações do transporte rodoviário com o centro-sul do País, facilitando o acesso ao Porto de Suape, propiciando uma melhor integração do Recife – maior centro prestador de serviços do Nordeste – com os demais centros urbanos localizados ao longo da rodovia, como Maceió, João Pessoa e Natal, e facilitando o acesso às praias da costa dourada e ao litoral norte de Pernambuco, bem como à zona costeira dos Estados da Paraíba e do Rio Grande do Norte."
+    },
+    {
+     "inicio_corpo": 8769,
+     "fim_corpo": 9752,
+     "trecho": "Essa obra veio melhorar e conseqüentemente reduzir os custos de transporte inclusive dos produtos da agricultura irrigada do Vale do São Francisco e do gesso da região do Araripe, que demandam a região metropolitana do Recife tanto para consumo como para exportação pelo Porto de Suape. A obra também possibilitará uma maior integração entre o Recife e os mais importantes centros urbanos do interior do Estado, como Caruaru, Petrolina, Garanhuns, Arcoverde, Belo Jardim e Gravatá. - BR–101. A sua duplicação melhorará as interligações do transporte rodoviário com o centro-sul do País, facilitando o acesso ao Porto de Suape, propiciando uma melhor integração do Recife – maior centro prestador de serviços do Nordeste – com os demais centros urbanos localizados ao longo da rodovia, como Maceió, João Pessoa e Natal, e facilitando o acesso às praias da costa dourada e ao litoral norte de Pernambuco, bem como à zona costeira dos Estados da Paraíba e do Rio Grande do Norte."
+    },
+    {
+     "inicio_corpo": 11455,
+     "fim_corpo": 12395,
+     "trecho": "Essas melhorias deverão resultar em um aumento de 30% a 40% no número de vôos procedentes da Europa e Estados Unidos, tendo o Recife como destino. O de Petrolina também teve sua pista ampliada de forma a receber aviões de grande porte, inclusive para o transporte de frutas para o exterior. Estão previstos R$ 25 milhões no Orçamento Geral da União para serem aplicados nessas obras. Ferrovia Transnordestina : O Governo Federal também participa da construção da ferrovia que liga o modal hidroviário do São Francisco com o porto de Suape e interliga o trecho ferroviário baiano, como o do Ceará e o de Pernambuco, conectando, assim, todo o sistema ferroviário regional. A obra está orçada em R$400 milhões. O esquema de financiamento dos investimentos prevê a participação do BNDES e da Companhia Ferroviária do Nordeste, cada qual com aporte de R$100 milhões, sendo que os R$200 milhões restantes seriam alocados pelo Finor/Sudene."
+    },
+    {
+     "inicio_corpo": 12395,
+     "fim_corpo": 13491,
+     "trecho": "Energia elétrica : No setor elétrico, a União investirá R$31 milhões no sistema de transmissão de energia de Xingó, em Pernambuco, que está sendo implantado pela Chesf, com a construção de 180km de linhas de transmissão e seis subestações. O Governo Federal também está cooperando com o Governo do Estado na implantação de um grande programa de eletrificação rural, denominado \"Luz no Campo\". Esse programa concluirá a eletrificação de toda a área rural do Estado, aproximadamente 100 mil propriedades, eliminando todo o déficit de eletrificação rural dentro dos próximos dois anos. Irrigação - São vários os projetos de irrigação que estão sendo implantados em parceria com o Governo Federal. Entre eles, vale destacar a construção de obras físicas no Perímetro Irrigado Pontal Norte-Sul, que vai receber investimentos da ordem de R$21,2 milhões do Orçamento Geral da União; a emancipação do Perímetro Irrigado Senador Nilo Coelho, para o qual está previsto R$1,7 milhão e a construção de obras de infra-estrutura de irrigação de uso comum, em Serra Talhada, com R$10 milhões."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0276::Renda e classe",
+   "unit_id": "S0276",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-29",
+   "orador": "José Jorge",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "populações carentes",
+     "forma_encontrada": "populações carentes",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 14666,
+     "fim_corpo": 15698,
+     "trecho": "Revitalização de Centros Urbanos : Um esforço especial da Bancada de Pernambuco foi igualmente dedicado à região metropolitana do Recife, no sentido de assegurar recursos para que os municípios pudessem enfrentar os graves problemas de melhoria e complementação da infra-estrutura urbana. Assim, foram contemplados, entre as emendas coletivas da Bancada, os municípios do Recife, Paulista e Jaboatão, com destaques orçamentários para a realização de projetos específicos de revitalização urbana e obras emergenciais. Os recursos consignados no Orçamento Geral da União são, respectivamente, de R$11,6 milhões para Recife, R$10 milhões para Paulista e R$9,5 milhões para Jaboatão. Projetos de Desenvolvimento Social: Na área de desenvolvimento social, destaco as ações do Governo Federal em Pernambuco através dos programas de apoio às populações carentes, a exemplo do Comunidade Solidária e, principalmente, do Programa de Erradicação de Mão-de-Obra Infantil, implantado na área da cana, e de Garantia de Renda Mínima."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0276::Saúde",
+   "unit_id": "S0276",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-29",
+   "orador": "José Jorge",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "Hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unidades de saúde",
+     "forma_encontrada": "unidades de saúde",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unidades de saúde",
+     "forma_encontrada": "unidades de saúde",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 17272,
+     "fim_corpo": 18056,
+     "trecho": "Ademais, merece destaque o Fundo Nacional de Desenvolvimento da Educação, cuja alocação de recursos foi da ordem de R$ 48,9 milhões, abrangendo as atividades de alimentação escolar, manutenção, desenvolvimento e ampliação, construção e reforma de escolas. Por último, vale ressaltar que as Escolas Agrotécnicas Federais, localizadas nos Municípios de Barreiros, Belo Jardim, Petrolina e Vitória do Santo Antão, deverão receber, para funcionamento dos cursos de educação profissional, cerca de R$ 16,7 milhões, no exercício atual. Saúde: Na área de saúde, o Orçamento consignou R$ 469,1 milhões para o atendimento assistencial básico nos municípios, por meio de incentivos financeiros, bem como para o atendimento ambulatorial, emergencial e hospitalar, dentro das ações do SUS."
+    },
+    {
+     "inicio_corpo": 17528,
+     "fim_corpo": 18229,
+     "trecho": "Por último, vale ressaltar que as Escolas Agrotécnicas Federais, localizadas nos Municípios de Barreiros, Belo Jardim, Petrolina e Vitória do Santo Antão, deverão receber, para funcionamento dos cursos de educação profissional, cerca de R$ 16,7 milhões, no exercício atual. Saúde: Na área de saúde, o Orçamento consignou R$ 469,1 milhões para o atendimento assistencial básico nos municípios, por meio de incentivos financeiros, bem como para o atendimento ambulatorial, emergencial e hospitalar, dentro das ações do SUS. Destaco ainda a Emenda Coletiva da Bancada Federal que destinou R$10 milhões para a conclusão do projeto do Pronto Socorro Cardiológico do Hospital Oswaldo Cruz, em Recife."
+    },
+    {
+     "inicio_corpo": 17528,
+     "fim_corpo": 18520,
+     "trecho": "Por último, vale ressaltar que as Escolas Agrotécnicas Federais, localizadas nos Municípios de Barreiros, Belo Jardim, Petrolina e Vitória do Santo Antão, deverão receber, para funcionamento dos cursos de educação profissional, cerca de R$ 16,7 milhões, no exercício atual. Saúde: Na área de saúde, o Orçamento consignou R$ 469,1 milhões para o atendimento assistencial básico nos municípios, por meio de incentivos financeiros, bem como para o atendimento ambulatorial, emergencial e hospitalar, dentro das ações do SUS. Destaco ainda a Emenda Coletiva da Bancada Federal que destinou R$10 milhões para a conclusão do projeto do Pronto Socorro Cardiológico do Hospital Oswaldo Cruz, em Recife. A União também está presente no Programa de Modernização e adequação de unidades de saúde do Sistema Único de Saúde e na implantação e ampliação das unidades de urgência/emergência e de gestantes de alto risco e das unidades de Hematologia e Hemoterapia, com recursos de R6,2 milhões."
+    },
+    {
+     "inicio_corpo": 19305,
+     "fim_corpo": 20136,
+     "trecho": "Merece destaque especial as ações desenvolvidas conjuntamente pelo Governo Federal e pelo Governo do Estado, através do Projeto Mandacaru, objetivando combater o crime organizado. Projetos a Serem Executados nos Municípios : As administrações municipais merecem um destaque especial no OGU-2000. Através de uma ação articulada da Bancada Federal foram alocados R$442 milhões, beneficiando 158 municípios do Estado. Os projetos municipais contemplados abrangem um grande número de obras, predominantemente nas áreas de habitação popular, saneamento básico e melhorias sanitárias, coleta e tratamento do lixo, infra-estrutura hídrica, implantação de infra-estrutura esportiva e espaços culturais, implantação e adequação de unidades de saúde do SUS, melhorias em escolas do ensino fundamental e execução de obras emergenciais."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0276::Urbano e rural",
+   "unit_id": "S0276",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-29",
+   "orador": "José Jorge",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "Campo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "área rural",
+     "forma_encontrada": "área rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12132,
+     "fim_corpo": 12800,
+     "trecho": "A obra está orçada em R$400 milhões. O esquema de financiamento dos investimentos prevê a participação do BNDES e da Companhia Ferroviária do Nordeste, cada qual com aporte de R$100 milhões, sendo que os R$200 milhões restantes seriam alocados pelo Finor/Sudene. Energia elétrica : No setor elétrico, a União investirá R$31 milhões no sistema de transmissão de energia de Xingó, em Pernambuco, que está sendo implantado pela Chesf, com a construção de 180km de linhas de transmissão e seis subestações. O Governo Federal também está cooperando com o Governo do Estado na implantação de um grande programa de eletrificação rural, denominado \"Luz no Campo\"."
+    },
+    {
+     "inicio_corpo": 12132,
+     "fim_corpo": 12800,
+     "trecho": "A obra está orçada em R$400 milhões. O esquema de financiamento dos investimentos prevê a participação do BNDES e da Companhia Ferroviária do Nordeste, cada qual com aporte de R$100 milhões, sendo que os R$200 milhões restantes seriam alocados pelo Finor/Sudene. Energia elétrica : No setor elétrico, a União investirá R$31 milhões no sistema de transmissão de energia de Xingó, em Pernambuco, que está sendo implantado pela Chesf, com a construção de 180km de linhas de transmissão e seis subestações. O Governo Federal também está cooperando com o Governo do Estado na implantação de um grande programa de eletrificação rural, denominado \"Luz no Campo\"."
+    },
+    {
+     "inicio_corpo": 12132,
+     "fim_corpo": 12990,
+     "trecho": "A obra está orçada em R$400 milhões. O esquema de financiamento dos investimentos prevê a participação do BNDES e da Companhia Ferroviária do Nordeste, cada qual com aporte de R$100 milhões, sendo que os R$200 milhões restantes seriam alocados pelo Finor/Sudene. Energia elétrica : No setor elétrico, a União investirá R$31 milhões no sistema de transmissão de energia de Xingó, em Pernambuco, que está sendo implantado pela Chesf, com a construção de 180km de linhas de transmissão e seis subestações. O Governo Federal também está cooperando com o Governo do Estado na implantação de um grande programa de eletrificação rural, denominado \"Luz no Campo\". Esse programa concluirá a eletrificação de toda a área rural do Estado, aproximadamente 100 mil propriedades, eliminando todo o déficit de eletrificação rural dentro dos próximos dois anos."
+    },
+    {
+     "inicio_corpo": 12132,
+     "fim_corpo": 12990,
+     "trecho": "A obra está orçada em R$400 milhões. O esquema de financiamento dos investimentos prevê a participação do BNDES e da Companhia Ferroviária do Nordeste, cada qual com aporte de R$100 milhões, sendo que os R$200 milhões restantes seriam alocados pelo Finor/Sudene. Energia elétrica : No setor elétrico, a União investirá R$31 milhões no sistema de transmissão de energia de Xingó, em Pernambuco, que está sendo implantado pela Chesf, com a construção de 180km de linhas de transmissão e seis subestações. O Governo Federal também está cooperando com o Governo do Estado na implantação de um grande programa de eletrificação rural, denominado \"Luz no Campo\". Esse programa concluirá a eletrificação de toda a área rural do Estado, aproximadamente 100 mil propriedades, eliminando todo o déficit de eletrificação rural dentro dos próximos dois anos."
+    },
+    {
+     "inicio_corpo": 16522,
+     "fim_corpo": 17272,
+     "trecho": "Em Pernambuco, já em 1998, a rede escolar atendeu a 96,1% dos seus alunos com idade de 7 a 14 anos. Além disso, o Fundo trouxe uma melhoria significativa dos salários dos professores públicos do ensino fundamental e ampliação da oferta de cursos de aperfeiçoamento. Ensino técnico superior : O Governo Federal está ainda destinando recursos no Orçamento Geral da União-2000 a projetos de educação profissional e superior, garantindo o funcionamento de novos recursos técnicos do Centro Federal da Educação Tecnológica – CEFETE, criado ano passado, com aporte de R$ 28,4 milhões, além dos cursos de graduação da Universidade Federal de Pernambuco, com R$ 211,7 milhões, bem como da Universidade Federal Rural de Pernambuco, com R$ 63,4 milhões."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0280::Domicílio e arranjo familiar",
+   "unit_id": "S0280",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-01",
+   "orador": "Geraldo Cândido",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2824,
+     "fim_corpo": 3776,
+     "trecho": "Além disso, a distribuição de renda no Brasil continua aviltante. Dados da Síntese de Indicadores Sociais de 1999, do IBGE, revelam que o 1% mais rico da população detém 13,8% da renda total, enquanto os 50% mais pobres ficam com 13,5% dos ganhos. A situação é bastante ruim até em termos de América Latina. No Brasil, o índice de Gini, que mede a concentração de renda, foi de 0,575. Quanto mais próxima de 1 for esta taxa, pior é a distribuição. O índice 1 significaria uma única pessoa dispondo de toda a renda do país. O Uruguai apresenta um Gini de 0,43; a Costa Rica e o Peru, de 0,46. Em 1988, o Gini brasileiro era de 0,613. A redução dos últimos dez anos é considerada insignificante até pelo IBGE. Nas palavras de um diretor dessa instituição, é mais apropriado falar em concentração estável. As disparidades regionais seguem gritantes. No Maranhão, 50,7% das famílias têm renda per capita mensal de até meio salário mínimo."
+    },
+    {
+     "inicio_corpo": 4461,
+     "fim_corpo": 5470,
+     "trecho": "A persistência do problema ao longo das décadas indica que a situação não será resolvida com planos e rendas econômicos; é preciso que haja políticas ativas de distribuição de renda para enfrentar o desafio. Não se pode esperar que o passar dos séculos realize, por si e quase naturalmente, essa tarefa. Esta síntese dos indicadores sociais em 1999, divulgada pelo IBGE, parece, usando uma frase do jornalista Clóvis Rossi, \"cravar o último prego no caixão do Governo Fernando Henrique Cardoso\", pois, em seu discurso de posse, em 1995, o Presidente apontou como prioridade absoluta de sua gestão combater a miséria e a desigualdade. Cinco anos e meio depois do seu discurso de posse, o IBGE mostra que o Presidente fracassou miseravelmente na sua meta prioritária. Os miseráveis formam uma pilha formidável, a ponto de praticamente 20% das famílias viverem com renda per capita de meio salário mínimo (repito, meio salário mínimo, não chega a um inteiro, o que já é obscenamente reduzido)."
+    },
+    {
+     "inicio_corpo": 12456,
+     "fim_corpo": 13393,
+     "trecho": "Portanto, um reajuste de 2% significará uma despesa equivalente ao que se gasta com a merenda escolar. Tudo bem. Já que o negócio é brincar com estatísticas, os grevistas lembram que neste ano o Governo desembolsará R$65 bilhões para pagar os juros de sua dívida. Gastará esse ervanário porque fixou e mantém os juros brasileiros no patamar mais alto do mundo. O Ministro Martus nunca foi ouvido reclamando de que os juros custam 61 vezes o que se gasta com a merenda escolar. Com uma diferença: a choldra que paga imposto prefere dar de comer às crianças do que banquetear banqueiros. O Planalto conversa com ruralistas caloteiros, privatas quebrados e banqueiros falidos, mas não vai à mesa com os servidores. Age assim porque está jogando numa estratégia de tensão. O melhor exemplo dessa estratégia foi verbalizado pelo Secretário-Geral da Presidência, Aloysio Nunes Ferreira, e pela liderança parlamentar do PSDB."
+    },
+    {
+     "inicio_corpo": 13687,
+     "fim_corpo": 14591,
+     "trecho": "É um banditismo político\". Pegou pesado. As leis do País têm remédios para delitos desse tipo, e, no caso do ovo, dificilmente podem levar a uma pena maior do que a perda da primariedade por cinco anos. Se é pouco, pode-se fazer outra lei, mas essa é a que há. Será que um ovo vale tantos adjetivos? O ministro José Serra era presidente da UNE em 1964. A escumalha que ele representava fazia coisa pior, muito pior. Cinqüentões, todos esses baderneiros lembram-se com ternura de suas malfeitorias (cometidas num regime democrático). Da mesma forma, FFHH se lembra com carinho da baderna francesa de 1968, à qual assistiu, enlevado. Isso para não mencionar as doces recordações que os senadores Antonio Carlos Magalhães e José Sarney guardam das pancadas que tomaram da polícia do ditador Getúlio Vargas. (Sarney, no exercício da Presidência, teve o ônibus apedrejado no Rio de Janeiro."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0280::Educação",
+   "unit_id": "S0280",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-01",
+   "orador": "Geraldo Cândido",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3358,
+     "fim_corpo": 4278,
+     "trecho": "O Uruguai apresenta um Gini de 0,43; a Costa Rica e o Peru, de 0,46. Em 1988, o Gini brasileiro era de 0,613. A redução dos últimos dez anos é considerada insignificante até pelo IBGE. Nas palavras de um diretor dessa instituição, é mais apropriado falar em concentração estável. As disparidades regionais seguem gritantes. No Maranhão, 50,7% das famílias têm renda per capita mensal de até meio salário mínimo. Em São Paulo, essa taxa cai para 9,8%. A cifra nacional é de 19,6%. O próprio significado de salário mínimo perde aqui muito do seu sentido. A desigualdade se reflete também nas diferentes etnias da população. A média de vencimentos mensais é de 2,61 salários mínimos entre pardos; 2,71 entre negros; e 5,6 para brancos. Esses dados são consistentes com o nível educacional dessas populações. Enquanto os brancos têm, em média, 7,5 anos de estudo, os negros e o pardos vão à escola por 5,1 anos."
+    },
+    {
+     "inicio_corpo": 11820,
+     "fim_corpo": 12559,
+     "trecho": "Ovo em Ministro é o caos. O Governo está embriagado pela mistificação e pelo radicalismo verbal. Tomem-se dois exemplos: a intransigência de FFHH com os servidores públicos, verbalizada pelo Ministro do Planejamento, Martus Tavares, e a reação do Planalto ao ovo amassado no Ministro José Serra. Os funcionários estão pedindo 62% de reposição salarial. Talvez façam negócio por 6.2%. O que está em jogo não é o percentual de um reajuste, mas a decisão do Governo de não aceitar conversa com uma classe que vem massacrando há cinco anos. O Ministro disse que a folha do funcionalismo chegou a R$53,6 bilhões neste ano. Portanto, um reajuste de 2% significará uma despesa equivalente ao que se gasta com a merenda escolar."
+    },
+    {
+     "inicio_corpo": 12122,
+     "fim_corpo": 12939,
+     "trecho": "Os funcionários estão pedindo 62% de reposição salarial. Talvez façam negócio por 6.2%. O que está em jogo não é o percentual de um reajuste, mas a decisão do Governo de não aceitar conversa com uma classe que vem massacrando há cinco anos. O Ministro disse que a folha do funcionalismo chegou a R$53,6 bilhões neste ano. Portanto, um reajuste de 2% significará uma despesa equivalente ao que se gasta com a merenda escolar. Tudo bem. Já que o negócio é brincar com estatísticas, os grevistas lembram que neste ano o Governo desembolsará R$65 bilhões para pagar os juros de sua dívida. Gastará esse ervanário porque fixou e mantém os juros brasileiros no patamar mais alto do mundo. O Ministro Martus nunca foi ouvido reclamando de que os juros custam 61 vezes o que se gasta com a merenda escolar."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0280::Escolaridade e letramento",
+   "unit_id": "S0280",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-01",
+   "orador": "Geraldo Cândido",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "analfabetismo",
+     "forma_encontrada": "analfabetismo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "estudante",
+     "forma_encontrada": "estudante",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3427,
+     "fim_corpo": 4352,
+     "trecho": "Em 1988, o Gini brasileiro era de 0,613. A redução dos últimos dez anos é considerada insignificante até pelo IBGE. Nas palavras de um diretor dessa instituição, é mais apropriado falar em concentração estável. As disparidades regionais seguem gritantes. No Maranhão, 50,7% das famílias têm renda per capita mensal de até meio salário mínimo. Em São Paulo, essa taxa cai para 9,8%. A cifra nacional é de 19,6%. O próprio significado de salário mínimo perde aqui muito do seu sentido. A desigualdade se reflete também nas diferentes etnias da população. A média de vencimentos mensais é de 2,61 salários mínimos entre pardos; 2,71 entre negros; e 5,6 para brancos. Esses dados são consistentes com o nível educacional dessas populações. Enquanto os brancos têm, em média, 7,5 anos de estudo, os negros e o pardos vão à escola por 5,1 anos. Mais gritante: o analfabetismo afeta 42,3% dos negros e 8,4% dos brancos."
+    },
+    {
+     "inicio_corpo": 12559,
+     "fim_corpo": 13556,
+     "trecho": "Tudo bem. Já que o negócio é brincar com estatísticas, os grevistas lembram que neste ano o Governo desembolsará R$65 bilhões para pagar os juros de sua dívida. Gastará esse ervanário porque fixou e mantém os juros brasileiros no patamar mais alto do mundo. O Ministro Martus nunca foi ouvido reclamando de que os juros custam 61 vezes o que se gasta com a merenda escolar. Com uma diferença: a choldra que paga imposto prefere dar de comer às crianças do que banquetear banqueiros. O Planalto conversa com ruralistas caloteiros, privatas quebrados e banqueiros falidos, mas não vai à mesa com os servidores. Age assim porque está jogando numa estratégia de tensão. O melhor exemplo dessa estratégia foi verbalizado pelo Secretário-Geral da Presidência, Aloysio Nunes Ferreira, e pela liderança parlamentar do PSDB. Eles se enfureceram porque um estudante desempregado amassou um ovo no Ministro da Saúde e um manifestante bateu com um pau de bandeira no governador Mário Covas."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0280::Idade",
+   "unit_id": "S0280",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-01",
+   "orador": "Geraldo Cândido",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovem",
+     "forma_encontrada": "jovem",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12122,
+     "fim_corpo": 13048,
+     "trecho": "Os funcionários estão pedindo 62% de reposição salarial. Talvez façam negócio por 6.2%. O que está em jogo não é o percentual de um reajuste, mas a decisão do Governo de não aceitar conversa com uma classe que vem massacrando há cinco anos. O Ministro disse que a folha do funcionalismo chegou a R$53,6 bilhões neste ano. Portanto, um reajuste de 2% significará uma despesa equivalente ao que se gasta com a merenda escolar. Tudo bem. Já que o negócio é brincar com estatísticas, os grevistas lembram que neste ano o Governo desembolsará R$65 bilhões para pagar os juros de sua dívida. Gastará esse ervanário porque fixou e mantém os juros brasileiros no patamar mais alto do mundo. O Ministro Martus nunca foi ouvido reclamando de que os juros custam 61 vezes o que se gasta com a merenda escolar. Com uma diferença: a choldra que paga imposto prefere dar de comer às crianças do que banquetear banqueiros."
+    },
+    {
+     "inicio_corpo": 14509,
+     "fim_corpo": 15442,
+     "trecho": "(Sarney, no exercício da Presidência, teve o ônibus apedrejado no Rio de Janeiro. Manteve a solenidade do cargo, não disse uma palavra e, meses depois, anistiou os agressores.) O ministro Aloysio Nunes Ferreira chama de bandidos, canalhas, fascistas e porras-loucas extremistas os baderneiros de hoje. É forte. Lutando contra a ditadura (tendo como objetivo a instalação no Brasil de um regime socialista), ele militou na Aliança Libertadora Nacional, de Carlos Marighela. Essa organização praticava aquilo que seu líder chamava de \"terrorismo revolucionário\". Como quadro destacado da ALN, em agosto de 1968, o atual ministro participou do assalto a um trem-pagador da ferrovia Santos-Jundiaí, do qual levaram o equivalente a US$21.600. Bandido não era. Canalha, muito menos. Fascista, nem pensar. Porra-louca, talvez. Extremista, com certeza. Se ele não era tudo isso, como é que um jovem que amassa um ovo pode vir a sê-lo?"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0280::Posição no trabalho",
+   "unit_id": "S0280",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-01",
+   "orador": "Geraldo Cândido",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desempregado",
+     "forma_encontrada": "desempregado",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 978,
+     "fim_corpo": 1797,
+     "trecho": "A economia brasileira já é a mais internacionalizada entre as dos países subdesenvolvidos. Das 500 maiores empresas multinacionais do mundo, 400 estão presentes no Brasil. Com a atual política cambial e as privatizações, a abertura indiscriminada da economia se cristalizou. A política posta em prática pela coligação conservadora do Governo aprofunda a desnacionalização da economia brasileira e deprecia violentamente a poupança erguida por diversas gerações de brasileiros. Verificamos que o endividamento externo atinge o patamar de US$230 bilhões e que cai a participação da economia brasileira no comércio internacional. O Governo assina sucessivos documentos aditivos ao acordo assinado com o FMI. Com isso, os índices de capacidade ociosa do aparelho produtivo geram o pesadelo do desemprego."
+    },
+    {
+     "inicio_corpo": 5950,
+     "fim_corpo": 6679,
+     "trecho": "Claro, dominar a inflação é bom para todos, em especial para os mais pobres, mas nem remotamente basta para arranhar a escandalosa distribuição de renda. O Governo fracassou, fato comprovado pela comparação entre seu próprio discurso e os dados estatísticos oficiais. As ações do MST, com ocupação de prédios públicos, e a manifestação dos caminhoneiros demonstram que existem setores organizados que desejam mudanças rápidas na política econômica do Brasil, pois, de um lado, temos a radicalização do Movimento dos Sem-Terra, em função da dívida dos pequenos agricultores e da necessidade de assentar milhares de trabalhadores sem terra; de outro, há os caminhoneiros, que não tiveram suas reivindicações atendidas."
+    },
+    {
+     "inicio_corpo": 5950,
+     "fim_corpo": 7058,
+     "trecho": "Claro, dominar a inflação é bom para todos, em especial para os mais pobres, mas nem remotamente basta para arranhar a escandalosa distribuição de renda. O Governo fracassou, fato comprovado pela comparação entre seu próprio discurso e os dados estatísticos oficiais. As ações do MST, com ocupação de prédios públicos, e a manifestação dos caminhoneiros demonstram que existem setores organizados que desejam mudanças rápidas na política econômica do Brasil, pois, de um lado, temos a radicalização do Movimento dos Sem-Terra, em função da dívida dos pequenos agricultores e da necessidade de assentar milhares de trabalhadores sem terra; de outro, há os caminhoneiros, que não tiveram suas reivindicações atendidas. Em função das ações dos movimentos sociais, o Governo agiu com medidas duras: repressão e morte de trabalhadores rurais, como ocorreu no Paraná; usa a Lei de Segurança Nacional para enquadrar o MST e demonstrar, na prática, que todo o governo fraco de argumentos políticos usa armas para coagir os \"inimigos\" – é bom destacar: os inimigos são os trabalhadores organizados."
+    },
+    {
+     "inicio_corpo": 6224,
+     "fim_corpo": 7058,
+     "trecho": "As ações do MST, com ocupação de prédios públicos, e a manifestação dos caminhoneiros demonstram que existem setores organizados que desejam mudanças rápidas na política econômica do Brasil, pois, de um lado, temos a radicalização do Movimento dos Sem-Terra, em função da dívida dos pequenos agricultores e da necessidade de assentar milhares de trabalhadores sem terra; de outro, há os caminhoneiros, que não tiveram suas reivindicações atendidas. Em função das ações dos movimentos sociais, o Governo agiu com medidas duras: repressão e morte de trabalhadores rurais, como ocorreu no Paraná; usa a Lei de Segurança Nacional para enquadrar o MST e demonstrar, na prática, que todo o governo fraco de argumentos políticos usa armas para coagir os \"inimigos\" – é bom destacar: os inimigos são os trabalhadores organizados."
+    },
+    {
+     "inicio_corpo": 12559,
+     "fim_corpo": 13556,
+     "trecho": "Tudo bem. Já que o negócio é brincar com estatísticas, os grevistas lembram que neste ano o Governo desembolsará R$65 bilhões para pagar os juros de sua dívida. Gastará esse ervanário porque fixou e mantém os juros brasileiros no patamar mais alto do mundo. O Ministro Martus nunca foi ouvido reclamando de que os juros custam 61 vezes o que se gasta com a merenda escolar. Com uma diferença: a choldra que paga imposto prefere dar de comer às crianças do que banquetear banqueiros. O Planalto conversa com ruralistas caloteiros, privatas quebrados e banqueiros falidos, mas não vai à mesa com os servidores. Age assim porque está jogando numa estratégia de tensão. O melhor exemplo dessa estratégia foi verbalizado pelo Secretário-Geral da Presidência, Aloysio Nunes Ferreira, e pela liderança parlamentar do PSDB. Eles se enfureceram porque um estudante desempregado amassou um ovo no Ministro da Saúde e um manifestante bateu com um pau de bandeira no governador Mário Covas."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0280::Raça e etnia",
+   "unit_id": "S0280",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-01",
+   "orador": "Geraldo Cândido",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pardos",
+     "forma_encontrada": "pardos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "negros",
+     "forma_encontrada": "negros",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "negros",
+     "forma_encontrada": "negros",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pardos",
+     "forma_encontrada": "pardos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "negros",
+     "forma_encontrada": "negros",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3220,
+     "fim_corpo": 4103,
+     "trecho": "Quanto mais próxima de 1 for esta taxa, pior é a distribuição. O índice 1 significaria uma única pessoa dispondo de toda a renda do país. O Uruguai apresenta um Gini de 0,43; a Costa Rica e o Peru, de 0,46. Em 1988, o Gini brasileiro era de 0,613. A redução dos últimos dez anos é considerada insignificante até pelo IBGE. Nas palavras de um diretor dessa instituição, é mais apropriado falar em concentração estável. As disparidades regionais seguem gritantes. No Maranhão, 50,7% das famílias têm renda per capita mensal de até meio salário mínimo. Em São Paulo, essa taxa cai para 9,8%. A cifra nacional é de 19,6%. O próprio significado de salário mínimo perde aqui muito do seu sentido. A desigualdade se reflete também nas diferentes etnias da população. A média de vencimentos mensais é de 2,61 salários mínimos entre pardos; 2,71 entre negros; e 5,6 para brancos."
+    },
+    {
+     "inicio_corpo": 3220,
+     "fim_corpo": 4103,
+     "trecho": "Quanto mais próxima de 1 for esta taxa, pior é a distribuição. O índice 1 significaria uma única pessoa dispondo de toda a renda do país. O Uruguai apresenta um Gini de 0,43; a Costa Rica e o Peru, de 0,46. Em 1988, o Gini brasileiro era de 0,613. A redução dos últimos dez anos é considerada insignificante até pelo IBGE. Nas palavras de um diretor dessa instituição, é mais apropriado falar em concentração estável. As disparidades regionais seguem gritantes. No Maranhão, 50,7% das famílias têm renda per capita mensal de até meio salário mínimo. Em São Paulo, essa taxa cai para 9,8%. A cifra nacional é de 19,6%. O próprio significado de salário mínimo perde aqui muito do seu sentido. A desigualdade se reflete também nas diferentes etnias da população. A média de vencimentos mensais é de 2,61 salários mínimos entre pardos; 2,71 entre negros; e 5,6 para brancos."
+    },
+    {
+     "inicio_corpo": 3358,
+     "fim_corpo": 4278,
+     "trecho": "O Uruguai apresenta um Gini de 0,43; a Costa Rica e o Peru, de 0,46. Em 1988, o Gini brasileiro era de 0,613. A redução dos últimos dez anos é considerada insignificante até pelo IBGE. Nas palavras de um diretor dessa instituição, é mais apropriado falar em concentração estável. As disparidades regionais seguem gritantes. No Maranhão, 50,7% das famílias têm renda per capita mensal de até meio salário mínimo. Em São Paulo, essa taxa cai para 9,8%. A cifra nacional é de 19,6%. O próprio significado de salário mínimo perde aqui muito do seu sentido. A desigualdade se reflete também nas diferentes etnias da população. A média de vencimentos mensais é de 2,61 salários mínimos entre pardos; 2,71 entre negros; e 5,6 para brancos. Esses dados são consistentes com o nível educacional dessas populações. Enquanto os brancos têm, em média, 7,5 anos de estudo, os negros e o pardos vão à escola por 5,1 anos."
+    },
+    {
+     "inicio_corpo": 3358,
+     "fim_corpo": 4278,
+     "trecho": "O Uruguai apresenta um Gini de 0,43; a Costa Rica e o Peru, de 0,46. Em 1988, o Gini brasileiro era de 0,613. A redução dos últimos dez anos é considerada insignificante até pelo IBGE. Nas palavras de um diretor dessa instituição, é mais apropriado falar em concentração estável. As disparidades regionais seguem gritantes. No Maranhão, 50,7% das famílias têm renda per capita mensal de até meio salário mínimo. Em São Paulo, essa taxa cai para 9,8%. A cifra nacional é de 19,6%. O próprio significado de salário mínimo perde aqui muito do seu sentido. A desigualdade se reflete também nas diferentes etnias da população. A média de vencimentos mensais é de 2,61 salários mínimos entre pardos; 2,71 entre negros; e 5,6 para brancos. Esses dados são consistentes com o nível educacional dessas populações. Enquanto os brancos têm, em média, 7,5 anos de estudo, os negros e o pardos vão à escola por 5,1 anos."
+    },
+    {
+     "inicio_corpo": 3427,
+     "fim_corpo": 4352,
+     "trecho": "Em 1988, o Gini brasileiro era de 0,613. A redução dos últimos dez anos é considerada insignificante até pelo IBGE. Nas palavras de um diretor dessa instituição, é mais apropriado falar em concentração estável. As disparidades regionais seguem gritantes. No Maranhão, 50,7% das famílias têm renda per capita mensal de até meio salário mínimo. Em São Paulo, essa taxa cai para 9,8%. A cifra nacional é de 19,6%. O próprio significado de salário mínimo perde aqui muito do seu sentido. A desigualdade se reflete também nas diferentes etnias da população. A média de vencimentos mensais é de 2,61 salários mínimos entre pardos; 2,71 entre negros; e 5,6 para brancos. Esses dados são consistentes com o nível educacional dessas populações. Enquanto os brancos têm, em média, 7,5 anos de estudo, os negros e o pardos vão à escola por 5,1 anos. Mais gritante: o analfabetismo afeta 42,3% dos negros e 8,4% dos brancos."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0280::Renda e classe",
+   "unit_id": "S0280",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-01",
+   "orador": "Geraldo Cândido",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2167,
+     "fim_corpo": 3077,
+     "trecho": "Foram pagos US$540 milhões a mais em juros que em abril de 1999. E a subida dos juros americanos deve ampliar ainda mais essa conta para o final do ano, já que metade da dívida brasileira tem taxa de juros flutuantes. A conta de juros ficou em US$2,41 bilhões, dos quais US$520 milhões foi a parcela paga pelo setor privado e o restante, pelo setor público. Contribuíram para o aumento os US$200 milhões em juros do empréstimo emergencial do Fundo Monetário Internacional, e o Governo pagou a maior parcela – US$10,3 bilhões, de principal - em abril, além do vencimento semestral dos encargos sobre os antigos papéis da dívida brasileira, os bradies. Além disso, a distribuição de renda no Brasil continua aviltante. Dados da Síntese de Indicadores Sociais de 1999, do IBGE, revelam que o 1% mais rico da população detém 13,8% da renda total, enquanto os 50% mais pobres ficam com 13,5% dos ganhos."
+    },
+    {
+     "inicio_corpo": 5245,
+     "fim_corpo": 6104,
+     "trecho": "Os miseráveis formam uma pilha formidável, a ponto de praticamente 20% das famílias viverem com renda per capita de meio salário mínimo (repito, meio salário mínimo, não chega a um inteiro, o que já é obscenamente reduzido). Em matéria de concentração de renda, os dados do IBGE mostram que em pleno ano de 1992, o ano do i mpeachment e da confusão institucional e econômica vividas pelo Brasil, ainda assim a concentração era inferior à de 1998, último ano do primeiro mandato de Fernando Henrique Cardoso, o que, de quebra, só prova que era uma falácia a reiterada afirmação dos governistas e dos seus áulicos na mídia e na academia de que o Plano Real promovera formidável distribuição de renda. Claro, dominar a inflação é bom para todos, em especial para os mais pobres, mas nem remotamente basta para arranhar a escandalosa distribuição de renda."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0280::Território intraurbano",
+   "unit_id": "S0280",
+   "subcategoria": "Território intraurbano",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-01",
+   "orador": "Geraldo Cândido",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "favela",
+     "forma_encontrada": "favela",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7728,
+     "fim_corpo": 8677,
+     "trecho": "O risco, nas palavras atribuídas a Fernando Henrique Cardoso, viria da radicalização de movimentos antagônicos que se dispõem ao enfrentamento pela violência, como o MST. Em vista disso, \"o Governo prepara um conjunto de ações para coibir a violência no campo\" ou, mesmo para mau entendedor, contra os sem-terra. Existe o risco de quebra da ordem institucional no Brasil? Sim. Mais precisamente o Estado de Direito e as liberdades democráticas, que já estão em franca degeneração. Esse quadro é claro para quem sobreponha seus interesses e se disponha a vê-lo. A situação social já está posta em ponto explosivo. A favelização, o recurso dos assaltos e roubos como meio de vida, a generalização da violência nas ruas e na juventude, a exaustão da tolerância de segmentos como os sem-terra e núcleos favelados, já em reações exaltadas, sintetizam, indiscutivelmente, o acúmulo de situações que antecedem explosões mais lastimáveis."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0280::Urbano e rural",
+   "unit_id": "S0280",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-01",
+   "orador": "Geraldo Cândido",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7407,
+     "fim_corpo": 8047,
+     "trecho": "A iniciativa de Fernando Henrique Cardoso tem o propósito claro de propagar aparentes justificativas para ações de repressão bruta. Como as já ocorridas, todas em conformidade com a doutrina decorrente da ascendência reconhecida ao General Alberto Cardoso, no circuito palaciano, e sobre o Presidente da República. O risco, nas palavras atribuídas a Fernando Henrique Cardoso, viria da radicalização de movimentos antagônicos que se dispõem ao enfrentamento pela violência, como o MST. Em vista disso, \"o Governo prepara um conjunto de ações para coibir a violência no campo\" ou, mesmo para mau entendedor, contra os sem-terra."
+    },
+    {
+     "inicio_corpo": 12185,
+     "fim_corpo": 13180,
+     "trecho": "Talvez façam negócio por 6.2%. O que está em jogo não é o percentual de um reajuste, mas a decisão do Governo de não aceitar conversa com uma classe que vem massacrando há cinco anos. O Ministro disse que a folha do funcionalismo chegou a R$53,6 bilhões neste ano. Portanto, um reajuste de 2% significará uma despesa equivalente ao que se gasta com a merenda escolar. Tudo bem. Já que o negócio é brincar com estatísticas, os grevistas lembram que neste ano o Governo desembolsará R$65 bilhões para pagar os juros de sua dívida. Gastará esse ervanário porque fixou e mantém os juros brasileiros no patamar mais alto do mundo. O Ministro Martus nunca foi ouvido reclamando de que os juros custam 61 vezes o que se gasta com a merenda escolar. Com uma diferença: a choldra que paga imposto prefere dar de comer às crianças do que banquetear banqueiros. O Planalto conversa com ruralistas caloteiros, privatas quebrados e banqueiros falidos, mas não vai à mesa com os servidores."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0281::Posição no trabalho",
+   "unit_id": "S0281",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-01",
+   "orador": "Amir Lando",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 878,
+     "trecho": "O SR. AMIR LANDO (PMDB - RO) – Sr. Presidente, Srªs e Srs. Senadores, como se avalia um governo? Pelas suas obras? Pelo atendimento aos reclamos do povo? Pela melhoria das condições de vida da população? Ou, quem sabe, pelo somatório de todos esses critérios, necessariamente constantes nas plataformas eleitorais e nas promessas de campanha? Pelo que se observa na mídia e no discurso oficial dos últimos tempos, parecem ser outros os indicadores de avaliação da performance da Administração Pública, no Brasil. Fala-se pouco, ou quase nada, em qualidade de vida e, contraditoriamente, há quem defenda rígidos controles sobre a demanda da população sobre bens e serviços, em nome da estabilidade da moeda, uma vez que, quanto maior a procura, maior a pressão sobre preços. E, então, prega-se a retração da economia, mesmo que, com isso, aumentem os níveis de desemprego."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0282::Infraestrutura e porte populacional",
+   "unit_id": "S0282",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-05",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "fronteiras",
+     "forma_encontrada": "fronteiras",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "fronteira",
+     "forma_encontrada": "fronteira",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4087,
+     "fim_corpo": 4834,
+     "trecho": "O Presidente vem desenvolvendo essa política com os mesmos objetivos que a conceberam: quanto mais visível for o Brasil, mais investimentos receberá e mais fortalecida estará sua economia. Até aí, não tenho nada contra. É necessário divulgar o País, colocando-o em evidência no exterior, para que recursos venham para ser investidos. As feiras e exposições internacionais tornam-se, assim, fundamentais na concepção do Governo, para que a imagem do País seja sedimentada internacionalmente e para que grandes fontes de recursos sejam direcionadas para cá. Quanto a isso, não tenho a menor discordância. Afinal, vivemos num mundo globalizado, onde as fronteiras desaparecem, as distâncias são encurtadas e a cooperação faz-se imprescindível."
+    },
+    {
+     "inicio_corpo": 15904,
+     "fim_corpo": 16981,
+     "trecho": "O Ministério da Previdência e Assistência Social, por exemplo, poderia demonstrar o que temos no campo social, em conjunto com o Ministério da Saúde. Dessa forma, em Hannover, mostraríamos para o Mundo o que somos. Não adianta apenas apresentar aquilo que queremos, como por exemplo o Plano Piloto, em Brasília. Quem vem de fora não pode conhecer apenas o Plano Piloto. Temos de mostrar as cidades satélites de Brasília, os bairros das grandes cidades. Temos de ver a realidade brasileira. Não há por que colocarmos em Hannover, às custas muitas vezes dos brasileiros, do Orçamento, dúvidas quanto àquilo que não possa espelhar a realidade do nosso País. Sr. Presidente, nesse sentido, venho aqui para expor essa inquietação. Cheguei esta noite do meu Estado, Santa Catarina. Percorri vários municípios da região e fui questionado até em municípios que fazem fronteira com a Argentina. Trouxe essas preocupações porque a realidade deve ser transparente, e o Mundo deseja nos ver como realmente somos, falando sempre a verdade. Muito obrigado, Sr. Presidente."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0282::Macrorregião",
+   "unit_id": "S0282",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-05",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4087,
+     "fim_corpo": 5026,
+     "trecho": "O Presidente vem desenvolvendo essa política com os mesmos objetivos que a conceberam: quanto mais visível for o Brasil, mais investimentos receberá e mais fortalecida estará sua economia. Até aí, não tenho nada contra. É necessário divulgar o País, colocando-o em evidência no exterior, para que recursos venham para ser investidos. As feiras e exposições internacionais tornam-se, assim, fundamentais na concepção do Governo, para que a imagem do País seja sedimentada internacionalmente e para que grandes fontes de recursos sejam direcionadas para cá. Quanto a isso, não tenho a menor discordância. Afinal, vivemos num mundo globalizado, onde as fronteiras desaparecem, as distâncias são encurtadas e a cooperação faz-se imprescindível. O País está convivendo com problemas sociais, necessitando de cada centavo para combater as pragas e doenças medievais que se alastram de norte a sul, dizimando milhares de brasileiros."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0282::Posição no trabalho",
+   "unit_id": "S0282",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-05",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "Trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2148,
+     "fim_corpo": 3136,
+     "trecho": "São obras que estão inacabadas há cinqüenta, cem anos. Como se vê, são obras cujo custo/benefício é deficitário, onde só o Governo perde. E isso acontece por negligência da fiscalização no acompanhamento das obras e do cronograma de desembolsos dos recursos. Não terei condições de enumerar o sem número de casos que caracterizam os desperdícios oficiais. Registro os relativos à perda de alimentos estocados por inadequação da armazenagem. No entanto, os responsáveis nunca são encontrados. Geralmente é o que acontece. Outro fato, recentemente divulgado pela imprensa nacional, são os lamentáveis gastos que envolveram as comemorações dos 500 anos do Brasil. Até hoje estão tentando evitar que a réplica de uma caravela tenha o mesmo destino que o Titanic. Como se não bastasse, ainda segundo a imprensa, o Governo teria utilizado recursos do FAT – Fundo de Amparo ao Trabalhador para financiar, junto ao BNDES, empresas estrangeiras que compraram empresas nacionais."
+    },
+    {
+     "inicio_corpo": 2407,
+     "fim_corpo": 3378,
+     "trecho": "Não terei condições de enumerar o sem número de casos que caracterizam os desperdícios oficiais. Registro os relativos à perda de alimentos estocados por inadequação da armazenagem. No entanto, os responsáveis nunca são encontrados. Geralmente é o que acontece. Outro fato, recentemente divulgado pela imprensa nacional, são os lamentáveis gastos que envolveram as comemorações dos 500 anos do Brasil. Até hoje estão tentando evitar que a réplica de uma caravela tenha o mesmo destino que o Titanic. Como se não bastasse, ainda segundo a imprensa, o Governo teria utilizado recursos do FAT – Fundo de Amparo ao Trabalhador para financiar, junto ao BNDES, empresas estrangeiras que compraram empresas nacionais. Na semana passada em meu Estado - vim durante a madrugada de lá – perguntaram-me se era verdade que o Governo dá o dinheiro do trabalhador, oferecendo-o por intermédio do Banco Nacional Desenvolvimento Social, BNDES, a empresas estrangeiras."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0282::Renda e classe",
+   "unit_id": "S0282",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-05",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5026,
+     "fim_corpo": 5853,
+     "trecho": "Por essa razão, não podemos aceitar que o Governo Federal gaste grandes quantias de recursos publicitários, sob o argumento de melhorar sua imagem no exterior. Procurar vender a imagem do Brasil no exterior e melhorar as relações diplomáticas são atitudes boas, mas é difícil de entender a utilização dos recursos do Tesouro, aumentando o número de excluídos no País, na expectativa de divulgar o Brasil. Por isso, Sr. Presidente, nobres Colegas, é difícil justificar o investimento de quase R$ 20 milhões na montagem de um stand, por se tratar de dinheiro dos brasileiros, do Tesouro Nacional. Que melhor propaganda o Governo poderia fazer do País, senão resolvendo seus problemas mais agudos e mostrando ao mundo que os 42 milhões de pobres têm razões para acreditar que há um caminho sendo construído para eles?"
+    },
+    {
+     "inicio_corpo": 5186,
+     "fim_corpo": 6001,
+     "trecho": "Procurar vender a imagem do Brasil no exterior e melhorar as relações diplomáticas são atitudes boas, mas é difícil de entender a utilização dos recursos do Tesouro, aumentando o número de excluídos no País, na expectativa de divulgar o Brasil. Por isso, Sr. Presidente, nobres Colegas, é difícil justificar o investimento de quase R$ 20 milhões na montagem de um stand, por se tratar de dinheiro dos brasileiros, do Tesouro Nacional. Que melhor propaganda o Governo poderia fazer do País, senão resolvendo seus problemas mais agudos e mostrando ao mundo que os 42 milhões de pobres têm razões para acreditar que há um caminho sendo construído para eles? Deve o Governo mostrar que há vontade de sanear os problemas dos 42 milhões de pobres no Brasil, divulgando as maneiras como isso está sendo feito."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0282::Saúde",
+   "unit_id": "S0282",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-05",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitais",
+     "forma_encontrada": "hospitais",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1076,
+     "fim_corpo": 1907,
+     "trecho": "Parece que o grande cerne do subdesenvolvimento dos países do Mercosul está sempre no funcionalismo público. Desconfio que haja um receituário do FMI ordenando que essas medidas sejam tomadas e ponto final. Enquanto isso, padecemos das misérias advindas de um processo pernicioso que esvazia o Poder Legislativo, enfraquece as instituições e provoca o ceticismo da população em geral. A grande inquietação hoje neste País continental, fácil de ser visualizada, é que os recursos existem. Essa não é uma opinião, é uma constatação. Ocorre que o Governo nos reparte mal, o que também é um fato. Gastamos muito mal, aplicamos verdadeiras fortunas em projetos faraônicos, quando deveriam ser alocados em áreas prioritárias. Temos vários exemplos: usinas nucleares em Angra dos Reis, hospitais fantásticos e várias hidrelétricas."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,450 @@
+[
+  {
+    "url": "https://legis.senado.leg.br/dadosabertos/discurso/texto-integral/310292",
+    "descricao": "Discurso 310292 (Maguito Vilela, 1999-12-15)",
+    "motivo": "download do texto integral falhou: [tentativa 1] http=404 Not Found | [tentativa 2] http=404 Not Found | [tentativa 3] http=404 Not Found",
+    "status": "confirmado_ausente",
+    "nota_resolucao": "404 real da API, confirmado -- nao ha rota alternativa, nao e mais pendente de acao",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://legis.senado.leg.br/dadosabertos/discurso/texto-integral/311673",
+    "descricao": "Discurso 311673 (Bello Parga, 2000-05-05)",
+    "motivo": "download do texto integral falhou: [tentativa 1] http=404 Not Found | [tentativa 2] http=404 Not Found | [tentativa 3] http=404 Not Found",
+    "status": "confirmado_ausente",
+    "nota_resolucao": "404 real da API, confirmado -- nao ha rota alternativa, nao e mais pendente de acao",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://legis.senado.leg.br/dadosabertos/discurso/texto-integral/311824",
+    "descricao": "Discurso 311824 (Luzia Toledo, 2000-05-24)",
+    "motivo": "download do texto integral falhou: [tentativa 1] http=404 Not Found | [tentativa 2] http=404 Not Found | [tentativa 3] http=404 Not Found",
+    "status": "confirmado_ausente",
+    "nota_resolucao": "404 real da API, confirmado -- nao ha rota alternativa, nao e mais pendente de acao",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=7007&download=true",
+    "descricao": "DSF 107/55 (datas ['2000-06-28'])",
+    "motivo": "download falhou: conexao: ConnectionResetError: [Errno 54] Connection reset by peer | conexao: ConnectionResetError: [Errno 54] Connection reset by peer | conexao: ConnectionResetError: [Errno 54] Connection reset by peer",
+    "status": "resolvido",
+    "nota_resolucao": "baixado com sucesso depois (ConnectionResetError era transitorio) -- corpus_fust/senado/diarios/DSF-107-55.pdf",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=101364&download=true",
+    "descricao": "DSF 202/54 (datas ['1999-12-15'])",
+    "motivo": "download falhou: incompleto: 149893323 de 352651253 bytes | timeout | timeout",
+    "status": "resolvido",
+    "nota_resolucao": "baixado com sucesso depois (IncompleteRead era transitorio, 352MB completo) -- corpus_fust/senado/diarios/DSF-202-54.pdf",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91648",
+    "descricao": "EMC 1/1998 (id=68753)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91649",
+    "descricao": "EMC 2/1998 (id=68754)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91650",
+    "descricao": "EMC 3/1998 (id=68755)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91651",
+    "descricao": "EMC 4/1998 (id=68756)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91652",
+    "descricao": "EMC 5/1998 (id=68757)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91653",
+    "descricao": "EMC 6/1998 (id=68758)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91654",
+    "descricao": "EMC 7/1999 (id=68759)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91660",
+    "descricao": "EMP 1/1999 (id=68760)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91661",
+    "descricao": "EMP 2/1999 (id=68761)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91662",
+    "descricao": "EMP 3/1999 (id=68762)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91663",
+    "descricao": "EMP 4/1999 (id=68763)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91664",
+    "descricao": "EMP 5/1999 (id=68764)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91665",
+    "descricao": "EMP 6/1999 (id=68765)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91666",
+    "descricao": "EMP 7/1999 (id=68766)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91667",
+    "descricao": "EMP 8/1999 (id=68767)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91668",
+    "descricao": "EMP 9/1999 (id=68768)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91669",
+    "descricao": "EMP 10/1999 (id=68769)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91670",
+    "descricao": "EMP 11/1999 (id=68770)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91671",
+    "descricao": "EMP 12/1999 (id=68771)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91672",
+    "descricao": "EMP 13/1999 (id=68772)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91673",
+    "descricao": "EMP 14/1999 (id=68773)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91674",
+    "descricao": "EMP 15/1999 (id=68774)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91675",
+    "descricao": "EMP 16/1999 (id=68775)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91676",
+    "descricao": "EMP 17/1999 (id=68776)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91677",
+    "descricao": "EMP 18/1999 (id=68777)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91678",
+    "descricao": "EMP 19/1999 (id=68778)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91679",
+    "descricao": "EMP 20/1999 (id=68779)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91680",
+    "descricao": "EMP 21/1999 (id=68780)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91681",
+    "descricao": "EMP 22/1999 (id=68781)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91682",
+    "descricao": "EMP 23/1999 (id=68782)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=91683",
+    "descricao": "EMP 24/1999 (id=68783)",
+    "motivo": "resolução do inteiro teor falhou: 1o redirecionamento falhou: [tentativa 1] http=503 Service Unavailable | [tentativa 2] http=503 Service Unavailable | [tentativa 3] http=503 Service Unavailable | [tentativa 4] http=503 Service Unavailable",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/68764",
+    "descricao": "EMP 5/1999 (id=68764)",
+    "motivo": "GET /proposicoes/68764 falhou: [tentativa 1] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 2] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 3] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 4] rede: [Errno 8] nodename nor servname provided, or not known",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/68765",
+    "descricao": "EMP 6/1999 (id=68765)",
+    "motivo": "GET /proposicoes/68765 falhou: [tentativa 1] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 2] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 3] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 4] rede: [Errno 8] nodename nor servname provided, or not known",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/68766",
+    "descricao": "EMP 7/1999 (id=68766)",
+    "motivo": "GET /proposicoes/68766 falhou: [tentativa 1] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 2] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 3] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 4] rede: [Errno 8] nodename nor servname provided, or not known",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/68767",
+    "descricao": "EMP 8/1999 (id=68767)",
+    "motivo": "GET /proposicoes/68767 falhou: [tentativa 1] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 2] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 3] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 4] rede: [Errno 8] nodename nor servname provided, or not known",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/68768",
+    "descricao": "EMP 9/1999 (id=68768)",
+    "motivo": "GET /proposicoes/68768 falhou: [tentativa 1] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 2] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 3] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 4] rede: [Errno 8] nodename nor servname provided, or not known",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/68769",
+    "descricao": "EMP 10/1999 (id=68769)",
+    "motivo": "GET /proposicoes/68769 falhou: [tentativa 1] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 2] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 3] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 4] rede: [Errno 8] nodename nor servname provided, or not known",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/68770",
+    "descricao": "EMP 11/1999 (id=68770)",
+    "motivo": "GET /proposicoes/68770 falhou: [tentativa 1] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 2] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 3] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 4] rede: [Errno 8] nodename nor servname provided, or not known",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/68771",
+    "descricao": "EMP 12/1999 (id=68771)",
+    "motivo": "GET /proposicoes/68771 falhou: [tentativa 1] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 2] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 3] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 4] rede: [Errno 8] nodename nor servname provided, or not known",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/68772",
+    "descricao": "EMP 13/1999 (id=68772)",
+    "motivo": "GET /proposicoes/68772 falhou: [tentativa 1] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 2] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 3] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 4] rede: [Errno 8] nodename nor servname provided, or not known",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/68773",
+    "descricao": "EMP 14/1999 (id=68773)",
+    "motivo": "GET /proposicoes/68773 falhou: [tentativa 1] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 2] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 3] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 4] rede: [Errno 8] nodename nor servname provided, or not known",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/68774",
+    "descricao": "EMP 15/1999 (id=68774)",
+    "motivo": "GET /proposicoes/68774 falhou: [tentativa 1] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 2] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 3] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 4] rede: [Errno 8] nodename nor servname provided, or not known",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/68775",
+    "descricao": "EMP 16/1999 (id=68775)",
+    "motivo": "GET /proposicoes/68775 falhou: [tentativa 1] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 2] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 3] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 4] rede: [Errno 8] nodename nor servname provided, or not known",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/68776",
+    "descricao": "EMP 17/1999 (id=68776)",
+    "motivo": "GET /proposicoes/68776 falhou: [tentativa 1] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 2] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 3] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 4] rede: [Errno 8] nodename nor servname provided, or not known",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/68777",
+    "descricao": "EMP 18/1999 (id=68777)",
+    "motivo": "GET /proposicoes/68777 falhou: [tentativa 1] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 2] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 3] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 4] rede: [Errno 8] nodename nor servname provided, or not known",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/68778",
+    "descricao": "EMP 19/1999 (id=68778)",
+    "motivo": "GET /proposicoes/68778 falhou: [tentativa 1] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 2] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 3] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 4] rede: [Errno 8] nodename nor servname provided, or not known",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/68779",
+    "descricao": "EMP 20/1999 (id=68779)",
+    "motivo": "GET /proposicoes/68779 falhou: [tentativa 1] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 2] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 3] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 4] rede: [Errno 8] nodename nor servname provided, or not known",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/68780",
+    "descricao": "EMP 21/1999 (id=68780)",
+    "motivo": "GET /proposicoes/68780 falhou: [tentativa 1] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 2] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 3] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 4] rede: [Errno 8] nodename nor servname provided, or not known",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/68781",
+    "descricao": "EMP 22/1999 (id=68781)",
+    "motivo": "GET /proposicoes/68781 falhou: [tentativa 1] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 2] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 3] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 4] rede: [Errno 8] nodename nor servname provided, or not known",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/68782",
+    "descricao": "EMP 23/1999 (id=68782)",
+    "motivo": "GET /proposicoes/68782 falhou: [tentativa 1] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 2] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 3] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 4] rede: [Errno 8] nodename nor servname provided, or not known",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  },
+  {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/68783",
+    "descricao": "EMP 24/1999 (id=68783)",
+    "motivo": "GET /proposicoes/68783 falhou: [tentativa 1] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 2] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 3] rede: [Errno 8] nodename nor servname provided, or not known | [tentativa 4] rede: [Errno 8] nodename nor servname provided, or not known",
+    "status": "resolvido",
+    "nota_resolucao": "host imagem.camara.leg.br voltou -- as 31 emendas foram baixadas e deduplicadas em corpus_fust/camara/emendas/_compartilhados/ (ver achado_documentos_compartilhados.json)",
+    "resolvido_em": "2026-10-07T17:35:48+00:00"
+  }
+]

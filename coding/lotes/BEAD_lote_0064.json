@@ -1,0 +1,946 @@
+{
+ "caso": "BEAD",
+ "lote": 64,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0301::Educação",
+   "unit_id": "W0301",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 18358,
+     "fim_corpo": 19088,
+     "trecho": "The FCC’s attempt to fundamentally alter the rules of the road for political speech is as misguided as it is unlawful.22 Indeed, the Chairman of the Federal Election Commission, Sean Cooksey, wrote a letter to the FCC making it clear that Congress has given the FEC, not the FCC, sole authority to regulate disclaimer and reporting requirements specific to political communications.23 Particularly in light of Loper Bright, it is time for the FCC to abandon this unlawful attempt to regulate political speech. Second, the FCC is poised to vote on rules later this month that would divert funds under the E-Rate program for the purpose of subsidizing Wi-Fi hotspots that would be lent out by libraries and schools."
+    },
+    {
+     "inicio_corpo": 18878,
+     "fim_corpo": 19516,
+     "trecho": "Second, the FCC is poised to vote on rules later this month that would divert funds under the E-Rate program for the purpose of subsidizing Wi-Fi hotspots that would be lent out by libraries and schools. The Biden Administration has publicly called on the FCC to move forward with this rulemaking. Except Congress has limited the FCC’s E-Rate authority to enhancing the access of “classrooms” and “libraries” to telecommunication services—not any remote location at which people might want to learn.24 Indeed, Congress passed a specific COVID-era law that expressly authorized the FCC to fund connections outside of schools."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0301::Infraestrutura e porte populacional",
+   "unit_id": "W0301",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved locations",
+     "forma_encontrada": "unserved locations",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3884,
+     "fim_corpo": 4815,
+     "trecho": "Indeed, not even one shovel worth of dirt has been turned with those dollars. And it gets worse. The Biden Administration recently confirmed that no construction projects will even start until sometime next year at the earliest and in many cases not until 2026. This makes President Biden’s signature BEAD initiative the slowest moving federal broadband deployment program in recent history, as far as I can tell. The Biden Administration’s failure to launch is not only predictable, it was predicted.4 Two years ago, Members of Congress wrote the Commerce Department and explained that the Biden Administration’s decision to create “a complex, nine-step, ‘iterative’ structure and review process . . . is likely to mire State broadband offices in excessive bureaucracy and delay connecting unserved and underserved Americans as quickly as possible.”5 Other Members of Congress kept up this drum beat of concern."
+    },
+    {
+     "inicio_corpo": 3884,
+     "fim_corpo": 4815,
+     "trecho": "Indeed, not even one shovel worth of dirt has been turned with those dollars. And it gets worse. The Biden Administration recently confirmed that no construction projects will even start until sometime next year at the earliest and in many cases not until 2026. This makes President Biden’s signature BEAD initiative the slowest moving federal broadband deployment program in recent history, as far as I can tell. The Biden Administration’s failure to launch is not only predictable, it was predicted.4 Two years ago, Members of Congress wrote the Commerce Department and explained that the Biden Administration’s decision to create “a complex, nine-step, ‘iterative’ structure and review process . . . is likely to mire State broadband offices in excessive bureaucracy and delay connecting unserved and underserved Americans as quickly as possible.”5 Other Members of Congress kept up this drum beat of concern."
+    },
+    {
+     "inicio_corpo": 10424,
+     "fim_corpo": 11406,
+     "trecho": "The Biden Administration’s restrictions will prevent states from funding projects that could quickly bridge the digital divide. Too much regulation from Washington is needlessly driving up the cost of building broadband. That is why you are seeing so many of the Internet providers that would ordinarily participate in a program like BEAD sounding the alarm and saying that the red tape is simply too much to cut through. Indeed, just recently, the head of the Minnesota Telecom Alliance, which represents 70 broadband builders in the state, declared that “zero” of its members would be participating in the BEAD program given the Administration’s current approach.14 Several states, along with many in the broadband industry, have registered their concern that BEAD allocations will be insufficient to reach all unserved locations.15 This is not to say that there are no broadband builds underway today with dollars the Biden Administration has made available."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0301::Urbano e rural",
+   "unit_id": "W0301",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4151,
+     "fim_corpo": 5368,
+     "trecho": "This makes President Biden’s signature BEAD initiative the slowest moving federal broadband deployment program in recent history, as far as I can tell. The Biden Administration’s failure to launch is not only predictable, it was predicted.4 Two years ago, Members of Congress wrote the Commerce Department and explained that the Biden Administration’s decision to create “a complex, nine-step, ‘iterative’ structure and review process . . . is likely to mire State broadband offices in excessive bureaucracy and delay connecting unserved and underserved Americans as quickly as possible.”5 Other Members of Congress kept up this drum beat of concern. In 2023, for instance, Members of Congress wrote the Biden Administration and explained that its rules “divert resources away from bringing broadband service to rural America and are inconsistent with NTIA’s statutory authority.”6 They stated in clear terms that the Biden Administration’s decision to add requirements found nowhere in the statutory text “will prolong the digital divide and put billions of scarce taxpayer dollars at risk.”7 So what has the Biden Administration been doing in those 967 days instead of connecting Americans?"
+    },
+    {
+     "inicio_corpo": 5625,
+     "fim_corpo": 6547,
+     "trecho": "8, 2021), https://thehill.com/blogs/congress- blog/technology/547073-barreling-towards-a-broadband-blunder/. 5 Letter from Sen. Susan Collins, et al.to Sec’y Gina Raimondo, Dep’t of Commerce (Aug. 18, 2022), https://www.collins.senate.gov/imo/media/doc/letter to secraimondobeadnofoaug182022.pdf. 6 Letter from Sens. John Thune, Ted Cruz, et al. to Sec’y Gina Raimondo, Dep’t of Commerce (Apr. 20, 2023), https://www.thune.senate.gov/public/ cache/files/d4e51503-5d28-4744-9033- 18c9e38da22d/C3ACEFE761F313B6ABBD99AC63692025.as4.20.2023 -bead-nofo-letter-to-ntia-1-.pdf. 77 Id. 3 The Biden Administration is using this $42 billion program to pursue a climate change agenda, DEI requirements, technology biases, price controls, preferences for government-run networks, and rules that will undoubtedly lead to wasteful overbuilding. All of this will leave rural and other unconnected communities behind."
+    },
+    {
+     "inicio_corpo": 15569,
+     "fim_corpo": 16572,
+     "trecho": "Raimondo requires the FCC to change course in a very fundamental way. But right now, the FCC is running headlong into a series of court losses. At its core, the Supreme Court’s decision in Loper Bright reinforces the Framer’s decision in the Constitution to vest the legislative or law making power in the people’s representatives here in Congress. Loper Bright does so by making it less likely that courts will find that Congress inadvertently leaked law making power to administrative agencies. And even less likely that courts will uphold administrative agency decisions that effectively take legislative power from the Article I Branch that Congress never delegated. If there is a good and novel 18 See Dissenting statement of Brendan Carr, Commissioner, Federal Communications Commission, Application for Review of Starlink Services, LLC, Rural Digital Opportunity Fund, Rural Digital Opportunity Fund (Auction 904), Viasat Auction 904 Application for Review, WC Docket No."
+    },
+    {
+     "inicio_corpo": 15569,
+     "fim_corpo": 16572,
+     "trecho": "Raimondo requires the FCC to change course in a very fundamental way. But right now, the FCC is running headlong into a series of court losses. At its core, the Supreme Court’s decision in Loper Bright reinforces the Framer’s decision in the Constitution to vest the legislative or law making power in the people’s representatives here in Congress. Loper Bright does so by making it less likely that courts will find that Congress inadvertently leaked law making power to administrative agencies. And even less likely that courts will uphold administrative agency decisions that effectively take legislative power from the Article I Branch that Congress never delegated. If there is a good and novel 18 See Dissenting statement of Brendan Carr, Commissioner, Federal Communications Commission, Application for Review of Starlink Services, LLC, Rural Digital Opportunity Fund, Rural Digital Opportunity Fund (Auction 904), Viasat Auction 904 Application for Review, WC Docket No."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0303::Cultura e informação",
+   "unit_id": "W0303",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "library",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "library",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1992,
+     "fim_corpo": 2993,
+     "trecho": "Across the country, I have met with people who were able to get online and stay online thanks to this program for work, school, healthcare, and more. As you all know, Congress provided the funds for this program through the Infrastructure Investment and Jobs Act. I would be remiss if I did not take the opportunity to note that that funding to keep these households connected was exhausted in May. I strongly support efforts to identify ways to continue to fund the Affordable Connectivity Program into the future to help more families get and stay connected to the high-speed internet they need to participate in the digital future, and I stand ready to assist in any way I can. While the Commission was forced to shut off support for the Affordable Connectivity Program earlier this year, next week, I will ask my colleagues to support an order that would allow every library and school library in the country to loan out Wi-Fi hotspots to keep their patrons and kids connected."
+    },
+    {
+     "inicio_corpo": 2145,
+     "fim_corpo": 2993,
+     "trecho": "As you all know, Congress provided the funds for this program through the Infrastructure Investment and Jobs Act. I would be remiss if I did not take the opportunity to note that that funding to keep these households connected was exhausted in May. I strongly support efforts to identify ways to continue to fund the Affordable Connectivity Program into the future to help more families get and stay connected to the high-speed internet they need to participate in the digital future, and I stand ready to assist in any way I can. While the Commission was forced to shut off support for the Affordable Connectivity Program earlier this year, next week, I will ask my colleagues to support an order that would allow every library and school library in the country to loan out Wi-Fi hotspots to keep their patrons and kids connected."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0303::Domicílio e arranjo familiar",
+   "unit_id": "W0303",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1226,
+     "fim_corpo": 1992,
+     "trecho": "This amount will ensure that the Commission can meet its statutory mandates and uphold the core values of our laws—consumer protection, universal service, national security, and public safety—all while keeping pace with ever- changing and advancing technologies. Under my leadership, the Commission has strived to build a digital future that works for everyone, everywhere. To that end, let me highlight some of the agency’s work. First, the Commission is working to connect everyone, which is essential for our digital future. The Commission’s Affordable Connectivity Program, the largest broadband affordability program in our Nation’s history, helped 23 million households—more than one in six nationwide—pay for high-speed internet service."
+    },
+    {
+     "inicio_corpo": 1492,
+     "fim_corpo": 2398,
+     "trecho": "Under my leadership, the Commission has strived to build a digital future that works for everyone, everywhere. To that end, let me highlight some of the agency’s work. First, the Commission is working to connect everyone, which is essential for our digital future. The Commission’s Affordable Connectivity Program, the largest broadband affordability program in our Nation’s history, helped 23 million households—more than one in six nationwide—pay for high-speed internet service. Across the country, I have met with people who were able to get online and stay online thanks to this program for work, school, healthcare, and more. As you all know, Congress provided the funds for this program through the Infrastructure Investment and Jobs Act. I would be remiss if I did not take the opportunity to note that that funding to keep these households connected was exhausted in May."
+    },
+    {
+     "inicio_corpo": 1666,
+     "fim_corpo": 2684,
+     "trecho": "First, the Commission is working to connect everyone, which is essential for our digital future. The Commission’s Affordable Connectivity Program, the largest broadband affordability program in our Nation’s history, helped 23 million households—more than one in six nationwide—pay for high-speed internet service. Across the country, I have met with people who were able to get online and stay online thanks to this program for work, school, healthcare, and more. As you all know, Congress provided the funds for this program through the Infrastructure Investment and Jobs Act. I would be remiss if I did not take the opportunity to note that that funding to keep these households connected was exhausted in May. I strongly support efforts to identify ways to continue to fund the Affordable Connectivity Program into the future to help more families get and stay connected to the high-speed internet they need to participate in the digital future, and I stand ready to assist in any way I can."
+    },
+    {
+     "inicio_corpo": 4315,
+     "fim_corpo": 5209,
+     "trecho": "This makes switching service providers easier and promotes competition. Third, the agency’s work to create the National Broadband Map—the most accurate broadband map ever created—will help close the digital divide. For decades, the Commission produced broadband maps based on Census blocks. In practice, this meant that if there was high-speed internet service in a single location in a Census block, the agency assumed there was service throughout the area. Needless to say, this methodology overstated service nationwide. Following the Broadband DATA Act, in November 2022, the Commission developed its first location-based broadband map to paint a more accurate picture of where broadband is and is not available across the United States. This new map identifies every household and small business in the country that should have access to high-speed internet service."
+    },
+    {
+     "inicio_corpo": 6791,
+     "fim_corpo": 7581,
+     "trecho": "Over the past year, we have furthered our effort to enhance the availability of Wireless Emergency Alerts, starting with making them available in more than a dozen languages, including American Sign Language. We launched this effort after New York State Attorney General Letitia James brought our attention to the fact that nearly all of those who lost their lives during Hurricane Ida spoke languages other than English and Spanish. Fifth, we are working to connect the most vulnerable. Last year, the Commission took steps to implement the Safe Connections Act championed by members of this Committee. Under this new law, the Commission now has authority to help survivors of domestic abuse to swiftly and securely separate from communications contracts like family plans."
+    },
+    {
+     "inicio_corpo": 7972,
+     "fim_corpo": 8679,
+     "trecho": "And in March, we proposed to add a new “Missing and Endangered Persons” alert code to the nation’s Emergency Alert System to help law enforcement provide timely alerts to galvanize public attention to missing native and indigenous persons, as well as other groups. Law enforcement agencies have successfully used AMBER alerts on TV and radio to mobilize public attention and recover abducted children. We do not have a similar code dedicated to missing and endangered adults, particularly the thousands of missing native and indigenous women who have disappeared, never to be seen again. Creating this new code could close this gap and help save lives. Sixth, we are connecting families."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0303::Educação",
+   "unit_id": "W0303",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1226,
+     "fim_corpo": 2145,
+     "trecho": "This amount will ensure that the Commission can meet its statutory mandates and uphold the core values of our laws—consumer protection, universal service, national security, and public safety—all while keeping pace with ever- changing and advancing technologies. Under my leadership, the Commission has strived to build a digital future that works for everyone, everywhere. To that end, let me highlight some of the agency’s work. First, the Commission is working to connect everyone, which is essential for our digital future. The Commission’s Affordable Connectivity Program, the largest broadband affordability program in our Nation’s history, helped 23 million households—more than one in six nationwide—pay for high-speed internet service. Across the country, I have met with people who were able to get online and stay online thanks to this program for work, school, healthcare, and more."
+    },
+    {
+     "inicio_corpo": 2145,
+     "fim_corpo": 2993,
+     "trecho": "As you all know, Congress provided the funds for this program through the Infrastructure Investment and Jobs Act. I would be remiss if I did not take the opportunity to note that that funding to keep these households connected was exhausted in May. I strongly support efforts to identify ways to continue to fund the Affordable Connectivity Program into the future to help more families get and stay connected to the high-speed internet they need to participate in the digital future, and I stand ready to assist in any way I can. While the Commission was forced to shut off support for the Affordable Connectivity Program earlier this year, next week, I will ask my colleagues to support an order that would allow every library and school library in the country to loan out Wi-Fi hotspots to keep their patrons and kids connected."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0303::Escolaridade e letramento",
+   "unit_id": "W0303",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "student",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11107,
+     "fim_corpo": 11999,
+     "trecho": "Unless we receive an additional appropriation, we can only provide forty cents on the dollar to those companies in reimbursement, which threatens our national security and risks the shutdown of rural networks. Eighth, we are doubling down on our efforts to stop scam robocalls and robotexts. Robocalls and robotexts aren’t just exasperating, they are a pathway for fraudsters to harm consumers. So, we have been attacking them from all angles—cutting off bad actors from our networks, requiring providers to block unwanted calls, and mandating technology to stop call spoofing. Some of our efforts are beginning to bear fruit. After we identified the companies behind the auto warranty robocall scam, we told the rest of the industry to cut them off and auto warranty calls fell by over 90 percent. We used the same method to reduce student loan scam calls by 88 percent."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0303::Gênero",
+   "unit_id": "W0303",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7700,
+     "fim_corpo": 8571,
+     "trecho": "This year we launched a proceeding to explore how the Safe Connections Act could be used to ensure car manufacturers and wireless service providers are taking steps to assist and safeguard survivors of domestic violence when connected cars are used to stalk and abuse. And in March, we proposed to add a new “Missing and Endangered Persons” alert code to the nation’s Emergency Alert System to help law enforcement provide timely alerts to galvanize public attention to missing native and indigenous persons, as well as other groups. Law enforcement agencies have successfully used AMBER alerts on TV and radio to mobilize public attention and recover abducted children. We do not have a similar code dedicated to missing and endangered adults, particularly the thousands of missing native and indigenous women who have disappeared, never to be seen again."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0303::Saúde e deficiência",
+   "unit_id": "W0303",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "disabilities",
+     "forma_encontrada": "disabilities",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "deaf",
+     "forma_encontrada": "deaf",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5944,
+     "fim_corpo": 6645,
+     "trecho": "Now that the directly appropriated funding for that effort has been exhausted, the Commission needs to include the necessary resources for the National Broadband Map in its budget. Given the time, effort and money that went into getting it going, and the accountability for our Nation’s broadband programs that depend on it, we need to make certain that we have the resources to continue to update and maintain our maps into the future. Fourth, we are working to build an inclusive digital future by making connectivity more accessible. Last year, we kicked off a proceeding make the video conferencing services that have become ubiquitous more accessible to people with disabilities."
+    },
+    {
+     "inicio_corpo": 5944,
+     "fim_corpo": 6791,
+     "trecho": "Now that the directly appropriated funding for that effort has been exhausted, the Commission needs to include the necessary resources for the National Broadband Map in its budget. Given the time, effort and money that went into getting it going, and the accountability for our Nation’s broadband programs that depend on it, we need to make certain that we have the resources to continue to update and maintain our maps into the future. Fourth, we are working to build an inclusive digital future by making connectivity more accessible. Last year, we kicked off a proceeding make the video conferencing services that have become ubiquitous more accessible to people with disabilities. And next week, Commission will be voting on rules to improve video programming accessibility for individuals who are deaf and hard of hearing."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0303::Urbano e rural",
+   "unit_id": "W0303",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10507,
+     "fim_corpo": 11321,
+     "trecho": "This is important for our domestic security and also sends a signal to the world that going forward we will not support insecure equipment in essential infrastructure. Congress provided $1.9 billion to operate the Secure and Trusted Communications Networks Reimbursement Program through the Consolidated Appropriations Act of 2021. Unfortunately, as this Committee knows well, this amount is not enough to secure our networks; we currently face a more than $3.08 billion shortfall to fully reimburse participating carriers for removal, replacement and disposal of the problematic equipment. Unless we receive an additional appropriation, we can only provide forty cents on the dollar to those companies in reimbursement, which threatens our national security and risks the shutdown of rural networks."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0304::Saúde e deficiência",
+   "unit_id": "W0304",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Nathan Simington",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "deaf",
+     "forma_encontrada": "de a f",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5693,
+     "fim_corpo": 7031,
+     "trecho": "This voluntary program sets a high bar for the security of wireless devices. If manufacturers want to be eligible for the US Cyber Trust Mark, they will have to declare that they have taken every reasonable measure to create a secure device. They will have to commit to 5 a support period up front, and during that support period, they will have to diligently identify critical vulnerabilities in their products and promptly release updates correcting them. And I look forward to continuing to work with colleagues to figure out how to expand this program to computers, smartphones, routers, and other devices. My Commission colleagues also agreed to include a further notice of proposed rulemaking on the issue of how to handle devices that run software developed in hostile countries, that will receive updates deployed from or that can be controlled by servers in such countries, or that will store user data in those countries. Such devices are at high risk of being weaponized by hostile powers like China—and as a result, there is still so much more work to be done. * * * Chairman Latta, Vice Chair Carter, Ranking Member Matsui, and Members of the Subcommittee, I want to thank you again for holding this hearing and for the opportunity to testify. I look forward to answering your questions."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0305::Domicílio e arranjo familiar",
+   "unit_id": "W0305",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Basil Alwan",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 445,
+     "trecho": "ORAL TESTIMONY: U.S. HOUSE OF REPRESENTATIVES ENERGY & COMMERCE COMMITTEE; SUBCOMMITTEE ON COMMUNICATIONS & TECHNOLOGY Good morning. My name is Basil Alwan; CEO of Tarana Wireless. It's an honor to appear before leaders who each represent such diverse parts of our country, but all sharing a common purpose -- to efficiently and cost-effectively equip every American family with affordable, reliable, high speed, low latency broadband."
+    },
+    {
+     "inicio_corpo": 590,
+     "fim_corpo": 1561,
+     "trecho": "I don't presume everyone in this room is familiar with Tarana, so I will weave details about our technologies into the three key messages of my opening statement: Message One: Technology Advances. This is truly the case at Tarana, a pre-public company founded by a wireless industry veteran and three immigrant PhD Graduate Students in 2009 who had focused their PhD Thesis on how to equip impoverished villagers in Ghana with internet access. They got an \"A\" and started a company; because that's what we do in America. Fast forward 15 years and more than $400 million in privately funded R&D and they cracked the code on two of the fundamental challenges of legacy Fixed Wireless: * Breakthrough Technology One: The ability to reliably deliver very high-speed broadband, Non- Line-of-Sight, between a home or business and a tower. Why is this important? Four of every ﬁve U.S. families don't have direct Line of Sight between their home and a tower."
+    },
+    {
+     "inicio_corpo": 2243,
+     "fim_corpo": 3056,
+     "trecho": "We call this technology “Asynchronous Burst Interference Cancellation.\" -- a sophisticated type of \"noise cancellation.” We don't \"jam\" other signals. We just stop listening to other radio conversations, so we can focus on our own. Our interference cancellation technology also allows us to share and use spectrum incredibly efficiently – by a factor of 5x over existing wireless standards - which is fundamental to delivering ultra high-speed broadband in almost any situation. Our initial product, G1, has now been commercially available for three years. In that short time, Tarana has grown to serve communities in 26 countries and 47 states, through nearly 350 Internet Service Provider partners, with more than 20 million homes passed, adding more than 2,000 connected families every single week."
+    },
+    {
+     "inicio_corpo": 3056,
+     "fim_corpo": 3831,
+     "trecho": "Message Two: Finances are Finite --– Tarana delivers high-speed, low latency internet at one-tenth of the cost of ﬁber, while delivering ﬁber-class service with available plans up to 1Gx500Mbps. To be clear: we agree Fiber is fantastic. In fact, we depend on ﬁber for our backhaul. Service providers should use ﬁber wherever it makes sense. Yet when it's too costly, and takes too long to install, as is the case for many US communities due to topography or geography, then the solution should be \"Fiber-And\";. – leveraging another reliable technology that meets and preferably exceeds the standards. If we rely solely on one technology, we will run out of money long before we run out of American families who are depending on us to deliver universal service."
+    },
+    {
+     "inicio_corpo": 3575,
+     "fim_corpo": 4895,
+     "trecho": "– leveraging another reliable technology that meets and preferably exceeds the standards. If we rely solely on one technology, we will run out of money long before we run out of American families who are depending on us to deliver universal service. Message Three: Timely Deployments Matter -- Tarana's next generation Fixed Wireless Access networks are deployed in weeks or months; while trenched or aerial ﬁber often takes years. Please allow me to close with an invitation: We've been honored to visit several of your Districts for what we call \"Experiencing is Believing\" tours, where -- in about 60 minutes -- you can experience the technology, ask in-depth questions, speak directly with a local ISP serving your constituents and meet with families whose lives have often been transformed by this technology. Chair McMorris Rodgers, Chair Latta, Representatives Eshoo and Joyce --- thank you for allowing us to provide Live Tech Demos with you in your Districts. My invitation? We would like to arrange similar visits for each Committee Member in or near your Districts. You deserve to experience, ﬁrst-hand, American-Invented technologies that can be a part of the solution to bridge the digital divide for every American family -- in a cost-effective and time- efficient way. Thank you."
+    },
+    {
+     "inicio_corpo": 4017,
+     "fim_corpo": 4895,
+     "trecho": "Please allow me to close with an invitation: We've been honored to visit several of your Districts for what we call \"Experiencing is Believing\" tours, where -- in about 60 minutes -- you can experience the technology, ask in-depth questions, speak directly with a local ISP serving your constituents and meet with families whose lives have often been transformed by this technology. Chair McMorris Rodgers, Chair Latta, Representatives Eshoo and Joyce --- thank you for allowing us to provide Live Tech Demos with you in your Districts. My invitation? We would like to arrange similar visits for each Committee Member in or near your Districts. You deserve to experience, ﬁrst-hand, American-Invented technologies that can be a part of the solution to bridge the digital divide for every American family -- in a cost-effective and time- efficient way. Thank you."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0305::Escolaridade e letramento",
+   "unit_id": "W0305",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Basil Alwan",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "Students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 137,
+     "fim_corpo": 1044,
+     "trecho": "My name is Basil Alwan; CEO of Tarana Wireless. It's an honor to appear before leaders who each represent such diverse parts of our country, but all sharing a common purpose -- to efficiently and cost-effectively equip every American family with affordable, reliable, high speed, low latency broadband. That's the mission of Tarana Wireless, a next generation Fixed Wireless Access technology company both founded and headquartered in the U.S. I don't presume everyone in this room is familiar with Tarana, so I will weave details about our technologies into the three key messages of my opening statement: Message One: Technology Advances. This is truly the case at Tarana, a pre-public company founded by a wireless industry veteran and three immigrant PhD Graduate Students in 2009 who had focused their PhD Thesis on how to equip impoverished villagers in Ghana with internet access."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0305::Infraestrutura e porte populacional",
+   "unit_id": "W0305",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Basil Alwan",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "last mile",
+     "forma_encontrada": "Last Mile",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1044,
+     "fim_corpo": 1868,
+     "trecho": "They got an \"A\" and started a company; because that's what we do in America. Fast forward 15 years and more than $400 million in privately funded R&D and they cracked the code on two of the fundamental challenges of legacy Fixed Wireless: * Breakthrough Technology One: The ability to reliably deliver very high-speed broadband, Non- Line-of-Sight, between a home or business and a tower. Why is this important? Four of every ﬁve U.S. families don't have direct Line of Sight between their home and a tower. There are either permanent or temporary obstructions in the way. Yet our radios adapt to channel conditions 5,000 times every second along many paths, allowing for constant changes — like tree branches waving in the wind, trucks driving by your home, or rain, or snow. We all use the term \"Last Mile."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0305::Vínculo institucional",
+   "unit_id": "W0305",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Basil Alwan",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veteran",
+     "forma_encontrada": "veteran",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1044,
+     "trecho": "ORAL TESTIMONY: U.S. HOUSE OF REPRESENTATIVES ENERGY & COMMERCE COMMITTEE; SUBCOMMITTEE ON COMMUNICATIONS & TECHNOLOGY Good morning. My name is Basil Alwan; CEO of Tarana Wireless. It's an honor to appear before leaders who each represent such diverse parts of our country, but all sharing a common purpose -- to efficiently and cost-effectively equip every American family with affordable, reliable, high speed, low latency broadband. That's the mission of Tarana Wireless, a next generation Fixed Wireless Access technology company both founded and headquartered in the U.S. I don't presume everyone in this room is familiar with Tarana, so I will weave details about our technologies into the three key messages of my opening statement: Message One: Technology Advances. This is truly the case at Tarana, a pre-public company founded by a wireless industry veteran and three immigrant PhD Graduate Students in 2009 who had focused their PhD Thesis on how to equip impoverished villagers in Ghana with internet access."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0306::Domicílio e arranjo familiar",
+   "unit_id": "W0306",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Blair Levin",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "Families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 17830,
+     "fim_corpo": 18910,
+     "trecho": "So, to those who think the affordability directive is price regulation, let me say this: I know price regulation, price regulation was no friend of mine, and the affordability directive is no price regulation. There is another historical error critics make in attacking the affordability requirements. The affordability issue was not a problem until it became clear that the Affordable Connectivity Program (ACP) would expire. When that program was in place, everyone agreed on what would be affordable and not one was protesting the requirement. That expiration was a huge setback for the BEAD program. As an economic matter, it will reduce the value of the BEAD expenditures. As the consulting group BCG found, ACP reduces the subsidy needed to incentivize providers to build in rural areas by 25% per household, writing “the existence of ACP , which subsidizes subscriber service fees up to $360 per year, reduces the per-household subsidy required to incentive ISP 13 My memory is that they were signed by 34 Senators and 128 Members of the House of Representatives."
+    },
+    {
+     "inicio_corpo": 18041,
+     "fim_corpo": 18910,
+     "trecho": "There is another historical error critics make in attacking the affordability requirements. The affordability issue was not a problem until it became clear that the Affordable Connectivity Program (ACP) would expire. When that program was in place, everyone agreed on what would be affordable and not one was protesting the requirement. That expiration was a huge setback for the BEAD program. As an economic matter, it will reduce the value of the BEAD expenditures. As the consulting group BCG found, ACP reduces the subsidy needed to incentivize providers to build in rural areas by 25% per household, writing “the existence of ACP , which subsidizes subscriber service fees up to $360 per year, reduces the per-household subsidy required to incentive ISP 13 My memory is that they were signed by 34 Senators and 128 Members of the House of Representatives."
+    },
+    {
+     "inicio_corpo": 24383,
+     "fim_corpo": 25286,
+     "trecho": "Enforcement was always a thorny part of those contract negotiations. I have also observed years of the FCC grabbling with the problem that, as is true in many realms, a promise made is not a promise kept.22 Compliance is a problem with multiple trade-offs; if you mitigate one problem you likely expand another. I don’t want to go down that rabbit hole here, nor do I have a silver bullet, but I raise it to suggest that it would be a good thing to have an oversight hearing in which government and private officials can explain how they intend to address compliance problems and what the history of the last 20 years of FCC network subsidies has taught us about how to deal with them. If this committee wants to stay ahead of the problems, it will start asking questions about the compliance framework now. 20 This is not a novel idea. It is done by Canada with its Connecting Families program."
+    },
+    {
+     "inicio_corpo": 24453,
+     "fim_corpo": 25343,
+     "trecho": "I have also observed years of the FCC grabbling with the problem that, as is true in many realms, a promise made is not a promise kept.22 Compliance is a problem with multiple trade-offs; if you mitigate one problem you likely expand another. I don’t want to go down that rabbit hole here, nor do I have a silver bullet, but I raise it to suggest that it would be a good thing to have an oversight hearing in which government and private officials can explain how they intend to address compliance problems and what the history of the last 20 years of FCC network subsidies has taught us about how to deal with them. If this committee wants to stay ahead of the problems, it will start asking questions about the compliance framework now. 20 This is not a novel idea. It is done by Canada with its Connecting Families program. https://ised-isde.canada.ca/site/connecting-families/en."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0306::Idade",
+   "unit_id": "W0306",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Blair Levin",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2037,
+     "fim_corpo": 2957,
+     "trecho": "• These include, for example, workforce and supply chain issues. • The biggest challenge for BEAD will ultimately be compliance with the grant terms, an issue that has afflicted all such programs. • But the biggest concern in terms of the long-term commitment to make broadband universally available and affordable, for which BEAD plays a critical role, is the legal and economic threat to the current Universal Service Fund framework. Written Testimony Chair Rogers, Committee Chair Latta, Ranking Member Pallone and other members of the Subcommittee on Communications and Technology, thank you for inviting me to testify in today’s hearing, From Introduction to Implementation: A BEAD Program Progress Report.” My name is Blair Levin. I am the policy analyst with New Street Research, an equity research firm, and a Senior Non-Residential Fellow at the Metropolitan Policy Project of the Brookings Institution."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0306::Infraestrutura e porte populacional",
+   "unit_id": "W0306",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Blair Levin",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "high-cost area",
+     "forma_encontrada": "high-cost area",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved locations",
+     "forma_encontrada": "unserved locations",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "high-cost area",
+     "forma_encontrada": "high-cost area",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 451,
+     "fim_corpo": 1355,
+     "trecho": "• Requiring a new map, after the disastrous RDOF map, took more than half the time to date of the BEAD implementation. • Requiring plans to end the digital divide as BEAD is designed to do, rather than simply narrow it as prior programs were designed to do, is more difficult and time consuming. The criticism of BEAD implementation that characterizes implementing the Congressional directive to assure that the broadband service is affordable as price regulation is wrong as a matter of law and history. • As a matter of law, the correct interpretation is that the states cannot use BEAD to impose general price regulation on an ISP . But the states can, as part of the terms of the grant, require the service to be affordable. • As a matter of history, that is exactly what every FCC, under both Republican and Democratic leadership, has done when providing subsidies for high-cost area deployments."
+    },
+    {
+     "inicio_corpo": 5091,
+     "fim_corpo": 6656,
+     "trecho": "With BEAD, Congress did. While the map is an ongoing project, there were a lot of planning processes at the states and at NTIA that could not move forward without the initial map and challenge process being completed, which took more than half the time between the signing of the legislation and today. But I don’t want to blame the current FCC. The sad truth is that the prior Trump Administration FCC did not do its job in creating an up-to-date map. Chairman Pai blamed Congress for not providing him the funding necessary to develop an accurate map2 though Congress did eventually pass the DATA Act to enable that mapping.3 Why did Congress require the FCC to do a new map? It was due to the problems of having a bad map that became obvious with the FCC’s 2020 problematic RDOF auction. As Congress discovered when the RDOF auction was over, the FCC used a map that included as unserved locations where there was obviously already broadband coverage, such as in Fisherman’s Wharf in San Francisco, Apple headquarters, the Massachusetts Institute of Technology campus and several large airports including international hubs in Dallas-Fort Worth and San Francisco.4 Broadband expert Doug Dawson summarized it this way: “The crappy data in the maps created the disaster of the RDOF serving areas, which in many counties is best compared to Swiss cheese.”5 So, Congress made a reasonable judgement that as to the smaller Capital Projects program, Congress would use population to set a simple formula to determine how much each state would receive in funds."
+    },
+    {
+     "inicio_corpo": 9466,
+     "fim_corpo": 10272,
+     "trecho": "So, while the mapping effort caused nearly a 23-month delay, in the last 12 months things have been moving apace. The second reason Capital Projects could move more quickly than BEAD is that Congress only required Capital Projects to make progress while Congress asked the BEAD program to finish the job of connecting all Americans to broadband. Something BEAD critics do not appear to understand, but I know that everyone working in a state broadband office understands, is that it is much, much harder to have a plan that finishes the job than a plan designed to simply make progress. Capital Projects, like prior and other deployment programs such as RDOF and USDA’s ReConnect, allocates funding that everyone agrees is insufficient, and then makes incremental progress in connecting unserved areas."
+    },
+    {
+     "inicio_corpo": 14331,
+     "fim_corpo": 15216,
+     "trecho": "And, as I hope this Committee recognizes, members of Congress have complained that in sometimes, NTIA was acting too quickly.10 In short, Congress decided it was willing to sacrifice speed in BEAD implementation to avoid the many problems RDOF created. Another criticism of BEAD implementation involves the Congressional directive to assure that the broadband service is affordable, characterizing such efforts as price regulation. This is wrong both as a matter of law and history. As a matter of law, the correct interpretation is that the states cannot use BEAD to impose general price regulation on an ISP . But the states can, as part of the terms of the grant, require the service to be affordable. As a matter of history, that is exactly what every FCC, under both Republican and Democratic leadership, has done when providing subsidies for high-cost area deployments."
+    },
+    {
+     "inicio_corpo": 15841,
+     "fim_corpo": 16872,
+     "trecho": "There are legitimate disagreements about the nature of those contractual terms. But do not engage in the inaccurate fantasy that such price constraints are a new thing. 10 For example, Sen. Roger Marshall of Kansas described the FCC and NTIA’s timeline as “too aggressive” in a letter to the NTIA and requested that NTIA delay a deadline for submissions to the FCC’s broadband map for consideration in the BEAD allocation process and allow broadband providers, community leaders and residents an additional 90 days to submit challenges to the map. https://www.marshall.senate.gov/wp-content/uploads/NTIA-Broadband-Map-Delay.pdf 11 Certainly, this is true for the highest priority areas, classified as currently “unserved.” It is also likely to be true in the second-tier areas, classified as “underserved” as the BEAD subsidized network will either be a monopoly broadband provider or have such a performance advantage over others that a competitive analysis would classify the network as having pricing power like a monopoly."
+    },
+    {
+     "inicio_corpo": 15841,
+     "fim_corpo": 16872,
+     "trecho": "There are legitimate disagreements about the nature of those contractual terms. But do not engage in the inaccurate fantasy that such price constraints are a new thing. 10 For example, Sen. Roger Marshall of Kansas described the FCC and NTIA’s timeline as “too aggressive” in a letter to the NTIA and requested that NTIA delay a deadline for submissions to the FCC’s broadband map for consideration in the BEAD allocation process and allow broadband providers, community leaders and residents an additional 90 days to submit challenges to the map. https://www.marshall.senate.gov/wp-content/uploads/NTIA-Broadband-Map-Delay.pdf 11 Certainly, this is true for the highest priority areas, classified as currently “unserved.” It is also likely to be true in the second-tier areas, classified as “underserved” as the BEAD subsidized network will either be a monopoly broadband provider or have such a performance advantage over others that a competitive analysis would classify the network as having pricing power like a monopoly."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0306::Macrorregião",
+   "unit_id": "W0306",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Blair Levin",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8351,
+     "fim_corpo": 9240,
+     "trecho": "It is a mistake to think that states did nothing between November 2021, when the Infrastructure Bill was signed into law, and June 2023. In fact, the BEAD statute reflects several distinct phases of implementation: planning, program design and review; implementation, and evaluation. These time-limited phases came with clear requirements that were based on research of state programs and historic federal programs, as well as significant input from the telecommunications industry, to avoid mistakes of past federal programs and ensure that deployment strategies reflected the precision that was necessary to untangle the “Swiss cheese effect” that Dawson referred to. In the year since the NTIA has finalized the allocation, lots has happened. NTIA opened the window for states to file their plans for approval and has now approved the initial proposals of 34 states and territories."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0306::Posição no trabalho",
+   "unit_id": "W0306",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Blair Levin",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1182,
+     "fim_corpo": 2102,
+     "trecho": "• As a matter of history, that is exactly what every FCC, under both Republican and Democratic leadership, has done when providing subsidies for high-cost area deployments. • It is necessary to condition the government subsidy on an affordability requirement as the subsidy creates a monopoly. Monopolies price in ways that would make the service unaffordable to many, which would be contrary to Congressional intent. Further, the affordability issue would not be a problem if Congress had extended the Affordable Connectivity Program. • Congress would be wise to clearly authorize the FCC to make the National Verifier available to ISPs offering low-income programs, as that would serve the affordability goal and improve the economics of BEAD. There are other issues that will have a large impact on BEAD’s success that have been largely overlooked. • These include, for example, workforce and supply chain issues."
+    },
+    {
+     "inicio_corpo": 11113,
+     "fim_corpo": 11894,
+     "trecho": "This Committee should also ask itself, why, after decades of trusting the FCC to spend the Lion’s Share of government funds for rural deployments, did Congress suddenly decide not to give any funding to the FCC for the biggest deployment program ever? The answer is that Congress did not trust the FCC due to its perception of the RDOF auction. As broadband expert Carol Mattey noted “the fact that Congress chose to provide more than $40 billion to NTIA and $10 billion to Treasury for broadband demonstrates that Congress was not happy with the outcome of RDOF.”7 Further, the Committee and its colleagues should consider the other requirements Congress charged states with, such as addressing permitting barriers and the shortage in the construction workforce."
+    },
+    {
+     "inicio_corpo": 23273,
+     "fim_corpo": 24003,
+     "trecho": "Congress should encourage having the FCC take on the task—which it is better positioned than ISPs to do—of clarifying that the agency is authorized to operate the verifier for determining eligibility for ISP low-income programs.20 Finally, let me note that there are other critical issues that we are unlikely to get to today but that will play a big role in determining the fate of the BEAD program. For example, when my fellow panelist from Montana was asked what Montana’s biggest broadband challenge beyond geography was, she “referred to workforce and supply chain issues.”21 Based on my Wall Street research and conversations with state broadband offices, I know she speaks for many states in highlighting those issues."
+    }
+   ]
+  }
+ ]
+}

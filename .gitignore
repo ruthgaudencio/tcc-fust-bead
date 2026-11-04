@@ -1,0 +1,11 @@
+# Nada de PDF, documento de texto ou planilha neste repositório. O corpus em
+# PDF é volumoso e os artigos consultados são de terceiros.
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+
+__pycache__/
+*.pyc
+.DS_Store
+backup_*/

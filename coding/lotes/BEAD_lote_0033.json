@@ -1,0 +1,1002 @@
+{
+ "caso": "BEAD",
+ "lote": 33,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0131::Urbano e rural",
+   "unit_id": "W0131",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Ernest Moniz",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 55174,
+     "fim_corpo": 56187,
+     "trecho": "Transforming our Energy Systems: Regional Infrastructure Options are Critical Last, and perhaps most important for the members who represent varied constituencies across the country, we need to encourage and provide policy support for regional solutions to climate change and the associated infrastructure needs. EFI has undertaken multiple projects on regional decarbonization, including reports on California and New England (in collaboration with E3), and a forthcoming report on New York City (along with ICF and Drexel University). The resources, infrastructures, emissions profiles, innovation, and policy needs vary greatly by region of the country—a “one size fits all” approach to policy and financial support will likely impede, not accelerate progress towards deep decarbonization. EV charging infrastructures will, for example, look very different in both rural and urban areas, where the typical “suburban EV model mindset” and its associated infrastructure will have little relevance."
+    },
+    {
+     "inicio_corpo": 57833,
+     "fim_corpo": 59238,
+     "trecho": "Smart Community initiatives must be understood and guided by digitization as the foundation for economic growth and entrepreneurial activity. While important to focus on initial apps (e.g., smart streetlights), a critical focus should be ensuring the buildout and protection of the digital backbone infrastructure that is the basis for an entrepreneurial economy in cities and communities. This backbone starts with the integrated cutting-edge smart electricity and telecommunications systems linked to big data, sensors, real-time modeling, and artificial intelligence capabilities . The backbone infrastructure will provide unforeseen entrepreneuria l advances in the smart city/community and act as a magnet for talent. In addition, all these issues and considerations must accommodate regional, state, and local needs and differences, including urban and rural differences. ______________________________________ Mr. Chairman, Ranking Member Rodgers, members of the Committee, I appreciate the opportunity to testify today on critical energy infrastructure issues. The Lift America Act is a very important and necessary step towards supporting the infrastructure we need for deep decarbonization of energy systems and consuming sectors and for building resilience into our infrastructures in anticipation of increasingly extreme weather patterns. I look forward to your questions."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0132::Domicílio e arranjo familiar",
+   "unit_id": "W0132",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 510,
+     "fim_corpo": 1120,
+     "trecho": "1848, the “LIFT America Act”, and efforts to expand broadband deployment for all Americans. It is a pleasure to return to where my career began, even if only virtually. I also extend my appreciation for your continued public service to our nation, despite the unfair and inappropriate criticism often laid before this body. The availability of high-speed Internet allows users around the world to communicate, learn, work, conduct commerce, and so much more. These benefits have never been more apparent than during the Covid-19 pandemic when American families have been isolated and quarantined."
+    },
+    {
+     "inicio_corpo": 1702,
+     "fim_corpo": 2568,
+     "trecho": "Reports and anecdotal evidence suggest that companies experienced usage increases of 30 to 50 percent compared to the pre-Covid time period. In contrast to other nations, American broadband providers performed incredibly well, never seeking measures to stymie Internet consumption or reduce speeds in order to minimize challenges to overall network sustainability. It is because of industry’s foresight and network advances in prior years that U.S. broadband networks were generally able to sustain these capacity demands. And, the industry should be duly credited for forgoing revenue and fees during the Covid-19 crisis to ensure connectivity to subscribers in financial need, as part of voluntary pledges to the government. Despite dedicated efforts, there is no dispute that millions of American households are still without access to broadband."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0132::Educação",
+   "unit_id": "W0132",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5475,
+     "fim_corpo": 6462,
+     "trecho": "Problems with Poorly Designed Programs While I sincerely hope that all funding streams accomplish their stated goals, I have concerns about how certain mechanisms have been administered in the past and worry about their potential to undercut the nation’s progress in the future. Specifically, there is a major risk that some of the new programs and those being contemplated will lead to subsidized overbuilding, which is not only wasteful, but significantly discourages private sector investment and deployment. It can also threaten the viability of smaller providers, especially in areas that are already receiving federal broadband subsidies. For instance, if a new, competing subsidy program attracts the business of the local school, hospital, and/or large employer, it can completely and artificially skew the economics for maintaining and upgrading existing broadband networks, potentially jeopardizing small providers’ abilities to serve residential consumers."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0132::Infraestrutura e porte populacional",
+   "unit_id": "W0132",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2073,
+     "fim_corpo": 2805,
+     "trecho": "It is because of industry’s foresight and network advances in prior years that U.S. broadband networks were generally able to sustain these capacity demands. And, the industry should be duly credited for forgoing revenue and fees during the Covid-19 crisis to ensure connectivity to subscribers in financial need, as part of voluntary pledges to the government. Despite dedicated efforts, there is no dispute that millions of American households are still without access to broadband. Thankfully, this situation is improving. While the exact number of locations without access is currently uncertain, largely due to a problem with broadband mapping, the number of unserved Americans continues to shrink precipitously."
+    },
+    {
+     "inicio_corpo": 2073,
+     "fim_corpo": 2931,
+     "trecho": "It is because of industry’s foresight and network advances in prior years that U.S. broadband networks were generally able to sustain these capacity demands. And, the industry should be duly credited for forgoing revenue and fees during the Covid-19 crisis to ensure connectivity to subscribers in financial need, as part of voluntary pledges to the government. Despite dedicated efforts, there is no dispute that millions of American households are still without access to broadband. Thankfully, this situation is improving. While the exact number of locations without access is currently uncertain, largely due to a problem with broadband mapping, the number of unserved Americans continues to shrink precipitously. More work nonetheless remains. Experience has shown that there are two leading ways to extend broadband to the unserved."
+    },
+    {
+     "inicio_corpo": 2158,
+     "fim_corpo": 3108,
+     "trecho": "broadband networks were generally able to sustain these capacity demands. And, the industry should be duly credited for forgoing revenue and fees during the Covid-19 crisis to ensure connectivity to subscribers in financial need, as part of voluntary pledges to the government. Despite dedicated efforts, there is no dispute that millions of American households are still without access to broadband. Thankfully, this situation is improving. While the exact number of locations without access is currently uncertain, largely due to a problem with broadband mapping, the number of unserved Americans continues to shrink precipitously. More work nonetheless remains. Experience has shown that there are two leading ways to extend broadband to the unserved. First, it is through very targeted, well thought-out subsidy programs that focus directly on unserved Americans and exclude areas that the private sector is already serving."
+    },
+    {
+     "inicio_corpo": 5763,
+     "fim_corpo": 6620,
+     "trecho": "Specifically, there is a major risk that some of the new programs and those being contemplated will lead to subsidized overbuilding, which is not only wasteful, but significantly discourages private sector investment and deployment. It can also threaten the viability of smaller providers, especially in areas that are already receiving federal broadband subsidies. For instance, if a new, competing subsidy program attracts the business of the local school, hospital, and/or large employer, it can completely and artificially skew the economics for maintaining and upgrading existing broadband networks, potentially jeopardizing small providers’ abilities to serve residential consumers. Equally important, government spending on served or scheduled to be served areas siphons the ability to address the those Americans who are truly unserved."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0132::Raça e etnia",
+   "unit_id": "W0132",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "minority",
+     "forma_encontrada": "minority",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3259,
+     "fim_corpo": 4503,
+     "trecho": "Second, barriers to private sector deployment must be reduced or completely eliminated. Respectfully, for these reasons I find the LIFT America Act severely lacking. On the positive side, I appreciate efforts by the Committee to continue to exclude state and local government 9-1-1 fee diverters from receiving any of the new federal grant monies identified for modernizing 9-1-1 networks. The current diverting states, specifically New York, New Jersey, Rhode 2 Island, and Nevada, should remain completely ineligible, until they stop stealing consumer-paid 9-1-1 fees for other purposes. Current Federal Efforts Over the last several decades, the Federal Communications Commission has taken many steps to facilitate broadband deployment and greater access. During my tenure at the agency in both minority and majority capacities, I helped spearhead efforts to reform and modernize the Connect America Fund, permit standalone broadband offerings by rate-of-return providers, introduce the Alternative Connect America cost Model (ACAM), formulate and initiate reverse auctions to promote efficient use of subsidies, craft the Rural Digital Opportunity Fund, and introduce many other Universal Service Fund reforms."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0132::Saúde",
+   "unit_id": "W0132",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 510,
+     "fim_corpo": 1268,
+     "trecho": "1848, the “LIFT America Act”, and efforts to expand broadband deployment for all Americans. It is a pleasure to return to where my career began, even if only virtually. I also extend my appreciation for your continued public service to our nation, despite the unfair and inappropriate criticism often laid before this body. The availability of high-speed Internet allows users around the world to communicate, learn, work, conduct commerce, and so much more. These benefits have never been more apparent than during the Covid-19 pandemic when American families have been isolated and quarantined. In fact, in some instances, including access to telemedicine/telehealth or testing and vaccine information, the technology has been a lifesaver."
+    },
+    {
+     "inicio_corpo": 5475,
+     "fim_corpo": 6462,
+     "trecho": "Problems with Poorly Designed Programs While I sincerely hope that all funding streams accomplish their stated goals, I have concerns about how certain mechanisms have been administered in the past and worry about their potential to undercut the nation’s progress in the future. Specifically, there is a major risk that some of the new programs and those being contemplated will lead to subsidized overbuilding, which is not only wasteful, but significantly discourages private sector investment and deployment. It can also threaten the viability of smaller providers, especially in areas that are already receiving federal broadband subsidies. For instance, if a new, competing subsidy program attracts the business of the local school, hospital, and/or large employer, it can completely and artificially skew the economics for maintaining and upgrading existing broadband networks, potentially jeopardizing small providers’ abilities to serve residential consumers."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0132::Urbano e rural",
+   "unit_id": "W0132",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3658,
+     "fim_corpo": 4503,
+     "trecho": "The current diverting states, specifically New York, New Jersey, Rhode 2 Island, and Nevada, should remain completely ineligible, until they stop stealing consumer-paid 9-1-1 fees for other purposes. Current Federal Efforts Over the last several decades, the Federal Communications Commission has taken many steps to facilitate broadband deployment and greater access. During my tenure at the agency in both minority and majority capacities, I helped spearhead efforts to reform and modernize the Connect America Fund, permit standalone broadband offerings by rate-of-return providers, introduce the Alternative Connect America cost Model (ACAM), formulate and initiate reverse auctions to promote efficient use of subsidies, craft the Rural Digital Opportunity Fund, and introduce many other Universal Service Fund reforms."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0133::Administração pública",
+   "unit_id": "W0133",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Tom Wheeler",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 18646,
+     "fim_corpo": 19586,
+     "trecho": "Unfortunately, five years after the creation of the Verifier it still has not been implemented in all 50 states. The LIFT Act identifies that as a problem and orders that the necessary integration and cooperation occur. PROMOTING COMPETITION, TRANSPARENCY AND PUBLIC SAFETY There are numerous other important initiatives in the LIFT Act that are worthy of support including: innovative loan programs administered by NTIA; collection of data, including pricing data, to determine network resiliency; E-Rate support for school bus WiFi; and requiring open access to the networks that are constructed with federal funds. There are three specific provisions that I want to close this testimony by emphasizing: Non-Corporate Broadband – For too long there have existed anti-competition, anti-consumer state laws that prohibit local governments, public-private partnerships and cooperatives from delivering broadband service."
+    },
+    {
+     "inicio_corpo": 20635,
+     "fim_corpo": 22083,
+     "trecho": "Its implementation unfortunately was a casualty of the change in administration. The goal of the label was to help consumers understand what they were buying. In that regard, it is not only similar to food label information, but also the financial information required on every credit card statement. This format has been developed, coordinated with the agency’s consumer advisory committee, and is ready to go. Next Generation 9-1-1 – As I conclude, I must address one extremely important component of the LIFT Act: the authorization of $15 billion in grants for the deployment of next generation 9- 13 1-1 (NG911). Every time I testified before this committee as Chairman, I made it a point to talk about the need to bring 9-1-1 into the digital age and how that required funding support for local governments and public safety agencies. The LIFT Act will not only connect Americans to the most important network of the 21st century, but it will also save lives. ** Mr. Chairman and members of the Committee, this bold initiative has been a long time coming. It creates the opportunity to finally address the internet inadequacy on a holistic rather than piecemeal basis. It will make lives better for students and seniors. It will boost the economy by making available everywhere the services we have come to rely on during COVID. It will create jobs and invest in America’s future. This is a great step forward."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0133::Domicílio e arranjo familiar",
+   "unit_id": "W0133",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Tom Wheeler",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1104,
+     "fim_corpo": 2259,
+     "trecho": "The internet is the most powerful platform in the history of the planet. Unfortunately, it is not yet pervasive. COVID has made us re-appreciate the things the internet allows us to accomplish. COVID has also identified the adverse effects arising from the absence of adequate high-speed broadband, whether it is unavailable, inadequate, or too expensive. Just look at the headlines: “Why rural Americans are having a hard time working from home” CNN 4.29.20 “America’s Terrible Internet Is Making Quarantine Worse” The Atlantic 8.17.20 “School sends California family a hotspot after students went to Taco Bell to use their free WiFi” CNN 8.31.20 “The latest crisis: Low-income students are dropping out of college this fall in alarming numbers Many low-income students say they don’t have good enough WiFi at home to take online classes” Washington Post 9.16.20 “A year into the pandemic, thousands of students still can’t get reliable WiFi for school” USA Today 2.4.21 2 Members of the committee, examples like this are not an example of the Digital Divide, they tell the story of a Digital Chasm."
+    },
+    {
+     "inicio_corpo": 3888,
+     "fim_corpo": 4769,
+     "trecho": "The LIFT Act – wisely, I believe – goes beyond that to prioritize gigabit service. 3 It was during my tenure that the FCC voted to increase the definition of “broadband” to 25 Mbps into the location (the so-called “down” speed) and 3 Mbps out (“up”). The previous standard had been 4 Mbps down and 1 Mbps up. At the time I described the new definitions as the minimum “table stakes” for viable internet speed. Today, half a dozen years later, that speed is completely unacceptable. It is not adequate for today, and certainly is far from adequate for tomorrow. According to the Bandwidth Calculator of the non-profit organization Broadband Now, the amount necessary for a family of four, each with their own smartphone, sharing two laptops, two TVs, two tablets, one game console and a smart home device such as Alexa requires a service of 108 Mbps downstream."
+    },
+    {
+     "inicio_corpo": 14786,
+     "fim_corpo": 15552,
+     "trecho": "The Reagan administration’s decision to pay $9.25 per month to subsidize basic telephone service meant that everyone would be able to call 9-1-1. It was called “Lifeline” service, but it was limited to what was known at the time – i.e., “telephone” service. In 2016, the FCC expanded Lifeline to subsidize low-income broadband service, both wired and wireless. The problem was that the $9.25 subsidy does not go very far when it comes to helping pay for a broadband connection that averages almost $70 per month. According to Pew Research there is a 36 point gap in broadband penetration between the 92 percent of adults in households earning $75,000 or more with broadband, and the 56 percent of adults in households earning less than $30,000 annually."
+    },
+    {
+     "inicio_corpo": 14786,
+     "fim_corpo": 15552,
+     "trecho": "The Reagan administration’s decision to pay $9.25 per month to subsidize basic telephone service meant that everyone would be able to call 9-1-1. It was called “Lifeline” service, but it was limited to what was known at the time – i.e., “telephone” service. In 2016, the FCC expanded Lifeline to subsidize low-income broadband service, both wired and wireless. The problem was that the $9.25 subsidy does not go very far when it comes to helping pay for a broadband connection that averages almost $70 per month. According to Pew Research there is a 36 point gap in broadband penetration between the 92 percent of adults in households earning $75,000 or more with broadband, and the 56 percent of adults in households earning less than $30,000 annually."
+    },
+    {
+     "inicio_corpo": 15552,
+     "fim_corpo": 16325,
+     "trecho": "A Benton Foundation study found low-income Americans can afford about $10 per month for broadband service. Providers of smartphone-based services have been able to price below this benchmark and to make a business out of the $9.25 subsidy, but that service is weak tea compared to fiber, with slower data speeds, data caps that limit internet usage, and devices with small screens and tiny keyboards. 10 Emergency Broadband Benefit Program – When Congress created the Emergency Broadband Benefit Program (EBB), it helped break out of the Lifeline conundrum. Authorizing and funding the FCC to provide up to $50 per month in broadband support for eligible households put an end to shoehorning broadband support into a program designed for another purpose."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0133::Educação",
+   "unit_id": "W0133",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Tom Wheeler",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 557,
+     "trecho": "0 Written Testimony of Tom Wheeler Visiting Fellow, Brookings Institution Senior Fellow, Harvard Kennedy School Before the Congress of the United States House of Representatives Committee on Energy & Commerce LIFT America: Revitalizing our Nation’s Infrastructure and Economy March 22, 2021 1 Chairman Pallone, Ranking Member McMorris Rodgers, Members of the Committee, it is a privilege to appear before you again."
+    },
+    {
+     "inicio_corpo": 790,
+     "fim_corpo": 2259,
+     "trecho": "Because it departs from the disconnects resulting from trying to make internet era realities work within telephone era concepts, LIFT is an historic opportunity for all Americans to redefine their expectations about the high-speed broadband service that is necessary to experience the benefits of the internet. The internet is the most powerful platform in the history of the planet. Unfortunately, it is not yet pervasive. COVID has made us re-appreciate the things the internet allows us to accomplish. COVID has also identified the adverse effects arising from the absence of adequate high-speed broadband, whether it is unavailable, inadequate, or too expensive. Just look at the headlines: “Why rural Americans are having a hard time working from home” CNN 4.29.20 “America’s Terrible Internet Is Making Quarantine Worse” The Atlantic 8.17.20 “School sends California family a hotspot after students went to Taco Bell to use their free WiFi” CNN 8.31.20 “The latest crisis: Low-income students are dropping out of college this fall in alarming numbers Many low-income students say they don’t have good enough WiFi at home to take online classes” Washington Post 9.16.20 “A year into the pandemic, thousands of students still can’t get reliable WiFi for school” USA Today 2.4.21 2 Members of the committee, examples like this are not an example of the Digital Divide, they tell the story of a Digital Chasm."
+    },
+    {
+     "inicio_corpo": 1223,
+     "fim_corpo": 2259,
+     "trecho": "COVID has made us re-appreciate the things the internet allows us to accomplish. COVID has also identified the adverse effects arising from the absence of adequate high-speed broadband, whether it is unavailable, inadequate, or too expensive. Just look at the headlines: “Why rural Americans are having a hard time working from home” CNN 4.29.20 “America’s Terrible Internet Is Making Quarantine Worse” The Atlantic 8.17.20 “School sends California family a hotspot after students went to Taco Bell to use their free WiFi” CNN 8.31.20 “The latest crisis: Low-income students are dropping out of college this fall in alarming numbers Many low-income students say they don’t have good enough WiFi at home to take online classes” Washington Post 9.16.20 “A year into the pandemic, thousands of students still can’t get reliable WiFi for school” USA Today 2.4.21 2 Members of the committee, examples like this are not an example of the Digital Divide, they tell the story of a Digital Chasm."
+    },
+    {
+     "inicio_corpo": 18408,
+     "fim_corpo": 19278,
+     "trecho": "A key component of the Verifier is the ability to coordinate its efforts with already existent databases used to validate participation in other federal support programs such as the Supplemental Nutrition Assistance Program (SNAP). Unfortunately, five years after the creation of the Verifier it still has not been implemented in all 50 states. The LIFT Act identifies that as a problem and orders that the necessary integration and cooperation occur. PROMOTING COMPETITION, TRANSPARENCY AND PUBLIC SAFETY There are numerous other important initiatives in the LIFT Act that are worthy of support including: innovative loan programs administered by NTIA; collection of data, including pricing data, to determine network resiliency; E-Rate support for school bus WiFi; and requiring open access to the networks that are constructed with federal funds."
+    },
+    {
+     "inicio_corpo": 19586,
+     "fim_corpo": 20454,
+     "trecho": "These laws were passed by state legislatures and have had the effects of denying the benefits of competition to citizens. The LIFT Act appropriately preempts these anti-competitive statutes. Pricing and Information Transparency – One of the lessons we learned in the reform of the E- rate program was the importance of transparency about pricing. The market is a wonderful enforcer if the purchaser is well informed and, for instance, knows what others are paying for a service. The LIFT Act would promote transparency for consumer broadband prices by requiring the FCC to collect from service providers data about the price of broadband service plans and 12 subscription rates. One of the reasons the per Mbps price for E-rate services declined by 90 percent was the mandatory transparency that allowed school districts to know what others were paying."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0133::Escolaridade e letramento",
+   "unit_id": "W0133",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Tom Wheeler",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1104,
+     "fim_corpo": 2259,
+     "trecho": "The internet is the most powerful platform in the history of the planet. Unfortunately, it is not yet pervasive. COVID has made us re-appreciate the things the internet allows us to accomplish. COVID has also identified the adverse effects arising from the absence of adequate high-speed broadband, whether it is unavailable, inadequate, or too expensive. Just look at the headlines: “Why rural Americans are having a hard time working from home” CNN 4.29.20 “America’s Terrible Internet Is Making Quarantine Worse” The Atlantic 8.17.20 “School sends California family a hotspot after students went to Taco Bell to use their free WiFi” CNN 8.31.20 “The latest crisis: Low-income students are dropping out of college this fall in alarming numbers Many low-income students say they don’t have good enough WiFi at home to take online classes” Washington Post 9.16.20 “A year into the pandemic, thousands of students still can’t get reliable WiFi for school” USA Today 2.4.21 2 Members of the committee, examples like this are not an example of the Digital Divide, they tell the story of a Digital Chasm."
+    },
+    {
+     "inicio_corpo": 1104,
+     "fim_corpo": 2259,
+     "trecho": "The internet is the most powerful platform in the history of the planet. Unfortunately, it is not yet pervasive. COVID has made us re-appreciate the things the internet allows us to accomplish. COVID has also identified the adverse effects arising from the absence of adequate high-speed broadband, whether it is unavailable, inadequate, or too expensive. Just look at the headlines: “Why rural Americans are having a hard time working from home” CNN 4.29.20 “America’s Terrible Internet Is Making Quarantine Worse” The Atlantic 8.17.20 “School sends California family a hotspot after students went to Taco Bell to use their free WiFi” CNN 8.31.20 “The latest crisis: Low-income students are dropping out of college this fall in alarming numbers Many low-income students say they don’t have good enough WiFi at home to take online classes” Washington Post 9.16.20 “A year into the pandemic, thousands of students still can’t get reliable WiFi for school” USA Today 2.4.21 2 Members of the committee, examples like this are not an example of the Digital Divide, they tell the story of a Digital Chasm."
+    },
+    {
+     "inicio_corpo": 1104,
+     "fim_corpo": 2259,
+     "trecho": "The internet is the most powerful platform in the history of the planet. Unfortunately, it is not yet pervasive. COVID has made us re-appreciate the things the internet allows us to accomplish. COVID has also identified the adverse effects arising from the absence of adequate high-speed broadband, whether it is unavailable, inadequate, or too expensive. Just look at the headlines: “Why rural Americans are having a hard time working from home” CNN 4.29.20 “America’s Terrible Internet Is Making Quarantine Worse” The Atlantic 8.17.20 “School sends California family a hotspot after students went to Taco Bell to use their free WiFi” CNN 8.31.20 “The latest crisis: Low-income students are dropping out of college this fall in alarming numbers Many low-income students say they don’t have good enough WiFi at home to take online classes” Washington Post 9.16.20 “A year into the pandemic, thousands of students still can’t get reliable WiFi for school” USA Today 2.4.21 2 Members of the committee, examples like this are not an example of the Digital Divide, they tell the story of a Digital Chasm."
+    },
+    {
+     "inicio_corpo": 1182,
+     "fim_corpo": 2259,
+     "trecho": "Unfortunately, it is not yet pervasive. COVID has made us re-appreciate the things the internet allows us to accomplish. COVID has also identified the adverse effects arising from the absence of adequate high-speed broadband, whether it is unavailable, inadequate, or too expensive. Just look at the headlines: “Why rural Americans are having a hard time working from home” CNN 4.29.20 “America’s Terrible Internet Is Making Quarantine Worse” The Atlantic 8.17.20 “School sends California family a hotspot after students went to Taco Bell to use their free WiFi” CNN 8.31.20 “The latest crisis: Low-income students are dropping out of college this fall in alarming numbers Many low-income students say they don’t have good enough WiFi at home to take online classes” Washington Post 9.16.20 “A year into the pandemic, thousands of students still can’t get reliable WiFi for school” USA Today 2.4.21 2 Members of the committee, examples like this are not an example of the Digital Divide, they tell the story of a Digital Chasm."
+    },
+    {
+     "inicio_corpo": 13626,
+     "fim_corpo": 14507,
+     "trecho": "One calculation, using Census Bureau data, estimated nearly 80 percent of those without broadband in their home have it available outside their door but choose not to use it. A Pew Research report found the biggest reason for this is that the monthly cost is “too expensive.” 9 There are more – by some estimates multiple times more – Americans who have broadband passing their residence but do not use it as there are unserved Americans. A recent study found 40 percent of US seniors lack sufficient broadband. This occurs at precisely the moment when you need the internet to sign up for a COVID vaccination, telehealth is of increased importance, safe shopping means online shopping, and social interaction is confined to video services. At the other end of the age spectrum, almost 10 million students do not have the home internet needed for distance learning."
+    },
+    {
+     "inicio_corpo": 21056,
+     "fim_corpo": 22083,
+     "trecho": "Next Generation 9-1-1 – As I conclude, I must address one extremely important component of the LIFT Act: the authorization of $15 billion in grants for the deployment of next generation 9- 13 1-1 (NG911). Every time I testified before this committee as Chairman, I made it a point to talk about the need to bring 9-1-1 into the digital age and how that required funding support for local governments and public safety agencies. The LIFT Act will not only connect Americans to the most important network of the 21st century, but it will also save lives. ** Mr. Chairman and members of the Committee, this bold initiative has been a long time coming. It creates the opportunity to finally address the internet inadequacy on a holistic rather than piecemeal basis. It will make lives better for students and seniors. It will boost the economy by making available everywhere the services we have come to rely on during COVID. It will create jobs and invest in America’s future. This is a great step forward."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0133::Idade",
+   "unit_id": "W0133",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Tom Wheeler",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "seniors",
+     "forma_encontrada": "seniors",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "seniors",
+     "forma_encontrada": "seniors",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 557,
+     "trecho": "0 Written Testimony of Tom Wheeler Visiting Fellow, Brookings Institution Senior Fellow, Harvard Kennedy School Before the Congress of the United States House of Representatives Committee on Energy & Commerce LIFT America: Revitalizing our Nation’s Infrastructure and Economy March 22, 2021 1 Chairman Pallone, Ranking Member McMorris Rodgers, Members of the Committee, it is a privilege to appear before you again."
+    },
+    {
+     "inicio_corpo": 13286,
+     "fim_corpo": 14149,
+     "trecho": "Third, the need for results is immediate; waiting for multiple years to see if bidders deliver is unacceptable. And there need to be consequences for promises not kept. BROADBAND ADOPTION The other great failure of our national policy is how low-income Americans may have broadband passing their door, but do not bring it inside. One calculation, using Census Bureau data, estimated nearly 80 percent of those without broadband in their home have it available outside their door but choose not to use it. A Pew Research report found the biggest reason for this is that the monthly cost is “too expensive.” 9 There are more – by some estimates multiple times more – Americans who have broadband passing their residence but do not use it as there are unserved Americans. A recent study found 40 percent of US seniors lack sufficient broadband."
+    },
+    {
+     "inicio_corpo": 21056,
+     "fim_corpo": 22083,
+     "trecho": "Next Generation 9-1-1 – As I conclude, I must address one extremely important component of the LIFT Act: the authorization of $15 billion in grants for the deployment of next generation 9- 13 1-1 (NG911). Every time I testified before this committee as Chairman, I made it a point to talk about the need to bring 9-1-1 into the digital age and how that required funding support for local governments and public safety agencies. The LIFT Act will not only connect Americans to the most important network of the 21st century, but it will also save lives. ** Mr. Chairman and members of the Committee, this bold initiative has been a long time coming. It creates the opportunity to finally address the internet inadequacy on a holistic rather than piecemeal basis. It will make lives better for students and seniors. It will boost the economy by making available everywhere the services we have come to rely on during COVID. It will create jobs and invest in America’s future. This is a great step forward."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0133::Infraestrutura e porte populacional",
+   "unit_id": "W0133",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Tom Wheeler",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved locations",
+     "forma_encontrada": "unserved locations",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved locations",
+     "forma_encontrada": "unserved locations",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved locations",
+     "forma_encontrada": "unserved locations",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2259,
+     "fim_corpo": 2793,
+     "trecho": "Crossing that chasm means expanding support for both broadband deployment and adoption. BROADBAND DEPLOYMENT This legislation authorizes $80 billion for broadband deployment – and it does it in a manner similar to how our nation deployed another network, the interstate highway system: with “pay for it once” grants. For too long we have been stuck with 1930s thinking about subsidies to operating companies. What worked for electricity and telephones, however, has failed to deliver high-speed internet to unserved areas."
+    },
+    {
+     "inicio_corpo": 7266,
+     "fim_corpo": 7935,
+     "trecho": "While both Moore’s Law and Keck’s Law may be slowing from their exponential pace, applying increased processing to the data flowing through a conduit that itself has increasing capacity is the definition of futureproofing. This chart is revealing about how the capacity of fiber has continued to grow over the years along the lines of Moore’s Law – a phenomenon that policy should embrace. Pay for Buildout Once – The LIFT Act wisely chooses a “pay once” strategy to subsidize broadband construction. In a January 2017 analysis, the FCC calculated that a one-time $80 billion payment would build out fiber-to-the-premise (FTTP) to all unserved locations."
+    },
+    {
+     "inicio_corpo": 7266,
+     "fim_corpo": 8187,
+     "trecho": "While both Moore’s Law and Keck’s Law may be slowing from their exponential pace, applying increased processing to the data flowing through a conduit that itself has increasing capacity is the definition of futureproofing. This chart is revealing about how the capacity of fiber has continued to grow over the years along the lines of Moore’s Law – a phenomenon that policy should embrace. Pay for Buildout Once – The LIFT Act wisely chooses a “pay once” strategy to subsidize broadband construction. In a January 2017 analysis, the FCC calculated that a one-time $80 billion payment would build out fiber-to-the-premise (FTTP) to all unserved locations. Significantly, about half that amount could build FTTP to 85 percent of unserved locations (so that approximately 98 percent of all locations in the nation would have broadband service) and that construction could become a self-sustaining business."
+    },
+    {
+     "inicio_corpo": 8639,
+     "fim_corpo": 9619,
+     "trecho": "Figure 1: Estimated cumulative investment required to increase fixed broadband deployment from the current 86% to 100% of U.S. locations. Source: www.fcc.gov/general/connect-america-fund-phase-ii-models (last visited January 16, 2017). This study demonstrates how it is possible to build broadband like we build highways: figure out what it costs and pay a qualified workforce once. While this study has not been updated, it remains a fair estimate of the total amount required for the policies in the LIFT Act to be implemented. While there have been expenditures and appropriations since 2017, the $80 billion number remains a rational forecast. This is because while the 2017 study used the best maps available at the time, as this committee knows those maps were seriously flawed and underestimated unserved areas by assuming that if one location in a census block could get broadband service, then the entire census block had broadband service available."
+    },
+    {
+     "inicio_corpo": 8883,
+     "fim_corpo": 9774,
+     "trecho": "This study demonstrates how it is possible to build broadband like we build highways: figure out what it costs and pay a qualified workforce once. While this study has not been updated, it remains a fair estimate of the total amount required for the policies in the LIFT Act to be implemented. While there have been expenditures and appropriations since 2017, the $80 billion number remains a rational forecast. This is because while the 2017 study used the best maps available at the time, as this committee knows those maps were seriously flawed and underestimated unserved areas by assuming that if one location in a census block could get broadband service, then the entire census block had broadband service available. It would be unrealistic for the new maps ordered by this committee in the 2020 Broadband DATA Act to not identify significantly more unserved locations."
+    },
+    {
+     "inicio_corpo": 9036,
+     "fim_corpo": 9937,
+     "trecho": "While this study has not been updated, it remains a fair estimate of the total amount required for the policies in the LIFT Act to be implemented. While there have been expenditures and appropriations since 2017, the $80 billion number remains a rational forecast. This is because while the 2017 study used the best maps available at the time, as this committee knows those maps were seriously flawed and underestimated unserved areas by assuming that if one location in a census block could get broadband service, then the entire census block had broadband service available. It would be unrealistic for the new maps ordered by this committee in the 2020 Broadband DATA Act to not identify significantly more unserved locations. Another adjustment to the 2017 estimate would be the Act’s wise expansion of target areas to include not just unserved areas, but also “low tier” service areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0133::Posição no trabalho",
+   "unit_id": "W0133",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Tom Wheeler",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8187,
+     "fim_corpo": 9036,
+     "trecho": "The final $40 billion would build out the final 15 percent (or two percent of all locations), but would require an ongoing operational 1 Such a policy is consistent with the hybrid fiber-coax (HFC) strategy of cable systems’ DOCSIS 4.0 and its 10 Gbps down/6 Gbps up capability https://www.cablelabs.com/technologies/docsis-4-0-technology 6 subsidy estimated at around $2 billion annually (or about half the current High Cost Fund subsidy). Figure 1: Estimated cumulative investment required to increase fixed broadband deployment from the current 86% to 100% of U.S. locations. Source: www.fcc.gov/general/connect-america-fund-phase-ii-models (last visited January 16, 2017). This study demonstrates how it is possible to build broadband like we build highways: figure out what it costs and pay a qualified workforce once."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0133::Renda e classe",
+   "unit_id": "W0133",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Tom Wheeler",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "Low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1104,
+     "fim_corpo": 2259,
+     "trecho": "The internet is the most powerful platform in the history of the planet. Unfortunately, it is not yet pervasive. COVID has made us re-appreciate the things the internet allows us to accomplish. COVID has also identified the adverse effects arising from the absence of adequate high-speed broadband, whether it is unavailable, inadequate, or too expensive. Just look at the headlines: “Why rural Americans are having a hard time working from home” CNN 4.29.20 “America’s Terrible Internet Is Making Quarantine Worse” The Atlantic 8.17.20 “School sends California family a hotspot after students went to Taco Bell to use their free WiFi” CNN 8.31.20 “The latest crisis: Low-income students are dropping out of college this fall in alarming numbers Many low-income students say they don’t have good enough WiFi at home to take online classes” Washington Post 9.16.20 “A year into the pandemic, thousands of students still can’t get reliable WiFi for school” USA Today 2.4.21 2 Members of the committee, examples like this are not an example of the Digital Divide, they tell the story of a Digital Chasm."
+    },
+    {
+     "inicio_corpo": 1104,
+     "fim_corpo": 2259,
+     "trecho": "The internet is the most powerful platform in the history of the planet. Unfortunately, it is not yet pervasive. COVID has made us re-appreciate the things the internet allows us to accomplish. COVID has also identified the adverse effects arising from the absence of adequate high-speed broadband, whether it is unavailable, inadequate, or too expensive. Just look at the headlines: “Why rural Americans are having a hard time working from home” CNN 4.29.20 “America’s Terrible Internet Is Making Quarantine Worse” The Atlantic 8.17.20 “School sends California family a hotspot after students went to Taco Bell to use their free WiFi” CNN 8.31.20 “The latest crisis: Low-income students are dropping out of college this fall in alarming numbers Many low-income students say they don’t have good enough WiFi at home to take online classes” Washington Post 9.16.20 “A year into the pandemic, thousands of students still can’t get reliable WiFi for school” USA Today 2.4.21 2 Members of the committee, examples like this are not an example of the Digital Divide, they tell the story of a Digital Chasm."
+    },
+    {
+     "inicio_corpo": 12759,
+     "fim_corpo": 13626,
+     "trecho": "The FCC must have a clear understanding of the scalability, sustainability, durability, resiliency, and reliability of what the public’s money will be buying. There is a three-part test to consider when developing plans to expend public monies to subsidize broadband. First, to exploit the marketplace efficiencies of auctions. Second, to recognize the subsidies are for areas where service would not otherwise be provided absent such subsidy, not to pay for a service that has already been financed by private funds. Third, the need for results is immediate; waiting for multiple years to see if bidders deliver is unacceptable. And there need to be consequences for promises not kept. BROADBAND ADOPTION The other great failure of our national policy is how low-income Americans may have broadband passing their door, but do not bring it inside."
+    },
+    {
+     "inicio_corpo": 14380,
+     "fim_corpo": 15154,
+     "trecho": "At the other end of the age spectrum, almost 10 million students do not have the home internet needed for distance learning. To address the broadband adoption challenge requires resolving multiple issues: A Phone Program in an Internet Era – As with the deployment challenge, the federal government’s efforts to address internet adoption tried to shoehorn internet access into telephone policy. The Reagan administration’s decision to pay $9.25 per month to subsidize basic telephone service meant that everyone would be able to call 9-1-1. It was called “Lifeline” service, but it was limited to what was known at the time – i.e., “telephone” service. In 2016, the FCC expanded Lifeline to subsidize low-income broadband service, both wired and wireless."
+    },
+    {
+     "inicio_corpo": 14786,
+     "fim_corpo": 15665,
+     "trecho": "The Reagan administration’s decision to pay $9.25 per month to subsidize basic telephone service meant that everyone would be able to call 9-1-1. It was called “Lifeline” service, but it was limited to what was known at the time – i.e., “telephone” service. In 2016, the FCC expanded Lifeline to subsidize low-income broadband service, both wired and wireless. The problem was that the $9.25 subsidy does not go very far when it comes to helping pay for a broadband connection that averages almost $70 per month. According to Pew Research there is a 36 point gap in broadband penetration between the 92 percent of adults in households earning $75,000 or more with broadband, and the 56 percent of adults in households earning less than $30,000 annually. A Benton Foundation study found low-income Americans can afford about $10 per month for broadband service."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0133::Saúde",
+   "unit_id": "W0133",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Tom Wheeler",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13400,
+     "fim_corpo": 14380,
+     "trecho": "And there need to be consequences for promises not kept. BROADBAND ADOPTION The other great failure of our national policy is how low-income Americans may have broadband passing their door, but do not bring it inside. One calculation, using Census Bureau data, estimated nearly 80 percent of those without broadband in their home have it available outside their door but choose not to use it. A Pew Research report found the biggest reason for this is that the monthly cost is “too expensive.” 9 There are more – by some estimates multiple times more – Americans who have broadband passing their residence but do not use it as there are unserved Americans. A recent study found 40 percent of US seniors lack sufficient broadband. This occurs at precisely the moment when you need the internet to sign up for a COVID vaccination, telehealth is of increased importance, safe shopping means online shopping, and social interaction is confined to video services."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0133::Urbano e rural",
+   "unit_id": "W0133",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Tom Wheeler",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 790,
+     "fim_corpo": 2259,
+     "trecho": "Because it departs from the disconnects resulting from trying to make internet era realities work within telephone era concepts, LIFT is an historic opportunity for all Americans to redefine their expectations about the high-speed broadband service that is necessary to experience the benefits of the internet. The internet is the most powerful platform in the history of the planet. Unfortunately, it is not yet pervasive. COVID has made us re-appreciate the things the internet allows us to accomplish. COVID has also identified the adverse effects arising from the absence of adequate high-speed broadband, whether it is unavailable, inadequate, or too expensive. Just look at the headlines: “Why rural Americans are having a hard time working from home” CNN 4.29.20 “America’s Terrible Internet Is Making Quarantine Worse” The Atlantic 8.17.20 “School sends California family a hotspot after students went to Taco Bell to use their free WiFi” CNN 8.31.20 “The latest crisis: Low-income students are dropping out of college this fall in alarming numbers Many low-income students say they don’t have good enough WiFi at home to take online classes” Washington Post 9.16.20 “A year into the pandemic, thousands of students still can’t get reliable WiFi for school” USA Today 2.4.21 2 Members of the committee, examples like this are not an example of the Digital Divide, they tell the story of a Digital Chasm."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0135::Domicílio e arranjo familiar",
+   "unit_id": "W0135",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Mark Zuckerberg",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 617,
+     "trecho": "Hearing Before the United States House of Representatives Committee on Energy and Commerce Subcommittees on Consumer Protection & Commerce and Communications & Technology March 25, 2021 Testimony of Mark Zuckerberg Facebook, Inc. I. Introduction Chairs Pallone, Schakowsky, and Doyle, Ranking Members McMorris Rodgers, Latta, and Bilirakis, and members of the Committee, I want to start by extending my deepest condolences to the families of the Capitol police officers who lost their lives in the wak e of January 6 and my appreciation to the many officers who put themselves at risk to protect you."
+    },
+    {
+     "inicio_corpo": 617,
+     "fim_corpo": 1426,
+     "trecho": "Their bravery stands as an example to us all. My heart also goes out to those of you who lived through the awful events of that day. The Capitol attack was a horrific assault on our values and our democracy, and Facebook is committed to assisting law enforcement in bringing the insurrectionists to justice. I look forward to discussing the role that misinformation and disinformation play in our country’s information ecosystem and the work Facebook is doing to reduce harmful content on our platform. Facebook’s mission is to give people the power to build community and bring the world closer together. Our services enable more than three billion people around the world to stay connected with friends and family, discover what ’s going on in the world, and entertain and express themselves."
+    },
+    {
+     "inicio_corpo": 751,
+     "fim_corpo": 1680,
+     "trecho": "The Capitol attack was a horrific assault on our values and our democracy, and Facebook is committed to assisting law enforcement in bringing the insurrectionists to justice. I look forward to discussing the role that misinformation and disinformation play in our country’s information ecosystem and the work Facebook is doing to reduce harmful content on our platform. Facebook’s mission is to give people the power to build community and bring the world closer together. Our services enable more than three billion people around the world to stay connected with friends and family, discover what ’s going on in the world, and entertain and express themselves. We build products people use to share ideas, have fun, offer support, connect with neighbors, celebrate milestones, promote small businesses and non-profits, and discuss important topics, including family, careers, health, politics, and social issues."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0135::Posição no trabalho",
+   "unit_id": "W0135",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Mark Zuckerberg",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12287,
+     "fim_corpo": 13069,
+     "trecho": "We invested in combatting influence operations on our platforms, and since 2017, we have found and removed over 100 networks of accounts for engaging in coordinated inauthentic behavior. We 5 also blocked ads from state -controlled media outlets in the US to provide an extra layer of protection against various types of foreign influence in the public debate ahead of the election. Finally, we proactively supported civic engagement on our platform. We ran the largest voting information campaign in American history. Based on conversion rates we calculated from a few states we partnered with, we estimate that we helped 4.5 million people register to vote across Facebook, Instagram, and Messenger —and helped about 100,000 people sign up to be poll workers."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0141::Idade",
+   "unit_id": "W0141",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. John Baker",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 82,
+     "trecho": "Testimony of John Baker Senior Vice President, Business Development Mavenir U.S."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 433,
+     "trecho": "Testimony of John Baker Senior Vice President, Business Development Mavenir U.S. House Committee on Energy and Commerce Communications and Technology Subcommittee “Leading the Wireless Future: Securing American Network Technology” April 21, 2021 Chairman Doyle, Ranking Member Latta, Full Committee Chair Pallone, and Full Committee Ranking Member McMorris Rodgers, thank you for the opportunity to appear before you this morning."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 530,
+     "trecho": "Testimony of John Baker Senior Vice President, Business Development Mavenir U.S. House Committee on Energy and Commerce Communications and Technology Subcommittee “Leading the Wireless Future: Securing American Network Technology” April 21, 2021 Chairman Doyle, Ranking Member Latta, Full Committee Chair Pallone, and Full Committee Ranking Member McMorris Rodgers, thank you for the opportunity to appear before you this morning. My name is John Baker, and I am the Senior Vice President for Business Development at Mavenir."
+    }
+   ]
+  }
+ ]
+}

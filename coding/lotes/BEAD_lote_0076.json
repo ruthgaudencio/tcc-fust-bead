@@ -1,0 +1,857 @@
+{
+ "caso": "BEAD",
+ "lote": 76,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0372::Urbano e rural",
+   "unit_id": "W0372",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tom Stroup",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3250,
+     "fim_corpo": 4127,
+     "trecho": "The recent commercial launch of direct-to-device satellite connectivity, through major partnerships between satellite operators and wireless carriers, now means that ordinary mobile phones can reach emergency services and send messages even in areas with no cellular coverage — a transformative development for disaster resilience and public safety. Multi-orbit services that combine the low latency of LEO systems with the high-capacity coverage of GEO systems further enhance the resiliency and reliability of satellite networks. Satellite technology is also making American agriculture more efficient and adaptable. Satellite broadband enables precision agriculture and autonomous farming equipment in rural areas far beyond the reach of terrestrial networks, while GPS and Earth observation data help farmers optimize crop yields and prepare for adverse weather."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0374::Idade",
+   "unit_id": "W0374",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Harold Feld",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 88,
+     "trecho": "Testimony of Harold Feld Senior Vice President Public Knowledge Before the U.S."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0374::Vínculo institucional",
+   "unit_id": "W0374",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Harold Feld",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veteran",
+     "forma_encontrada": "veteran",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 21851,
+     "fim_corpo": 22562,
+     "trecho": "Meanwhile, the phase out of the legacy phone network to an all-IP network, first contemplated as part of the National Broadband Plan in 2010, remains ongoing. 6 the least, the FCC should explore this question. Potentially, Congress could ask other federal agencies, such as NIST, NTIA, or the U.S. Space Force, to explore this question as well. II. THE CURRENT NEXTNA V PROPOSAL ASKS FOR TOO MUCH AND THREATENS TOO MUCH, FOR FAR TOO LITTLE PUBLIC BENEFIT. It has become impossible to discuss PNT without discussing the NextNav proposal. Let me start with a general observation, as a veteran of more than 20 years of FCC spectrum proceedings."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0376::Cultura e informação",
+   "unit_id": "W0376",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Lisa Dyer",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "Library",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "library",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7713,
+     "fim_corpo": 8485,
+     "trecho": "The system’s global, 24-hours-a-day, seven-days-a-week availability means that Congressional and staff delegations and other Americans living, working, 3 See Marc J. Berkowitz, America’ s Asymmetric Vulnerability to Navigation Warfare: Leadership and Strategic Direction Needed to Mitigate Significant Threats, National Security Space Association (Jul. 18, 2024), https://nssaspace.org/wp- content/uploads/2024/07/NA VWAR-FINAL.pdf 4 Economic Benefits of the Global Positioning System (GPS), RTI International ES-1 (Jun. 2019), https://www.nist.gov/system/files/documents/2020/02/06/gps_finalreport618.pdf. 5 See Statement by Deputy Press Secretary Speakes on the Soviet Attack on a Korean Civilian Airliner, Ronald Reagan Presidential Library & Museum (Sept."
+    },
+    {
+     "inicio_corpo": 7713,
+     "fim_corpo": 8626,
+     "trecho": "The system’s global, 24-hours-a-day, seven-days-a-week availability means that Congressional and staff delegations and other Americans living, working, 3 See Marc J. Berkowitz, America’ s Asymmetric Vulnerability to Navigation Warfare: Leadership and Strategic Direction Needed to Mitigate Significant Threats, National Security Space Association (Jul. 18, 2024), https://nssaspace.org/wp- content/uploads/2024/07/NA VWAR-FINAL.pdf 4 Economic Benefits of the Global Positioning System (GPS), RTI International ES-1 (Jun. 2019), https://www.nist.gov/system/files/documents/2020/02/06/gps_finalreport618.pdf. 5 See Statement by Deputy Press Secretary Speakes on the Soviet Attack on a Korean Civilian Airliner, Ronald Reagan Presidential Library & Museum (Sept. 16, 1983), https://www.reaganlibrary.gov/archives/speech/statement-deputy-press- secretary-speakes-soviet-attack-korean-civilian-airliner-1."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0376::Domicílio e arranjo familiar",
+   "unit_id": "W0376",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Lisa Dyer",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 19004,
+     "fim_corpo": 19774,
+     "trecho": "20, 2025). 19 Multiple reports have shown that no system can provide a perfect backup for GPS. See, e.g., Complementary PNT and GPS Backup Technologies Demonstration Report, U.S. Department of Transportation 12 (Jan. 2021), https://www.transportation.gov/sites/dot.gov/files/2021- 01/FY%2718%20NDAA%20Section%201606%20DOT%20Report%20to%20Congress_Combinedv2_January%202021.pdf; Analyzing a More Resilient National Positioning, Navigation, and Timing Capability, Homeland Security Operational Analysis Center xx – xxi (May 17, 2021), https://www.rand.org/content/dam/rand/pubs/research_reports/RR2900/RR2970/RAND_RR2970.pdf (“HSOAC Report”). 20 See, e.g., Chris Smith, iPhone Emergency SOS saves family from Maui wildfires – this was their terrifying chat (Aug."
+    },
+    {
+     "inicio_corpo": 19004,
+     "fim_corpo": 19996,
+     "trecho": "20, 2025). 19 Multiple reports have shown that no system can provide a perfect backup for GPS. See, e.g., Complementary PNT and GPS Backup Technologies Demonstration Report, U.S. Department of Transportation 12 (Jan. 2021), https://www.transportation.gov/sites/dot.gov/files/2021- 01/FY%2718%20NDAA%20Section%201606%20DOT%20Report%20to%20Congress_Combinedv2_January%202021.pdf; Analyzing a More Resilient National Positioning, Navigation, and Timing Capability, Homeland Security Operational Analysis Center xx – xxi (May 17, 2021), https://www.rand.org/content/dam/rand/pubs/research_reports/RR2900/RR2970/RAND_RR2970.pdf (“HSOAC Report”). 20 See, e.g., Chris Smith, iPhone Emergency SOS saves family from Maui wildfires – this was their terrifying chat (Aug. 10, 2023), https://bgr.com/tech/iphone-emergency-sos-saves-family-from-maui-wildfires-this-was-their-terrifying-chat/; Mary Beth “Mouse” Skylis, These Hikers Were on the Appalachian Trail When Hurricane Helene Hit (Oct."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0376::Saúde e deficiência",
+   "unit_id": "W0376",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Lisa Dyer",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "deaf",
+     "forma_encontrada": "deaf",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 22457,
+     "fim_corpo": 23405,
+     "trecho": "Licensing or contractual arrangements must be negotiated. And the “new” system must undergo testing, including cybersecurity testing, before it can be offered to users. A common question posed is whether GPS works indoors, particularly during emergency situations. GPS signals working with other technologies integrated into internet-assisted smartphones 22, can alert and help guide emergency services to your indoors location. One 21 Sandra Irwin, TrustPoint sets 2027 target for initial rollout of LEO-based navigation services (Dec. 9, 2025), Space News, https://spacenews.com/trustpoint-sets-2027-target-for-initial-rollout-of-leo-based-navigation-services/. 22 Supra at 10. of the most interesting, existing services is a free app called accesSOS23. Originally developed for the deaf and hard-of-hearing communities, it now also serves non-English speaking users and anyone who is unable or does not want to make a call."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0376::Urbano e rural",
+   "unit_id": "W0376",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Lisa Dyer",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 16356,
+     "fim_corpo": 17167,
+     "trecho": "2) A lucrative, robust, and innovative commercial, complementary PNT industry already exists and is currently serving users in the United States and worldwide16,17. While several operational PNT systems enhance GPS capabilities or may operate independent of GPS, a U.S. space-based or terrestrial “alternative” that replicates both GPS’ core technical attributes and its Nuclear Detonation Detection System18 secondary payload does not exist19. GPSIA asserts that space is the preferred domain for complementary PNT systems, due to its global availability and resiliency. By contrast, terrestrial systems have limited reach, are vulnerable to manmade and natural disasters,20 and may leave out or delay the availability of technological solutions for people living in rural, less populous areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0377::Domicílio e arranjo familiar",
+   "unit_id": "W0377",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Mariam Sorond",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1498,
+     "fim_corpo": 2278,
+     "trecho": "PNT is the invisible but essential backbone upon which much of modern life depends. Positioning tells you where you are. Navigation tells you how to get where you are going. And timing provides a precise common clock that lets independent systems agree on when something happened, or must happen, down to the billionth of a second. 2 When you send a wire transfer through the bank, PNT helps prevent fraud . When the electric grid holds through a heat wave and your air conditioning keeps running, PNT is the invisible metronome keeping the power plants in sync. When a 911 call routes to the nearest dispatcher, PNT locates the caller. When a tractor trailer, an ambulance, or a family on a road trip moves through this country, PNT guides them along their routes."
+    },
+    {
+     "inicio_corpo": 5485,
+     "fim_corpo": 6486,
+     "trecho": "China has multiple systems to complement its satellite-based PNT network, BeiDou. Russia has also built a ground-based backup. Unfortunately, the United States has not done the same, and we are now in a position of needing to catch up to our allies and our adversaries alike. 4 However, we have an opportunity to accomplish that. PNT resilience is a bipartisan concern. Every presidential administration this century and members of Congress on both sides of the aisle have recognized this critical national imperative. That is where NextNav comes in. Our mission is simple: We believe the United States needs a layered PNT architecture with multiple ground-based and space-based systems working together, so that no single failure can take the country offline. This effort is personal to me. My family came to the United States when I was two years old, and helping solve this challenge is a meaningful way for me to give back to the country that took us in and has given us so much."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0378::Domicílio e arranjo familiar",
+   "unit_id": "W0378",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Arielle Roth",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "Families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1876,
+     "fim_corpo": 2762,
+     "trecho": "American ingenuity drove these advancements, and American ideals ensured that new technologies expanded freedom, opportunity, and human flourishing—not government control. These principles guide NTIA’s work every day. As AI and emerging technologies continue to reshape communications, our charge remains the same: to ensure that innovation expands opportunity, protects individual rights, and strengthens the free exchange of ideas. Fulfilling that charge requires action. At NTIA, we're focused on delivering results: building a real spectrum pipeline, accelerating broadband deployment, strengthening mission-critical public safety communications, and ensuring the United States’ global technology leadership. 2 Building a Spectrum Pipeline Last year, Congress passed the Working Families Tax Cut Act and directed the largest spectrum pipeline in our nation's history."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0378::Educação",
+   "unit_id": "W0378",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Arielle Roth",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13403,
+     "fim_corpo": 14246,
+     "trecho": "Strengthening FirstNet remains one of NTIA’s top priorities. Further, as Congress continues considering Next Generation 9-1-1 (NG911), NTIA recently released an updated study showing that nationwide implementation costs have declined significantly since our 2018 assessment—from $9.5 billion to $12.7 billion in 2018 to $5.8 billion to $9.27 billion today. That reduction in costs reflects both investments already made by 6 states and a broader market shift away from equipment-based systems toward software-driven and cloud-based solutions with lower upfront costs and recurring subscription-based pricing. NTIA stands ready to continue serving as a resource to Congress as you evaluate next steps on NG911. Addressing Kids’ Excessive Screen Time Finally, I want to mention our initiative on excessive screen time in schools."
+    },
+    {
+     "inicio_corpo": 13764,
+     "fim_corpo": 14434,
+     "trecho": "That reduction in costs reflects both investments already made by 6 states and a broader market shift away from equipment-based systems toward software-driven and cloud-based solutions with lower upfront costs and recurring subscription-based pricing. NTIA stands ready to continue serving as a resource to Congress as you evaluate next steps on NG911. Addressing Kids’ Excessive Screen Time Finally, I want to mention our initiative on excessive screen time in schools. As a mom of six kids, this issue is deeply personal to me. The public debate often focuses on banning cell phones in schools, and while that’s important, it only scratches the surface."
+    },
+    {
+     "inicio_corpo": 13764,
+     "fim_corpo": 14667,
+     "trecho": "That reduction in costs reflects both investments already made by 6 states and a broader market shift away from equipment-based systems toward software-driven and cloud-based solutions with lower upfront costs and recurring subscription-based pricing. NTIA stands ready to continue serving as a resource to Congress as you evaluate next steps on NG911. Addressing Kids’ Excessive Screen Time Finally, I want to mention our initiative on excessive screen time in schools. As a mom of six kids, this issue is deeply personal to me. The public debate often focuses on banning cell phones in schools, and while that’s important, it only scratches the surface. When you talk to most parents, their concern isn’t just cell phones, it’s that their children are on school laptops, devices, and digital curricula and platforms for large portions of the school day, starting at very young ages."
+    },
+    {
+     "inicio_corpo": 13764,
+     "fim_corpo": 14667,
+     "trecho": "That reduction in costs reflects both investments already made by 6 states and a broader market shift away from equipment-based systems toward software-driven and cloud-based solutions with lower upfront costs and recurring subscription-based pricing. NTIA stands ready to continue serving as a resource to Congress as you evaluate next steps on NG911. Addressing Kids’ Excessive Screen Time Finally, I want to mention our initiative on excessive screen time in schools. As a mom of six kids, this issue is deeply personal to me. The public debate often focuses on banning cell phones in schools, and while that’s important, it only scratches the surface. When you talk to most parents, their concern isn’t just cell phones, it’s that their children are on school laptops, devices, and digital curricula and platforms for large portions of the school day, starting at very young ages."
+    },
+    {
+     "inicio_corpo": 14952,
+     "fim_corpo": 15862,
+     "trecho": "Those concerns are reinforced by a growing body of evidence suggesting that the large-scale digitization of classrooms has outpaced rigorous evaluation of its effects, with research increasingly indicating that screen-based instruction can weaken comprehension and retention, reduce students’ ability to focus and sustain attention, and undermine the development of foundational skills that are critical to literacy, numeracy, and critical thinking. Technology has a role in education, and certain tools have opened real opportunities for students. But classroom technology should serve learning—not the other way around. Earlier this year, the Office of the Surgeon General recommended that schools “limit screen use by assigning work in books or on paper whenever possible,” reflecting growing recognition that excessive screen use in schools carries real developmental and educational tradeoffs."
+    },
+    {
+     "inicio_corpo": 14952,
+     "fim_corpo": 15862,
+     "trecho": "Those concerns are reinforced by a growing body of evidence suggesting that the large-scale digitization of classrooms has outpaced rigorous evaluation of its effects, with research increasingly indicating that screen-based instruction can weaken comprehension and retention, reduce students’ ability to focus and sustain attention, and undermine the development of foundational skills that are critical to literacy, numeracy, and critical thinking. Technology has a role in education, and certain tools have opened real opportunities for students. But classroom technology should serve learning—not the other way around. Earlier this year, the Office of the Surgeon General recommended that schools “limit screen use by assigning work in books or on paper whenever possible,” reflecting growing recognition that excessive screen use in schools carries real developmental and educational tradeoffs."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0378::Escolaridade e letramento",
+   "unit_id": "W0378",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Arielle Roth",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "student",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "student",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 14434,
+     "fim_corpo": 15407,
+     "trecho": "When you talk to most parents, their concern isn’t just cell phones, it’s that their children are on school laptops, devices, and digital curricula and platforms for large portions of the school day, starting at very young ages. When screens become the default rather than a targeted and intentional tool, many parents worry that activities essential to learning and healthy development—reading, writing, physical activity, creative play, hands-on learning, and face-to- face interactions—are being crowded out. Those concerns are reinforced by a growing body of evidence suggesting that the large-scale digitization of classrooms has outpaced rigorous evaluation of its effects, with research increasingly indicating that screen-based instruction can weaken comprehension and retention, reduce students’ ability to focus and sustain attention, and undermine the development of foundational skills that are critical to literacy, numeracy, and critical thinking."
+    },
+    {
+     "inicio_corpo": 14667,
+     "fim_corpo": 15507,
+     "trecho": "When screens become the default rather than a targeted and intentional tool, many parents worry that activities essential to learning and healthy development—reading, writing, physical activity, creative play, hands-on learning, and face-to- face interactions—are being crowded out. Those concerns are reinforced by a growing body of evidence suggesting that the large-scale digitization of classrooms has outpaced rigorous evaluation of its effects, with research increasingly indicating that screen-based instruction can weaken comprehension and retention, reduce students’ ability to focus and sustain attention, and undermine the development of foundational skills that are critical to literacy, numeracy, and critical thinking. Technology has a role in education, and certain tools have opened real opportunities for students."
+    },
+    {
+     "inicio_corpo": 15407,
+     "fim_corpo": 16331,
+     "trecho": "Technology has a role in education, and certain tools have opened real opportunities for students. But classroom technology should serve learning—not the other way around. Earlier this year, the Office of the Surgeon General recommended that schools “limit screen use by assigning work in books or on paper whenever possible,” reflecting growing recognition that excessive screen use in schools carries real developmental and educational tradeoffs. Late last year, NTIA held a listening session to hear more about what’s driving these trends, including how federal rules, policies, and funding streams may be accelerating excessive screen use in the classroom. We heard from parents, teachers, researchers, medical experts, privacy advocates, and others who raised concerns not only about student learning, focus, attention, and distraction, but also about privacy, inappropriate content, and parental oversight."
+    },
+    {
+     "inicio_corpo": 15862,
+     "fim_corpo": 16581,
+     "trecho": "Late last year, NTIA held a listening session to hear more about what’s driving these trends, including how federal rules, policies, and funding streams may be accelerating excessive screen use in the classroom. We heard from parents, teachers, researchers, medical experts, privacy advocates, and others who raised concerns not only about student learning, focus, attention, and distraction, but also about privacy, inappropriate content, and parental oversight. As part of an Administration-wide effort to empower parents over their children’s screen use, the FCC is conducting a review of the E-Rate program to ensure that it is advancing student learning outcomes and protecting the interests of children."
+    },
+    {
+     "inicio_corpo": 16077,
+     "fim_corpo": 16800,
+     "trecho": "We heard from parents, teachers, researchers, medical experts, privacy advocates, and others who raised concerns not only about student learning, focus, attention, and distraction, but also about privacy, inappropriate content, and parental oversight. As part of an Administration-wide effort to empower parents over their children’s screen use, the FCC is conducting a review of the E-Rate program to ensure that it is advancing student learning outcomes and protecting the interests of children. To inform this proceeding, NTIA will host a second listening session in the coming weeks to hear from parents, teachers, and child development experts about what programmatic reforms will ultimately benefit students."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0378::Macrorregião",
+   "unit_id": "W0378",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Arielle Roth",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9590,
+     "fim_corpo": 10596,
+     "trecho": "The Benefit of the Bargain reforms lowered costs for taxpayers, increased skin in the game for providers, and will connect consumers faster. In May, I traveled to Ogallala, Nebraska, to celebrate one of the first BEAD-funded connections in the country. That connection is a concrete example of what an efficient, technology-neutral BEAD program can achieve. The connection came from an unlicensed fixed wireless provider that was able to connect consumers within months of BEAD approval—far faster than the four-year deployment window set by Congress. That was possible because NTIA embraced technology neutrality and opened the program to any provider capable of meeting our performance requirements. The Benefit of the Bargain reforms have been enormously successful, with 54 of the 56 states and territories having received NTIA approval of their BEAD Final Proposals, and 52 states and territories having signed and returned their award agreement, making them eligible to access funds."
+    },
+    {
+     "inicio_corpo": 9733,
+     "fim_corpo": 10596,
+     "trecho": "In May, I traveled to Ogallala, Nebraska, to celebrate one of the first BEAD-funded connections in the country. That connection is a concrete example of what an efficient, technology-neutral BEAD program can achieve. The connection came from an unlicensed fixed wireless provider that was able to connect consumers within months of BEAD approval—far faster than the four-year deployment window set by Congress. That was possible because NTIA embraced technology neutrality and opened the program to any provider capable of meeting our performance requirements. The Benefit of the Bargain reforms have been enormously successful, with 54 of the 56 states and territories having received NTIA approval of their BEAD Final Proposals, and 52 states and territories having signed and returned their award agreement, making them eligible to access funds."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0378::Territórios de povos e comunidades tradicionais",
+   "unit_id": "W0378",
+   "subcategoria": "Territórios de povos e comunidades tradicionais",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Arielle Roth",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Tribal governments",
+     "forma_encontrada": "Tribal governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11043,
+     "fim_corpo": 11902,
+     "trecho": "The average BEAD cost per location is now $4,765. Our focus on fiscal discipline and technology neutrality produced more than $21 billion in savings. NTIA has also accelerated deployment by leading in permitting innovation. The Environmental Screening and Permitting Tracking Tool (ESAPTT) allows BEAD recipients to conduct a National Environmental Policy Act (NEPA) environmental screening, seamlessly generate decision documents, and track permitting milestones for each subgrant project. NTIA also expanded the number of NEPA categorical exclusions available for broadband from 11 to 47, and up to 95 percent of BEAD projects will qualify for expedited review. NTIA is also reforming its Tribal broadband programs to reduce red tape for Tribal governments, promote flexibility, and align grant opportunities to better serve Tribal connectivity."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0380::Domicílio e arranjo familiar",
+   "unit_id": "W0380",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Kevin Rupy",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5516,
+     "fim_corpo": 6477,
+     "trecho": "5, 2026), https://www.uscc.gov/research/protecting-americans-china-linked-scam-centers-update- emerging-trends; see also Department of Justice, Scam Center Strike Force Takes Major Actions Against Southeast Asian Scam Centers Targeting Americans (Apr. 23, 2026), https://www.justice.gov/opa/pr/scam-center-strike-force-takes-major-actions-against-southeast- asian-scam-centers-targeting (discussing charges against two Chinese nationals who managed 3 The involvement of organized crime and sophisticated bad actors has led to staggering levels of consumer losses that represent a consumer protection problem, as well as a national security emergency . R ecent survey data estimates that consumers lost approximately $68 billion to scams in 2025 alone. 5 Those losses represent more than statistics. They reflect stolen retirement savings, depleted household budgets, and substantial emotional and financial harm inflicted on millions of Americans."
+    },
+    {
+     "inicio_corpo": 15551,
+     "fim_corpo": 16365,
+     "trecho": "14 Id. at. 8 15 Id. at 9. 6 indicating that the actors behind such calls have shifted in light of increased difficulty getting their calls through to consumers .16 Nevertheless, t hese tactics can make concentrated fraudulent activity appear more diffuse, complicating detection models that are designed to identify high-volume sources. Those trends reflect a broader shift in the fraud landscape: bad actors are moving away from easily identifiable mass -calling and towards methods that make fraudulent traffic appear more ordinary, domestic, or trusted. The FTC has also warned that scammers use voice cloning to make requests for money or information more believable, including by making a call sound like a boss asking for bank account information or a family member seeking emergency help."
+    },
+    {
+     "inicio_corpo": 18596,
+     "fim_corpo": 19472,
+     "trecho": "18 USTelecom, Illegal Robocalls and Call -Based Fraud, (Mar. 2025), https://ustelecom.org/wp- content/uploads/2025/03/USTelecom-Illegal-Robocalls-and-Call-based-Fraud.pdf. 19 Id. 7 Commission, law enforcement, and the industry traceback consortium. 20 The rule promotes accountability, but it leaves room for providers to tailor mitigation to their networks, customer relationships, upstream providers, analytics tools, and observed risk indicators. As illustrated above , these types of flexible approaches are the most effective. Importantly, Congress should not look to complex compliance frameworks like the Telephone Consumer Protection Act (“TCPA”) as a solution to the illegal robocall problem. The TCPA was initially passed in 1991 as a consumer protection statute to prevent families from receiving unwanted telemarketing calls at the dinner table."
+    },
+    {
+     "inicio_corpo": 21380,
+     "fim_corpo": 22221,
+     "trecho": "Chamber Institute for Legal Reform , TCPA Litigation Sprawl : A Study of the Sources and Targets of Recent TCPA Lawsuits (August 2017) , https://instituteforlegalreform.com/wp- content/uploads/2020/10/TCPA_Paper_Final.pdf; U.S. Chamber Institute for Legal Reform , Ill- Suited: Private Rights of Action and Privacy Claims (July 2019), https://instituteforlegalreform.com/wp-content/uploads/2020/10/Ill-Suited - Private RIghts of Action and Privacy Claims Report.pdf ; U .S. Chamber Institute for Legal Reform, Turning the TCPA Tide: The Effects of Duguid (Dec. 2021), https://instituteforlegalreform.com/wp- content/uploads/2021/12/1323 ILR TCPA Report FINAL Pages.pdf . 8 moments of vulnerability. With a single call, a criminal can steal a retirement nest egg, a college savings account, or the down payment for a family home."
+    },
+    {
+     "inicio_corpo": 25904,
+     "fim_corpo": 26837,
+     "trecho": "27 Notably the Strike Force “ seeks public -private partnership to ensure that these corrupt scammers will immediately be cut off, preventing the United States infrastructure from being used as a means to perpetrate fraud against Americans.” 28 Another promising model is the National Task Force. 29 The National Task Force brought together hundreds of experts to develop a national strategy to combat criminal enterprises that exploit American financial organizations, social media, communications, and retail platforms to defraud consumers. Its report, released in late 2025, calls for a whole-of-ecosystem strategy to combat fraud, and to “modernize legal frameworks, and undermine the scams business model by making it harder for transnational criminals to prey on American households.” 30 The report focuses on two priorities: acting against scams and minimizing their harm, and empowering scam prevention efforts."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0380::Idade",
+   "unit_id": "W0380",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Kevin Rupy",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "seniors",
+     "forma_encontrada": "Seniors",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "seniors",
+     "forma_encontrada": "Seniors",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "seniors",
+     "forma_encontrada": "seniors",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "seniors",
+     "forma_encontrada": "seniors",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4198,
+     "fim_corpo": 5047,
+     "trecho": "Department of the Treasury, Treasury Targets Cartel -Linked Timeshare Resort Defrauding U.S. Citizens (Feb. 19, 2025), https://home.treasury.gov/news/press-releases/sb0400; Financial Crimes Enforcement Network, FinCEN, OFAC, and FBI Joint Notice on Timeshare Fraud Associated with Mexico- Based Transnational Criminal Organizations (July 16, 2024), https://www.fincen.gov/news/news- releases/fincen-ofac-and-fbi-joint-notice-timeshare-fraud-associated-mexico-based; see also Steve Fisher, These Americans bought timeshares in Mexico. They were unknowingly funding a cartel, USA Today (Feb. 22, 2024), https://www.usatoday.com/story/news/investigations/2024/02/22/thousands-of-americans-fall- prey-to-mexican-cartel-cjng-timeshare-scam/72695295007/; Maria Abi -Habib, A Mexican Drug Cartel’s New Target? Seniors and Their Timeshares (Mar."
+    },
+    {
+     "inicio_corpo": 4739,
+     "fim_corpo": 5239,
+     "trecho": "They were unknowingly funding a cartel, USA Today (Feb. 22, 2024), https://www.usatoday.com/story/news/investigations/2024/02/22/thousands-of-americans-fall- prey-to-mexican-cartel-cjng-timeshare-scam/72695295007/; Maria Abi -Habib, A Mexican Drug Cartel’s New Target? Seniors and Their Timeshares (Mar. 21, 2024), https://www.nytimes.com/2024/03/21/world/americas/mexico-timeshare-fraud-cartel.html; Dallas Express, U.S. Sanctions CJNG Cartel For $300M Timeshare Fraud Targeting Seniors (Aug."
+    },
+    {
+     "inicio_corpo": 4739,
+     "fim_corpo": 5355,
+     "trecho": "They were unknowingly funding a cartel, USA Today (Feb. 22, 2024), https://www.usatoday.com/story/news/investigations/2024/02/22/thousands-of-americans-fall- prey-to-mexican-cartel-cjng-timeshare-scam/72695295007/; Maria Abi -Habib, A Mexican Drug Cartel’s New Target? Seniors and Their Timeshares (Mar. 21, 2024), https://www.nytimes.com/2024/03/21/world/americas/mexico-timeshare-fraud-cartel.html; Dallas Express, U.S. Sanctions CJNG Cartel For $300M Timeshare Fraud Targeting Seniors (Aug. 13, 2025), https://dallasexpress.com/crime/u-s-sanctions-cjng-cartel-for-300m-timeshare-fraud- targeting-seniors/."
+    },
+    {
+     "inicio_corpo": 24400,
+     "fim_corpo": 25247,
+     "trecho": "23 Id. 24 See Gallup Fraud Survey, at 9 (“The Stop Scams Alliance-Gallup estimate of about $68 billion is higher than the FTC’s reported losses, totaling $16 billion in 2025. This likely reflects the number of scams that go unreported to the FTC or other federal agencies, as well as differences in the types of scams that are reported to the FTC compared with those collected on a probability -based survey, as in this study.”). Indeed, The Aspen Institute Financial Security Program’s Scam Prevention Initiative reports a much higher number “in 2025, criminals stole more than $3 billion every week from Americans, including seniors and veterans.” Aspen Institute Financial Security Program , The Aspen Institute Financial Security Program’s Scam Prevention Initiative, https://scamprevention.aspeninstitute.org/ (“Aspen Initiative”)."
+    },
+    {
+     "inicio_corpo": 27070,
+     "fim_corpo": 28055,
+     "trecho": "A framework focused only on one point in that chain will leave gaps that bad actors can exploit. The National Task Force seeks to plug those gaps. The communications industry has also worked closely with the ITG on SIM box call tracing and disruption. Those efforts have coincided with an observed decline in SIM box-related activity. 31 Federal partners have likewise collaborated with industry to break 26 Press Release, U.S. Attorney’s Office for the District of Columbia, Scam Center Strike Force Announces Results of U.S. & Private Industry ‘Disruption Week’ (June 3, 2026 ), https://www.justice.gov/usao-dc/pr/scam-center-strike-force-announces-results-us-private- industry-disruption-week. 27 See Scam Center Strike Force Page. 28 Id. 29 Aspen Initiative. 30 United We Stand. 31 Ex parte letter from Joshua M. Bercu, Senior Vice President, Policy, USTelecom & Executive Director, ITG, to Patrick Webre, Acting Chief, Enforcement Bureau, FCC, EB Docket No."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0380::Saúde",
+   "unit_id": "W0380",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Kevin Rupy",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 20001,
+     "fim_corpo": 20862,
+     "trecho": "As such, the TCPA’s compliance mandates primarily burden legitimate callers, not the scammers who routinely disregard the rules. I encourage Congress to focus on legislation aimed directly at fraudsters and criminal enterprises, rather than retrofitting a compliance statute that bad actors will simply ignore. To this end, the QUIET Act as proposed would add yet a new layer of complexity to the TCPA, which unfortunately will only burden legitimate communications, but not slow down illegal robocallers and their accompanying schemes. III. COLLABORATION BETWEEN INDUSTRY AND GOVERNMENT IS CRITICAL TO EFFECTIVELY COMBAT FRAUD. Fraud enabled by illegal robocalls is not merely a voice- network problem; it is a cross- sector threat that affects financial institutions, social media platforms, the hospitality and travel sectors, and many others."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0380::Vínculo institucional",
+   "unit_id": "W0380",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Kevin Rupy",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "veterans",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 24400,
+     "fim_corpo": 25247,
+     "trecho": "23 Id. 24 See Gallup Fraud Survey, at 9 (“The Stop Scams Alliance-Gallup estimate of about $68 billion is higher than the FTC’s reported losses, totaling $16 billion in 2025. This likely reflects the number of scams that go unreported to the FTC or other federal agencies, as well as differences in the types of scams that are reported to the FTC compared with those collected on a probability -based survey, as in this study.”). Indeed, The Aspen Institute Financial Security Program’s Scam Prevention Initiative reports a much higher number “in 2025, criminals stole more than $3 billion every week from Americans, including seniors and veterans.” Aspen Institute Financial Security Program , The Aspen Institute Financial Security Program’s Scam Prevention Initiative, https://scamprevention.aspeninstitute.org/ (“Aspen Initiative”)."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0381::Posição no trabalho",
+   "unit_id": "W0381",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Lindsay Gorman",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5109,
+     "fim_corpo": 5945,
+     "trecho": "These visionaries argue that in order to realize true human or superhuman intelligence, AI needs to understand, process, and engage with the physical world. The potential is extraordinary, from humanoid robots that can diffuse explosive devices on the battlefield to those that fold laundry at home. Breakthroughs in large language models came from the ability to ingest massive linguistic corpora from the internet so that models could learn at scale patterns of human writing and speech. So too will enormous quantities of real-world data be required to train this next rung of AI’s evolutionary ladder: videos of janitors cleaning office buildings, soldiers conducting reconnaissance missions, factory workers assembling complex machinery, or basketball players shooting free throws could all be sought after training data."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0382::Domicílio e arranjo familiar",
+   "unit_id": "W0382",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Michael Robbins",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 15230,
+     "fim_corpo": 15896,
+     "trecho": "Robots extend the same adversary-access problem into new spaces, and add physical manipulation to it. Connected robots are networked, sensor-rich platforms with physical agency. The risk they present has three dimensions. First, data exposure: these systems continuously collect facility layouts, movement patterns, operational workflows, and records of human-machine interaction. Aggregated across deployments, this data reveals sensitive insight into American manufacturing operations, critical infrastructure, military and government facilities, supply chains, and — as these systems enter homes and care settings — the private lives of American families."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0382::Escolaridade e letramento",
+   "unit_id": "W0382",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Michael Robbins",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 27265,
+     "fim_corpo": 28026,
+     "trecho": "14 The first segment is research. As Boston Dynamics, an American robotics pioneer and AUVSI member, testified before the House Committee on Homeland Security in March, the U.S. academic and research market for quadruped robots — once led by American platforms — shifted to lower-cost Chinese systems in a span of roughly twelve to eighteen months.19 The research market matters far beyond its size. It is where the next generation of American roboticists is trained, where software ecosystems and tooling form around platforms, and where network effects — the self-reinforcing advantages a platform gains as more people build on it — are born. The platforms our graduate students learn on today are the platforms their companies will buy tomorrow."
+    }
+   ]
+  }
+ ]
+}

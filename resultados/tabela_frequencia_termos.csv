@@ -1,0 +1,257 @@
+caso,codigo,subcategoria,termo,ocorrencias
+FUST,1.1,Idade,criança,52
+FUST,1.1,Idade,crianças,133
+FUST,1.1,Idade,idoso,28
+FUST,1.1,Idade,idosos,16
+FUST,1.1,Idade,jovem,35
+FUST,1.1,Idade,jovens,104
+FUST,1.1,Idade,terceira idade,1
+FUST,1.2,Gênero,gênero,6
+FUST,1.2,Gênero,mulher,23
+FUST,1.2,Gênero,mulheres,27
+FUST,1.2,Gênero,sexo feminino,0
+FUST,1.3,Raça e etnia,afrodescendente,0
+FUST,1.3,Raça e etnia,afrodescendentes,1
+FUST,1.3,Raça e etnia,indígena,22
+FUST,1.3,Raça e etnia,indígenas,21
+FUST,1.3,Raça e etnia,negro,5
+FUST,1.3,Raça e etnia,negros,9
+FUST,1.3,Raça e etnia,pardo,16
+FUST,1.3,Raça e etnia,pardos,4
+FUST,1.3,Raça e etnia,população negra,1
+FUST,1.3,Raça e etnia,populações negras,0
+FUST,1.3,Raça e etnia,quilombola,0
+FUST,1.3,Raça e etnia,quilombolas,0
+FUST,1.3,Raça e etnia,índio,4
+FUST,1.3,Raça e etnia,índios,15
+FUST,1.4,Saúde e deficiência,deficiente,2
+FUST,1.4,Saúde e deficiência,deficientes,12
+FUST,1.4,Saúde e deficiência,deficiência auditiva,0
+FUST,1.4,Saúde e deficiência,deficiência física,2
+FUST,1.4,Saúde e deficiência,deficiência visual,0
+FUST,1.4,Saúde e deficiência,deficiências auditivas,0
+FUST,1.4,Saúde e deficiência,deficiências físicas,0
+FUST,1.4,Saúde e deficiência,deficiências visuais,0
+FUST,1.4,Saúde e deficiência,instituições de assistência a deficientes,0
+FUST,1.4,Saúde e deficiência,portador de deficiência,0
+FUST,1.4,Saúde e deficiência,portadores de deficiência,1
+FUST,2.1,Renda e classe,baixa renda,16
+FUST,2.1,Renda e classe,baixo poder aquisitivo,2
+FUST,2.1,Renda e classe,carente,14
+FUST,2.1,Renda e classe,carentes,32
+FUST,2.1,Renda e classe,classes menos favorecidas,1
+FUST,2.1,Renda e classe,hipossuficiente,0
+FUST,2.1,Renda e classe,hipossuficientes,0
+FUST,2.1,Renda e classe,pobre,53
+FUST,2.1,Renda e classe,pobres,152
+FUST,2.1,Renda e classe,pobreza,207
+FUST,2.1,Renda e classe,população carente,4
+FUST,2.1,Renda e classe,populações carentes,2
+FUST,2.2,Escolaridade e letramento,alfabetização,19
+FUST,2.2,Escolaridade e letramento,aluno,45
+FUST,2.2,Escolaridade e letramento,alunos,81
+FUST,2.2,Escolaridade e letramento,analfabetismo,24
+FUST,2.2,Escolaridade e letramento,analfabeto,4
+FUST,2.2,Escolaridade e letramento,analfabetos,9
+FUST,2.2,Escolaridade e letramento,baixa escolaridade,2
+FUST,2.2,Escolaridade e letramento,escolaridade,14
+FUST,2.2,Escolaridade e letramento,estudante,15
+FUST,2.2,Escolaridade e letramento,estudantes,43
+FUST,2.3,Posição no trabalho,autônomo,9
+FUST,2.3,Posição no trabalho,autônomos,1
+FUST,2.3,Posição no trabalho,desempregado,8
+FUST,2.3,Posição no trabalho,desempregados,28
+FUST,2.3,Posição no trabalho,desemprego,192
+FUST,2.3,Posição no trabalho,informalidade,8
+FUST,2.3,Posição no trabalho,sem carteira,1
+FUST,2.3,Posição no trabalho,trabalhador,117
+FUST,2.3,Posição no trabalho,trabalhadores,231
+FUST,2.3,Posição no trabalho,trabalho informal,2
+FUST,2.4,Domicílio e arranjo familiar,domicílio,5
+FUST,2.4,Domicílio e arranjo familiar,domicílios,18
+FUST,2.4,Domicílio e arranjo familiar,família,101
+FUST,2.4,Domicílio e arranjo familiar,famílias,120
+FUST,2.4,Domicílio e arranjo familiar,residência,82
+FUST,2.4,Domicílio e arranjo familiar,residências,11
+FUST,3.1,Urbano e rural,campo,94
+FUST,3.1,Urbano e rural,campos,115
+FUST,3.1,Urbano e rural,meio rural,4
+FUST,3.1,Urbano e rural,rural,107
+FUST,3.1,Urbano e rural,telefonia rural,5
+FUST,3.1,Urbano e rural,zona rural,4
+FUST,3.1,Urbano e rural,zonas rurais,1
+FUST,3.1,Urbano e rural,área rural,9
+FUST,3.1,Urbano e rural,áreas rurais,3
+FUST,3.2,Macrorregião,Amazônia,204
+FUST,3.2,Macrorregião,Nordeste,315
+FUST,3.2,Macrorregião,Norte,262
+FUST,3.2,Macrorregião,desenvolvimento regional,31
+FUST,3.2,Macrorregião,desequilíbrio regional,1
+FUST,3.2,Macrorregião,região amazônica,33
+FUST,3.2,Macrorregião,regiões menos desenvolvidas,3
+FUST,3.3,Infraestrutura e porte populacional,fronteira,21
+FUST,3.3,Infraestrutura e porte populacional,fronteiras,25
+FUST,3.3,Infraestrutura e porte populacional,localidade não atendida,0
+FUST,3.3,Infraestrutura e porte populacional,localidades não atendidas,0
+FUST,3.3,Infraestrutura e porte populacional,localidades remotas,0
+FUST,3.3,Infraestrutura e porte populacional,menos de cem habitantes,1
+FUST,3.3,Infraestrutura e porte populacional,pequenos municípios,3
+FUST,3.3,Infraestrutura e porte populacional,sem atendimento,3
+FUST,3.3,Infraestrutura e porte populacional,área não atendida,0
+FUST,3.3,Infraestrutura e porte populacional,áreas não atendidas,0
+FUST,3.3,Infraestrutura e porte populacional,áreas remotas,3
+FUST,3.4,Território intraurbano,aglomerado subnormal,0
+FUST,3.4,Território intraurbano,aglomerados subnormais,0
+FUST,3.4,Território intraurbano,comunidade carente,0
+FUST,3.4,Território intraurbano,comunidades carentes,7
+FUST,3.4,Território intraurbano,favela,5
+FUST,3.4,Território intraurbano,favelas,10
+FUST,3.4,Território intraurbano,periferia,9
+FUST,3.4,Território intraurbano,periferias,7
+FUST,3.5,Territórios de povos e comunidades tradicionais,comunidade indígena,1
+FUST,3.5,Territórios de povos e comunidades tradicionais,comunidades indígenas,2
+FUST,3.5,Territórios de povos e comunidades tradicionais,quilombo,0
+FUST,3.5,Territórios de povos e comunidades tradicionais,quilombos,0
+FUST,3.5,Territórios de povos e comunidades tradicionais,reserva indígena,1
+FUST,3.5,Territórios de povos e comunidades tradicionais,reservas indígenas,1
+FUST,3.5,Territórios de povos e comunidades tradicionais,terra indígena,0
+FUST,3.5,Territórios de povos e comunidades tradicionais,terras indígenas,0
+FUST,4.1,Educação,escola,262
+FUST,4.1,Educação,escolas,98
+FUST,4.1,Educação,escolas públicas,13
+FUST,4.1,Educação,estabelecimentos públicos de ensino,3
+FUST,4.1,Educação,rede pública de ensino,1
+FUST,4.1,Educação,redes públicas de ensino,0
+FUST,4.2,Saúde,hospitais,23
+FUST,4.2,Saúde,hospital,14
+FUST,4.2,Saúde,instituições de saúde,6
+FUST,4.2,Saúde,posto de saúde,3
+FUST,4.2,Saúde,postos de saúde,3
+FUST,4.2,Saúde,unidade de saúde,0
+FUST,4.2,Saúde,unidades de saúde,4
+FUST,4.3,Cultura e informação,biblioteca,3
+FUST,4.3,Cultura e informação,bibliotecas,16
+FUST,4.3,Cultura e informação,centro comunitário,0
+FUST,4.3,Cultura e informação,centros comunitários,1
+FUST,4.3,Cultura e informação,museu,1
+FUST,4.3,Cultura e informação,museus,0
+FUST,4.3,Cultura e informação,telecentro,5
+FUST,4.3,Cultura e informação,telecentros,0
+FUST,4.4,Administração pública,prefeitura,40
+FUST,4.4,Administração pública,prefeituras,41
+FUST,4.4,Administração pública,repartição,4
+FUST,4.4,Administração pública,repartições,1
+FUST,4.4,Administração pública,unidades do serviço público,2
+FUST,4.4,Administração pública,órgão público,0
+FUST,4.4,Administração pública,órgãos de segurança pública,1
+FUST,4.4,Administração pública,órgãos públicos,5
+BEAD,1.1,Idade,aging individual,0
+BEAD,1.1,Idade,aging individuals,0
+BEAD,1.1,Idade,older adult,0
+BEAD,1.1,Idade,older adults,9
+BEAD,1.1,Idade,senior,84
+BEAD,1.1,Idade,seniors,9
+BEAD,1.1,Idade,youth,59
+BEAD,1.1,Idade,youths,0
+BEAD,1.2,Gênero,gender,17
+BEAD,1.2,Gênero,women,73
+BEAD,1.3,Raça e etnia,Alaska Native,3
+BEAD,1.3,Raça e etnia,Alaska Natives,7
+BEAD,1.3,Raça e etnia,American Indian,15
+BEAD,1.3,Raça e etnia,American Indians,0
+BEAD,1.3,Raça e etnia,Native American,10
+BEAD,1.3,Raça e etnia,Native Americans,11
+BEAD,1.3,Raça e etnia,Native Hawaiian,4
+BEAD,1.3,Raça e etnia,Native Hawaiians,0
+BEAD,1.3,Raça e etnia,minorities,31
+BEAD,1.3,Raça e etnia,minority,118
+BEAD,1.3,Raça e etnia,racial or ethnic minority group,0
+BEAD,1.3,Raça e etnia,racial or ethnic minority groups,0
+BEAD,1.4,Saúde e deficiência,blind,11
+BEAD,1.4,Saúde e deficiência,deaf,14
+BEAD,1.4,Saúde e deficiência,disabilities,17
+BEAD,1.4,Saúde e deficiência,disability,9
+BEAD,1.4,Saúde e deficiência,individual with a disability,0
+BEAD,1.4,Saúde e deficiência,individuals with disabilities,0
+BEAD,2.1,Renda e classe,covered household,0
+BEAD,2.1,Renda e classe,covered households,0
+BEAD,2.1,Renda e classe,economically disadvantaged,0
+BEAD,2.1,Renda e classe,low-income,142
+BEAD,2.1,Renda e classe,poverty level,1
+BEAD,2.1,Renda e classe,poverty levels,0
+BEAD,2.1,Renda e classe,poverty line,3
+BEAD,2.1,Renda e classe,poverty lines,0
+BEAD,2.2,Escolaridade e letramento,English learner,0
+BEAD,2.2,Escolaridade e letramento,English learners,0
+BEAD,2.2,Escolaridade e letramento,digital literacy,36
+BEAD,2.2,Escolaridade e letramento,language barrier,0
+BEAD,2.2,Escolaridade e letramento,language barriers,1
+BEAD,2.2,Escolaridade e letramento,limited English proficiency,1
+BEAD,2.2,Escolaridade e letramento,low literacy,0
+BEAD,2.2,Escolaridade e letramento,student,33
+BEAD,2.2,Escolaridade e letramento,students,203
+BEAD,2.3,Posição no trabalho,job training,10
+BEAD,2.3,Posição no trabalho,unemployed,3
+BEAD,2.3,Posição no trabalho,worker,4
+BEAD,2.3,Posição no trabalho,workers,155
+BEAD,2.3,Posição no trabalho,workforce,74
+BEAD,2.3,Posição no trabalho,workforces,2
+BEAD,2.4,Domicílio e arranjo familiar,families,118
+BEAD,2.4,Domicílio e arranjo familiar,family,100
+BEAD,2.4,Domicílio e arranjo familiar,household,55
+BEAD,2.4,Domicílio e arranjo familiar,households,223
+BEAD,2.5,Vínculo institucional,correctional facilities,1
+BEAD,2.5,Vínculo institucional,correctional facility,0
+BEAD,2.5,Vínculo institucional,incarcerated individual,0
+BEAD,2.5,Vínculo institucional,incarcerated individuals,0
+BEAD,2.5,Vínculo institucional,veteran,6
+BEAD,2.5,Vínculo institucional,veterans,36
+BEAD,3.1,Urbano e rural,rural,1114
+BEAD,3.1,Urbano e rural,rural area,2
+BEAD,3.1,Urbano e rural,rural areas,220
+BEAD,3.2,Macrorregião,Puerto Rico,69
+BEAD,3.2,Macrorregião,insular area,0
+BEAD,3.2,Macrorregião,insular areas,1
+BEAD,3.2,Macrorregião,territories,17
+BEAD,3.2,Macrorregião,territory,32
+BEAD,3.3,Infraestrutura e porte populacional,high-cost area,0
+BEAD,3.3,Infraestrutura e porte populacional,high-cost areas,6
+BEAD,3.3,Infraestrutura e porte populacional,last mile,12
+BEAD,3.3,Infraestrutura e porte populacional,underserved,89
+BEAD,3.3,Infraestrutura e porte populacional,underserved location,0
+BEAD,3.3,Infraestrutura e porte populacional,underserved locations,0
+BEAD,3.3,Infraestrutura e porte populacional,unserved,236
+BEAD,3.3,Infraestrutura e porte populacional,unserved location,0
+BEAD,3.3,Infraestrutura e porte populacional,unserved locations,25
+BEAD,3.5,Territórios de povos e comunidades tradicionais,Alaska Native Village,0
+BEAD,3.5,Territórios de povos e comunidades tradicionais,Alaska Native Villages,0
+BEAD,3.5,Territórios de povos e comunidades tradicionais,Indian Tribe,0
+BEAD,3.5,Territórios de povos e comunidades tradicionais,Indian Tribes,1
+BEAD,3.5,Territórios de povos e comunidades tradicionais,Tribal government,2
+BEAD,3.5,Territórios de povos e comunidades tradicionais,Tribal governments,11
+BEAD,3.5,Territórios de povos e comunidades tradicionais,Tribal land,1
+BEAD,3.5,Territórios de povos e comunidades tradicionais,Tribal lands,29
+BEAD,4.1,Educação,elementary and secondary school,0
+BEAD,4.1,Educação,elementary and secondary schools,0
+BEAD,4.1,Educação,institutions of higher education,0
+BEAD,4.1,Educação,minority-serving institution,0
+BEAD,4.1,Educação,minority-serving institutions,0
+BEAD,4.1,Educação,school,210
+BEAD,4.1,Educação,schools,115
+BEAD,4.2,Saúde,community health center,0
+BEAD,4.2,Saúde,community health centers,0
+BEAD,4.2,Saúde,health care facilities,6
+BEAD,4.2,Saúde,health care facility,0
+BEAD,4.2,Saúde,hospital,63
+BEAD,4.2,Saúde,hospitals,48
+BEAD,4.2,Saúde,telehealth,82
+BEAD,4.3,Cultura e informação,community anchor institution,0
+BEAD,4.3,Cultura e informação,community anchor institutions,4
+BEAD,4.3,Cultura e informação,community center,6
+BEAD,4.3,Cultura e informação,community centers,1
+BEAD,4.3,Cultura e informação,libraries,40
+BEAD,4.3,Cultura e informação,library,42
+BEAD,4.4,Administração pública,local government,23
+BEAD,4.4,Administração pública,local governments,70
+BEAD,4.4,Administração pública,public housing agencies,0
+BEAD,4.4,Administração pública,public housing agency,0

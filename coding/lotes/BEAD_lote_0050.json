@@ -1,0 +1,857 @@
+{
+ "caso": "BEAD",
+ "lote": 50,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0209::Domicílio e arranjo familiar",
+   "unit_id": "W0209",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Julie Zoller",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1588,
+     "fim_corpo": 2595,
+     "trecho": "Amazon has made an investment of more than $10 billion in Project Kuiper, and we’ve continued to invest in the infrastructure, people, and technology we need to deliver on our vision. We’ve assembled a team of world-class scientists and engineers; built a large R&D and production facility in Redmond, Washington; purchased more than 80 heavy-lift launches to deploy our constellation; and recently began construction on an advanced satellite manufacturing facility in Kirkland, Washington, giving us capacity to build up to four satellites per day. Our satellites are designed to deliver broadband service with speeds, latency, and reliability on par with terrestrial networks and to provide this connectivity in rural and remote areas almost anywhere in the world. Our constellation will serve individual households, as well as businesses, schools, hospitals, government agencies, and other organizations, and provide backhaul solutions for wireless carriers to extend LTE and 5G service."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0209::Educação",
+   "unit_id": "W0209",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Julie Zoller",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1588,
+     "fim_corpo": 2595,
+     "trecho": "Amazon has made an investment of more than $10 billion in Project Kuiper, and we’ve continued to invest in the infrastructure, people, and technology we need to deliver on our vision. We’ve assembled a team of world-class scientists and engineers; built a large R&D and production facility in Redmond, Washington; purchased more than 80 heavy-lift launches to deploy our constellation; and recently began construction on an advanced satellite manufacturing facility in Kirkland, Washington, giving us capacity to build up to four satellites per day. Our satellites are designed to deliver broadband service with speeds, latency, and reliability on par with terrestrial networks and to provide this connectivity in rural and remote areas almost anywhere in the world. Our constellation will serve individual households, as well as businesses, schools, hospitals, government agencies, and other organizations, and provide backhaul solutions for wireless carriers to extend LTE and 5G service."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0209::Infraestrutura e porte populacional",
+   "unit_id": "W0209",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Julie Zoller",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 722,
+     "trecho": "Statement by Julie Zoller Head of Global Regulatory Affairs, Project Kuiper, Amazon before the United States House of Representatives Energy and Commerce Committee Subcommittee on Communications and Technology February 2, 2023 Thank you, Chairwoman Rodgers, Ranking Member Pallone, Subcommittee Chairman Latta, Ranking Member Matsui, and Members of the Subcommittee. I am Julie Zoller, Head of Global Regulatory Affairs for Amazon’s Project Kuiper. I joined Amazon three years ago to work on Project Kuiper, a constellation of 3,236 satellites in low Earth orbit (LEO). Our mission is to deliver fast, affordable broadband to unserved and underserved communities in the United States and around the world."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 722,
+     "trecho": "Statement by Julie Zoller Head of Global Regulatory Affairs, Project Kuiper, Amazon before the United States House of Representatives Energy and Commerce Committee Subcommittee on Communications and Technology February 2, 2023 Thank you, Chairwoman Rodgers, Ranking Member Pallone, Subcommittee Chairman Latta, Ranking Member Matsui, and Members of the Subcommittee. I am Julie Zoller, Head of Global Regulatory Affairs for Amazon’s Project Kuiper. I joined Amazon three years ago to work on Project Kuiper, a constellation of 3,236 satellites in low Earth orbit (LEO). Our mission is to deliver fast, affordable broadband to unserved and underserved communities in the United States and around the world."
+    },
+    {
+     "inicio_corpo": 722,
+     "fim_corpo": 1588,
+     "trecho": "We are proud to advance the space and satellite capabilities of the United States, and we appreciate the work by this committee, the Federal Communications Commission (FCC), and the whole of the government to ensure that the United States maintains its strong space leadership. 1. Background on Project Kuiper Amazon is built around three big ideas: customer obsession, long-term thinking, and a willingness to invent. Kuiper is an example of how we bring those principles to life. We examined the need for broadband access and considered what we could invent to help customers beyond the reach of traditional wired and wireless solutions. Kuiper was the answer. With our ability to innovate and scale, we knew we could deliver an affordable, high-speed broadband solution to tens of millions of customers in unserved and underserved communities."
+    },
+    {
+     "inicio_corpo": 722,
+     "fim_corpo": 1588,
+     "trecho": "We are proud to advance the space and satellite capabilities of the United States, and we appreciate the work by this committee, the Federal Communications Commission (FCC), and the whole of the government to ensure that the United States maintains its strong space leadership. 1. Background on Project Kuiper Amazon is built around three big ideas: customer obsession, long-term thinking, and a willingness to invent. Kuiper is an example of how we bring those principles to life. We examined the need for broadband access and considered what we could invent to help customers beyond the reach of traditional wired and wireless solutions. Kuiper was the answer. With our ability to innovate and scale, we knew we could deliver an affordable, high-speed broadband solution to tens of millions of customers in unserved and underserved communities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0209::Saúde",
+   "unit_id": "W0209",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Julie Zoller",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1588,
+     "fim_corpo": 2595,
+     "trecho": "Amazon has made an investment of more than $10 billion in Project Kuiper, and we’ve continued to invest in the infrastructure, people, and technology we need to deliver on our vision. We’ve assembled a team of world-class scientists and engineers; built a large R&D and production facility in Redmond, Washington; purchased more than 80 heavy-lift launches to deploy our constellation; and recently began construction on an advanced satellite manufacturing facility in Kirkland, Washington, giving us capacity to build up to four satellites per day. Our satellites are designed to deliver broadband service with speeds, latency, and reliability on par with terrestrial networks and to provide this connectivity in rural and remote areas almost anywhere in the world. Our constellation will serve individual households, as well as businesses, schools, hospitals, government agencies, and other organizations, and provide backhaul solutions for wireless carriers to extend LTE and 5G service."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0209::Urbano e rural",
+   "unit_id": "W0209",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Julie Zoller",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1588,
+     "fim_corpo": 2369,
+     "trecho": "Amazon has made an investment of more than $10 billion in Project Kuiper, and we’ve continued to invest in the infrastructure, people, and technology we need to deliver on our vision. We’ve assembled a team of world-class scientists and engineers; built a large R&D and production facility in Redmond, Washington; purchased more than 80 heavy-lift launches to deploy our constellation; and recently began construction on an advanced satellite manufacturing facility in Kirkland, Washington, giving us capacity to build up to four satellites per day. Our satellites are designed to deliver broadband service with speeds, latency, and reliability on par with terrestrial networks and to provide this connectivity in rural and remote areas almost anywhere in the world."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0210::Domicílio e arranjo familiar",
+   "unit_id": "W0210",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Kari Bingen",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 18735,
+     "fim_corpo": 19649,
+     "trecho": "Bingen: Written Testimony, House E&C Comms & Tech Subcommittee 02/02/23 6 A particularly acute area of space competition is in commercial SATCOM, which CSIS recently examined in a study on low Earth orbit (LEO) broadband networks. U.S. and foreign companies are investing in large constellations of satellites —each comprising hundreds to thousands of satellites—that orbit the Earth at altitudes lower than 1,000 kilometers. These space -based broadband internet constellations offer a compelling solution for bridging the digital divide, where nearly 40 percent of the world’s population remain unconnected. 17 In the United States alone, 28 percent of rural households (roughly 4.8 million Americans) remain unconnected.18 Market opportunity The market potential for such connectivity remains high, as more consumers and businesses demand higher bandwidth, speed, and quality."
+    },
+    {
+     "inicio_corpo": 18983,
+     "fim_corpo": 20115,
+     "trecho": "U.S. and foreign companies are investing in large constellations of satellites —each comprising hundreds to thousands of satellites—that orbit the Earth at altitudes lower than 1,000 kilometers. These space -based broadband internet constellations offer a compelling solution for bridging the digital divide, where nearly 40 percent of the world’s population remain unconnected. 17 In the United States alone, 28 percent of rural households (roughly 4.8 million Americans) remain unconnected.18 Market opportunity The market potential for such connectivity remains high, as more consumers and businesses demand higher bandwidth, speed, and quality. The global SATCOM market is estimated to grow to $40 billion by 2030, largely driven by LEO -based ventures, with global subscribership increasing 11 percent in 2021—up to 3 million people —since the year prior. 19 For households and businesses in remote and hard-to-reach areas, where building dedicated ground infrastructure like cable laying and network tower construction is too expensive or infeasible, LEO systems can provide quality internet coverage."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0210::Urbano e rural",
+   "unit_id": "W0210",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Kari Bingen",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 18735,
+     "fim_corpo": 19649,
+     "trecho": "Bingen: Written Testimony, House E&C Comms & Tech Subcommittee 02/02/23 6 A particularly acute area of space competition is in commercial SATCOM, which CSIS recently examined in a study on low Earth orbit (LEO) broadband networks. U.S. and foreign companies are investing in large constellations of satellites —each comprising hundreds to thousands of satellites—that orbit the Earth at altitudes lower than 1,000 kilometers. These space -based broadband internet constellations offer a compelling solution for bridging the digital divide, where nearly 40 percent of the world’s population remain unconnected. 17 In the United States alone, 28 percent of rural households (roughly 4.8 million Americans) remain unconnected.18 Market opportunity The market potential for such connectivity remains high, as more consumers and businesses demand higher bandwidth, speed, and quality."
+    },
+    {
+     "inicio_corpo": 20661,
+     "fim_corpo": 21737,
+     "trecho": "While the initial use - case for LEO SATCOM systems largely rests on broadband delivery, the universe of applications will continue to expand as the technology matures. Competition While U.S. company SpaceX was first to the large- scale market with its Starlink constellation, others like Amazon, with its Project Kuiper, are entering this burgeoning market. Internationally, extensive state- backed and private resources are being invest ed to establish LEO satellite constellations, with Canada’s Telesat LightSpeed and newly merged OneWeb/Eutelsat as two example competitors. However, outside of western competitors, China’s LEO broadband 17 “Digital around the World,” Datarportal, accessed January 31, 2023, https://datareportal.com/global-digital- overview. 18 Emily A. Vogels, “Some Digital Divides Persist between Rural, Urban and Suburban America,” Pew Research Center, October 19, 2021, https://www.pewresearch.org/fact-tank/2021/08/19/some-digital-divides-persist-between- rural-urban-and-suburban-america/; “QuickFacts: United States,” U.S."
+    },
+    {
+     "inicio_corpo": 20831,
+     "fim_corpo": 21737,
+     "trecho": "Competition While U.S. company SpaceX was first to the large- scale market with its Starlink constellation, others like Amazon, with its Project Kuiper, are entering this burgeoning market. Internationally, extensive state- backed and private resources are being invest ed to establish LEO satellite constellations, with Canada’s Telesat LightSpeed and newly merged OneWeb/Eutelsat as two example competitors. However, outside of western competitors, China’s LEO broadband 17 “Digital around the World,” Datarportal, accessed January 31, 2023, https://datareportal.com/global-digital- overview. 18 Emily A. Vogels, “Some Digital Divides Persist between Rural, Urban and Suburban America,” Pew Research Center, October 19, 2021, https://www.pewresearch.org/fact-tank/2021/08/19/some-digital-divides-persist-between- rural-urban-and-suburban-america/; “QuickFacts: United States,” U.S."
+    },
+    {
+     "inicio_corpo": 21032,
+     "fim_corpo": 21946,
+     "trecho": "Internationally, extensive state- backed and private resources are being invest ed to establish LEO satellite constellations, with Canada’s Telesat LightSpeed and newly merged OneWeb/Eutelsat as two example competitors. However, outside of western competitors, China’s LEO broadband 17 “Digital around the World,” Datarportal, accessed January 31, 2023, https://datareportal.com/global-digital- overview. 18 Emily A. Vogels, “Some Digital Divides Persist between Rural, Urban and Suburban America,” Pew Research Center, October 19, 2021, https://www.pewresearch.org/fact-tank/2021/08/19/some-digital-divides-persist-between- rural-urban-and-suburban-america/; “QuickFacts: United States,” U.S. Census Bureau, accessed November 18, 2022, https://www.census.gov/quickfacts/fact/table/US/HSD410220; and Elizabeth A. Dobis et al., Rural America at a Glance: at a Glance 2021 Edition (Washington, DC: U.S."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0213::Infraestrutura e porte populacional",
+   "unit_id": "W0213",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. David Goldman",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12437,
+     "fim_corpo": 13565,
+     "trecho": "market. For the record, please explain how the current U.S. system allows foreign licensed systems to evade U.S. regulations, what the FCC has done and could do to address this issue, and what actions, if any, congress should take to address the issue. With the pace of space innovation speeding up, the U.S. needs a regulatory process that can keep up. Unfortunately, outdated regulations, exacerbated by the proliferation of delay tactics employed for foreign competitors and late comers, has contributed to the lengthening time it takes for the FCC to process applications. For companies seeking licenses in the United States, the average processing time now takes over two and a half years, with the trend line pointing in the wrong direction. These timelines create an impossible situation for American operators. The extreme demand to connect unserved Americans quickly, coupled with a lengthy timeline for regulatory reviews, Rocket Road, Hawthorne, CA 90250 | phone 310.363.6000 | fax 310.363.6001 | spacex.com drive U.S."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0213::Macrorregião",
+   "unit_id": "W0213",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. David Goldman",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9266,
+     "fim_corpo": 10124,
+     "trecho": "In addition to debris from the destruction of satellites, derelict rocket bodies have also contributed significant quantities of orbital debris. The Department of Defense currently tracks more than 27,000 pieces of orbital debris through the Space Surveillance Network. There are an estimated 500,000 objects approximately one centimeter in size or larger, and more than 100 million objects at least one millimeter in size. Low Earth orbit (“LEO”) constellations, if properly conceived, manufactured and operated, present a highly manageable, low-risk to the space environment, especially when operated at altitudes below 600 km. Rep. Pfluger 1. Given recent concerns over spying on American territory, can you talk about the dual-use, or commercial and defense nature of satellite technology, and the importance of America leading in this area?"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0214::Urbano e rural",
+   "unit_id": "W0214",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Peter Davidson",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1205,
+     "fim_corpo": 2105,
+     "trecho": "• We support the goals in the Satellite and Telecommunications Streamlining Act to eliminate the processing round system, expedite the FCC application process, set clear guidelines for technical compatibility among the various satellite systems, and address space sustainability. • Intelsat also supports the goals of the LAUNCHES Act to further streamline the application process by eliminating unnecessary barriers to obtain spectrum licenses required to launch rockets from the U.S. • The ALERT Parity Act requires the FCC to establish rules that enable the provision of emergency connectivity service in remote areas. Everyone deserves to have access to emergency services no matter where they live, and this legislation moves us closer to this goal. • We also support the goal of the Precision Agriculture Connectivity Act to provide connectivity to hard-to-reach rural areas."
+    },
+    {
+     "inicio_corpo": 1490,
+     "fim_corpo": 2245,
+     "trecho": "• Intelsat also supports the goals of the LAUNCHES Act to further streamline the application process by eliminating unnecessary barriers to obtain spectrum licenses required to launch rockets from the U.S. • The ALERT Parity Act requires the FCC to establish rules that enable the provision of emergency connectivity service in remote areas. Everyone deserves to have access to emergency services no matter where they live, and this legislation moves us closer to this goal. • We also support the goal of the Precision Agriculture Connectivity Act to provide connectivity to hard-to-reach rural areas. Much of the agricultural production in the U.S. takes place in very rural areas, some of which do not have access to terrestrial service."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0218::Urbano e rural",
+   "unit_id": "W0218",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Brad Gillen",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3580,
+     "fim_corpo": 4535,
+     "trecho": "China and others are using the 4.8-4.99 GHz band for 5G services today, and we expect other countries to follow suit. Here too, we do not expect a one-size-fits-all approach to different government systems and uses, and believe detailed study is warranted to identify the best portion of the band for future commercial use. 7/8 GHz Band. The 7/8 GHz band (7.125–8.4 GHz) is another prime government-held mid- band resource that NTIA has already identified as underutilized. Like the 4 GHz band, this large block of spectrum is ripe for detailed congressional review to identify the best opportunities for future commercial access to meet America’s need for more wireless data and preserve key government services. As Congress considers future commercial access, it is important to keep at the forefront the need to ensure 5G can reach rural and exurban communities and deliver the security and reliability 5G applications will require."
+    },
+    {
+     "inicio_corpo": 4308,
+     "fim_corpo": 5110,
+     "trecho": "As Congress considers future commercial access, it is important to keep at the forefront the need to ensure 5G can reach rural and exurban communities and deliver the security and reliability 5G applications will require. We urge Congress to seek solutions that provide full power commercial access without the risk of federal preemption over commercial use. That is why traditional FCC auctions are the best approach and the Committee should be wary of calls to prematurely expand the CBRS spectrum experiment at 3.5 GHz to new bands. That complex sharing system has not yet worked as envisioned and its low power design means 10 operators need to build as many as seven times more towers in rural areas to reach the same community, increasing the cost to serving rural Americans."
+    },
+    {
+     "inicio_corpo": 4308,
+     "fim_corpo": 5110,
+     "trecho": "As Congress considers future commercial access, it is important to keep at the forefront the need to ensure 5G can reach rural and exurban communities and deliver the security and reliability 5G applications will require. We urge Congress to seek solutions that provide full power commercial access without the risk of federal preemption over commercial use. That is why traditional FCC auctions are the best approach and the Committee should be wary of calls to prematurely expand the CBRS spectrum experiment at 3.5 GHz to new bands. That complex sharing system has not yet worked as envisioned and its low power design means 10 operators need to build as many as seven times more towers in rural areas to reach the same community, increasing the cost to serving rural Americans."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0220::Domicílio e arranjo familiar",
+   "unit_id": "W0220",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "James Assey",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 928,
+     "trecho": "TESTIMONY OF JAMES ASSEY EXECUTIVE VICE PRESIDENT NCTA - THE INTERNET AND TELEVISION ASSOCIATION before the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology “Defending America’s Wireless Leadership” March 10, 2023 Introduction Good morning, Chairman Latta, Ranking Member Matsui, and Members of the Subcommittee. My name is James Assey, and I am the Executive Vice President of NCTA – the Internet and Television Association. Thank you for the opportunity to testify today on the important topic of defending America’s wireless leadership. NCTA is the principal trade association for the U.S. cable industry, representing cable operators serving approximately 90 percent of the nation’s cable television households and more than 200 cable program networks with a rich history of creating award-winning programming."
+    },
+    {
+     "inicio_corpo": 16229,
+     "fim_corpo": 17136,
+     "trecho": "For example, the Wi-Fi Alliance estimates that the global value of Wi-Fi will reach nearly $5 trillion by 2025. Similarly, a report by the Consumer Technology Association in February 2022 estimated that Wi-Fi and other unlicensed wireless technologies together annually generate $95.8 billion in incremental economic sales annually. As the FCC has explained, “[u]nlicensed devices that employ Wi-Fi and other unlicensed standards have become indispensable for providing low-cost wireless connectivity in countless products used by American consumers.” For many, Wi-Fi is synonymous with internet access, and for good reason: More than 80% of data traffic consumed on mobile phones goes over Wi-Fi, and an increasing majority of all global internet traffic. Across Comcast households, for example, nearly a billion devices connected to Wi-Fi in 2021, representing a 12X increase since 2018."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0220::Educação",
+   "unit_id": "W0220",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "James Assey",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10510,
+     "fim_corpo": 11541,
+     "trecho": "Cable companies were major participants in the auction of CBRS licenses, but auction winners also included a broad range of diverse bidders including traditional wireless carriers, utilities, and manufacturers, demonstrating the value and utility of shared-licensed spectrum. The auction overall was a success, raising $4.6 billion from 228 diverse winning bidders–almost 10 times the number of winning bidders in the exclusive-use 3.45 GHz band auction. The lower power operations in this band facilitate sharing between commercial operators and federal users, creating an incredibly efficient use of valuable spectrum resources, while expanding 5G services to more consumers across the country. CBRS is now being used throughout the country, with over 285,000 CBRS base station devices already deployed. A wide array of entities, including school districts, cities, sports stadiums, warehouse complexes, healthcare providers, and the military, now utilize the CBRS band to obtain 5G capability and performance."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0220::Renda e classe",
+   "unit_id": "W0220",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "James Assey",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 418,
+     "fim_corpo": 1177,
+     "trecho": "My name is James Assey, and I am the Executive Vice President of NCTA – the Internet and Television Association. Thank you for the opportunity to testify today on the important topic of defending America’s wireless leadership. NCTA is the principal trade association for the U.S. cable industry, representing cable operators serving approximately 90 percent of the nation’s cable television households and more than 200 cable program networks with a rich history of creating award-winning programming. The cable industry is also a leading provider of broadband service. Over the past 10 years, cable companies have invested more than $172 billion in fiber-rich broadband deployment and upgrades, including in low-income, rural, and remote areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0220::Urbano e rural",
+   "unit_id": "W0220",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "James Assey",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 418,
+     "fim_corpo": 1177,
+     "trecho": "My name is James Assey, and I am the Executive Vice President of NCTA – the Internet and Television Association. Thank you for the opportunity to testify today on the important topic of defending America’s wireless leadership. NCTA is the principal trade association for the U.S. cable industry, representing cable operators serving approximately 90 percent of the nation’s cable television households and more than 200 cable program networks with a rich history of creating award-winning programming. The cable industry is also a leading provider of broadband service. Over the past 10 years, cable companies have invested more than $172 billion in fiber-rich broadband deployment and upgrades, including in low-income, rural, and remote areas."
+    },
+    {
+     "inicio_corpo": 4370,
+     "fim_corpo": 5161,
+     "trecho": "Technological Innovation, Competition, and Forward Planning on Spectrum Policy Will Continue to be Essential The need for new spectrum continues unabated, driven by innovative applications like the Internet of Things, robotics, and virtual and augmented reality technology. These applications not only require the broadband connectivity provided by cable networks but will unquestionably require policymakers to find new ways to make more of the radio spectrum available to support these uses. Access to spectrum is essential to cable’s ability to compete and continue to innovate, and indeed for any small, rural, or non-traditional wireless provider to be able to develop and deliver new connectivity services to meet the data, automation, and industrial needs of the future."
+    },
+    {
+     "inicio_corpo": 4873,
+     "fim_corpo": 5838,
+     "trecho": "Access to spectrum is essential to cable’s ability to compete and continue to innovate, and indeed for any small, rural, or non-traditional wireless provider to be able to develop and deliver new connectivity services to meet the data, automation, and industrial needs of the future. The FCC’s Communications Marketplace Report notes that AT&T, T-Mobile, and Verizon Wireless, together held approximately 78% of all the spectrum included in the Commission’s spectrum screen, measured on a MHz-POPs basis. Making more spectrum available is essential to introducing more competition into the wireless marketplace. Spectrum is also increasingly critical for private networks, which are being used to for industrial automation, artificial intelligence, and predictive maintenance, in environments ranging from warehouses, ports, factories, airports, and office buildings, in rural as well as densely populated areas, supporting supply chain efficiency."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0221::Domicílio e arranjo familiar",
+   "unit_id": "W0221",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Monisha Ghosh",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 16609,
+     "fim_corpo": 17468,
+     "trecho": "Information sharing between incumbent users and new backhaul services can facilitate sharing in these bands. Even when backhaul is available, it may not be cost effective for a commercial provider to serve small numbers of consumers. Spectrum policy that makes available cost-effective spectrum to small providers and communities to deploy and manage their own wide-area networks can be very effective in bridging the digital divide in both urban and rural communities. For example, the Wireless Institute at the University of Notre Dame advised the City of South Bend and South Bend School Corporation to deploy a CBRS network that provides another connectivity option to 1000 families who otherwise would not have access to similar levels of connectivity at an affordable rate, even though South Bend is fairly well served by the major providers7."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0221::Educação",
+   "unit_id": "W0221",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Monisha Ghosh",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "minority-serving institutions",
+     "forma_encontrada": "Minority Serving Institutions",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3203,
+     "fim_corpo": 4215,
+     "trecho": "I am also an active member of industry’s NextG Alliance, developing standards for 6G and beyond, and the National Spectrum Consortium’s (NSC) Partnering to Advance Trusted and Holistic Spectrum Solutions (PATHSS) Task Group which partners with the Department of Defense (DoD) to explore efficient sharing solutions that will make more mid-band spectrum, specifically in 3.1 – 3.45 GHz, available for commercial wireless applications. I am also the Policy Outreach Director for SpectrumX2, NSF’s Center for Spectrum Innovation, led by the Wireless Institute3 in the College of Engineering at the University of Notre Dame. SpectrumX was initiated in September 2021 with a five year $25M NSF grant that brings together 41 researchers and staff from 27 universities and a number of Minority Serving Institutions (MSIs) with broad expertise spanning radio technologies, wireless terrestrial and satellite networks, scientific uses of spectrum and economic considerations related to spectrum allocations."
+    },
+    {
+     "inicio_corpo": 16380,
+     "fim_corpo": 17468,
+     "trecho": "mmWave and THz links can provide the fiber-like bandwidth required for backhaul services; however, attention must be paid to appropriate coexistence and sharing mechanisms with scientific missions that operate in those bands. Information sharing between incumbent users and new backhaul services can facilitate sharing in these bands. Even when backhaul is available, it may not be cost effective for a commercial provider to serve small numbers of consumers. Spectrum policy that makes available cost-effective spectrum to small providers and communities to deploy and manage their own wide-area networks can be very effective in bridging the digital divide in both urban and rural communities. For example, the Wireless Institute at the University of Notre Dame advised the City of South Bend and South Bend School Corporation to deploy a CBRS network that provides another connectivity option to 1000 families who otherwise would not have access to similar levels of connectivity at an affordable rate, even though South Bend is fairly well served by the major providers7."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0221::Posição no trabalho",
+   "unit_id": "W0221",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Monisha Ghosh",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 899,
+     "trecho": "Testimony of Professor Monisha Ghosh Department of Electrical Engineering, University of Notre Dame. Policy Outreach Director, SpectrumX. Research Professor (Adjunct), University of Chicago. Joint Appointment, Argonne National Laboratory. Before the House Energy and Commerce Committee Subcommittee on Communications and Technology Hearing on the Future of Spectrum Management entitled “Defending America’s Wireless Leadership” March 10, 2023 Good morning Chairwoman Rodgers, Chairman Latta, Ranking Member Matsui, Ranking Member Pallone, and members of the Committee and Subcommittee. Thank you for the opportunity to testify today on the extremely timely and important discussions regarding the future of spectrum management and how we can continue to grow America’s leadership of the entire wireless ecosystem: current technology, future innovation and workforce development."
+    },
+    {
+     "inicio_corpo": 3832,
+     "fim_corpo": 4704,
+     "trecho": "SpectrumX was initiated in September 2021 with a five year $25M NSF grant that brings together 41 researchers and staff from 27 universities and a number of Minority Serving Institutions (MSIs) with broad expertise spanning radio technologies, wireless terrestrial and satellite networks, scientific uses of spectrum and economic considerations related to spectrum allocations. A Memorandum of Agreement (MOA) is in place among the NSF, FCC, and the National Telecommunications and Information Administration (NTIA) to ensure that the research undertaken in SpectrumX can directly impact spectrum issues of importance to the nation. In addition to research, major focus areas of the Center are broadening participation in spectrum research and developing a workforce that can continue to expand America’s leadership in spectrum policy and wireless technologies."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0221::Urbano e rural",
+   "unit_id": "W0221",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Monisha Ghosh",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5234,
+     "fim_corpo": 5866,
+     "trecho": "It is increasingly clear that all these options need to be considered, especially in the next range of coveted mid-bands, 7 – 24 GHz. 2SpectrumX: https://www.spectrumx.org/ 3 Wireless Institute at Notre Dame: https://wireless.nd.edu/ America needs to continue its wireless leadership in all areas that require access to spectrum: commercial, scientific and national security applications. (2) Bridging the digital divide will require attention to both availability and affordability of broadband to ensure that there is equity of services available between rural, inner-city urban and suburban residents across America."
+    },
+    {
+     "inicio_corpo": 13875,
+     "fim_corpo": 14818,
+     "trecho": "For example, modern wireless systems, both cellular and Wi-Fi, use smart antenna array systems that tailor the transmitted energy optimally in 3-dimensional space towards intended users. The same systems could also be adapted to steer energy away from incumbent systems. Such approaches require changes in 6G and beyond standards to be “sharing native”, i.e., designed from the very beginning to operate in shared frequency bands with incumbents instead of solely in licensed or unlicensed bands. The US, with its rich history of spectrum sharing innovations in TVWS, 6 GHz and CBRS is well positioned to be the worldwide leader in standards development in this space. (2) Bridging the digital divide will require harnessing all the policy and technology tools at our disposal to address the twin issues of availability and affordability. In most rural areas the problem is one of availability of broadband, both fixed and mobile."
+    },
+    {
+     "inicio_corpo": 14551,
+     "fim_corpo": 15629,
+     "trecho": "(2) Bridging the digital divide will require harnessing all the policy and technology tools at our disposal to address the twin issues of availability and affordability. In most rural areas the problem is one of availability of broadband, both fixed and mobile. NTIA’s Broadband, Equity, Access and Deployment (BEAD) program will oversee fiber deployments that will bring true broadband (defined as a minimum of 100 Mbps downlink and 20 Mbps uplink, or 100/20) to all “serviceable” locations as identified in FCC’s National Broadband Map. However, this will not solve the problem of broadband availability to serve, for example, the needs of precision agriculture in farmland: a tractor or a field of corn is not a “serviceable” structure. While satellite services can address some of these needs, terrestrial services will still be required for many such rural applications: our research and measurements have shown that sensors in a field of full-grown corn are very difficult to reach even with cellular IoT due to the signal attenuation from the corn biomass6."
+    },
+    {
+     "inicio_corpo": 16263,
+     "fim_corpo": 17084,
+     "trecho": "In areas where fiber cannot be deployed, we must also consider alternate modes of connectivity, often wireless. mmWave and THz links can provide the fiber-like bandwidth required for backhaul services; however, attention must be paid to appropriate coexistence and sharing mechanisms with scientific missions that operate in those bands. Information sharing between incumbent users and new backhaul services can facilitate sharing in these bands. Even when backhaul is available, it may not be cost effective for a commercial provider to serve small numbers of consumers. Spectrum policy that makes available cost-effective spectrum to small providers and communities to deploy and manage their own wide-area networks can be very effective in bridging the digital divide in both urban and rural communities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0222::Educação",
+   "unit_id": "W0222",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Jayanta Bhattacharya",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 270,
+     "trecho": "Prepared Statement by Dr. Jay Bhattacharya March 27, 2023 Thank you for the opportunity to address this committee. I am a Professor of Health Policy at Stanford University School of Medicine and a research associate at the National Bureau of Economic Research."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 920,
+     "trecho": "Prepared Statement by Dr. Jay Bhattacharya March 27, 2023 Thank you for the opportunity to address this committee. I am a Professor of Health Policy at Stanford University School of Medicine and a research associate at the National Bureau of Economic Research. I hold an M.D. and Ph.D. from Stanford University. Because of my views on COVID-19 restrictions, I have been specifically targeted for censorship by federal government officials. On October 4, 2020, I and two colleagues—Dr. Martin Kulldorff, a professor of medicine at Harvard University, and Dr. Sunetra Gupta, an epidemiologist at the University of Oxford— published the \"Great Barrington Declaration.\" The declaration called for an end to economic lockdowns, school shutdowns, and similar restrictive policies on the ground that they disproportionately harm the young and economically disadvantaged while conferring limited benefits."
+    },
+    {
+     "inicio_corpo": 6090,
+     "fim_corpo": 7731,
+     "trecho": "This suppression of scientific discussion online clearly violates the U.S. first amendment. But perhaps even more importantly, the censorship of scientific discussion permitted a policy environment where clear scientific truths were muddled, and as a result, destructive and ineffective policies persisted much longer than they would have otherwise. In May 2022, the U.S. Office of the Surgeon General released a public call to identify misinformation about covid. Along with Martin Kulldorff and the Indiana Attorney General, we sent a response in which we identified nine specific areas where the primary source of misinformation was the government itself. The topics included ignoring many facts: that the risk of covid is steeply age-stratified; that recovery from covid provides substantial immunity; that the covid vaccines do not stop disease transmission; that school closures were not warranted; that there was no alternative to lockdowns; or that masks block disease transmission; and several other topics. Government censorship permitted all these ideas –many of which are not particularly controversial in the scientific community -- from gaining traction, and as a result, many people suffered from destructive policies like school closures and vaccine passports. If we learn anything from the pandemic, it should be that the First Amendment is more important during a pandemic, not less. 4 Wall Street Journal Editorial Board. (2021) “YouTube’s Assault on Covid Accountability” Wall Street Journal. April 8, 2021. https://www.wsj.com/articles/youtubes-assault-on-covid-accountability-11617921149"
+    },
+    {
+     "inicio_corpo": 6472,
+     "fim_corpo": 7731,
+     "trecho": "Office of the Surgeon General released a public call to identify misinformation about covid. Along with Martin Kulldorff and the Indiana Attorney General, we sent a response in which we identified nine specific areas where the primary source of misinformation was the government itself. The topics included ignoring many facts: that the risk of covid is steeply age-stratified; that recovery from covid provides substantial immunity; that the covid vaccines do not stop disease transmission; that school closures were not warranted; that there was no alternative to lockdowns; or that masks block disease transmission; and several other topics. Government censorship permitted all these ideas –many of which are not particularly controversial in the scientific community -- from gaining traction, and as a result, many people suffered from destructive policies like school closures and vaccine passports. If we learn anything from the pandemic, it should be that the First Amendment is more important during a pandemic, not less. 4 Wall Street Journal Editorial Board. (2021) “YouTube’s Assault on Covid Accountability” Wall Street Journal. April 8, 2021. https://www.wsj.com/articles/youtubes-assault-on-covid-accountability-11617921149"
+    }
+   ]
+  }
+ ]
+}

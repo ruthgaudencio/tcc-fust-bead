@@ -1,0 +1,1111 @@
+{
+ "caso": "BEAD",
+ "lote": 54,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0241::Saúde",
+   "unit_id": "W0241",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 492,
+     "fim_corpo": 1344,
+     "trecho": "The last time that I appeared before this body, I remarked that we stood at an inflection point in our communications history. I continue to believe that is the case. Broadband has emerged as a linchpin of opportunity in our modern economy, creating a new sense of urgency to connect all Americans, everywhere. At the same time, wireless networks continue to evolve to new and vastly more capable technology generations , driving a need for ubiquity and greater access to the scarce commodity we call spectrum. Amidst our greater interconnectedness, we also continue to face new threats from bad actors and foreign adversaries. Now more than ever before, our network security is national security. In the age of online job boards , telehealth, and the homework gap, millions of Americans remain without a home broadband connection ."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0241::Urbano e rural",
+   "unit_id": "W0241",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1014,
+     "fim_corpo": 1811,
+     "trecho": "Amidst our greater interconnectedness, we also continue to face new threats from bad actors and foreign adversaries. Now more than ever before, our network security is national security. In the age of online job boards , telehealth, and the homework gap, millions of Americans remain without a home broadband connection . For far too many of them, affordability is a key reason why. In response to the problem, Congress established the Affordable Connectivity Program (ACP), which we implemented. As of June 12, 18.68 million households were enrolled in ACP. That figure includes more than 100,000 households in 36 states, 10,000 households in all 50 states, and at least 100 households in several thousand rural zip codes, including more than 80 percent of non-metro counties ."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0242::Domicílio e arranjo familiar",
+   "unit_id": "W0242",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 824,
+     "fim_corpo": 1686,
+     "trecho": "The pandemic proved with clarity what this Committee and Commission have long known to be true: broadband access is essential for full participation in modern life. From New York to California, Texas to Michigan, and everywhere in between, the connected world we have come to rely on it isn’t going away. High-speed internet access is no longer just a nice-to-have; it’s a need-to-have for everyone, everywhere. This connectivity fuels our economy and is fundamental to U.S. leadership on a global stage. Across the board, the agency has turned down the volume and ramped up the work. So let me highlight ten things we have been working on. First, the Commission’s Affordable Connectivity Program, the largest broadband affordability program in our nation’s history now helps more than 18 million households pay for high-speed internet service."
+    },
+    {
+     "inicio_corpo": 1134,
+     "fim_corpo": 1997,
+     "trecho": "High-speed internet access is no longer just a nice-to-have; it’s a need-to-have for everyone, everywhere. This connectivity fuels our economy and is fundamental to U.S. leadership on a global stage. Across the board, the agency has turned down the volume and ramped up the work. So let me highlight ten things we have been working on. First, the Commission’s Affordable Connectivity Program, the largest broadband affordability program in our nation’s history now helps more than 18 million households pay for high-speed internet service. Across the country, I have met with people who have been able to get online and stay connected thanks to this program. With success comes responsibility. Our current projections indicate that our appropriated funds to continue this program and keep these households connected could run out within a year."
+    },
+    {
+     "inicio_corpo": 1243,
+     "fim_corpo": 2192,
+     "trecho": "This connectivity fuels our economy and is fundamental to U.S. leadership on a global stage. Across the board, the agency has turned down the volume and ramped up the work. So let me highlight ten things we have been working on. First, the Commission’s Affordable Connectivity Program, the largest broadband affordability program in our nation’s history now helps more than 18 million households pay for high-speed internet service. Across the country, I have met with people who have been able to get online and stay connected thanks to this program. With success comes responsibility. Our current projections indicate that our appropriated funds to continue this program and keep these households connected could run out within a year. I strongly support funding the Affordable Connectivity Program into the future to help more families get and stay connected to the high- speed internet they need to participate in modern life."
+    },
+    {
+     "inicio_corpo": 3149,
+     "fim_corpo": 4035,
+     "trecho": "It’s time the FCC took a fresh look. Third, the agency’s work to create the National Broadband Map—the most accurate broadband map every created--will help close the digital divide. For decades, the Commission produced broadband maps based on Census blocks. In practice, this meant that if there was high- speed internet service in a single location in a Census block, the agency assumed there was service throughout the area. Needless to say, this methodology overstated service nationwide. Following the Broadband DATA Act, in November 2022, the FCC developed its first location- based broadband map to paint a more accurate picture of where broadband is and is not available across the United States. And we just updated it again on May 30. This new map identifies every household and small business in the country that should have access to high-speed internet service."
+    },
+    {
+     "inicio_corpo": 4035,
+     "fim_corpo": 4841,
+     "trecho": "For context, on how much more granular this is than what came before, in our current mapping effort the Commission identified over 114 million locations where fixed broadband could be installed compared to data from just 8.1 million Census blocks in our prior maps. We will keep iterating and improving this map and look forward to using this data to help efforts all over this country to bring broadband to everyone, everywhere. Fourth, the Commission is working to connect the most vulnerable. This past February, the Commission took steps to implement the Safe Connections Act championed by members of this committee. Under this new law, the Commission now has authority to help survivors of domestic abuse to swiftly and securely separate from communications contracts like family plans."
+    },
+    {
+     "inicio_corpo": 4304,
+     "fim_corpo": 5242,
+     "trecho": "We will keep iterating and improving this map and look forward to using this data to help efforts all over this country to bring broadband to everyone, everywhere. Fourth, the Commission is working to connect the most vulnerable. This past February, the Commission took steps to implement the Safe Connections Act championed by members of this committee. Under this new law, the Commission now has authority to help survivors of domestic abuse to swiftly and securely separate from communications contracts like family plans. It also sets up a way for survivors to receive emergency communications support from Lifeline or the Affordable Connectivity Program for up to six months. We are also implementing the Martha Wright-Reed Just and Reasonable Communications Act. Because those in prison are often separated from their families by hundreds of miles and families may lack the time and means to make regular visits."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0242::Escolaridade e letramento",
+   "unit_id": "W0242",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "student",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6074,
+     "fim_corpo": 6918,
+     "trecho": "In addition, earlier this month, we took steps to make the video conferencing services that have become ubiquitous more accessible to people with disabilities. Fifth, we are doubling down on our efforts to stop scam robocalls and robotexts. Robocalls and robotexts aren’t just exasperating, they are a pathway for fraudsters to harm consumers. So, we have been attacking them from all angles—cutting off bad actors from our networks, requiring providers to block unwanted calls, and mandating technology to stop call 3 spoofing. Some of our efforts are beginning to bear fruit. After we identified the companies behind the auto warranty robocall scam, we told the rest of the industry to cut them off and auto warranty calls fell by 90 percent. We used the same method to reduce student loan scam calls by 88 percent."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0242::Macrorregião",
+   "unit_id": "W0242",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Puerto Rico",
+     "forma_encontrada": "Puerto Rico",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Puerto Rico",
+     "forma_encontrada": "Puerto Rico",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9960,
+     "fim_corpo": 10963,
+     "trecho": "The twin forces of always-on connectivity and the monetization of your personal data have never been so intertwined. In 2020, the FCC took an enforcement action against wireless carriers for selling and sharing customer geolocation data. I’ve asked my colleagues to vote for Forfeiture Orders to close out this enforcement action and impose fines for these violations. And just last week, I 4 announced the first-ever Privacy and Data Protection Task Force at the Commission. The Task Force will have input in several ongoing efforts, including modernizing the agency’s data breach rules and cracking down on SIM-swapping fraud. The digital-age privacy challenges we face are not going away, and we need to face them with new vigor. Eighth, we are working to make our networks more resilient. Last year, I traveled to Florida and Puerto Rico to survey the recovery efforts of Ian and Fiona, which we followed up with a virtual field hearing on hurricanes and communications."
+    },
+    {
+     "inicio_corpo": 10715,
+     "fim_corpo": 11567,
+     "trecho": "Eighth, we are working to make our networks more resilient. Last year, I traveled to Florida and Puerto Rico to survey the recovery efforts of Ian and Fiona, which we followed up with a virtual field hearing on hurricanes and communications. And I had the opportunity to learn from public safety officials in Louisiana. Thanks to these initiatives, we’ve learned lessons we can apply. We have updated our rules to improve the reliability and resiliency of wireless networks during emergencies. We launched the Mandatory Disaster Response Initiative, which promotes service continuity through coordination, assistance, and information sharing during emergencies and disasters. And we opened up our Network Outage Reporting Systems and Disaster Information Reporting System for sharing with Federal, state, Tribal and territory access."
+    },
+    {
+     "inicio_corpo": 10963,
+     "fim_corpo": 12111,
+     "trecho": "And I had the opportunity to learn from public safety officials in Louisiana. Thanks to these initiatives, we’ve learned lessons we can apply. We have updated our rules to improve the reliability and resiliency of wireless networks during emergencies. We launched the Mandatory Disaster Response Initiative, which promotes service continuity through coordination, assistance, and information sharing during emergencies and disasters. And we opened up our Network Outage Reporting Systems and Disaster Information Reporting System for sharing with Federal, state, Tribal and territory access. Sharing this information will enhance the ability of these agencies to respond more rapidly to outages and help save lives. And we are already active in our preparation for the 2023 hurricane season, including co- hosting a workshop last week in Puerto Rico with the Federal Emergency Management Agency, the Department of Energy, the Cybersecurity and Infrastructure Security Agency, and the Puerto Rico Governor’s Office, to improve coordination between the communications and energy sectors during disaster response and restoration."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0242::Saúde e deficiência",
+   "unit_id": "W0242",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "disabilities",
+     "forma_encontrada": "disabilities",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "disabilities",
+     "forma_encontrada": "disabilities",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5090,
+     "fim_corpo": 5915,
+     "trecho": "Because those in prison are often separated from their families by hundreds of miles and families may lack the time and means to make regular visits. Phone calls are the only way to stay connected. But when the price of a single phone call can be as much as most of us spend for unlimited monthly plans, it can be hard to stay in touch. This is not just a strain on the household budget. It harms all of us because regular contact with kin can reduce recidivism. We are going to use this new law and the expanded authority it provides to ensure the rates for prison phone calls—both interstate and intrastate—are just and reasonable. We are going to use it to address advanced communications services like video. And we are going to use it to ensure access to these communications by those with disabilities."
+    },
+    {
+     "inicio_corpo": 5433,
+     "fim_corpo": 6237,
+     "trecho": "This is not just a strain on the household budget. It harms all of us because regular contact with kin can reduce recidivism. We are going to use this new law and the expanded authority it provides to ensure the rates for prison phone calls—both interstate and intrastate—are just and reasonable. We are going to use it to address advanced communications services like video. And we are going to use it to ensure access to these communications by those with disabilities. Along the way, we will work to integrate these new efforts with what we have done before, so that across the board these policies are fair and sustainable. In addition, earlier this month, we took steps to make the video conferencing services that have become ubiquitous more accessible to people with disabilities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0244::Domicílio e arranjo familiar",
+   "unit_id": "W0244",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Bill Hurley",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 877,
+     "trecho": "TESTIMONY OF BILL HURLEY, CHAIR, ASSOCIATION OF EQUIPMENT MANUFACTURERS AG SECTOR BOARD BEFORE THE U.S. HOUSE COMMITTEE ON AGRICULTURE Hearing on “Closing the Digital Divide in Rural America” JUNE 21, 2023 Chairman Thompson, Ranking Member Scott, and distinguished members of the Committee. Thank you for the opportunity to appear before you and for holding this hearing today on closing the digital divide in rural America. A. INTRODUCTION My name is Bill Hurley, and I currently serve as Chair of the Ag Sector Board of the Association of Equipment Manufacturers. I am also a Vice President with AGCO Corporation, headquartered in Duluth, Georgia. I was born and raised in Franklin, a small town in central Texas with a population of less than 2,000 people. My family had a small farm not far from there in a place called Ridge, where my grandmother lived."
+    },
+    {
+     "inicio_corpo": 105,
+     "fim_corpo": 1001,
+     "trecho": "HOUSE COMMITTEE ON AGRICULTURE Hearing on “Closing the Digital Divide in Rural America” JUNE 21, 2023 Chairman Thompson, Ranking Member Scott, and distinguished members of the Committee. Thank you for the opportunity to appear before you and for holding this hearing today on closing the digital divide in rural America. A. INTRODUCTION My name is Bill Hurley, and I currently serve as Chair of the Ag Sector Board of the Association of Equipment Manufacturers. I am also a Vice President with AGCO Corporation, headquartered in Duluth, Georgia. I was born and raised in Franklin, a small town in central Texas with a population of less than 2,000 people. My family had a small farm not far from there in a place called Ridge, where my grandmother lived. I spent a lot of time on that farm, and I vividly remember the challenges that came from 10 families sharing a party line."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0244::Educação",
+   "unit_id": "W0244",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Bill Hurley",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3178,
+     "fim_corpo": 3993,
+     "trecho": "1 ASSOCIATION OF EQUIPMENT MANUFACTURERS, THE ENVIRONMENTAL BENEFITS OF PRECISION AGRICULTURE IN THE UNITED STATES (2021), https://newsroom.aem.org/download/977839/environmentalbenefitsofprecisionagriculture-2.pdf C. PRECISION AGRICULTURE CONNECTIVITY NEEDS A multifaceted strategy including fiber optic, low earth orbit (LEO) satellites, and 5G will continue to close the rural connectivity gap, enabling farmers and ranchers to leverage important technologies and management strategies that will help them produce more with less. For precision agriculture technologies to reach their full potential, we need technology-neutral deployment of broadband dollars. It is imperative that all aspects of rural America are connected, from the hospital to the school and from the farmhouse to the field."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0244::Gênero",
+   "unit_id": "W0244",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Bill Hurley",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 777,
+     "fim_corpo": 1707,
+     "trecho": "My family had a small farm not far from there in a place called Ridge, where my grandmother lived. I spent a lot of time on that farm, and I vividly remember the challenges that came from 10 families sharing a party line. While we have come a long way since then, today’s hearing is a reminder that we have still not fully closed the digital divide in rural America. The Association of Equipment Manufacturers is the North American-based international trade group representing off-road, heavy equipment manufacturers, with more than 1,000 companies and more than 200 product lines in the agriculture and construction-related sectors worldwide. The equipment manufacturing industry supports 2.3 million jobs in the United States and contributes $316 billion a year to the U.S. economy. The men and women who make the equipment that builds, powers, and feeds the world are not just welders, fabricators, and machinists."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0244::Saúde",
+   "unit_id": "W0244",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Bill Hurley",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3178,
+     "fim_corpo": 3993,
+     "trecho": "1 ASSOCIATION OF EQUIPMENT MANUFACTURERS, THE ENVIRONMENTAL BENEFITS OF PRECISION AGRICULTURE IN THE UNITED STATES (2021), https://newsroom.aem.org/download/977839/environmentalbenefitsofprecisionagriculture-2.pdf C. PRECISION AGRICULTURE CONNECTIVITY NEEDS A multifaceted strategy including fiber optic, low earth orbit (LEO) satellites, and 5G will continue to close the rural connectivity gap, enabling farmers and ranchers to leverage important technologies and management strategies that will help them produce more with less. For precision agriculture technologies to reach their full potential, we need technology-neutral deployment of broadband dollars. It is imperative that all aspects of rural America are connected, from the hospital to the school and from the farmhouse to the field."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0244::Urbano e rural",
+   "unit_id": "W0244",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Bill Hurley",
+   "n_ocorrencias_no_par": 12,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 6,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 299,
+     "trecho": "TESTIMONY OF BILL HURLEY, CHAIR, ASSOCIATION OF EQUIPMENT MANUFACTURERS AG SECTOR BOARD BEFORE THE U.S. HOUSE COMMITTEE ON AGRICULTURE Hearing on “Closing the Digital Divide in Rural America” JUNE 21, 2023 Chairman Thompson, Ranking Member Scott, and distinguished members of the Committee."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 435,
+     "trecho": "TESTIMONY OF BILL HURLEY, CHAIR, ASSOCIATION OF EQUIPMENT MANUFACTURERS AG SECTOR BOARD BEFORE THE U.S. HOUSE COMMITTEE ON AGRICULTURE Hearing on “Closing the Digital Divide in Rural America” JUNE 21, 2023 Chairman Thompson, Ranking Member Scott, and distinguished members of the Committee. Thank you for the opportunity to appear before you and for holding this hearing today on closing the digital divide in rural America."
+    },
+    {
+     "inicio_corpo": 299,
+     "fim_corpo": 1147,
+     "trecho": "Thank you for the opportunity to appear before you and for holding this hearing today on closing the digital divide in rural America. A. INTRODUCTION My name is Bill Hurley, and I currently serve as Chair of the Ag Sector Board of the Association of Equipment Manufacturers. I am also a Vice President with AGCO Corporation, headquartered in Duluth, Georgia. I was born and raised in Franklin, a small town in central Texas with a population of less than 2,000 people. My family had a small farm not far from there in a place called Ridge, where my grandmother lived. I spent a lot of time on that farm, and I vividly remember the challenges that came from 10 families sharing a party line. While we have come a long way since then, today’s hearing is a reminder that we have still not fully closed the digital divide in rural America."
+    },
+    {
+     "inicio_corpo": 877,
+     "fim_corpo": 1875,
+     "trecho": "I spent a lot of time on that farm, and I vividly remember the challenges that came from 10 families sharing a party line. While we have come a long way since then, today’s hearing is a reminder that we have still not fully closed the digital divide in rural America. The Association of Equipment Manufacturers is the North American-based international trade group representing off-road, heavy equipment manufacturers, with more than 1,000 companies and more than 200 product lines in the agriculture and construction-related sectors worldwide. The equipment manufacturing industry supports 2.3 million jobs in the United States and contributes $316 billion a year to the U.S. economy. The men and women who make the equipment that builds, powers, and feeds the world are not just welders, fabricators, and machinists. Some are farmers and ranchers. And 1 in 3 of them live and work in rural communities across the country, compared to just 1 in 5 people overall in the United States."
+    },
+    {
+     "inicio_corpo": 1147,
+     "fim_corpo": 1959,
+     "trecho": "The Association of Equipment Manufacturers is the North American-based international trade group representing off-road, heavy equipment manufacturers, with more than 1,000 companies and more than 200 product lines in the agriculture and construction-related sectors worldwide. The equipment manufacturing industry supports 2.3 million jobs in the United States and contributes $316 billion a year to the U.S. economy. The men and women who make the equipment that builds, powers, and feeds the world are not just welders, fabricators, and machinists. Some are farmers and ranchers. And 1 in 3 of them live and work in rural communities across the country, compared to just 1 in 5 people overall in the United States. Our industry is not only deeply connected to rural America—we are a big part of it."
+    },
+    {
+     "inicio_corpo": 1427,
+     "fim_corpo": 2333,
+     "trecho": "The equipment manufacturing industry supports 2.3 million jobs in the United States and contributes $316 billion a year to the U.S. economy. The men and women who make the equipment that builds, powers, and feeds the world are not just welders, fabricators, and machinists. Some are farmers and ranchers. And 1 in 3 of them live and work in rural communities across the country, compared to just 1 in 5 people overall in the United States. Our industry is not only deeply connected to rural America—we are a big part of it. Equipment manufacturers are proud to provide American farmers and ranchers with the next generation of innovative tools that will keep our agriculture sector competitive for generations to come. But farmers and ranchers cannot take advantage of the benefits of precision agriculture technologies without reliable and affordable connectivity across all of rural America."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0245::Administração pública",
+   "unit_id": "W0245",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. David Zumwalt",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 14277,
+     "fim_corpo": 15241,
+     "trecho": "This will address two issues. First, it will ensure that taxpayers’ contributions to the FCC’s Connect America Fund and Rural Digital Opportunity Fund will not be used to subsidize multiple providers in the same market – in effect, the government would be competing with itself. Second, exempting from ReConnect funding locations subject to an existing “enforceable commitment” will protect the integrity of the programs and the reliance interests of those CAF and RDOF recipients that are hard at work investing government funding and their own capital in deploying broadband in rural communities. It will also enable them to attract outside capital on more favorable terms. Third, RUS included as a key criterion for awarding grants “local governments, non-profits and cooperatives.” The best provider of broadband in any given community could be a local government, a not-for-profit, a cooperative or a private commercial company."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0245::Cultura e informação",
+   "unit_id": "W0245",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. David Zumwalt",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "community anchor institutions",
+     "forma_encontrada": "community anchor institutions",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1463,
+     "fim_corpo": 2321,
+     "trecho": "Department of Agriculture Rural Utilities Service (RUS) in 2008 but did secure $5.5 million in matching funds from the U.S. Department of Commerce Economic Development Administration in 2009. I have witnessed first-hand the benefits of these programs that seek to lift rural and economically challenged communities. WISPA’s nearly 1,000 members include broadband service and infrastructure providers, equipment manufacturers, and technology companies that work every day to close the digital divide in many of our country’s most rural and remote communities. Our members’ stories are often remarkably similar. Tired of waiting for someone else to bring broadband to them and their neighbors, they took their private capital and built a solution, connecting families, businesses, first responders and community anchor institutions."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0245::Domicílio e arranjo familiar",
+   "unit_id": "W0245",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. David Zumwalt",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 705,
+     "trecho": "Testimony of David Zumwalt President and CEO, Wireless Internet Service Providers Association Before the Committee on Agriculture United States House of Representatives Hearing entitled “Closing the Digital Divide in Rural America” June 21, 2023 Chairman Thompson, Ranking Member Scott, and members of the Committee, thank you for holding this important hearing and for the opportunity to testify. My name is David Zumwalt, and I am the President and CEO of the Wireless Internet Service Providers Association (WISPA) - Broadband Without Boundaries, representing the companies that provide connectivity to unserved and underserved households and businesses across the country."
+    },
+    {
+     "inicio_corpo": 1463,
+     "fim_corpo": 2321,
+     "trecho": "Department of Agriculture Rural Utilities Service (RUS) in 2008 but did secure $5.5 million in matching funds from the U.S. Department of Commerce Economic Development Administration in 2009. I have witnessed first-hand the benefits of these programs that seek to lift rural and economically challenged communities. WISPA’s nearly 1,000 members include broadband service and infrastructure providers, equipment manufacturers, and technology companies that work every day to close the digital divide in many of our country’s most rural and remote communities. Our members’ stories are often remarkably similar. Tired of waiting for someone else to bring broadband to them and their neighbors, they took their private capital and built a solution, connecting families, businesses, first responders and community anchor institutions."
+    },
+    {
+     "inicio_corpo": 12541,
+     "fim_corpo": 13673,
+     "trecho": "For these programs to be successful and cost-effective, as many broadband providers as possible should be encouraged to participate. Symmetrical service may work in some communities, but not every location is the same. Erecting artificial, unnecessary, and wasteful barriers to participation would exclude many projects that would now provide connectivity to the most remote communities. If rigid requirements, such as symmetrical speeds, are locked in statute, it precludes RUS from having the flexibility to consider projects that address other key priorities. Lack of flexibility may leave many areas unserved or force those awarded to wait years longer for service, which is counter to the purpose of the program. Second, USDA defined sufficient access to broadband as “any rural area in which households have fixed, terrestrial broadband service defined as 100 megabits per second (Mbps) downstream and 20 Mbps upstream.” The result of this requirement is that ReConnect funding will wind up going to communities with more than sufficient funding already, leaving out places that lack any broadband at all."
+    },
+    {
+     "inicio_corpo": 20694,
+     "fim_corpo": 21571,
+     "trecho": "In October 2022, GAO found that significant numbers of ReConnect program applicants were rejected by USDA and ReConnect program applicants who were accepted responded that they were substantially disappointed with the ReConnect application process. Their experiences with the ReConnect application process have discouraged some from applying to the program in the future. In addition, I would like to thank Reps. Cammack, Soto, Gluesenkamp Perez, and Jackson, along with their Senate colleagues, Sens. Thune, Lujan, Fischer, and Klobuchar, for introducing the Rural Internet Improvement Act. This bill contains several important provisions that will improve the ReConnect program and target its funding towards areas of need. Specifically, the legislation limits funding to areas where at least 90% of households lack access to broadband service."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0245::Educação",
+   "unit_id": "W0245",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. David Zumwalt",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4986,
+     "fim_corpo": 6112,
+     "trecho": "The basic network elements are a tower or tall building, commercially available radio transmitters and consumer-premises equipment, and, of course, licensed and unlicensed spectrum. And WISPs don’t need thousands of subscribers to make a business case; often, only a handful of potential customers will justify beginning deployment to multiple locations in an area. In sparsely populated rural areas, that’s critical for consumers who should not have to continue to wait for a higher, and sometimes unattainable, critical mass of potential customers for more expensive fiber installation to their homes and businesses. The need for fast deployment and the ability to connect rural and remote communities was never clearer than during the COVID-19 pandemic. Access to fixed wireless technology was a lifeline for many Americans. Every child who had to attend school from their bedroom, every patient who needed to access their doctor via telemedicine, every business owner who relied on Zoom to connect with customers and suppliers -- none of them could afford to wait for technology to be deployed."
+    },
+    {
+     "inicio_corpo": 6482,
+     "fim_corpo": 7419,
+     "trecho": "They are attracted by solid management, favorable growth potential and the large untapped rural markets that will drive new deployment and increased revenue. This trend is ongoing and, along with government funding, positions our members as significant players in the years to come. Closing the Digital Divide Due to the hard work and vision of this Committee, great progress is being made to connect all Americans. However, as businesses largely based in rural communities, WISPs know all too well that the digital divide is still a long way from being closed. Despite the enormous positive impact of broadband, many Americans still do not share these benefits. There remains a substantial number of Americans who cannot fully participate in today’s economy and democracy, whose children tend to lag in school, and whose communities are not able to keep pace with the economic growth potential that broadband brings."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0245::Infraestrutura e porte populacional",
+   "unit_id": "W0245",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. David Zumwalt",
+   "n_ocorrencias_no_par": 11,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 5,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 705,
+     "trecho": "Testimony of David Zumwalt President and CEO, Wireless Internet Service Providers Association Before the Committee on Agriculture United States House of Representatives Hearing entitled “Closing the Digital Divide in Rural America” June 21, 2023 Chairman Thompson, Ranking Member Scott, and members of the Committee, thank you for holding this important hearing and for the opportunity to testify. My name is David Zumwalt, and I am the President and CEO of the Wireless Internet Service Providers Association (WISPA) - Broadband Without Boundaries, representing the companies that provide connectivity to unserved and underserved households and businesses across the country."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 705,
+     "trecho": "Testimony of David Zumwalt President and CEO, Wireless Internet Service Providers Association Before the Committee on Agriculture United States House of Representatives Hearing entitled “Closing the Digital Divide in Rural America” June 21, 2023 Chairman Thompson, Ranking Member Scott, and members of the Committee, thank you for holding this important hearing and for the opportunity to testify. My name is David Zumwalt, and I am the President and CEO of the Wireless Internet Service Providers Association (WISPA) - Broadband Without Boundaries, representing the companies that provide connectivity to unserved and underserved households and businesses across the country."
+    },
+    {
+     "inicio_corpo": 2033,
+     "fim_corpo": 2954,
+     "trecho": "Our members’ stories are often remarkably similar. Tired of waiting for someone else to bring broadband to them and their neighbors, they took their private capital and built a solution, connecting families, businesses, first responders and community anchor institutions. WISPA advocates for the widespread deployment of broadband. This is best accomplished by allowing the utilization of the “right tool for the right job” so that all communities, regardless of size or location, can reap the benefits of reliable, affordable, and robust connectivity as quickly as possible. WISPA and our members are grateful for the leadership of this Committee in promoting our shared goal of closing the digital divide with ubiquitous, reliable, and resilient broadband networks. Importance of WISPs WISPs serve nine million Americans, mostly in unserved, under-resourced, and Tribal territories."
+    },
+    {
+     "inicio_corpo": 8696,
+     "fim_corpo": 9577,
+     "trecho": "We cannot allow this opportunity to bridge the digital divide slip away. The NTIA BEAD program should not be the be-all and end-all for broadband deployment, and USDA can have a significant and positive impact on broadband that is complementary to that program, if the Farm Bill is written and implemented in a technologically neutral way that respects public and private investment. Recognizing the urgency of this moment, WISPA members stand ready to roll up their sleeves and get to work. The stakes are too high, connectivity is too important, and many rural communities have waited far too long. WISPs’ Experiences with ReConnect The Farm Bill has been assisting rural communities entering the digital age for many years. For this reason, it is critical that the Farm Bill’s broadband programs stay focused on those communities that are truly unserved."
+    },
+    {
+     "inicio_corpo": 9088,
+     "fim_corpo": 9942,
+     "trecho": "Recognizing the urgency of this moment, WISPA members stand ready to roll up their sleeves and get to work. The stakes are too high, connectivity is too important, and many rural communities have waited far too long. WISPs’ Experiences with ReConnect The Farm Bill has been assisting rural communities entering the digital age for many years. For this reason, it is critical that the Farm Bill’s broadband programs stay focused on those communities that are truly unserved. No community should be asked to wait even longer for broadband so that other communities receive upgraded network buildouts they don’t actually need. WISPA strongly supports the goals of the ReConnect program and supports the investments Congress has provided to bring broadband to more Americans, particularly those in unserved and underserved communities."
+    },
+    {
+     "inicio_corpo": 9088,
+     "fim_corpo": 9942,
+     "trecho": "Recognizing the urgency of this moment, WISPA members stand ready to roll up their sleeves and get to work. The stakes are too high, connectivity is too important, and many rural communities have waited far too long. WISPs’ Experiences with ReConnect The Farm Bill has been assisting rural communities entering the digital age for many years. For this reason, it is critical that the Farm Bill’s broadband programs stay focused on those communities that are truly unserved. No community should be asked to wait even longer for broadband so that other communities receive upgraded network buildouts they don’t actually need. WISPA strongly supports the goals of the ReConnect program and supports the investments Congress has provided to bring broadband to more Americans, particularly those in unserved and underserved communities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0245::Macrorregião",
+   "unit_id": "W0245",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. David Zumwalt",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "Territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 423,
+     "fim_corpo": 1080,
+     "trecho": "My name is David Zumwalt, and I am the President and CEO of the Wireless Internet Service Providers Association (WISPA) - Broadband Without Boundaries, representing the companies that provide connectivity to unserved and underserved households and businesses across the country. Prior to joining WISPA, I served as Chief Operating Officer of Broadband VI, a major Internet Service Provider in the U.S. Virgin Islands whose needs for robust broadband for economic growth is unchallenged. Because of our work, in 2021, Broadband VI was awarded $84.5 million in FCC funding to supplement its private investment in Territory-wide broadband expansion."
+    },
+    {
+     "inicio_corpo": 2086,
+     "fim_corpo": 2954,
+     "trecho": "Tired of waiting for someone else to bring broadband to them and their neighbors, they took their private capital and built a solution, connecting families, businesses, first responders and community anchor institutions. WISPA advocates for the widespread deployment of broadband. This is best accomplished by allowing the utilization of the “right tool for the right job” so that all communities, regardless of size or location, can reap the benefits of reliable, affordable, and robust connectivity as quickly as possible. WISPA and our members are grateful for the leadership of this Committee in promoting our shared goal of closing the digital divide with ubiquitous, reliable, and resilient broadband networks. Importance of WISPs WISPs serve nine million Americans, mostly in unserved, under-resourced, and Tribal territories."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0245::Renda e classe",
+   "unit_id": "W0245",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. David Zumwalt",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6768,
+     "fim_corpo": 7616,
+     "trecho": "Closing the Digital Divide Due to the hard work and vision of this Committee, great progress is being made to connect all Americans. However, as businesses largely based in rural communities, WISPs know all too well that the digital divide is still a long way from being closed. Despite the enormous positive impact of broadband, many Americans still do not share these benefits. There remains a substantial number of Americans who cannot fully participate in today’s economy and democracy, whose children tend to lag in school, and whose communities are not able to keep pace with the economic growth potential that broadband brings. While the number of new broadband subscribers continues to grow, the rate of broadband deployment in urban, suburban, and high-income areas is outpacing deployment in rural and low-income areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0245::Urbano e rural",
+   "unit_id": "W0245",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. David Zumwalt",
+   "n_ocorrencias_no_par": 29,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 23,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 423,
+     "trecho": "Testimony of David Zumwalt President and CEO, Wireless Internet Service Providers Association Before the Committee on Agriculture United States House of Representatives Hearing entitled “Closing the Digital Divide in Rural America” June 21, 2023 Chairman Thompson, Ranking Member Scott, and members of the Committee, thank you for holding this important hearing and for the opportunity to testify."
+    },
+    {
+     "inicio_corpo": 705,
+     "fim_corpo": 1588,
+     "trecho": "Prior to joining WISPA, I served as Chief Operating Officer of Broadband VI, a major Internet Service Provider in the U.S. Virgin Islands whose needs for robust broadband for economic growth is unchallenged. Because of our work, in 2021, Broadband VI was awarded $84.5 million in FCC funding to supplement its private investment in Territory-wide broadband expansion. I have also served as Executive Director of the University of the Virgin Islands Research & Technology Park, a partnership of private sector, government and university stakeholders that supported the USVI’s network-connected knowledge-based business sector. During my tenure, RTPark sought, but was ultimately unsuccessful in securing, $4.7 million in financing from the U.S. Department of Agriculture Rural Utilities Service (RUS) in 2008 but did secure $5.5 million in matching funds from the U.S."
+    },
+    {
+     "inicio_corpo": 919,
+     "fim_corpo": 1782,
+     "trecho": "Because of our work, in 2021, Broadband VI was awarded $84.5 million in FCC funding to supplement its private investment in Territory-wide broadband expansion. I have also served as Executive Director of the University of the Virgin Islands Research & Technology Park, a partnership of private sector, government and university stakeholders that supported the USVI’s network-connected knowledge-based business sector. During my tenure, RTPark sought, but was ultimately unsuccessful in securing, $4.7 million in financing from the U.S. Department of Agriculture Rural Utilities Service (RUS) in 2008 but did secure $5.5 million in matching funds from the U.S. Department of Commerce Economic Development Administration in 2009. I have witnessed first-hand the benefits of these programs that seek to lift rural and economically challenged communities."
+    },
+    {
+     "inicio_corpo": 1342,
+     "fim_corpo": 2033,
+     "trecho": "During my tenure, RTPark sought, but was ultimately unsuccessful in securing, $4.7 million in financing from the U.S. Department of Agriculture Rural Utilities Service (RUS) in 2008 but did secure $5.5 million in matching funds from the U.S. Department of Commerce Economic Development Administration in 2009. I have witnessed first-hand the benefits of these programs that seek to lift rural and economically challenged communities. WISPA’s nearly 1,000 members include broadband service and infrastructure providers, equipment manufacturers, and technology companies that work every day to close the digital divide in many of our country’s most rural and remote communities."
+    },
+    {
+     "inicio_corpo": 2954,
+     "fim_corpo": 3862,
+     "trecho": "Our members offer cost-effective, competitive, and innovative services for these communities. WISPs deploy a variety of technologies, including fiber as well as licensed, shared, and unlicensed wireless spectrum, to deliver reliable broadband service to their customers at affordable prices, often in areas ignored by others because the deployment costs are prohibitive. WISPs are mostly small and medium sized businesses. Many of our members have fewer than twenty-five employees, and almost 70 percent have ten or fewer full-time employees. Often investing their own private, at-risk capital, our members are truly community-based and entrepreneurial companies. According to our latest member survey, more than 75 percent of WISPA’s operator members serve primarily rural areas and very often to small populations, communities that have often been passed over by the larger, national carriers."
+    },
+    {
+     "inicio_corpo": 4546,
+     "fim_corpo": 5624,
+     "trecho": "Download speeds exceeding 1 Gbps are possible with current fixed wireless technology, with equipment available from multiple manufacturers. Our industry is one of the most dynamic, scalable and flexible in the entire broadband ecosystem, characterized by rapid, cost-effective deployment, speedy technology innovation, and many new entrants. Moreover, fixed wireless is being deployed much more quickly than many other alternatives. The basic network elements are a tower or tall building, commercially available radio transmitters and consumer-premises equipment, and, of course, licensed and unlicensed spectrum. And WISPs don’t need thousands of subscribers to make a business case; often, only a handful of potential customers will justify beginning deployment to multiple locations in an area. In sparsely populated rural areas, that’s critical for consumers who should not have to continue to wait for a higher, and sometimes unattainable, critical mass of potential customers for more expensive fiber installation to their homes and businesses."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0246::Domicílio e arranjo familiar",
+   "unit_id": "W0246",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. James Assey",
+   "n_ocorrencias_no_par": 12,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 6,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 789,
+     "fim_corpo": 1691,
+     "trecho": "population, including a large and growing number of rural homes and businesses. Over the last few years, our nation’s response to challenges arising from the pandemic has put a renewed urgency and spotlight on the importance of ensuring every American can access the internet through a high-speed connection. In common cause, our industry has risen to that challenge, accelerating the pace of innovation and forging new broadband connections both throughout and outside their traditional service areas. Collectively, cable ISPs have invested more than $185 billion in private capital over the last decade to build and upgrade networks across America, including $21.7 billion in 2022 alone. This capital has extended the collective reach of cable broadband networks, adding about 6.4 million households between December 2018 and December 2021, nearly a third of which are rural households."
+    },
+    {
+     "inicio_corpo": 789,
+     "fim_corpo": 1691,
+     "trecho": "population, including a large and growing number of rural homes and businesses. Over the last few years, our nation’s response to challenges arising from the pandemic has put a renewed urgency and spotlight on the importance of ensuring every American can access the internet through a high-speed connection. In common cause, our industry has risen to that challenge, accelerating the pace of innovation and forging new broadband connections both throughout and outside their traditional service areas. Collectively, cable ISPs have invested more than $185 billion in private capital over the last decade to build and upgrade networks across America, including $21.7 billion in 2022 alone. This capital has extended the collective reach of cable broadband networks, adding about 6.4 million households between December 2018 and December 2021, nearly a third of which are rural households."
+    },
+    {
+     "inicio_corpo": 1489,
+     "fim_corpo": 2291,
+     "trecho": "This capital has extended the collective reach of cable broadband networks, adding about 6.4 million households between December 2018 and December 2021, nearly a third of which are rural households. But, just as important, this massive investment has revolutionized the capabilities of these networks and their value to consumers, leveraging new technology and rapid innovation to launch the development of cable’s 10G platform that is bringing ‘speed at scale’ to millions across America. Currently, 99% of U.S. homes passed by cable are capable of receiving a 1 Gigabit service from their cable ISP. And with even more scalable, technological innovation on the horizon, the future, widescale diffusion of networks offering 10 Gigabit connections to U.S. households is well within view."
+    },
+    {
+     "inicio_corpo": 3372,
+     "fim_corpo": 4111,
+     "trecho": "Unserved communities generally lack broadband facilities for one primary reason – they are prohibitively expensive to serve. The cost of deploying infrastructure over expansive, difficult terrain is often exponentially higher than other areas. At the same time, the potential revenue to offset those expenses is inversely less where fewer people and businesses reside. Government funding is essential to offsetting these dynamics and incenting companies to serve those communities. At USDA, one of the most promising programs to help cable and other ISPs reach 3 unserved households in rural areas had been the Rural eConnectivity program run by the Rural Utilities Service (“RUS”), better known as the “ReConnect” program."
+    },
+    {
+     "inicio_corpo": 5488,
+     "fim_corpo": 6357,
+     "trecho": "Additional points are awarded for those providers willing to agree to onerous open access mandates, which most providers are not willing to do. These calculated changes impede fair competition and have made it extremely difficult for cable ISPs to secure funding, even when they seek to serve areas where no one else wants to deploy. In addition, the agency’s action in significantly relaxing the required minimum 4 percentage of unserved homes required of project applications has created new problems and drawn dollars away from areas where they are most needed. Indeed, scarce resources that should be directed toward bringing service to unserved households are instead being used to subsidize network overbuilds in ways that further challenge the economics of serving remote areas, and worse, do nothing to reduce the number of unserved households."
+    },
+    {
+     "inicio_corpo": 5488,
+     "fim_corpo": 6357,
+     "trecho": "Additional points are awarded for those providers willing to agree to onerous open access mandates, which most providers are not willing to do. These calculated changes impede fair competition and have made it extremely difficult for cable ISPs to secure funding, even when they seek to serve areas where no one else wants to deploy. In addition, the agency’s action in significantly relaxing the required minimum 4 percentage of unserved homes required of project applications has created new problems and drawn dollars away from areas where they are most needed. Indeed, scarce resources that should be directed toward bringing service to unserved households are instead being used to subsidize network overbuilds in ways that further challenge the economics of serving remote areas, and worse, do nothing to reduce the number of unserved households."
+    }
+   ]
+  }
+ ]
+}

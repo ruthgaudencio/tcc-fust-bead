@@ -1,0 +1,907 @@
+{
+ "caso": "BEAD",
+ "lote": 5,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0020::Idade",
+   "unit_id": "W0020",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Margot Saunders",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 565,
+     "trecho": "Testimony before the HOUSE COMMITTEE ON ENERGY AND COMMERCE Subcommittee On Communications and Technology Regarding “Legislating to Stop the Onslaught of Annoying Robocalls” Testimony written and presented by: Margot Freeman Saunders Senior Counsel National Consumer Law Center On behalf of the low-income clients of the National Consumer Law Center and Consumer Federation of America Consumer Action National Association of Consumer Advocates April 30, 2019 Margot Saunders National Consumer Law Center 1001 Connecticut Ave, NW Washington, D.C."
+    },
+    {
+     "inicio_corpo": 7168,
+     "fim_corpo": 8015,
+     "trecho": "If the rate of telemarketing calls continues at the current pace, in 2019 there will be almost 10 billion telemarketing robocalls made in the United States.13 7 In 2018, the average monthly breakdown of robocalls by category, as reported by YouMail’s Robocall Index, was: 37% scams, 23% debt collection calls (including payment reminders), 18% telemarketing, and 22% alerts and reminders. In March of 2019, that same breakdown was 47% scams, 20% alerts and reminders, 17% debt collection calls (including payment reminders), and 16% telemarketing. www.Robocallindex.com. The YouMail Robocall Index estimates the monthly robocall volume in the U.S. by extrapolating data collected from calls made to its users. In a letter from YouMail’s CEO Alex Quilici to NCLC Senior Counsel Margot Saunders, Mr."
+    },
+    {
+     "inicio_corpo": 72720,
+     "fim_corpo": 73676,
+     "trecho": "2. H.R. 2355, the “Regulatory Oversight Barring Obnoxious (ROBO) Calls and Texts Act.” Among other things, this bill would require the FCC to implement regulations to compel carriers to adopt technological standards to prevent robocalls and periodically update those regulations. 3. H.R. 2298, the \"Repeated Objectionable Bothering Of Consumers On Phones Act.\" Among other things, this bill would mandate call blocking of illegal robocalls and hold telephone service providers liable for failing in their obligations under the bill. Thank you for caring about the concerns of consumers. I am available to answer any questions. 87 S. 151. Testimony – Margot Saunders, National Consumer Law Center 26 Respectfully submitted: Margot Saunders Senior Counsel National Consumer Law Center Appendix Illustrative Recent Telemarketing Cases Against American Businesses -- with their Stated Defenses 1."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0020::Renda e classe",
+   "unit_id": "W0020",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Margot Saunders",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 565,
+     "trecho": "Testimony before the HOUSE COMMITTEE ON ENERGY AND COMMERCE Subcommittee On Communications and Technology Regarding “Legislating to Stop the Onslaught of Annoying Robocalls” Testimony written and presented by: Margot Freeman Saunders Senior Counsel National Consumer Law Center On behalf of the low-income clients of the National Consumer Law Center and Consumer Federation of America Consumer Action National Association of Consumer Advocates April 30, 2019 Margot Saunders National Consumer Law Center 1001 Connecticut Ave, NW Washington, D.C."
+    },
+    {
+     "inicio_corpo": 565,
+     "fim_corpo": 1114,
+     "trecho": "20036 (202) 452 6252 msaunders@nclc.org www.nclc.org Legislating to Stop the Onslaught of Annoying Robocalls April 30, 2019 Chairman Doyle, Chairman Pallone, Congressman Latta, and Members of the Committee, I appreciate the opportunity to testify to strongly support H.R. 946: the Stopping Bad Robocalls Act. I provide my testimony here today on behalf of the low-income clients of the National Consumer Law Center (NCLC),1 and on behalf of Consumer Action, Consumer Federation of America, and the National Association of Consumer Advocates."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0020::Saúde e deficiência",
+   "unit_id": "W0020",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Margot Saunders",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "disability",
+     "forma_encontrada": "disability",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "deaf",
+     "forma_encontrada": "de af",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 16578,
+     "fim_corpo": 17409,
+     "trecho": ". . .”). Testimony – Margot Saunders, National Consumer Law Center 7 But debt collection robocalls remain a top complaint by consumers. Many debt collection calls are made to people who owe money and are behind on their payments, but many others are made to people who have nothing to do with the debts. Below are just a few examples of problematic debt collector robocallers. These cases all involve hundreds—if not thousands—of calls, and all involve multiple calls after repeated requests from the consumer to stop calling. 1. Robertson v. Navient Solutions.29 Shortly after Ms. Robertson acquired a Certified Nursing Assistant certificate, which she had funded with student loans, she experienced health problems, and also had to care for her dying father. She was unable to work, and applied for disability benefits."
+    },
+    {
+     "inicio_corpo": 38211,
+     "fim_corpo": 39044,
+     "trecho": "Debt collection callers comprise nineteen of the top twenty robocallers in the United States.58 As detailed above, debt collection calls are among the top calls about which consumers complain. Often, debt collectors and creditors collecting their own debts are now routinely refusing to stop calling, despite pleas from consumers, and are instead arguing that the Second Circuit’s Reyes decision applies to them and that consent cannot be revoked. We can only imagine the nightmare scenario that will impact tens of millions of people across the U.S. if the FCC rules that consent granted by contract cannot be revoked. Section 2(b) will ensure that when a consumer says to a robocaller “stop calling,” the caller will know that it must stop calling, or face pay statutory damages for calls made after the demand to stop was made."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0020::Vínculo institucional",
+   "unit_id": "W0020",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Margot Saunders",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "Veterans",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10893,
+     "fim_corpo": 11776,
+     "trecho": "These telemarketing calls were made by lead generators on behalf of a Monitronics dealer. Calls were made to more than 7.7 million phone numbers. Monitronics claimed that it was not responsible for these calls made by others to sell its services. • Cruises: McCurley v. Royal Seas Cruises, Inc.16 This case challenged the legality of 634 million calls17 to the cell phones of 2.1 consumers18 in violation of the TCPA. The court allowed the case to proceed as a class action despite the cruise line’s claim that it was not responsible for the calls made by lead generators, who referred interested consumers to Royal Seas after telemarketing calls. • Mortgage Lending: Ott v. Mortgage Investors Corp. of Ohio, Inc.19 A mortgage lender robocalled over 3.5 million people to push them into refinancing their mortgages with loans guaranteed by the U.S. Department of Veterans Affairs."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0021::Infraestrutura e porte populacional",
+   "unit_id": "W0021",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Ajit Pai",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1287,
+     "fim_corpo": 2191,
+     "trecho": "For example, last year, we made it easier and cheaper for competitive providers to attach fiber to utility poles through a groundbreaking reform called “one-touch make ready.” Of course, there are some areas where the business case for broadband deployment just won’t exist—no matter how much red tape we cut. These are typically rural areas with sparser populations and lower incomes. The FCC manages programs to connect these rural communities through the Universal Service Fund. Here, we’ve been aggressively taking action to maximize the USF’s impact—to stretch scarce dollars as far as we can. Last year, we finished the Connect America Fund Phase II reverse auction. Through this novel approach, we’re now awarding about $1.5 billion to connect over 713,000 homes and businesses nationwide. Before the auction, we identified parts of our country that were unserved by broadband."
+    },
+    {
+     "inicio_corpo": 1975,
+     "fim_corpo": 2829,
+     "trecho": "Through this novel approach, we’re now awarding about $1.5 billion to connect over 713,000 homes and businesses nationwide. Before the auction, we identified parts of our country that were unserved by broadband. This was so that we could target funding to leverage—not displace—private capital expenditures. We didn’t want to fund overbuilding. We also made sure the auction was open to providers of all types, including rural telecom, cable, fixed wireless, and satellite companies, as well as electric utilities. This ensured that there would be plenty of competition. The outcome of the auction was a tremendous success. We distributed funding much more efficiently thanks in part to intermodal, competitive bidding, saving $3.5 billion from the $5 billion price we initially thought would be required to connect these unserved areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0021::Urbano e rural",
+   "unit_id": "W0021",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Ajit Pai",
+   "n_ocorrencias_no_par": 12,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 6,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 831,
+     "fim_corpo": 1681,
+     "trecho": "It has been a privilege to work alongside them at the FCC’s headquarters and in the field. They exemplify what it means to be a public servant. For almost two-and-a-half years, we have worked together to achieve the priorities I set at the beginning of my chairmanship—most notably, the top priority of closing the digital divide. The Commission has taken a variety of steps to better enable the private sector to deploy broadband infrastructure. For example, last year, we made it easier and cheaper for competitive providers to attach fiber to utility poles through a groundbreaking reform called “one-touch make ready.” Of course, there are some areas where the business case for broadband deployment just won’t exist—no matter how much red tape we cut. These are typically rural areas with sparser populations and lower incomes."
+    },
+    {
+     "inicio_corpo": 831,
+     "fim_corpo": 1779,
+     "trecho": "It has been a privilege to work alongside them at the FCC’s headquarters and in the field. They exemplify what it means to be a public servant. For almost two-and-a-half years, we have worked together to achieve the priorities I set at the beginning of my chairmanship—most notably, the top priority of closing the digital divide. The Commission has taken a variety of steps to better enable the private sector to deploy broadband infrastructure. For example, last year, we made it easier and cheaper for competitive providers to attach fiber to utility poles through a groundbreaking reform called “one-touch make ready.” Of course, there are some areas where the business case for broadband deployment just won’t exist—no matter how much red tape we cut. These are typically rural areas with sparser populations and lower incomes. The FCC manages programs to connect these rural communities through the Universal Service Fund."
+    },
+    {
+     "inicio_corpo": 1603,
+     "fim_corpo": 2500,
+     "trecho": "These are typically rural areas with sparser populations and lower incomes. The FCC manages programs to connect these rural communities through the Universal Service Fund. Here, we’ve been aggressively taking action to maximize the USF’s impact—to stretch scarce dollars as far as we can. Last year, we finished the Connect America Fund Phase II reverse auction. Through this novel approach, we’re now awarding about $1.5 billion to connect over 713,000 homes and businesses nationwide. Before the auction, we identified parts of our country that were unserved by broadband. This was so that we could target funding to leverage—not displace—private capital expenditures. We didn’t want to fund overbuilding. We also made sure the auction was open to providers of all types, including rural telecom, cable, fixed wireless, and satellite companies, as well as electric utilities."
+    },
+    {
+     "inicio_corpo": 2328,
+     "fim_corpo": 3445,
+     "trecho": "We also made sure the auction was open to providers of all types, including rural telecom, cable, fixed wireless, and satellite companies, as well as electric utilities. This ensured that there would be plenty of competition. The outcome of the auction was a tremendous success. We distributed funding much more efficiently thanks in part to intermodal, competitive bidding, saving $3.5 billion from the $5 billion price we initially thought would be required to connect these unserved areas. We also ensured that 99.7% of the winning bids would provide consumers with service of at least 25/3 Mbps. And we set a level playing field that enabled a variety of entities, from small fixed wireless companies to electric utilities, to win. Moreover, last December, we implemented reforms to the FCC’s Alternative Connect America Cost Model (A-CAM). As a result, a total of 186 small, rural carriers participating in the A-CAM program have now accepted $657 million in additional support over the next decade to provide 106,000 2 more rural homes and small businesses with 25/3 Mbps broadband service."
+    },
+    {
+     "inicio_corpo": 2500,
+     "fim_corpo": 3445,
+     "trecho": "This ensured that there would be plenty of competition. The outcome of the auction was a tremendous success. We distributed funding much more efficiently thanks in part to intermodal, competitive bidding, saving $3.5 billion from the $5 billion price we initially thought would be required to connect these unserved areas. We also ensured that 99.7% of the winning bids would provide consumers with service of at least 25/3 Mbps. And we set a level playing field that enabled a variety of entities, from small fixed wireless companies to electric utilities, to win. Moreover, last December, we implemented reforms to the FCC’s Alternative Connect America Cost Model (A-CAM). As a result, a total of 186 small, rural carriers participating in the A-CAM program have now accepted $657 million in additional support over the next decade to provide 106,000 2 more rural homes and small businesses with 25/3 Mbps broadband service."
+    },
+    {
+     "inicio_corpo": 2938,
+     "fim_corpo": 3987,
+     "trecho": "And we set a level playing field that enabled a variety of entities, from small fixed wireless companies to electric utilities, to win. Moreover, last December, we implemented reforms to the FCC’s Alternative Connect America Cost Model (A-CAM). As a result, a total of 186 small, rural carriers participating in the A-CAM program have now accepted $657 million in additional support over the next decade to provide 106,000 2 more rural homes and small businesses with 25/3 Mbps broadband service. This represents a 31.8% increase in the number of locations that will have high-quality service available through the FCC’s A- CAM program. And the increase is much larger in many states, such as 123% in New Mexico, 114% in Arizona, and 105.4% in Montana. In December, for the first time we also began requiring that small, rural carriers that continue to rely on the Commission’s legacy, cost-based support mechanism provide 25/3 Mbps broadband service to specific numbers of rural homes and small businesses in their service areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0022::Domicílio e arranjo familiar",
+   "unit_id": "W0022",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4341,
+     "fim_corpo": 5191,
+     "trecho": "I saw this in Elkmont, Alabama. That’s where a small-town manufacturing plant is already seeing a big boost from 5G. The facility makes the harnesses and other gear that America’s tower climbers use to install new small cells. The plant has doubled production over the last year and a half with new small cell builds underway. I’ve also seen firsthand the hard work that America’s tower crews are doing every day to bring more broadband to more Americans. In fact, the successes we are seeing in accelerating infrastructure deployment has created a new opportunity. Industry estimates that it needs to fill another 20,000 job openings for tower climbers and telecom techs to complete this country’s 5G build. That would nearly double the size of this group of skilled workers, bringing thousands of families into the middle class."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0022::Educação",
+   "unit_id": "W0022",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4463,
+     "fim_corpo": 5360,
+     "trecho": "The facility makes the harnesses and other gear that America’s tower climbers use to install new small cells. The plant has doubled production over the last year and a half with new small cell builds underway. I’ve also seen firsthand the hard work that America’s tower crews are doing every day to bring more broadband to more Americans. In fact, the successes we are seeing in accelerating infrastructure deployment has created a new opportunity. Industry estimates that it needs to fill another 20,000 job openings for tower climbers and telecom techs to complete this country’s 5G build. That would nearly double the size of this group of skilled workers, bringing thousands of families into the middle class. Last month, I announced a jobs initiative to help address this opportunity. It looks to community colleges and technical schools as a pipeline for these 5G jobs."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0022::Escolaridade e letramento",
+   "unit_id": "W0022",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4922,
+     "fim_corpo": 5844,
+     "trecho": "Industry estimates that it needs to fill another 20,000 job openings for tower climbers and telecom techs to complete this country’s 5G build. That would nearly double the size of this group of skilled workers, bringing thousands of families into the middle class. Last month, I announced a jobs initiative to help address this opportunity. It looks to community colleges and technical schools as a pipeline for these 5G jobs. And it is modeled on a program developed by Aiken Technical College in Graniteville, South Carolina. In 12 weeks, the program can take someone with virtually no training, teach them the mix of classroom and physical skills necessary to build and install new cell sites, and enable them to land a good-paying job in the tower industry. Dr. Gemma Frock, who developed the program, says that 100 percent of her students have received job offers upon graduating from the program."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0022::Posição no trabalho",
+   "unit_id": "W0022",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2904,
+     "fim_corpo": 3841,
+     "trecho": "The digital divide— the percentage of Americans lacking access to high-speed Internet—narrowed by almost 20 percent last year alone. Investment in broadband networks is now increasing—reversing the 2 significant declines we saw in 2015 and 2016. And a new forecast shows the U.S. will have twice the percentage of 5G connections as Asia. In fact, the U.S. now has the largest 5G deployment in the world. Fourteen cities went live last year, and we expect 92 5G builds by year’s end. China has announced plans for zero. While there is much more work to do to secure U.S. leadership and ensure every American has a fair shot at next- generation connectivity, we are now heading in the right direction. The FCC’s new policies are working. But more than the numbers, I’ve had the chance to see firsthand how the FCC’s decisions are helping to create jobs and benefit American workers in communities around the country."
+    },
+    {
+     "inicio_corpo": 3401,
+     "fim_corpo": 4341,
+     "trecho": "China has announced plans for zero. While there is much more work to do to secure U.S. leadership and ensure every American has a fair shot at next- generation connectivity, we are now heading in the right direction. The FCC’s new policies are working. But more than the numbers, I’ve had the chance to see firsthand how the FCC’s decisions are helping to create jobs and benefit American workers in communities around the country. I saw this last month in South Carolina. That’s where a company built a 100,000 square foot manufacturing plant less than a year ago to meet the increase in demand for small cells. At the facility, Jake and his crew told me that they got jobs at the plant less than six months ago. They had been employed in general steel and construction work before. They now have 5G jobs. And the company says they are expanding their workforce by nearly 10 percent every month to keep up with demand."
+    },
+    {
+     "inicio_corpo": 4341,
+     "fim_corpo": 5191,
+     "trecho": "I saw this in Elkmont, Alabama. That’s where a small-town manufacturing plant is already seeing a big boost from 5G. The facility makes the harnesses and other gear that America’s tower climbers use to install new small cells. The plant has doubled production over the last year and a half with new small cell builds underway. I’ve also seen firsthand the hard work that America’s tower crews are doing every day to bring more broadband to more Americans. In fact, the successes we are seeing in accelerating infrastructure deployment has created a new opportunity. Industry estimates that it needs to fill another 20,000 job openings for tower climbers and telecom techs to complete this country’s 5G build. That would nearly double the size of this group of skilled workers, bringing thousands of families into the middle class."
+    },
+    {
+     "inicio_corpo": 5067,
+     "fim_corpo": 6005,
+     "trecho": "That would nearly double the size of this group of skilled workers, bringing thousands of families into the middle class. Last month, I announced a jobs initiative to help address this opportunity. It looks to community colleges and technical schools as a pipeline for these 5G jobs. And it is modeled on a program developed by Aiken Technical College in Graniteville, South Carolina. In 12 weeks, the program can take someone with virtually no training, teach them the mix of classroom and physical skills necessary to build and install new cell sites, and enable them to land a good-paying job in the tower industry. Dr. Gemma Frock, who developed the program, says that 100 percent of her students have received job offers upon graduating from the program. We need to expand this model program to community colleges across the country to ensure we have the skilled workforce in place to build next-gen networks."
+    },
+    {
+     "inicio_corpo": 5272,
+     "fim_corpo": 6162,
+     "trecho": "It looks to community colleges and technical schools as a pipeline for these 5G jobs. And it is modeled on a program developed by Aiken Technical College in Graniteville, South Carolina. In 12 weeks, the program can take someone with virtually no training, teach them the mix of classroom and physical skills necessary to build and install new cell sites, and enable them to land a good-paying job in the tower industry. Dr. Gemma Frock, who developed the program, says that 100 percent of her students have received job offers upon graduating from the program. We need to expand this model program to community colleges across the country to ensure we have the skilled workforce in place to build next-gen networks. I am working toward that goal with a number of stakeholders. These efforts will help address our country’s need for 5G workers and close the skills gap."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0022::Renda e classe",
+   "unit_id": "W0022",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6715,
+     "fim_corpo": 7675,
+     "trecho": "Jumaa and his team are using connectivity to change outcomes for stroke patients. For years, the FCC has played a key role in supporting the deployment of broadband to these facilities through our Rural Health Care Program. But there’s a new trend in telehealth—a trend towards connected care everywhere. The delivery of high-tech, high-quality health care is no longer limited to the confines of connected, brick-and-mortar facilities. With remote patient monitoring and mobile health applications that can be accessed on a smartphone or tablet, we now have the technology to deliver high- quality care directly to patients, regardless of where they are located. At the FCC, we are taking steps to align public policy in support of this movement in telehealth. Last August, we initiated a proceeding to provide up to $100 million for connected care pilots that benefit low-income patients, including those eligible for Medicaid and veterans."
+    },
+    {
+     "inicio_corpo": 7390,
+     "fim_corpo": 8903,
+     "trecho": "At the FCC, we are taking steps to align public policy in support of this movement in telehealth. Last August, we initiated a proceeding to provide up to $100 million for connected care pilots that benefit low-income patients, including those eligible for Medicaid and veterans. It would support a limited number of projects over a two- or three-year period, with controls in place to measure and verify the benefits, costs, and savings associated with connected care. It could take the results we’ve already seen in the limited trials to date and help replicate those results in communities across the country. From chronic disease management to pediatric cardiology, from PTSD to opioid dependency, this pilot has the potential to make a real difference for low-income individuals that might lack access to quality health care today. I anticipate moving to the next stage of the proceeding in the coming months, and I look forward to working with my colleagues at the FCC, federal and state partners, members of the Subcommittee, and all stakeholders as we stand up the Connected Care Pilot Program. * * * In closing, I want to thank you again Chairman Doyle, Ranking Member Latta, and Members of the Subcommittee for holding this hearing and for the opportunity to testify. I look forward to continuing to work with this Subcommittee on reforms that will accelerate the buildout of broadband networks and the opportunity it enables. I welcome the chance to answer your questions."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0022::Saúde",
+   "unit_id": "W0022",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "Hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5463,
+     "fim_corpo": 6353,
+     "trecho": "In 12 weeks, the program can take someone with virtually no training, teach them the mix of classroom and physical skills necessary to build and install new cell sites, and enable them to land a good-paying job in the tower industry. Dr. Gemma Frock, who developed the program, says that 100 percent of her students have received job offers upon graduating from the program. We need to expand this model program to community colleges across the country to ensure we have the skilled workforce in place to build next-gen networks. I am working toward that goal with a number of stakeholders. These efforts will help address our country’s need for 5G workers and close the skills gap. While we know that broadband deployment can create jobs, it can also save lives. I saw this recently in Toledo with Ranking Member Latta, when we visited the ProMedica Toledo Hospital."
+    },
+    {
+     "inicio_corpo": 6162,
+     "fim_corpo": 7027,
+     "trecho": "While we know that broadband deployment can create jobs, it can also save lives. I saw this recently in Toledo with Ranking Member Latta, when we visited the ProMedica Toledo Hospital. There, Dr. Jumaa showed us how his team is using telemedicine to improve care in rural communities like Defiance, Ohio. For stroke patients, every second matters. And Dr. Jumaa demonstrated how he’s now able to see and treat patients quickly from almost anywhere through a video app on his smartphone. By 3 shaving minutes off of treatment times, Dr. Jumaa and his team are using connectivity to change outcomes for stroke patients. For years, the FCC has played a key role in supporting the deployment of broadband to these facilities through our Rural Health Care Program. But there’s a new trend in telehealth—a trend towards connected care everywhere."
+    },
+    {
+     "inicio_corpo": 6661,
+     "fim_corpo": 7491,
+     "trecho": "By 3 shaving minutes off of treatment times, Dr. Jumaa and his team are using connectivity to change outcomes for stroke patients. For years, the FCC has played a key role in supporting the deployment of broadband to these facilities through our Rural Health Care Program. But there’s a new trend in telehealth—a trend towards connected care everywhere. The delivery of high-tech, high-quality health care is no longer limited to the confines of connected, brick-and-mortar facilities. With remote patient monitoring and mobile health applications that can be accessed on a smartphone or tablet, we now have the technology to deliver high- quality care directly to patients, regardless of where they are located. At the FCC, we are taking steps to align public policy in support of this movement in telehealth."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0022::Urbano e rural",
+   "unit_id": "W0022",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5700,
+     "fim_corpo": 6476,
+     "trecho": "Dr. Gemma Frock, who developed the program, says that 100 percent of her students have received job offers upon graduating from the program. We need to expand this model program to community colleges across the country to ensure we have the skilled workforce in place to build next-gen networks. I am working toward that goal with a number of stakeholders. These efforts will help address our country’s need for 5G workers and close the skills gap. While we know that broadband deployment can create jobs, it can also save lives. I saw this recently in Toledo with Ranking Member Latta, when we visited the ProMedica Toledo Hospital. There, Dr. Jumaa showed us how his team is using telemedicine to improve care in rural communities like Defiance, Ohio."
+    },
+    {
+     "inicio_corpo": 6068,
+     "fim_corpo": 6944,
+     "trecho": "These efforts will help address our country’s need for 5G workers and close the skills gap. While we know that broadband deployment can create jobs, it can also save lives. I saw this recently in Toledo with Ranking Member Latta, when we visited the ProMedica Toledo Hospital. There, Dr. Jumaa showed us how his team is using telemedicine to improve care in rural communities like Defiance, Ohio. For stroke patients, every second matters. And Dr. Jumaa demonstrated how he’s now able to see and treat patients quickly from almost anywhere through a video app on his smartphone. By 3 shaving minutes off of treatment times, Dr. Jumaa and his team are using connectivity to change outcomes for stroke patients. For years, the FCC has played a key role in supporting the deployment of broadband to these facilities through our Rural Health Care Program."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0022::Vínculo institucional",
+   "unit_id": "W0022",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "veterans",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6798,
+     "fim_corpo": 7675,
+     "trecho": "For years, the FCC has played a key role in supporting the deployment of broadband to these facilities through our Rural Health Care Program. But there’s a new trend in telehealth—a trend towards connected care everywhere. The delivery of high-tech, high-quality health care is no longer limited to the confines of connected, brick-and-mortar facilities. With remote patient monitoring and mobile health applications that can be accessed on a smartphone or tablet, we now have the technology to deliver high- quality care directly to patients, regardless of where they are located. At the FCC, we are taking steps to align public policy in support of this movement in telehealth. Last August, we initiated a proceeding to provide up to $100 million for connected care pilots that benefit low-income patients, including those eligible for Medicaid and veterans."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0023::Domicílio e arranjo familiar",
+   "unit_id": "W0023",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1396,
+     "fim_corpo": 2353,
+     "trecho": "While I am committed to “winning the race to 5G,” I am equally committed to the far too many communities with “no-G.” There cannot be two Americas – one where those with much get even more, and another for those who are left 2 behind. It is absolutely imperative that we make sure that quality, affordable broadband is available to all Americans. Whenever I step outside of Washington, passionate citizens, business owners and officials tell me how broadband issues impact them. I’ll briefly share two stories. I sat down for a town hall with a panel of folks in Blue Springs, Missouri, including Chris Chinn, the Director of Agriculture for the state. She told me about how the state of Missouri ranks 41st in terms of internet access, and how that severely limits the ability of farmers in the state—including her family feed mill and hog farm—to upload their livestock or crop data to maximize the efficiency of their operations."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0023::Renda e classe",
+   "unit_id": "W0023",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2932,
+     "fim_corpo": 3984,
+     "trecho": "While there, Ms. Nieto demonstrated how telehealth technology connects doctors from distant urban centers with rural patients in the community. But the connection deteriorated significantly at times over the course of the demonstration, and Ms. Nieto also noted that when they make a video connection for a patient, which they do many times a day, the rest of the clinic’s internet services become unusable. We must do better. But the problem of broadband access isn’t strictly limited to rural America. An “internet inequality” exists even in relatively well-connected urban areas where the quality and cost of service too often depends on which part of town you live in. The unfortunate reality is that your 3 access to quality broadband too often depends on your economic status. That’s why the Lifeline program is so critical. By providing low-income Americans the opportunity to access a no-frills phone and internet service, we allow them to stay connected with their loved ones, their doctors, and their employers."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0023::Saúde",
+   "unit_id": "W0023",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 459,
+     "fim_corpo": 1252,
+     "trecho": "It is a privilege to appear before you for the first time today. “The future is already here, it’s just not evenly distributed.” Wise words that I recently read, and ones that could not better frame the state of our digital divide. I was sworn in as a Commissioner about 100 days ago, and I am excited to see and participate in the development of the fifth generation of wireless technology, or 5G, and the deployment of fiber networks that offer gigabit speeds and more. Those networks will offer lightning-fast speeds that will further open the floodgates of innovation and could turn today’s cutting-edge tech into tomorrow’s everyday tools, including autonomous vehicles, virtual and augmented reality, advanced telehealth, precision agriculture, and artificial intelligence."
+    },
+    {
+     "inicio_corpo": 1890,
+     "fim_corpo": 2808,
+     "trecho": "I’ll briefly share two stories. I sat down for a town hall with a panel of folks in Blue Springs, Missouri, including Chris Chinn, the Director of Agriculture for the state. She told me about how the state of Missouri ranks 41st in terms of internet access, and how that severely limits the ability of farmers in the state—including her family feed mill and hog farm—to upload their livestock or crop data to maximize the efficiency of their operations. But she spoke even more pointedly about the pangs she feels as a fifth- generation farmer, and how difficult it is to convince the next generation to stay in the community without high-speed internet. And I know that a lot of rural communities share that same worry. I also had the privilege of visiting with Corie Nieto, the director of telehealth services at the Nevada Health Center Clinic in Amargosa Valley, Nevada – population about 1,500."
+    },
+    {
+     "inicio_corpo": 2353,
+     "fim_corpo": 3078,
+     "trecho": "But she spoke even more pointedly about the pangs she feels as a fifth- generation farmer, and how difficult it is to convince the next generation to stay in the community without high-speed internet. And I know that a lot of rural communities share that same worry. I also had the privilege of visiting with Corie Nieto, the director of telehealth services at the Nevada Health Center Clinic in Amargosa Valley, Nevada – population about 1,500. They take all patients—whether you have insurance or not—in one of the most geographically isolated parts of the state. While there, Ms. Nieto demonstrated how telehealth technology connects doctors from distant urban centers with rural patients in the community."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0023::Urbano e rural",
+   "unit_id": "W0023",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1753,
+     "fim_corpo": 2624,
+     "trecho": "Whenever I step outside of Washington, passionate citizens, business owners and officials tell me how broadband issues impact them. I’ll briefly share two stories. I sat down for a town hall with a panel of folks in Blue Springs, Missouri, including Chris Chinn, the Director of Agriculture for the state. She told me about how the state of Missouri ranks 41st in terms of internet access, and how that severely limits the ability of farmers in the state—including her family feed mill and hog farm—to upload their livestock or crop data to maximize the efficiency of their operations. But she spoke even more pointedly about the pangs she feels as a fifth- generation farmer, and how difficult it is to convince the next generation to stay in the community without high-speed internet. And I know that a lot of rural communities share that same worry."
+    },
+    {
+     "inicio_corpo": 2353,
+     "fim_corpo": 3078,
+     "trecho": "But she spoke even more pointedly about the pangs she feels as a fifth- generation farmer, and how difficult it is to convince the next generation to stay in the community without high-speed internet. And I know that a lot of rural communities share that same worry. I also had the privilege of visiting with Corie Nieto, the director of telehealth services at the Nevada Health Center Clinic in Amargosa Valley, Nevada – population about 1,500. They take all patients—whether you have insurance or not—in one of the most geographically isolated parts of the state. While there, Ms. Nieto demonstrated how telehealth technology connects doctors from distant urban centers with rural patients in the community."
+    },
+    {
+     "inicio_corpo": 2556,
+     "fim_corpo": 3453,
+     "trecho": "And I know that a lot of rural communities share that same worry. I also had the privilege of visiting with Corie Nieto, the director of telehealth services at the Nevada Health Center Clinic in Amargosa Valley, Nevada – population about 1,500. They take all patients—whether you have insurance or not—in one of the most geographically isolated parts of the state. While there, Ms. Nieto demonstrated how telehealth technology connects doctors from distant urban centers with rural patients in the community. But the connection deteriorated significantly at times over the course of the demonstration, and Ms. Nieto also noted that when they make a video connection for a patient, which they do many times a day, the rest of the clinic’s internet services become unusable. We must do better. But the problem of broadband access isn’t strictly limited to rural America."
+    },
+    {
+     "inicio_corpo": 4379,
+     "fim_corpo": 5286,
+     "trecho": "Just two weeks ago, this Commission admitted that its draft Broadband Deployment Report relied in part on data self-reported by a new provider that inflated its broadband coverage data by nearly 62 million persons. And the error was caught not by the FCC, but a diligent public interest group. We need to take a hard look at ourselves when the FCC doesn’t have data management practices sound enough to detect a new entrant that comes out of nowhere, and incorrectly states that it covers a whopping 20 percent of the entire US population. The stakes only get higher – we manage billions of dollars of support in our Universal Service Fund but we don’t even know the right places to send the money. Mobility Fund Phase II is one of our most important initiatives to expand mobile broadband coverage – over $4.5 billion in planned support over 10 years to deploy 4G to primarily rural areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0024::Domicílio e arranjo familiar",
+   "unit_id": "W0024",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6244,
+     "fim_corpo": 7185,
+     "trecho": "Our wireless maps are so suspect they are now the subject of an ongoing investigation. Getting this right matters. If we don’t have proper maps, we will not be able to target policy solutions effectively. The FCC distributes billions of dollars each year to help accelerate the build out of broadband, so we can connect with all our communities. It’s wasteful and irresponsible for the agency to do so without having a truly accurate picture of where those resources should go. Competition Competition is fundamental. It yields lower prices and higher quality services. But there is a troubling trend in the state of competition. Right now, too few American consumers have a choice for high-speed broadband service. I know this personally, because I’m one of them. But I also know this professionally, because the FCC’s data show that half the households in this country have no choice of broadband provider."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0024::Educação",
+   "unit_id": "W0024",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1537,
+     "fim_corpo": 2263,
+     "trecho": "I am disappointed that the FCC has failed to show the leadership I believe is necessary to take on these big challenges. Because on top of these, so many others lie ahead: our national leadership in 5G wireless, the extraordinary cybersecurity challenges facing our networks, and the need for a bolder national broadband goal of 100 megabits—with gigabit speeds in sight—everywhere. We have problems to solve, resources that are constrained, and communities that are having difficulty navigating the digital age. I am optimistic that the right communications policies can help. They can help students caught in the homework gap, stuck without the internet service they need to do their nightly schoolwork."
+    }
+   ]
+  }
+ ]
+}

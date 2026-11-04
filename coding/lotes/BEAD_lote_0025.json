@@ -1,0 +1,1282 @@
+{
+ "caso": "BEAD",
+ "lote": 25,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0100::Renda e classe",
+   "unit_id": "W0100",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Angela Siefer",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "Low income",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2441,
+     "fim_corpo": 3462,
+     "trecho": "households but they account for 60% of those without any broadband internet service.2 We do need to address the lack of broadband infrastructure in rural areas. It is a serious problem. But, it is just one barrier to individuals and communities being able to fully participate in society today. The other common barriers, no matter where one lives, are the costs of internet service and devices, plus digital literacy skills. Simplistically equating “the digital divide” with just one of these barriers increases the division in our country. Myth #2. The excitement around 5G has led to claims 5G will solve the digital divide. It will not. Current broadband technologies were not deployed to all neighborhoods (unless local governments mandated such) and there is no reason to think 5G will be any different. Additionally, 5G as a broadband service will require 5G capable devices. Low income households struggling to pay for internet service will certainly not rush out to purchase a 5G enabled device."
+    },
+    {
+     "inicio_corpo": 5106,
+     "fim_corpo": 6199,
+     "trecho": "Another 23% had incomes between $20,000 and $35,000. 3 Refers to lowest monthly cost for non-promotional, standalone Internet service at any speed in most U.S. markets. Source: Ongoing NDIA research. a unified voice for digital inclusion policies and programs storage workers lack proficient digital skills.4 There is no funding for digital literacy training.5 It has been left up to local governments, libraries, and nonprofits to piece together resources to address the basic digital skills training that millions of Americans need to cross that digital divide. Piecing together funding is the wrong strategy for a strong workforce. Now, let me share some good news. Digital inclusion solutions in the U.S. have been crafted from the ground up. NDIA’s affiliates are providing guidance to low-income parents connecting to their children’s teachers, teaching seniors how to use their electronic health records, helping veterans learn digital skills in order to acquire a job, and enabling disabled adults to participate more fully in their communities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0100::Urbano e rural",
+   "unit_id": "W0100",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Angela Siefer",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 949,
+     "fim_corpo": 1854,
+     "trecho": "In 1996, we were not concerned with universal access to the internet. If we had just two computers in a lab connected to the internet, we congratulated ourselves for being cutting edge. Today folks on the ground who are “bridging the digital divide” are facilitating access to home internet service, devices and digital literacy training. NDIA represents these heroes. They are nonprofit organizations, libraries, local governments, housing authorities and more. NDIA represents over 400 affiliated organizations in 41 states, the District of Columbia and the U.S. Virgin Islands. NDIA’s positions are based in our affiliates’ on-the-ground experience and research. There are a few myths that I would like to address today. Myth #1. A mis-statement that we hear repeated often is that the digital divide would be bridged if we filled the broadband infrastructure gaps in rural areas."
+    },
+    {
+     "inicio_corpo": 1137,
+     "fim_corpo": 2327,
+     "trecho": "Today folks on the ground who are “bridging the digital divide” are facilitating access to home internet service, devices and digital literacy training. NDIA represents these heroes. They are nonprofit organizations, libraries, local governments, housing authorities and more. NDIA represents over 400 affiliated organizations in 41 states, the District of Columbia and the U.S. Virgin Islands. NDIA’s positions are based in our affiliates’ on-the-ground experience and research. There are a few myths that I would like to address today. Myth #1. A mis-statement that we hear repeated often is that the digital divide would be bridged if we filled the broadband infrastructure gaps in rural areas. According to the Census’ latest American Community Survey, about fourteen million urban households (in major metro areas as well as smaller cities and towns) and 4 million rural households, still lacked broadband a unified voice for digital inclusion policies and programs subscriptions of any kind, including mobile data plans.1 What did 60% of unconnected urban residents have in common with more than half of the unconnected rural households?"
+    },
+    {
+     "inicio_corpo": 1420,
+     "fim_corpo": 2327,
+     "trecho": "NDIA represents over 400 affiliated organizations in 41 states, the District of Columbia and the U.S. Virgin Islands. NDIA’s positions are based in our affiliates’ on-the-ground experience and research. There are a few myths that I would like to address today. Myth #1. A mis-statement that we hear repeated often is that the digital divide would be bridged if we filled the broadband infrastructure gaps in rural areas. According to the Census’ latest American Community Survey, about fourteen million urban households (in major metro areas as well as smaller cities and towns) and 4 million rural households, still lacked broadband a unified voice for digital inclusion policies and programs subscriptions of any kind, including mobile data plans.1 What did 60% of unconnected urban residents have in common with more than half of the unconnected rural households?"
+    },
+    {
+     "inicio_corpo": 1702,
+     "fim_corpo": 2606,
+     "trecho": "A mis-statement that we hear repeated often is that the digital divide would be bridged if we filled the broadband infrastructure gaps in rural areas. According to the Census’ latest American Community Survey, about fourteen million urban households (in major metro areas as well as smaller cities and towns) and 4 million rural households, still lacked broadband a unified voice for digital inclusion policies and programs subscriptions of any kind, including mobile data plans.1 What did 60% of unconnected urban residents have in common with more than half of the unconnected rural households? They all had household incomes below $35,000. Households with incomes less than $35,000 make up 28% of all U.S. households but they account for 60% of those without any broadband internet service.2 We do need to address the lack of broadband infrastructure in rural areas."
+    },
+    {
+     "inicio_corpo": 3963,
+     "fim_corpo": 4849,
+     "trecho": "is expensive. On the low end, internet service generally runs $65-70 per month3. That’s a lot of money. Unfortunately I cannot provide any detail as to the cost of internet service because that data does not exist. We need the FCC to begin collecting systematic data on the cost of home internet service and make it publicly available. In the U.S., digital literacy training is under-valued and thus under-funded. One-third of manufacturing workers lack proficient digital skills. Half of all construction, transportation and 1 Of 18.1 million households with no broadband of any kind, 13.8 million were in what the Census calls urban areas, including six million in “principal cities” of metropolitan areas, other “urbanized” areas, and “urban clusters” in and around smaller cities and towns. Only about a fourth of U.S. households without broadband were in rural areas."
+    },
+    {
+     "inicio_corpo": 6503,
+     "fim_corpo": 7477,
+     "trecho": "A good first start would be to pass the Digital Equity Act. We are also in need of increased awareness of the problem and the solutions. So, thank you. This hearing is increasing awareness. You are increasing awareness. 4 National Skills Coalition analysis of OECD Survey of Adult Skills 2012-14 data. Proficient digital skills defined as: At this level, tasks typically require the use of both generic and specific technology applications. For example, a person might be presented with a new type of online form, and need to navigate across multiple pages and applications to answer the test question. The task may have multiple steps, and may require the use of tools (such as the “sort” function) to solve the problem. The person may have to identify the goal themselves, and engage in higher-level reasoning to solve the problem. 5 In 2018, combined expenditures for rural broadband infrastructure by USAC and USDA totalled more than $3.3 billion dollars."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0100::Vínculo institucional",
+   "unit_id": "W0100",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Angela Siefer",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "veterans",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5269,
+     "fim_corpo": 6199,
+     "trecho": "markets. Source: Ongoing NDIA research. a unified voice for digital inclusion policies and programs storage workers lack proficient digital skills.4 There is no funding for digital literacy training.5 It has been left up to local governments, libraries, and nonprofits to piece together resources to address the basic digital skills training that millions of Americans need to cross that digital divide. Piecing together funding is the wrong strategy for a strong workforce. Now, let me share some good news. Digital inclusion solutions in the U.S. have been crafted from the ground up. NDIA’s affiliates are providing guidance to low-income parents connecting to their children’s teachers, teaching seniors how to use their electronic health records, helping veterans learn digital skills in order to acquire a job, and enabling disabled adults to participate more fully in their communities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0101::Cultura e informação",
+   "unit_id": "W0101",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Gigi Sohn",
+   "n_ocorrencias_no_par": 11,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 5,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "libraries",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "libraries",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "Libraries",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "Library",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "community anchor institutions",
+     "forma_encontrada": "Community Anchor Institutions",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "libraries",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "community anchor institutions",
+     "forma_encontrada": "community anchor institutions",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "libraries",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "library",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "community anchor institutions",
+     "forma_encontrada": "community anchor institutions",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "community anchor institutions",
+     "forma_encontrada": "community anchor institutions",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 629,
+     "fim_corpo": 1262,
+     "trecho": "I am a Distinguished Fellow with the Georgetown Institute for Technology Law & Policy, and a Senior Fellow and Public Advocate at the Benton Institute for Broadband & Society.1 I served as Counselor to former Federal Communications Commission (“FCC”) Chairman Tom Wheeler from November 2013 to December 2016, and co-founded the non-profit Public Knowledge, which remains a leading voice on broadband policy issues. During my time at the FCC, I worked on the Commission’s efforts to modernize its Lifeline and E-Rate programs which provide broadband subsidies, respectively, for low-income Americans and schools and libraries."
+    },
+    {
+     "inicio_corpo": 10579,
+     "fim_corpo": 11421,
+     "trecho": "12 Legislating to Connect America: Improving the Nation’s Broadband Maps Before the H. Comm. on Energy & Commerce, Subcomm. on Commc’ns and Tech., supra note 7 at 12-13. 13 Id. at 14-15. 14 Fed. Commc’ns Comm’n, Strategies and Recommendations for Promoting Digital Inclusion at 1–30 (Jan. 11, 2017), https://www.fcc.gov/document/strategies-and-recommendations-promoting-digital-inclusion. 15 Blair Levin & Larry Downes, Cities, not Rural Areas, Are the Real Internet Deserts, WASH. POST (Sept. 13, 2019), https://www.washingtonpost.com/technology/2019/09/13/cities-not-rural-areas-are-real-internet-deserts. 16 Floberg, supra note 6. 4 broadband if it were available at a lower price and are also more likely to seek broadband service outside the home, especially when it is provided for free, as in libraries or coffee shops."
+    },
+    {
+     "inicio_corpo": 12316,
+     "fim_corpo": 13382,
+     "trecho": "So why are U.S. broadband prices so high? One major reason is the lack of competition across the country. Lack of competition creates adoption challenges in urban and particularly in rural areas. The truth is, it’s difficult to understand exactly how much competition there is. Even though the FCC recently changed the method by which broadband providers measure who has access to broadband, the FCC’s current competition data is based on system that allows broadband providers to measure their service on a broad census-block level, and further allows them to count areas as served as long as the provider could theoretically provide service, even if that provider does not currently and does not plan to do so. Even under these overly optimistic numbers, the FCC’s data shows that about 28% of U.S. households have access to no more than 17 This week, the Schools, Health & Libraries Broadband Coalition and the Kansas City Public Library released a report showing a strong relationship between low household broadband adoption levels and poverty."
+    },
+    {
+     "inicio_corpo": 12427,
+     "fim_corpo": 13382,
+     "trecho": "Lack of competition creates adoption challenges in urban and particularly in rural areas. The truth is, it’s difficult to understand exactly how much competition there is. Even though the FCC recently changed the method by which broadband providers measure who has access to broadband, the FCC’s current competition data is based on system that allows broadband providers to measure their service on a broad census-block level, and further allows them to count areas as served as long as the provider could theoretically provide service, even if that provider does not currently and does not plan to do so. Even under these overly optimistic numbers, the FCC’s data shows that about 28% of U.S. households have access to no more than 17 This week, the Schools, Health & Libraries Broadband Coalition and the Kansas City Public Library released a report showing a strong relationship between low household broadband adoption levels and poverty."
+    },
+    {
+     "inicio_corpo": 32474,
+     "fim_corpo": 32930,
+     "trecho": "Provide Support for Access “To and Through” Community Anchor Institutions Anchor institutions, such as schools, libraries and healthcare providers, not only provide Internet access to populations most impacted by the digital divide (low-income families, job seekers, students, and seniors), these important institutions also provide “jumping off” points to extend additional broadband deployment to surrounding residential and business customers."
+    },
+    {
+     "inicio_corpo": 32474,
+     "fim_corpo": 32930,
+     "trecho": "Provide Support for Access “To and Through” Community Anchor Institutions Anchor institutions, such as schools, libraries and healthcare providers, not only provide Internet access to populations most impacted by the digital divide (low-income families, job seekers, students, and seniors), these important institutions also provide “jumping off” points to extend additional broadband deployment to surrounding residential and business customers."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0101::Domicílio e arranjo familiar",
+   "unit_id": "W0101",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Gigi Sohn",
+   "n_ocorrencias_no_par": 23,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 17,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2207,
+     "fim_corpo": 2946,
+     "trecho": "Broadband access is also critical to successful primary education: seven out of ten schools assign homework that must be submitted online.4 But we don’t even need to look that far for examples: the only way I was permitted to submit this written testimony was online! But beyond replacing previously in-person interactions, broadband Internet access has become a vehicle for enormous, and previously unfathomable, opportunity for individuals and businesses alike. Broadband enables artists to sell their crafts on Etsy, students to take online courses from Coursera and Khan Academy, far-flung friends and family to connect on email and social media, rural residents to access high-quality health care, and workers to telework."
+    },
+    {
+     "inicio_corpo": 3616,
+     "fim_corpo": 4474,
+     "trecho": "Both were turned down; one began to cry. “‘What does it mean,’ Socia asked, ‘when you can’t flip a burger in America without Internet access?’” Benton Broadband Report, supra note 2 at 64. 4FED COMMC’NS COMM’N, THIRD REPORT AND ORDER, FURTHER REPORT AND ORDER, AND ORDER ON RECONSIDERATION, IN THE MATTER OF LIFELINE AND LINK UP REFORM AND MODERNIZATION (WC DOCKET NO. 11- 42); TELECOMMUNICATIONS CARRIERS ELIGIBLE FOR UNIVERSAL SERVICE SUPPORT (WC DOCKET NO. 09-197); CONNECT AMERICA FUND (WC DOCKET NO. 10-90) 1–224 (2016), https://docs.fcc.gov/public/attachments/FCC-16- 38A1.pdf (see also Commissioner Rosenworcel’s separate statement at 200). 2 advances change the nature of work, education, and healthcare and enable greater flexibility for connected Americans to choose where they live, how they work, and how they care for their families."
+    },
+    {
+     "inicio_corpo": 7034,
+     "fim_corpo": 7934,
+     "trecho": "on Commc’ns and Tech., 116th Cong. (2019) (statement of Dana J. Floberg, Policy Manager, Free Press and Free Press Action Fund Figure 1 at 9). 8 PEW RES. CTR., Internet/Broadband Fact Sheet (June 12, 2019), https://www.pewresearch.org/internet/fact- sheet/internet-broadband/#who-has-home-broadband. 9 Bill Callahan, Worst Connected Cities 2018, NDIA (Oct. 23, 2019), https://www.digitalinclusion.org/blog/2019/10/23/worst-connected-cities-of-2018. 10 John B. Horrigan, Analysis: Digital Divide Isn’t Just a Rural Problem, DAILY YONDER (Aug. 14, 2019), https://www.dailyyonder.com/analysis-digital-divide-isnt-just-a-rural-problem/2019/08/14. 3 A closer look reveals that while unconnected Americans are spread out geographically, communities of color and low-income Americans are far more likely not to adopt broadband than are whites and individuals and families with higher incomes."
+    },
+    {
+     "inicio_corpo": 7934,
+     "fim_corpo": 9013,
+     "trecho": "According to a recent study by the Pew Research Center, 79% of white U.S. adults have home broadband, while only 66% of black Americans and 61% of Hispanic Americans do so. The same study showed that 92% of Americans making $75,000 or more have home broadband, while 78% of Americans making between $30,000 and $74,999 have it, and only 56% making less than $30,000 have home broadband.11 Additionally, analysis by my colleagues at Free Press of the November 2017 U.S. Census Bureau Current Population Study (“November 2017 CPSs”) showed similarly troubling numbers. As of year-end 2017, 84% of white people adopted home Internet, compared to 79% of Hispanic people, 76% of Black people, 70% of American Indian/Alaska Natives, and 81% of Native Hawaiian/Pacific Islanders.12 The same analysis showed only 42% of households with annual family incomes below $20,000 had fixed wired home Internet service, compared to 83% of households with incomes above $100,000.13 Racial disparities in adoption can be explained somewhat by income inequality along racial lines."
+    },
+    {
+     "inicio_corpo": 7934,
+     "fim_corpo": 9013,
+     "trecho": "According to a recent study by the Pew Research Center, 79% of white U.S. adults have home broadband, while only 66% of black Americans and 61% of Hispanic Americans do so. The same study showed that 92% of Americans making $75,000 or more have home broadband, while 78% of Americans making between $30,000 and $74,999 have it, and only 56% making less than $30,000 have home broadband.11 Additionally, analysis by my colleagues at Free Press of the November 2017 U.S. Census Bureau Current Population Study (“November 2017 CPSs”) showed similarly troubling numbers. As of year-end 2017, 84% of white people adopted home Internet, compared to 79% of Hispanic people, 76% of Black people, 70% of American Indian/Alaska Natives, and 81% of Native Hawaiian/Pacific Islanders.12 The same analysis showed only 42% of households with annual family incomes below $20,000 had fixed wired home Internet service, compared to 83% of households with incomes above $100,000.13 Racial disparities in adoption can be explained somewhat by income inequality along racial lines."
+    },
+    {
+     "inicio_corpo": 8009,
+     "fim_corpo": 9013,
+     "trecho": "adults have home broadband, while only 66% of black Americans and 61% of Hispanic Americans do so. The same study showed that 92% of Americans making $75,000 or more have home broadband, while 78% of Americans making between $30,000 and $74,999 have it, and only 56% making less than $30,000 have home broadband.11 Additionally, analysis by my colleagues at Free Press of the November 2017 U.S. Census Bureau Current Population Study (“November 2017 CPSs”) showed similarly troubling numbers. As of year-end 2017, 84% of white people adopted home Internet, compared to 79% of Hispanic people, 76% of Black people, 70% of American Indian/Alaska Natives, and 81% of Native Hawaiian/Pacific Islanders.12 The same analysis showed only 42% of households with annual family incomes below $20,000 had fixed wired home Internet service, compared to 83% of households with incomes above $100,000.13 Racial disparities in adoption can be explained somewhat by income inequality along racial lines."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0101::Educação",
+   "unit_id": "W0101",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Gigi Sohn",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "Schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "Schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 629,
+     "fim_corpo": 1262,
+     "trecho": "I am a Distinguished Fellow with the Georgetown Institute for Technology Law & Policy, and a Senior Fellow and Public Advocate at the Benton Institute for Broadband & Society.1 I served as Counselor to former Federal Communications Commission (“FCC”) Chairman Tom Wheeler from November 2013 to December 2016, and co-founded the non-profit Public Knowledge, which remains a leading voice on broadband policy issues. During my time at the FCC, I worked on the Commission’s efforts to modernize its Lifeline and E-Rate programs which provide broadband subsidies, respectively, for low-income Americans and schools and libraries."
+    },
+    {
+     "inicio_corpo": 1446,
+     "fim_corpo": 2478,
+     "trecho": "Many of the recommendations I will make today for closing the digital divide are taken from the Benton Institute for Broadband & Society’s recent report, Broadband for America’s Future: A Vision for the 2020s,2 authored by former FCC General Counsel Jonathan Sallet. Introduction It is beyond dispute that broadband Internet is a vital tool for participation in our society, our economy, and our culture. Many jobs can only be applied for online, even service-industry positions, such as those at fast food chains.3 Access to government services, which are largely migrating online, requires reliable Internet access, especially as brick and mortar government facilities like the Department of Motor Vehicles and post offices are growing scarcer. Broadband access is also critical to successful primary education: seven out of ten schools assign homework that must be submitted online.4 But we don’t even need to look that far for examples: the only way I was permitted to submit this written testimony was online!"
+    },
+    {
+     "inicio_corpo": 12316,
+     "fim_corpo": 13382,
+     "trecho": "So why are U.S. broadband prices so high? One major reason is the lack of competition across the country. Lack of competition creates adoption challenges in urban and particularly in rural areas. The truth is, it’s difficult to understand exactly how much competition there is. Even though the FCC recently changed the method by which broadband providers measure who has access to broadband, the FCC’s current competition data is based on system that allows broadband providers to measure their service on a broad census-block level, and further allows them to count areas as served as long as the provider could theoretically provide service, even if that provider does not currently and does not plan to do so. Even under these overly optimistic numbers, the FCC’s data shows that about 28% of U.S. households have access to no more than 17 This week, the Schools, Health & Libraries Broadband Coalition and the Kansas City Public Library released a report showing a strong relationship between low household broadband adoption levels and poverty."
+    },
+    {
+     "inicio_corpo": 32474,
+     "fim_corpo": 32930,
+     "trecho": "Provide Support for Access “To and Through” Community Anchor Institutions Anchor institutions, such as schools, libraries and healthcare providers, not only provide Internet access to populations most impacted by the digital divide (low-income families, job seekers, students, and seniors), these important institutions also provide “jumping off” points to extend additional broadband deployment to surrounding residential and business customers."
+    },
+    {
+     "inicio_corpo": 32474,
+     "fim_corpo": 33258,
+     "trecho": "Provide Support for Access “To and Through” Community Anchor Institutions Anchor institutions, such as schools, libraries and healthcare providers, not only provide Internet access to populations most impacted by the digital divide (low-income families, job seekers, students, and seniors), these important institutions also provide “jumping off” points to extend additional broadband deployment to surrounding residential and business customers. Some community anchor institutions have adopted programs that extend broadband access beyond their walls. For example, libraries and schools in a number of cities and towns across the nation have been experimenting with mobile wireless hotspot programs, which allow people to “check-out” broadband hotspots for home use."
+    },
+    {
+     "inicio_corpo": 32474,
+     "fim_corpo": 33346,
+     "trecho": "Provide Support for Access “To and Through” Community Anchor Institutions Anchor institutions, such as schools, libraries and healthcare providers, not only provide Internet access to populations most impacted by the digital divide (low-income families, job seekers, students, and seniors), these important institutions also provide “jumping off” points to extend additional broadband deployment to surrounding residential and business customers. Some community anchor institutions have adopted programs that extend broadband access beyond their walls. For example, libraries and schools in a number of cities and towns across the nation have been experimenting with mobile wireless hotspot programs, which allow people to “check-out” broadband hotspots for home use. Schools have been providing buses equipped with Wi-Fi for students to use after hours."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0101::Escolaridade e letramento",
+   "unit_id": "W0101",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Gigi Sohn",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "digital literacy",
+     "forma_encontrada": "digital literacy",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "STUDENTS",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "digital literacy",
+     "forma_encontrada": "digital literacy",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "digital literacy",
+     "forma_encontrada": "digital literacy",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1862,
+     "fim_corpo": 2946,
+     "trecho": "Many jobs can only be applied for online, even service-industry positions, such as those at fast food chains.3 Access to government services, which are largely migrating online, requires reliable Internet access, especially as brick and mortar government facilities like the Department of Motor Vehicles and post offices are growing scarcer. Broadband access is also critical to successful primary education: seven out of ten schools assign homework that must be submitted online.4 But we don’t even need to look that far for examples: the only way I was permitted to submit this written testimony was online! But beyond replacing previously in-person interactions, broadband Internet access has become a vehicle for enormous, and previously unfathomable, opportunity for individuals and businesses alike. Broadband enables artists to sell their crafts on Etsy, students to take online courses from Coursera and Khan Academy, far-flung friends and family to connect on email and social media, rural residents to access high-quality health care, and workers to telework."
+    },
+    {
+     "inicio_corpo": 9013,
+     "fim_corpo": 10075,
+     "trecho": "But when Free Press controlled for income along with other factors like age, job, and education, it still found many racial and ethnic groups continue to lag behind whites in home broadband adoption. This can be attributed to structural inequality, such as housing discrimination and discriminatory credit and lending practices that resulted in segregated, underserved communities and facilitated disparate broadband deployment in high- and low-income areas as well as unequal access to technology.14 Some commentators have argued that the main reason racial minorities and low-income Americans don’t adopt broadband is that they fail to see its “relevance,” and that affordability is no longer a major factor.15 But claims of non-relevance are often tied to other barriers, including cost of Internet access, lack of digital literacy and equipment costs.16 According to the November 2017 CPS, lower income quintiles are far more likely than higher income quintiles to cite their inability to afford broadband as a primary reason for not adopting."
+    },
+    {
+     "inicio_corpo": 18876,
+     "fim_corpo": 19567,
+     "trecho": "Congress should mandate that the FCC require broadband providers to submit non-promotional pricing information and should require public disclosure of added fees and equipment costs. In addition, Congress or the FCC should restore the Fixed Broadband Consumer Disclosure Label (reproduced below as Figure 1),29 which was withdrawn by the FCC in 2017. This label will help consumers make informed choices about the price, quality, and value of their broadband service. 28 EDUCATION SUPERHIGHWAY, 2017 STATE OF THE STATES: FULFILLING OUR PROMISE TO AMERICA’S STUDENTS 19 (2017), https://s3-us-west-1.amazonaws.com/esh-sots-pdfs/educationsuperhighway_2017_state_of_the_states.pdf."
+    },
+    {
+     "inicio_corpo": 32474,
+     "fim_corpo": 32930,
+     "trecho": "Provide Support for Access “To and Through” Community Anchor Institutions Anchor institutions, such as schools, libraries and healthcare providers, not only provide Internet access to populations most impacted by the digital divide (low-income families, job seekers, students, and seniors), these important institutions also provide “jumping off” points to extend additional broadband deployment to surrounding residential and business customers."
+    },
+    {
+     "inicio_corpo": 32474,
+     "fim_corpo": 33346,
+     "trecho": "Provide Support for Access “To and Through” Community Anchor Institutions Anchor institutions, such as schools, libraries and healthcare providers, not only provide Internet access to populations most impacted by the digital divide (low-income families, job seekers, students, and seniors), these important institutions also provide “jumping off” points to extend additional broadband deployment to surrounding residential and business customers. Some community anchor institutions have adopted programs that extend broadband access beyond their walls. For example, libraries and schools in a number of cities and towns across the nation have been experimenting with mobile wireless hotspot programs, which allow people to “check-out” broadband hotspots for home use. Schools have been providing buses equipped with Wi-Fi for students to use after hours."
+    },
+    {
+     "inicio_corpo": 34415,
+     "fim_corpo": 35295,
+     "trecho": "While the majority of my testimony has focused on what the federal government can do to make broadband more affordable, the hard work of making sure that non-adopters (1) are aware of how to access low cost broadband services and programs like Lifeline; (2) have the skills to use the Internet both for personal and professional use; and (3) can obtain low-cost computing equipment and technical support, falls to community digital inclusion advocates who are dedicated to ensuring that all of their residents are connected. Already, with assistance from groups like the National Digital Inclusion Alliance and Next Century Cities, cities and towns around the country have adopted digital inclusion plans. These plans include providing digital literacy training, job skills training, low-cost computers and information about where low-cost connectivity can be found."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0101::Idade",
+   "unit_id": "W0101",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Gigi Sohn",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "seniors",
+     "forma_encontrada": "seniors",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 629,
+     "trecho": "Written Testimony of Gigi B. Sohn Distinguished Fellow Institute for Technology Law & Policy, Georgetown University Senior Fellow and Public Advocate Benton Institute for Broadband & Society Before the Congress of the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology “Empowering and Connecting Communities through Digital Equity and Internet Adoption” January 29, 2020 1 Chairman Doyle, Ranking Member Latta, Chairman Pallone, Ranking Member Walden and esteemed members of the subcommittee—m y name is Gigi Sohn."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1049,
+     "trecho": "Written Testimony of Gigi B. Sohn Distinguished Fellow Institute for Technology Law & Policy, Georgetown University Senior Fellow and Public Advocate Benton Institute for Broadband & Society Before the Congress of the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology “Empowering and Connecting Communities through Digital Equity and Internet Adoption” January 29, 2020 1 Chairman Doyle, Ranking Member Latta, Chairman Pallone, Ranking Member Walden and esteemed members of the subcommittee—m y name is Gigi Sohn. I am a Distinguished Fellow with the Georgetown Institute for Technology Law & Policy, and a Senior Fellow and Public Advocate at the Benton Institute for Broadband & Society.1 I served as Counselor to former Federal Communications Commission (“FCC”) Chairman Tom Wheeler from November 2013 to December 2016, and co-founded the non-profit Public Knowledge, which remains a leading voice on broadband policy issues."
+    },
+    {
+     "inicio_corpo": 32474,
+     "fim_corpo": 32930,
+     "trecho": "Provide Support for Access “To and Through” Community Anchor Institutions Anchor institutions, such as schools, libraries and healthcare providers, not only provide Internet access to populations most impacted by the digital divide (low-income families, job seekers, students, and seniors), these important institutions also provide “jumping off” points to extend additional broadband deployment to surrounding residential and business customers."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0101::Infraestrutura e porte populacional",
+   "unit_id": "W0101",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Gigi Sohn",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "last mile",
+     "forma_encontrada": "last-mile",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "last mile",
+     "forma_encontrada": "last-mile",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "high-cost areas",
+     "forma_encontrada": "high cost areas",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8510,
+     "fim_corpo": 10075,
+     "trecho": "As of year-end 2017, 84% of white people adopted home Internet, compared to 79% of Hispanic people, 76% of Black people, 70% of American Indian/Alaska Natives, and 81% of Native Hawaiian/Pacific Islanders.12 The same analysis showed only 42% of households with annual family incomes below $20,000 had fixed wired home Internet service, compared to 83% of households with incomes above $100,000.13 Racial disparities in adoption can be explained somewhat by income inequality along racial lines. But when Free Press controlled for income along with other factors like age, job, and education, it still found many racial and ethnic groups continue to lag behind whites in home broadband adoption. This can be attributed to structural inequality, such as housing discrimination and discriminatory credit and lending practices that resulted in segregated, underserved communities and facilitated disparate broadband deployment in high- and low-income areas as well as unequal access to technology.14 Some commentators have argued that the main reason racial minorities and low-income Americans don’t adopt broadband is that they fail to see its “relevance,” and that affordability is no longer a major factor.15 But claims of non-relevance are often tied to other barriers, including cost of Internet access, lack of digital literacy and equipment costs.16 According to the November 2017 CPS, lower income quintiles are far more likely than higher income quintiles to cite their inability to afford broadband as a primary reason for not adopting."
+    },
+    {
+     "inicio_corpo": 20275,
+     "fim_corpo": 21075,
+     "trecho": "While numerous cities and towns across the nation have successfully built gigabit speed networks at low prices, 19 states still have laws on the books that prohibit either the 8 building or the expansion of such networks.30 These laws, passed at the urging of the largest incumbent broadband providers, are not only flatly anticompetitive, they prohibit deployment in rural communities that the incumbents have no intention of ever serving. Most destructively, these laws directly raise the price of broadband for the most vulnerable Americans. Second, Congress should give a bidding preference to “open access networks” when allocating broadband deployment subsidies. Open access networks allow any broadband provider to connect to a network and provide last-mile service to a customer."
+    },
+    {
+     "inicio_corpo": 20723,
+     "fim_corpo": 21540,
+     "trecho": "Most destructively, these laws directly raise the price of broadband for the most vulnerable Americans. Second, Congress should give a bidding preference to “open access networks” when allocating broadband deployment subsidies. Open access networks allow any broadband provider to connect to a network and provide last-mile service to a customer. This model has become very popular for community broadband builds. For example, the Utah Telecommunications Open Infrastructure Agency (UTOPIA) network is the largest open-access network in the United States, comprised of a consortium of 15 Utahan cities. UTOPIA owns and operates the fiber middle-mile and last-mile network and permits private service providers to use the infrastructure to offer retail digital services to customers in UTOPIA member cities."
+    },
+    {
+     "inicio_corpo": 30520,
+     "fim_corpo": 31256,
+     "trecho": "39 Benton Broadband Paper, supra note 2 at 68. 40 Despite my best efforts and those of my FCC colleagues, we could not in 2016 convince any new major cable operator who provides low-cost fixed broadband service to become a Lifeline provider (Cox was a lifeline provider at the time and remains one). Indeed, any chance of that occurring vanished when the FCC eliminated the federal LBP designation in November 2019. 11 The FCC disburses billions of dollars annually to mobile and fixed providers to build out their networks. Indeed, the FCC will vote this week to approve the $20.4 billion Rural Digital Opportunity Fund (RDOF) that will make grants to broadband providers to build high-speed networks in high cost areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0101::Macrorregião",
+   "unit_id": "W0101",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Gigi Sohn",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Puerto Rico",
+     "forma_encontrada": "Puerto Rico",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 35132,
+     "fim_corpo": 36111,
+     "trecho": "These plans include providing digital literacy training, job skills training, low-cost computers and information about where low-cost connectivity can be found. In places like Kansas City, Boston, Charlotte, Chicago and Austin, a digital inclusion plan becomes a starting point for coordination between non-profits, community anchor institutions and government entities to ensure that as many people on the wrong side of the digital divide are being reached.47 Congress and the FCC can and should assist these efforts. First and foremost, Congress should pass the Digital Equity Act of 2019, which establishes two grant programs to be administered by the National Telecommunications and Information Administration (“NTIA”) to promote digital equity nationwide. The legislation creates an annual $120 million formula grant program for all 50 states, the District of Columbia, and Puerto Rico to fund the creation of digital equity (or inclusion) plans in each State."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0101::Posição no trabalho",
+   "unit_id": "W0101",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Gigi Sohn",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2207,
+     "fim_corpo": 2946,
+     "trecho": "Broadband access is also critical to successful primary education: seven out of ten schools assign homework that must be submitted online.4 But we don’t even need to look that far for examples: the only way I was permitted to submit this written testimony was online! But beyond replacing previously in-person interactions, broadband Internet access has become a vehicle for enormous, and previously unfathomable, opportunity for individuals and businesses alike. Broadband enables artists to sell their crafts on Etsy, students to take online courses from Coursera and Khan Academy, far-flung friends and family to connect on email and social media, rural residents to access high-quality health care, and workers to telework."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0101::Raça e etnia",
+   "unit_id": "W0101",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Gigi Sohn",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "minorities",
+     "forma_encontrada": "Minorities",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "American Indian",
+     "forma_encontrada": "American Indian",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Alaska Natives",
+     "forma_encontrada": "Alaska Natives",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "minorities",
+     "forma_encontrada": "minorities",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5022,
+     "fim_corpo": 6105,
+     "trecho": "Think about that. If you walk down the street, a person you meet is nearly as likely as not to not have broadband Internet at home. The reasons for non-adoption are not as straightforward as some may like to claim.6 While 7% of unconnected Americans don’t subscribe because no fixed broadband is available where they live, that still leaves 36% of U.S. residents who reportedly do have access to 25/3 Mbps fixed broadband and either choose to subscribe to a slower tier or simply go without any service at all.7 What is even more alarming is that home broadband adoption rates aren’t improving – they have remained stable for the past three years.8 Now is the time for policymakers to act. Addressing the reasons why so many do not subscribe to a broadband connection is critical to ensuring that all Americans can benefit from the opportunities that broadband provides. Minorities and Low-income Americans, Both Rural and Urban, Are Disproportionately on the Wrong Side of the Digital Divide The digital divide affects every geographic region of our country."
+    },
+    {
+     "inicio_corpo": 7934,
+     "fim_corpo": 9013,
+     "trecho": "According to a recent study by the Pew Research Center, 79% of white U.S. adults have home broadband, while only 66% of black Americans and 61% of Hispanic Americans do so. The same study showed that 92% of Americans making $75,000 or more have home broadband, while 78% of Americans making between $30,000 and $74,999 have it, and only 56% making less than $30,000 have home broadband.11 Additionally, analysis by my colleagues at Free Press of the November 2017 U.S. Census Bureau Current Population Study (“November 2017 CPSs”) showed similarly troubling numbers. As of year-end 2017, 84% of white people adopted home Internet, compared to 79% of Hispanic people, 76% of Black people, 70% of American Indian/Alaska Natives, and 81% of Native Hawaiian/Pacific Islanders.12 The same analysis showed only 42% of households with annual family incomes below $20,000 had fixed wired home Internet service, compared to 83% of households with incomes above $100,000.13 Racial disparities in adoption can be explained somewhat by income inequality along racial lines."
+    },
+    {
+     "inicio_corpo": 7934,
+     "fim_corpo": 9013,
+     "trecho": "According to a recent study by the Pew Research Center, 79% of white U.S. adults have home broadband, while only 66% of black Americans and 61% of Hispanic Americans do so. The same study showed that 92% of Americans making $75,000 or more have home broadband, while 78% of Americans making between $30,000 and $74,999 have it, and only 56% making less than $30,000 have home broadband.11 Additionally, analysis by my colleagues at Free Press of the November 2017 U.S. Census Bureau Current Population Study (“November 2017 CPSs”) showed similarly troubling numbers. As of year-end 2017, 84% of white people adopted home Internet, compared to 79% of Hispanic people, 76% of Black people, 70% of American Indian/Alaska Natives, and 81% of Native Hawaiian/Pacific Islanders.12 The same analysis showed only 42% of households with annual family incomes below $20,000 had fixed wired home Internet service, compared to 83% of households with incomes above $100,000.13 Racial disparities in adoption can be explained somewhat by income inequality along racial lines."
+    },
+    {
+     "inicio_corpo": 9013,
+     "fim_corpo": 10075,
+     "trecho": "But when Free Press controlled for income along with other factors like age, job, and education, it still found many racial and ethnic groups continue to lag behind whites in home broadband adoption. This can be attributed to structural inequality, such as housing discrimination and discriminatory credit and lending practices that resulted in segregated, underserved communities and facilitated disparate broadband deployment in high- and low-income areas as well as unequal access to technology.14 Some commentators have argued that the main reason racial minorities and low-income Americans don’t adopt broadband is that they fail to see its “relevance,” and that affordability is no longer a major factor.15 But claims of non-relevance are often tied to other barriers, including cost of Internet access, lack of digital literacy and equipment costs.16 According to the November 2017 CPS, lower income quintiles are far more likely than higher income quintiles to cite their inability to afford broadband as a primary reason for not adopting."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0101::Renda e classe",
+   "unit_id": "W0101",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Gigi Sohn",
+   "n_ocorrencias_no_par": 17,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 11,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "Low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "Low-Income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 629,
+     "fim_corpo": 1262,
+     "trecho": "I am a Distinguished Fellow with the Georgetown Institute for Technology Law & Policy, and a Senior Fellow and Public Advocate at the Benton Institute for Broadband & Society.1 I served as Counselor to former Federal Communications Commission (“FCC”) Chairman Tom Wheeler from November 2013 to December 2016, and co-founded the non-profit Public Knowledge, which remains a leading voice on broadband policy issues. During my time at the FCC, I worked on the Commission’s efforts to modernize its Lifeline and E-Rate programs which provide broadband subsidies, respectively, for low-income Americans and schools and libraries."
+    },
+    {
+     "inicio_corpo": 5040,
+     "fim_corpo": 6105,
+     "trecho": "If you walk down the street, a person you meet is nearly as likely as not to not have broadband Internet at home. The reasons for non-adoption are not as straightforward as some may like to claim.6 While 7% of unconnected Americans don’t subscribe because no fixed broadband is available where they live, that still leaves 36% of U.S. residents who reportedly do have access to 25/3 Mbps fixed broadband and either choose to subscribe to a slower tier or simply go without any service at all.7 What is even more alarming is that home broadband adoption rates aren’t improving – they have remained stable for the past three years.8 Now is the time for policymakers to act. Addressing the reasons why so many do not subscribe to a broadband connection is critical to ensuring that all Americans can benefit from the opportunities that broadband provides. Minorities and Low-income Americans, Both Rural and Urban, Are Disproportionately on the Wrong Side of the Digital Divide The digital divide affects every geographic region of our country."
+    },
+    {
+     "inicio_corpo": 6909,
+     "fim_corpo": 7934,
+     "trecho": "7 Legislating to Connect America: Improving the Nation’s Broadband Maps Before the H. Comm. on Energy & Commerce, Subcomm. on Commc’ns and Tech., 116th Cong. (2019) (statement of Dana J. Floberg, Policy Manager, Free Press and Free Press Action Fund Figure 1 at 9). 8 PEW RES. CTR., Internet/Broadband Fact Sheet (June 12, 2019), https://www.pewresearch.org/internet/fact- sheet/internet-broadband/#who-has-home-broadband. 9 Bill Callahan, Worst Connected Cities 2018, NDIA (Oct. 23, 2019), https://www.digitalinclusion.org/blog/2019/10/23/worst-connected-cities-of-2018. 10 John B. Horrigan, Analysis: Digital Divide Isn’t Just a Rural Problem, DAILY YONDER (Aug. 14, 2019), https://www.dailyyonder.com/analysis-digital-divide-isnt-just-a-rural-problem/2019/08/14. 3 A closer look reveals that while unconnected Americans are spread out geographically, communities of color and low-income Americans are far more likely not to adopt broadband than are whites and individuals and families with higher incomes."
+    },
+    {
+     "inicio_corpo": 9013,
+     "fim_corpo": 10075,
+     "trecho": "But when Free Press controlled for income along with other factors like age, job, and education, it still found many racial and ethnic groups continue to lag behind whites in home broadband adoption. This can be attributed to structural inequality, such as housing discrimination and discriminatory credit and lending practices that resulted in segregated, underserved communities and facilitated disparate broadband deployment in high- and low-income areas as well as unequal access to technology.14 Some commentators have argued that the main reason racial minorities and low-income Americans don’t adopt broadband is that they fail to see its “relevance,” and that affordability is no longer a major factor.15 But claims of non-relevance are often tied to other barriers, including cost of Internet access, lack of digital literacy and equipment costs.16 According to the November 2017 CPS, lower income quintiles are far more likely than higher income quintiles to cite their inability to afford broadband as a primary reason for not adopting."
+    },
+    {
+     "inicio_corpo": 9013,
+     "fim_corpo": 10075,
+     "trecho": "But when Free Press controlled for income along with other factors like age, job, and education, it still found many racial and ethnic groups continue to lag behind whites in home broadband adoption. This can be attributed to structural inequality, such as housing discrimination and discriminatory credit and lending practices that resulted in segregated, underserved communities and facilitated disparate broadband deployment in high- and low-income areas as well as unequal access to technology.14 Some commentators have argued that the main reason racial minorities and low-income Americans don’t adopt broadband is that they fail to see its “relevance,” and that affordability is no longer a major factor.15 But claims of non-relevance are often tied to other barriers, including cost of Internet access, lack of digital literacy and equipment costs.16 According to the November 2017 CPS, lower income quintiles are far more likely than higher income quintiles to cite their inability to afford broadband as a primary reason for not adopting."
+    },
+    {
+     "inicio_corpo": 11421,
+     "fim_corpo": 12316,
+     "trecho": "17 Cost Remains A Primary Barrier to Broadband Adoption As discussed above, cost of both broadband and equipment remains a primary barrier to broadband adoption for Americans across country. Study after study demonstrates this.18 The high price of broadband isn’t simply a pet complaint of public interest advocates. Americans pay some of the highest broadband prices in the world. In 2017, a study comparing the price of broadband among the 35 OECD countries found that Americans pay the second-highest prices. In the U.S, various studies put the average cost of a broadband connection somewhere between $60 and $72 a month.19 Despite the fact that broadband is already expensive, some of the nation’s largest broadband providers have recently raised their prices.20 For low-income and even some middle-income families, these prices, already prohibitive, are now insurmountable."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0101::Saúde e deficiência",
+   "unit_id": "W0101",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Gigi Sohn",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "deaf",
+     "forma_encontrada": "de af",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5155,
+     "fim_corpo": 6105,
+     "trecho": "The reasons for non-adoption are not as straightforward as some may like to claim.6 While 7% of unconnected Americans don’t subscribe because no fixed broadband is available where they live, that still leaves 36% of U.S. residents who reportedly do have access to 25/3 Mbps fixed broadband and either choose to subscribe to a slower tier or simply go without any service at all.7 What is even more alarming is that home broadband adoption rates aren’t improving – they have remained stable for the past three years.8 Now is the time for policymakers to act. Addressing the reasons why so many do not subscribe to a broadband connection is critical to ensuring that all Americans can benefit from the opportunities that broadband provides. Minorities and Low-income Americans, Both Rural and Urban, Are Disproportionately on the Wrong Side of the Digital Divide The digital divide affects every geographic region of our country."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0101::Urbano e rural",
+   "unit_id": "W0101",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Gigi Sohn",
+   "n_ocorrencias_no_par": 14,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 8,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "Rural Areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural-areas",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2207,
+     "fim_corpo": 2946,
+     "trecho": "Broadband access is also critical to successful primary education: seven out of ten schools assign homework that must be submitted online.4 But we don’t even need to look that far for examples: the only way I was permitted to submit this written testimony was online! But beyond replacing previously in-person interactions, broadband Internet access has become a vehicle for enormous, and previously unfathomable, opportunity for individuals and businesses alike. Broadband enables artists to sell their crafts on Etsy, students to take online courses from Coursera and Khan Academy, far-flung friends and family to connect on email and social media, rural residents to access high-quality health care, and workers to telework."
+    },
+    {
+     "inicio_corpo": 5155,
+     "fim_corpo": 6105,
+     "trecho": "The reasons for non-adoption are not as straightforward as some may like to claim.6 While 7% of unconnected Americans don’t subscribe because no fixed broadband is available where they live, that still leaves 36% of U.S. residents who reportedly do have access to 25/3 Mbps fixed broadband and either choose to subscribe to a slower tier or simply go without any service at all.7 What is even more alarming is that home broadband adoption rates aren’t improving – they have remained stable for the past three years.8 Now is the time for policymakers to act. Addressing the reasons why so many do not subscribe to a broadband connection is critical to ensuring that all Americans can benefit from the opportunities that broadband provides. Minorities and Low-income Americans, Both Rural and Urban, Are Disproportionately on the Wrong Side of the Digital Divide The digital divide affects every geographic region of our country."
+    },
+    {
+     "inicio_corpo": 5382,
+     "fim_corpo": 6583,
+     "trecho": "residents who reportedly do have access to 25/3 Mbps fixed broadband and either choose to subscribe to a slower tier or simply go without any service at all.7 What is even more alarming is that home broadband adoption rates aren’t improving – they have remained stable for the past three years.8 Now is the time for policymakers to act. Addressing the reasons why so many do not subscribe to a broadband connection is critical to ensuring that all Americans can benefit from the opportunities that broadband provides. Minorities and Low-income Americans, Both Rural and Urban, Are Disproportionately on the Wrong Side of the Digital Divide The digital divide affects every geographic region of our country. While policymakers have focused disproportionately on broadband deployment in rural areas of the United States, Americans who live in cities also face enormous challenges to broadband connectivity.9 Indeed, noted broadband adoption researcher John Horrigan found that the country’s broadband adoption problem is three times higher in urban areas than rural.10 5 Karl Bode, The Current Definition of ‘Broadband’ Is Too Slow and Ajit Pai Refuses to Change It, VICE (Aug."
+    },
+    {
+     "inicio_corpo": 5725,
+     "fim_corpo": 6583,
+     "trecho": "Addressing the reasons why so many do not subscribe to a broadband connection is critical to ensuring that all Americans can benefit from the opportunities that broadband provides. Minorities and Low-income Americans, Both Rural and Urban, Are Disproportionately on the Wrong Side of the Digital Divide The digital divide affects every geographic region of our country. While policymakers have focused disproportionately on broadband deployment in rural areas of the United States, Americans who live in cities also face enormous challenges to broadband connectivity.9 Indeed, noted broadband adoption researcher John Horrigan found that the country’s broadband adoption problem is three times higher in urban areas than rural.10 5 Karl Bode, The Current Definition of ‘Broadband’ Is Too Slow and Ajit Pai Refuses to Change It, VICE (Aug."
+    },
+    {
+     "inicio_corpo": 6721,
+     "fim_corpo": 7582,
+     "trecho": "6 See Dana Floberg, The Truth About the Digital Divide, FREE PRESS (Sept. 25, 2019), https://www.freepress.net/our-response/expert-analysis/insights-opinions/truth-about-digital-divide. 7 Legislating to Connect America: Improving the Nation’s Broadband Maps Before the H. Comm. on Energy & Commerce, Subcomm. on Commc’ns and Tech., 116th Cong. (2019) (statement of Dana J. Floberg, Policy Manager, Free Press and Free Press Action Fund Figure 1 at 9). 8 PEW RES. CTR., Internet/Broadband Fact Sheet (June 12, 2019), https://www.pewresearch.org/internet/fact- sheet/internet-broadband/#who-has-home-broadband. 9 Bill Callahan, Worst Connected Cities 2018, NDIA (Oct. 23, 2019), https://www.digitalinclusion.org/blog/2019/10/23/worst-connected-cities-of-2018. 10 John B. Horrigan, Analysis: Digital Divide Isn’t Just a Rural Problem, DAILY YONDER (Aug."
+    },
+    {
+     "inicio_corpo": 6796,
+     "fim_corpo": 7684,
+     "trecho": "25, 2019), https://www.freepress.net/our-response/expert-analysis/insights-opinions/truth-about-digital-divide. 7 Legislating to Connect America: Improving the Nation’s Broadband Maps Before the H. Comm. on Energy & Commerce, Subcomm. on Commc’ns and Tech., 116th Cong. (2019) (statement of Dana J. Floberg, Policy Manager, Free Press and Free Press Action Fund Figure 1 at 9). 8 PEW RES. CTR., Internet/Broadband Fact Sheet (June 12, 2019), https://www.pewresearch.org/internet/fact- sheet/internet-broadband/#who-has-home-broadband. 9 Bill Callahan, Worst Connected Cities 2018, NDIA (Oct. 23, 2019), https://www.digitalinclusion.org/blog/2019/10/23/worst-connected-cities-of-2018. 10 John B. Horrigan, Analysis: Digital Divide Isn’t Just a Rural Problem, DAILY YONDER (Aug. 14, 2019), https://www.dailyyonder.com/analysis-digital-divide-isnt-just-a-rural-problem/2019/08/14."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0102::Administração pública",
+   "unit_id": "W0102",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Allen Bell",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1803,
+     "fim_corpo": 2719,
+     "trecho": "Southern Company’s communications service provider affiliate, Southern Linc, operates a commercial digital 800 MHz ESMR system that uses an all-LTE platform to provide mobile interconnected voice, dispatch, push-to-talk, text and picture messaging, internet access, and data transmission services over the same handset. Southern Linc provides these services over a 127,000 square mile service territory covering Georgia, Alabama, southeastern Mississippi, and the Panhandle of Florida. Southern Linc offers comprehensive geographic coverage, serving the extensive rural territory within its footprint as well as major metropolitan areas and highway corridors. Because of its expansive regional coverage and history of reliability, Southern Linc’s service is widely used by state and local public safety agencies, school districts, rural local governments, public utilities, and other emergency responders."
+    },
+    {
+     "inicio_corpo": 5162,
+     "fim_corpo": 6071,
+     "trecho": "Electric companies have also taken on major hardening efforts including strengthening towers and poles to withstand powerful winds. Additionally, electric companies leverage a variety of telecommunications systems to manage their own communications with customers and coordinate industry activities during disaster events. Electric companies, such as Georgia Power, are committed to working with wireless providers to ensure critical services remain resilient and reliable. Given the interdependencies of these essential services, better coordination and communication between electric companies and wireless providers will improve the preparedness and restoration during emergency situations for both sectors. This also includes partnering with federal, state, and local governments to support efforts to enhance preparation, coordination, and response to widespread emergencies and disasters."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0102::Educação",
+   "unit_id": "W0102",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Allen Bell",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1803,
+     "fim_corpo": 2719,
+     "trecho": "Southern Company’s communications service provider affiliate, Southern Linc, operates a commercial digital 800 MHz ESMR system that uses an all-LTE platform to provide mobile interconnected voice, dispatch, push-to-talk, text and picture messaging, internet access, and data transmission services over the same handset. Southern Linc provides these services over a 127,000 square mile service territory covering Georgia, Alabama, southeastern Mississippi, and the Panhandle of Florida. Southern Linc offers comprehensive geographic coverage, serving the extensive rural territory within its footprint as well as major metropolitan areas and highway corridors. Because of its expansive regional coverage and history of reliability, Southern Linc’s service is widely used by state and local public safety agencies, school districts, rural local governments, public utilities, and other emergency responders."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0102::Macrorregião",
+   "unit_id": "W0102",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Allen Bell",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 459,
+     "fim_corpo": 1282,
+     "trecho": "My name is Allen Bell, and I serve as Distribution Support Manager for Georgia Power. I am a member of the Federal Communications Commission’s (FCC) Broadband Deployment Advisory Committee (BDAC) and serve on its Disaster Response and Recovery working group. I have nearly three decades of experience working disaster response and recovery and communications issues in the electric power industry, including serving 15 years on Georgia’s 811 Board and working with the electric power industry on two revisions to the Georgia Utility Facility Protection Act, more commonly known as the Georgia Dig Law. Georgia Power is the largest subsidiary of Southern Company, one of the nation's largest generators of electricity. Georgia Power serves 2.53 million customers across 24,088 square miles of service territory."
+    },
+    {
+     "inicio_corpo": 1462,
+     "fim_corpo": 2294,
+     "trecho": "Southern Company operates regulated electric and gas utilities serving 9 million customers in six states, including three electric companies – Alabama Power, Georgia Power, and Mississippi Power – that provide retail and wholesale electric service throughout Georgia, the southern two- thirds of Alabama, and southeastern Mississippi. Southern Company’s communications service provider affiliate, Southern Linc, operates a commercial digital 800 MHz ESMR system that uses an all-LTE platform to provide mobile interconnected voice, dispatch, push-to-talk, text and picture messaging, internet access, and data transmission services over the same handset. Southern Linc provides these services over a 127,000 square mile service territory covering Georgia, Alabama, southeastern Mississippi, and the Panhandle of Florida."
+    },
+    {
+     "inicio_corpo": 1803,
+     "fim_corpo": 2470,
+     "trecho": "Southern Company’s communications service provider affiliate, Southern Linc, operates a commercial digital 800 MHz ESMR system that uses an all-LTE platform to provide mobile interconnected voice, dispatch, push-to-talk, text and picture messaging, internet access, and data transmission services over the same handset. Southern Linc provides these services over a 127,000 square mile service territory covering Georgia, Alabama, southeastern Mississippi, and the Panhandle of Florida. Southern Linc offers comprehensive geographic coverage, serving the extensive rural territory within its footprint as well as major metropolitan areas and highway corridors."
+    },
+    {
+     "inicio_corpo": 11466,
+     "fim_corpo": 12234,
+     "trecho": "Accordingly, the experience of Southern’s electric companies and of Southern Linc provides useful guidance on ways to improve the resiliency of the nation’s wireless networks. Electric Power Service Restoration Efforts Electric restoration after a storm of the magnitude of Hurricane Michael in 2018 is a complicated, labor-intensive process that involves nearly every employee of impacted electric companies, as well as marshalling and managing mutual assistance resources from across the country. Approximately 614,000 electric customers within the Southern Company service territory, including 396,000 Georgia Power customers, were impacted by Hurricane Michael, with damage to hundreds of miles of electric lines and thousands of distribution poles."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0102::Saúde",
+   "unit_id": "W0102",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Allen Bell",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12638,
+     "fim_corpo": 13471,
+     "trecho": "Overall, it was the most significant single storm to impact Georgia Power’s transmission system in at least 25 years. Nevertheless, within 24 hours after the storm had passed, Georgia Power had restored electricity to 50 percent of its affected customers. Within 60 hours, Georgia Power had restored electricity to 75 percent of its affected customers, a number that rose to 95 percent within four days after the storm. Within one week after the storm, Georgia Power had restored electricity to 99 percent of its affected customers. 5 Coordination with Communications Providers Southern’s primary focus after an event like Hurricane Michael is the safe and quick restoration of power. For some electric customers, including nursing homes and hospitals, electric service restoration can be a matter of life and death."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0102::Urbano e rural",
+   "unit_id": "W0102",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Allen Bell",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1803,
+     "fim_corpo": 2470,
+     "trecho": "Southern Company’s communications service provider affiliate, Southern Linc, operates a commercial digital 800 MHz ESMR system that uses an all-LTE platform to provide mobile interconnected voice, dispatch, push-to-talk, text and picture messaging, internet access, and data transmission services over the same handset. Southern Linc provides these services over a 127,000 square mile service territory covering Georgia, Alabama, southeastern Mississippi, and the Panhandle of Florida. Southern Linc offers comprehensive geographic coverage, serving the extensive rural territory within its footprint as well as major metropolitan areas and highway corridors."
+    },
+    {
+     "inicio_corpo": 1803,
+     "fim_corpo": 2719,
+     "trecho": "Southern Company’s communications service provider affiliate, Southern Linc, operates a commercial digital 800 MHz ESMR system that uses an all-LTE platform to provide mobile interconnected voice, dispatch, push-to-talk, text and picture messaging, internet access, and data transmission services over the same handset. Southern Linc provides these services over a 127,000 square mile service territory covering Georgia, Alabama, southeastern Mississippi, and the Panhandle of Florida. Southern Linc offers comprehensive geographic coverage, serving the extensive rural territory within its footprint as well as major metropolitan areas and highway corridors. Because of its expansive regional coverage and history of reliability, Southern Linc’s service is widely used by state and local public safety agencies, school districts, rural local governments, public utilities, and other emergency responders."
+    },
+    {
+     "inicio_corpo": 2126,
+     "fim_corpo": 2800,
+     "trecho": "Southern Linc provides these services over a 127,000 square mile service territory covering Georgia, Alabama, southeastern Mississippi, and the Panhandle of Florida. Southern Linc offers comprehensive geographic coverage, serving the extensive rural territory within its footprint as well as major metropolitan areas and highway corridors. Because of its expansive regional coverage and history of reliability, Southern Linc’s service is widely used by state and local public safety agencies, school districts, rural local governments, public utilities, and other emergency responders. It is also utilized by other commercial entities in both urban and rural areas."
+    }
+   ]
+  }
+ ]
+}

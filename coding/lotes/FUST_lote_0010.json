@@ -1,0 +1,932 @@
+{
+ "caso": "FUST",
+ "lote": 10,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0039::Posição no trabalho",
+   "unit_id": "S0039",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 932,
+     "trecho": "O SR. FRANCELINO PEREIRA (PFL - MG. Pronuncia o seguinte discurso.) - Sr. Presidente, Srªs e Srs. Senadores, venho de Minas, do meu Estado, não para aplaudir, não para louvar. Venho de Minas para falar, em nome dos mineiros que representei na Câmara Municipal de Belo Horizonte, que representei por 16 anos na Câmara Federal, que governei por 4 anos e agora represento como Senador da República, que não estou aqui para louvar; estou aqui para transmitir ao Brasil inteiro um registro que precisa ser inscrito nos Anais do Senado. O sul de Minas, onde se desenvolve uma civilização culta, trabalhadora, destemida e vencedora, está passando por momentos de angústias e recebe, neste momento, a solidariedade de todos como um sinal de respeito às suas origens, aos seus sofrimentos, às suas tristezas, mas também com esperança de que algo seja feito em seu benefício diante do desastre das inundações da última semana."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0039::Renda e classe",
+   "unit_id": "S0039",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobre",
+     "forma_encontrada": "pobre",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobre",
+     "forma_encontrada": "pobre",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3890,
+     "fim_corpo": 4840,
+     "trecho": "Por isso mesmo, Sr. Presidente, é que a Nação está com os olhos voltados para Minas Gerais e principalmente para o Governo Federal. Naquele momento, o Presidente, sempre procurado pela imprensa, pelos companheiros da viagem, pelas lideranças e pelo povo, era indagado sobre a possibilidade da remessa de recursos para amparo imediato à população. Sua Excelência tinha sempre o cuidado de dizer que não podia fixar uma importância, exatamente porque os danos ainda não tinham sido levantados. Conseqüentemente, não podia fixar uma quantia que pudesse servir de arrimo e que repercutisse bastante no coração dos mineiros. Mas Sua Excelência teve a acuidade de, diante da impossibilidade de definir um valor de natureza econômica para atender à população do sul de Minas, anunciar a assinatura de uma medida provisória destinando R$5 milhões para atender - notem bem - à pobreza, para comprar remédios, alimentos, cobertores e agasalhos."
+    },
+    {
+     "inicio_corpo": 4037,
+     "fim_corpo": 5163,
+     "trecho": "Naquele momento, o Presidente, sempre procurado pela imprensa, pelos companheiros da viagem, pelas lideranças e pelo povo, era indagado sobre a possibilidade da remessa de recursos para amparo imediato à população. Sua Excelência tinha sempre o cuidado de dizer que não podia fixar uma importância, exatamente porque os danos ainda não tinham sido levantados. Conseqüentemente, não podia fixar uma quantia que pudesse servir de arrimo e que repercutisse bastante no coração dos mineiros. Mas Sua Excelência teve a acuidade de, diante da impossibilidade de definir um valor de natureza econômica para atender à população do sul de Minas, anunciar a assinatura de uma medida provisória destinando R$5 milhões para atender - notem bem - à pobreza, para comprar remédios, alimentos, cobertores e agasalhos. Os R$5 milhões são destinados exclusivamente à Minas pobre, ao povo pobre do meu Estado e, conseqüentemente, essa decisão não pode ser motivo de crítica ou de restrição, porque representa apenas a primeira demonstração de que o governante tem o dever de socorrer o seu povo no momento da dor e da tristeza."
+    },
+    {
+     "inicio_corpo": 4037,
+     "fim_corpo": 5163,
+     "trecho": "Naquele momento, o Presidente, sempre procurado pela imprensa, pelos companheiros da viagem, pelas lideranças e pelo povo, era indagado sobre a possibilidade da remessa de recursos para amparo imediato à população. Sua Excelência tinha sempre o cuidado de dizer que não podia fixar uma importância, exatamente porque os danos ainda não tinham sido levantados. Conseqüentemente, não podia fixar uma quantia que pudesse servir de arrimo e que repercutisse bastante no coração dos mineiros. Mas Sua Excelência teve a acuidade de, diante da impossibilidade de definir um valor de natureza econômica para atender à população do sul de Minas, anunciar a assinatura de uma medida provisória destinando R$5 milhões para atender - notem bem - à pobreza, para comprar remédios, alimentos, cobertores e agasalhos. Os R$5 milhões são destinados exclusivamente à Minas pobre, ao povo pobre do meu Estado e, conseqüentemente, essa decisão não pode ser motivo de crítica ou de restrição, porque representa apenas a primeira demonstração de que o governante tem o dever de socorrer o seu povo no momento da dor e da tristeza."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0039::Saúde",
+   "unit_id": "S0039",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitais",
+     "forma_encontrada": "hospitais",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5613,
+     "fim_corpo": 6399,
+     "trecho": "Na semana passada, permaneci em Brasília, não apenas para participar da instalação dessa convocação extraordinária como também para reunir-me com a direção da Caixa Econômica Federal, com o Ministério da Integração Nacional, de conversar e trocar informações com o Secretário Executivo da Defesa Civil, sempre revelando a essas autoridades que havia necessidade de um encontro imediato de todas as estruturas do Governo Federal para que, hoje ou amanhã, pudesse ser anunciado ao Estado um roteiro, uma definição, das providências que devem ser tomadas para atender às populações atingidas pelas inundações. Sr. Presidente, os custos dessa reconstrução em Minas Gerais - rodovias, estradas, ruas, hospitais, casas - ficarão em torno de R$50 a R$80 milhões."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0039::Urbano e rural",
+   "unit_id": "S0039",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10430,
+     "fim_corpo": 11410,
+     "trecho": "Presidente, na verdade, houve o anúncio. O setor específico do Governo anunciou que as inundações ocorreriam. Claro que não especificaram sua dimensão, mas as medidas foram exatamente para o momento da emergência, da dor e do sofrimento. É óbvio que, nessa hora, a solidariedade é bem recebida, mas o importante é que sejam definidos os recursos no Orçamento que votaremos não apenas para uma emergência, não apenas para a reconstrução, mas também para a prevenção dos desastres, como por exemplo das inundações que sempre ocorrem neste País. Concluindo, Sr. Presidente, estamos começando o ano 2000, e o primeiro sinal que deveríamos dar seria rever o comportamento do Congresso Nacional em relação ao Orçamento da República, fonte de corrupção, fonte de deslizes. O Congresso Nacional não pode mais ficar alheio ou indiferente àqueles que manipulam o Orçamento no campo da corrupção, ferindo a dignidade do povo brasileiro e impedindo o desenvolvimento da Nação."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0040::Idade",
+   "unit_id": "S0040",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovem",
+     "forma_encontrada": "jovem",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "idoso",
+     "forma_encontrada": "ido so",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10400,
+     "fim_corpo": 11169,
+     "trecho": "Por muito tempo, instituições financeiras cresceram com taxas de juros de 1% ao mês, como o Banco da Lavoura. O Banco de Crédito Real de Minas Gerais, um dos mais importantes do País, foi criado – se não me engano – em 1888, pouco antes da Proclamação da República, por um decreto de D. Pedro II. Havia três bancos no Estado de Minas Gerais: o Banco Hipotecário e Agrícola, o Banco Mineiro da Produção e o Banco de Crédito Real. Nesse tempo, nasceram outros, como o Banco da Lavoura, o Banco Nacional de Minas Gerais, o Banco Mercantil de Minas Gerais, o Banco de Minas Gerais, o Banco Comércio e Indústria de Minas Gerais S. A. e outros em São Paulo e no Rio de Janeiro. Eles não quebravam; eram fortes. Todos cresceram, cobrando 1% ao mês. Eu, que sou jovem, como V."
+    },
+    {
+     "inicio_corpo": 14815,
+     "fim_corpo": 15633,
+     "trecho": "E a possibilidade de grandes fusões bancárias ao longo desse tempo também deve ser uma preocupação deste Congresso. Então, penso que V. Exª traz, neste primeiro dia de atividade parlamentar, um assunto de suma importância e talvez tenha de acrescentar outros dados durante este mês. O SR. LÚCIO ALCÂNTARA (PSDB – CE) – Muito obrigado, Senadores Romeu Tuma e José Alencar. Este debate deve continuar, Sr. Presidente. Devemos deixar que prevaleçam idéias como \"liberou geral\", \"vem quem quer\", \"compra, vende e vai embora\", ou posições conservadoras para defender interesses de bancos que querem ter vida mansa, sem concorrência de fora? Onde está a verdade nisso tudo? O que é realmente bom para o Brasil? Onde está o interesse nacional? São as perguntas que faço, e gostaria de ser esclarecido sobre isso."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0040::Posição no trabalho",
+   "unit_id": "S0040",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6489,
+     "fim_corpo": 7211,
+     "trecho": "Isso é algo que precisa ser meditado com profundidade. Os estabelecimentos bancários não investem no Sistema Financeiro de Habitação, enquanto em outros países desenvolvidos são eles os grandes agentes financiadores. Embora já tenha passado da hora de fazer essa análise, não nos devemos acomodar. Mesmo extemporâneo, devemos discutir o assunto. A Comissão de Assuntos Econômicos, naturalmente o espaço mais oportuno para isso, e o Plenário desta Casa deverão debater e fixar regras. Não devemos fazer reserva de mercado, mas temos de dar oportunidade a esses estabelecimentos estrangeiros de obter os incentivos e os apoios do Governo brasileiro e também de retribuir, principalmente neste momento difícil de desemprego."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0041::Domicílio e arranjo familiar",
+   "unit_id": "S0041",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Arlindo Porto",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1035,
+     "fim_corpo": 1938,
+     "trecho": "Mas, lamentavelmente, não obstante a presença ágil do Senhor Presidente da República, esse auxílio ainda não aconteceu de fato e estamos aguardando a sua chegada com a celeridade conveniente e necessária. A exemplo do Presidente, o nosso Governador, o Sr. Itamar Franco, deslocou-se com o seu secretariado para o sul de Minas Gerais, transferindo a sede do Governo para a cidade de Pouso Alegre, cidade com aproximadamente 140 mil habitantes, e ali ficou por três dias. O Sr. Governador, seu secretariado e vários Deputados Estaduais e Federais lá estiveram não só para visitar as áreas atingidas mas especialmente para definir um programa de recuperação. A agilidade e a solidariedade do mineiro são ainda maiores ao constatarmos que várias entidades, órgãos de imprensa e associações coletam juntos gêneros alimentícios e vestuários para assistirem emergencialmente as famílias atingidas."
+    },
+    {
+     "inicio_corpo": 1938,
+     "fim_corpo": 2761,
+     "trecho": "Isso é bonito de se ver! Sr. Presidente, quero aqui dar o meu testemunho de que mineiros de outras regiões do nosso Estado, além do apoio material, estão levando sua solidariedade tão importante para toda a população atingida pelas cheias. A gravidade do momento é maior do que se possa imaginar. Segundo dados da Cedec – Coordenadoria Estadual de Defesa Civil da Polícia Militar de Minas Gerais, 14 municípios estão em estado de calamidade pública, 16 em estado de emergência, ultrapassando o número de 40 os municípios gravemente atingidos. São 35.800 pessoas desabrigadas, mais de 80 mil atingidas. Passado o momento da euforia e do entusiasmo, o assédio das pessoas começa a diminuir. As águas dos rios já começam a baixar, mas fica ali o registro do momento difícil que essas famílias estão vivendo."
+    },
+    {
+     "inicio_corpo": 2184,
+     "fim_corpo": 2966,
+     "trecho": "A gravidade do momento é maior do que se possa imaginar. Segundo dados da Cedec – Coordenadoria Estadual de Defesa Civil da Polícia Militar de Minas Gerais, 14 municípios estão em estado de calamidade pública, 16 em estado de emergência, ultrapassando o número de 40 os municípios gravemente atingidos. São 35.800 pessoas desabrigadas, mais de 80 mil atingidas. Passado o momento da euforia e do entusiasmo, o assédio das pessoas começa a diminuir. As águas dos rios já começam a baixar, mas fica ali o registro do momento difícil que essas famílias estão vivendo. Sr. Presidente, Prefeito do Município de Pato de Minas, minha terra natal, com doze dias de governo, a cidade foi assolada por uma grande enchente. Inúmeras famílias, milhares, ficaram desabrigadas."
+    },
+    {
+     "inicio_corpo": 2493,
+     "fim_corpo": 3579,
+     "trecho": "São 35.800 pessoas desabrigadas, mais de 80 mil atingidas. Passado o momento da euforia e do entusiasmo, o assédio das pessoas começa a diminuir. As águas dos rios já começam a baixar, mas fica ali o registro do momento difícil que essas famílias estão vivendo. Sr. Presidente, Prefeito do Município de Pato de Minas, minha terra natal, com doze dias de governo, a cidade foi assolada por uma grande enchente. Inúmeras famílias, milhares, ficaram desabrigadas. Àquela época, restou-nos a solidariedade das entidades de classe, dos clubes de serviço e da população, mas, passada a enchente, adotamos algumas medidas no sentido de fazer com que ações concretas fossem implementadas para impedir que outras enchentes ocorressem especialmente naquelas áreas já conhecidas. Para tanto, criou-se um programa de transferência das famílias para áreas mais seguras; um programa de urbanização da lagoa daquela cidade e que transbordava; um programa de manutenção da orla do rio, para preservá-la de habitação; e um grande programa de reflorestamento foi implantado à beira dos rios."
+    },
+    {
+     "inicio_corpo": 5632,
+     "fim_corpo": 6535,
+     "trecho": "Essas são medidas urgentes, mas ainda necessitamos de medidas preventivas e definitivas, objeto da preocupação do governo mineiro. Meus parabéns pelo pronunciamento, Senador Arlindo Porto. O Sr. Ramez Tebet (PMDB - MS) – Senador Arlindo Porto, V. Exª me permite um aparte? O SR. ARLINDO PORTO (PTB - MG) – Muito obrigado, Senador José Alencar. Incorporo o aparte de V. Exª ao meu pronunciamento. Ouço com prazer o Senador Ramez Tebet. O Sr. Ramez Tebet (PMDB - MS) – Senador Arlindo Porto, aproveito o brilhante e humanitário pronunciamento de V. Exª para me solidarizar com os mineiros, com a Bancada de Minas Gerais, tão bem representada. Estendo essa minha solidariedade a outros Estados brasileiros também afetados. Como foi dito pelo Senador José Alencar, os programas devem ajudar as famílias que sofreram prejuízos, para que haja alguma forma de recuperar o que perderam."
+    },
+    {
+     "inicio_corpo": 5911,
+     "fim_corpo": 6850,
+     "trecho": "O SR. ARLINDO PORTO (PTB - MG) – Muito obrigado, Senador José Alencar. Incorporo o aparte de V. Exª ao meu pronunciamento. Ouço com prazer o Senador Ramez Tebet. O Sr. Ramez Tebet (PMDB - MS) – Senador Arlindo Porto, aproveito o brilhante e humanitário pronunciamento de V. Exª para me solidarizar com os mineiros, com a Bancada de Minas Gerais, tão bem representada. Estendo essa minha solidariedade a outros Estados brasileiros também afetados. Como foi dito pelo Senador José Alencar, os programas devem ajudar as famílias que sofreram prejuízos, para que haja alguma forma de recuperar o que perderam. É isso que considero de responsabilidade do Governo. Assim, o Governo passa a ter duas responsabilidades: a primeira é a de socorrer as vítimas da enchente, através da Defesa Civil; a segunda é a de conceder créditos especiais ou alguma outra forma que propicie às famílias condições de recuperarem o que perderam."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0041::Gênero",
+   "unit_id": "S0041",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Arlindo Porto",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "gênero",
+     "forma_encontrada": "gênero",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1035,
+     "fim_corpo": 1938,
+     "trecho": "Mas, lamentavelmente, não obstante a presença ágil do Senhor Presidente da República, esse auxílio ainda não aconteceu de fato e estamos aguardando a sua chegada com a celeridade conveniente e necessária. A exemplo do Presidente, o nosso Governador, o Sr. Itamar Franco, deslocou-se com o seu secretariado para o sul de Minas Gerais, transferindo a sede do Governo para a cidade de Pouso Alegre, cidade com aproximadamente 140 mil habitantes, e ali ficou por três dias. O Sr. Governador, seu secretariado e vários Deputados Estaduais e Federais lá estiveram não só para visitar as áreas atingidas mas especialmente para definir um programa de recuperação. A agilidade e a solidariedade do mineiro são ainda maiores ao constatarmos que várias entidades, órgãos de imprensa e associações coletam juntos gêneros alimentícios e vestuários para assistirem emergencialmente as famílias atingidas."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0041::Saúde",
+   "unit_id": "S0041",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Arlindo Porto",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitais",
+     "forma_encontrada": "hospitais",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4469,
+     "fim_corpo": 5308,
+     "trecho": "Por isso, chamo a atenção daqueles que entendem a gravidade do momento. O Sr. José Alencar (PMDB - MG) – Senador Arlindo Porto, V. Exª me permite um aparte? O SR. ARLINDO PORTO (PTB - MG) – Concedo o aparte a V. Exª. O SR. PRESIDENTE (Carlos Patrocínio) – Nobre Senador Arlindo Porto, a Mesa informa que o tempo de V. Exª já está esgotado. Espero que os aparteantes sejam brevíssimos. O Sr. José Alencar (PMDB - MG) – Agradeço ao eminente Sr. Presidente. Senador Arlindo Porto, trago uma palavra de aplauso e de confirmação das informações que V. Exª traz. Essas estradas são essenciais e elas se encontram interrompidas justamente numa região de grande produção, ficando prejudicada a remessa de medicamentos para atender às casas de saúde, aos hospitais, os desabrigados e aos problemas sérios de infecção."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0042::Domicílio e arranjo familiar",
+   "unit_id": "S0042",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Heloísa Helena",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 606,
+     "trecho": "A SRª HELOISA HELENA (Bloco/PT - AL. Pronuncia o seguinte discurso. Sem revisão da oradora.) – Sr. Presidente, Sr as e Sr s Senadores, agradeço aos Senadores Iris Rezende e Edison Lobão, que já tinham cedido o tempo um ao outro, mas que tiveram a delicadeza, também, de fazer uma cessão do tempo a mim. Partilho algumas preocupações com a Casa, especialmente à luz de uma realidade debatida nesta Casa não apenas pelos representantes de Minas Gerais, mas por outros Parlamentares. Trata-se da situação de dor, de sofrimento e de humilhação de milhares de famílias vítimas de enchentes ou inundações."
+    },
+    {
+     "inicio_corpo": 303,
+     "fim_corpo": 1288,
+     "trecho": "Partilho algumas preocupações com a Casa, especialmente à luz de uma realidade debatida nesta Casa não apenas pelos representantes de Minas Gerais, mas por outros Parlamentares. Trata-se da situação de dor, de sofrimento e de humilhação de milhares de famílias vítimas de enchentes ou inundações. Deixo a elas a minha solidariedade. Aproveito a oportunidade para fazer aqui algumas observações, até para evitar que o povo de Minas, as comunidades que estão sendo diretamente afetadas por essas enchentes, por essas inundações, acabem por ficar como nós, nordestinos, a cada ano de seca – um fenômeno previsível –, com milhares de propostas concretas, ágeis e eficazes, que mostram com a mais absoluta e fria clareza a possibilidade de compatibilizar vida humana com o semi-árido nordestino. E todos os anos, os filhos da seca, aquelas famílias que tenho a honra de representar também aqui, famílias de sobreviventes miseráveis do Nordeste, são expostas nos meios de comunicação."
+    },
+    {
+     "inicio_corpo": 303,
+     "fim_corpo": 1288,
+     "trecho": "Partilho algumas preocupações com a Casa, especialmente à luz de uma realidade debatida nesta Casa não apenas pelos representantes de Minas Gerais, mas por outros Parlamentares. Trata-se da situação de dor, de sofrimento e de humilhação de milhares de famílias vítimas de enchentes ou inundações. Deixo a elas a minha solidariedade. Aproveito a oportunidade para fazer aqui algumas observações, até para evitar que o povo de Minas, as comunidades que estão sendo diretamente afetadas por essas enchentes, por essas inundações, acabem por ficar como nós, nordestinos, a cada ano de seca – um fenômeno previsível –, com milhares de propostas concretas, ágeis e eficazes, que mostram com a mais absoluta e fria clareza a possibilidade de compatibilizar vida humana com o semi-árido nordestino. E todos os anos, os filhos da seca, aquelas famílias que tenho a honra de representar também aqui, famílias de sobreviventes miseráveis do Nordeste, são expostas nos meios de comunicação."
+    },
+    {
+     "inicio_corpo": 606,
+     "fim_corpo": 1779,
+     "trecho": "Deixo a elas a minha solidariedade. Aproveito a oportunidade para fazer aqui algumas observações, até para evitar que o povo de Minas, as comunidades que estão sendo diretamente afetadas por essas enchentes, por essas inundações, acabem por ficar como nós, nordestinos, a cada ano de seca – um fenômeno previsível –, com milhares de propostas concretas, ágeis e eficazes, que mostram com a mais absoluta e fria clareza a possibilidade de compatibilizar vida humana com o semi-árido nordestino. E todos os anos, os filhos da seca, aquelas famílias que tenho a honra de representar também aqui, famílias de sobreviventes miseráveis do Nordeste, são expostas nos meios de comunicação. Somente nesses momentos existe como que uma solidariedade global dos entes públicos em relação aos miseráveis da seca. Portanto, faço essas observações justamente para que as famílias que hoje passam pelo constrangimento, pela tragédia, pela humilhação pessoal diante de um fenômeno previsível como o da seca, não sejam expostas quer pelo jogo de marketing de viagem presidencial, quer por discursos de solidariedade apenas diante do acontecimento claro, concreto, doloroso e pessoal."
+    },
+    {
+     "inicio_corpo": 1100,
+     "fim_corpo": 1994,
+     "trecho": "E todos os anos, os filhos da seca, aquelas famílias que tenho a honra de representar também aqui, famílias de sobreviventes miseráveis do Nordeste, são expostas nos meios de comunicação. Somente nesses momentos existe como que uma solidariedade global dos entes públicos em relação aos miseráveis da seca. Portanto, faço essas observações justamente para que as famílias que hoje passam pelo constrangimento, pela tragédia, pela humilhação pessoal diante de um fenômeno previsível como o da seca, não sejam expostas quer pelo jogo de marketing de viagem presidencial, quer por discursos de solidariedade apenas diante do acontecimento claro, concreto, doloroso e pessoal. Como disse V. Exª, Senador, depois que o assunto amorna nos meios de comunicação, que desaparece dos nossos discursos, fica a experiência lamentável, constrangedora e dolorosa que marca uma família por toda a vida."
+    },
+    {
+     "inicio_corpo": 3105,
+     "fim_corpo": 4046,
+     "trecho": "Está aqui. Não é necessário debater-se o orçamento impositivo. Já diz aqui que é crime de responsabilidade não cumprir a Lei Orçamentária; e a do nosso País é cumprida, bem arrumadinha, com todas as cifras e centavos para pagar os juros das dívidas interna e externa, a fim de garantir dinheiro aos saprófitas da humanidade que estão lá no FMI. Tudo isso continua ocorrendo. Por isso é dolorosa a situação que estamos vivenciando na convocação extraordinária. Por isso estamos uns esperando os outros um tanto envergonhados. Todos nós estamos envergonhados, mas não por um falso moralismo em relação ao dinheiro ou por demagogia em relação ao que será recebido. Ficamos envergonhados por observar as cifras destinadas ao Congresso para a convocação extraordinária e as que estão sendo disponibilizadas para as famílias pobres e humilhadas que perderam tudo, não apenas a dignidade, mas seus filhos, seus parentes, suas casas e móveis."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0042::Macrorregião",
+   "unit_id": "S0042",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Heloísa Helena",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 487,
+     "fim_corpo": 1288,
+     "trecho": "Trata-se da situação de dor, de sofrimento e de humilhação de milhares de famílias vítimas de enchentes ou inundações. Deixo a elas a minha solidariedade. Aproveito a oportunidade para fazer aqui algumas observações, até para evitar que o povo de Minas, as comunidades que estão sendo diretamente afetadas por essas enchentes, por essas inundações, acabem por ficar como nós, nordestinos, a cada ano de seca – um fenômeno previsível –, com milhares de propostas concretas, ágeis e eficazes, que mostram com a mais absoluta e fria clareza a possibilidade de compatibilizar vida humana com o semi-árido nordestino. E todos os anos, os filhos da seca, aquelas famílias que tenho a honra de representar também aqui, famílias de sobreviventes miseráveis do Nordeste, são expostas nos meios de comunicação."
+    },
+    {
+     "inicio_corpo": 1994,
+     "fim_corpo": 2840,
+     "trecho": "E perguntamos: Por que isso continua ocorrendo? Ora, a legislação é muito clara. O art. 21 da Constituição – esta Constituição que os democratas teimam em dizer que tem que ser cumprida, e que eu, como democrata, entendo que ela deva ser cumprida mesmo – diz: Art. 21 - Compete à União – e aquilo que compete à União é só coisa grande, importante, desde declarar guerra e celebrar a paz, assegurar a defesa nacional. E está aqui também citado \"planejar e promover a defesa permanente contra as calamidades públicas\". Especialmente, quais? As secas e inundações. O problema é que muito do que está aqui acaba sendo letra morta, gasta e vazia no momento da execução orçamentária, em que o recurso previsto não foi viabilizado nem para a seca do Nordeste, que continua matando, nem para as inundações de Minas e de outros Estados."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0042::Renda e classe",
+   "unit_id": "S0042",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Heloísa Helena",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3105,
+     "fim_corpo": 4046,
+     "trecho": "Está aqui. Não é necessário debater-se o orçamento impositivo. Já diz aqui que é crime de responsabilidade não cumprir a Lei Orçamentária; e a do nosso País é cumprida, bem arrumadinha, com todas as cifras e centavos para pagar os juros das dívidas interna e externa, a fim de garantir dinheiro aos saprófitas da humanidade que estão lá no FMI. Tudo isso continua ocorrendo. Por isso é dolorosa a situação que estamos vivenciando na convocação extraordinária. Por isso estamos uns esperando os outros um tanto envergonhados. Todos nós estamos envergonhados, mas não por um falso moralismo em relação ao dinheiro ou por demagogia em relação ao que será recebido. Ficamos envergonhados por observar as cifras destinadas ao Congresso para a convocação extraordinária e as que estão sendo disponibilizadas para as famílias pobres e humilhadas que perderam tudo, não apenas a dignidade, mas seus filhos, seus parentes, suas casas e móveis."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0043::Macrorregião",
+   "unit_id": "S0043",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Tião Viana",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2034,
+     "fim_corpo": 2970,
+     "trecho": "Quando se trata de viabilizar a logística de implementação de proteção à saúde pública, os sanitaristas se preocupam também com a quantidade de doses necessárias para a imunização. A vacina antiamarílica exige apenas uma dose, que pode proteger durante 25 anos; embora, por medida de segurança, em áreas de risco, se recomende que ela seja tomada a cada cinco anos. Nosso País deixa que 7 a 8 milhões de brasileiros das áreas de grande risco estejam sujeitos à presença da febre amarela urbana, com periculosidade de proporção tal que não podemos dimensionar. Evidentemente, não devemos fazer alarde, mas devemos tratar a situação com uma visão restrita de saúde pública e sanitária. É relevante averiguar por que não se trabalhou de maneira adequada e correta na proteção da população brasileira, talvez porque os irmãos do norte do Brasil e os do nordeste, vítimas da seca, abandonados, estejam na área de maior risco."
+    },
+    {
+     "inicio_corpo": 2034,
+     "fim_corpo": 2970,
+     "trecho": "Quando se trata de viabilizar a logística de implementação de proteção à saúde pública, os sanitaristas se preocupam também com a quantidade de doses necessárias para a imunização. A vacina antiamarílica exige apenas uma dose, que pode proteger durante 25 anos; embora, por medida de segurança, em áreas de risco, se recomende que ela seja tomada a cada cinco anos. Nosso País deixa que 7 a 8 milhões de brasileiros das áreas de grande risco estejam sujeitos à presença da febre amarela urbana, com periculosidade de proporção tal que não podemos dimensionar. Evidentemente, não devemos fazer alarde, mas devemos tratar a situação com uma visão restrita de saúde pública e sanitária. É relevante averiguar por que não se trabalhou de maneira adequada e correta na proteção da população brasileira, talvez porque os irmãos do norte do Brasil e os do nordeste, vítimas da seca, abandonados, estejam na área de maior risco."
+    },
+    {
+     "inicio_corpo": 3862,
+     "fim_corpo": 4660,
+     "trecho": "Ele teve a coragem e a ousadia de implantar ações de saúde pública e iniciar a visão sanitária de saúde para este País. Lamentavelmente, porém, a História não o compreendeu de imediato. Mais tarde - no momento em que se fala de febre amarela no Brasil, vale lembrar a chamada “revolta das vacinas” -, em 1904, o então Presidente da República, Rodrigues Alves, baixou um ato indesejável, porque não debateu com a sociedade o assunto, implantando uma medida dura de proteção à população referente à vacina da varíola, o que gerou uma revolta popular, uma revolta social que se uniu ao interesse da desestabilização política do Governo àquela época. Então, tentou-se implantar um modelo de intervenção militar. Houve centenas de mortes no País, deportação de prisioneiros para os rincões da Amazônia."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0043::Posição no trabalho",
+   "unit_id": "S0043",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Tião Viana",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "Trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6298,
+     "fim_corpo": 6984,
+     "trecho": "Neste caso, gostaria de transferir responsabilidades não só ao Governo Federal, ao Ministério da Saúde, à Fundação Nacional de Saúde, mas também aos governos estaduais, que têm responsabilidade séria com saúde pública. Lanço um desafio para o Brasil: o Governo do Acre, no seu primeiro ano de Governo do Partido dos Trabalhadores, numa aliança democrática, conseguiu o maior índice de cobertura da história deste planeta contra a febre amarela, sem antes ter presenciado os surtos, para não agir baseado nas conjunturas que foram assinaladas aqui das secas, das cheias; vacinou 93% da sua população contra a febre amarela, numa parceria com a Fundação Nacional de Saúde."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0043::Território intraurbano",
+   "unit_id": "S0043",
+   "subcategoria": "Território intraurbano",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Tião Viana",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "favelas",
+     "forma_encontrada": "favelas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "favelas",
+     "forma_encontrada": "favelas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4660,
+     "fim_corpo": 5524,
+     "trecho": "O Estado do Acre, recém-anexado ao Brasil, recebeu mais de mil brasileiros que participaram da chamada “revolta da vacina”, os quais foram deportados em função de uma luta contra a chamada quebra das liberdades de proteção à saúde. Um exemplo dos mais bonitos foi o do cubano Carlos Juan Finlay, que descobriu que a febre amarela é transmitida por um mosquito. Então, Osvaldo Cruz, lançando mão do seu instrumento do conhecimento, iniciou o combate ao mosquito aedes aegypti, retirando os resíduos que favoreciam sua proliferação das áreas urbanas do Rio de Janeiro. Àquela época, o Governo Federal lançou um programa de reurbanização e de construção de modelo de saneamento, tirando mais de 600 cortiços do centro do Rio de Janeiro, mas, ao mesmo tempo, criou um paradoxo, porque a população que vivia nos cortiços foi transferida para as favelas."
+    },
+    {
+     "inicio_corpo": 4892,
+     "fim_corpo": 5659,
+     "trecho": "Um exemplo dos mais bonitos foi o do cubano Carlos Juan Finlay, que descobriu que a febre amarela é transmitida por um mosquito. Então, Osvaldo Cruz, lançando mão do seu instrumento do conhecimento, iniciou o combate ao mosquito aedes aegypti, retirando os resíduos que favoreciam sua proliferação das áreas urbanas do Rio de Janeiro. Àquela época, o Governo Federal lançou um programa de reurbanização e de construção de modelo de saneamento, tirando mais de 600 cortiços do centro do Rio de Janeiro, mas, ao mesmo tempo, criou um paradoxo, porque a população que vivia nos cortiços foi transferida para as favelas. Assim, foi fortalecida a formação das favelas urbanas no Rio de Janeiro num momento belíssimo da história da saúde pública brasileira."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0044::Domicílio e arranjo familiar",
+   "unit_id": "S0044",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Ramez Tebet",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 695,
+     "fim_corpo": 1550,
+     "trecho": "A Constituição da República também reza que, a partir do mês de fevereiro, reúne-se o Congresso, interrompem-se os trabalhos em julho, e o Congresso volta depois, no dia 1º de agosto, e vai até 15 de dezembro. Portanto, esta Casa tem um recesso de três meses ao ano. Sr. Presidente, Srªs e Srs. Senadores, temos percebido que essas convocações extraordinárias do Congresso Nacional não têm encontrado ressonância popular. Elas, às vezes, têm concorrido até para desmerecer o trabalho do Congresso Nacional. Tenho sentido isso. Ao regressar do meu Estado, ouvi pela imprensa que, com a convocação extraordinária do Congresso, os salários dos Deputados e Senadores são dobrados e que a Nação gasta 19 ou 20 milhões de reais. Uma comissão de formandos foi à minha residência me levar um gentil convite para que eu fosse o paraninfo da sua turma."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0044::Idade",
+   "unit_id": "S0044",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Ramez Tebet",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovem",
+     "forma_encontrada": "jovem",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovem",
+     "forma_encontrada": "jovem",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 695,
+     "fim_corpo": 1632,
+     "trecho": "A Constituição da República também reza que, a partir do mês de fevereiro, reúne-se o Congresso, interrompem-se os trabalhos em julho, e o Congresso volta depois, no dia 1º de agosto, e vai até 15 de dezembro. Portanto, esta Casa tem um recesso de três meses ao ano. Sr. Presidente, Srªs e Srs. Senadores, temos percebido que essas convocações extraordinárias do Congresso Nacional não têm encontrado ressonância popular. Elas, às vezes, têm concorrido até para desmerecer o trabalho do Congresso Nacional. Tenho sentido isso. Ao regressar do meu Estado, ouvi pela imprensa que, com a convocação extraordinária do Congresso, os salários dos Deputados e Senadores são dobrados e que a Nação gasta 19 ou 20 milhões de reais. Uma comissão de formandos foi à minha residência me levar um gentil convite para que eu fosse o paraninfo da sua turma. Um jovem me indagou qual o motivo extraordinário que existe para essa convocação."
+    },
+    {
+     "inicio_corpo": 1824,
+     "fim_corpo": 2718,
+     "trecho": "Disse-lhe eu a verdade. E não poderia ser diferente, Sr. Presidente e Srs. Senadores. Disse-lhe, respondendo com a pauta do Congresso Nacional; disse-lhe que assuntos importantes iam ser debatidos pelos Senadores e pelos Deputados, e que há projetos de alta envergadura tramitando no Congresso Nacional, como o caso da reforma tributária e da reforma do Poder Judiciário. Disse-lhe que quem convocou o Congresso Nacional foi o Presidente da República e tive até de explicar, didaticamente, que essa convocação não pode ser contestada pelos membros do Congresso Nacional, não comparecendo, porque a Constituição diz que o Presidente da República tem o direito de convocar extraordinariamente o Congresso Nacional em caso de urgência e relevância. E fiquei a discutir com aquele grupo de jovens formandos sem chegar a uma conclusão, porque há conceitos de caráter eminentemente subjetivos."
+    },
+    {
+     "inicio_corpo": 2196,
+     "fim_corpo": 2934,
+     "trecho": "Disse-lhe que quem convocou o Congresso Nacional foi o Presidente da República e tive até de explicar, didaticamente, que essa convocação não pode ser contestada pelos membros do Congresso Nacional, não comparecendo, porque a Constituição diz que o Presidente da República tem o direito de convocar extraordinariamente o Congresso Nacional em caso de urgência e relevância. E fiquei a discutir com aquele grupo de jovens formandos sem chegar a uma conclusão, porque há conceitos de caráter eminentemente subjetivos. Eles me perguntavam o que era urgência, por que não se fazia logo a reforma do Poder Judiciário, a reforma tributária. \"Há quantos anos isso está tramitando no Congresso Nacional?\", perguntava-me uma jovem formanda."
+    },
+    {
+     "inicio_corpo": 8393,
+     "fim_corpo": 9321,
+     "trecho": "Quase todos vamos, se não toda semana, com muita freqüência, certamente uma vez por mês, aos nossos Estados e nos reabastecemos dessa comunicação, que é indispensável à representação. Então, não tem mais a necessidade de um recesso tão prolongado. Há necessidade, sim, das férias, como V. Exª muito bem disse, mas não há porque as férias excederem um mês. Vamos rediscutir este assunto e vamos votar uma alteração na Constituição Federal e no Regimento Interno do Senado para que tenhamos mais tempo de funcionamento normal do Congresso, com o recesso limitado às férias parlamentares de 30 dias ou de um período que se possa aqui estabelecer como justo, evitando, dessa maneira, a freqüência excessiva de convocações extraordinárias, o que choca a opinião pública; aliás, há razões para que a opinião pública fique chocada. V. Exª falou da dificuldade que teve de explicar a jovens que lhe foram fazer uma visita e um convite."
+    },
+    {
+     "inicio_corpo": 11009,
+     "fim_corpo": 11904,
+     "trecho": "Tomei conhecimento hoje que Líderes políticos do Senado e da Câmara estão dispostos a rever esse critério de convocação extraordinária e do tempo do recesso parlamentar. De qualquer sorte, Sr. Presidente e Srs. Senadores, aqui nos encontramos, acredito, imbuídos do desejo de dar nossa parcela de contribuição e de fazer com que esta convocação extraordinária seja a mais produtiva possível. O Sr. Arlindo Porto (PTB - MG) - V. Exª me permite um aparte, nobre Senador Ramez Tebet. O SR. RAMEZ TEBET (PMDB - MS) - Pois não, nobre Senador Arlindo Porto. O Sr. Arlindo Porto (PTB - MG) - Senador Ramez Tebet, o Brasil tradicionalmente realiza mudanças em momentos de crise. E nem sempre as mudanças são as melhores. Mas entendo que este é o momento em que devemos refletir sobre a necessidade de mudança. V. Exª retrata e dá um depoimento do diálogo que teve com os jovens."
+    },
+    {
+     "inicio_corpo": 11179,
+     "fim_corpo": 12019,
+     "trecho": "De qualquer sorte, Sr. Presidente e Srs. Senadores, aqui nos encontramos, acredito, imbuídos do desejo de dar nossa parcela de contribuição e de fazer com que esta convocação extraordinária seja a mais produtiva possível. O Sr. Arlindo Porto (PTB - MG) - V. Exª me permite um aparte, nobre Senador Ramez Tebet. O SR. RAMEZ TEBET (PMDB - MS) - Pois não, nobre Senador Arlindo Porto. O Sr. Arlindo Porto (PTB - MG) - Senador Ramez Tebet, o Brasil tradicionalmente realiza mudanças em momentos de crise. E nem sempre as mudanças são as melhores. Mas entendo que este é o momento em que devemos refletir sobre a necessidade de mudança. V. Exª retrata e dá um depoimento do diálogo que teve com os jovens. Tenho certeza que mais difícil do que o diálogo com os jovens deve ter sido a essência do motivo da presença de V."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0044::Posição no trabalho",
+   "unit_id": "S0044",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Ramez Tebet",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4233,
+     "fim_corpo": 4812,
+     "trecho": "Sr. Presidente, Srªs e Srs. Senadores, vejo que é uma situação difícil e que, diante disso, devemos repensar as coisas. Esse o motivo pelo qual venho à tribuna. Sem nenhuma idéia renovadora, mas apenas dizendo que vi, com satisfação, que Líderes dos partidos políticos estão estudando uma fórmula mais adequada para estabelecermos um novo ritmo de trabalho aqui no Congresso Nacional. Vejo que há sugestões para que só haja um mês de férias, ou seja, que o Congresso Nacional só entre em férias uma vez, a exemplo dos trabalhadores, que só têm direito a 30 dias de férias."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0044::Renda e classe",
+   "unit_id": "S0044",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Ramez Tebet",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobre",
+     "forma_encontrada": "pobre",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3271,
+     "fim_corpo": 4233,
+     "trecho": "Presidente, Srs. Senadores, o diálogo não é fácil. O Congresso Nacional tem trabalhado. Temos produzido, não tenho dúvida nenhuma disso. Importantes reformas foram feitas neste País, leis muito importantes foram votadas pelo Congresso Nacional. Diz-se mesmo que nunca o Poder Legislativo trabalhou tanto como tem feito ultimamente. Mas aí vem uma convocação extraordinária e coloca todo o Congresso Nacional, eu diria, em choque com a opinião pública do País. Por que não se usar esta palavra, já que é um choque? Ou vamos mentir para nós mesmos, pensando que a sociedade brasileira entende que essas matérias elencadas aqui como motivo da convocação extraordinária do Congresso Nacional são suficientes para nos trazer aqui no período de recesso, quando o País se vê assombrado com catástrofes, inundações, quando a classe média está empobrecendo, quando a economia brasileira precisa crescer, quando precisamos retomar o processo de crescimento do nosso País?"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0046::Posição no trabalho",
+   "unit_id": "S0046",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "José Eduardo Dutra",
+   "n_ocorrencias_no_par": 9,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 3,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7345,
+     "fim_corpo": 8276,
+     "trecho": "Isso não mais ocorre, portanto não há justificativa. Antecipo que não concordo com a proposta que foi levantada — não sei se será apresentada — pelo Senador José Roberto Arruda, ou seja, de o Congresso não ter recesso e cada Parlamentar escolher seu mês de férias. Como se aferirá o quorum nesse período? O mais provável é que todos escolham tirar férias em janeiro, época em que o Congresso estará funcionando oficialmente. Que quorum valerá? O de todos os Parlamentares eleitos ou o dos presentes? Ora, o Congresso é formado por um número de representantes de Estados, tanto Câmara quanto Senado, e de Partidos. Essa correlação de forças, essa proporcionalidade entre Estados e Partidos tem que existir ao longo de todo o funcionamento do Congresso. Não tem sentido tratar o Congresso como uma empresa que tem 81 trabalhadores no Senado e 513 na Câmara, de forma que os Parlamentares possam escolher seu período de férias."
+    },
+    {
+     "inicio_corpo": 11207,
+     "fim_corpo": 12238,
+     "trecho": "Espero que seja verdade o que disse o Ministro Francisco Dornelles sobre não haver projeto, se não houver consenso entre os setores sindicais, as centrais sindicais. Afirmo que, se o projeto for o que está sendo divulgado, não haverá consenso nunca, pois se retornaria, na verdade, ao século passado ou ao início da Revolução Industrial no País. Dizem que será reformulado o art. 7º, tirando-se o 13º salário, a garantia de férias, o descanso semanal remunerado, o aviso prévio e a aposentadoria, jogando-se tudo isso para a livre negociação entre patrão e empregado. Falar em livre negociação sem ter como pressuposto o que está estabelecido na Constituição – embora nunca tenha sido regulamentado – é aquela velha história da livre negociação entre raposas livres e galinhas livres. Consta do art. 7º, entre os direitos dos trabalhadores: \"I – relação de emprego protegida contra despedida arbitrária ou sem justa causa, nos termos de lei complementar, que preverá indenização compensatória, dentre outros direitos\"."
+    },
+    {
+     "inicio_corpo": 11775,
+     "fim_corpo": 12692,
+     "trecho": "Falar em livre negociação sem ter como pressuposto o que está estabelecido na Constituição – embora nunca tenha sido regulamentado – é aquela velha história da livre negociação entre raposas livres e galinhas livres. Consta do art. 7º, entre os direitos dos trabalhadores: \"I – relação de emprego protegida contra despedida arbitrária ou sem justa causa, nos termos de lei complementar, que preverá indenização compensatória, dentre outros direitos\". No dia seguinte ao da promulgação da Constituição, foram apresentados projetos de lei complementar para regulamentar essa proteção contra a despedida arbitrária. Passaram-se doze anos, e até hoje o Congresso Nacional não se dispôs a regulamentar esse direito, porque, na verdade, esta Casa é sempre muito ágil para retirar direitos, para regulamentar direitos patronais, mas, para regulamentar direitos dos trabalhadores, age de forma muito lenta."
+    },
+    {
+     "inicio_corpo": 11998,
+     "fim_corpo": 12978,
+     "trecho": "Consta do art. 7º, entre os direitos dos trabalhadores: \"I – relação de emprego protegida contra despedida arbitrária ou sem justa causa, nos termos de lei complementar, que preverá indenização compensatória, dentre outros direitos\". No dia seguinte ao da promulgação da Constituição, foram apresentados projetos de lei complementar para regulamentar essa proteção contra a despedida arbitrária. Passaram-se doze anos, e até hoje o Congresso Nacional não se dispôs a regulamentar esse direito, porque, na verdade, esta Casa é sempre muito ágil para retirar direitos, para regulamentar direitos patronais, mas, para regulamentar direitos dos trabalhadores, age de forma muito lenta. Então, não há discussão sobre reformular o art. 7º para se estabelecer livre negociação, se não se garante o direito dos trabalhadores ao emprego, principalmente em um país como o Brasil, em que há absoluta disparidade tanto regional quanto entre o poder de força dos sindicatos."
+    },
+    {
+     "inicio_corpo": 12406,
+     "fim_corpo": 13438,
+     "trecho": "Passaram-se doze anos, e até hoje o Congresso Nacional não se dispôs a regulamentar esse direito, porque, na verdade, esta Casa é sempre muito ágil para retirar direitos, para regulamentar direitos patronais, mas, para regulamentar direitos dos trabalhadores, age de forma muito lenta. Então, não há discussão sobre reformular o art. 7º para se estabelecer livre negociação, se não se garante o direito dos trabalhadores ao emprego, principalmente em um país como o Brasil, em que há absoluta disparidade tanto regional quanto entre o poder de força dos sindicatos. Há sindicatos que têm, efetivamente, condição de estabelecer um processo de negociação coletiva; há sindicatos que têm condição de estabelecer um processo de pressão junto ao patronato, mas há outros que não dispõem dessa possibilidade por problemas estruturais e conjunturais. E, no momento em que o desemprego é um dos principais problemas da sociedade brasileira, vir com a história de introduzir a livre negociação, mas retirando aqueles direitos básicos!"
+    },
+    {
+     "inicio_corpo": 13438,
+     "fim_corpo": 14479,
+     "trecho": "Livre negociação é para que sejam discutidos ganhos ou condições sociais, condições de trabalho para categorias que têm maior ou menor grau de organização, aquilo que não está previsto na Constituição ou não está previsto na lei. Este é o tipo de negociação que queremos estabelecer: um contrato coletivo de trabalho que tenha patamares mínimos, já garantidos pela Constituição, como é o décimo terceiro. Vamos estabelecer um processo de negociação sobre jornada de trabalho, por exemplo, de forma que, em períodos em que a empresa esteja em momentos mais favoráveis, vendendo seus produtos, em boas condições de funcionamento, tenha-se uma jornada maior de trabalho e, em períodos de maior recessão, reduz-se a jornada de trabalho, para que haja compensação. Isso é livre negociação, mas com base em patamares mínimos estabelecidos na Constituição. Mas dizer que haverá livre negociação quando o desemprego assola o País e os trabalhadores não têm garantido pela Constituição o décimo terceiro, as férias nem o descanso semanal remunerado!"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,956 @@
+{
+ "caso": "FUST",
+ "lote": 5,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0008::Educação",
+   "unit_id": "S0008",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-14",
+   "orador": "Luzia Toledo",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7287,
+     "fim_corpo": 8640,
+     "trecho": "Infelizmente. Nesse novo cenário, cumpre ao Estado garantir a sobrevivência dos desempregados crônicos, aqueles para os quais, em razão de seu nível precário de escolaridade, não mais haverá vagas disponíveis no mercado de trabalho. Programas que garantam um mínimo de renda ao desempregado, em troca de serviços de valor comunitário, aliado à oferta de cursos de qualificação profissional, constituem as melhores iniciativas que se pode conceber, no momento, para fazer frente a essa situação. Outros Estados e Municípios devem começar a agir nessa direção. Com o tempo, programas desse feitio poderão ser aperfeiçoados, devendo haver integração entre eles e a concessão do seguro-desemprego, cuja demanda também será crescente. A longo prazo, é claro, o desemprego crônico somente poderá ser aliviado por um intenso investimento em educação básica, por meio da escola pública. Sr. Presidente, penso ter arrolado alguns fatores importantes na luta contra o desemprego e a favor do desempregado. Certamente ao Estado cabe a maior quota de responsabilidade nessa batalha em prol do cidadão produtivo que, por contingências do mercado e do momento histórico, verá minguadas as oportunidades de emprego. Uma atuação decisiva nesse particular garantirá a estabilidade social do País e um futuro melhor para todos. Era o que tinha a dizer."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0008::Escolaridade e letramento",
+   "unit_id": "S0008",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-14",
+   "orador": "Luzia Toledo",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escolaridade",
+     "forma_encontrada": "escolaridade",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6668,
+     "fim_corpo": 7526,
+     "trecho": "Nesse, como em muitos outros problemas, a melhor ação é prevenir. Combater a desertificação, hoje, é garantir a produtividade da terra amanhã. Era o que tinha a dizer. Muito obrigado. ncialr ¿ FO°á x FACE=\"Times New Roman\" SIZE=3 COLOR=\"Black\">, provisório e paliativo, para caracterizar o programa. Aqui todos se enganam. Programas como esse vieram para ficar e tenderão a se tornar permanentes. Porque, daqui para a frente, não haverá emprego para todos, muito longe disso. E altas taxas de desemprego farão parte da realidade por muito tempo, pelos motivos que comentei um pouco antes. Infelizmente. Nesse novo cenário, cumpre ao Estado garantir a sobrevivência dos desempregados crônicos, aqueles para os quais, em razão de seu nível precário de escolaridade, não mais haverá vagas disponíveis no mercado de trabalho."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0008::Posição no trabalho",
+   "unit_id": "S0008",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-14",
+   "orador": "Luzia Toledo",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desempregados",
+     "forma_encontrada": "desempregados",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desempregado",
+     "forma_encontrada": "desempregado",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desempregado",
+     "forma_encontrada": "desempregado",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1938,
+     "fim_corpo": 3109,
+     "trecho": "Nós pecamos por aceitar, por não discutir, por continuar, ainda depois de 500 anos, a tratar os estrangeiros como deuses, exatamente como fizeram muitos indígenas com os senhores quando do início da nossa colonização. A nossa vocação portuária criou entre nós o hábito de ver sempre com bons olhos a vinda dos forasteiros e, se recebemos bem o turista, ficamos ainda mais felizes quando ele, seduzido pela beleza de nossa terra, resolve aqui se estabelecer. Mas assim como não devemos ser preconceituosos e sectários, desmerecendo da convivência de inumeráveis mineiros, baianos, cariocas, paulistas, gaúchos e outros migrantes e imigrantes que ajudaram e ainda ajudam a construir o nosso Espírito Santo, também não devemos nos portar como provincianos fechando os olhos para acordos em que saímos sempre perdendo. Srªs. e Srs. Senhores, o povo cordato, diligente e trabalhador do Espírito Santo também sabe cobrar seus direitos de cidadão e consumidor tendo em mente o seu próprio bem-estar e não apenas o do forasteiro, especialmente quando este não se furta de tirar vantagens dos nativos deste país que começou sua história a partir de uma invasão."
+    },
+    {
+     "inicio_corpo": 6327,
+     "fim_corpo": 7287,
+     "trecho": "O fato, Sr. Presidente, é que não podemos permitir que o sertão vire deserto. Os países ricos devem entender que o aumento da desertificação no mundo fará aumentar o fluxo migratório dos países pobres em direção aos países ricos, criando mais problemas para os países do Primeiro Mundo que não suportam esses excedentes populacionais. Nesse, como em muitos outros problemas, a melhor ação é prevenir. Combater a desertificação, hoje, é garantir a produtividade da terra amanhã. Era o que tinha a dizer. Muito obrigado. ncialr ¿ FO°á x FACE=\"Times New Roman\" SIZE=3 COLOR=\"Black\">, provisório e paliativo, para caracterizar o programa. Aqui todos se enganam. Programas como esse vieram para ficar e tenderão a se tornar permanentes. Porque, daqui para a frente, não haverá emprego para todos, muito longe disso. E altas taxas de desemprego farão parte da realidade por muito tempo, pelos motivos que comentei um pouco antes."
+    },
+    {
+     "inicio_corpo": 6668,
+     "fim_corpo": 7526,
+     "trecho": "Nesse, como em muitos outros problemas, a melhor ação é prevenir. Combater a desertificação, hoje, é garantir a produtividade da terra amanhã. Era o que tinha a dizer. Muito obrigado. ncialr ¿ FO°á x FACE=\"Times New Roman\" SIZE=3 COLOR=\"Black\">, provisório e paliativo, para caracterizar o programa. Aqui todos se enganam. Programas como esse vieram para ficar e tenderão a se tornar permanentes. Porque, daqui para a frente, não haverá emprego para todos, muito longe disso. E altas taxas de desemprego farão parte da realidade por muito tempo, pelos motivos que comentei um pouco antes. Infelizmente. Nesse novo cenário, cumpre ao Estado garantir a sobrevivência dos desempregados crônicos, aqueles para os quais, em razão de seu nível precário de escolaridade, não mais haverá vagas disponíveis no mercado de trabalho."
+    },
+    {
+     "inicio_corpo": 6740,
+     "fim_corpo": 7788,
+     "trecho": "Combater a desertificação, hoje, é garantir a produtividade da terra amanhã. Era o que tinha a dizer. Muito obrigado. ncialr ¿ FO°á x FACE=\"Times New Roman\" SIZE=3 COLOR=\"Black\">, provisório e paliativo, para caracterizar o programa. Aqui todos se enganam. Programas como esse vieram para ficar e tenderão a se tornar permanentes. Porque, daqui para a frente, não haverá emprego para todos, muito longe disso. E altas taxas de desemprego farão parte da realidade por muito tempo, pelos motivos que comentei um pouco antes. Infelizmente. Nesse novo cenário, cumpre ao Estado garantir a sobrevivência dos desempregados crônicos, aqueles para os quais, em razão de seu nível precário de escolaridade, não mais haverá vagas disponíveis no mercado de trabalho. Programas que garantam um mínimo de renda ao desempregado, em troca de serviços de valor comunitário, aliado à oferta de cursos de qualificação profissional, constituem as melhores iniciativas que se pode conceber, no momento, para fazer frente a essa situação."
+    },
+    {
+     "inicio_corpo": 7095,
+     "fim_corpo": 8640,
+     "trecho": "Porque, daqui para a frente, não haverá emprego para todos, muito longe disso. E altas taxas de desemprego farão parte da realidade por muito tempo, pelos motivos que comentei um pouco antes. Infelizmente. Nesse novo cenário, cumpre ao Estado garantir a sobrevivência dos desempregados crônicos, aqueles para os quais, em razão de seu nível precário de escolaridade, não mais haverá vagas disponíveis no mercado de trabalho. Programas que garantam um mínimo de renda ao desempregado, em troca de serviços de valor comunitário, aliado à oferta de cursos de qualificação profissional, constituem as melhores iniciativas que se pode conceber, no momento, para fazer frente a essa situação. Outros Estados e Municípios devem começar a agir nessa direção. Com o tempo, programas desse feitio poderão ser aperfeiçoados, devendo haver integração entre eles e a concessão do seguro-desemprego, cuja demanda também será crescente. A longo prazo, é claro, o desemprego crônico somente poderá ser aliviado por um intenso investimento em educação básica, por meio da escola pública. Sr. Presidente, penso ter arrolado alguns fatores importantes na luta contra o desemprego e a favor do desempregado. Certamente ao Estado cabe a maior quota de responsabilidade nessa batalha em prol do cidadão produtivo que, por contingências do mercado e do momento histórico, verá minguadas as oportunidades de emprego. Uma atuação decisiva nesse particular garantirá a estabilidade social do País e um futuro melhor para todos. Era o que tinha a dizer."
+    },
+    {
+     "inicio_corpo": 7174,
+     "fim_corpo": 8640,
+     "trecho": "E altas taxas de desemprego farão parte da realidade por muito tempo, pelos motivos que comentei um pouco antes. Infelizmente. Nesse novo cenário, cumpre ao Estado garantir a sobrevivência dos desempregados crônicos, aqueles para os quais, em razão de seu nível precário de escolaridade, não mais haverá vagas disponíveis no mercado de trabalho. Programas que garantam um mínimo de renda ao desempregado, em troca de serviços de valor comunitário, aliado à oferta de cursos de qualificação profissional, constituem as melhores iniciativas que se pode conceber, no momento, para fazer frente a essa situação. Outros Estados e Municípios devem começar a agir nessa direção. Com o tempo, programas desse feitio poderão ser aperfeiçoados, devendo haver integração entre eles e a concessão do seguro-desemprego, cuja demanda também será crescente. A longo prazo, é claro, o desemprego crônico somente poderá ser aliviado por um intenso investimento em educação básica, por meio da escola pública. Sr. Presidente, penso ter arrolado alguns fatores importantes na luta contra o desemprego e a favor do desempregado. Certamente ao Estado cabe a maior quota de responsabilidade nessa batalha em prol do cidadão produtivo que, por contingências do mercado e do momento histórico, verá minguadas as oportunidades de emprego. Uma atuação decisiva nesse particular garantirá a estabilidade social do País e um futuro melhor para todos. Era o que tinha a dizer."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0008::Raça e etnia",
+   "unit_id": "S0008",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-14",
+   "orador": "Luzia Toledo",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "indígenas",
+     "forma_encontrada": "indígenas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "índios",
+     "forma_encontrada": "índios",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1250,
+     "fim_corpo": 2156,
+     "trecho": "Aprendemos assim a discernir entre os bons e os maus prestadores de serviços. E exigimos respeito e o cumprimento das promessas feitas ao Governo estadual e a toda comunidade capixaba. Não aceitamos aqueles que simplesmente chegam com idéias prontas e as aplicam sem levar em consideração as nossas particularidades, principalmente a manutenção das nossas raízes culturais. Sim, estamos abertos às benesses da globalização, mas esperamos que a máxima do \"think global, make local\" não seja apenas um slogan sem um significado prático. Hoje, como ontem, estamos dispostos a contribuir para o enriquecimento dos desbravadores, mas chega de exploração e especulação. Nós pecamos por aceitar, por não discutir, por continuar, ainda depois de 500 anos, a tratar os estrangeiros como deuses, exatamente como fizeram muitos indígenas com os senhores quando do início da nossa colonização."
+    },
+    {
+     "inicio_corpo": 2402,
+     "fim_corpo": 3331,
+     "trecho": "Mas assim como não devemos ser preconceituosos e sectários, desmerecendo da convivência de inumeráveis mineiros, baianos, cariocas, paulistas, gaúchos e outros migrantes e imigrantes que ajudaram e ainda ajudam a construir o nosso Espírito Santo, também não devemos nos portar como provincianos fechando os olhos para acordos em que saímos sempre perdendo. Srªs. e Srs. Senhores, o povo cordato, diligente e trabalhador do Espírito Santo também sabe cobrar seus direitos de cidadão e consumidor tendo em mente o seu próprio bem-estar e não apenas o do forasteiro, especialmente quando este não se furta de tirar vantagens dos nativos deste país que começou sua história a partir de uma invasão. Esse país que hoje festeja 500 anos. Nossa história, que começou com o massacre de índios e a escravização de africanos, não pode continuar sendo feita à custa da exploração mais deslavada nos mais variados setores."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0008::Renda e classe",
+   "unit_id": "S0008",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-14",
+   "orador": "Luzia Toledo",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4684,
+     "fim_corpo": 5510,
+     "trecho": "Um cidadão educado não submete a tamanhos maus tratos. Ele busca unir-se a outros e reivindicar seus direitos e denunciar os maus empresários. E é para isso senhores que estou aqui hoje. Precisamos colocar a qualidade do serviço em primeiro lugar e o lucro será uma decorrência natural desse processo. Se a empresa não tem competência para prestar o serviço, que saia do caminho e ceda o lugar para quem tem o preparo e o compromisso com as necessidades maiores da população. a¿ ¿ aç @¿ as para o Meio Ambiente – PNUMA – considera que um quarto das terras do planeta são suscetíveis à desertificação, estando sob ameaça mais de 130 milhões de pessoas, principalmente na África, no Sudeste Asiático e na América Latina. Ocorre, Sr. Presidente, que esse é um problema tido como \"dos pobres\"."
+    },
+    {
+     "inicio_corpo": 5670,
+     "fim_corpo": 6668,
+     "trecho": "A desertificação está mais restrita aos países subdesenvolvidos. Pode residir nesse fato o desinteresse dos países ricos em apressar o funcionamento dos mecanismos de crédito para projetos de combate aos efeitos da desertificação no mundo, previstos pela Convenção das Nações Unidas para o Combate à Desertificação, a UNCCD. Esses mecanismos têm o objetivo de canalizar e repassar recursos para o financiamento de planos regionais de combate à desertificação. Só que, desde a criação da Convenção, foram aplicados ínfimos dois milhões e meio de dólares no programa, quantia irrisória diante dos 20 a 30 bilhões de dólares necessários em todo o mundo. O fato, Sr. Presidente, é que não podemos permitir que o sertão vire deserto. Os países ricos devem entender que o aumento da desertificação no mundo fará aumentar o fluxo migratório dos países pobres em direção aos países ricos, criando mais problemas para os países do Primeiro Mundo que não suportam esses excedentes populacionais."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0009::Domicílio e arranjo familiar",
+   "unit_id": "S0009",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Ramez Tebet",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 315,
+     "fim_corpo": 1273,
+     "trecho": "Mas, estando aqui há cinco anos, o que realizamos e aonde queremos chegar. Como todos os demais Srs. Senadores, sou um homem público com profundas preocupações, preocupações que não nos deixam e que até se avolumam à medida que o tempo passa. Esse tempo que está passando - e o tempo não retrocede - está marcado como a passagem deste século, como a entrada no novo milênio. E desde quando eu ainda cursava os bancos escolares eu ouvia falar do Brasil, como ouço falar hoje: o Brasil com muitas desigualdades, com muitos problemas, enfrentando essa sorte de peripécias que têm atingido fundo a nossa sociedade. O grande mal que ainda não conseguimos vencer, que assola a todos nós, sem dúvida nenhuma, refere-se às desigualdades. No Brasil de hoje, segundo os dados do Unicef, existe cerca de 21 milhões de brasileiros abaixo dos 18 anos e pertencentes a famílias com renda per capita até meio salário mínimo; 53% residem no Nordeste brasileiro."
+    },
+    {
+     "inicio_corpo": 1888,
+     "fim_corpo": 2815,
+     "trecho": "Por que tanta concentração de renda? Por que essa desigualdade de oportunidades, que faz com que este País seja profundamente injusto? O que nos impedi, neste limiar de um novo século, de um novo milênio, às vésperas de o Brasil completar 500 anos de existência, de caminharmos em busca de um novo destino? Até quando o Brasil oficial, o Brasil dos Poderes Públicos, o Brasil das instituições - como li hoje em um artigo, se não me engano, da Folha de S.Paulo - vai continuar sufocando o Brasil real? Até quando vamos continuar enxergando o cenário de violência que domina a paisagem deste País abençoado por Deus, bonito, com uma natureza privilegiada, deste Brasil que, nesse particular, faz inveja a todos os outros países do mundo? Por que a violência tem aumentado, tem se disseminado cada vez mais? Por que essa violência, que intranquiliza e desassossega as famílias brasileiras, que tem aumentado ao invés de diminuir?"
+    },
+    {
+     "inicio_corpo": 14601,
+     "fim_corpo": 15886,
+     "trecho": "O Senado desenvolveu este ano um trabalho rico, um trabalho gigantesco e pudemos comprovar que a sociedade está participando. As CPIs que aconteceram aqui, Sr. Presidente, Srªs. e Srs. Senadores, foram impulsionadas por uma sociedade que quer um país mais digno, um país mais honrado. Fico, portanto, na esperança mais viva de que o Brasil do próximo milênio vá ser um Brasil sem concentração de renda, vá ser um Brasil com respeito ao meio ambiente, onde se promova o desenvolvimento auto-sustentado. E vai ser, sobretudo, um país com profundo respeito pelos direitos humanos. E quando falo em direitos humanos, falo em qualidade de vida, falo em habitação, falo em saúde, falo em educação, falo, sobretudo, do desemprego, que nós precisamos vencer, porque é o fantasma maior que assola as famílias brasileiras. Sr. Presidente, que para todos nós, do Senado da República, e, ao nosso lado, todas as famílias deste Brasil, as alegrias do Natal se reproduzam e que no próximo ano, no ano 2000, que se inicia daqui a uns dias, que nos 500 anos do Descobrimento do Brasil, assistamos ao despertar de um Brasil próspero, de um Brasil feliz, de um Brasil humano e de um Brasil justo. Que Deus abençoe todo o povo brasileiro é o meu desejo, Sr. Presidente! s #"
+    },
+    {
+     "inicio_corpo": 14727,
+     "fim_corpo": 15886,
+     "trecho": "As CPIs que aconteceram aqui, Sr. Presidente, Srªs. e Srs. Senadores, foram impulsionadas por uma sociedade que quer um país mais digno, um país mais honrado. Fico, portanto, na esperança mais viva de que o Brasil do próximo milênio vá ser um Brasil sem concentração de renda, vá ser um Brasil com respeito ao meio ambiente, onde se promova o desenvolvimento auto-sustentado. E vai ser, sobretudo, um país com profundo respeito pelos direitos humanos. E quando falo em direitos humanos, falo em qualidade de vida, falo em habitação, falo em saúde, falo em educação, falo, sobretudo, do desemprego, que nós precisamos vencer, porque é o fantasma maior que assola as famílias brasileiras. Sr. Presidente, que para todos nós, do Senado da República, e, ao nosso lado, todas as famílias deste Brasil, as alegrias do Natal se reproduzam e que no próximo ano, no ano 2000, que se inicia daqui a uns dias, que nos 500 anos do Descobrimento do Brasil, assistamos ao despertar de um Brasil próspero, de um Brasil feliz, de um Brasil humano e de um Brasil justo. Que Deus abençoe todo o povo brasileiro é o meu desejo, Sr. Presidente! s #"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0009::Educação",
+   "unit_id": "S0009",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Ramez Tebet",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 932,
+     "trecho": "O SR. RAMEZ TEBET (PMDB - MS. Pronuncia o seguinte discurso. Sem revisão do orador.) - Sr. Presidente, Srª Senadora Heloisa Helena, Srªs e Srs. Senadores, esta é a nossa última sessão. Na verdade, venho a esta tribuna para indagar a mim mesmo sobre o que fizemos, o que realizamos neste ano no Senado da República. Mas, estando aqui há cinco anos, o que realizamos e aonde queremos chegar. Como todos os demais Srs. Senadores, sou um homem público com profundas preocupações, preocupações que não nos deixam e que até se avolumam à medida que o tempo passa. Esse tempo que está passando - e o tempo não retrocede - está marcado como a passagem deste século, como a entrada no novo milênio. E desde quando eu ainda cursava os bancos escolares eu ouvia falar do Brasil, como ouço falar hoje: o Brasil com muitas desigualdades, com muitos problemas, enfrentando essa sorte de peripécias que têm atingido fundo a nossa sociedade."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0009::Escolaridade e letramento",
+   "unit_id": "S0009",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Ramez Tebet",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "estudante",
+     "forma_encontrada": "estudante",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12598,
+     "fim_corpo": 13723,
+     "trecho": "Por isso, digo que falta vontade política e determinação de dar uma tarifa diferenciada, para que haja a agroindustrialização do interior do Brasil. E refiro-me ao caso específico de Mato Grosso do Sul. É olhando para o meu Estado que enxergo as potencialidades deste imenso País, que tem tudo para crescer, e não cresce; e, quando cresce, cresce com renda concentrada nas mãos de poucos, em detrimento de muitos, algo duro para quem representa, como eu, um Estado como o Mato Grosso do Sul, Sr. Presidente, Srªs e Srs. Senadores. O meu Estado tem muitas universidades. O SR. PRESIDENTE (Geraldo Melo. Faz soar a campainha.) O SR. RAMEZ TEBET (PMDB - MS) - Já vou encerrar, Sr. Presidente. E podemos dizer que o ensino superior que oferece é espetacular, se levarmos em conta o seu tamanho, o número de municípios que tem. No entanto, vejo que o estudante faz o vestibular, entra na faculdade e muitas vezes é obrigado a lançar mão de um crédito educativo que representa, na verdade, uma operação de crédito bancário, em vez de representar um auxílio, um estímulo à mocidade estudiosa da nossa terra."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0009::Idade",
+   "unit_id": "S0009",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Ramez Tebet",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2023,
+     "fim_corpo": 2910,
+     "trecho": "O que nos impedi, neste limiar de um novo século, de um novo milênio, às vésperas de o Brasil completar 500 anos de existência, de caminharmos em busca de um novo destino? Até quando o Brasil oficial, o Brasil dos Poderes Públicos, o Brasil das instituições - como li hoje em um artigo, se não me engano, da Folha de S.Paulo - vai continuar sufocando o Brasil real? Até quando vamos continuar enxergando o cenário de violência que domina a paisagem deste País abençoado por Deus, bonito, com uma natureza privilegiada, deste Brasil que, nesse particular, faz inveja a todos os outros países do mundo? Por que a violência tem aumentado, tem se disseminado cada vez mais? Por que essa violência, que intranquiliza e desassossega as famílias brasileiras, que tem aumentado ao invés de diminuir? Por que não existe solução para acabar com a violência contra as nossas crianças, por exemplo?"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0009::Macrorregião",
+   "unit_id": "S0009",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Ramez Tebet",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 390,
+     "fim_corpo": 1273,
+     "trecho": "Como todos os demais Srs. Senadores, sou um homem público com profundas preocupações, preocupações que não nos deixam e que até se avolumam à medida que o tempo passa. Esse tempo que está passando - e o tempo não retrocede - está marcado como a passagem deste século, como a entrada no novo milênio. E desde quando eu ainda cursava os bancos escolares eu ouvia falar do Brasil, como ouço falar hoje: o Brasil com muitas desigualdades, com muitos problemas, enfrentando essa sorte de peripécias que têm atingido fundo a nossa sociedade. O grande mal que ainda não conseguimos vencer, que assola a todos nós, sem dúvida nenhuma, refere-se às desigualdades. No Brasil de hoje, segundo os dados do Unicef, existe cerca de 21 milhões de brasileiros abaixo dos 18 anos e pertencentes a famílias com renda per capita até meio salário mínimo; 53% residem no Nordeste brasileiro."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0009::Posição no trabalho",
+   "unit_id": "S0009",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Ramez Tebet",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3687,
+     "fim_corpo": 4554,
+     "trecho": "Se somos 160 milhões de brasileiros, os aposentados, com os seus ganhos, estão sustentando 40 milhões de brasileiros. O que está havendo, portanto, no cenário nacional? E por que este Brasil ainda caminha? Por que ainda tem esperança? Fico me perguntando por que o Brasil é assim. Como o Brasil resiste a tudo isso? E não tenho dúvida nenhuma de dizer, Sr. Presidente, Srªs e Srs. Senadores, que quanto mais esses fatos atingem fundo a vida dos cidadãos brasileiros, quanto mais a cidadania é atingida, parece que mais aumenta entre nós um grande sentimento, um sentimento que nesta época do ano, por exemplo, está perfeitamente caracterizado: o sentimento da fraternidade, da solidariedade. Não tenho dúvida quanto a característica do povo brasileiro em ser um povo pacífico, trabalhador e ordeiro, de ser um povo de espírito fraterno e solidário."
+    },
+    {
+     "inicio_corpo": 10430,
+     "fim_corpo": 11099,
+     "trecho": "Penso que, dentro desses princípios, se adotarmos uma política de desenvolvimento nessa linha, conforme a preocupação de V. Exª, estaremos avançando. Fico feliz porque pude chegar a tempo, praticamente no último dia de sessão do período legislativo ordinário deste ano, para ouvir a análise de V. Exª a respeito do que fomos e para onde vamos. Fico feliz - repito - de poder aparteá-lo e dizer que V. Exª representa com dignidade, não só o Mato Grosso, mas o Brasil neste Parlamento. O SR. RAMEZ TEBET (PMDB - MS) - Senador Casildo Maldaner, o seu aparte me honra muito, porque conheço a vida de V. Exª, que é um lutador. Como homem humilde e trabalhador, V."
+    },
+    {
+     "inicio_corpo": 14450,
+     "fim_corpo": 15886,
+     "trecho": "Presidente, dirijo-me a todas as autoridades públicas deste País e chamo a atenção para o que aconteceu neste Senado durante o ano que ora se encerra. O Senado desenvolveu este ano um trabalho rico, um trabalho gigantesco e pudemos comprovar que a sociedade está participando. As CPIs que aconteceram aqui, Sr. Presidente, Srªs. e Srs. Senadores, foram impulsionadas por uma sociedade que quer um país mais digno, um país mais honrado. Fico, portanto, na esperança mais viva de que o Brasil do próximo milênio vá ser um Brasil sem concentração de renda, vá ser um Brasil com respeito ao meio ambiente, onde se promova o desenvolvimento auto-sustentado. E vai ser, sobretudo, um país com profundo respeito pelos direitos humanos. E quando falo em direitos humanos, falo em qualidade de vida, falo em habitação, falo em saúde, falo em educação, falo, sobretudo, do desemprego, que nós precisamos vencer, porque é o fantasma maior que assola as famílias brasileiras. Sr. Presidente, que para todos nós, do Senado da República, e, ao nosso lado, todas as famílias deste Brasil, as alegrias do Natal se reproduzam e que no próximo ano, no ano 2000, que se inicia daqui a uns dias, que nos 500 anos do Descobrimento do Brasil, assistamos ao despertar de um Brasil próspero, de um Brasil feliz, de um Brasil humano e de um Brasil justo. Que Deus abençoe todo o povo brasileiro é o meu desejo, Sr. Presidente! s #"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0009::Renda e classe",
+   "unit_id": "S0009",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Ramez Tebet",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1051,
+     "fim_corpo": 1853,
+     "trecho": "No Brasil de hoje, segundo os dados do Unicef, existe cerca de 21 milhões de brasileiros abaixo dos 18 anos e pertencentes a famílias com renda per capita até meio salário mínimo; 53% residem no Nordeste brasileiro. O documento do Unicef, sem dúvida nenhuma, classifica isso como uma profunda violência, violência essa que se acentua quando sabemos que quase 3 milhões de brasileiros, entre 5 e 14 anos, têm necessidade de trabalhar para completar a renda familiar. Ora, Sr. Presidente, Srªs e Srs. Senadores, nós, que temos vontade de ajudar, que estamos aqui por delegação popular, que queremos honrar o mandato, trabalhar por um País mais próspero, mais feliz, ficamos nos indagando, como indago a mim mesmo: quais os motivos que levam um País como o nosso a ter uma pobreza tão grande?"
+    },
+    {
+     "inicio_corpo": 5603,
+     "fim_corpo": 5951,
+     "trecho": "Então, se o Brasil tem tudo isso, por que o Brasil não resolve os seus problemas? Por que temos a frase célebre de que o Brasil tem tudo para se transformar no celeiro do mundo e não se transforma? Afinal de contas, o que é necessário para que haja maior igualdade entre os brasileiros? O que falta para erradicarmos a pobreza no Brasil, Sr."
+    },
+    {
+     "inicio_corpo": 5896,
+     "fim_corpo": 6728,
+     "trecho": "O que falta para erradicarmos a pobreza no Brasil, Sr. Presidente, Srªs. e Srs. Senadores? Será que estamos precisando de um planejamento objetivo? Será que não está havendo uma orientação política adequada? Será que a política que nos conduz é dessas que cada vez mais concentra renda ao invés de descentralizar? Estamos vendo as grandes metrópoles inchadas, estamos vendo as grandes cidades brasileiras com um ar quase irrespirável devido a tanta poluição e estamos vendo o interior do nosso Brasil no aguardo de incentivos e planejamento, esperando que se estimule o seu desenvolvimento. Será que é falta de vontade política? Será que estamos engalfinhados nesse mundo globalizado, nesse processo de globalização irreversível, mas cruel, que está fazendo com que os países mais ricos sufoquem e acabem com os países mais pobres?"
+    },
+    {
+     "inicio_corpo": 7265,
+     "fim_corpo": 8088,
+     "trecho": "Os direitos humanos a que me refiro aqui não são os direitos humanos da retórica; são os direitos humanos sociais, cujos exemplos são a educação e a saúde, direitos que a Constituição da República diz que são de todos e um dever do Estado. No entanto, eles continuam, no Brasil, a sacrificar o povo brasileiro. Será que não estamos direcionando mal os nossos recursos? Será que essas votações que estamos fazendo no Senado em defesa dos nossos Estados não estão onerando recursos? Será que o povo não tem razão de ficar indagando como há recursos disponíveis para instituições financeiras - umas já foram privatizadas, e outras o serão brevemente - e não há recursos para aplicar em defesa desses direitos humanos, em defesa da habitação, em defesa da moradia, em suma, em favor da erradicação da pobreza neste País?"
+    },
+    {
+     "inicio_corpo": 8348,
+     "fim_corpo": 9224,
+     "trecho": "O Sr. Casildo Maldaner (PMDB - SC) - Concede-me V. Exª um aparte, Senador Ramez Tebet? O SR. RAMEZ TEBET (PMDB - MS) - Com muito prazer, ouço V. Exª, Senador Casildo Maldaner. O Sr. Casildo Maldaner (PMDB - SC) - Senador Ramez Tebet, quando estava chegando, vinha acompanhando pela TV Senado o pronunciamento de V. Exª. E pensava que, se chegasse a tempo e fosse possível, iria aparteá-lo para dizer que fiquei emocionado ao acompanhar o tema de V. Exª. Aliás, não é novidade para nós o esforço que V. Exª tem dedicado, sempre com muita seriedade, não só representando o seu Estado, Mato Grosso do Sul, onde já foi governador inclusive, preocupando-se com os temas do Brasil inteiro. Eu ouvia V. Exª dizer que o nosso País tem as melhores água do mundo, tem mais isso e aquilo e indagar por que não conseguimos erradicar um pouco mais a pobreza e a miséria."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0009::Urbano e rural",
+   "unit_id": "S0009",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Ramez Tebet",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "campos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "campos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4391,
+     "fim_corpo": 5603,
+     "trecho": "Não tenho dúvida quanto a característica do povo brasileiro em ser um povo pacífico, trabalhador e ordeiro, de ser um povo de espírito fraterno e solidário. É por isso que venho aqui neste fim de ano, para dizer que se esse é o balanço, não devemos desanimar, porque desde que me entendo por gente vejo as coisas caminharem assim. Só que eu não me conformo, isso me deixa indignado. Se é esse o contexto, se apesar de todas essas dificuldades que o Brasil enfrenta o povo tem esse sentimento de solidariedade, compreende que o nosso Brasil é um país de condições privilegiadas, que pode utilizar essas condições para resolver os seus problemas e se tornar um importante colaborador mundial, é porque o que nos anima é a imensidão do território nacional, ao lado dessa solidariedade, é sabermos que temos terras férteis, é sabermos que temos campos adequados à pecuária, que temos climas variados, pouco sujeitos às grandes calamidades que assolam outras regiões do planeta Terra, é saber que temos terras propícias ao cultivo das mais diversas culturas, é saber que o Brasil é um país rico no setor mineral, que o Brasil é rico de águas, água doce que os estudiosos anunciam que vai faltar ao mundo."
+    },
+    {
+     "inicio_corpo": 10554,
+     "fim_corpo": 11390,
+     "trecho": "Exª, estaremos avançando. Fico feliz porque pude chegar a tempo, praticamente no último dia de sessão do período legislativo ordinário deste ano, para ouvir a análise de V. Exª a respeito do que fomos e para onde vamos. Fico feliz - repito - de poder aparteá-lo e dizer que V. Exª representa com dignidade, não só o Mato Grosso, mas o Brasil neste Parlamento. O SR. RAMEZ TEBET (PMDB - MS) - Senador Casildo Maldaner, o seu aparte me honra muito, porque conheço a vida de V. Exª, que é um lutador. Como homem humilde e trabalhador, V. Exª venceu os obstáculos e as dificuldades que a vida interpõe em nossos caminhos e chegou a esta Casa representando brilhantemente o Estado de Santa Catarina. Sr. Presidente, Srªs e Srs. Senadores, quando vejo o Brasil, enxergo o meu Mato Grosso do Sul, suas terras férteis e campos."
+    },
+    {
+     "inicio_corpo": 10831,
+     "fim_corpo": 11743,
+     "trecho": "Exª representa com dignidade, não só o Mato Grosso, mas o Brasil neste Parlamento. O SR. RAMEZ TEBET (PMDB - MS) - Senador Casildo Maldaner, o seu aparte me honra muito, porque conheço a vida de V. Exª, que é um lutador. Como homem humilde e trabalhador, V. Exª venceu os obstáculos e as dificuldades que a vida interpõe em nossos caminhos e chegou a esta Casa representando brilhantemente o Estado de Santa Catarina. Sr. Presidente, Srªs e Srs. Senadores, quando vejo o Brasil, enxergo o meu Mato Grosso do Sul, suas terras férteis e campos. Fico, então, a perguntar por que não há dinheiro para a nossa terra produzir melhor? Onde está a política em favor da agricultura? Onde está a política agrária? Sr. Presidente, Srªs e Srs. Senadores, fico indagando por que o meu Estado está, praticamente, cercado por acampamentos, violência no campo e invasões de terra, que triplicaram no meu Estado."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0010::Domicílio e arranjo familiar",
+   "unit_id": "S0010",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Pedro Simon",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10426,
+     "fim_corpo": 11291,
+     "trecho": "Alguns, como eu, como elite política, são senadores; outros, como alguns de V. Exªs, como elite política e econômica, são grandes homens, detentores de grandes fortunas, que eu, lamentavelmente, não tenho. Mas nós, no Brasil, não consideramos prioritário o que é prioritário. O Governo lançou o Proer, destinou a ele R$40 bilhões, porque considerou fundamental, não tinha como deixar alguns bancos quebrarem. O Nacional, por exemplo, não podia quebrar: 750 contas fantasmas, durante 10 anos, movimentando US$12 bilhões imoralmente! Mas não podia quebrar! Porém, pequenos produtores, pequenos proprietários, desemprego, gente na rua, gente morrendo de fome pode continuar a morrer; esses que esperem; que fiquem na fila aguardando que um dia a gente chegue lá. Não sei, vou dizer pela milésima vez: para mim, o governo de um país é como uma família."
+    },
+    {
+     "inicio_corpo": 10426,
+     "fim_corpo": 11357,
+     "trecho": "Alguns, como eu, como elite política, são senadores; outros, como alguns de V. Exªs, como elite política e econômica, são grandes homens, detentores de grandes fortunas, que eu, lamentavelmente, não tenho. Mas nós, no Brasil, não consideramos prioritário o que é prioritário. O Governo lançou o Proer, destinou a ele R$40 bilhões, porque considerou fundamental, não tinha como deixar alguns bancos quebrarem. O Nacional, por exemplo, não podia quebrar: 750 contas fantasmas, durante 10 anos, movimentando US$12 bilhões imoralmente! Mas não podia quebrar! Porém, pequenos produtores, pequenos proprietários, desemprego, gente na rua, gente morrendo de fome pode continuar a morrer; esses que esperem; que fiquem na fila aguardando que um dia a gente chegue lá. Não sei, vou dizer pela milésima vez: para mim, o governo de um país é como uma família. Eu, na minha família, faço o que posso para todos os meus filhos."
+    },
+    {
+     "inicio_corpo": 11196,
+     "fim_corpo": 12134,
+     "trecho": "Não sei, vou dizer pela milésima vez: para mim, o governo de um país é como uma família. Eu, na minha família, faço o que posso para todos os meus filhos. V. Exª também, Sr. Presidente. Mas V. Exª não tem um filho ao qual deu luxo e casa na Europa enquanto o outro está passando fome. Damos, prioritariamente, a cada filho segundo a sua necessidade. Primeiramente, que nenhum dos meus filhos tenha fome – eu já fico satisfeito; segundo, que os meus filhos tenham saúde; terceiro, que os meus filhos tenham teto; quarto, que os meus filhos tenham educação. Eu não dou três casas para um e o outro que more embaixo da ponte; eu não dou estudo numa universidade americana para um e que o outro fique analfabeto; eu não dou operação plástica para uma mulher e que a filha fique sem atendimento médico. No entanto, isso é o que se faz no Brasil. É assim que se trata a família brasileira: para alguns, tudo; para a imensa maioria, nada."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0010::Escolaridade e letramento",
+   "unit_id": "S0010",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Pedro Simon",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "analfabeto",
+     "forma_encontrada": "analfabeto",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11196,
+     "fim_corpo": 12000,
+     "trecho": "Não sei, vou dizer pela milésima vez: para mim, o governo de um país é como uma família. Eu, na minha família, faço o que posso para todos os meus filhos. V. Exª também, Sr. Presidente. Mas V. Exª não tem um filho ao qual deu luxo e casa na Europa enquanto o outro está passando fome. Damos, prioritariamente, a cada filho segundo a sua necessidade. Primeiramente, que nenhum dos meus filhos tenha fome – eu já fico satisfeito; segundo, que os meus filhos tenham saúde; terceiro, que os meus filhos tenham teto; quarto, que os meus filhos tenham educação. Eu não dou três casas para um e o outro que more embaixo da ponte; eu não dou estudo numa universidade americana para um e que o outro fique analfabeto; eu não dou operação plástica para uma mulher e que a filha fique sem atendimento médico."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0010::Gênero",
+   "unit_id": "S0010",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Pedro Simon",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "mulher",
+     "forma_encontrada": "mulher",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "mulheres",
+     "forma_encontrada": "mulheres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11196,
+     "fim_corpo": 12000,
+     "trecho": "Não sei, vou dizer pela milésima vez: para mim, o governo de um país é como uma família. Eu, na minha família, faço o que posso para todos os meus filhos. V. Exª também, Sr. Presidente. Mas V. Exª não tem um filho ao qual deu luxo e casa na Europa enquanto o outro está passando fome. Damos, prioritariamente, a cada filho segundo a sua necessidade. Primeiramente, que nenhum dos meus filhos tenha fome – eu já fico satisfeito; segundo, que os meus filhos tenham saúde; terceiro, que os meus filhos tenham teto; quarto, que os meus filhos tenham educação. Eu não dou três casas para um e o outro que more embaixo da ponte; eu não dou estudo numa universidade americana para um e que o outro fique analfabeto; eu não dou operação plástica para uma mulher e que a filha fique sem atendimento médico."
+    },
+    {
+     "inicio_corpo": 13865,
+     "fim_corpo": 14645,
+     "trecho": "Quando Eu tive sede, você me ajudou. Quando Eu estava sem roupas, foi você quem me ajudou; venha para cá! Quando Eu tive fome e sede, você não me ajudou; vá para lá! E nós vamos perguntar: quando é que aconteceu isso? Ele vai responder: quando não olhaste uma criança nua na rua, com sede, com fome, foi para Mim que não olhaste. O que nós fizemos para reparar isso, Sr. Presidente? O que nós fizemos para alterar essa condição? O que nós fizemos para que este mundo seja menos cão, menos cruel e menos rebelde? Sr. Presidente, eu deixo o meu abraço e os votos de um bom Natal, graças a Deus sem fome, para nós e para os nossos filhos. Eu deixo votos de felicidade neste último dia e sinto a seriedade desta Casa. Eu sinto que, aqui, existem homens e mulheres de bem."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0010::Idade",
+   "unit_id": "S0010",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Pedro Simon",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "criança",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "criança",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "criança",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6722,
+     "fim_corpo": 7604,
+     "trecho": "Seria muito importante que o Presidente da República meditasse sobre essas questões em seu Governo. São tantos os projetos injustos que temos decidido! São tantos os equívocos que temos analisado! Parece-me, às vezes, que sonhar é necessário. Juro que eu não sei se nós, que estamos aqui, perdemos a capacidade de nos indignar. Os nossos olhos não conseguem enxergar além da beleza deste plenário, dessas luzes, dessa abóbada celeste e do azul dos tapetes. Não que não tenhamos vontade, não que não tenhamos disposição, mas não sei se não nos acomodamos ao que está aqui. Afinal, este é o nosso mundo. O nosso mundo é este Senado. O nosso mundo é sabermos que hoje entramos em recesso. Há alguns entre nós que são pessoas piedosas, de coração grande e que estão ajudando os outros. Muitos de nós que estão dando dinheiro para que nenhuma criança passe o Natal com fome."
+    },
+    {
+     "inicio_corpo": 7050,
+     "fim_corpo": 7906,
+     "trecho": "Os nossos olhos não conseguem enxergar além da beleza deste plenário, dessas luzes, dessa abóbada celeste e do azul dos tapetes. Não que não tenhamos vontade, não que não tenhamos disposição, mas não sei se não nos acomodamos ao que está aqui. Afinal, este é o nosso mundo. O nosso mundo é este Senado. O nosso mundo é sabermos que hoje entramos em recesso. Há alguns entre nós que são pessoas piedosas, de coração grande e que estão ajudando os outros. Muitos de nós que estão dando dinheiro para que nenhuma criança passe o Natal com fome. Que campanha mais bela! Nos outros dias, eu não sei o que acontece. Mas para o \"Natal sem fome\" há uma campanha extraordinária. E muitos de nós dormem com a consciência tranqüila: \"Eu já dei a minha contribuição; eu já dei a minha roupinha usada, que não uso mais, para que não haja criança com frio\"."
+    },
+    {
+     "inicio_corpo": 7300,
+     "fim_corpo": 8267,
+     "trecho": "Afinal, este é o nosso mundo. O nosso mundo é este Senado. O nosso mundo é sabermos que hoje entramos em recesso. Há alguns entre nós que são pessoas piedosas, de coração grande e que estão ajudando os outros. Muitos de nós que estão dando dinheiro para que nenhuma criança passe o Natal com fome. Que campanha mais bela! Nos outros dias, eu não sei o que acontece. Mas para o \"Natal sem fome\" há uma campanha extraordinária. E muitos de nós dormem com a consciência tranqüila: \"Eu já dei a minha contribuição; eu já dei a minha roupinha usada, que não uso mais, para que não haja criança com frio\". Eu me pergunto: será que perdemos a capacidade de entender a nossa missão e a nossa responsabilidade? Eu fecho os olhos e vejo o velho Teotônio, com os seus quatro cânceres, sendo retirado de sua cadeira de rodas, para, com as suas bengalas, ir à tribuna dizer aos jovens do Rio Grande do Sul: \"Meus jovens, estou aqui à revelia de todos os meus médicos."
+    },
+    {
+     "inicio_corpo": 7330,
+     "fim_corpo": 8267,
+     "trecho": "O nosso mundo é este Senado. O nosso mundo é sabermos que hoje entramos em recesso. Há alguns entre nós que são pessoas piedosas, de coração grande e que estão ajudando os outros. Muitos de nós que estão dando dinheiro para que nenhuma criança passe o Natal com fome. Que campanha mais bela! Nos outros dias, eu não sei o que acontece. Mas para o \"Natal sem fome\" há uma campanha extraordinária. E muitos de nós dormem com a consciência tranqüila: \"Eu já dei a minha contribuição; eu já dei a minha roupinha usada, que não uso mais, para que não haja criança com frio\". Eu me pergunto: será que perdemos a capacidade de entender a nossa missão e a nossa responsabilidade? Eu fecho os olhos e vejo o velho Teotônio, com os seus quatro cânceres, sendo retirado de sua cadeira de rodas, para, com as suas bengalas, ir à tribuna dizer aos jovens do Rio Grande do Sul: \"Meus jovens, estou aqui à revelia de todos os meus médicos."
+    },
+    {
+     "inicio_corpo": 7672,
+     "fim_corpo": 8767,
+     "trecho": "Mas para o \"Natal sem fome\" há uma campanha extraordinária. E muitos de nós dormem com a consciência tranqüila: \"Eu já dei a minha contribuição; eu já dei a minha roupinha usada, que não uso mais, para que não haja criança com frio\". Eu me pergunto: será que perdemos a capacidade de entender a nossa missão e a nossa responsabilidade? Eu fecho os olhos e vejo o velho Teotônio, com os seus quatro cânceres, sendo retirado de sua cadeira de rodas, para, com as suas bengalas, ir à tribuna dizer aos jovens do Rio Grande do Sul: \"Meus jovens, estou aqui à revelia de todos os meus médicos. Sou um homem rico e, como tenho quatro cânceres, eles dizem que eu devo aproveitar, viajar para a França, divertir-me, passear. E estou aqui, porque a minha consciência me diz que é minha obrigação estar aqui. Mas não são apenas as minhas palavras. Eu estou aqui para que vocês, jovens, entendam, para que vocês, que têm mocidade, que têm saúde, que têm olhos para ver, ouvidos para ouvir, boca para falar, pensem e falem por aqueles que não podem enxergar, que não podem ouvir, que não podem falar."
+    },
+    {
+     "inicio_corpo": 13227,
+     "fim_corpo": 14195,
+     "trecho": "Bem-aventurados sois vós, quando, por minha causa, vos injuriarem e perseguirem e disserem, falsamente, contra vós toda a espécie de mal. Alegrai-vos e exultai, porque será grande nos céus a vossa recompensa. Foi assim que perseguiram os profetas que viveram antes de vós. Sou espiritualista, acredito numa vida depois desta, Sr. Presidente. Acredito nos preceitos que dizem que nós temos que aqui ter uma atuação por merecê-la. O que fizemos nós, Sr. Presidente? O que fizemos nós? Outro dia eu falava, se não me engano, desta tribuna, que quando Cristo voltar Ele haverá de dizer: quando Eu tive fome, você me ajudou. Quando Eu tive sede, você me ajudou. Quando Eu estava sem roupas, foi você quem me ajudou; venha para cá! Quando Eu tive fome e sede, você não me ajudou; vá para lá! E nós vamos perguntar: quando é que aconteceu isso? Ele vai responder: quando não olhaste uma criança nua na rua, com sede, com fome, foi para Mim que não olhaste."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0010::Infraestrutura e porte populacional",
+   "unit_id": "S0010",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Pedro Simon",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "sem atendimento",
+     "forma_encontrada": "sem atendimento",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11196,
+     "fim_corpo": 12000,
+     "trecho": "Não sei, vou dizer pela milésima vez: para mim, o governo de um país é como uma família. Eu, na minha família, faço o que posso para todos os meus filhos. V. Exª também, Sr. Presidente. Mas V. Exª não tem um filho ao qual deu luxo e casa na Europa enquanto o outro está passando fome. Damos, prioritariamente, a cada filho segundo a sua necessidade. Primeiramente, que nenhum dos meus filhos tenha fome – eu já fico satisfeito; segundo, que os meus filhos tenham saúde; terceiro, que os meus filhos tenham teto; quarto, que os meus filhos tenham educação. Eu não dou três casas para um e o outro que more embaixo da ponte; eu não dou estudo numa universidade americana para um e que o outro fique analfabeto; eu não dou operação plástica para uma mulher e que a filha fique sem atendimento médico."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0010::Posição no trabalho",
+   "unit_id": "S0010",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Pedro Simon",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10164,
+     "fim_corpo": 11196,
+     "trecho": "O Brasil é a décima potência no campo econômico, no institucional. No campo científico, estamos disputando com os maiores países do mundo. Mas no campo social, eta elitizinha danada a brasileira! Eta gentinha egoísta a elite brasileira, na qual nos encontramos. Alguns, como eu, como elite política, são senadores; outros, como alguns de V. Exªs, como elite política e econômica, são grandes homens, detentores de grandes fortunas, que eu, lamentavelmente, não tenho. Mas nós, no Brasil, não consideramos prioritário o que é prioritário. O Governo lançou o Proer, destinou a ele R$40 bilhões, porque considerou fundamental, não tinha como deixar alguns bancos quebrarem. O Nacional, por exemplo, não podia quebrar: 750 contas fantasmas, durante 10 anos, movimentando US$12 bilhões imoralmente! Mas não podia quebrar! Porém, pequenos produtores, pequenos proprietários, desemprego, gente na rua, gente morrendo de fome pode continuar a morrer; esses que esperem; que fiquem na fila aguardando que um dia a gente chegue lá."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0010::Renda e classe",
+   "unit_id": "S0010",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Pedro Simon",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 744,
+     "fim_corpo": 1554,
+     "trecho": "Mas parece que isso não vai acontecer. Eu acho que não. E me despeço da tribuna na expectativa de voltar no próximo milênio. Se não voltar, fica aqui a minha despedida! Em pronunciamento que fiz na semana passada, eu dizia que, de certa forma, angustiava-me ver o Brasil e a humanidade chegarem ao fim de uma era sem uma perspectiva, sem um propósito, sem uma tomada de posição para o período que há de vir. Foi um ano azarado esse que passou, se pensarmos nos eventos a que a humanidade assistiu. Quase nada, eu diria, deu certo. Para culminar, em Seattle, nos Estados Unidos, a última reunião de líderes mundiais da humanidade, que pretendia definir como seriam as negociações e o comércio no próximo século, foi um fracasso total. Surpreendeu-nos ver que havia tantos pobres nos Estados Unidos."
+    },
+    {
+     "inicio_corpo": 744,
+     "fim_corpo": 1708,
+     "trecho": "Mas parece que isso não vai acontecer. Eu acho que não. E me despeço da tribuna na expectativa de voltar no próximo milênio. Se não voltar, fica aqui a minha despedida! Em pronunciamento que fiz na semana passada, eu dizia que, de certa forma, angustiava-me ver o Brasil e a humanidade chegarem ao fim de uma era sem uma perspectiva, sem um propósito, sem uma tomada de posição para o período que há de vir. Foi um ano azarado esse que passou, se pensarmos nos eventos a que a humanidade assistiu. Quase nada, eu diria, deu certo. Para culminar, em Seattle, nos Estados Unidos, a última reunião de líderes mundiais da humanidade, que pretendia definir como seriam as negociações e o comércio no próximo século, foi um fracasso total. Surpreendeu-nos ver que havia tantos pobres nos Estados Unidos. Os pobres e os miseráveis quase impediram a realização da reunião, fazendo um grande protesto contra as injustiças e a prepotência dos países mais ricos."
+    },
+    {
+     "inicio_corpo": 2170,
+     "fim_corpo": 2923,
+     "trecho": "Não consegui, Sr. Presidente. Vou ler aqui uma moção romântica, sui generis , ridícula, grotesca ou seja lá que adjetivo queiram lhe dar. Vou entregá-la à Mesa para que conste dos Anais e, se o Presidente do Senado quiser – acho que não vai querer –, que a leve adiante. Sr. Presidente, Srªs e Srs. Senadores, por intermédio da Mesa do Senado, endereço ao Secretário-Geral da ONU a seguinte proposição. Proposta: Aos quinze dias do mês de dezembro de 1999, no encerramento deste milênio de tantas guerras e sofrimentos, venho propor aqui desta tribuna à Organização das Nações das Unidas que convoque uma Assembléia Geral Extraordinária para discutir medidas urgentes relativas à extinção da pobreza e da miséria entre os homens."
+    },
+    {
+     "inicio_corpo": 11758,
+     "fim_corpo": 12710,
+     "trecho": "Eu não dou três casas para um e o outro que more embaixo da ponte; eu não dou estudo numa universidade americana para um e que o outro fique analfabeto; eu não dou operação plástica para uma mulher e que a filha fique sem atendimento médico. No entanto, isso é o que se faz no Brasil. É assim que se trata a família brasileira: para alguns, tudo; para a imensa maioria, nada. Não quero imitar o Garotinho e nem virar pregador, mas, na minha opinião, a página mais bonita do Evangelho, a página mais bonita escrita na humanidade, é um trecho de Mateus, no Sermão da Montanha. Alguém já disse que se houvesse uma catástrofe e desaparecessem todos os escritos e sobrasse somente o Sermão da Montanha para os que viessem depois, já seria uma grande lição, uma fantástica lição. Algum de nós já o leu para ver onde nós, Senadores do Brasil, estamos inseridos nesse sermão? Bem-aventurados os pobres de espírito, porque deles é o reino dos céus."
+    },
+    {
+     "inicio_corpo": 14645,
+     "fim_corpo": 15566,
+     "trecho": "Eu sinto a boa vontade e a disposição de fazer presentes nesta Casa. Jamais eu falaria aqui e jamais me dirigiria nestes termos se não fosse com muito carinho e com muito respeito e, de certa forma, mais como uma introspecção minha, um desabafo meu a mim mesmo, do que me dirigindo aos meus colegas. Mas que no próximo ano, Sr. Presidente, tenhamos uma nova visão e que possamos buscar uma nova realidade. Afinal, neste ano, por iniciativa do Presidente Antonio Carlos Magalhães e da ilustre Líder do PT – um apresentando um projeto e a querida Líder sugerindo a criação da Comissão –, nós tivemos momentos que eu nunca tinha visto neste Congresso: Deputados e Senadores de todos os partidos encontraram a unanimidade na tentativa de acertar e de buscar um entendimento. Não digo, como o Presidente Antonio Carlos Magalhães, para erradicar a pobreza, mas, pelo menos, para diminuí-la, o que já foi um grande passo."
+    }
+   ]
+  }
+ ]
+}

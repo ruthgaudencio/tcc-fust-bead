@@ -1,0 +1,1033 @@
+{
+ "caso": "BEAD",
+ "lote": 69,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0323::Posição no trabalho",
+   "unit_id": "W0323",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Greg Hale",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 17892,
+     "fim_corpo": 18935,
+     "trecho": "First, I would recommend that NTIA consider publishing all waivers that have been granted to various states to date in connection with the BEAD program and consider whether these can be made available across the board to all states. A more transparent sense of “what the goalposts or guardrails are” would help everyone and should not take a great deal of time. Testimony of Greg Hale LTC Connect March 5, 2025 Page 9 of 14 Second, there are a few key areas where policy changes through guidance or other program mechanisms could be helpful (and the waivers described above may already address some of these). For example, NTIA could articulate a more reasonable approach to the “low-cost option” that better reﬂects those challenging economics of operating in rural areas noted in my testimony. Further changes with respect to relaxing the letter of credit requirements, workforce obligations, and other policies that do not relate directly to broadband deployment should likewise be considered for guidance from the agency."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0323::Renda e classe",
+   "unit_id": "W0323",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Greg Hale",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 14687,
+     "fim_corpo": 15624,
+     "trecho": "Of that group:  Sixty-one percent of those respondents indicated they would likely default on those loans within the next three years if USF support were eliminated altogether.  Seventy percent of respondents with outstanding network debt of any kind indicated their loans were with the U.S. Department of Agriculture. Congressional action may be necessary to prevent these negative impacts if the Supreme Court upholds the Fifth Circuit decision. We urge members of Congress to stand ready to support legislative efforts that could help to ensure the ongoing viability of USF initiatives and ultimately ensure that every American gets and stays connected. Prompt, thoughtful, and well-crafted action by Congress could help to dispel uncertainty that otherwise might hang over the USF to the detriment of millions of rural and low-income Americans and schools, libraries, and rural healthcare facilities across the nation."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0323::Saúde",
+   "unit_id": "W0323",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Greg Hale",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "health care facilities",
+     "forma_encontrada": "healthcare facilities",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 14687,
+     "fim_corpo": 15624,
+     "trecho": "Of that group:  Sixty-one percent of those respondents indicated they would likely default on those loans within the next three years if USF support were eliminated altogether.  Seventy percent of respondents with outstanding network debt of any kind indicated their loans were with the U.S. Department of Agriculture. Congressional action may be necessary to prevent these negative impacts if the Supreme Court upholds the Fifth Circuit decision. We urge members of Congress to stand ready to support legislative efforts that could help to ensure the ongoing viability of USF initiatives and ultimately ensure that every American gets and stays connected. Prompt, thoughtful, and well-crafted action by Congress could help to dispel uncertainty that otherwise might hang over the USF to the detriment of millions of rural and low-income Americans and schools, libraries, and rural healthcare facilities across the nation."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0323::Urbano e rural",
+   "unit_id": "W0323",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Greg Hale",
+   "n_ocorrencias_no_par": 48,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 42,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 211,
+     "trecho": "Summary of Greg Hale’s Testimony LTC Connect: LTC Connect is a Smart Rural Community℠ Cooperative based in Auburn, Kentucky serving more than 500 square miles in the rural South-Central part of the state."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 211,
+     "trecho": "Summary of Greg Hale’s Testimony LTC Connect: LTC Connect is a Smart Rural Community℠ Cooperative based in Auburn, Kentucky serving more than 500 square miles in the rural South-Central part of the state."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 308,
+     "trecho": "Summary of Greg Hale’s Testimony LTC Connect: LTC Connect is a Smart Rural Community℠ Cooperative based in Auburn, Kentucky serving more than 500 square miles in the rural South-Central part of the state. The economics of deploying and sustaining broadband is the primary barrier to rural broadband."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 697,
+     "trecho": "Summary of Greg Hale’s Testimony LTC Connect: LTC Connect is a Smart Rural Community℠ Cooperative based in Auburn, Kentucky serving more than 500 square miles in the rural South-Central part of the state. The economics of deploying and sustaining broadband is the primary barrier to rural broadband. Universal Service: The fundamental and essential mission of universal service is not just getting customers connected but keeping them connected. Even as grant programs have become more ubiquitous in recent years, and even as many providers of all kinds are leveraging them to connect neglected rural markets, many of the networks already in place today were not funded by grants."
+    },
+    {
+     "inicio_corpo": 211,
+     "fim_corpo": 1041,
+     "trecho": "The economics of deploying and sustaining broadband is the primary barrier to rural broadband. Universal Service: The fundamental and essential mission of universal service is not just getting customers connected but keeping them connected. Even as grant programs have become more ubiquitous in recent years, and even as many providers of all kinds are leveraging them to connect neglected rural markets, many of the networks already in place today were not funded by grants. Instead, they involved a mix of community commitment, private capital, and loans to undertake construction in the ﬁrst instance. The FCC’s Universal Service Fund (USF) programs are under attack in the courts, and the good work they do – and the sustainability and affordability of connectivity for millions of rural Americans – is at risk."
+    },
+    {
+     "inicio_corpo": 211,
+     "fim_corpo": 1283,
+     "trecho": "The economics of deploying and sustaining broadband is the primary barrier to rural broadband. Universal Service: The fundamental and essential mission of universal service is not just getting customers connected but keeping them connected. Even as grant programs have become more ubiquitous in recent years, and even as many providers of all kinds are leveraging them to connect neglected rural markets, many of the networks already in place today were not funded by grants. Instead, they involved a mix of community commitment, private capital, and loans to undertake construction in the ﬁrst instance. The FCC’s Universal Service Fund (USF) programs are under attack in the courts, and the good work they do – and the sustainability and affordability of connectivity for millions of rural Americans – is at risk. If USF support were eliminated, rural Americans’ broadband rates could skyrocket, broadband and investments could drop signiﬁcantly, and outstanding network construction loans, including many held by the federal government could default."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0324::Cultura e informação",
+   "unit_id": "W0324",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Sarah Morris",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "libraries",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 15183,
+     "fim_corpo": 16092,
+     "trecho": "13 As a result, states all included a 11 https://www.digitalinclusion.org/blog/how-digital-skills-are-opening-doors-for-eastern-kentuckians/ 12 https://www.newamerica.org/oti/events/state-community-adoption-initiatives-maximizing-federal-broadband- investments/ 13 IIJA 60304 Digital Equity Plan as part of their BEAD Initial Proposals. The Digital Equity State Planning Grants supported the development of these plans, and the Digital Equity State Capacity Grants are supporting the execution of those plans. Every state received both a Planning and Capacity grant. The Digital Equity Competitive Grant program helps support the implementation of each state’s Digital Equity Plan, ensuring the trusted organizations on the ground, like libraries, houses of worship and senior centers that directly serve unconnected households, are adequately resourced and able to complement the state’s goals."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0324::Domicílio e arranjo familiar",
+   "unit_id": "W0324",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Sarah Morris",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2125,
+     "fim_corpo": 3089,
+     "trecho": "I share your sense of urgency about beginning construction, but making significant changes to BEAD would create delays, not solve them. 1 IIJA 60101 (1) Moreover, a cornerstone of this law is its state-driven approach. Congress recognized that states know best when it comes to the needs on the ground, and NTIA left ample flexibility for states to make their own choices about how to meet the goal of connecting everyone in the country. Benefits of the IIJA Broadband Grant Programs These investments are critical. The IIJA broadband grant programs were designed—wisely—to clear the economic and social hurdles that keep the most expensive and hardest to reach communities offline. Without high-speed Internet service and the tools to use it, these communities lack the baseline resources to propel transformative economic investment, and the households in these communities lack access to healthcare, jobs, education, and other critical resources."
+    },
+    {
+     "inicio_corpo": 8967,
+     "fim_corpo": 9747,
+     "trecho": "6 5 IIJA 60102 (h)(4)(B) 6 See https://www.linkedin.com/pulse/affordability-bead-low-cost-options-every-state-jake-varn-iynye/ States have approached the low-cost option in a variety of reasonable, common-sense and market-driven ways. Most states have set a fixed number, but many have set a range or allow for a waiver to the baseline requirement. The offerings range from $15 to up to $110. Many states index their requirements to specific metrics like the federal poverty rate or the FCC’s Urban Rate Survey and allow for modifications to the cost of the offerings over time, either automatically or by requests.7 In short, the state-driven approach laid out by Congress is working, and it will ensure that all households are able to benefit from these investments."
+    },
+    {
+     "inicio_corpo": 15183,
+     "fim_corpo": 16092,
+     "trecho": "13 As a result, states all included a 11 https://www.digitalinclusion.org/blog/how-digital-skills-are-opening-doors-for-eastern-kentuckians/ 12 https://www.newamerica.org/oti/events/state-community-adoption-initiatives-maximizing-federal-broadband- investments/ 13 IIJA 60304 Digital Equity Plan as part of their BEAD Initial Proposals. The Digital Equity State Planning Grants supported the development of these plans, and the Digital Equity State Capacity Grants are supporting the execution of those plans. Every state received both a Planning and Capacity grant. The Digital Equity Competitive Grant program helps support the implementation of each state’s Digital Equity Plan, ensuring the trusted organizations on the ground, like libraries, houses of worship and senior centers that directly serve unconnected households, are adequately resourced and able to complement the state’s goals."
+    },
+    {
+     "inicio_corpo": 15526,
+     "fim_corpo": 16421,
+     "trecho": "The Digital Equity State Planning Grants supported the development of these plans, and the Digital Equity State Capacity Grants are supporting the execution of those plans. Every state received both a Planning and Capacity grant. The Digital Equity Competitive Grant program helps support the implementation of each state’s Digital Equity Plan, ensuring the trusted organizations on the ground, like libraries, houses of worship and senior centers that directly serve unconnected households, are adequately resourced and able to complement the state’s goals. These grants are under way, with 65 awards announced as of January 20 th.14 Without adequate support for these communities as they come online for the first time, the potential of (and return on) the infrastructure investments will never be realized—networks will simply be built to households that cannot or will not adopt."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0324::Escolaridade e letramento",
+   "unit_id": "W0324",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Sarah Morris",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "digital literacy",
+     "forma_encontrada": "digital literacy",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12936,
+     "fim_corpo": 13770,
+     "trecho": "This is a feature, not a bug, of the bipartisan IIJA and the prior administration’s faithful implementation of that law. Moreover, this approach is working—industry engagement in BEAD is strong, and the states at the forefront of program implementation like Louisiana and Nevada are indeed anticipating awards across a range of network types. Changing the approach at this stage is unwarranted and will undercut the smart planning and execution that is already happening throughout the states. Supporting New Internet Users The IIJA broadband grant programs are designed to bring connectivity to people and communities that have, in many cases, remained unconnected for decades. This divide exists not only because of deployment challenges, but also because of digital literacy challenges and concerns about online safety."
+    },
+    {
+     "inicio_corpo": 13624,
+     "fim_corpo": 14505,
+     "trecho": "This divide exists not only because of deployment challenges, but also because of digital literacy challenges and concerns about online safety. Some populations are slower to adopt even when broadband is available because it may be unaffordable and unfamiliar to them. They need support to adopt and maximize the value of Internet service. In many cases, these are seniors, veterans, and people in rural areas. To fully realize the economic potential of the infrastructure investments, the people connected to the infrastructure must be adequately supported as they come online. Examples abound of the impact that this type of support can achieve. Here are two: In Appalachia Kentucky, a resident helps others in her community navigate online tools like educational platforms for coursework, allowing students to keep pace with coursework and succeed in their education."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0324::Idade",
+   "unit_id": "W0324",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Sarah Morris",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "youth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "seniors",
+     "forma_encontrada": "seniors",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3361,
+     "fim_corpo": 4162,
+     "trecho": "The VA has found that virtual mental health appointments can be just as effective as in-person visits,2 and certain recipients of connected tablets have a 36 percent reduction in suicide-related emergency department visits when compared to their peers in the digital divide.3 For veterans, connectivity is literally a life-or-death resource. In rural areas, the lack of access can drag down entire communities. Without connectivity, rural areas are more susceptible to brain drain, economic stagnation, worse health outcomes, and lower property values. However, in areas that invest in broadband, like Bemidji, MN, the benefits can be enormous. After implementing universal fiber, Bemidji saw a boom in entrepreneurship, business revenue, telehealth adoption, and positive youth activities."
+    },
+    {
+     "inicio_corpo": 13284,
+     "fim_corpo": 14040,
+     "trecho": "Changing the approach at this stage is unwarranted and will undercut the smart planning and execution that is already happening throughout the states. Supporting New Internet Users The IIJA broadband grant programs are designed to bring connectivity to people and communities that have, in many cases, remained unconnected for decades. This divide exists not only because of deployment challenges, but also because of digital literacy challenges and concerns about online safety. Some populations are slower to adopt even when broadband is available because it may be unaffordable and unfamiliar to them. They need support to adopt and maximize the value of Internet service. In many cases, these are seniors, veterans, and people in rural areas."
+    },
+    {
+     "inicio_corpo": 15183,
+     "fim_corpo": 16092,
+     "trecho": "13 As a result, states all included a 11 https://www.digitalinclusion.org/blog/how-digital-skills-are-opening-doors-for-eastern-kentuckians/ 12 https://www.newamerica.org/oti/events/state-community-adoption-initiatives-maximizing-federal-broadband- investments/ 13 IIJA 60304 Digital Equity Plan as part of their BEAD Initial Proposals. The Digital Equity State Planning Grants supported the development of these plans, and the Digital Equity State Capacity Grants are supporting the execution of those plans. Every state received both a Planning and Capacity grant. The Digital Equity Competitive Grant program helps support the implementation of each state’s Digital Equity Plan, ensuring the trusted organizations on the ground, like libraries, houses of worship and senior centers that directly serve unconnected households, are adequately resourced and able to complement the state’s goals."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0324::Infraestrutura e porte populacional",
+   "unit_id": "W0324",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Sarah Morris",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved locations",
+     "forma_encontrada": "underserved locations",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4787,
+     "fim_corpo": 5800,
+     "trecho": "Re- litigation of the law and the inevitable delays it would cause will only disrupt these benefits and perpetuate the harms. 2 https://pmc ncbi nlm nih.gov/articles/PMC11420580/ 3 https://europepmc.org/article/MED/35385088 4 https://ruralinnovation.us/blog/broadband-case-study-bemidji-minnesota/ Current Status of BEAD We have seen much hand wringing about the slow pace of BEAD. The persistent lack of access in the hardest to serve corners of our country remains a deep and urgent concern. It is also a challenging problem to solve, and solutions must be driven by and tailored to the needs of each state. Congress wisely laid out a state-driven approach, and with it, a 14-step process to ensure that BEAD’s unprecedented federal investment would be spent wisely, carefully, and be based on the best data available at the time. If these unserved and underserved locations were easy to reach through a single policy lever or a simple disbursement of funds, they would have already been served."
+    },
+    {
+     "inicio_corpo": 4787,
+     "fim_corpo": 5800,
+     "trecho": "Re- litigation of the law and the inevitable delays it would cause will only disrupt these benefits and perpetuate the harms. 2 https://pmc ncbi nlm nih.gov/articles/PMC11420580/ 3 https://europepmc.org/article/MED/35385088 4 https://ruralinnovation.us/blog/broadband-case-study-bemidji-minnesota/ Current Status of BEAD We have seen much hand wringing about the slow pace of BEAD. The persistent lack of access in the hardest to serve corners of our country remains a deep and urgent concern. It is also a challenging problem to solve, and solutions must be driven by and tailored to the needs of each state. Congress wisely laid out a state-driven approach, and with it, a 14-step process to ensure that BEAD’s unprecedented federal investment would be spent wisely, carefully, and be based on the best data available at the time. If these unserved and underserved locations were easy to reach through a single policy lever or a simple disbursement of funds, they would have already been served."
+    },
+    {
+     "inicio_corpo": 7434,
+     "fim_corpo": 8210,
+     "trecho": "But, per NTIA dashboard, only 47/56 have \"concluded\" their challenge process. ^ 30 in process, but only 4 completed. In summary: states are nearly at the finish line. To stop their progress now—or worse, to make them go backwards—would be a stick in the spokes of the most promising broadband deployment plans we have ever seen. Nearly every state has identified the locations it will put out to bid, many are actively reviewing and accepting bids for work, and all states have spent the past three years honing the best approach for their sub-grant processes based on the law Congress wrote. Each approach is driven by the unique needs in the state—the geography, topography, number and type of service providers, and number of unserved and underserved locations."
+    },
+    {
+     "inicio_corpo": 7434,
+     "fim_corpo": 8210,
+     "trecho": "But, per NTIA dashboard, only 47/56 have \"concluded\" their challenge process. ^ 30 in process, but only 4 completed. In summary: states are nearly at the finish line. To stop their progress now—or worse, to make them go backwards—would be a stick in the spokes of the most promising broadband deployment plans we have ever seen. Nearly every state has identified the locations it will put out to bid, many are actively reviewing and accepting bids for work, and all states have spent the past three years honing the best approach for their sub-grant processes based on the law Congress wrote. Each approach is driven by the unique needs in the state—the geography, topography, number and type of service providers, and number of unserved and underserved locations."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0324::Macrorregião",
+   "unit_id": "W0324",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Sarah Morris",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6466,
+     "fim_corpo": 7434,
+     "trecho": "h the broadband DATA maps before NTIA allocates funds (and states needed opportunities to challenge map for accuracy) ꜱ Step 7 NTIA must use the FCC maps to make allocation decisions ꜱ Step 8 States must submit an Initial Proposal to NTIA 56/56 ꜱ Step 9 NTIA must review and approve each state’s initial proposal 56/56 ꜱ Step 10 States must publish their own map and allow challenges 56/56 ꜱ Step 11 NTIA must review and approve challenge results and final map *47/56 ꜱ Step 12 States must run a competitive sub- granting process ^30/56 ꜱ Step 13 States must submit a Final Proposal to NTIA 3/56 ꜱ Step 14 NTIA must review and approve the state’s Final Proposal 3/56 ꜱ Source: NTIA BEAD Dashboard https://www.ntia.gov/funding-programs/internet-all/broadband-equity-access-and-deployment-bead- program/progress-dashboardprogress-dashboard (includes states and territories) * 56/56 have finished running their challenge window."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0324::Posição no trabalho",
+   "unit_id": "W0324",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Sarah Morris",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3707,
+     "fim_corpo": 4696,
+     "trecho": "In rural areas, the lack of access can drag down entire communities. Without connectivity, rural areas are more susceptible to brain drain, economic stagnation, worse health outcomes, and lower property values. However, in areas that invest in broadband, like Bemidji, MN, the benefits can be enormous. After implementing universal fiber, Bemidji saw a boom in entrepreneurship, business revenue, telehealth adoption, and positive youth activities. Bemidji now leads most other rural communities on economic metrics and, due to their network's scalability, is well positioned to integrate new technologies on top of the network. 4 This money is an investment in states that will pay immediate and long-term economic dividends. Onshoring of fiber production facilities, workforce development to build the networks, and the economic benefits that come from having communities connected to cutting- edge technology—these are all direct outcomes of IIJA’s broadband grant programs."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0324::Saúde",
+   "unit_id": "W0324",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Sarah Morris",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3222,
+     "fim_corpo": 4162,
+     "trecho": "For example, a lack of affordable, high-speed Internet service prevents veterans across the country from receiving lifesaving treatment. The VA has found that virtual mental health appointments can be just as effective as in-person visits,2 and certain recipients of connected tablets have a 36 percent reduction in suicide-related emergency department visits when compared to their peers in the digital divide.3 For veterans, connectivity is literally a life-or-death resource. In rural areas, the lack of access can drag down entire communities. Without connectivity, rural areas are more susceptible to brain drain, economic stagnation, worse health outcomes, and lower property values. However, in areas that invest in broadband, like Bemidji, MN, the benefits can be enormous. After implementing universal fiber, Bemidji saw a boom in entrepreneurship, business revenue, telehealth adoption, and positive youth activities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0324::Urbano e rural",
+   "unit_id": "W0324",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Sarah Morris",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2819,
+     "fim_corpo": 3777,
+     "trecho": "Without high-speed Internet service and the tools to use it, these communities lack the baseline resources to propel transformative economic investment, and the households in these communities lack access to healthcare, jobs, education, and other critical resources. Similarly, ISPs serving these communities face a challenging business case to justify their capital investment and operating costs. For example, a lack of affordable, high-speed Internet service prevents veterans across the country from receiving lifesaving treatment. The VA has found that virtual mental health appointments can be just as effective as in-person visits,2 and certain recipients of connected tablets have a 36 percent reduction in suicide-related emergency department visits when compared to their peers in the digital divide.3 For veterans, connectivity is literally a life-or-death resource. In rural areas, the lack of access can drag down entire communities."
+    },
+    {
+     "inicio_corpo": 3089,
+     "fim_corpo": 3921,
+     "trecho": "Similarly, ISPs serving these communities face a challenging business case to justify their capital investment and operating costs. For example, a lack of affordable, high-speed Internet service prevents veterans across the country from receiving lifesaving treatment. The VA has found that virtual mental health appointments can be just as effective as in-person visits,2 and certain recipients of connected tablets have a 36 percent reduction in suicide-related emergency department visits when compared to their peers in the digital divide.3 For veterans, connectivity is literally a life-or-death resource. In rural areas, the lack of access can drag down entire communities. Without connectivity, rural areas are more susceptible to brain drain, economic stagnation, worse health outcomes, and lower property values."
+    },
+    {
+     "inicio_corpo": 3361,
+     "fim_corpo": 4344,
+     "trecho": "The VA has found that virtual mental health appointments can be just as effective as in-person visits,2 and certain recipients of connected tablets have a 36 percent reduction in suicide-related emergency department visits when compared to their peers in the digital divide.3 For veterans, connectivity is literally a life-or-death resource. In rural areas, the lack of access can drag down entire communities. Without connectivity, rural areas are more susceptible to brain drain, economic stagnation, worse health outcomes, and lower property values. However, in areas that invest in broadband, like Bemidji, MN, the benefits can be enormous. After implementing universal fiber, Bemidji saw a boom in entrepreneurship, business revenue, telehealth adoption, and positive youth activities. Bemidji now leads most other rural communities on economic metrics and, due to their network's scalability, is well positioned to integrate new technologies on top of the network."
+    },
+    {
+     "inicio_corpo": 4162,
+     "fim_corpo": 5177,
+     "trecho": "Bemidji now leads most other rural communities on economic metrics and, due to their network's scalability, is well positioned to integrate new technologies on top of the network. 4 This money is an investment in states that will pay immediate and long-term economic dividends. Onshoring of fiber production facilities, workforce development to build the networks, and the economic benefits that come from having communities connected to cutting- edge technology—these are all direct outcomes of IIJA’s broadband grant programs. These programs will make real, measurable differences for communities across the country. Re- litigation of the law and the inevitable delays it would cause will only disrupt these benefits and perpetuate the harms. 2 https://pmc ncbi nlm nih.gov/articles/PMC11420580/ 3 https://europepmc.org/article/MED/35385088 4 https://ruralinnovation.us/blog/broadband-case-study-bemidji-minnesota/ Current Status of BEAD We have seen much hand wringing about the slow pace of BEAD."
+    },
+    {
+     "inicio_corpo": 11673,
+     "fim_corpo": 12466,
+     "trecho": "To address this concern, NTIA implemented an “Extremely High Cost Threshold” that directs states to set an amount above which any technology, including unlicensed fixed wireless and low-earth orbit (LEO) satellite service, could be used if other technologies would exceed that threshold. 7 See https://www.linkedin.com/pulse/affordability-bead-low-cost-options-every-state-jake-varn-iynye/ 8 https://www.benton.org/blog/my-oh-i-wish-closing-argument-house-bead-hearing 9 IIJA 60102 (a)(2)(L) 10 https://www.ntia.gov/other-publication/2025/final-bead-alternative-broadband-technology-policy-notice This approach—to push the most future-proof technologies wherever possible—is important in ensuring that the $42.5 billion BEAD investment doesn’t simply recreate a rural-urban divide."
+    },
+    {
+     "inicio_corpo": 13284,
+     "fim_corpo": 14040,
+     "trecho": "Changing the approach at this stage is unwarranted and will undercut the smart planning and execution that is already happening throughout the states. Supporting New Internet Users The IIJA broadband grant programs are designed to bring connectivity to people and communities that have, in many cases, remained unconnected for decades. This divide exists not only because of deployment challenges, but also because of digital literacy challenges and concerns about online safety. Some populations are slower to adopt even when broadband is available because it may be unaffordable and unfamiliar to them. They need support to adopt and maximize the value of Internet service. In many cases, these are seniors, veterans, and people in rural areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0324::Vínculo institucional",
+   "unit_id": "W0324",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Sarah Morris",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "veterans",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "veterans",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "veterans",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "veterans",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2570,
+     "fim_corpo": 3361,
+     "trecho": "Benefits of the IIJA Broadband Grant Programs These investments are critical. The IIJA broadband grant programs were designed—wisely—to clear the economic and social hurdles that keep the most expensive and hardest to reach communities offline. Without high-speed Internet service and the tools to use it, these communities lack the baseline resources to propel transformative economic investment, and the households in these communities lack access to healthcare, jobs, education, and other critical resources. Similarly, ISPs serving these communities face a challenging business case to justify their capital investment and operating costs. For example, a lack of affordable, high-speed Internet service prevents veterans across the country from receiving lifesaving treatment."
+    },
+    {
+     "inicio_corpo": 2819,
+     "fim_corpo": 3707,
+     "trecho": "Without high-speed Internet service and the tools to use it, these communities lack the baseline resources to propel transformative economic investment, and the households in these communities lack access to healthcare, jobs, education, and other critical resources. Similarly, ISPs serving these communities face a challenging business case to justify their capital investment and operating costs. For example, a lack of affordable, high-speed Internet service prevents veterans across the country from receiving lifesaving treatment. The VA has found that virtual mental health appointments can be just as effective as in-person visits,2 and certain recipients of connected tablets have a 36 percent reduction in suicide-related emergency department visits when compared to their peers in the digital divide.3 For veterans, connectivity is literally a life-or-death resource."
+    },
+    {
+     "inicio_corpo": 13284,
+     "fim_corpo": 14040,
+     "trecho": "Changing the approach at this stage is unwarranted and will undercut the smart planning and execution that is already happening throughout the states. Supporting New Internet Users The IIJA broadband grant programs are designed to bring connectivity to people and communities that have, in many cases, remained unconnected for decades. This divide exists not only because of deployment challenges, but also because of digital literacy challenges and concerns about online safety. Some populations are slower to adopt even when broadband is available because it may be unaffordable and unfamiliar to them. They need support to adopt and maximize the value of Internet service. In many cases, these are seniors, veterans, and people in rural areas."
+    },
+    {
+     "inicio_corpo": 13770,
+     "fim_corpo": 14746,
+     "trecho": "Some populations are slower to adopt even when broadband is available because it may be unaffordable and unfamiliar to them. They need support to adopt and maximize the value of Internet service. In many cases, these are seniors, veterans, and people in rural areas. To fully realize the economic potential of the infrastructure investments, the people connected to the infrastructure must be adequately supported as they come online. Examples abound of the impact that this type of support can achieve. Here are two: In Appalachia Kentucky, a resident helps others in her community navigate online tools like educational platforms for coursework, allowing students to keep pace with coursework and succeed in their education. 11 At a recent event, the head of Arkansas’ state broadband office talked about the opportunities of access, the impact of connectivity on rural residents and veterans and the barriers that exist for those constituencies to get connected."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0325::Infraestrutura e porte populacional",
+   "unit_id": "W0325",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Tim Donovan",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4323,
+     "fim_corpo": 5187,
+     "trecho": "These actions are critical to ensuring that all Americans have access to reliable broadband services that support economic growth, innovation, and connectivity in today’s digital world. USF is Critical to Providing and Maintaining Connectivity. USF is the most effective tool for bridging the digital divide, including preserving existing networks while work continues to expand broadband access. Congress codified principles for USF in the Telecommunications Act of 1996, directing the Federal Communications Commission (FCC) to ensure that consumers in all areas have services and rates that are “reasonably comparable” to those provided in urban areas. As the backbone for connectivity for rural and underserved communities, USF is indispensable for ensuring that carriers and consumers in high-cost and hard to reach areas have access to service."
+    },
+    {
+     "inicio_corpo": 4574,
+     "fim_corpo": 5466,
+     "trecho": "USF is the most effective tool for bridging the digital divide, including preserving existing networks while work continues to expand broadband access. Congress codified principles for USF in the Telecommunications Act of 1996, directing the Federal Communications Commission (FCC) to ensure that consumers in all areas have services and rates that are “reasonably comparable” to those provided in urban areas. As the backbone for connectivity for rural and underserved communities, USF is indispensable for ensuring that carriers and consumers in high-cost and hard to reach areas have access to service. Because rural and remote areas require significant upfront costs with lower potential revenue than urban markets, CCA members rely on this support, combined with private investment, to deploy and maintain networks in areas that would otherwise remain unserved or underserved."
+    },
+    {
+     "inicio_corpo": 4574,
+     "fim_corpo": 5466,
+     "trecho": "USF is the most effective tool for bridging the digital divide, including preserving existing networks while work continues to expand broadband access. Congress codified principles for USF in the Telecommunications Act of 1996, directing the Federal Communications Commission (FCC) to ensure that consumers in all areas have services and rates that are “reasonably comparable” to those provided in urban areas. As the backbone for connectivity for rural and underserved communities, USF is indispensable for ensuring that carriers and consumers in high-cost and hard to reach areas have access to service. Because rural and remote areas require significant upfront costs with lower potential revenue than urban markets, CCA members rely on this support, combined with private investment, to deploy and maintain networks in areas that would otherwise remain unserved or underserved."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0325::Posição no trabalho",
+   "unit_id": "W0325",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Tim Donovan",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 14776,
+     "fim_corpo": 15558,
+     "trecho": "Satellite services are increasingly growing as effective solutions for the most remote areas. States should be able to choose the right blend of all these services to efficiently connect all Americans. Additionally, policymakers should avoid conditions that make BEAD participation prohibitively challenging, including labor requirements that can be particularly challenging in 8 rural markets; complexities regarding affordability plans, especially where ongoing support may not be available; uncertainty regarding other aspects that set artificial benchmarks that frustrate technological neutrality; and needlessly challenging permitting processes. Supporting workforce development and permitting processing improvements can help address some of these concerns."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0325::Territórios de povos e comunidades tradicionais",
+   "unit_id": "W0325",
+   "subcategoria": "Territórios de povos e comunidades tradicionais",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Tim Donovan",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Tribal governments",
+     "forma_encontrada": "Tribal governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 23992,
+     "fim_corpo": 24983,
+     "trecho": "Efficient, manageable, and predictable permitting processes will be increasingly necessary to process the volume of applications and workload which will inevitably come with the rollout of BEAD and other programs. This Committee has a strong record on these issues, notably in RAY BAUM’s Act by promoting the use of standard applications for deployments on federal property; creating a shot clock for application reviews by executive agencies; creating a database of federal property 13 capable of supporting broadband infrastructure; and furthering the adoption of dig-once policies. CCA encourages this Subcommittee to build on these actions and remove the additional barriers to deployment, particularly on Federal lands, and policy actions which could incentivize state, local, and Tribal governments to adopt streamlined process independently, outside of a Congressional mandate, to facilitate upgrades and deployments through their zoning and permitting functions."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0325::Urbano e rural",
+   "unit_id": "W0325",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Tim Donovan",
+   "n_ocorrencias_no_par": 28,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 22,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 771,
+     "trecho": "Testimony of Tim Donovan, President & CEO of Competitive Carriers Association Before the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology Wednesday, March 5, 2025 As efforts to achieve ubiquitous connectivity continue, this Subcommittee plays a key role in shaping policies to work towards that goal. Competitive Carriers Association (CCA) represents communications providers ranging from small, rural providers, serving fewer than 5,000 customers, to regional and nationwide providers serving millions, as well as vendors and suppliers throughout the communications ecosystem, connecting communities using all technologies available, including mobile, fixed wireless, wired, and satellite."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 990,
+     "trecho": "Testimony of Tim Donovan, President & CEO of Competitive Carriers Association Before the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology Wednesday, March 5, 2025 As efforts to achieve ubiquitous connectivity continue, this Subcommittee plays a key role in shaping policies to work towards that goal. Competitive Carriers Association (CCA) represents communications providers ranging from small, rural providers, serving fewer than 5,000 customers, to regional and nationwide providers serving millions, as well as vendors and suppliers throughout the communications ecosystem, connecting communities using all technologies available, including mobile, fixed wireless, wired, and satellite. Every day, CCA members work to provide high quality broadband services by upgrading and expanding their networks, including in rural communities and some of the most remote and hard to reach areas across the country."
+    },
+    {
+     "inicio_corpo": 990,
+     "fim_corpo": 1739,
+     "trecho": "Executive Summary: Our industry needs decisive action from the government to survive and to expand services, including through: • addressing an existential threat to the Universal Service Fund (USF) and updating aspects to continue this important program; • improving the 5G Fund and basing eligibility on reliable data; • supporting successful implementation of the Broadband, Equity, Access, and Deployment (BEAD) Program with reasonable modifications; • supporting network security; • restoring spectrum auction authority and making additional full power spectrum available for wireless use; • and reforming the siting and permitting process to provide operators with greater certainty and drive rural broadband deployment."
+    },
+    {
+     "inicio_corpo": 1739,
+     "fim_corpo": 2390,
+     "trecho": "These actions are critical to ensuring that all Americans have access to reliable broadband services that support economic growth, innovation, and connectivity in today’s digital world. Testimony of Tim Donovan President & CEO Competitive Carriers Association Before the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology Wednesday, March 5, 2025 1 Chairman Hudson, Ranking Member Matsui, and Members of the Subcommittee, thank you for the opportunity to testify about the challenges facing rural communications providers."
+    },
+    {
+     "inicio_corpo": 1739,
+     "fim_corpo": 2924,
+     "trecho": "These actions are critical to ensuring that all Americans have access to reliable broadband services that support economic growth, innovation, and connectivity in today’s digital world. Testimony of Tim Donovan President & CEO Competitive Carriers Association Before the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology Wednesday, March 5, 2025 1 Chairman Hudson, Ranking Member Matsui, and Members of the Subcommittee, thank you for the opportunity to testify about the challenges facing rural communications providers. As efforts to achieve ubiquitous connectivity continue, this Subcommittee plays a key role in shaping policies to work towards that goal. Competitive Carriers Association (CCA) represents communications providers ranging from small, rural providers, serving fewer than 5,000 customers, to regional and nationwide providers serving millions, as well as vendors and suppliers throughout the communications ecosystem, connecting communities using all technologies available, including mobile, fixed wireless, wired, and satellite."
+    },
+    {
+     "inicio_corpo": 2390,
+     "fim_corpo": 3144,
+     "trecho": "As efforts to achieve ubiquitous connectivity continue, this Subcommittee plays a key role in shaping policies to work towards that goal. Competitive Carriers Association (CCA) represents communications providers ranging from small, rural providers, serving fewer than 5,000 customers, to regional and nationwide providers serving millions, as well as vendors and suppliers throughout the communications ecosystem, connecting communities using all technologies available, including mobile, fixed wireless, wired, and satellite. Every day, CCA members work to provide high quality broadband services by upgrading and expanding their networks, including in rural communities and some of the most remote and hard to reach areas across the country."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0327::Educação",
+   "unit_id": "W0327",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jamil Jaffer",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 983,
+     "fim_corpo": 1824,
+     "trecho": "I want to be clear here—while recent reports have come to light about the apparently highly successful Chinese government penetration of United States telecommunications networks, as well as their newly-discovered efforts to infiltrate destructive capabilities into the heart of global networks—these efforts, known as Salt Typhoon and Volt Typhoon, respectively, are only part of the story. There is a much larger effort afoot in the cyber domain, architected not just by China, 1 Jamil N. Jaffer currently serves as Founder & Executive Director of the National Security Institute and the NSI Cyber & Tech Center and as an Assistant Professor of Law and Director of the National Security Law & Policy Program and the Cyber, Intelligence, and National Security LL.M. Program at the Antonin Scalia Law School at George Mason University."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0327::Idade",
+   "unit_id": "W0327",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jamil Jaffer",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1755,
+     "fim_corpo": 2579,
+     "trecho": "Program at the Antonin Scalia Law School at George Mason University. Mr. Jaffer is also a Venture Partner at Paladin Capital Group, a leading global multi-stage investor that identifies, supports and invests in innovative companies that develop promising, early-stage technologies to address the critical cyber and advanced technological needs of both commercial and government customers. Mr. Jaffer serves on a variety of public and private boards of directors and advisory boards, including his recent appointment to serve as a member of the Virginia Governor’s Task Force on Artificial Intelligence. Among other things, Mr. Jaffer previously served as Chief Counsel & Senior Advisor to the Senate Foreign Relations Committee, Senior Counsel to the House Intelligence Committee, Associate Counsel to President George W."
+    },
+    {
+     "inicio_corpo": 1755,
+     "fim_corpo": 2579,
+     "trecho": "Program at the Antonin Scalia Law School at George Mason University. Mr. Jaffer is also a Venture Partner at Paladin Capital Group, a leading global multi-stage investor that identifies, supports and invests in innovative companies that develop promising, early-stage technologies to address the critical cyber and advanced technological needs of both commercial and government customers. Mr. Jaffer serves on a variety of public and private boards of directors and advisory boards, including his recent appointment to serve as a member of the Virginia Governor’s Task Force on Artificial Intelligence. Among other things, Mr. Jaffer previously served as Chief Counsel & Senior Advisor to the Senate Foreign Relations Committee, Senior Counsel to the House Intelligence Committee, Associate Counsel to President George W."
+    },
+    {
+     "inicio_corpo": 38302,
+     "fim_corpo": 39128,
+     "trecho": "3. 2024), available online at <https://therecord.media/salt-typhoon-csrb-review>. 66 See Federal Communications Commission, Chairwoman Rosenworcel Announces Agency Action to Require Telecom Carriers to Secure their Networks (Dec. 5, 2024), available online at <https://docs fcc.gov/public/attachments/DOC-408013A1.pdf>. 13 enforcement agency seals from four different countries,67 and legislation introduced by at least one Senator,68 we have precious little to show for this hacks. According to press reports, at least some of the telecommunications companies involved have managed to remove the attackers (or at least those they could identify),69 and the breadth of the hack appears to have been global, affecting at least nine telecommunications companies,70 at least a dozen nations,71 and targeting senior U.S."
+    },
+    {
+     "inicio_corpo": 41257,
+     "fim_corpo": 41788,
+     "trecho": "71 See Aamer Madhani, White House says at least 8 US telecom firms, dozens of nations impacted by China hacking campaign, Associated Press (Dec. 4, 2024), available online at <https://apnews.com/article/china-hack-us-telecoms-salt-typhoon-88cabc592dae2fa870772c5ce4ace5ea> (“A top White House official on Wednesday said at least eight U.S. telecom firms and dozens of nations have been impacted by a Chinese hacking campaign…”). 72 Id. (“The U.S. believes that the hackers were able to gain access to communications of senior U.S."
+    }
+   ]
+  }
+ ]
+}

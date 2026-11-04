@@ -1,0 +1,933 @@
+{
+ "caso": "FUST",
+ "lote": 25,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0152::Urbano e rural",
+   "unit_id": "S0152",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-23",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "Campo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5222,
+     "fim_corpo": 6118,
+     "trecho": "Desde 1992, essa proposta se encontra naquela Casa, aguardando votação. A ponderação do Executivo sempre foi a de que não havia recursos suficientes. Agora, pretende-se criar um Fundo de Combate e Erradicação da Pobreza e espera-se arrecadar pelo menos R$4 bilhões. Precisamos destinar pelo menos três quartos desse Fundo para transferências diretas de renda, por intermédio do Programa de Garantia de Renda Mínima, e adicionar a essa iniciativa os esforços dos Estados e Municípios que começam a ampliar a instituição de programas de garantia de renda mínima. No Município de Rio Claro, onde estive na segunda-feira, o Prefeito Cláudio Antônio de Mauro, que é do Partido Verde, instituiu o programa para atender, inicialmente, 70 famílias e o colocou em prática. No Município de São Bernardo do Campo, o Prefeito Maurício Soares sancionou lei nesse sentido em meados do ano passado."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0153::Posição no trabalho",
+   "unit_id": "S0153",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-23",
+   "orador": "Osmar Dias",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 596,
+     "fim_corpo": 1484,
+     "trecho": "Para justificá-lo, apresento alguns dados, quais sejam: as lojas free shop começaram a funcionar em 1979, e já em 1980, só as lojas pertencentes à Brasif faturaram US$5milhões, passando a faturar, em 1997, US$313milhões; em 1998, US$281milhões. Evidentemente tudo com isenção de impostos que, segundo cálculos da Receita, a renúncia chegou, de 1990 a 1994, a US$674milhões; em 1997, a renúncia foi de R$168milhões; em 1998, R$150milhões; em 1999, R$118milhões e para o ano 2000 estima-se que chegará a R$184milhões. Todo esse dinheiro evidentemente poderia estar contribuindo também para a composição do Fundo de Combate à Pobreza se acabássemos com a renúncia fiscal nas lojas free shop, porque, afinal de contas, essas lojas só atendem àqueles que viajam de avião. E, pelo que me consta, não podem viajar de avião os trabalhadores, aqueles que têm um poder aquisitivo mais baixo."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0153::Renda e classe",
+   "unit_id": "S0153",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-23",
+   "orador": "Osmar Dias",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 304,
+     "trecho": "O SR. OSMAR DIAS (PSDB - PR. Para comunicação inadiável. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, para colaborar também com os que estão preocupados em identificar receitas que possam compor o Fundo de Combate à Pobreza, estou dando entrada em um projeto de lei que revoga o art."
+    },
+    {
+     "inicio_corpo": 485,
+     "fim_corpo": 1369,
+     "trecho": "O meu projeto, recém-apresentado, revoga o artigo e, portanto, acaba com a renúncia fiscal nessas lojas. Para justificá-lo, apresento alguns dados, quais sejam: as lojas free shop começaram a funcionar em 1979, e já em 1980, só as lojas pertencentes à Brasif faturaram US$5milhões, passando a faturar, em 1997, US$313milhões; em 1998, US$281milhões. Evidentemente tudo com isenção de impostos que, segundo cálculos da Receita, a renúncia chegou, de 1990 a 1994, a US$674milhões; em 1997, a renúncia foi de R$168milhões; em 1998, R$150milhões; em 1999, R$118milhões e para o ano 2000 estima-se que chegará a R$184milhões. Todo esse dinheiro evidentemente poderia estar contribuindo também para a composição do Fundo de Combate à Pobreza se acabássemos com a renúncia fiscal nas lojas free shop, porque, afinal de contas, essas lojas só atendem àqueles que viajam de avião."
+    },
+    {
+     "inicio_corpo": 2429,
+     "fim_corpo": 3871,
+     "trecho": "Afinal de contas, 12 mil garrafas de uísque ao dia – é preciso até que a gente reflita a respeito desse número – talvez seja comparado somente à cachaça que se vende no País o que vendeu nas lojas free shop . E olhem que essas 12 mil garrafas foram vendidas em apenas 8 lojas, segundo informações da própria Brasif! Sr. Presidente, fiz um levantamento e constatei que hoje temos 22 lojas de free shop – 9 lojas de entrada e 13 de saída –, sendo que 16 das 22 lojas pertencem a uma única empresa, a Brasif. Sr. Presidente, ao dar entrada nesse projeto, peço o apoio dos Srs. Senadores para que ele tenha uma tramitação rápida, tendo em vista a sua importância perante a sociedade brasileira, principalmente nesse momento em que buscamos alternativas à identificação de fontes de receitas para a composição do Fundo de Pobreza. Acabar com os privilégios, acabar com a renúncia fiscal, acabar, portanto, com a isenção fiscal das lojas free shop nos aeroportos no Brasil - o que não se justifica neste momento em que todos estão dando sua cota de sacrifício. Voltarei ao assunto com mais detalhes na semana que vem, num pronunciamento que pretendo fazer. Hoje, manifesto-me apenas para comunicar que dei entrada a este Projeto de Lei, que já está na Mesa do Senado, protocolado, esperando que seja analisado pelas Comissões Técnicas, para que possamos votá-lo, aqui, o mais breve possível. Muito obrigado. 5 ¦"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0154::Domicílio e arranjo familiar",
+   "unit_id": "S0154",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-24",
+   "orador": "Roberto Saturnino",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3337,
+     "fim_corpo": 4278,
+     "trecho": "É inútil pensar que vamos conseguir formas de controlar a criminalidade, uma vez que não há recursos. Os Governos Estaduais e Federal não têm recursos, e é isso o que deseja o mercado financeiro internacional, que impõe a sua lei a fim de que todos os recursos sejam desviados para o pagamento dos títulos, os quais circulam com uma velocidade gigantesca e com volume estratosférico no mundo de hoje. Para isso não há saída. E, quando há alguma esperança no horizonte, vem imediatamente uma resposta negativa. Sr. Presidente, Srªs e Srs. Senadores, eu, particularmente, tinha alguma esperança de que o Sr. Andrea Calabi, à frente do Banco de Desenvolvimento Econômico e Social, produzisse alguma mudança efetiva no processo de desenvolvimento, fortalecendo a empresa nacional, desenvolvendo setores estratégicos. Contudo, ontem se anunciou a demissão do Sr. Calabi da Presidência do BNDES – fato lamentável - e a nomeação do Sr."
+    },
+    {
+     "inicio_corpo": 12391,
+     "fim_corpo": 13267,
+     "trecho": "De repente, o banco vira um órgão financiador de capital estrangeiro para comprar estatal brasileira. Onde é que estamos? E quando pensamos que isso vai mudar ao assumir a sua direção uma pessoa que tem alguma visão dos interesses nacionais - como o Sr. Andrea Calabi -, essa pessoa é demitida e em seu lugar é colocado um agente do mercado financeiro internacional. Isso, Sr. Presidente, deixa-me indignado. Peço a compreensão dos nobres Colegas pela minha veemência. O Sr. Eduardo Suplicy (Bloco/PT – SP) – Permite-me V. Exª um aparte? O SR. ROBERTO SATURNINO (Bloco/PSB – RJ) – Ouço-o com prazer. Espero que V. Exª me tranqüilize um pouco. O Sr. Eduardo Suplicy (Bloco/PT – SP) – Senador Roberto Saturnino, a manifestação de V. Exª tem fundamento. Eu gostaria de externar como devemos estar atentos a essa modificação na Presidência do BNDES."
+    },
+    {
+     "inicio_corpo": 14225,
+     "fim_corpo": 14913,
+     "trecho": "E ele reconheceu esse fato. Isso significava uma proporção muito expressiva: cerca de R$2 bilhões num total de quase R$20 bilhões. Se analisarmos o período de 1995 a 1999, verificaremos que houve uma certa evolução: em 1995, o BNDES emprestou cerca de pouco mais de 2% para empresas estrangeiras; em 1999, esse percentual passou de 10%. O Presidente Andrea Calabi mostrou consciência disso. Mostrou-se preocupado em chegar a um certo equilíbrio, afirmando que o BNDES deveria estar destinando recursos ao fortalecimento da empresa nacional. Aliás, o Ministro Alcides Tápias também mencionou isso. Mas que significado terá agora a designação de Francisco Gros para a Presidência do BNDES?"
+    },
+    {
+     "inicio_corpo": 17235,
+     "fim_corpo": 18307,
+     "trecho": "S. Sª não me respondeu, como se a dizer: \"Quem cala, consente\". Ou ainda: \"É isso mesmo; mas não posso falar\". E eis que se noticia que S. Sª teria sido demitido por falar demais. Mas como? Falou demais quando? Em que ocasião? No Senado, ao contrário, S. Sª falou de menos. Onde teria falado demais? Sr. Presidente, a razão da substituição do Sr. Andrea Calabi pelo Sr. Francisco Gros não é convincente, ainda mais porque este último é favorável à dolarização, tendo declarado isso explicitamente, sem nenhum constrangimento e nenhuma obrigação de fazê-lo. Agora, pode até desmentir, dizendo não ser bem assim; porém, o que há de concreto é que S. Sª se declarou favorável à dolarização. Trata-se de um homem do mercado financeiro internacional, logo, tem que ser a favor da dolarização. Dessa forma, teremos essa pessoa infiltrada no Governo numa posição da importância e da magnitude da presidência do BNDES. Sr. Presidente, excedi-me no tempo e na veemência. Agradeço a benevolência de V. Exª e dos que me escutaram. Era o que tinha a dizer por hoje."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0154::Infraestrutura e porte populacional",
+   "unit_id": "S0154",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-24",
+   "orador": "Roberto Saturnino",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "fronteiras",
+     "forma_encontrada": "fronteiras",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "fronteiras",
+     "forma_encontrada": "fronteiras",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "fronteiras",
+     "forma_encontrada": "fronteiras",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "fronteiras",
+     "forma_encontrada": "fronteiras",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "fronteiras",
+     "forma_encontrada": "fronteiras",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7100,
+     "fim_corpo": 8000,
+     "trecho": "Presidente. Houve o ingresso de dinheiro especulativo para aplicações na bolsa e no mercado financeiro nacional, que paga juros e privilégios muito grandes a esse capital, e entrou dinheiro para comprar empreendimentos que já haviam sido realizados pelos brasileiros com muito esforço. Comprou-se a preço vil e com a ajuda do BNDES e do próprio Governo. Isso nos deixa indignados, mas é a realidade. Mas essa realidade vai nos cansando, Sr. Presidente. A opinião pública está cansada de ouvir na mídia os louvores a esse modelo e de ver os resultados. Por exemplo, na edição de 15 de fevereiro próximo passado, o Jornal do Brasil fez um editorial que considero vergonhoso. Querendo atingir o Deputado Vivaldo Barbosa, que se propôs a constituir uma frente parlamentar de defesa da economia nacional, o Jornal do Brasil diz: \"Nacionalismo é pregação sem sentido num mundo sem fronteiras\"."
+    },
+    {
+     "inicio_corpo": 7386,
+     "fim_corpo": 8053,
+     "trecho": "Comprou-se a preço vil e com a ajuda do BNDES e do próprio Governo. Isso nos deixa indignados, mas é a realidade. Mas essa realidade vai nos cansando, Sr. Presidente. A opinião pública está cansada de ouvir na mídia os louvores a esse modelo e de ver os resultados. Por exemplo, na edição de 15 de fevereiro próximo passado, o Jornal do Brasil fez um editorial que considero vergonhoso. Querendo atingir o Deputado Vivaldo Barbosa, que se propôs a constituir uma frente parlamentar de defesa da economia nacional, o Jornal do Brasil diz: \"Nacionalismo é pregação sem sentido num mundo sem fronteiras\". Onde o Jornal do Brasil viu um mundo sem fronteiras?"
+    },
+    {
+     "inicio_corpo": 7386,
+     "fim_corpo": 8218,
+     "trecho": "Comprou-se a preço vil e com a ajuda do BNDES e do próprio Governo. Isso nos deixa indignados, mas é a realidade. Mas essa realidade vai nos cansando, Sr. Presidente. A opinião pública está cansada de ouvir na mídia os louvores a esse modelo e de ver os resultados. Por exemplo, na edição de 15 de fevereiro próximo passado, o Jornal do Brasil fez um editorial que considero vergonhoso. Querendo atingir o Deputado Vivaldo Barbosa, que se propôs a constituir uma frente parlamentar de defesa da economia nacional, o Jornal do Brasil diz: \"Nacionalismo é pregação sem sentido num mundo sem fronteiras\". Onde o Jornal do Brasil viu um mundo sem fronteiras? Se o mundo não tivesse fronteiras, não estaríamos reclamando dos europeus que protegem sua agricultura e dos norte-americanos que protegem seu aço e seus laranjais."
+    },
+    {
+     "inicio_corpo": 7386,
+     "fim_corpo": 8278,
+     "trecho": "Comprou-se a preço vil e com a ajuda do BNDES e do próprio Governo. Isso nos deixa indignados, mas é a realidade. Mas essa realidade vai nos cansando, Sr. Presidente. A opinião pública está cansada de ouvir na mídia os louvores a esse modelo e de ver os resultados. Por exemplo, na edição de 15 de fevereiro próximo passado, o Jornal do Brasil fez um editorial que considero vergonhoso. Querendo atingir o Deputado Vivaldo Barbosa, que se propôs a constituir uma frente parlamentar de defesa da economia nacional, o Jornal do Brasil diz: \"Nacionalismo é pregação sem sentido num mundo sem fronteiras\". Onde o Jornal do Brasil viu um mundo sem fronteiras? Se o mundo não tivesse fronteiras, não estaríamos reclamando dos europeus que protegem sua agricultura e dos norte-americanos que protegem seu aço e seus laranjais. O mundo está cheio de fronteiras, cada um defendendo a sua."
+    },
+    {
+     "inicio_corpo": 7454,
+     "fim_corpo": 8540,
+     "trecho": "Isso nos deixa indignados, mas é a realidade. Mas essa realidade vai nos cansando, Sr. Presidente. A opinião pública está cansada de ouvir na mídia os louvores a esse modelo e de ver os resultados. Por exemplo, na edição de 15 de fevereiro próximo passado, o Jornal do Brasil fez um editorial que considero vergonhoso. Querendo atingir o Deputado Vivaldo Barbosa, que se propôs a constituir uma frente parlamentar de defesa da economia nacional, o Jornal do Brasil diz: \"Nacionalismo é pregação sem sentido num mundo sem fronteiras\". Onde o Jornal do Brasil viu um mundo sem fronteiras? Se o mundo não tivesse fronteiras, não estaríamos reclamando dos europeus que protegem sua agricultura e dos norte-americanos que protegem seu aço e seus laranjais. O mundo está cheio de fronteiras, cada um defendendo a sua. E o Brasil, como diz grande parte da nossa mídia, acredita num mundo sem fronteiras, acredita que esse é o melhor caminho e vai destroçando sua economia, sua sociedade, seus valores morais, seus valores tradicionais, por subserviência a esse mercado financeiro!"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0154::Posição no trabalho",
+   "unit_id": "S0154",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-24",
+   "orador": "Roberto Saturnino",
+   "n_ocorrencias_no_par": 9,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 3,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 286,
+     "trecho": "O SR. ROBERTO SATURNINO (Bloco/PSB – RJ. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, eu me preparei para fazer um pronunciamento sobre o desemprego, grave problema que angustia todos os brasileiros e que vemos piorar a cada instante."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 554,
+     "trecho": "O SR. ROBERTO SATURNINO (Bloco/PSB – RJ. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, eu me preparei para fazer um pronunciamento sobre o desemprego, grave problema que angustia todos os brasileiros e que vemos piorar a cada instante. O próprio Governo se confessa incapaz de solucioná-lo e, em mensagem presidencial, dá como grande realização do ano passado a simples manutenção dos altíssimos níveis de desemprego do País, como se já fosse uma grande coisa ter impedido que esses índices aumentassem."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 977,
+     "trecho": "O SR. ROBERTO SATURNINO (Bloco/PSB – RJ. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, eu me preparei para fazer um pronunciamento sobre o desemprego, grave problema que angustia todos os brasileiros e que vemos piorar a cada instante. O próprio Governo se confessa incapaz de solucioná-lo e, em mensagem presidencial, dá como grande realização do ano passado a simples manutenção dos altíssimos níveis de desemprego do País, como se já fosse uma grande coisa ter impedido que esses índices aumentassem. Gostaria de tecer comentários a respeito de matéria extremamente interessante, publicada no jornal Monitor Mercantil , um excelente jornal do Rio de Janeiro, em sua edição de 9 de fevereiro, que mostra que o desemprego no Brasil, hoje, somando-se o desemprego aberto ao desemprego efetivo, de quem trabalha sem remuneração e de quem percebe remuneração inferior ao salário mínimo, atinge 12,5 milhões de brasileiros."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 977,
+     "trecho": "O SR. ROBERTO SATURNINO (Bloco/PSB – RJ. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, eu me preparei para fazer um pronunciamento sobre o desemprego, grave problema que angustia todos os brasileiros e que vemos piorar a cada instante. O próprio Governo se confessa incapaz de solucioná-lo e, em mensagem presidencial, dá como grande realização do ano passado a simples manutenção dos altíssimos níveis de desemprego do País, como se já fosse uma grande coisa ter impedido que esses índices aumentassem. Gostaria de tecer comentários a respeito de matéria extremamente interessante, publicada no jornal Monitor Mercantil , um excelente jornal do Rio de Janeiro, em sua edição de 9 de fevereiro, que mostra que o desemprego no Brasil, hoje, somando-se o desemprego aberto ao desemprego efetivo, de quem trabalha sem remuneração e de quem percebe remuneração inferior ao salário mínimo, atinge 12,5 milhões de brasileiros."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 977,
+     "trecho": "O SR. ROBERTO SATURNINO (Bloco/PSB – RJ. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, eu me preparei para fazer um pronunciamento sobre o desemprego, grave problema que angustia todos os brasileiros e que vemos piorar a cada instante. O próprio Governo se confessa incapaz de solucioná-lo e, em mensagem presidencial, dá como grande realização do ano passado a simples manutenção dos altíssimos níveis de desemprego do País, como se já fosse uma grande coisa ter impedido que esses índices aumentassem. Gostaria de tecer comentários a respeito de matéria extremamente interessante, publicada no jornal Monitor Mercantil , um excelente jornal do Rio de Janeiro, em sua edição de 9 de fevereiro, que mostra que o desemprego no Brasil, hoje, somando-se o desemprego aberto ao desemprego efetivo, de quem trabalha sem remuneração e de quem percebe remuneração inferior ao salário mínimo, atinge 12,5 milhões de brasileiros."
+    },
+    {
+     "inicio_corpo": 102,
+     "fim_corpo": 1146,
+     "trecho": "Presidente, Srªs e Srs. Senadores, eu me preparei para fazer um pronunciamento sobre o desemprego, grave problema que angustia todos os brasileiros e que vemos piorar a cada instante. O próprio Governo se confessa incapaz de solucioná-lo e, em mensagem presidencial, dá como grande realização do ano passado a simples manutenção dos altíssimos níveis de desemprego do País, como se já fosse uma grande coisa ter impedido que esses índices aumentassem. Gostaria de tecer comentários a respeito de matéria extremamente interessante, publicada no jornal Monitor Mercantil , um excelente jornal do Rio de Janeiro, em sua edição de 9 de fevereiro, que mostra que o desemprego no Brasil, hoje, somando-se o desemprego aberto ao desemprego efetivo, de quem trabalha sem remuneração e de quem percebe remuneração inferior ao salário mínimo, atinge 12,5 milhões de brasileiros. Isso equivaleria ao desemprego dos Estados Unidos no período da grande depressão dos anos 30, considerado um período calamitoso na história econômica e social do mundo."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0154::Renda e classe",
+   "unit_id": "S0154",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-24",
+   "orador": "Roberto Saturnino",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1319,
+     "fim_corpo": 2312,
+     "trecho": "Escutei o discurso do Senador Leomar Quintanilha e os apartes dos Senadores Carlos Patrocínio, Ney Suassuna e Romeu Tuma. S. Exª abordou esse e outro tema tão imbricado no desemprego: a desigualdade social e o crescimento da criminalidade. Ouvi palavras de certa esperança, que me fizeram mudar o eixo do meu discurso para dizer que, absolutamente, não creio que o Congresso Nacional, o Senado Federal ou nenhum de nós esteja fazendo nada para mudar essa situação, já que ela é mantida por uma força muito maior do que a nossa: a força do mercado financeiro internacional, que impõe ao Governo suas decisões, as quais são acatadas pela maioria do Governo no Congresso sem nenhuma hesitação, sem nenhuma tergiversação. E continuamos nesta mesma situação, sem que haja possibilidade nenhuma de correção. O quadro social, infelizmente, não vai mudar. Fez-se um esforço na Comissão da Pobreza, formulando-se uma solução de consenso, que, para nós da Oposição, não era a solução ideal."
+    },
+    {
+     "inicio_corpo": 2043,
+     "fim_corpo": 2572,
+     "trecho": "E continuamos nesta mesma situação, sem que haja possibilidade nenhuma de correção. O quadro social, infelizmente, não vai mudar. Fez-se um esforço na Comissão da Pobreza, formulando-se uma solução de consenso, que, para nós da Oposição, não era a solução ideal. Mas aceitamos uma posição de consenso. Eis que a proposta unânime da Comissão é transformada num fundo dependente de privatizações. Ora, Sr. Presidente, é absolutamente inconcebível a vinculação do fundo da pobreza à receita de privatizações neste País."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0155::Infraestrutura e porte populacional",
+   "unit_id": "S0155",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-24",
+   "orador": "Paulo Souto",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "fronteiras",
+     "forma_encontrada": "fronteiras",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5243,
+     "fim_corpo": 6696,
+     "trecho": "Teixeira de Freitas já tem vôos regulares que fazem ligação com o resto do País, algo que, há cinco anos, era impensável; e V. Exª foi um dos autores desse acontecimento tão importante para o Brasil. Não podemos deixar de cumprimentar os baianos, os homens públicos do Estado da Bahia pelo avanço sensível desse Estado. A Bahia aponta, no firmamento das estrelas dos Estados brasileiros, como um exemplo para as demais Unidades da Federação. Cumprimentos a V. Exª, ao povo baiano e aos seus líderes políticos O SR. PAULO SOUTO (PFL - BA) – Agradeço as palavras de tanto carinho do Senador Gerson Camata. Sempre vemos as nossas fronteiras com o Espírito Santo como um lugar que queremos desenvolver harmonicamente em benefício dos dois Estados. Completando, quero dizer que tudo isso permite que o Estado invista nos seus programas de infra-estrutura, na modernização da sua economia, na atração de investimentos importantes, e também em muitos programas sociais. Foi lançado recentemente um programa voltado basicamente para os cem municípios mais pobres do Estado, buscando alterar suas condições sociais. Era essa a comunicação, claro que com uma certa ponta de orgulho que todos temos, mas principalmente com o objetivo de mostrar que é possível o equilíbrio, sem prejudicar em nada os investimentos que o Estado está fazendo, liberando recursos para que se possa investir sobretudo em seus programas sociais. Muito obrigado."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0155::Macrorregião",
+   "unit_id": "S0155",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-24",
+   "orador": "Paulo Souto",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3284,
+     "fim_corpo": 4237,
+     "trecho": "Portanto, esse é um fato da maior importância. O Sr. Gerson Camata (PMDB - ES) – Permite-me V. Exª um aparte, Senador Paulo Souto? O SR. PAULO SOUTO (PFL - BA) – Pois não, Senador Gerson Camata. O Sr. Gerson Camata (PMDB - ES) – Senador Paulo Souto, estamos acompanhando o seu pronunciamento. Cumprimentamos V. Exª e, por meio de V. Exª, que foi Governador, e do Presidente Antonio Carlos Magalhães, que começou esse processo de recuperação da economia da Bahia, cumprimentamos também o povo baiano. E nós capixabas temos condições de fazer isso, porque fazemos limite com a Bahia, Graças a Deus, e sempre temos oportunidade de observar, por exemplo, na região sul da Bahia, que faz limite com o norte do Espírito Santo, como o desenvolvimento e o progresso estão acontecendo ali a uma velocidade espantosa, e ficamos com um pouco de vontade de emular e com inveja também, e constatamos porque estão acontecendo essas coisas na Bahia."
+    },
+    {
+     "inicio_corpo": 4518,
+     "fim_corpo": 5243,
+     "trecho": "E a arrecadação de ICMS e os fundos que normalmente, na maioria dos Estados são usados para pagar os inativos, sobra ao povo da Bahia como investimento nas rodovias, nos aeroportos e na infra-estrutura de saúde. E há um fato que há poucos dias eu comentava com um economista, lá no Espírito Santo. Há dez ou quinze anos, cidades como Teixeira de Freitas e Itamaraju eram tributárias ou que se referiam muito as cidades capixabas de São Mateus e de Linhares. Hoje – é com pesar que digo isso, mas nós vamos também reagir, porque queremos imitar o que a Bahia está fazendo – ao contrário, observamos que Teixeira de Freitas e Itamaraju começam a puxar a economia de certa parte do norte do Espírito Santo para dentro da Bahia."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0155::Renda e classe",
+   "unit_id": "S0155",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-24",
+   "orador": "Paulo Souto",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5443,
+     "fim_corpo": 6696,
+     "trecho": "Não podemos deixar de cumprimentar os baianos, os homens públicos do Estado da Bahia pelo avanço sensível desse Estado. A Bahia aponta, no firmamento das estrelas dos Estados brasileiros, como um exemplo para as demais Unidades da Federação. Cumprimentos a V. Exª, ao povo baiano e aos seus líderes políticos O SR. PAULO SOUTO (PFL - BA) – Agradeço as palavras de tanto carinho do Senador Gerson Camata. Sempre vemos as nossas fronteiras com o Espírito Santo como um lugar que queremos desenvolver harmonicamente em benefício dos dois Estados. Completando, quero dizer que tudo isso permite que o Estado invista nos seus programas de infra-estrutura, na modernização da sua economia, na atração de investimentos importantes, e também em muitos programas sociais. Foi lançado recentemente um programa voltado basicamente para os cem municípios mais pobres do Estado, buscando alterar suas condições sociais. Era essa a comunicação, claro que com uma certa ponta de orgulho que todos temos, mas principalmente com o objetivo de mostrar que é possível o equilíbrio, sem prejudicar em nada os investimentos que o Estado está fazendo, liberando recursos para que se possa investir sobretudo em seus programas sociais. Muito obrigado."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0156::Cultura e informação",
+   "unit_id": "S0156",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-25",
+   "orador": "Eduardo Siqueira Campos",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telecentro",
+     "forma_encontrada": "Telecentro",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telecentro",
+     "forma_encontrada": "Telecentro",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telecentro",
+     "forma_encontrada": "Telecentro",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telecentro",
+     "forma_encontrada": "Telecentro",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4330,
+     "fim_corpo": 4881,
+     "trecho": "É nesse contexto que é necessário apoiar a diversidade cultural, dando chance ao pluralismo e à sociedade, independentemente de seu lugar, de seus status social ou econômico, para que se expresse, se desenvolva e promova a difusão de seus valores e de sua cultura. Faço essas considerações nesta Casa, Sr. Presidente, no momento em que quero registrar o apoio que tem dado às culturas regionais, especialmente no Centro Oeste e em meu Estado, a Telecentro Sul Participações – Empresa de telecomunicações que atua nos Estados dessa região."
+    },
+    {
+     "inicio_corpo": 4601,
+     "fim_corpo": 5379,
+     "trecho": "Faço essas considerações nesta Casa, Sr. Presidente, no momento em que quero registrar o apoio que tem dado às culturas regionais, especialmente no Centro Oeste e em meu Estado, a Telecentro Sul Participações – Empresa de telecomunicações que atua nos Estados dessa região. Segundo ofício da Drª Kátia Rocha Ribeiro – Secretária de Cultura do Estado do Tocantins – que me fez comunicação a respeito, graças ao apoio irrestrito da Drª Ana Rosa Hopkins, Gerente-Geral de Projetos Culturais e Comunitários da empresa, administrando as diretrizes do Presidente Henrique Sutton de Souza Neves e do Vice-Presidente Jorge de Morais Jardim Filho, tem sido significativa a atuação da Telecentro Sul na promoção de atividades culturais na região e no Estado, especificamente."
+    },
+    {
+     "inicio_corpo": 4601,
+     "fim_corpo": 5683,
+     "trecho": "Faço essas considerações nesta Casa, Sr. Presidente, no momento em que quero registrar o apoio que tem dado às culturas regionais, especialmente no Centro Oeste e em meu Estado, a Telecentro Sul Participações – Empresa de telecomunicações que atua nos Estados dessa região. Segundo ofício da Drª Kátia Rocha Ribeiro – Secretária de Cultura do Estado do Tocantins – que me fez comunicação a respeito, graças ao apoio irrestrito da Drª Ana Rosa Hopkins, Gerente-Geral de Projetos Culturais e Comunitários da empresa, administrando as diretrizes do Presidente Henrique Sutton de Souza Neves e do Vice-Presidente Jorge de Morais Jardim Filho, tem sido significativa a atuação da Telecentro Sul na promoção de atividades culturais na região e no Estado, especificamente. No ano de 1999, a Telecentro Sul, a partir do 2º semestre, quando iniciou sua ação, permitiu junto com o Governo do Estado, a inclusão do Tocantins no circuito dos grandes espetáculos nacionais, bem como a produção de projetos locais, no campo do cinema, do teatro, da dança e das artes plásticas."
+    },
+    {
+     "inicio_corpo": 5379,
+     "fim_corpo": 6509,
+     "trecho": "No ano de 1999, a Telecentro Sul, a partir do 2º semestre, quando iniciou sua ação, permitiu junto com o Governo do Estado, a inclusão do Tocantins no circuito dos grandes espetáculos nacionais, bem como a produção de projetos locais, no campo do cinema, do teatro, da dança e das artes plásticas. Como exemplo desses vários setores, pode ser citado o longa metragem de Geraldo Moraes \"No Coração dos Deuses\" – hoje no circuito nacional – inteiramente rodado no Tocantins; a \"Performance Nacional\", de Fernanda Montenegro; \"Uma Farsa Irresponsável\", de Nelson Rodrigues, sob a direção de Hugo Rodas; a Oficina de Formação do Ator, com .Mauri de.Castro, e outros tantos exemplos. Para o corrente ano, a Telecentro Sul já acertou patrocínio de vários eventos culturais, dentre os quais o lançamento do livro Registro Fotográfico da Arte do Tocantins, a montagem e apresentação do espetáculo de dança MATAUÁ – RY, de temática indígena, encenada pelo grupo local Contagius, e o workshop sobre teatro e dança contemporânea, conduzido pelo primeiro-bailarino do Teatro Municipal do Rio de Janeiro, Marcelo Misaidilis."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0156::Infraestrutura e porte populacional",
+   "unit_id": "S0156",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-25",
+   "orador": "Eduardo Siqueira Campos",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "fronteiras",
+     "forma_encontrada": "fronteiras",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6070,
+     "fim_corpo": 7046,
+     "trecho": "Para o corrente ano, a Telecentro Sul já acertou patrocínio de vários eventos culturais, dentre os quais o lançamento do livro Registro Fotográfico da Arte do Tocantins, a montagem e apresentação do espetáculo de dança MATAUÁ – RY, de temática indígena, encenada pelo grupo local Contagius, e o workshop sobre teatro e dança contemporânea, conduzido pelo primeiro-bailarino do Teatro Municipal do Rio de Janeiro, Marcelo Misaidilis. Só esses três eventos somam recursos de quase R$ 200.000,00 (duzentos mil reais), o que constitui um bom exemplo de investimento da iniciativa privada no campo da arte e da cultura, direcionado à valorização da arte e da cultura brasileira nessas novas fronteiras do novo Brasil – a grande descoberta deste novo milênio – o Brasil do Norte e do Centro Oeste, o Brasil redescoberto e inserido no mundo e na globalização, sem a perda de suas raízes e da profunda identidade de seu próprio povo. Muito obrigado, Sr. Presidente."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0156::Macrorregião",
+   "unit_id": "S0156",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-25",
+   "orador": "Eduardo Siqueira Campos",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 486,
+     "trecho": "O SR. EDUARDO SIQUEIRA CAMPOS (PFL - TO) – Sr. Presidente, Srªs e Srs. Senadores, em pronunciamento anterior tive ocasião de referir-me à dimensão da arte e da cultura das regiões desconhecidas do Brasil – do Norte e Centro Oeste, longe dos eixos concentrados e concentradores do Rio de Janeiro e São Paulo, e mesmo de alguns outros que, graças a um extraordinário esforço, vem conseguindo participar, ainda que desproporcionalmente a seu valor, do circuito de arte e cultura nacional."
+    },
+    {
+     "inicio_corpo": 6070,
+     "fim_corpo": 7046,
+     "trecho": "Para o corrente ano, a Telecentro Sul já acertou patrocínio de vários eventos culturais, dentre os quais o lançamento do livro Registro Fotográfico da Arte do Tocantins, a montagem e apresentação do espetáculo de dança MATAUÁ – RY, de temática indígena, encenada pelo grupo local Contagius, e o workshop sobre teatro e dança contemporânea, conduzido pelo primeiro-bailarino do Teatro Municipal do Rio de Janeiro, Marcelo Misaidilis. Só esses três eventos somam recursos de quase R$ 200.000,00 (duzentos mil reais), o que constitui um bom exemplo de investimento da iniciativa privada no campo da arte e da cultura, direcionado à valorização da arte e da cultura brasileira nessas novas fronteiras do novo Brasil – a grande descoberta deste novo milênio – o Brasil do Norte e do Centro Oeste, o Brasil redescoberto e inserido no mundo e na globalização, sem a perda de suas raízes e da profunda identidade de seu próprio povo. Muito obrigado, Sr. Presidente."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0156::Raça e etnia",
+   "unit_id": "S0156",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-25",
+   "orador": "Eduardo Siqueira Campos",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "negro",
+     "forma_encontrada": "negro",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "indígena",
+     "forma_encontrada": "indígena",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5379,
+     "fim_corpo": 6070,
+     "trecho": "No ano de 1999, a Telecentro Sul, a partir do 2º semestre, quando iniciou sua ação, permitiu junto com o Governo do Estado, a inclusão do Tocantins no circuito dos grandes espetáculos nacionais, bem como a produção de projetos locais, no campo do cinema, do teatro, da dança e das artes plásticas. Como exemplo desses vários setores, pode ser citado o longa metragem de Geraldo Moraes \"No Coração dos Deuses\" – hoje no circuito nacional – inteiramente rodado no Tocantins; a \"Performance Nacional\", de Fernanda Montenegro; \"Uma Farsa Irresponsável\", de Nelson Rodrigues, sob a direção de Hugo Rodas; a Oficina de Formação do Ator, com .Mauri de.Castro, e outros tantos exemplos."
+    },
+    {
+     "inicio_corpo": 5683,
+     "fim_corpo": 7046,
+     "trecho": "Como exemplo desses vários setores, pode ser citado o longa metragem de Geraldo Moraes \"No Coração dos Deuses\" – hoje no circuito nacional – inteiramente rodado no Tocantins; a \"Performance Nacional\", de Fernanda Montenegro; \"Uma Farsa Irresponsável\", de Nelson Rodrigues, sob a direção de Hugo Rodas; a Oficina de Formação do Ator, com .Mauri de.Castro, e outros tantos exemplos. Para o corrente ano, a Telecentro Sul já acertou patrocínio de vários eventos culturais, dentre os quais o lançamento do livro Registro Fotográfico da Arte do Tocantins, a montagem e apresentação do espetáculo de dança MATAUÁ – RY, de temática indígena, encenada pelo grupo local Contagius, e o workshop sobre teatro e dança contemporânea, conduzido pelo primeiro-bailarino do Teatro Municipal do Rio de Janeiro, Marcelo Misaidilis. Só esses três eventos somam recursos de quase R$ 200.000,00 (duzentos mil reais), o que constitui um bom exemplo de investimento da iniciativa privada no campo da arte e da cultura, direcionado à valorização da arte e da cultura brasileira nessas novas fronteiras do novo Brasil – a grande descoberta deste novo milênio – o Brasil do Norte e do Centro Oeste, o Brasil redescoberto e inserido no mundo e na globalização, sem a perda de suas raízes e da profunda identidade de seu próprio povo. Muito obrigado, Sr. Presidente."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0156::Urbano e rural",
+   "unit_id": "S0156",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-25",
+   "orador": "Eduardo Siqueira Campos",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "CAMPOS",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 47,
+     "trecho": "O SR. EDUARDO SIQUEIRA CAMPOS (PFL - TO) – Sr."
+    },
+    {
+     "inicio_corpo": 4881,
+     "fim_corpo": 5683,
+     "trecho": "Segundo ofício da Drª Kátia Rocha Ribeiro – Secretária de Cultura do Estado do Tocantins – que me fez comunicação a respeito, graças ao apoio irrestrito da Drª Ana Rosa Hopkins, Gerente-Geral de Projetos Culturais e Comunitários da empresa, administrando as diretrizes do Presidente Henrique Sutton de Souza Neves e do Vice-Presidente Jorge de Morais Jardim Filho, tem sido significativa a atuação da Telecentro Sul na promoção de atividades culturais na região e no Estado, especificamente. No ano de 1999, a Telecentro Sul, a partir do 2º semestre, quando iniciou sua ação, permitiu junto com o Governo do Estado, a inclusão do Tocantins no circuito dos grandes espetáculos nacionais, bem como a produção de projetos locais, no campo do cinema, do teatro, da dança e das artes plásticas."
+    },
+    {
+     "inicio_corpo": 6070,
+     "fim_corpo": 7046,
+     "trecho": "Para o corrente ano, a Telecentro Sul já acertou patrocínio de vários eventos culturais, dentre os quais o lançamento do livro Registro Fotográfico da Arte do Tocantins, a montagem e apresentação do espetáculo de dança MATAUÁ – RY, de temática indígena, encenada pelo grupo local Contagius, e o workshop sobre teatro e dança contemporânea, conduzido pelo primeiro-bailarino do Teatro Municipal do Rio de Janeiro, Marcelo Misaidilis. Só esses três eventos somam recursos de quase R$ 200.000,00 (duzentos mil reais), o que constitui um bom exemplo de investimento da iniciativa privada no campo da arte e da cultura, direcionado à valorização da arte e da cultura brasileira nessas novas fronteiras do novo Brasil – a grande descoberta deste novo milênio – o Brasil do Norte e do Centro Oeste, o Brasil redescoberto e inserido no mundo e na globalização, sem a perda de suas raízes e da profunda identidade de seu próprio povo. Muito obrigado, Sr. Presidente."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0157::Domicílio e arranjo familiar",
+   "unit_id": "S0157",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-29",
+   "orador": "Ney Suassuna",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7198,
+     "fim_corpo": 8047,
+     "trecho": "É um verdadeiro absurdo! Portanto, quando V. Exª vem à tribuna, V. Exª está chamando por aquele sentimento que não pode ser de xenofobia, mas que existe no seio da sociedade brasileira, que está tomando conta dos homens públicos, exigindo que atuemos de forma mais firme em defesa do capital nacional e da economia nacional. Cumprimento V. Exª pelo discurso. O SR. NEY SUASSUNA (PMDB – PB) - Muito obrigado nobre Senador Ramez Tebet. Acolho os dizeres de V. Exª como parte importante do meu discurso. Continuando, Sr. Presidente, por mais que o capital se pareça em toda a parte do mundo, buscando sempre o objetivo do máximo lucro e da dominação sobre o mercado em que atua, é inegável que, via de regra, há um compromisso do capitalista nacional com o País em que ele vive com sua família, compromisso que um estrangeiro não pode ter."
+    },
+    {
+     "inicio_corpo": 10862,
+     "fim_corpo": 11907,
+     "trecho": "Isso, no que se refere à venda de ativos privados. Na venda de ativos públicos, é certo, não faria sentido tal crítica, uma vez que o objetivo do Estado, ao vender, é justamente retirar-se do setor produtivo da economia. Penso que o debate sobre a desnacionalização da economia deve prosseguir. É uma questão relevante, que faz sentido, mesmo porque existem divergências conceituais no tocante à matéria. O Sr. Romero Jucá (PSDB - RR) – Permite V. Exª um aparte? O SR. NEY SUASSUNA (PMDB - PB) – Com muito prazer, ouço V. Exª, Senador Romero Jucá. O Sr. Romero Jucá (PSDB - RR) – Senador Ney Suassuna, eu gostaria de aplaudir e registrar a consistência do seu discurso. V. Exª, com a sua experiência política e empresarial e, ainda mais, reforçada, nesses últimos dois anos, com a Presidência da Comissão de Economia e com a discussão profícua que tivemos naquela Comissão, vem à tribuna hoje e faz um discurso extremamente importante, que chamo à reflexão não apenas esta Casa, mas a área econômica do Governo e o País."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0157::Escolaridade e letramento",
+   "unit_id": "S0157",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-29",
+   "orador": "Ney Suassuna",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "estudante",
+     "forma_encontrada": "estudante",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4678,
+     "fim_corpo": 5632,
+     "trecho": "Aqui somos guiados muito mais pelo bom senso do que pela estatística. Pois, quando a presença estrangeira na economia nacional torna-se excessiva é como se perdêssemos o controle sobre o nosso próprio destino, sendo tomadas por estrangeiros as decisões mais importantes e cruciais que afetam nossa economia, de acordo exclusivo com seus interesses, fora das fronteiras nacionais. O Sr. Ramez Tebet (PMDB – MS) - Permite-me um aparte, Senador Ney Suassuna? O SR. NEY SUASSUNA (PMDB - PB) – Com muita satisfação, Senador Ramez Tebet. O Sr. Ramez Tebet (PMDB - MS) – Senador Ney Suassuna, V. Exª, de forma ponderada, como é o seu estilo, mas com a firmeza que também lhe é peculiar, aborda um tema que está renascendo dentro da sociedade brasileira. Vivemos uma época da história do Brasil, quando eu era estudante, Senador Ney Suassuna, em que desfraldávamos, em praça pública, a bandeira do nacionalismo na defesa daquilo que era nosso."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0157::Infraestrutura e porte populacional",
+   "unit_id": "S0157",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-29",
+   "orador": "Ney Suassuna",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "fronteiras",
+     "forma_encontrada": "fronteiras",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "fronteiras",
+     "forma_encontrada": "fronteiras",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2443,
+     "fim_corpo": 3480,
+     "trecho": "Nada tenho contra o capital estrangeiro. Ele é um complemento necessário ao capital nacional. Somos geradores de pouca poupança, precisamos dele, não há dúvida. O capital estrangeiro que vem para o Brasil, aceitando operar de acordo com a legislação brasileira, contribui com a nossa prosperidade, cria riquezas e empregos e amiúde soma-se ao esforço exportador do País. Agora mesmo, tive a honra de somar esforços junto a outros Srs. Senadores e formalizar o Grupo Parlamentar Brasil-Taiwan com o objetivo de estreitar as relações comerciais e culturais entre os nossos povos. Buscamos atrair parcerias empresariais sob a forma de investimentos diretos e trocas comerciais, notadamente na Região Nordeste (com ênfase de minha parte ao Estado da Paraíba), sem, contudo, excluir o resto do Brasil, e, ao mesmo tempo, abrir novas fronteiras para a colocação dos nossos produtos naquela que já é a 13ª maior economia mundial, em termos de comércio, detém hoje o 19º PIB do mundo e a 23ª maior renda per capita do planeta."
+    },
+    {
+     "inicio_corpo": 4272,
+     "fim_corpo": 5058,
+     "trecho": "Ou seja, não se pode centrar todas as atenções na árvore e arriscar-se a perder de vista a floresta. Tudo é uma questão de grau. Se o capital estrangeiro é benéfico para o País, ele deixa de sê-lo, quando a economia sofre um processo exagerado de desnacionalização. O que é exagero é difícil estimar. Não há um número exato, consagrado, que nos diga quando a desnacionalização chegou a um nível excessivo. Aqui somos guiados muito mais pelo bom senso do que pela estatística. Pois, quando a presença estrangeira na economia nacional torna-se excessiva é como se perdêssemos o controle sobre o nosso próprio destino, sendo tomadas por estrangeiros as decisões mais importantes e cruciais que afetam nossa economia, de acordo exclusivo com seus interesses, fora das fronteiras nacionais."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0157::Macrorregião",
+   "unit_id": "S0157",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-29",
+   "orador": "Ney Suassuna",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2443,
+     "fim_corpo": 3480,
+     "trecho": "Nada tenho contra o capital estrangeiro. Ele é um complemento necessário ao capital nacional. Somos geradores de pouca poupança, precisamos dele, não há dúvida. O capital estrangeiro que vem para o Brasil, aceitando operar de acordo com a legislação brasileira, contribui com a nossa prosperidade, cria riquezas e empregos e amiúde soma-se ao esforço exportador do País. Agora mesmo, tive a honra de somar esforços junto a outros Srs. Senadores e formalizar o Grupo Parlamentar Brasil-Taiwan com o objetivo de estreitar as relações comerciais e culturais entre os nossos povos. Buscamos atrair parcerias empresariais sob a forma de investimentos diretos e trocas comerciais, notadamente na Região Nordeste (com ênfase de minha parte ao Estado da Paraíba), sem, contudo, excluir o resto do Brasil, e, ao mesmo tempo, abrir novas fronteiras para a colocação dos nossos produtos naquela que já é a 13ª maior economia mundial, em termos de comércio, detém hoje o 19º PIB do mundo e a 23ª maior renda per capita do planeta."
+    },
+    {
+     "inicio_corpo": 12463,
+     "fim_corpo": 13284,
+     "trecho": "Creio que V. Exª fere os caminhos que precisam ser trilhados, no intuito de reforçar a economia, inseri-la num processo de globalização, que é irreversível, mas que, ao mesmo tempo, retém no País os nichos importantes não apenas da produção econômica, mas sobretudo da consolidação do empresariado brasileiro, que é um patrimônio deste País. Quero aplaudir o discurso de V. Exª e dizer que fico muito satisfeito de verificar a forma como expõe o problema, a convocação que faz a todos nós para o debate e também à própria área econômica o Governo. Meus parabéns a V. Exª. O SR. NEY SUASSUNA (PMDB – PB) – Muito obrigado, nobre Senador Romero Jucá. V. Exª, como nordestino e com uma visão mais ampla, porque é também do Norte do País, com toda a sua vivência naquele Estado, comunga comigo em muitas posições."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0157::Renda e classe",
+   "unit_id": "S0157",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-29",
+   "orador": "Ney Suassuna",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "carente",
+     "forma_encontrada": "carente",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "carente",
+     "forma_encontrada": "carente",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 14685,
+     "fim_corpo": 15610,
+     "trecho": "Encerrando, Sr. Presidente, Srªs e Srs. Senadores, eu gostaria de defender uma medida concreta, que pode ser posta em prática de forma imediata: é a proibição de que o Estado brasileiro financie, com os recursos públicos postos à sua disposição, resultados da poupança interna, gerada pelo contribuinte brasileiro, a desnacionalização da economia. Isso é o mínimo que se pode fazer e exigir. É um absurdo – e todos hão de concordar comigo - que os nossos bancos de financiamento estejam financiando a aquisição de ativos nacionais por estrangeiros, como aconteceu, no dia 27 de outubro último, em relação à privatização da Companhia de Geração Elétrica Tietê, resultado da cisão do Sistema CESP. Esse tipo de ação, por parte de um Banco de fomento estatal - não tenham dúvidas - vai na contramão dos interesse nacional. O Brasil é um País carente de recursos para investimento, carente de poupança interna."
+    },
+    {
+     "inicio_corpo": 14685,
+     "fim_corpo": 15610,
+     "trecho": "Encerrando, Sr. Presidente, Srªs e Srs. Senadores, eu gostaria de defender uma medida concreta, que pode ser posta em prática de forma imediata: é a proibição de que o Estado brasileiro financie, com os recursos públicos postos à sua disposição, resultados da poupança interna, gerada pelo contribuinte brasileiro, a desnacionalização da economia. Isso é o mínimo que se pode fazer e exigir. É um absurdo – e todos hão de concordar comigo - que os nossos bancos de financiamento estejam financiando a aquisição de ativos nacionais por estrangeiros, como aconteceu, no dia 27 de outubro último, em relação à privatização da Companhia de Geração Elétrica Tietê, resultado da cisão do Sistema CESP. Esse tipo de ação, por parte de um Banco de fomento estatal - não tenham dúvidas - vai na contramão dos interesse nacional. O Brasil é um País carente de recursos para investimento, carente de poupança interna."
+    }
+   ]
+  }
+ ]
+}

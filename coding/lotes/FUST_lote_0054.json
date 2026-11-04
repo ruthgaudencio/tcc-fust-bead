@@ -1,0 +1,1029 @@
+{
+ "caso": "FUST",
+ "lote": 54,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0323::Saúde",
+   "unit_id": "S0323",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-28",
+   "orador": "Ramez Tebet",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "postos de saúde",
+     "forma_encontrada": "postos de saúde",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4235,
+     "fim_corpo": 5191,
+     "trecho": "Quando vislumbro a obra desse Prefeito, vejo que ela está voltada para a melhora do sistema de transporte coletivo, inovando, ajudando a população mais carente, introduzindo, talvez, algo que seja único no Brasil, já que estou falando do sistema de transporte: o passe gratuito. Dois domingos por mês, o percurso dos bairros para a cidade é fornecido gratuitamente pela Prefeitura Municipal de Campo Grande, a fim de facilitar o transporte da população das periferias para o centro da cidade. Como é bom verificar que a administração desse Prefeito de Campo Grande, no setor saúde, é reconhecida pelo próprio Ministério! Quando estive lá, há um tempo, levando um projeto em benefício da saúde de Campo Grande, ouvi, das mais altas figuras do Ministério da Saúde, que Campo Grande apresentava os melhores projetos para obter recursos naquele Ministério. Como é bom ver aqueles postos de saúde atendendo 24 horas por dia a população de Campo Grande!"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0323::Território intraurbano",
+   "unit_id": "S0323",
+   "subcategoria": "Território intraurbano",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-28",
+   "orador": "Ramez Tebet",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "periferias",
+     "forma_encontrada": "periferias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "favelas",
+     "forma_encontrada": "favelas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3799,
+     "fim_corpo": 4728,
+     "trecho": "É muito bom para mim, como Senador da República, saber que pude atender ao Prefeito de Amambai, saber que os recursos que destinamos a S. Exª, ao Dirceu Lanzetti, foram bem aplicados em benefício desse Município Amambai, perto da fronteira do Brasil com o Paraguai. E o que falar, então, Sr. Presidente, Srªs e Srs. Senadores, da capital do meu Estado, da cidade morena cujo Prefeito foi colocado entre os cinco melhores do Brasil? Quando vislumbro a obra desse Prefeito, vejo que ela está voltada para a melhora do sistema de transporte coletivo, inovando, ajudando a população mais carente, introduzindo, talvez, algo que seja único no Brasil, já que estou falando do sistema de transporte: o passe gratuito. Dois domingos por mês, o percurso dos bairros para a cidade é fornecido gratuitamente pela Prefeitura Municipal de Campo Grande, a fim de facilitar o transporte da população das periferias para o centro da cidade."
+    },
+    {
+     "inicio_corpo": 5812,
+     "fim_corpo": 6653,
+     "trecho": "A Prefeitura de Campo Grande está construindo edículas no fundo do quintal, ao lado da família. É o chamado Projeto Meu Cantinho, iniciado em Campo Grande. Isso é valoroso! Isso deve ser decantado, por serem administrações consagradas, que se dedicam ao social, ao que é importante para a população, como a educação, a habitação, a saúde e o transporte. Como foi bom ter comparecido com esse Prefeito outro dia e ter obtido também o reconhecimento de que o problema habitacional está sendo resolvido com as características existentes em cada localidade! Foi profundamente gratificante, por exemplo, comparecer outro dia a uma inauguração de mais de cem casas populares para a população indígena, construídas obedecendo a arquitetura e a cultura daquele povo, que estava residindo em favelas e que, hoje, têm suas próprias casas."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0324::Administração pública",
+   "unit_id": "S0324",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-28",
+   "orador": "Ricardo Santos",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "prefeituras",
+     "forma_encontrada": "Prefeituras",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3082,
+     "fim_corpo": 4173,
+     "trecho": "Do universo de 31 milhões de jovens, cerca de 8 milhões, ou seja, 25%, segundo estimativas da Secretaria de Ação Social da Presidência, pertencem a famílias cujo nível de renda domiciliar per capita está abaixo de meio salário mínimo, estando situados, de acordo com aquela Secretaria, como abaixo da linha de pobreza. A condição socioeconômica desses jovens os torna, obviamente, mais vulneráveis à captura das redes de integração perversas, considerando as restrições com que se defrontam, no que diz respeito ao acesso ao sistema de ensino, ao mercado de trabalho e às condições gerais de vida. A existência, no Espírito Santo, de 163 mil jovens nessa situação motivou o Governo do Estado, com o apoio da UNESCO, a discutir com as Prefeituras Municipais da Grande Vitória, com as empresas de comunicação, as entidades empresariais de ação comunitária, as Igrejas, as ONGs e o sistema educacional, em reuniões amplas e em seminário específico, uma estratégia abrangente e integrada para a prevenção da violência que vem afetando dramaticamente esse segmento da população capixaba."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0324::Cultura e informação",
+   "unit_id": "S0324",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-28",
+   "orador": "Ricardo Santos",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "centros comunitários",
+     "forma_encontrada": "centros comunitários",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6888,
+     "fim_corpo": 8202,
+     "trecho": "Dentre as ações específicas, destacaríamos duas atividades que reputamos importantes para esses jovens envolvidos com drogas, violência e exploração sexual: a capacitação dos professores para debater e orientar, nas escolas, os problemas relativos ao consumo de drogas lícitas ou ilicítas; a capacitação de policiais civis e militares, com a finalidade de atuarem também como agentes de proteção ao jovem, de modo integrado com a comunidade. Os fatores chaves para o sucesso e a viabilidade das ações almejadas estão, com certeza, relacionadas com a conscientização de gestores públicos e de entidades privadas sobre a gravidade do problema e da necessidade de uma ação convergente; o aproveitamento de infra-estruturas já existentes, a exemplo de campi universitários, escolas, centros esportivos e centros comunitários, principalmente nos períodos de ociosidade; a integração entre os três níveis de governo e a sociedade, para implementação e execução dos programas de atenção aos jovens; a utilização organizada, em projetos inovadores, de voluntários dispostos a participarem de redes de solidariedade aos jovens; a utilização de mecanismos novos, a exemplo do Fundo de Combate à Pobreza, que poderão complementar recursos para bolsa-escola, nos programas de recuperação escolar e profissionalização."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0324::Domicílio e arranjo familiar",
+   "unit_id": "S0324",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-28",
+   "orador": "Ricardo Santos",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "domicílios",
+     "forma_encontrada": "domicílios",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2475,
+     "fim_corpo": 3405,
+     "trecho": "Mesmo considerando todo o universo de jovens nessa faixa etária, as taxas de desemprego aberto, segundo informações da Pesquisa Mensal de Emprego do IBGE para as seis maiores regiões metropolitanas do País, relativas a 1996 eram, para esse segmento, aproximadamente o dobro da taxa média de desemprego da população como um todo, ou seja, 14,8% contra 7,5%. Ademais, as informações da PNAD revelam que quando engajados no mercado de trabalho, seus níveis salariais estão muito abaixo da média: 62% dos jovens têm rendimento inferior a 1 salário mínimo nas nove principais regiões metropolitanas do País. Do universo de 31 milhões de jovens, cerca de 8 milhões, ou seja, 25%, segundo estimativas da Secretaria de Ação Social da Presidência, pertencem a famílias cujo nível de renda domiciliar per capita está abaixo de meio salário mínimo, estando situados, de acordo com aquela Secretaria, como abaixo da linha de pobreza."
+    },
+    {
+     "inicio_corpo": 2475,
+     "fim_corpo": 3405,
+     "trecho": "Mesmo considerando todo o universo de jovens nessa faixa etária, as taxas de desemprego aberto, segundo informações da Pesquisa Mensal de Emprego do IBGE para as seis maiores regiões metropolitanas do País, relativas a 1996 eram, para esse segmento, aproximadamente o dobro da taxa média de desemprego da população como um todo, ou seja, 14,8% contra 7,5%. Ademais, as informações da PNAD revelam que quando engajados no mercado de trabalho, seus níveis salariais estão muito abaixo da média: 62% dos jovens têm rendimento inferior a 1 salário mínimo nas nove principais regiões metropolitanas do País. Do universo de 31 milhões de jovens, cerca de 8 milhões, ou seja, 25%, segundo estimativas da Secretaria de Ação Social da Presidência, pertencem a famílias cujo nível de renda domiciliar per capita está abaixo de meio salário mínimo, estando situados, de acordo com aquela Secretaria, como abaixo da linha de pobreza."
+    },
+    {
+     "inicio_corpo": 4524,
+     "fim_corpo": 5444,
+     "trecho": "O Governo e a sociedade civil do nosso Estado, com apoio da Unesco, por intermédio de seu coordenador para o Brasil e o Mercosul, Dr. Jorge Werthein, a quem registramos nossa admiração por sua sensibilidade e dedicação aos problemas dos jovens no Brasil e também por intermédio do Dr. Stélio Dias, aqui presente, resolveram enfrentar essa complexa situação social, contando com a participação ampla dos poderes públicos municipais, que formularam um conjunto de políticas em fase inicial de implementação. Para tanto, foi necessário, primeiro, mapear para toda a Região Metropolitana da Grande Vitória, bairro a bairro, o número de jovens de 15 a 24 anos, cujas famílias percebem menos de um salário mínimo, residentes em domicílios rústicos e populares, com baixo grau de escolaridade e alto índice de desemprego, caracterizando, no nosso caso, o que se denominou de jovens em situação de extremo risco social."
+    },
+    {
+     "inicio_corpo": 4524,
+     "fim_corpo": 5444,
+     "trecho": "O Governo e a sociedade civil do nosso Estado, com apoio da Unesco, por intermédio de seu coordenador para o Brasil e o Mercosul, Dr. Jorge Werthein, a quem registramos nossa admiração por sua sensibilidade e dedicação aos problemas dos jovens no Brasil e também por intermédio do Dr. Stélio Dias, aqui presente, resolveram enfrentar essa complexa situação social, contando com a participação ampla dos poderes públicos municipais, que formularam um conjunto de políticas em fase inicial de implementação. Para tanto, foi necessário, primeiro, mapear para toda a Região Metropolitana da Grande Vitória, bairro a bairro, o número de jovens de 15 a 24 anos, cujas famílias percebem menos de um salário mínimo, residentes em domicílios rústicos e populares, com baixo grau de escolaridade e alto índice de desemprego, caracterizando, no nosso caso, o que se denominou de jovens em situação de extremo risco social."
+    },
+    {
+     "inicio_corpo": 5963,
+     "fim_corpo": 6888,
+     "trecho": "o integral dos jovens por meio de curso supletivo e de reforço escolar; ações voltadas para a formação de jovens para o trabalho, considerando as oportunidades de capacitação através de estágios e trabalho educativos; ações inerentes à socialização e ao desenvolvimento de habilidades artísticas, visando aumentar os sentimentos de auto-estima, espírito comunitário, tolerância e solidariedade entre os jovens; ações voltadas para a melhoria de renda através da inserção dos jovens no mercado de trabalho, formal ou informal, inclusive incentivando e apoiando o desenvolvimento do empreendedorismo, quer individual quer coletivo, através das cooperativas sociais; ações específicas para jovens que, mesmo não estando formalmente em conflito com a lei, já se encontram envolvidos com drogas, violência ou exploração sexual, visando especialmente a criação de um ambiente favorável a sua reinserção na família e na comunidade."
+    },
+    {
+     "inicio_corpo": 8707,
+     "fim_corpo": 9700,
+     "trecho": "Outra experiência exitosa no Espírito Santo refere-se ao Projeto Oficina-Escola, da Secretaria de Estado da Cultura e Esporte, que, por meio da recuperação de obras arquitetônicas de valor artístico e cultural, envolve os jovens em programa de capacitação e profissionalização. Nosso objetivo é, a partir dessa experiência inicial, em fase de implementação no Estado do Espírito Santo, ampliar o debate dentro do Senado da República, com vista à concepção de um programa nacional consistente, voltado para a atenção ao jovem em situação de extremo risco social, principalmente nas regiões metropolitanas. É necessário, a este propósito, valorizar, de início, as ações meritórias da Secretaria de Ação Social da Presidência da República, a exemplo dos programas \"Agente Jovem\", \"Centros da Juventude\" e \"Serviço Civil Voluntário\", de abrangência nacional, que buscam, ainda que de forma incipiente, encaminhar soluções para os problemas que afetam essa parcela da juventude brasileira."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0324::Educação",
+   "unit_id": "S0324",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-28",
+   "orador": "Ricardo Santos",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "Escola",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5444,
+     "fim_corpo": 6888,
+     "trecho": "Chegamos ao impressionante número de 32 mil jovens nessa situação nos seis Municípios da área metropolitana. A proposta capixaba, em síntese, visa ampliar oportunidades para inserção do jovem no mercado de trabalho e sua participação social na comunidade. Nesse sentido, é relevante articular, estimular e apoiar as iniciativas em curso, sejam públicas ou da sociedade civil. Com base nesse objetivo geral, as ações prioritárias, de forma sintética, são as seguintes: ações relativas à formação e desenvolvimento integral dos jovens por meio de curso supletivo e de reforço escolar; ações voltadas para a formação de jovens para o trabalho, considerando as oportunidades de capacitação através de estágios e trabalho educativos; ações inerentes à socialização e ao desenvolvimento de habilidades artísticas, visando aumentar os sentimentos de auto-estima, espírito comunitário, tolerância e solidariedade entre os jovens; ações voltadas para a melhoria de renda através da inserção dos jovens no mercado de trabalho, formal ou informal, inclusive incentivando e apoiando o desenvolvimento do empreendedorismo, quer individual quer coletivo, através das cooperativas sociais; ações específicas para jovens que, mesmo não estando formalmente em conflito com a lei, já se encontram envolvidos com drogas, violência ou exploração sexual, visando especialmente a criação de um ambiente favorável a sua reinserção na família e na comunidade."
+    },
+    {
+     "inicio_corpo": 6888,
+     "fim_corpo": 7334,
+     "trecho": "Dentre as ações específicas, destacaríamos duas atividades que reputamos importantes para esses jovens envolvidos com drogas, violência e exploração sexual: a capacitação dos professores para debater e orientar, nas escolas, os problemas relativos ao consumo de drogas lícitas ou ilicítas; a capacitação de policiais civis e militares, com a finalidade de atuarem também como agentes de proteção ao jovem, de modo integrado com a comunidade."
+    },
+    {
+     "inicio_corpo": 6888,
+     "fim_corpo": 8202,
+     "trecho": "Dentre as ações específicas, destacaríamos duas atividades que reputamos importantes para esses jovens envolvidos com drogas, violência e exploração sexual: a capacitação dos professores para debater e orientar, nas escolas, os problemas relativos ao consumo de drogas lícitas ou ilicítas; a capacitação de policiais civis e militares, com a finalidade de atuarem também como agentes de proteção ao jovem, de modo integrado com a comunidade. Os fatores chaves para o sucesso e a viabilidade das ações almejadas estão, com certeza, relacionadas com a conscientização de gestores públicos e de entidades privadas sobre a gravidade do problema e da necessidade de uma ação convergente; o aproveitamento de infra-estruturas já existentes, a exemplo de campi universitários, escolas, centros esportivos e centros comunitários, principalmente nos períodos de ociosidade; a integração entre os três níveis de governo e a sociedade, para implementação e execução dos programas de atenção aos jovens; a utilização organizada, em projetos inovadores, de voluntários dispostos a participarem de redes de solidariedade aos jovens; a utilização de mecanismos novos, a exemplo do Fundo de Combate à Pobreza, que poderão complementar recursos para bolsa-escola, nos programas de recuperação escolar e profissionalização."
+    },
+    {
+     "inicio_corpo": 7334,
+     "fim_corpo": 8202,
+     "trecho": "Os fatores chaves para o sucesso e a viabilidade das ações almejadas estão, com certeza, relacionadas com a conscientização de gestores públicos e de entidades privadas sobre a gravidade do problema e da necessidade de uma ação convergente; o aproveitamento de infra-estruturas já existentes, a exemplo de campi universitários, escolas, centros esportivos e centros comunitários, principalmente nos períodos de ociosidade; a integração entre os três níveis de governo e a sociedade, para implementação e execução dos programas de atenção aos jovens; a utilização organizada, em projetos inovadores, de voluntários dispostos a participarem de redes de solidariedade aos jovens; a utilização de mecanismos novos, a exemplo do Fundo de Combate à Pobreza, que poderão complementar recursos para bolsa-escola, nos programas de recuperação escolar e profissionalização."
+    },
+    {
+     "inicio_corpo": 7334,
+     "fim_corpo": 8202,
+     "trecho": "Os fatores chaves para o sucesso e a viabilidade das ações almejadas estão, com certeza, relacionadas com a conscientização de gestores públicos e de entidades privadas sobre a gravidade do problema e da necessidade de uma ação convergente; o aproveitamento de infra-estruturas já existentes, a exemplo de campi universitários, escolas, centros esportivos e centros comunitários, principalmente nos períodos de ociosidade; a integração entre os três níveis de governo e a sociedade, para implementação e execução dos programas de atenção aos jovens; a utilização organizada, em projetos inovadores, de voluntários dispostos a participarem de redes de solidariedade aos jovens; a utilização de mecanismos novos, a exemplo do Fundo de Combate à Pobreza, que poderão complementar recursos para bolsa-escola, nos programas de recuperação escolar e profissionalização."
+    },
+    {
+     "inicio_corpo": 8202,
+     "fim_corpo": 8985,
+     "trecho": "A existência de experiências inovadoras, a exemplo da Rede de Solidariedade do Centro Federal de Educação Tecnológica do Espírito Santo - CEFET-ES, que incorporam essa nova estratégia, nos deixa otimistas quanto às possibilidades de sucesso. O CEFET-ES vem organizando, com a participação da comunidade, turmas especiais para jovens de bairros periféricos, que se inserem em um programa de formação ampla, incluindo cursos supletivos e profissionalizantes, além de atividades esportivas e artísticas. Outra experiência exitosa no Espírito Santo refere-se ao Projeto Oficina-Escola, da Secretaria de Estado da Cultura e Esporte, que, por meio da recuperação de obras arquitetônicas de valor artístico e cultural, envolve os jovens em programa de capacitação e profissionalização."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0324::Escolaridade e letramento",
+   "unit_id": "S0324",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-28",
+   "orador": "Ricardo Santos",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escolaridade",
+     "forma_encontrada": "escolaridade",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4524,
+     "fim_corpo": 5444,
+     "trecho": "O Governo e a sociedade civil do nosso Estado, com apoio da Unesco, por intermédio de seu coordenador para o Brasil e o Mercosul, Dr. Jorge Werthein, a quem registramos nossa admiração por sua sensibilidade e dedicação aos problemas dos jovens no Brasil e também por intermédio do Dr. Stélio Dias, aqui presente, resolveram enfrentar essa complexa situação social, contando com a participação ampla dos poderes públicos municipais, que formularam um conjunto de políticas em fase inicial de implementação. Para tanto, foi necessário, primeiro, mapear para toda a Região Metropolitana da Grande Vitória, bairro a bairro, o número de jovens de 15 a 24 anos, cujas famílias percebem menos de um salário mínimo, residentes em domicílios rústicos e populares, com baixo grau de escolaridade e alto índice de desemprego, caracterizando, no nosso caso, o que se denominou de jovens em situação de extremo risco social."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0324::Idade",
+   "unit_id": "S0324",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-28",
+   "orador": "Ricardo Santos",
+   "n_ocorrencias_no_par": 28,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 22,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 287,
+     "trecho": "O SR. RICARDO SANTOS (PSDB - ES. Pronuncia o seguinte discurso.) - Sr. Presidente, Srªs e Srs. Senadores, tentarei ser breve, pois tratarei de um assunto de extrema relevância para o País, a questão da estratégia e prevenção da violência em grupos de jovens em situação de risco social."
+    },
+    {
+     "inicio_corpo": 1122,
+     "fim_corpo": 2089,
+     "trecho": "Exigira, ainda, um esforço integrado dos atores públicos e privados para alterar o padrão histórico de desenvolvimento, marcado por profundas desigualdades, visando a elevar o Brasil à condição de nação socialmente justa. Nesse sentido, a ação do Estado, por meio de políticas sociais básicas e compensatórias, centradas em programas definidos a partir das demandas da sociedade, é essencial para a abertura de oportunidades para o maior número possível de brasileiros, em especial para aqueles situados abaixo da linha de pobreza. E, dessa forma, diminuir a enorme desigualdade social que nos caracteriza. O agravamento do clima de violência nos grandes centros urbanos do País, nos dias de hoje, amplamente veiculado pela imprensa e debatido no Senado Federal, nos faz enfatizar a situação dos jovens na faixa de 15 a 24 anos, fração importante de nossa população economicamente ativa, especialmente dos grupos que se encontram em situação de risco social."
+    },
+    {
+     "inicio_corpo": 1658,
+     "fim_corpo": 2475,
+     "trecho": "E, dessa forma, diminuir a enorme desigualdade social que nos caracteriza. O agravamento do clima de violência nos grandes centros urbanos do País, nos dias de hoje, amplamente veiculado pela imprensa e debatido no Senado Federal, nos faz enfatizar a situação dos jovens na faixa de 15 a 24 anos, fração importante de nossa população economicamente ativa, especialmente dos grupos que se encontram em situação de risco social. Segundo a Síntese dos Indicadores Sociais, publicada pelo IBGE em 1999, com dados da Pesquisa Nacional por Amostragem Domiciliar - PNAB - de 1998, existia, no Brasil, uma população total de 31 milhões de jovens, os quais representavam 40% da População Economicamente Ativa - PEA, confirmando sua relevância como atores potencialmente importantes do crescimento econômico do Brasil."
+    },
+    {
+     "inicio_corpo": 1658,
+     "fim_corpo": 2832,
+     "trecho": "E, dessa forma, diminuir a enorme desigualdade social que nos caracteriza. O agravamento do clima de violência nos grandes centros urbanos do País, nos dias de hoje, amplamente veiculado pela imprensa e debatido no Senado Federal, nos faz enfatizar a situação dos jovens na faixa de 15 a 24 anos, fração importante de nossa população economicamente ativa, especialmente dos grupos que se encontram em situação de risco social. Segundo a Síntese dos Indicadores Sociais, publicada pelo IBGE em 1999, com dados da Pesquisa Nacional por Amostragem Domiciliar - PNAB - de 1998, existia, no Brasil, uma população total de 31 milhões de jovens, os quais representavam 40% da População Economicamente Ativa - PEA, confirmando sua relevância como atores potencialmente importantes do crescimento econômico do Brasil. Mesmo considerando todo o universo de jovens nessa faixa etária, as taxas de desemprego aberto, segundo informações da Pesquisa Mensal de Emprego do IBGE para as seis maiores regiões metropolitanas do País, relativas a 1996 eram, para esse segmento, aproximadamente o dobro da taxa média de desemprego da população como um todo, ou seja, 14,8% contra 7,5%."
+    },
+    {
+     "inicio_corpo": 2089,
+     "fim_corpo": 3082,
+     "trecho": "Segundo a Síntese dos Indicadores Sociais, publicada pelo IBGE em 1999, com dados da Pesquisa Nacional por Amostragem Domiciliar - PNAB - de 1998, existia, no Brasil, uma população total de 31 milhões de jovens, os quais representavam 40% da População Economicamente Ativa - PEA, confirmando sua relevância como atores potencialmente importantes do crescimento econômico do Brasil. Mesmo considerando todo o universo de jovens nessa faixa etária, as taxas de desemprego aberto, segundo informações da Pesquisa Mensal de Emprego do IBGE para as seis maiores regiões metropolitanas do País, relativas a 1996 eram, para esse segmento, aproximadamente o dobro da taxa média de desemprego da população como um todo, ou seja, 14,8% contra 7,5%. Ademais, as informações da PNAD revelam que quando engajados no mercado de trabalho, seus níveis salariais estão muito abaixo da média: 62% dos jovens têm rendimento inferior a 1 salário mínimo nas nove principais regiões metropolitanas do País."
+    },
+    {
+     "inicio_corpo": 2475,
+     "fim_corpo": 3405,
+     "trecho": "Mesmo considerando todo o universo de jovens nessa faixa etária, as taxas de desemprego aberto, segundo informações da Pesquisa Mensal de Emprego do IBGE para as seis maiores regiões metropolitanas do País, relativas a 1996 eram, para esse segmento, aproximadamente o dobro da taxa média de desemprego da população como um todo, ou seja, 14,8% contra 7,5%. Ademais, as informações da PNAD revelam que quando engajados no mercado de trabalho, seus níveis salariais estão muito abaixo da média: 62% dos jovens têm rendimento inferior a 1 salário mínimo nas nove principais regiões metropolitanas do País. Do universo de 31 milhões de jovens, cerca de 8 milhões, ou seja, 25%, segundo estimativas da Secretaria de Ação Social da Presidência, pertencem a famílias cujo nível de renda domiciliar per capita está abaixo de meio salário mínimo, estando situados, de acordo com aquela Secretaria, como abaixo da linha de pobreza."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0324::Posição no trabalho",
+   "unit_id": "S0324",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-28",
+   "orador": "Ricardo Santos",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1658,
+     "fim_corpo": 2832,
+     "trecho": "E, dessa forma, diminuir a enorme desigualdade social que nos caracteriza. O agravamento do clima de violência nos grandes centros urbanos do País, nos dias de hoje, amplamente veiculado pela imprensa e debatido no Senado Federal, nos faz enfatizar a situação dos jovens na faixa de 15 a 24 anos, fração importante de nossa população economicamente ativa, especialmente dos grupos que se encontram em situação de risco social. Segundo a Síntese dos Indicadores Sociais, publicada pelo IBGE em 1999, com dados da Pesquisa Nacional por Amostragem Domiciliar - PNAB - de 1998, existia, no Brasil, uma população total de 31 milhões de jovens, os quais representavam 40% da População Economicamente Ativa - PEA, confirmando sua relevância como atores potencialmente importantes do crescimento econômico do Brasil. Mesmo considerando todo o universo de jovens nessa faixa etária, as taxas de desemprego aberto, segundo informações da Pesquisa Mensal de Emprego do IBGE para as seis maiores regiões metropolitanas do País, relativas a 1996 eram, para esse segmento, aproximadamente o dobro da taxa média de desemprego da população como um todo, ou seja, 14,8% contra 7,5%."
+    },
+    {
+     "inicio_corpo": 2089,
+     "fim_corpo": 2832,
+     "trecho": "Segundo a Síntese dos Indicadores Sociais, publicada pelo IBGE em 1999, com dados da Pesquisa Nacional por Amostragem Domiciliar - PNAB - de 1998, existia, no Brasil, uma população total de 31 milhões de jovens, os quais representavam 40% da População Economicamente Ativa - PEA, confirmando sua relevância como atores potencialmente importantes do crescimento econômico do Brasil. Mesmo considerando todo o universo de jovens nessa faixa etária, as taxas de desemprego aberto, segundo informações da Pesquisa Mensal de Emprego do IBGE para as seis maiores regiões metropolitanas do País, relativas a 1996 eram, para esse segmento, aproximadamente o dobro da taxa média de desemprego da população como um todo, ou seja, 14,8% contra 7,5%."
+    },
+    {
+     "inicio_corpo": 4524,
+     "fim_corpo": 5444,
+     "trecho": "O Governo e a sociedade civil do nosso Estado, com apoio da Unesco, por intermédio de seu coordenador para o Brasil e o Mercosul, Dr. Jorge Werthein, a quem registramos nossa admiração por sua sensibilidade e dedicação aos problemas dos jovens no Brasil e também por intermédio do Dr. Stélio Dias, aqui presente, resolveram enfrentar essa complexa situação social, contando com a participação ampla dos poderes públicos municipais, que formularam um conjunto de políticas em fase inicial de implementação. Para tanto, foi necessário, primeiro, mapear para toda a Região Metropolitana da Grande Vitória, bairro a bairro, o número de jovens de 15 a 24 anos, cujas famílias percebem menos de um salário mínimo, residentes em domicílios rústicos e populares, com baixo grau de escolaridade e alto índice de desemprego, caracterizando, no nosso caso, o que se denominou de jovens em situação de extremo risco social."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0324::Renda e classe",
+   "unit_id": "S0324",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-28",
+   "orador": "Ricardo Santos",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 763,
+     "fim_corpo": 1658,
+     "trecho": "Propúnhamos, para isso, dentre outras políticas, a necessidade da redução da taxa de juros e a reestruturação e ampliação do crédito bancário, especialmente de médio e longo prazos. Insistimos, também, que o crescimento econômico, enquanto condição necessária e indispensável, não seria suficiente para assegurar a prosperidade para todos os brasileiros. Exigira, ainda, um esforço integrado dos atores públicos e privados para alterar o padrão histórico de desenvolvimento, marcado por profundas desigualdades, visando a elevar o Brasil à condição de nação socialmente justa. Nesse sentido, a ação do Estado, por meio de políticas sociais básicas e compensatórias, centradas em programas definidos a partir das demandas da sociedade, é essencial para a abertura de oportunidades para o maior número possível de brasileiros, em especial para aqueles situados abaixo da linha de pobreza."
+    },
+    {
+     "inicio_corpo": 2832,
+     "fim_corpo": 3405,
+     "trecho": "Ademais, as informações da PNAD revelam que quando engajados no mercado de trabalho, seus níveis salariais estão muito abaixo da média: 62% dos jovens têm rendimento inferior a 1 salário mínimo nas nove principais regiões metropolitanas do País. Do universo de 31 milhões de jovens, cerca de 8 milhões, ou seja, 25%, segundo estimativas da Secretaria de Ação Social da Presidência, pertencem a famílias cujo nível de renda domiciliar per capita está abaixo de meio salário mínimo, estando situados, de acordo com aquela Secretaria, como abaixo da linha de pobreza."
+    },
+    {
+     "inicio_corpo": 7334,
+     "fim_corpo": 8202,
+     "trecho": "Os fatores chaves para o sucesso e a viabilidade das ações almejadas estão, com certeza, relacionadas com a conscientização de gestores públicos e de entidades privadas sobre a gravidade do problema e da necessidade de uma ação convergente; o aproveitamento de infra-estruturas já existentes, a exemplo de campi universitários, escolas, centros esportivos e centros comunitários, principalmente nos períodos de ociosidade; a integração entre os três níveis de governo e a sociedade, para implementação e execução dos programas de atenção aos jovens; a utilização organizada, em projetos inovadores, de voluntários dispostos a participarem de redes de solidariedade aos jovens; a utilização de mecanismos novos, a exemplo do Fundo de Combate à Pobreza, que poderão complementar recursos para bolsa-escola, nos programas de recuperação escolar e profissionalização."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0325::Gênero",
+   "unit_id": "S0325",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-28",
+   "orador": "Carlos Bezerra",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "mulheres",
+     "forma_encontrada": "mulheres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 878,
+     "trecho": "O SR. CARLOS BEZERRA (PMDB – MT) - Sr. Presidente, Srªs. e Srs. Senadores, com justa razão, um dos traços de comportamento mais cobrados de todos aqueles que se dedicam à vida pública é a coerência. A sociedade, e o eleitor em especial, não aceita e não compreende variações bruscas de opinião e posicionamento, sem que sobrevenha um motivo forte e evidente, perfeitamente compreensível pelo senso comum. A atitude é absolutamente procedente, na medida em que se espera que cada ser humano, ao construir a sua visão de mundo, mantenha um mínimo de adesão a ela. No caso dos homens e mulheres que se dedicam ao fazer político, do qual dependem virtual e efetivamente milhões de pessoas, torna-se sobremodo relevante a manutenção de uma conduta harmônica, com um mínimo de nexo, de modo que a sociedade possa ter certeza que as promessas feitas hoje, serão honradas amanhã."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0325::Macrorregião",
+   "unit_id": "S0325",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-28",
+   "orador": "Carlos Bezerra",
+   "n_ocorrencias_no_par": 10,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 4,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desenvolvimento regional",
+     "forma_encontrada": "desenvolvimento regional",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1085,
+     "fim_corpo": 1825,
+     "trecho": "Em maio do ano passado vim a esta mesma tribuna para condenar a privatização da Petrobras, da Caixa Econômica Federal e do Banco do Brasil, que por todas as razões, em particular as estratégicas e sociais, devem ser mantidos na esfera pública. O Banco do Brasil, inclusive, é merecedor, como demonstram recentes pesquisas de opinião, da admiração e confiança da imensa maioria dos brasileiros. Logo, por uma questão de coerência, no momento em que se retoma nos meios governistas o ímpeto privatista, que já alienou tantos bens inalienáveis do patrimônio público brasileiro, faço este pronunciamento para alertar sobre o equívoco e a absoluta inconveniência de efetivar-se a privatização do Basa, o nosso Banco da Amazônia S/A."
+    },
+    {
+     "inicio_corpo": 1335,
+     "fim_corpo": 2216,
+     "trecho": "O Banco do Brasil, inclusive, é merecedor, como demonstram recentes pesquisas de opinião, da admiração e confiança da imensa maioria dos brasileiros. Logo, por uma questão de coerência, no momento em que se retoma nos meios governistas o ímpeto privatista, que já alienou tantos bens inalienáveis do patrimônio público brasileiro, faço este pronunciamento para alertar sobre o equívoco e a absoluta inconveniência de efetivar-se a privatização do Basa, o nosso Banco da Amazônia S/A. Operando há mais de meio século, primeiro como Banco de Crédito da Borracha, quando garantiu o suprimento desse insumo essencial aos aliados, durante a Segunda Guerra Mundial, transformou-se posteriormente em Banco de Crédito da Amazônia e fomentou o desenvolvimento de novas atividades produtivas, melhorando as condições de vida das populações regionais incluídas na Amazônia legal."
+    },
+    {
+     "inicio_corpo": 1335,
+     "fim_corpo": 2216,
+     "trecho": "O Banco do Brasil, inclusive, é merecedor, como demonstram recentes pesquisas de opinião, da admiração e confiança da imensa maioria dos brasileiros. Logo, por uma questão de coerência, no momento em que se retoma nos meios governistas o ímpeto privatista, que já alienou tantos bens inalienáveis do patrimônio público brasileiro, faço este pronunciamento para alertar sobre o equívoco e a absoluta inconveniência de efetivar-se a privatização do Basa, o nosso Banco da Amazônia S/A. Operando há mais de meio século, primeiro como Banco de Crédito da Borracha, quando garantiu o suprimento desse insumo essencial aos aliados, durante a Segunda Guerra Mundial, transformou-se posteriormente em Banco de Crédito da Amazônia e fomentou o desenvolvimento de novas atividades produtivas, melhorando as condições de vida das populações regionais incluídas na Amazônia legal."
+    },
+    {
+     "inicio_corpo": 1485,
+     "fim_corpo": 2486,
+     "trecho": "Logo, por uma questão de coerência, no momento em que se retoma nos meios governistas o ímpeto privatista, que já alienou tantos bens inalienáveis do patrimônio público brasileiro, faço este pronunciamento para alertar sobre o equívoco e a absoluta inconveniência de efetivar-se a privatização do Basa, o nosso Banco da Amazônia S/A. Operando há mais de meio século, primeiro como Banco de Crédito da Borracha, quando garantiu o suprimento desse insumo essencial aos aliados, durante a Segunda Guerra Mundial, transformou-se posteriormente em Banco de Crédito da Amazônia e fomentou o desenvolvimento de novas atividades produtivas, melhorando as condições de vida das populações regionais incluídas na Amazônia legal. A partir de 1966, sob a denominação de Banco da Amazônia S/A, ou simplesmente Basa, como é conhecido nacionalmente, tornou-se um importante vetor da integração da Amazônia na economia nacional, trabalhando com firmeza na redução das graves disparidades regionais."
+    },
+    {
+     "inicio_corpo": 1825,
+     "fim_corpo": 2486,
+     "trecho": "Operando há mais de meio século, primeiro como Banco de Crédito da Borracha, quando garantiu o suprimento desse insumo essencial aos aliados, durante a Segunda Guerra Mundial, transformou-se posteriormente em Banco de Crédito da Amazônia e fomentou o desenvolvimento de novas atividades produtivas, melhorando as condições de vida das populações regionais incluídas na Amazônia legal. A partir de 1966, sob a denominação de Banco da Amazônia S/A, ou simplesmente Basa, como é conhecido nacionalmente, tornou-se um importante vetor da integração da Amazônia na economia nacional, trabalhando com firmeza na redução das graves disparidades regionais."
+    },
+    {
+     "inicio_corpo": 1825,
+     "fim_corpo": 2601,
+     "trecho": "Operando há mais de meio século, primeiro como Banco de Crédito da Borracha, quando garantiu o suprimento desse insumo essencial aos aliados, durante a Segunda Guerra Mundial, transformou-se posteriormente em Banco de Crédito da Amazônia e fomentou o desenvolvimento de novas atividades produtivas, melhorando as condições de vida das populações regionais incluídas na Amazônia legal. A partir de 1966, sob a denominação de Banco da Amazônia S/A, ou simplesmente Basa, como é conhecido nacionalmente, tornou-se um importante vetor da integração da Amazônia na economia nacional, trabalhando com firmeza na redução das graves disparidades regionais. Ademais, atua desde então como o agente financeiro da política do Governo Federal para o desenvolvimento regional."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0325::Urbano e rural",
+   "unit_id": "S0325",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-28",
+   "orador": "Carlos Bezerra",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4690,
+     "fim_corpo": 6262,
+     "trecho": "Tudo está a indicar que o Governo do Presidente Fernando Henrique Cardoso prefere submeter-se à voz de uma consultoria estrangeira a considerar os clamores e as reais necessidades da sociedade brasileira. Aparentemente, Sua Excelência esquece que sua alta função pressupõe a capacidade de ouvir, interpretar e liderar a sociedade na condução de seu destino. É preciso um altíssimo grau de miopia de diagnóstico, por parte do Governo Federal, para não perceber que o Basa vem perseguindo com sucesso diretrizes bastante claras quando se trata de melhorar a vida do amazônide. O banco tem concentrado sua ação na geração de emprego e renda com incentivo ao associativismo, o que fortalece a base produtiva regional; estímulo à cadeia produtiva, com incentivo à instalação de agroindústrias; fixação do homem no campo, com melhoria de sua condição; e apoio à pesquisa direcionada à utilização racional dos recursos naturais da Amazônia, com valorização dos bens e serviços ambientais. Dessa forma, Sr. Presidente, Sras. e Srs. Senadores, peço ao Governo Federal, ao Governo do Presidente Fernando Henrique Cardoso, que preserve o Basa, o Banco da Amazônia, mantendo-o fora dessa nova etapa de privatização. Assim, vai assegurar às populações alcançadas pela sua ampla malha de atuação a continuidade de projetos imprescindíveis, promotores do desenvolvimento social e econômico de toda uma região. Como conseqüência estará garantindo a elevação da qualidade de vida de um vasto contingente de brasileiros. Muito obrigado. ï #"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0326::Escolaridade e letramento",
+   "unit_id": "S0326",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-28",
+   "orador": "Jorge Bornhausen",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "alfabetização",
+     "forma_encontrada": "Alfabetização",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "analfabetismo",
+     "forma_encontrada": "analfabetismo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1177,
+     "fim_corpo": 2003,
+     "trecho": "87 da LDB (Lei Darcy Ribeiro). O próprio Plano Nacional de Educação foi elaborado com o apoio do Escritório da UNESCO no Brasil. Aliás, o Brasil foi o único País a incluir em sua legislação ordinária o compromisso da Declaração Mundial de Educação para Todos. Paralelamente, a UNESCO dá suporte técnico e institucional à reforma da educação profissional do ensino médio, que esta sendo conduzida pelo Ministério da Educação; apoiou a maioria dos Estados na elaboração dos planos de ação e, ademais, procura, em articulação com a SEMTEC/MEC, colocar toda sua experiência na área educacional, para colaborar com o êxito dessa reforma. Ainda no campo da educação, é oportuno mencionar o suporte técnico e institucional que a UNESCO proporciona ao programa Alfabetização Solidária, liderado pela senhora Ruth Cardoso."
+    },
+    {
+     "inicio_corpo": 1306,
+     "fim_corpo": 2127,
+     "trecho": "Aliás, o Brasil foi o único País a incluir em sua legislação ordinária o compromisso da Declaração Mundial de Educação para Todos. Paralelamente, a UNESCO dá suporte técnico e institucional à reforma da educação profissional do ensino médio, que esta sendo conduzida pelo Ministério da Educação; apoiou a maioria dos Estados na elaboração dos planos de ação e, ademais, procura, em articulação com a SEMTEC/MEC, colocar toda sua experiência na área educacional, para colaborar com o êxito dessa reforma. Ainda no campo da educação, é oportuno mencionar o suporte técnico e institucional que a UNESCO proporciona ao programa Alfabetização Solidária, liderado pela senhora Ruth Cardoso. Esse programa, cujo êxito vem-se ampliando, constitui hoje uma estratégia importante com vistas à redução do analfabetismo."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0326::Gênero",
+   "unit_id": "S0326",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-28",
+   "orador": "Jorge Bornhausen",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "mulheres",
+     "forma_encontrada": "mulheres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "mulheres",
+     "forma_encontrada": "mulheres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3801,
+     "fim_corpo": 4679,
+     "trecho": "Trabalho semelhante é feito em defesa das manifestações culturais dos tradicionalmente excluídos, como os povos indígenas e os afro-descendentes, e em prol da diversidade cultural entre os povos de todo o planeta. Especial ênfase vem sendo dada à valorização das manifestações culturais imateriais ou intangíveis, tais como festas, procissões, tradições orais e saberes do povo. Esse conjunto de manifestações – parte fundamental da identidade cultural de um povo – vem sendo entusiasticamente abraçado pelo governo brasileiro, que acaba de concluir os trabalhos de uma comissão do Ministério da Cultura, visando à proteção do patrimônio imaterial do País. Saliento ainda o trabalho excepcional da UNESCO na cultura de paz. Se é na mente dos homens e das mulheres que nascem as guerras, é também na mente dos homens e das mulheres que devemos construir as defesas da paz."
+    },
+    {
+     "inicio_corpo": 3801,
+     "fim_corpo": 4679,
+     "trecho": "Trabalho semelhante é feito em defesa das manifestações culturais dos tradicionalmente excluídos, como os povos indígenas e os afro-descendentes, e em prol da diversidade cultural entre os povos de todo o planeta. Especial ênfase vem sendo dada à valorização das manifestações culturais imateriais ou intangíveis, tais como festas, procissões, tradições orais e saberes do povo. Esse conjunto de manifestações – parte fundamental da identidade cultural de um povo – vem sendo entusiasticamente abraçado pelo governo brasileiro, que acaba de concluir os trabalhos de uma comissão do Ministério da Cultura, visando à proteção do patrimônio imaterial do País. Saliento ainda o trabalho excepcional da UNESCO na cultura de paz. Se é na mente dos homens e das mulheres que nascem as guerras, é também na mente dos homens e das mulheres que devemos construir as defesas da paz."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0326::Idade",
+   "unit_id": "S0326",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-28",
+   "orador": "Jorge Bornhausen",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4458,
+     "fim_corpo": 5299,
+     "trecho": "Saliento ainda o trabalho excepcional da UNESCO na cultura de paz. Se é na mente dos homens e das mulheres que nascem as guerras, é também na mente dos homens e das mulheres que devemos construir as defesas da paz. Essa importante afirmação encontra-se na ata da constituição da UNESCO e é sobremaneira importante no Brasil, onde a violência cresce assustadoramente. O trabalho da UNESCO na divulgação da cultura da paz, auxiliado por uma sólida linha de pesquisas sobre juventude, violência e suas aspirações, tem sido fundamental. Apontar as preocupações da juventude e as causas da violência, destacar experiências bem sucedidas de combate à violência, procurando estimular a implementação de políticas públicas voltadas às crianças e aos jovens são alguns dos aspectos dignos de destaque sobre a atuação da UNESCO no Brasil."
+    },
+    {
+     "inicio_corpo": 4458,
+     "fim_corpo": 5299,
+     "trecho": "Saliento ainda o trabalho excepcional da UNESCO na cultura de paz. Se é na mente dos homens e das mulheres que nascem as guerras, é também na mente dos homens e das mulheres que devemos construir as defesas da paz. Essa importante afirmação encontra-se na ata da constituição da UNESCO e é sobremaneira importante no Brasil, onde a violência cresce assustadoramente. O trabalho da UNESCO na divulgação da cultura da paz, auxiliado por uma sólida linha de pesquisas sobre juventude, violência e suas aspirações, tem sido fundamental. Apontar as preocupações da juventude e as causas da violência, destacar experiências bem sucedidas de combate à violência, procurando estimular a implementação de políticas públicas voltadas às crianças e aos jovens são alguns dos aspectos dignos de destaque sobre a atuação da UNESCO no Brasil."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0326::Raça e etnia",
+   "unit_id": "S0326",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-28",
+   "orador": "Jorge Bornhausen",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "indígenas",
+     "forma_encontrada": "indígenas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "afrodescendentes",
+     "forma_encontrada": "afro-descendentes",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3068,
+     "fim_corpo": 4015,
+     "trecho": "Nesse sentido, a UNESCO vem cooperando, há mais de 3 anos, para a preparação e implementação do Programa Monumenta, patrocinado pelo Ministério da Cultura e pelo BID, com o apoio técnico e gerencial da UNESCO. As cidades históricas brasileiras, especialmente aquelas consideradas Patrimônio Mundial, são beneficiadas pelo Programa, dirigido a financiar investimentos para a melhoria das áreas históricas visando à conservação dos monumentos e espaços públicos significativos. O conhecimento e a valorização dos patrimônios culturais do Brasil são de suma importância para a auto-estima do povo brasileiro, sobretudo para a dos habitantes dos sítios culturais que levam hoje o título de Patrimônio Cultural da Humanidade. Trabalho semelhante é feito em defesa das manifestações culturais dos tradicionalmente excluídos, como os povos indígenas e os afro-descendentes, e em prol da diversidade cultural entre os povos de todo o planeta."
+    },
+    {
+     "inicio_corpo": 3068,
+     "fim_corpo": 4015,
+     "trecho": "Nesse sentido, a UNESCO vem cooperando, há mais de 3 anos, para a preparação e implementação do Programa Monumenta, patrocinado pelo Ministério da Cultura e pelo BID, com o apoio técnico e gerencial da UNESCO. As cidades históricas brasileiras, especialmente aquelas consideradas Patrimônio Mundial, são beneficiadas pelo Programa, dirigido a financiar investimentos para a melhoria das áreas históricas visando à conservação dos monumentos e espaços públicos significativos. O conhecimento e a valorização dos patrimônios culturais do Brasil são de suma importância para a auto-estima do povo brasileiro, sobretudo para a dos habitantes dos sítios culturais que levam hoje o título de Patrimônio Cultural da Humanidade. Trabalho semelhante é feito em defesa das manifestações culturais dos tradicionalmente excluídos, como os povos indígenas e os afro-descendentes, e em prol da diversidade cultural entre os povos de todo o planeta."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0326::Urbano e rural",
+   "unit_id": "S0326",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-28",
+   "orador": "Jorge Bornhausen",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1177,
+     "fim_corpo": 2003,
+     "trecho": "87 da LDB (Lei Darcy Ribeiro). O próprio Plano Nacional de Educação foi elaborado com o apoio do Escritório da UNESCO no Brasil. Aliás, o Brasil foi o único País a incluir em sua legislação ordinária o compromisso da Declaração Mundial de Educação para Todos. Paralelamente, a UNESCO dá suporte técnico e institucional à reforma da educação profissional do ensino médio, que esta sendo conduzida pelo Ministério da Educação; apoiou a maioria dos Estados na elaboração dos planos de ação e, ademais, procura, em articulação com a SEMTEC/MEC, colocar toda sua experiência na área educacional, para colaborar com o êxito dessa reforma. Ainda no campo da educação, é oportuno mencionar o suporte técnico e institucional que a UNESCO proporciona ao programa Alfabetização Solidária, liderado pela senhora Ruth Cardoso."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0327::Domicílio e arranjo familiar",
+   "unit_id": "S0327",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-28",
+   "orador": "Carlos Patrocínio",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 584,
+     "trecho": "O SR. CARLOS PATROCÍNIO (PFL - TO) – Sr. Presidente, Sr as e Srs. Senadores, no início do último mês de maio, o Movimento dos Trabalhadores Rurais Sem-Terra – MST, apoiado por mais de três dezenas de entidades de trabalhadores rurais, ou com elas relacionadas, promoveu manifestações de protesto em cerca de vinte estados, das quais resultaram pelo menos uma centena de feridos, vítimas do confronto com as forças policiais. Reivindicava, principalmente, o assentamento das famílias há muito acampadas, para assim ter acesso às linhas de crédito e a outros benefícios oficiais."
+    },
+    {
+     "inicio_corpo": 1134,
+     "fim_corpo": 1928,
+     "trecho": "De fato, a Lei Complementar 93, de 4 de fevereiro de 1998, regulamentada pelo Decreto 3.027, de 13 de abril de 1999, cria o Fundo de Terras e de Reforma Agrária – Banco da Terra, com a finalidade de financiar programas de reordenação fundiária e de assentamento rural, relacionando como seus beneficiários os trabalhadores rurais não-proprietários, preferencialmente os assalariados, parceiros, posseiros e arrendatários, que comprovem, no mínimo, cinco anos de experiência na atividade agropecuária, além de agricultores proprietários de imóveis cuja área não alcance a dimensão da propriedade familiar, conforme definida pela Lei 4.504, de 30 de novembro de 1964, e que seja, comprovadamente, insuficiente para gerar renda capaz de lhes propiciar o próprio sustento e o de sua família."
+    },
+    {
+     "inicio_corpo": 5629,
+     "fim_corpo": 6484,
+     "trecho": "Também, enquanto na Constituição e no Estatuto da Terra o acesso à propriedade é universalizado, no Banco esse direito é atribuído aos que comprovem o mínimo de cinco anos de experiência na atividade agropecuária ou \"que sejam minifundistas\" . Enfim, \"suas diretrizes, como rentabilidade e retorno do capital investido, são as do mercado financeiro e seus indicadores são estritamente econômicos, o que torna quase impossível pensá-lo como instrumento de resgate de uma dívida social\" . Estudioso da questão, também o professor Bernardo Mançano Fernandes, da Universidade Estadual Paulista – Unesp, esclareceu, em artigo para o Jornal do Brasil , que \"o MST está estruturado em todo o País\" . Em duas décadas, foram realizados cerca de quatro mil projetos de assentamento, envolvendo 475.801 famílias, representativas de 2,5 milhões de pessoas."
+    },
+    {
+     "inicio_corpo": 5629,
+     "fim_corpo": 6566,
+     "trecho": "Também, enquanto na Constituição e no Estatuto da Terra o acesso à propriedade é universalizado, no Banco esse direito é atribuído aos que comprovem o mínimo de cinco anos de experiência na atividade agropecuária ou \"que sejam minifundistas\" . Enfim, \"suas diretrizes, como rentabilidade e retorno do capital investido, são as do mercado financeiro e seus indicadores são estritamente econômicos, o que torna quase impossível pensá-lo como instrumento de resgate de uma dívida social\" . Estudioso da questão, também o professor Bernardo Mançano Fernandes, da Universidade Estadual Paulista – Unesp, esclareceu, em artigo para o Jornal do Brasil , que \"o MST está estruturado em todo o País\" . Em duas décadas, foram realizados cerca de quatro mil projetos de assentamento, envolvendo 475.801 famílias, representativas de 2,5 milhões de pessoas. Vinculam-se ao movimento 42% das famílias da região Nordeste e 88% da região Sul."
+    },
+    {
+     "inicio_corpo": 8016,
+     "fim_corpo": 8900,
+     "trecho": "Opiniões menos rigorosas consideram que o Programa Cédula da Terra, tendo por base a \"reforma agrária apoiada no mercado\" , é uma alternativa promovida com o apoio técnico e financeiro do Banco Mundial, como se disse, e tema de construtivas discussões no Seminário sobre Reforma Agrária e Desenvolvimento Sustentável, promovido pelo Ministério do Desenvolvimento Agrário. A população a ser beneficiada são os trabalhadores rurais sem-terra e os produtores rurais pobres, com terra insuficiente para garantir processos de acumulação sustentável e mesmo de subsistência. Na denominada fase piloto, o programa vem sendo implementado na Bahia, Ceará, Maranhão, Minas Gerais e Pernambuco, devendo ser estendido para outros 13 estados, através do Programa Banco da Terra. Bem sucedido, poderá beneficiar 50 mil famílias a cada ano, com custos inferiores e com maior celeridade."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0327::Macrorregião",
+   "unit_id": "S0327",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-28",
+   "orador": "Carlos Patrocínio",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5873,
+     "fim_corpo": 6566,
+     "trecho": "Enfim, \"suas diretrizes, como rentabilidade e retorno do capital investido, são as do mercado financeiro e seus indicadores são estritamente econômicos, o que torna quase impossível pensá-lo como instrumento de resgate de uma dívida social\" . Estudioso da questão, também o professor Bernardo Mançano Fernandes, da Universidade Estadual Paulista – Unesp, esclareceu, em artigo para o Jornal do Brasil , que \"o MST está estruturado em todo o País\" . Em duas décadas, foram realizados cerca de quatro mil projetos de assentamento, envolvendo 475.801 famílias, representativas de 2,5 milhões de pessoas. Vinculam-se ao movimento 42% das famílias da região Nordeste e 88% da região Sul."
+    }
+   ]
+  }
+ ]
+}

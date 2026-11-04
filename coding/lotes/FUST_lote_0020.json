@@ -1,0 +1,966 @@
+{
+ "caso": "FUST",
+ "lote": 20,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0116::Urbano e rural",
+   "unit_id": "S0116",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-26",
+   "orador": "Eduardo Siqueira Campos",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "CAMPOS",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "CAMPOS",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 47,
+     "trecho": "O SR. EDUARDO SIQUEIRA CAMPOS (PFL - TO) – Sr."
+    },
+    {
+     "inicio_corpo": 3546,
+     "fim_corpo": 4488,
+     "trecho": "Desta forma, os estudos conjuntos e articulados permitiram levar o consenso da sociedade para as ações governamentais, dando-lhe muito mais legitimidade e eficácia. Desejo, Sr. Presidente, que o documento resultante deste esforço seja integrado a este pronunciamento, como anexo, e seja registrado nos Anais desta Casa. Na pessoa do Prof. Lívio Wiliam Reis de Carvalho e suas equipes da Seplan e Naturatins, quero parabenizar a sociedade tocantinense através das instituições citadas e de todos segmentos que, da mesma forma, vem contribuindo para que o Estado do Tocantins continue se desenvolvendo como um exemplo de Estado sustentável, justo, participativo e solidário. Muito obrigado. *************************************************************** DOCUMENTO A QUE SE REFERE O SR. EDUARDO SIQUEIRA CAMPOS EM SEU PRONUNCIAMENTO ***************************************************************"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0117::Idade",
+   "unit_id": "S0117",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-26",
+   "orador": "Amir Lando",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "idoso",
+     "forma_encontrada": "idoso",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4113,
+     "fim_corpo": 5062,
+     "trecho": "Ainda é do povo brasileiro uma Caixa Econômica Federal, responsável pelo financiamento da construção de moradias e do saneamento básico. Ainda temos um Banco do Brasil. Considerados, também, esses bancos públicos, alcançam 23% os ativos bancários estrangeiros, no Brasil. Símbolos como a nossa moeda e a nossa bandeira, a Caixa Econômica Federal sofre pressão pela privatização e, como soe acontecer, ser vendida, a preço vil, para investidores estrangeiros, e o Banco do Brasil também corre o risco de não permanecer, por muito tempo, do Brasil. Também aí o futuro parece bem próximo. Se, nos últimos cinco anos, dobrou a participação dos bancos estrangeiros nos ativos dos agentes financeiros do país, também aí não parece haver alento no nosso futuro. É que, nestes tempos de domínio do capital financeiro, abrir mão destes ativos, não se torna, somente, um negócio de retorno duvidoso, mas a renúncia de um assento na mesa das grandes decisões."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0118::Posição no trabalho",
+   "unit_id": "S0118",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-26",
+   "orador": "Carlos Patrocínio",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "Trabalhador",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 981,
+     "trecho": "O SR. CARLOS PATROCÍNIO (PFL – TO) - Sr .Presidente, Srªs e Srs. Senadores, o assunto que me traz à tribuna do Senado Federal está incluso no rol de minhas preocupações desde o final da sessão legislativa finda, carecendo, porém, da oportunidade para discutir o tema com meus ilustres pares. Trata-se de medida que vem sendo adotada, ainda de forma tênue pela Caixa Econômica Federal, no sentido de promover convênios com órgãos da administração federal para financiamento de habitação residencial a funcionários públicos. No segundo semestre de 1999, ocorreu a primeira celebração de um convênio, no âmbito do Programa de Financiamento ao Trabalhador, entre a CEF e a Associação dos Juízes Federais do Brasil, que permitiu aos associados daquela entidade a consecução de empréstimos de forma mais favorecida que os financiamentos normais concedidos, principalmente na redução dos juros praticados, além de uma série de simplificações na burocracia de liberação dos valores."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0120::Domicílio e arranjo familiar",
+   "unit_id": "S0120",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-27",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4553,
+     "fim_corpo": 5538,
+     "trecho": "Não podemos prever a quantidade de chuva que irá desabar nem os estragos que um vendaval pode causar. Mas não podemos deixar de tomar medidas preventivas, porque as chuvas, assim como 25 de dezembro é Natal, já fazem parte do nosso calendário. Considerando que o Congresso Nacional tem manifestado grande interesse em incluir o acesso à moradia entre os direitos sociais, previstos na Constituição e em proposta apresentada pelo eminente Senador Mauro Miranda, já votada inclusive na Câmara dos Deputados, e que merece todo o regozijo brasileiro, estou apresentando hoje mais um Projeto de Lei que, aprovado, fará do Brasil um País preparado para o combate às calamidades. Pela minha proposta, a Lei nº 8.036, de 1990, teria o seu art. 20 alterado, permitindo que o FGTS seja liberado quando ocorrerem danos materiais graves na moradia do trabalhador ou de sua família, em decorrência de catástrofe causada pela natureza e que impliquem a necessidade de reconstrução ou reforma."
+    },
+    {
+     "inicio_corpo": 8397,
+     "fim_corpo": 9139,
+     "trecho": "Tudo isso vem a aliviar no conjunto todo. Tive a felicidade de apresentar a emenda da moradia, que esta Casa, por que não dizer o Congresso Nacional inteiro, teve a sensibilidade de aprovar. Foi votada ontem, tendo havido só um voto contrário. Tenho certeza de que foi um voto de descuido do Deputado, porque é uma emenda de todos nós, de todos os partido políticos. A proposta de V. Exª também está nessa direção. Quem pode negar ao trabalhador direito de gozar do próprio benefício que recolheu, a favor de uma melhoria de qualidade de sua vida? Como é que vamos, cumprindo a Constituição, a saúde pública exigida, a educação, segurança pública, a proteção à maternidade, a criança, se não zelamos pelo teto que deve abrigar essa família.."
+    },
+    {
+     "inicio_corpo": 13038,
+     "fim_corpo": 14733,
+     "trecho": "Chegando aqui, o Governo brasileiro não tem recursos previstos no Orçamento, até porque não sabe como fazê-lo. Nesse instante, faz uso da medida provisória. Tem que correr aqui e acolá para tentar enviar o socorro, mas isso demanda tempo, e as providências não podem ser tomadas imediatamente. É preciso, então, que tenhamos esses fundos. Temos de ter a defesa civil organizada. É um bueiro, é uma ponte que cai, é uma escola ou um hospital precisando ser recuperado imediatamente. Não é possível esperarmos meses para tais reformas. A questão da defesa civil nacional, Sr. Presidente, é importante. Por essas razões, as duas propostas que apresentei semana passada se completam com esta proposta de que o morador brasileiro, o cidadão brasileiro que adquiriu a sua casa própria utilizando o Fundo de Garantia, se por acaso tem a sua residência destruída por um vendaval, por uma enchente, por um sinistro, por uma razão ou outra, utilize também desses mesmos recursos para reconstruí-la. É uma complementação das propostas apresentadas aqui na última semana Trago essas ponderações, Sr. Presidente, porque tenho a certeza de que a Casa, os nobres Colegas do Senado Federal e do Congresso Nacional, todos nós, enfrentaremos isso com os pés no chão, a fim de que possamos estar mais preparados, e os brasileiros passem por menores dissabores, por menores dores de cabeça do que vêm passando freqüentemente. Até as autoridades ficam às vezes a se perguntar como pôde ocorrer determinado acidente. Mas, como disse, muitas coisas são previsíveis. Precisamos ser mais previdentes. Por isso, estamos tomando essas providências, Sr. Presidente e nobres Colegas. Ñ e"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0120::Educação",
+   "unit_id": "S0120",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-27",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "Escolas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3582,
+     "fim_corpo": 4553,
+     "trecho": "Cidades como São Bernardo, São Caetano e Diadema estão sofrendo o que a cidade de São Paulo e os Estados do Rio de Janeiro e Minas Gerais já sofreram este ano. Esses detalhes só fazem refletir sobre o que é previsível e o que não é. As chuvas de verão decididamente não são mais nenhuma surpresa. Imprevisível é uma nevasca em Minas Gerais ou um terremoto no Rio de Janeiro. Isso é imprevisível. Agora, inundações nesta época em Minas, em Santa Catarina, em qualquer lugar do Brasil, principalmente nesses Estados onde estão a ocorrer as chuvaradas, as enchentes, isso é algo sabido, é algo visto. Para os casos de uma nevasca em Minas ou um terremoto no Rio, como não são previsíveis, não há o que se condenar. Mas para os episódios provocados pelas chuvas o mínimo que se espera é prevenção, Sr. Presidente. Os Governos Estaduais e Municipais podem e devem estar precavidos. Escolas, ginásios e pavilhões devem estar devidamente preparados para o que virá."
+    },
+    {
+     "inicio_corpo": 12651,
+     "fim_corpo": 13526,
+     "trecho": "Presidente, porque teremos menos sinistros. Trata-se, Sr. Presidente, de uma proposta para que o Brasil se previna, porque hoje o Governo brasileiro não está preparado para esses casos. Quando ocorrem, tem-se que fazer um levantamento, encaminhá-lo à defesa civil do local - quando houver -, que, por sua vez, encaminha ao Governo do Estado, que encaminha à defesa civil nacional. Chegando aqui, o Governo brasileiro não tem recursos previstos no Orçamento, até porque não sabe como fazê-lo. Nesse instante, faz uso da medida provisória. Tem que correr aqui e acolá para tentar enviar o socorro, mas isso demanda tempo, e as providências não podem ser tomadas imediatamente. É preciso, então, que tenhamos esses fundos. Temos de ter a defesa civil organizada. É um bueiro, é uma ponte que cai, é uma escola ou um hospital precisando ser recuperado imediatamente."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0120::Gênero",
+   "unit_id": "S0120",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-27",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "mulher",
+     "forma_encontrada": "mulher",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "mulher",
+     "forma_encontrada": "mulher",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8397,
+     "fim_corpo": 9321,
+     "trecho": "Tudo isso vem a aliviar no conjunto todo. Tive a felicidade de apresentar a emenda da moradia, que esta Casa, por que não dizer o Congresso Nacional inteiro, teve a sensibilidade de aprovar. Foi votada ontem, tendo havido só um voto contrário. Tenho certeza de que foi um voto de descuido do Deputado, porque é uma emenda de todos nós, de todos os partido políticos. A proposta de V. Exª também está nessa direção. Quem pode negar ao trabalhador direito de gozar do próprio benefício que recolheu, a favor de uma melhoria de qualidade de sua vida? Como é que vamos, cumprindo a Constituição, a saúde pública exigida, a educação, segurança pública, a proteção à maternidade, a criança, se não zelamos pelo teto que deve abrigar essa família.. Os meninos vão para rua! A mulher vai ficar desguarnecida de tudo, porque a saúde, antes de a criança nascer já está sendo prejudicada, pois a mulher não tem um lugar que a proteja."
+    },
+    {
+     "inicio_corpo": 8397,
+     "fim_corpo": 9321,
+     "trecho": "Tudo isso vem a aliviar no conjunto todo. Tive a felicidade de apresentar a emenda da moradia, que esta Casa, por que não dizer o Congresso Nacional inteiro, teve a sensibilidade de aprovar. Foi votada ontem, tendo havido só um voto contrário. Tenho certeza de que foi um voto de descuido do Deputado, porque é uma emenda de todos nós, de todos os partido políticos. A proposta de V. Exª também está nessa direção. Quem pode negar ao trabalhador direito de gozar do próprio benefício que recolheu, a favor de uma melhoria de qualidade de sua vida? Como é que vamos, cumprindo a Constituição, a saúde pública exigida, a educação, segurança pública, a proteção à maternidade, a criança, se não zelamos pelo teto que deve abrigar essa família.. Os meninos vão para rua! A mulher vai ficar desguarnecida de tudo, porque a saúde, antes de a criança nascer já está sendo prejudicada, pois a mulher não tem um lugar que a proteja."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0120::Idade",
+   "unit_id": "S0120",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-27",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "criança",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "criança",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8397,
+     "fim_corpo": 9139,
+     "trecho": "Tudo isso vem a aliviar no conjunto todo. Tive a felicidade de apresentar a emenda da moradia, que esta Casa, por que não dizer o Congresso Nacional inteiro, teve a sensibilidade de aprovar. Foi votada ontem, tendo havido só um voto contrário. Tenho certeza de que foi um voto de descuido do Deputado, porque é uma emenda de todos nós, de todos os partido políticos. A proposta de V. Exª também está nessa direção. Quem pode negar ao trabalhador direito de gozar do próprio benefício que recolheu, a favor de uma melhoria de qualidade de sua vida? Como é que vamos, cumprindo a Constituição, a saúde pública exigida, a educação, segurança pública, a proteção à maternidade, a criança, se não zelamos pelo teto que deve abrigar essa família.."
+    },
+    {
+     "inicio_corpo": 8397,
+     "fim_corpo": 9321,
+     "trecho": "Tudo isso vem a aliviar no conjunto todo. Tive a felicidade de apresentar a emenda da moradia, que esta Casa, por que não dizer o Congresso Nacional inteiro, teve a sensibilidade de aprovar. Foi votada ontem, tendo havido só um voto contrário. Tenho certeza de que foi um voto de descuido do Deputado, porque é uma emenda de todos nós, de todos os partido políticos. A proposta de V. Exª também está nessa direção. Quem pode negar ao trabalhador direito de gozar do próprio benefício que recolheu, a favor de uma melhoria de qualidade de sua vida? Como é que vamos, cumprindo a Constituição, a saúde pública exigida, a educação, segurança pública, a proteção à maternidade, a criança, se não zelamos pelo teto que deve abrigar essa família.. Os meninos vão para rua! A mulher vai ficar desguarnecida de tudo, porque a saúde, antes de a criança nascer já está sendo prejudicada, pois a mulher não tem um lugar que a proteja."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0120::Posição no trabalho",
+   "unit_id": "S0120",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-27",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 12,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 6,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "Trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4553,
+     "fim_corpo": 5538,
+     "trecho": "Não podemos prever a quantidade de chuva que irá desabar nem os estragos que um vendaval pode causar. Mas não podemos deixar de tomar medidas preventivas, porque as chuvas, assim como 25 de dezembro é Natal, já fazem parte do nosso calendário. Considerando que o Congresso Nacional tem manifestado grande interesse em incluir o acesso à moradia entre os direitos sociais, previstos na Constituição e em proposta apresentada pelo eminente Senador Mauro Miranda, já votada inclusive na Câmara dos Deputados, e que merece todo o regozijo brasileiro, estou apresentando hoje mais um Projeto de Lei que, aprovado, fará do Brasil um País preparado para o combate às calamidades. Pela minha proposta, a Lei nº 8.036, de 1990, teria o seu art. 20 alterado, permitindo que o FGTS seja liberado quando ocorrerem danos materiais graves na moradia do trabalhador ou de sua família, em decorrência de catástrofe causada pela natureza e que impliquem a necessidade de reconstrução ou reforma."
+    },
+    {
+     "inicio_corpo": 5538,
+     "fim_corpo": 6535,
+     "trecho": "Este pretende constituir-se em mais um instrumento de defesa do cidadão frente às calamidades públicas. São, agora, três os projetos que irão beneficiar diretamente os governos e a população. Dispondo dos recursos previstos nos referidos projetos, os poderes constituídos terão autonomia para aplicar na defesa civil os valores necessários a minimizarem o impacto das enchentes, vendavais e outros sinistros. Obedecendo os mesmos critérios de distribuição do Fundo de Participação dos Municípios, os recursos serão distribuídos para cada Município brasileiro que terá autonomia para aplicá-los. Os Estados também receberão uma fatia considerável de recursos para exercer o seu papel, a exemplo do Governo Federal, que também terá condições de estruturar uma defesa civil nacional capaz de atuar nos momentos mais delicados. Cumpre-se agora a última etapa deste processo, permitindo ao trabalhador utilizar-se dos seus recursos para reconstruir a sua moradia ou de um familiar próximo."
+    },
+    {
+     "inicio_corpo": 5736,
+     "fim_corpo": 6727,
+     "trecho": "Dispondo dos recursos previstos nos referidos projetos, os poderes constituídos terão autonomia para aplicar na defesa civil os valores necessários a minimizarem o impacto das enchentes, vendavais e outros sinistros. Obedecendo os mesmos critérios de distribuição do Fundo de Participação dos Municípios, os recursos serão distribuídos para cada Município brasileiro que terá autonomia para aplicá-los. Os Estados também receberão uma fatia considerável de recursos para exercer o seu papel, a exemplo do Governo Federal, que também terá condições de estruturar uma defesa civil nacional capaz de atuar nos momentos mais delicados. Cumpre-se agora a última etapa deste processo, permitindo ao trabalhador utilizar-se dos seus recursos para reconstruir a sua moradia ou de um familiar próximo. Não podemos aceitar que as regras do FGTS, autodenominado Fundo de Garantia do Trabalhador, impeçam os trabalhadores de utilizarem um dinheiro que é seu na recuperação da própria moradia, Sr."
+    },
+    {
+     "inicio_corpo": 5953,
+     "fim_corpo": 6727,
+     "trecho": "Obedecendo os mesmos critérios de distribuição do Fundo de Participação dos Municípios, os recursos serão distribuídos para cada Município brasileiro que terá autonomia para aplicá-los. Os Estados também receberão uma fatia considerável de recursos para exercer o seu papel, a exemplo do Governo Federal, que também terá condições de estruturar uma defesa civil nacional capaz de atuar nos momentos mais delicados. Cumpre-se agora a última etapa deste processo, permitindo ao trabalhador utilizar-se dos seus recursos para reconstruir a sua moradia ou de um familiar próximo. Não podemos aceitar que as regras do FGTS, autodenominado Fundo de Garantia do Trabalhador, impeçam os trabalhadores de utilizarem um dinheiro que é seu na recuperação da própria moradia, Sr."
+    },
+    {
+     "inicio_corpo": 5953,
+     "fim_corpo": 6846,
+     "trecho": "Obedecendo os mesmos critérios de distribuição do Fundo de Participação dos Municípios, os recursos serão distribuídos para cada Município brasileiro que terá autonomia para aplicá-los. Os Estados também receberão uma fatia considerável de recursos para exercer o seu papel, a exemplo do Governo Federal, que também terá condições de estruturar uma defesa civil nacional capaz de atuar nos momentos mais delicados. Cumpre-se agora a última etapa deste processo, permitindo ao trabalhador utilizar-se dos seus recursos para reconstruir a sua moradia ou de um familiar próximo. Não podemos aceitar que as regras do FGTS, autodenominado Fundo de Garantia do Trabalhador, impeçam os trabalhadores de utilizarem um dinheiro que é seu na recuperação da própria moradia, Sr. Presidente. Esse Fundo representa um patrimônio do trabalhador, não se constituindo numa parcela de recursos públicos."
+    },
+    {
+     "inicio_corpo": 6139,
+     "fim_corpo": 7199,
+     "trecho": "Os Estados também receberão uma fatia considerável de recursos para exercer o seu papel, a exemplo do Governo Federal, que também terá condições de estruturar uma defesa civil nacional capaz de atuar nos momentos mais delicados. Cumpre-se agora a última etapa deste processo, permitindo ao trabalhador utilizar-se dos seus recursos para reconstruir a sua moradia ou de um familiar próximo. Não podemos aceitar que as regras do FGTS, autodenominado Fundo de Garantia do Trabalhador, impeçam os trabalhadores de utilizarem um dinheiro que é seu na recuperação da própria moradia, Sr. Presidente. Esse Fundo representa um patrimônio do trabalhador, não se constituindo numa parcela de recursos públicos. Hoje o Fundo de Garantia por Tempo de Serviço só pode ser sacado em situações vinculadas ao desemprego involuntário, aposentadoria, morte, contraindo o vírus da AIDS e até para a compra de uma casa ou quitação da mesma, mas não é permitido para a recuperação dessa mesma casa, destelhada por um forte vendaval ou totalmente destruída por uma inundação."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0120::Saúde",
+   "unit_id": "S0120",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-27",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12651,
+     "fim_corpo": 13526,
+     "trecho": "Presidente, porque teremos menos sinistros. Trata-se, Sr. Presidente, de uma proposta para que o Brasil se previna, porque hoje o Governo brasileiro não está preparado para esses casos. Quando ocorrem, tem-se que fazer um levantamento, encaminhá-lo à defesa civil do local - quando houver -, que, por sua vez, encaminha ao Governo do Estado, que encaminha à defesa civil nacional. Chegando aqui, o Governo brasileiro não tem recursos previstos no Orçamento, até porque não sabe como fazê-lo. Nesse instante, faz uso da medida provisória. Tem que correr aqui e acolá para tentar enviar o socorro, mas isso demanda tempo, e as providências não podem ser tomadas imediatamente. É preciso, então, que tenhamos esses fundos. Temos de ter a defesa civil organizada. É um bueiro, é uma ponte que cai, é uma escola ou um hospital precisando ser recuperado imediatamente."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0121::Domicílio e arranjo familiar",
+   "unit_id": "S0121",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-27",
+   "orador": "Mozarildo Cavalcanti",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2438,
+     "fim_corpo": 3331,
+     "trecho": "Presidente, o Itertins entregou 847 documentos definitivos de Titulação de Terras, abrangendo uma área de 84.472,86 ha, ou seja, glebas de cerca de 100 ha cada uma o que, no meu Estado caracteriza a pequena propriedade rural. No mesmo ano o Itertins arrecadou e matriculou em nome do Estado um total de 147 glebas rurais, totalizando 121.241 hectares. São essas glebas que o Governo do Estado transfere através de titulação definitiva aos pequenos agricultores pelo preço simbólico de R$1,00. Transformados em proprietários de suas terras, esses pequenos agricultores passam a ter acesso ao crédito bancário, fixando-se na terra e tornando-se produtores. Informa, ainda, o Relatório do Itertins, que um total de 1.168 propriedades rurais, totalizando 31.049 ha foram medidas e demarcadas pela administração direta e indireta do Estado, beneficiando a mais de 1.000 famílias."
+    },
+    {
+     "inicio_corpo": 2664,
+     "fim_corpo": 4405,
+     "trecho": "No mesmo ano o Itertins arrecadou e matriculou em nome do Estado um total de 147 glebas rurais, totalizando 121.241 hectares. São essas glebas que o Governo do Estado transfere através de titulação definitiva aos pequenos agricultores pelo preço simbólico de R$1,00. Transformados em proprietários de suas terras, esses pequenos agricultores passam a ter acesso ao crédito bancário, fixando-se na terra e tornando-se produtores. Informa, ainda, o Relatório do Itertins, que um total de 1.168 propriedades rurais, totalizando 31.049 ha foram medidas e demarcadas pela administração direta e indireta do Estado, beneficiando a mais de 1.000 famílias. O ITERTINS tem, ainda, atuado em áreas urbanas como é o caso de Colinas do Tocantins, onde a desapropriação de 35 ha está permitindo a implementação de vila popular, que abrigará 570 famílias. Em Palmas, onde está sendo construído o Complexo Aeroviário Internacional foram avaliadas várias áreas para fins de desapropriação, e mais uma área de 1.167 ha destinada a uma cidade cinematográfica e à produção cultural, projeto que relatarei ao Senado no momento oportuno. Outras áreas foram desapropriadas, no município do Lajeado, em função da construção da Usina Luís Eduardo Magalhães. Concluindo, devo registrar, Sr. Presidente, a colaboração obtida do Incra que viabilizou um amplo programa de cooperação técnica. Assim é que 820 propriedades rurais já foram vistoriadas com vistas a novas titulações e mais 880 o serão brevemente. Ao fazer este registro, Sr. Presidente, nobres Colegas Senadores e Senadoras, cumprimento o Governo do Estado, a Secretaria de Agricultura e, em especial, o Itertins e o Incra pelo trabalho realizado. Muito obrigado."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0121::Urbano e rural",
+   "unit_id": "S0121",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-27",
+   "orador": "Mozarildo Cavalcanti",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "CAMPOS",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "áreas rurais",
+     "forma_encontrada": "áreas rurais",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 47,
+     "trecho": "O SR. EDUARDO SIQUEIRA CAMPOS (PFL - TO) - Sr."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 570,
+     "trecho": "O SR. EDUARDO SIQUEIRA CAMPOS (PFL - TO) - Sr. Presidente, Srªs e Srs. Senadores, a questão agrária se arrasta no Brasil há séculos e tende a agravar-se com um processo havido nas últimas décadas de uma urbanização enganosa, não fruto de oportunidades de trabalho nas cidades, mas na verdade, da exclusão rural, por falta de uma política de migrações racionalizada, pelo abandono das áreas rurais, pelo crescimento populacional sem que tenha havido da parte dos sucessivos regimes, ou sucessivos governos, as medidas necessárias para evitar o agravamento dos problemas."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 570,
+     "trecho": "O SR. EDUARDO SIQUEIRA CAMPOS (PFL - TO) - Sr. Presidente, Srªs e Srs. Senadores, a questão agrária se arrasta no Brasil há séculos e tende a agravar-se com um processo havido nas últimas décadas de uma urbanização enganosa, não fruto de oportunidades de trabalho nas cidades, mas na verdade, da exclusão rural, por falta de uma política de migrações racionalizada, pelo abandono das áreas rurais, pelo crescimento populacional sem que tenha havido da parte dos sucessivos regimes, ou sucessivos governos, as medidas necessárias para evitar o agravamento dos problemas."
+    },
+    {
+     "inicio_corpo": 1530,
+     "fim_corpo": 2227,
+     "trecho": "Creio que o Incra, ao invés de ser órgão executor da Reforma Agrária, deveria ser essencialmente órgão de articulação e apoio a Planos e Órgãos Estaduais voltados à regularização fundiária, que, por estarem junto às realidades e por serem diversificados de acordo com as mesmas realidades, possuem melhores condições, sem dúvida, de executar as políticas fundiárias nacionais. Cito o próprio caso do Tocantins, o meu Estado, onde, embora existam os mesmos problemas de colonização e a estrutura agrária que caracteriza os outros Estados brasileiros, as situações de conflito e exclusão rural têm sido extremamente diminuídas em função da ação rápida e preventiva do Governo do Estado."
+    },
+    {
+     "inicio_corpo": 1913,
+     "fim_corpo": 2664,
+     "trecho": "Cito o próprio caso do Tocantins, o meu Estado, onde, embora existam os mesmos problemas de colonização e a estrutura agrária que caracteriza os outros Estados brasileiros, as situações de conflito e exclusão rural têm sido extremamente diminuídas em função da ação rápida e preventiva do Governo do Estado. Acabo de receber o Relatório de Ações desenvolvidas pelo Instituto de Terras do Estado do Tocantins - ITERTINS, presidido pelo técnico Nelito Vieira Cavalcante, referente a 1.999. Só nesse caso, Sr. Presidente, o Itertins entregou 847 documentos definitivos de Titulação de Terras, abrangendo uma área de 84.472,86 ha, ou seja, glebas de cerca de 100 ha cada uma o que, no meu Estado caracteriza a pequena propriedade rural."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0122::Urbano e rural",
+   "unit_id": "S0122",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-31",
+   "orador": "Jefferson Peres",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "campos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "campos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 411,
+     "trecho": "O SR. JEFFERSON PÉRES (Bloco/PDT - AM. Pronuncia o seguinte discurso.) – Sr. Presidente, Srªs e Srs. Senadores, a Petrobrás anuncia que aumentou a produção de petróleo no Amazonas, nos campos de Urucum, para 45 mil barris por dia, o que torna o meu Estado auto-suficiente na produção de óleo cru e, daqui a pouco, também na produção de derivados, uma vez que está em curso uma ampliação da Refinaria de Manaus."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1002,
+     "trecho": "O SR. JEFFERSON PÉRES (Bloco/PDT - AM. Pronuncia o seguinte discurso.) – Sr. Presidente, Srªs e Srs. Senadores, a Petrobrás anuncia que aumentou a produção de petróleo no Amazonas, nos campos de Urucum, para 45 mil barris por dia, o que torna o meu Estado auto-suficiente na produção de óleo cru e, daqui a pouco, também na produção de derivados, uma vez que está em curso uma ampliação da Refinaria de Manaus. A notícia é motivo para comemoração, mas também para apreensão. Comemoração por motivos óbvios; apreensão em face do que acaba de ocorrer na Baía de Guanabara com aquele gigantesco derramamento de óleo, que causou um estrago monumental, atingindo 30% dos manguezais e, portanto, prejudicando toda a cadeia alimentar da vida naquela Baía e em torno dela. É preocupante, Sr. Presidente, saber que existe um oleoduto de dezenas de quilômetros ligando os campos de produção ao Rio Solimões e que haverá agora, diariamente, 45 mil barris transportados em barcaça de Coari até Manaus."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0123::Educação",
+   "unit_id": "S0123",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-31",
+   "orador": "Romero Jucá",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "estabelecimentos públicos de ensino",
+     "forma_encontrada": "estabelecimentos públicos de ensino",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1164,
+     "fim_corpo": 1891,
+     "trecho": "Presidente. Ao propor a criação do Fust, o Governo foi além: sugeriu, por exemplo, no item 15, § 1º, que em cada exercício do Fust pelo menos 30% dos seus recursos fossem aplicados em programas e projetos de atividades executadas pelas concessionárias, nas áreas abrangidas pela Sudam e pela Sudene, ou seja, no mínimo, 30% dos recursos do Fust seriam investidos na Amazônia e no Nordeste. E o Fundo foi além, Sr. Presidente, do total de recursos do Fust, 18%, no mínimo, serão aplicados em educação, isto é, nos estabelecimentos públicos de ensino, ou seja, também, do montante do Fust, 18% serão aplicados para colocar nas escolas Internet e sistemas de comunicação, a fim de melhorar o ensino público no Brasil."
+    },
+    {
+     "inicio_corpo": 1164,
+     "fim_corpo": 1891,
+     "trecho": "Presidente. Ao propor a criação do Fust, o Governo foi além: sugeriu, por exemplo, no item 15, § 1º, que em cada exercício do Fust pelo menos 30% dos seus recursos fossem aplicados em programas e projetos de atividades executadas pelas concessionárias, nas áreas abrangidas pela Sudam e pela Sudene, ou seja, no mínimo, 30% dos recursos do Fust seriam investidos na Amazônia e no Nordeste. E o Fundo foi além, Sr. Presidente, do total de recursos do Fust, 18%, no mínimo, serão aplicados em educação, isto é, nos estabelecimentos públicos de ensino, ou seja, também, do montante do Fust, 18% serão aplicados para colocar nas escolas Internet e sistemas de comunicação, a fim de melhorar o ensino público no Brasil."
+    },
+    {
+     "inicio_corpo": 3941,
+     "fim_corpo": 5007,
+     "trecho": "Portanto, é chegada a hora. Tenho certeza de que, com o Senador Roberto Saturnino, o projeto de lei está em mãos honradas, que tem o compromisso de debater sim a matéria, mas de votá-la rapidamente. Digo isso porque, a cada dia que os recursos do FUST não ingressam no programa social, não é o País que ganha, mas as grandes empresas internacionais que compraram o sistema durante a privatização. Os recursos, não indo para o FUST, convertem-se em lucratividade para as empresas, sem que sejam aplicados com a conotação social que acabei de registrar. Assim, não há motivo para que não se vote, ainda na convocação extraordinária, uma matéria de alta relevância social, principalmente para as áreas mais distantes do País, que enfrentam extrema dificuldade por não poder contar com telefonia, com comunicação, com Internet nas escolas, enfim, com um sistema moderno, capaz de, no ano 2000, unir todos os brasileiros e fazer com que a comunicação seja democratizada e tornada mais barata em todos os rincões do nosso País. Muito obrigado, Sr. Presidente."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0123::Macrorregião",
+   "unit_id": "S0123",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-31",
+   "orador": "Romero Jucá",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "região amazônica",
+     "forma_encontrada": "Região Amazônica",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 61,
+     "fim_corpo": 1164,
+     "trecho": "Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, quando se discutiu a privatização do sistema de telecomunicações no País, uma questão básica sempre levantada era a seguinte: por que vamos privatizar, ou como vamos privatizar o sistema de comunicação, se todos sabemos que, em se tratando de capital privado, na prática, apenas onde houver lucro haverá investimento. Nas pequenas localidades, nos locais de difícil acesso, nos locais onde não haverá lucratividade não será implantado o sistema de comunicação. E, para discutir e para solucionar essa problemática, a lei do sistema de privatização do sistema de telecomunicações foi sábia; ela criou o Fundo de Universalização dos Serviços de Telecomunicações, chamado de Fust, exatamente para agregar recursos e fazer com que o sistema de telefonia e de comunicação chegasse às pequenas localidades, à Região Amazônica, em localidades como a Vila de Entre Rios, no Município de Caruebe, ou a Vila de Nova Colina, no Município de Rorainópolis, ou ainda, lá no Acre, Estado do Senador Tião Viana, e em muitas outras localidades, Sr."
+    },
+    {
+     "inicio_corpo": 1164,
+     "fim_corpo": 1560,
+     "trecho": "Presidente. Ao propor a criação do Fust, o Governo foi além: sugeriu, por exemplo, no item 15, § 1º, que em cada exercício do Fust pelo menos 30% dos seus recursos fossem aplicados em programas e projetos de atividades executadas pelas concessionárias, nas áreas abrangidas pela Sudam e pela Sudene, ou seja, no mínimo, 30% dos recursos do Fust seriam investidos na Amazônia e no Nordeste."
+    },
+    {
+     "inicio_corpo": 1164,
+     "fim_corpo": 1560,
+     "trecho": "Presidente. Ao propor a criação do Fust, o Governo foi além: sugeriu, por exemplo, no item 15, § 1º, que em cada exercício do Fust pelo menos 30% dos seus recursos fossem aplicados em programas e projetos de atividades executadas pelas concessionárias, nas áreas abrangidas pela Sudam e pela Sudene, ou seja, no mínimo, 30% dos recursos do Fust seriam investidos na Amazônia e no Nordeste."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0124::Macrorregião",
+   "unit_id": "S0124",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-31",
+   "orador": "Luiz Otavio",
+   "n_ocorrencias_no_par": 25,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 19,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "região amazônica",
+     "forma_encontrada": "Região Amazônica",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "região amazônica",
+     "forma_encontrada": "Região Amazônica",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "região amazônica",
+     "forma_encontrada": "Região Amazônica",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 611,
+     "fim_corpo": 1321,
+     "trecho": "O referido projeto entrará na pauta da convocação extraordinária. As atividades ligadas à ecologia e ao meio ambiente são rentáveis. Foi criado o mercado de ações, com fundo de investimentos para financiar projetos nas áreas de meio ambiente e de ecologia, que serão negociadas inclusive nos bancos e nas Bolsas de Valores. Juntar o capital com o meio ambiente será uma oportunidade ímpar que o Brasil terá daqui para frente. A oficialização dessa atividade foi iniciada na semana passada. Porém, o acidente ocorrido na Baía de Guanabara chama a atenção não só de nós Senadores, Parlamentares, mas do Brasil e do mundo. Em especial, chamou a atenção da Amazônia o que ocorreu na Baía da Guanabara."
+    },
+    {
+     "inicio_corpo": 1321,
+     "fim_corpo": 2251,
+     "trecho": "Todos vimos, pela televisão, jornais e revistas o grande acidente e suas repercussões, que criou uma situação de pavor na população, principalmente, entre os que vivem da atividade pesqueira - que ficaram sem o seu sustento - e entre os turistas. Já foram investidos alguns milhões na despoluição da Baía da Guanabara, mas, praticamente, foi perdido todo o investimento. Será preciso iniciar-se um novo processo de despoluição. Faço um alerta, não só à Petrobrás, mas também ao Ministro das Minas e Energia, Rodolpho Tourinho Neto. S. Exª é diligente, trabalhador e tem fomentado condições necessárias ao desenvolvimento da área. Chamo a atenção, principalmente da direção da Petrobrás, para esse grande acidente. Foi noticiado pela mídia que um milhão e trezentos mil litros de óleo Diesel foram jogados na Baía da Guanabara. Na Amazônia, as barcaças que transportam petróleo são de mil e quinhentas toneladas."
+    },
+    {
+     "inicio_corpo": 1568,
+     "fim_corpo": 2340,
+     "trecho": "Já foram investidos alguns milhões na despoluição da Baía da Guanabara, mas, praticamente, foi perdido todo o investimento. Será preciso iniciar-se um novo processo de despoluição. Faço um alerta, não só à Petrobrás, mas também ao Ministro das Minas e Energia, Rodolpho Tourinho Neto. S. Exª é diligente, trabalhador e tem fomentado condições necessárias ao desenvolvimento da área. Chamo a atenção, principalmente da direção da Petrobrás, para esse grande acidente. Foi noticiado pela mídia que um milhão e trezentos mil litros de óleo Diesel foram jogados na Baía da Guanabara. Na Amazônia, as barcaças que transportam petróleo são de mil e quinhentas toneladas. Ou seja, um milhão e trezentos mil litros são transportados em cada comboio na Amazônia."
+    },
+    {
+     "inicio_corpo": 2166,
+     "fim_corpo": 3113,
+     "trecho": "Na Amazônia, as barcaças que transportam petróleo são de mil e quinhentas toneladas. Ou seja, um milhão e trezentos mil litros são transportados em cada comboio na Amazônia. Existem centenas de embarcações fazendo esse transporte. Todos sabem que no Amazonas, em Urucu, há grande reserva de petróleo e de gás que hoje é explorada pela Petrobrás. A minha preocupação e a dos amazônidas, do povo do meu Estado é que essas centenas de embarcações são antigas, estão obsoletas, e há recursos do Fundo da Marinha Mercante para renovação da frota, para trazer novas tecnologias, a exemplo dos países desenvolvidos, que são obrigados, pela legislação, a cumprir certas exigências no transporte de combustível; essas embarcações deveriam ter casco duplo, bicasco, como é chamado, o que evitaria um vazamento como esse que ocorreu. Imaginem se esse acidente tivesse acontecido na Amazônia, onde os rios são caudalosos e as correntezas, fortes."
+    },
+    {
+     "inicio_corpo": 2995,
+     "fim_corpo": 3614,
+     "trecho": "Imaginem se esse acidente tivesse acontecido na Amazônia, onde os rios são caudalosos e as correntezas, fortes. Centenas de embarcações desse porte, faço questão de registrar, transitam por lá transportando petróleo. Milhares de embarcações transportam passageiros, transportam cargas. Mais de 70 mil embarcações transitam no rios amazônicos. Pasmem V. Exªs – e aí o nosso cuidado –, porque lá está a grande reserva mineral, biológica, e, não nos podemos esquecer, de água potável. É a água a grande cobiça dos países desenvolvidos, dos países ricos, porque a reserva de água potável do Planeta está na Amazônia."
+    },
+    {
+     "inicio_corpo": 3113,
+     "fim_corpo": 4018,
+     "trecho": "Centenas de embarcações desse porte, faço questão de registrar, transitam por lá transportando petróleo. Milhares de embarcações transportam passageiros, transportam cargas. Mais de 70 mil embarcações transitam no rios amazônicos. Pasmem V. Exªs – e aí o nosso cuidado –, porque lá está a grande reserva mineral, biológica, e, não nos podemos esquecer, de água potável. É a água a grande cobiça dos países desenvolvidos, dos países ricos, porque a reserva de água potável do Planeta está na Amazônia. Dessa forma, trago ao debate esta minha reflexão. O Fundo da Marinha Mercante, só no mês de dezembro, tinha mais de R$500 milhões para serem aplicados na renovação da frota. Neste ano, teremos mais de R$1 bilhão no Fundo da Marinha Mercante para sua ampliação e renovação. É importante destinar parte desses recursos para renovar, modernizar, ampliar a frota que transporta o petróleo na Amazônia."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0124::Posição no trabalho",
+   "unit_id": "S0124",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-31",
+   "orador": "Luiz Otavio",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1043,
+     "fim_corpo": 1963,
+     "trecho": "A oficialização dessa atividade foi iniciada na semana passada. Porém, o acidente ocorrido na Baía de Guanabara chama a atenção não só de nós Senadores, Parlamentares, mas do Brasil e do mundo. Em especial, chamou a atenção da Amazônia o que ocorreu na Baía da Guanabara. Todos vimos, pela televisão, jornais e revistas o grande acidente e suas repercussões, que criou uma situação de pavor na população, principalmente, entre os que vivem da atividade pesqueira - que ficaram sem o seu sustento - e entre os turistas. Já foram investidos alguns milhões na despoluição da Baía da Guanabara, mas, praticamente, foi perdido todo o investimento. Será preciso iniciar-se um novo processo de despoluição. Faço um alerta, não só à Petrobrás, mas também ao Ministro das Minas e Energia, Rodolpho Tourinho Neto. S. Exª é diligente, trabalhador e tem fomentado condições necessárias ao desenvolvimento da área."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0124::Saúde",
+   "unit_id": "S0124",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-31",
+   "orador": "Luiz Otavio",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitais",
+     "forma_encontrada": "hospitais",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7614,
+     "fim_corpo": 8420,
+     "trecho": "Quanto ao trabalho feito pela Petrobrás e principalmente pela Marinha brasileira em nossa região, o reconhecimento não é meu, mas de toda a população amazônida. A Marinha e as missões religiosas estão em todos os momentos nos rincões mais distantes. A Marinha participa da formação profissional dos nossos tripulantes e marinheiros, não só da marinha de guerra como também da marinha mercante, promove a segurança da navegação nas nossas 200 milhas - no que se refere à pesca submarina no litoral da Amazônia e, em especial, do Pará e da Região Nordeste -, faz a sinalização náutica dos nossos rios, por meio de seu serviço de sinalização náutica, e seus fuzileiros promovem a segurança em nossos portos. Além disso, merece destaque o atendimento à população ribeirinha pelos navios-hospitais."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0125::Posição no trabalho",
+   "unit_id": "S0125",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-01",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 483,
+     "trecho": "O SR. EDUARDO SUPLICY (Bloco/PT - SP. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente Antonio Carlos Magalhães, Sr as e Sr s Senadores, leio da tribuna ofício que encaminhei, nesta tarde, ao Presidente Nacional do Partido Democrático Trabalhista, Leonel de Moura Brizola, nos seguintes termos: \"Prezado Leonel Brizola, Inicialmente, gostaria de parabenizá-lo pelos seus 78 anos de dedicação à causa da democracia e dos direitos dos trabalhadores."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0126::Raça e etnia",
+   "unit_id": "S0126",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-02",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pardo",
+     "forma_encontrada": "par do",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4416,
+     "fim_corpo": 5549,
+     "trecho": "Neste último, que envolve bancos, energia, telecomunicações, saneamento, só para citar alguns setores, o faturamento é em real e a remessa de lucros, em dólar, o que acaba contribuindo para o desequilíbrio crônico das nossas contas externas. Estudos internacionais sobre o assunto retratam uma nova face, uma nova maneira de ver esse processo de globalização envolvendo o sistema financeiro, e parece que o Governo brasileiro está desatualizado nessa discussão. Não é de hoje que a filosofia dos países desenvolvidos vem sendo a de apoiar a iniciativa dos seus bancos privados de buscar o controle das instituições financeiras de países emergentes, criando, porém, todo tipo de obstáculo à participação estrangeira no seu próprio sistema financeiro. Ao anunciar que o Bradesco lucrou, no ano passado, mais de R$1 bilhão e que não precisará de dinheiro do BNDES para participar do leilão do Banespa, já que conta com R$10 bilhões em caixa, o Presidente daquele banco, Márcio Cypriano, reclamou da liberdade excessiva das instituições estrangeiras no Brasil e criticou as limitações impostas aos nossos bancos no exterior."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0128::Domicílio e arranjo familiar",
+   "unit_id": "S0128",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-02",
+   "orador": "Ademir Andrade",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 334,
+     "trecho": "O SR. PRESIDENTE (Ademir Andrade) - A Presidência informa ao Senador Eduardo Suplicy que o seu Projeto de Decreto Legislativo foi lido, tomou o número 39, foi encaminhado à Comissão de Constituição, Justiça e Cidadania e S. Exª será atendido, na forma do Regimento Interno, na transcrição nos Anais de documentos que leu no plenário."
+    }
+   ]
+  }
+ ]
+}

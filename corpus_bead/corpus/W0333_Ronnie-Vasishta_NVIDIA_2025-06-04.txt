@@ -1,0 +1,619 @@
+# W0333 | Ronnie Vasishta | NVIDIA
+# 119th Congress | House | 2025-06-04
+# AI in the Everyday: Current Applications and Future Frontiers in Communications and Technology
+# source: https://www.congress.gov/119/meeting/house/118333/witnesses/HHRG-119-IF16-Wstate-VasishtaR-20250604.pdf
+
+“AI in the Everyday: Current Applications and Future Frontiers in Communications and 
+Technology” 
+Hearing Before the United States House of Representatives Energy & Commerce 
+Committee 
+Subcommittee on Communications and Technology 
+June 4th, 2025 
+Written Testimony of Ronnie Vasishta 
+Senior Vice President of Telecom 
+NVIDIA 
+ 
+Chairman Guthrie, Ranking Member Pallone, Chairman Hudson, and Ranking Member Matsui, 
+thank you for the invitation to speak with you today, and for your thoughtful engagement on 
+artificial intelligence, telecommunications, and American competitiveness.  
+ 
+My name is Ronnie Vasishta and I am the Senior Vice President of Telecom at NVIDIA.  
+ 
+Many still think of NVIDIA as a chip company, but we are much more.  NVIDIA is a full stack 
+accelerated computing company. We’ve spent over three decades inventing the technology that 
+powers modern AI. Our platforms support breakthroughs in healthcare, manufacturing, 
+transportation, and energy. We serve over 40,000 companies and 6 million developers around the 
+world.  
+ 
+We’re proud to be an American company helping to drive American leadership and promote 
+American infrastructure globally.  AI is not just another app or algorithm. It is the engine behind 
+a new industrial revolution. And just like the roads and grids of the past century, the countries 
+that build AI infrastructure will define the rules, reap the rewards, and shape the next era. 
+  
+Today, we are at an unprecedented point of inflection between this new AI-driven industrial 
+revolution and the need to redefine how telecommunication networks are built and delivered. In 
+this new era of AI, telecommunications infrastructure will continue to be critical national 
+infrastructure, essential to any nation's productivity, security, stability, and global leadership but 
+must evolve to meet changing demands. I am here today to talk about the necessary convergence 
+of AI and telecommunications and the opportunity for renewed U.S. leadership it presents us.   
+  
+Applying AI to telecommunications is not theoretical - it is happening today. In a recent 
+NVIDIA-conducted survey of 450 telecom professionals, 80% of respondents said they believe 
+ 
+ 2 
+that AI is crucial for their company’s future success, and two-thirds plan to increase spending on 
+AI infrastructure this year.   
+    
+Over the last few decades, the telecom industry has evolved based on standards defined by the 
+international telecommunications community. The mobile wireless standards are commonly 
+known as 2G, 3G, 4G, and most recently 5G.  The international community is now working on 
+6G standards with a target completion date of 2030.  While this may sound far into the future, the 
+standardization process is well underway and initial field deployments may start as early as 
+2028. Whoever seizes the advantage in the development and deployment of AI-native wireless 
+network infrastructure will win the 6G race.  
+ 
+Over time, the telecommunications equipment supplier base has consolidated. The United States 
+invented the foundational cellular wireless technology and once led the world in its development 
+but over the last few generations of standards we have lost an American wireless 
+telecommunications infrastructure provider.  Other countries have taken over this leadership role 
+and now supply the vast majority of the world’s critical telecom infrastructure, including here in 
+the US. If we act now, AI offers a once-in-a-generation opportunity for the U.S. to reclaim 
+leadership in mobile wireless networks. 
+  
+Key implications of AI and telecommunications  
+  
+Improved telecom operations: AI is extremely good at optimization. The application of AI to 
+mobile network operations can increase energy efficiency, enhance security, and improve 
+network resiliency.  Another key benefit is improved spectral efficiency, which will enable more 
+effective use of limited spectrum. These benefits are essential to the wireless networks of the 
+future as consumers and businesses connect hundreds of billions of devices, including for 
+mission critical applications.   
+  
+Demand for delivery of new services: Traditionally, telecommunications networks delivered 
+voice, data, and video.  In the future, mobile networks will also be called upon to support a new 
+kind of traffic—AI traffic.  AI traffic will include the delivery of AI services to the edge, or 
+inferencing at the edge.  Mobile networks will support applications such as autonomous vehicles, 
+smart glasses, generative AI services on phones or devices, holographic communication services, 
+collaborative robots, and many more applications that we haven’t thought about yet. The 
+transmission of this massive increase in data needs to be resilient, fit for purpose, and secure.  
+    
+Opportunities for economic growth: For the first time, the wireless ecosystem can spur 
+economic growth without having to make costly investments in infrastructure that is specific to 
+ 
+ 3 
+mobile networks. Currently, telecommunications infrastructure, particularly the Radio Access 
+Network, or RAN, are single-purpose, hardware-defined systems that are custom built for the 
+sole purpose of delivering RAN services. Different vendors lack interoperability, and hardware 
+upgrades are required for each new generation. Moving towards software-defined RAN 
+architecture will enable the same infrastructure stack to run both mobile wireless services and AI 
+applications. This is a game changer.   
+ 
+Enhanced Cybersecurity: In the 6G era, cybersecurity enters a new dimension—where 
+artificial intelligence (AI) becomes a necessary requirement across the topology of the network 
+as well as deeply embedded into every layer of the 6G stack. As 6G networks become 
+decentralized and connect billions of IoT devices, AI is essential for real-time threat detection 
+and automated remediation and incident response. It processes massive data streams to quickly 
+identify and neutralize attacks, whether they are occurring on the device, at the network edge, or 
+in the cloud. Together, AI and AI driven cybersecurity ensure that our hyper-connected world 
+remains resilient, secure, and adaptive. 
+ 
+The convergence of AI and wireless infrastructure will fundamentally reshape the global 
+telecommunications landscape. Fortunately, the U.S. is poised to lead in the development and 
+deployment of these next generation networks.    
+ 
+NVIDIA is uniquely positioned to help drive this evolution. We are working closely with 
+partners across the telecommunications industry and academia to provide tools and platforms to 
+drive American innovation for the global ecosystem.  Through our free 6G research software and 
+tools running on accelerated computing hardware, NVIDIA provides a platform for the 6G 
+developer ecosystem to simulate, develop, test and validate groundbreaking algorithms and 
+methods that were not previously possible due to lack of data, tools, and hardware acceleration.  
+Our 6G research platform is empowering thousands of researchers globally, including major 
+universities, startups, and 6G research institutions in the United States.  As these developers use 
+this tool, it drives software improvements and builds a global ecosystem around U.S. platforms.  
+ 
+Today, mobile network operators around the world are investing in multi-purpose AI 
+infrastructure that is monetizable and software upgradable, enabling them to run AI training and 
+inferencing alongside mobile wireless services.  We are working with T-Mobile in the United 
+States, SoftBank in Japan, and others to validate the commercial, performance, and other benefits 
+of software defined Radio Access Networks running on AI infrastructure   
+  
+We recently announced the AI WIN Project, along with Booz Allen Hamilton, Cisco, MITRE, 
+the ORAN Development Corporation (Cerberus/ODC), and T-Mobile.  AI aims to deliver an 
+ 
+ 4 
+American, AI-native, full-stack, software-defined and secure wireless platform that will enhance 
+spectral efficiency and lower operational costs on a unified, accelerated infrastructure, thereby 
+enabling U.S. global leadership in 6G and beyond. 
+   
+Conclusion: Ensuring U.S. leadership in next generation wireless networks requires immediate 
+action to ensure U.S. companies lead the way in setting the standards, developing the 
+infrastructure stack of the future, and deploying AI-native network solutions.  
+ 
+Congress and the U.S. government can help ensure U.S. leadership in next generation wireless 
+networks by:  
+• Supporting R&D and continued innovation, with a focus on software defined 
+networks. This includes supporting telecommunications work at the National Science 
+Foundation, the National Telecommunications and Information Agency, and the 
+Department of Defense’s Office of Research and Engineering.   
+• Encouraging U.S. companies to participate in international standard making bodies, such 
+as 3GPP, to promote technologies developed in the US,  
+• Enabling U.S. companies to win at every layer of the AI native wireless stack both 
+domestically and in deployments around the world.  
+  
+The telecommunications industry is facing a fundamental evolution with the adoption and 
+deployment of AI and U.S. companies are working together to drive innovation and lead globally 
+in the development and deployment of this new network architecture.   
+ 
+Thank you for the opportunity to speak to you today and I look forward to your questions.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachments:  
+State of AI in Telecommunications: 2025 Report 
+State of AI in Telecommunications: 
+2025 Trends
+Survey Report
+
+State of AI in Telecommunications: 2025 Trends | Survey Report | 2
+The Trends Driving AI in Telecommunications 
+For the third annual edition of NVIDIA’s State of AI in Telecommunications report, 
+we surveyed 450 telecom professionals across the globe to evaluate how the 
+industry is investing in, deploying, and benefiting from AI. Results indicate that 
+the industry has embraced AI throughout diverse lines of business, from external 
+solutions such as virtual customer service assistants to integrating AI into the 
+radio access network (AI-RAN).
+The survey found that 97 percent of telecom respondents are assessing or 
+adopting AI with the goals of enhancing customer experiences and employee 
+productivity, improving network operations, reducing costs, and opening new 
+business opportunities. Specifically, generative AI adoption has grown within 
+the telecom industry, with half of respondents saying that they’ve already 
+implemented their first generative AI use case. 
+AI investments continue to expand within the industry, with 65 percent of 
+respondents indicating an increase in 2025. The industry expects to prioritize these 
+investments across building AI infrastructure, accelerating adoption through third-
+party AI solutions, and training staff on AI skills. 
+Perspectives From the Field
+The survey focuses on telecommunications professionals who are the primary 
+agents responsible for investing, implementing, and delivering AI to their 
+companies. The survey was fielded from October to November 2024 and included 
+a mix of single-choice and multiple-choice questions. Respondents represented a 
+global mix of telecommunications companies, including network operators, system 
+integrators, internet service providers, network equipment providers, independent 
+software vendors, and more. Sixty percent of respondents are senior executives 
+and directors, while 40 percent are individual contributors. In terms of roles, 80 
+percent of the respondents represent engineering, network operations, architects, 
+data engineering, cloud ops, and IT. This year, the survey includes a dedicated 
+section on the adoption, implementation, and challenges of generative AI solutions.
+Key Insights on AI in Telecommunications
+Increased AI Adoption and Investment 
+97%
+said they’re adopting or 
+assessing AI in their operations. 
+49% said they’re actively using AI in their 
+operations, up from 41 percent in 2023, indicating 
+a growing trend of AI integration in the telecom 
+industry. And 65 percent of respondents said 
+that they plan to increase spending on AI 
+infrastructure in 2025.
+Integrating AI Into Network Operations Gains Traction
+37%
+cited network planning and operations, 
+including AI-RAN, as an investment priority.
+Investing in AI solutions for network infrastructure has 
+become a growing priority within the telecom industry. 
+Network planning and operations, including integrating 
+AI into the radio access network, was cited by 37 percent 
+of respondents as an investment priority, while another 
+33 percent said they’re investing in AI for field operations 
+optimization. Future areas of investment include using AI to 
+monetize 5G and research and development of 6G networks. 
+State of AI in Telecommunications: 2025 Trends | Survey Report | 3
+Improving Customer Experiences the Top Use Case
+44%
+said optimizing customer 
+experiences has been a priority, 
+making it a top investment priority for the third year 
+in a row. While using AI for customer experiences 
+is still a top use case, other priorities have begun 
+to catch up, especially investments in AI-enabled 
+network infrastructure. 
+Generative AI Goes Mainstream
+49% 
+of respondents said they’ve actively 
+adopted or are assessing generative 
+AI use cases.
+Of respondents who have shown interest in adopting 
+generative AI, 84 percent are planning to offer generative 
+AI services to their customers, indicating that they’re 
+looking toward generative AI as a business opportunity.
+Increase in Open-Source AI Solutions
+40% 
+indicate they plan to use open-
+source tools, 
+an increase from 28 percent in 2023. Respondents 
+noted a trend toward using multiple approaches for AI 
+development. In-house AI solutions also grew from 27 
+percent to 37 percent year over year. And engagement 
+with third parties to codevelop AI solutions will 
+continue, according to 43 percent of respondents.
+AI’s Biggest Business Impact? Employee Productivity.
+58%
+reported employee productivity 
+as the biggest benefit of AI. 
+This was one of the most significant findings of this 
+year’s survey, up from 33 percent in 2023. In terms of 
+business metrics, 83 percent of respondents agreed 
+that AI had a net positive revenue impact, and 77 
+percent confirmed AI helped to reduce costs. 
+Adoption of AI Reaches an All-Time High in Telecom
+The telecom industry has shown increased interest in adopting AI and 
+continues to take steps to integrate it across infrastructure and lines of 
+business. Overall, 97 percent of respondents said that their companies are 
+engaged with AI, up from 90 percent in 2023. Respondents are split in terms 
+of active implementation and assessment of AI, with 49 percent actively 
+using it and another 49 percent in an assessment phase of trials or pilots. 
+Respondents who said they’re not using or planning to use AI fell from 10 
+percent in the 2023 survey to just 3 percent this year.
+97%
+of telcos are adopting AI. 
+Nearly half are already 
+deploying it.
+State of AI in Telecommunications: 2025 Trends | Survey Report | 4
+41%
+49% 48% 49%
+10% 2%
+Current AI Stage
+50
+40
+30
+20
+10
+0
+2023 2024
+Assessing/piloting Not usingImplementing/using
+Globally, data analytics was the most common computational workload for AI 
+among survey respondents, with 61 percent saying they’re using or assessing its 
+use. At 49 percent, generative AI was the most popular deep learning workload.  
+AI Is Driving Tangible Business Impact in 
+Telecommunications
+AI Boosts Employee Productivity and Improves the Bottom Line
+The greatest impact of AI in the telecommunications industry has been on 
+employee productivity, according to 58 percent of respondents, up from 33 
+percent in 2023. Enhancing customer experiences was the second-highest 
+response on how AI has helped improve business operations, according to 37 
+percent of respondents. Thirty-two percent agreed that AI helped improve 
+network operations, as AI-defined networks become more commonplace.
+Top 3 Improvements With AI 
+60
+40
+30
+20
+10
+0
+33%
+58%
+35% 37%
+26% 32%
+2023 2024
+Enhance customer 
+experiences
+Improve network 
+operations
+Improve employee 
+productivity
+50
+Respondents said that their companies have seen AI positively affect their 
+bottom line, with most agreeing that AI has helped to increase revenue and 
+reduce costs. Eighty-three percent of survey respondents confirmed that 
+AI is helping to increase annual revenue, with 21 percent saying that AI had 
+contributed to a more than 10 percent increase in specific areas of business. 
+Seventy-seven percent agreed that AI helped reduce annual operating costs.
+49%
+of respondents said generative 
+AI was the most popular deep 
+learning workload.  
+State of AI in Telecommunications: 2025 Trends | Survey Report | 5
+AI Impact on Revenue and Cost
+21% 24%
+5–10%
+17%
+ 
+Increasing Annual Revenue
+2024
+38%
+Less than 5%
+ 
+2023
+15% 22%
+5–10%
+34%
+ 
+2023
+30%
+Less than 5% No impact
+11% 26%
+5–10%
+23%
+Decreasing Annual Cost
+2024
+40%
+Less than 5% No impact
+More than 10%
+More than 10%
+More than 10% No impact
+22% 26%
+5–10%
+27%24%
+Less than 5%
+More than 10%
+No impact
+Challenges in AI adoption persist, with the three main challenges from our 
+2023 survey either increasing or remaining at the same level in 2024.
+The need for AI experts—such as data scientists, engineers, architects, 
+and developers—has been the key obstacle to AI adoption at scale in 
+telecommunications, according to 43 percent of respondents, up from 34 
+percent in 2023. Inability to quantify the return on investment (ROI) was cited 
+by 38 percent as the main challenge, up from 33 percent in 2023. Lack of 
+budget for AI adoption was cited by 30 percent, the same as 2023. 
+AI Investment to Increase in 2025
+Telecommunications Companies Are Looking to Ecosystem 
+Partners to Scale Enterprise AI
+The maturation of AI within the telecom industry will lead to more AI 
+investment in the coming year.
+At 65 percent, roughly two-thirds of telecom respondents are planning to 
+increase their AI infrastructure budget in 2025. This is also underscored by the 
+industry’s confidence in AI’s role for driving business success—77 percent of 
+respondents agreed that “AI will be a source of competitive advantage for my 
+company” and 80 percent agreed that “AI is important to my company’s future 
+success.”
+Investment in AI will be spread across different priorities, but the primary theme 
+is that spending will be concentrated on resources for further development and 
+adoption of AI at scale. The top investment priority in the coming year, cited 
+by 43 percent of respondents, will be to engage third-party partners, such as 
+independent software vendors, global system integrators, and service delivery 
+partners, to accelerate AI adoption. The next-highest priority will be investing 
+in AI training for employees to take advantage of the productivity companies 
+can gain with AI solutions. This is also in response to one of the main challenges 
+43%
+of respondents say the need 
+for AI experts has been the 
+key obstacle to AI adoption at 
+scale in telecommunications. 
+65%
+of respondents say they’re 
+planning to increase their AI 
+infrastructure budget in 2025.
+State of AI in Telecommunications: 2025 Trends | Survey Report | 6
+previously mentioned—lack of in-house AI expertise. Thirty-five percent of 
+respondents said they’d spend more on AI infrastructure next year, while 34 
+percent are ready to invest in identifying additional AI use cases.
+Top 3 AI Spending Priorities
+50
+40
+30
+20
+10
+0
+36%
+43%
+24%
+40%
+28%
+35%
+2023 2024
+Provide AI training 
+to staff
+Spend more on 
+infrastructure
+Engage third-party 
+partners to accelerate 
+AI adoption
+Telecommunications companies utilize a mix of internal resources and 
+external partners to develop their AI solutions. Forty-three percent of 
+respondents noted that they co-develop AI with partners, while 37 percent 
+said they build it themselves. Forty percent of telecom professionals surveyed 
+use open-source tools.
+How They Develop AI Solutions Today—Top 3 
+50
+40
+30
+20
+10
+0
+44% 43%
+28%
+40%
+27%
+37%
+2023 2024
+Use open-source tools Build it themselvesCo-develop
+with partners
+ 
+Integrating AI Into Telecommunications Network 
+Infrastructure
+AI Is Finding Its Way Into the Full Operational Stack
+AI adoption is spreading throughout telecommunications lines of business, as 
+evidenced by the wide range of use cases that companies have invested in. 
+The top investment priority for AI has been customer experience optimization 
+at 44 percent. Network planning and operations, including integrating AI into 
+RAN infrastructure, was the second-most-cited investment area at 37 percent. 
+Similarly, 33 percent of respondents said they invested in AI to optimize field 
+operations in the last year.
+State of AI in Telecommunications: 2025 Trends | Survey Report | 7
+37%
+33%
+33%
+24%
+22%
+Network planning and
+ operations (including RAN) 
+Field operations optimization
+Security 
+Customer retention
+Energy conservation
+ and sustainable AI
+21%Compliance
+20%
+20%
+17%
+16%
+12%
+Recommender systems
+ and next-best action
+6G research and
+development
+Fraud detection in
+ transactions and payments
+5G monetization
+Retail operations
+10%Improved logistics
+0 502010 30 40 0 502010 30 40
+44%Customer experience
+optimization 21%Marketing and
+ advertising optimization
+AI Use Cases Today—2024
+Infrastructure will remain a priority use case in the coming year, with 37 percent 
+citing network planning and operations as the top use case for investment in 
+the next 12 months. Using AI to fortify cybersecurity was next at 36 percent, 
+followed by customer experience optimization at 35 percent.
+Among those that noted they’re investing in AI for 5G monetization and/or 6G 
+research and development, about two thirds of respondents—66 percent—
+confirmed they’re investing or considering investing in deploying AI services 
+on the RAN for operational and user needs. Fifty-three percent are investing 
+in using AI to enhance spectral efficiency for the RAN. And 50 percent are 
+investing in colocating AI and RAN applications on the same infrastructure. 
+These are the themes of AI-RAN, which combines accelerated computing into 
+the network infrastructure stack, providing a software-defined, accelerated 
+platform that can power RAN and AI from the same infrastructure.
+5G and 6G Investment Priorities
+66%
+deploying AI 
+services on the RAN 
+for operational and 
+user needs.
+53%
+using AI to enhance 
+spectral efficiency 
+for the RAN.
+50%
+colocating AI and RAN 
+applications on the 
+same infrastructure.
+State of AI in Telecommunications: 2025 Trends | Survey Report | 8
+Generative AI Adoption, Benefits, and Challenges
+Telcos Are Leveraging Generative AI to Support Internal and 
+External Business Goals
+Telecommunications companies have embraced generative AI, spreading 
+it throughout their operations and lines of business, including customer-
+facing solutions, back-office assistants, and within-network infrastructure. 
+Generative AI is a new application of AI that uses neural networks to identify 
+patterns and structures within existing data to generate new and original 
+content, such as text, images, video, audio, 3D assets, and more.
+Of respondents who are assessing or have deployed generative AI, 54 percent 
+said they’ve already deployed their first generative AI service or application, 
+with another 34 percent saying they’d do so within the next year.
+Employee productivity and efficiency, such as coding or content-generating 
+assistants, is the most prominent use case of generative AI, according to 65 
+percent of respondents. Customer service and support is the next-most-cited 
+use case of generative AI at 54 percent.
+The biggest year-over-year jumps in how respondents reported using generative 
+AI have been within sales and legal teams. Thirty-four percent reported using 
+generative AI for sales deal-flow automation and data summarization, up from 
+22 percent in 2023. And 34 percent said they’ve used generative AI in legal 
+document review and contract generation, up from 21 percent last year.
+54%
+45%
+38%
+34%
+34%
+Customer service
+ and support 
+Network operations
+ and management
+Marketing content generation
+ and personalization
+ 
+Sales deal-flow automation
+ and data summarization
+Legal document review and
+ contract generation
+0 80602010 40
+65% 
+Top 6 Gen AI Use Cases—2024
+7030 50
+Improved employee
+ efficiency (for example,
+ coding, knowledge services)
+54%
+of respondents said 
+they’ve already deployed 
+their first generative AI 
+service or application.
+State of AI in Telecommunications: 2025 Trends | Survey Report | 9
+Overall, 84 percent of telecom respondents said that their companies plan 
+to offer generative AI solutions externally to customers. Providing generative 
+software-as-a-service (SaaS) solutions was the top use case at 52 percent. 
+A little more than a third of survey respondents, 35 percent, said they’ll offer 
+generative AI as a platform for developers, including compute services, while 34 
+percent said they’re planning on offering generative AI compute infrastructure. 
+Telecom companies are realizing a wide range of ROI in generative AI. The top 
+was improved employee efficiency, such as coding assistants or knowledge 
+services (for example, creating content based on a user query from a specific 
+data source). Customer service and support had the next-greatest ROI, 
+followed by network operations and management.
+The most important factor when inferencing generative AI models was 
+accuracy of the results, according to 39 percent of respondents, far and away 
+the leading answer in the survey. Flexibility of deployment and data residency 
+and compliance were the next-most-important factors, cited by 14 percent of 
+respondents each.
+Similar to the challenges faced in general AI adoption and implementation, 
+a third of respondents, 34 percent, said that their main challenge in 
+implementing generative AI was an inability to quantify ROI. A lack of AI 
+experts to implement generative AI was also cited by about a third of 
+respondents at 32 percent. And 21 percent said that a lack of budget was their 
+main challenge in adopting generative AI.
+Looking Forward
+AI is embedding itself into the telecommunications industry. Our third 
+annual survey revealed how development and deployment continue to grow 
+as AI transforms telecom companies in nearly all aspects, from networks to 
+operations. 
+Adoption of AI is especially important for telecom companies, because of 
+their unique placement in the daily lives of nearly every person on the planet. 
+Not only are they key enablers of foundational services such as voice and 
+internet, but they’re also the trusted source of local infrastructure, becoming 
+a platform for innovation and adoption of all kinds of software, including AI. 
+Telecom operators will be both adopters of AI and the engine that pushes AI 
+solutions to billions of customers in nearly every country on the planet.
+We can see this clearly in how the telecommunications industry is adopting 
+AI into the network stack. The next evolution of software-defined networks 
+is AI-native networks, where AI enables both wired and wireless networks to 
+become more energy- and cost-efficient and offer the flexibility to adapt to 
+varying workloads and conditions. 
+In wireless cellular networks, AI is helping to drive the monetization of 5G 
+networks, while also playing a critical role in the research and development 
+of 6G technologies. And with AI-RAN in wireless cellular networks, telecom 
+operators can both be the primary users of AI and the hub for how AI is 
+deployed at the edge in local regions and territories. 
+Ready to Get Started?
+To learn more about how innovative telecom companies 
+are using AI and generative AI, visit nvidia.com/telco-ai
+© 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or 
+registered trademarks of NVIDIA Corporation in the U.S. and other countries. Other company andproduct 
+names may be trademarks of the respective companies with which they are associated. All other 
+trademarks are property of their respective owners. 3579723. FEb25
+Generative and agentic AI have the potential to spread to all aspects of the 
+telecommunications industry—increasing employee productivity, reimagining 
+customer experiences, unlocking new revenue opportunities, and building 
+a future-proof platform for network operators to further develop domain-
+specific applications. 
+As AI adoption matures in telecommunications, the benefits will become more 
+widespread. It will help drive new revenues, increase ROI, and deliver powerful 
+new applications and services while boosting network performance and 
+operational efficiency.

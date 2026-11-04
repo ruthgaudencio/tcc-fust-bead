@@ -1,0 +1,267 @@
+# W0221 | Monisha Ghosh | University of Notre Dame
+# 118th Congress | House | 2023-03-10
+# Defending America’s Wireless Leadership
+# source: https://www.congress.gov/118/meeting/house/115463/witnesses/HHRG-118-IF16-Wstate-GhoshM-20230310.pdf
+
+Testimony of Professor Monisha Ghosh 
+Department of Electrical Engineering, University of Notre Dame. 
+Policy Outreach Director, SpectrumX. 
+Research Professor (Adjunct), University of Chicago. 
+Joint Appointment, Argonne National Laboratory. 
+ 
+Before the House Energy and Commerce Committee 
+Subcommittee on Communications and Technology 
+Hearing on the Future of Spectrum Management entitled 
+“Defending America’s Wireless Leadership” 
+ 
+March 10, 2023 
+ 
+Good morning Chairwoman Rodgers, Chairman Latta, Ranking Member Matsui, Ranking Member 
+Pallone, and members of the Committee and Subcommittee. Thank you for the opportunity to testify 
+today on the extremely timely and important discussions regarding the future of spectrum management 
+and how we can continue to grow America’s leadership of the entire wireless ecosystem: current 
+technology, future innovation and workforce development. 
+ 
+Introduction 
+ 
+My name is Monisha Ghosh, and I believe that I can offer a broad and balanced perspective on the 
+matters before this Committee, given my years of experience working in the wireless industry, 
+government research and regulatory organizations, and academia.  
+ 
+To summarize my professional background,  I am currently a Professor of Electrical Engineering at the 
+University of Notre Dame. I came to academia in 2015 when I joined the University of Chicago after 24 
+years working in industry on wireless research and development, starting with designing the first High 
+Definition Television (HDTV) broadcast systems at Philips Research in the early 90’s and contributing to 
+various generations of Wi-Fi and cellular systems at Bell Labs and Interdigital. I took two recent leaves of 
+absence from academia to serve in government. From 2017 – 2019, I was a Program Manager in the 
+Computer and Network Systems (CNS) division of the Computer and Information Science and 
+Engineering (CISE) directorate at the National Science Foundation (NSF) where I helped manage NSF’s 
+research programs in spectrum and wireless and started the first program to study the applications of 
+artificial intelligence (AI) and machine learning (ML) in wireless networks. From January 2020 to June 
+2021, I was the Chief Technology Officer (CTO) at the Federal Communications Commission (FCC) where 
+I worked primarily on helping craft the rules for unlicensed access in the 6 GHz band and a pilot project 
+with the US Postal Service (USPS), as directed by Congress, to examine the feasibility of automatically 
+gathering broadband coverage data using apps on smartphones mounted in postal vehicles1.  
+ 
+ 
+1 REPORT TO THE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION OF THE SENATE AND THE 
+COMMITTEE ON ENERGY AND COMMERCE OF THE HOUSE OF REPRESENTATIVES 
+https://www.fcc.gov/sites/default/files/report-congress-usps-broadband-data-collection-feasibility-05242021.pdf 
+I continue to be actively engaged with both industry and government as an academic. I co-chaired the 
+FCC’s Technological Advisory Council’s (TAC) working group on Advanced Spectrum Sharing in 2022 
+where we deliberated on how frequency bands between 7 – 24 GHz could potentially be shared with 
+commercial wireless deployment. I am also an active member of industry’s NextG Alliance, developing 
+standards for 6G and beyond, and the National Spectrum Consortium’s (NSC) Partnering to Advance 
+Trusted and Holistic Spectrum Solutions (PATHSS) Task Group which partners with the Department of 
+Defense (DoD) to explore efficient sharing solutions that will make more mid-band spectrum, specifically 
+in 3.1 – 3.45 GHz, available for commercial wireless applications. 
+ 
+I am also the Policy Outreach Director for SpectrumX2, NSF’s Center for Spectrum Innovation, led by the 
+Wireless Institute3 in the College of Engineering at the University of Notre Dame. SpectrumX was 
+initiated in September 2021 with a five year $25M NSF grant that brings together 41 researchers and 
+staff from 27 universities and a number of  Minority Serving Institutions (MSIs) with broad expertise 
+spanning radio technologies, wireless terrestrial and satellite networks, scientific uses of spectrum and 
+economic considerations related to spectrum allocations. A Memorandum of Agreement (MOA) is in 
+place among the NSF, FCC, and the National Telecommunications and Information Administration (NTIA) 
+to ensure that the research undertaken in SpectrumX can directly impact spectrum issues of importance 
+to the nation. In addition to research, major focus areas of the Center are broadening participation in 
+spectrum research and developing a workforce that can continue to expand America’s leadership in 
+spectrum policy and wireless technologies. 
+Disclaimer: The opinions expressed in this testimony are my own and do not necessarily reflect the 
+positions of the various organizations with which I am affiliated. 
+ 
+Summary of testimony 
+ 
+I will focus my remarks today on the following three areas: 
+(1) Developing a Spectrum Strategy that is sustainable and balances the needs of commercial wireless 
+systems, federal applications and scientific uses while exploring all possible spectrum allocation 
+options, for example, exclusive licensing, shared usage and unlicensed. It is increasingly clear that all 
+these options need to be considered, especially in the next range of coveted mid-bands, 7 – 24 GHz. 
+ 
+2SpectrumX: https://www.spectrumx.org/  
+3 Wireless Institute at Notre Dame: https://wireless.nd.edu/  
+America needs to continue its wireless leadership in all areas that require access to spectrum: 
+commercial, scientific and national security applications. 
+(2) Bridging the digital divide will require attention to both availability and affordability of broadband 
+to ensure that there is equity of services available between rural, inner-city urban and suburban 
+residents across America. As broadband speeds increase, essential networked applications like 
+remote learning and videoconferencing incorporate features that do not deliver the same 
+experience over lower-quality connections. By not having parity between broadband performance 
+and availability across the nation, we risk disadvantaging large sections of the population, often the 
+most vulnerable. Wireless backhaul, satellite connectivity and private networks should all be 
+considered as potential solutions to this problem.. Each of these options may require additional 
+spectrum to fuel their growth trajectories, and the right mix of allocations and flexibility will be 
+important. 
+(3) Creating an entrepreneurial wireless ecosystem that can leverage America’s greatest strength, its 
+start-up culture that unfortunately is not currently as vibrant in the wireless space as it is in, for 
+example, the software and biomedical industries. Here, Congress must ensure that there are 
+synergies that can leverage the CHIPS and Science Act to encourage innovations in wireless chips 
+and semiconductor systems. New application areas for wireless, such as drone control, precision 
+agriculture, connected healthcare and vehicles, and smart manufacturing require new chips that do 
+not necessarily have the volumes required by mobile handsets, but are an important and growing 
+component of the wireless ecosystem.  
+ 
+Detailed testimony 
+ 
+(1) Spectrum Strategy 
+America has long led the world in innovative spectrum policies from allocating spectrum for 
+unlicensed services in the eighties, to developing auction mechanisms and sharing mechanisms in 
+bands like the Citizens Broadband Radio Service (CBRS) in 3.55  - 3.7 GHz. The US was the leader in 
+recognizing that the wide bandwidths available in the millimeter-wave (mmWave) bands (> 24 GHz) 
+could be harnessed for multi-Gbps throughputs. However, it is increasingly clear that in order to 
+continue progressing the wireless ecosystem, new frequency bands need to be made available. As 
+Chairwoman Rosenworcel has often stated, the swath of frequencies between 7 and 24 GHz need to 
+be examined to determine how they can be better utilized for developing the next generation of 
+wireless systems. 
+ 
+While commercial wireless expansion is extremely important, as a nation we also need to ensure 
+that services that are critical to our nation’s security continue to have access to the spectrum that is 
+indispensable to their operations and mission. The recent incursions into US air space were detected 
+by Airborne Warning And Control System (AWACS) radars that operate in dedicated spectrum 
+bands. Scientific uses of spectrum are equally important: the awe-inspiring photographs of the black 
+hole at the center of our galaxy were taken by radio telescopes operating at 230 GHz, and these 
+telescopes are becoming even more sensitive. Our weather forecasts have become increasingly 
+accurate due to the number of different frequencies that the sensors use to measure moisture 
+content and other relevant parameters. It will be challenging to balance all of these very vital needs 
+with the growing demands of wireless broadband, not just from consumers but verticals such as 
+manufacturing, healthcare and automotive. 
+ 
+How should we proceed to address these increasingly complex requirements? Exclusive licensed 
+spectrum will continue to be the backbone for delivery of mobile broadband and we must find ways 
+to allocate more of it. If spectrum needs to be exclusively licensed, it needs to be cleared of all 
+incumbents. In some cases, such as C-band, the number of incumbents (satellite) were small enough 
+that the cost to relocate them to other bands was an effective way to make those bands available 
+for 5G. In other cases, like 6 GHz, the sheer number of incumbent licensees (~70,000) would have 
+complicated the process of relocation and hence the approach of creating rules for unlicensed low-
+power indoor (LPI) usage with no restrictions and standard power unlicensed outdoor usage with 
+Automatic Frequency Control (AFC) was deemed the best way forward. Many countries around the 
+world have since followed the US lead on unlicensed use of 6 GHz. The 3-tiered sharing strategy 
+employed in CBRS is yet another innovative way of sharing spectrum between federal and 
+commercial users that was  pioneered in the US. The combination of exclusively licensed, unlicensed 
+and shared spectrum has been used in recent standards developed by the 3rd Generation 
+Partnership Project (3GPP) e.g., License Assisted Access (LAA) and 5G NR-U (5G New Radio 
+Unlicensed) to allow deployments that can intelligently and strategically aggregate any of these 
+bands to provide multiple 100s of Mbps to consumers, without requiring all of the spectrum to be 
+licensed. Our research and measurements in Chicago on deployed cellular networks demonstrate 
+the effectiveness of these approaches4. The US leads the world in such deployments due in large 
+part to innovative spectrum policies: this needs to continue. 
+ 
+Challenges to spectrum sharing: When spectrum sharing is being considered, there will be co- and 
+adjacent channel interference concerns that need to be addressed. Even when spectrum is 
+exclusively licensed, adjacent channel concerns such as in C-band and 24 GHz need to be recognized 
+and addressed in a timely fashion. There is no one-size-fits all solution to these potential 
+interference scenarios and sound spectrum policy should be based on fundamental technical 
+analyses, measurements and testing which includes all stakeholders, such as the federal agencies 
+(e.g., FCC and NTIA) and spectrum stakeholders (commercial wireless, DoD, scientists). National 
+centers and institutes such as SpectrumX, the National Institute on Standards and Technology (NIST) 
+and NTIA’s Institute for Telecommunication Sciences (ITS) have an important role to play in 
+performing the unbiased technical analyses that are required to determine the appropriate power 
+levels, filter roll-offs and other parameters both at transmitters and receivers that are crucial to 
+ensuring that the probability of potential interference is minimized, and spectrum utilization is 
+maximized. The advanced spectrum sharing group in the FCC’s TAC began the work of examining the 
+7 – 24 GHz band to determine suitability for sharing. However, since there are mainly federal 
+incumbents in this range of frequencies, close coordination and cooperation with NTIA is required 
+before meaningful progress can be made on how these bands can shared or reallocated.  
+ 
+Potential solutions to spectrum sharing: Most of the current spectrum allocations that share 
+between incumbent services and new entrants (e.g., Television White Spaces (TVWS), 6 GHz and 
+CBRS) employ some variants of a spectrum-use database to assign channels so that the incumbent is 
+protected. These methods rely on predicted propagation and interference based on models, and 
+often do not take into account many of the details of the systems. Interference protection contours 
+are thus often set to satisfy worst-case interference scenarios which may have a low probability of 
+occurrence resulting in overprotection and spectrum-underutilization. Database-mediated sharing is 
+a proven technique for a number of frequency bands, but may not be suitable for all situations since 
+this method is inherently less dynamic and does not react in a timely fashion to actual propagation 
+ 
+4 M. I. Rochman, V. Sathya, N. Nunez, D. Fernandez, M. Ghosh, A. S. Ibrahim and W. Payne, "A Comparison Study of 
+Cellular Deployments in Chicago and Miami Using Apps on Smartphones," ACM WiNTECH 2021.  
+ 
+and interference conditions. The FCC TAC in 2022 published a whitepaper on lessons learnt from 
+CBRS5 that summarizes how future centralized spectrum management systems based on databases 
+could be improved. 
+ 
+More advanced technical approaches for spectrum sharing can be developed that leverage specific 
+characteristics. For example, modern wireless systems, both cellular and Wi-Fi, use smart antenna 
+array systems that tailor the transmitted energy optimally in 3-dimensional space towards intended 
+users. The same systems could also be adapted to steer energy away from incumbent systems. Such 
+approaches require changes in 6G and beyond standards to be “sharing native”, i.e., designed from 
+the very beginning to operate in shared frequency bands with incumbents instead of solely in 
+licensed or unlicensed bands. The US, with its rich history of spectrum sharing innovations in TVWS, 
+6 GHz and CBRS is well positioned to be the worldwide leader in standards development in this 
+space. 
+ 
+(2) Bridging the digital divide will require harnessing all the policy and technology tools at our disposal 
+to address the twin issues of availability and affordability. In most rural areas the problem is one of 
+availability of broadband, both fixed and mobile. NTIA’s Broadband, Equity, Access and Deployment 
+(BEAD) program will oversee fiber deployments that will bring true broadband (defined as a 
+minimum of 100 Mbps downlink and 20 Mbps uplink, or 100/20) to all “serviceable” locations as 
+identified in FCC’s National Broadband Map. However, this will not solve the problem of broadband 
+availability to serve, for example, the needs of precision agriculture in farmland: a tractor or a field 
+of corn is not a “serviceable” structure. While satellite services can address some of these needs, 
+terrestrial services will still be required for many such rural applications: our research and 
+measurements have shown that sensors in a field of full-grown corn are very difficult to reach even 
+with cellular IoT due to the signal attenuation from the corn biomass6. So, alternate architectures 
+need to be explored, for example using satellite backhaul with local distribution over shared 
+spectrum using a private network. 
+ 
+5 Recommendations to the Federal Communications Commission Based on Lessons Learned from CBRS, FCC TAC, 
+December 2022, 
+https://www.fcc.gov/sites/default/files/recommendations to the federal communications commission based
+on lessons learned from cbrs.pdf   
+6 S. Balida, G. Grant, X. Zhang, M. Ghosh, S. Guha and R. Matamala, “ A Wireless Underground Sensor Network Field 
+Pilot for Agriculture and Ecology: Soil Moisture Mapping Using Signal Attenuation,” Sensors 2022.  
+ 
+In areas where fiber cannot be deployed, we must also consider alternate modes of connectivity, 
+often wireless. mmWave and THz  links can provide the fiber-like bandwidth required for backhaul 
+services; however, attention must be paid to appropriate coexistence and sharing mechanisms with 
+scientific missions that operate in those bands. Information sharing between incumbent users and 
+new backhaul services can facilitate sharing in these bands. Even when backhaul is available, it may 
+not be cost effective for a commercial provider to serve small numbers of consumers. Spectrum 
+policy that makes available cost-effective spectrum to small providers and communities to deploy 
+and manage their own wide-area networks can be very effective in bridging the digital divide in both 
+urban and rural communities. For example, the Wireless Institute at the University of Notre Dame 
+advised the City of South Bend and South Bend School Corporation to deploy a CBRS network that 
+provides another connectivity option to 1000 families who otherwise would not have access to 
+similar levels of connectivity at an affordable rate, even though South Bend is fairly well served by 
+the major providers7. There are many such examples of community networks that are leveraging the 
+innovative spectrum access policies enacted by the FCC to connect their citizens to broadband 
+services. Finally, although 5G networks have increased the available throughputs considerably, 
+newer devices required to access these networks are often more expensive. Hence programs such 
+as the Affordable Connectivity Program (ACP) need to continue to ensure that all segments of the 
+population derive equal benefits from the newest technologies. 
+ 
+(3) Creating an entrepreneurial wireless ecosystem: America is at its best when innovations are 
+incubated in small companies and start-ups. We see evidence of that in the software industry where 
+a vibrant start-up ecosystem in the US has led the world in delivering innovations in many areas. A 
+similar environment needs to evolve in the wireless industry. Disruptive applications in wireless are 
+often harder to bring to the marketplace due to the limited number of options for wireless chipsets  
+and spectrum availability. As the CHIPS and Science Act begins to be implemented Congress must 
+ensure that innovations encouraged by forward looking spectrum policy are not held back due to 
+limited access to chipsets. The FCC has issued a number of Notices of Inquiry (NOIs), Notices of 
+Proposed Rulemaking (NPRMs) and Report and Orders (R&Os) in diverse frequency bands: spectrum 
+ 
+7 Bridging the Digital divide in South Bend, https://www.nd.edu/stories/bridging-the-digital-divide/  
+allocations for drones in 5030 – 5091 GHz8, sharing of the 4.9 GHz band with public safety9, and 
+sharing of the 12.7 – 13.25 GHz band for mobile applications10. These forward looking actions will 
+result in many applications that will drive innovation, but will require electronic materials and 
+devices, manufacturing and packaging processes, chips, and test and measurement equipment that 
+support these new bands. 
+ 
+Concluding Remarks 
+ 
+America leads the world today in innovations in spectrum policy that have delivered wireless 
+applications that impact all aspects of our life, from broadband connectivity to national security and 
+scientific breakthroughs. Congress, and this subcommittee in particular, must continue its leadership to 
+ensure that we continue to evaluate all options available to create a sustainable spectrum strategy for 
+every system that requires access to spectrum. Exclusive licensing, shared and unlicensed options 
+should all be evaluated in an unbiased manner. This will allow future wireless systems to bridge the 
+digital divide using many complementary options, develop new applications and in the process create a 
+flourishing economy. I thank you for the opportunity to share my thoughts on this very important topic 
+and welcome any questions.  
+ 
+8 FCC Starts Rulemaking on Licensed Spectrum for Unmanned Aircraft Use, January 4, 2023 
+https://www.fcc.gov/document/fcc-starts-rulemaking-licensed-spectrum-unmanned-aircraft-use   
+9 FCC Expands 4.9 GHz Band Rules, Seeks Further Comment, January 18, 2023 https://www.fcc.gov/document/fcc-
+updates-49-ghz-band-rules-seeks-further-comment  
+10 FCC To Examine 12.7 GHz Band For Next-Gen Wireless, October 28, 2022 https://www.fcc.gov/document/fcc-
+examine-127-ghz-band-next-gen-wireless-0

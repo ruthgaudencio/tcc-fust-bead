@@ -1,0 +1,1023 @@
+{
+ "caso": "BEAD",
+ "lote": 51,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0222::Renda e classe",
+   "unit_id": "W0222",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Jayanta Bhattacharya",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "economically disadvantaged",
+     "forma_encontrada": "economically disadvantaged",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 920,
+     "trecho": "Prepared Statement by Dr. Jay Bhattacharya March 27, 2023 Thank you for the opportunity to address this committee. I am a Professor of Health Policy at Stanford University School of Medicine and a research associate at the National Bureau of Economic Research. I hold an M.D. and Ph.D. from Stanford University. Because of my views on COVID-19 restrictions, I have been specifically targeted for censorship by federal government officials. On October 4, 2020, I and two colleagues—Dr. Martin Kulldorff, a professor of medicine at Harvard University, and Dr. Sunetra Gupta, an epidemiologist at the University of Oxford— published the \"Great Barrington Declaration.\" The declaration called for an end to economic lockdowns, school shutdowns, and similar restrictive policies on the ground that they disproportionately harm the young and economically disadvantaged while conferring limited benefits."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0224::Gênero",
+   "unit_id": "W0224",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Seth Dillon",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "gender",
+     "forma_encontrada": "gender",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "gender",
+     "forma_encontrada": "gender",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "gender",
+     "forma_encontrada": "gender",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "gender",
+     "forma_encontrada": "gender",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "gender",
+     "forma_encontrada": "gender",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "gender",
+     "forma_encontrada": "gender",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 707,
+     "trecho": "Summary • The Babylon Bee launched in 2016 and began publishing jokes on social media. • Facebook's third-party fact-checkers began flagging the Bee’s content for misinformation, leading to warnings and a reduction in reach. • Dillon argues that tech companies’ policies defend the popular narrative at the expense of truth and that comedy, satire, and speech in general are being stifled as a result. • Facebook has announced that it will allow satire as long as it does not target marginalized groups, which they say is \"hatred disguised as satire.\" • Twitter locked the Bee's account for hateful conduct after the Bee made a joke about a transgender health admiral in the Biden administration."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 896,
+     "trecho": "Summary • The Babylon Bee launched in 2016 and began publishing jokes on social media. • Facebook's third-party fact-checkers began flagging the Bee’s content for misinformation, leading to warnings and a reduction in reach. • Dillon argues that tech companies’ policies defend the popular narrative at the expense of truth and that comedy, satire, and speech in general are being stifled as a result. • Facebook has announced that it will allow satire as long as it does not target marginalized groups, which they say is \"hatred disguised as satire.\" • Twitter locked the Bee's account for hateful conduct after the Bee made a joke about a transgender health admiral in the Biden administration. • Dillon questions the validity of Twitter's commitment to free speech when they prohibit misgendering and deadnaming and have baked radical gender ideology into their terms of service."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 896,
+     "trecho": "Summary • The Babylon Bee launched in 2016 and began publishing jokes on social media. • Facebook's third-party fact-checkers began flagging the Bee’s content for misinformation, leading to warnings and a reduction in reach. • Dillon argues that tech companies’ policies defend the popular narrative at the expense of truth and that comedy, satire, and speech in general are being stifled as a result. • Facebook has announced that it will allow satire as long as it does not target marginalized groups, which they say is \"hatred disguised as satire.\" • Twitter locked the Bee's account for hateful conduct after the Bee made a joke about a transgender health admiral in the Biden administration. • Dillon questions the validity of Twitter's commitment to free speech when they prohibit misgendering and deadnaming and have baked radical gender ideology into their terms of service."
+    },
+    {
+     "inicio_corpo": 2438,
+     "fim_corpo": 3253,
+     "trecho": "Our email service suspended us for spreading harmful misinformation. We found ourselves taking breaks from writing jokes to go on TV and defend our right to tell them in the first place. That's an awkward position to be in as humorists in a free society. In 2021, Facebook announced they'd allow satire as long as it never targets - marginalized groups who lack power and privilege. “True satire,” they said, “does not punch down.” Satire that punches down—that is, satire that takes aim at protected targets—will now be subject to censorship. In fact, they said they’ll consider jokes that punch down to be \"hatred disguised as satire.\" Other platforms have followed suit. We learned this the hard way with a joke we made about Rachel Levine, a transgender health admiral in the Biden administration."
+    },
+    {
+     "inicio_corpo": 2438,
+     "fim_corpo": 3339,
+     "trecho": "Our email service suspended us for spreading harmful misinformation. We found ourselves taking breaks from writing jokes to go on TV and defend our right to tell them in the first place. That's an awkward position to be in as humorists in a free society. In 2021, Facebook announced they'd allow satire as long as it never targets - marginalized groups who lack power and privilege. “True satire,” they said, “does not punch down.” Satire that punches down—that is, satire that takes aim at protected targets—will now be subject to censorship. In fact, they said they’ll consider jokes that punch down to be \"hatred disguised as satire.\" Other platforms have followed suit. We learned this the hard way with a joke we made about Rachel Levine, a transgender health admiral in the Biden administration. USA Today had named Levine “Woman of the Year” — an insult to real women everywhere."
+    },
+    {
+     "inicio_corpo": 2507,
+     "fim_corpo": 3473,
+     "trecho": "We found ourselves taking breaks from writing jokes to go on TV and defend our right to tell them in the first place. That's an awkward position to be in as humorists in a free society. In 2021, Facebook announced they'd allow satire as long as it never targets - marginalized groups who lack power and privilege. “True satire,” they said, “does not punch down.” Satire that punches down—that is, satire that takes aim at protected targets—will now be subject to censorship. In fact, they said they’ll consider jokes that punch down to be \"hatred disguised as satire.\" Other platforms have followed suit. We learned this the hard way with a joke we made about Rachel Levine, a transgender health admiral in the Biden administration. USA Today had named Levine “Woman of the Year” — an insult to real women everywhere. So we fired back, in defense of women and sanity, with this satirical headline: The Babylon Bee's Man Of The Year is Rachel Levine."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0226::Domicílio e arranjo familiar",
+   "unit_id": "W0226",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Grant Collins",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "Family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "Families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 745,
+     "trecho": "Statement of Grant Collins Senior Vice President, Workforce Development Practice Area for the Fedcap Group Good afternoon, Chairman Smith, Chairman LaHood, Ranking Member Davis, and distinguished Members of the Subcommittee. Thank you for inviting me to testify on Restoring the Work Requirement to Lift Americans Out of Poverty. I lead Workforce Development for the Fedcap Group, a company dedicated to improving the ec onomic well-being of those with barriers to employment. I am pleased to be here today, as I wish to offer a few insights from my current role and my former role as the Deputy Director of the Office of Family Assistance, the federal agency that oversees the Temporary Assistance for Needy Families (TANF) program."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 745,
+     "trecho": "Statement of Grant Collins Senior Vice President, Workforce Development Practice Area for the Fedcap Group Good afternoon, Chairman Smith, Chairman LaHood, Ranking Member Davis, and distinguished Members of the Subcommittee. Thank you for inviting me to testify on Restoring the Work Requirement to Lift Americans Out of Poverty. I lead Workforce Development for the Fedcap Group, a company dedicated to improving the ec onomic well-being of those with barriers to employment. I am pleased to be here today, as I wish to offer a few insights from my current role and my former role as the Deputy Director of the Office of Family Assistance, the federal agency that oversees the Temporary Assistance for Needy Families (TANF) program."
+    },
+    {
+     "inicio_corpo": 1145,
+     "fim_corpo": 2120,
+     "trecho": "States must keep at least 50 percent of adults participating in activities like employment, job search, or vocational training. States receive credit toward meeting the 50 percent work rate if they reduce caseloads over time. For example, if a state had an adult caseload of 10,000 in 1997 , and reduced it by 5,000 by 2002, its 200 3 work participation requirement would have been zero. Currently, states have utilized a few ways to meet the work requirement that do little to further the objectives of the TANF program. To meet the work participation rate: (1) Some states move selected cases from TANF into “solely state-funded” programs, which are not subject to TANF rules; (2) Others solely state fund enough cases removed from the TANF program each month to meet the ir own work requirement; and (3), states increase their rates by adding working families from other programs, which are given small amounts of TANF cash assistance in order to count."
+    },
+    {
+     "inicio_corpo": 2120,
+     "fim_corpo": 2705,
+     "trecho": "While these practices are allowable, they fail to address those with real barriers and need for assistance. In FY 2021, 57 percent of adult TANF cases had zero hours in any work activity for the entire year. Another key provision of welfare reform is what is called maintenance -of-effort or MOE requir ements. MOE makes sure that states continue to invest their own money in the program . The goals of the work and MOE requirements were to solidify the federal-state partnership, and that both parties were financially invested in helping families become self-sufficient."
+    },
+    {
+     "inicio_corpo": 2120,
+     "fim_corpo": 3038,
+     "trecho": "While these practices are allowable, they fail to address those with real barriers and need for assistance. In FY 2021, 57 percent of adult TANF cases had zero hours in any work activity for the entire year. Another key provision of welfare reform is what is called maintenance -of-effort or MOE requir ements. MOE makes sure that states continue to invest their own money in the program . The goals of the work and MOE requirements were to solidify the federal-state partnership, and that both parties were financially invested in helping families become self-sufficient. While the federal government provides actual cash, c urrently, many more states use “eligible TANF expenditures” to meet MOE requirements rather than actual spending on TANF work activities and supports. For example, a state may decide to pro vide a scholarship fund for low -income families out of their education department."
+    },
+    {
+     "inicio_corpo": 5152,
+     "fim_corpo": 6768,
+     "trecho": "States were highly successful at getting people to work in those early years and our policy efforts sought to extend those results by strengthening the work requirement. The Bush reform efforts also continued high levels of support for childcare through the Child Care and Development Fund (CCDF). The next reauthorization can strengthen work requirements by recalibrating the base year for the credit on a bi-annual basis. MOE spending can be more directly tied to efforts that reward work and retention, and other work-focused benefits and supports. More can be done to help those on the caseload, including those with health claims, so they can engage in wellness and other health stabilization activities. Defining work activities to include evidence-based parenting education, pre-apprenticeships, and apprenticeships can help more families be ready for jobs in the new economy. States could be further incentivized to focus on outcomes such as job entry, job retenti on, and earnings increases through enactment of a new high-performance bonus. This could provide an impetus for states to continue to work with those who are employed, to further improve their economic mobility. Overall, states should be applauded for their efforts at getting people into work. Under new reforms, our nation’s social safety net can become the economic trampoline for thousands of Americans who can succeed in work and exit poverty. Thank you, Chairman Smith, Chairman LaHood and Ranking Member Davis, for the opportunity to testify. I look forward to answering any questions you might have."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0226::Idade",
+   "unit_id": "W0226",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Grant Collins",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 228,
+     "trecho": "Statement of Grant Collins Senior Vice President, Workforce Development Practice Area for the Fedcap Group Good afternoon, Chairman Smith, Chairman LaHood, Ranking Member Davis, and distinguished Members of the Subcommittee."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0226::Macrorregião",
+   "unit_id": "W0226",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Grant Collins",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3648,
+     "fim_corpo": 4553,
+     "trecho": "The Bush administration reauthorization sought to strengthen the work requirement and the federal-state partnership. Our r eforms initially focused on universal engagement, partial credits, and a higher participation rate. The overall approach was to have as many people as possible participate, improving their readiness for work for most of the time they were on assistance. The Deficit Reduction Act of 2005 (DRA) defined work activities, required that activities be supervised, and required that states address their internal controls via a work verification plan. We placed an emphasis on healthy marriage and responsible fatherhood by providing grants to states and programs. We took over 5,000 public comments and met with all 50 states, DC, and territories, as we conducted ten listening sessions to hear from them directly regarding reauthorization, before drafting the final rules."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0226::Posição no trabalho",
+   "unit_id": "W0226",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Grant Collins",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "Workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "Workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 228,
+     "trecho": "Statement of Grant Collins Senior Vice President, Workforce Development Practice Area for the Fedcap Group Good afternoon, Chairman Smith, Chairman LaHood, Ranking Member Davis, and distinguished Members of the Subcommittee."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 485,
+     "trecho": "Statement of Grant Collins Senior Vice President, Workforce Development Practice Area for the Fedcap Group Good afternoon, Chairman Smith, Chairman LaHood, Ranking Member Davis, and distinguished Members of the Subcommittee. Thank you for inviting me to testify on Restoring the Work Requirement to Lift Americans Out of Poverty. I lead Workforce Development for the Fedcap Group, a company dedicated to improving the ec onomic well-being of those with barriers to employment."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0227::Domicílio e arranjo familiar",
+   "unit_id": "W0227",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jacob Maas",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1021,
+     "fim_corpo": 1929,
+     "trecho": "West Michigan Works! is supported by state and federal funds; more details at westmiworks.org/about/. TTY 711. March 27, 2023 Good afternoon Chairman LaHood, Ranking Member Davis, and members of the subcommittee. My name is Jacob Maas and I have the privilege to serve as CEO of West Michigan Works! since its creation in 2015. West Michigan Works! serves as the local workforce development agency and our region consists of 7 counties; annually we serve approximately 3,000 employers and 40,000 job seekers out of 8 service centers, 3 satellite offices, and many home offices. I am very passionate about the population we serve…especially in our TANF programs. If there is one thing that I have learned over the years it’s that when you directly impact an individual, you impact their family and if you are impacting their family, you are making an impact on the community."
+    },
+    {
+     "inicio_corpo": 1021,
+     "fim_corpo": 1929,
+     "trecho": "West Michigan Works! is supported by state and federal funds; more details at westmiworks.org/about/. TTY 711. March 27, 2023 Good afternoon Chairman LaHood, Ranking Member Davis, and members of the subcommittee. My name is Jacob Maas and I have the privilege to serve as CEO of West Michigan Works! since its creation in 2015. West Michigan Works! serves as the local workforce development agency and our region consists of 7 counties; annually we serve approximately 3,000 employers and 40,000 job seekers out of 8 service centers, 3 satellite offices, and many home offices. I am very passionate about the population we serve…especially in our TANF programs. If there is one thing that I have learned over the years it’s that when you directly impact an individual, you impact their family and if you are impacting their family, you are making an impact on the community."
+    },
+    {
+     "inicio_corpo": 1714,
+     "fim_corpo": 2654,
+     "trecho": "If there is one thing that I have learned over the years it’s that when you directly impact an individual, you impact their family and if you are impacting their family, you are making an impact on the community. I started my career in workforce development 20 years ago working as an Employer Account Representative in the Michigan Works! network. I was working directly with job seekers who were receiving TANF...preparing them for employment, and with employers who would hire, train, and retain those individuals. Early in my career, I was ill-prepared as the barriers were far more complicated than college prepared me for. I remember picking up individuals from their homes to get them to work on time when public transportation failed them. I remember going to an individual’s home following up on why he did not show up to work…only to find that he was dealing with a family crisis -- his teenager ran away from home."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0227::Educação",
+   "unit_id": "W0227",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jacob Maas",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2353,
+     "fim_corpo": 3318,
+     "trecho": "I remember picking up individuals from their homes to get them to work on time when public transportation failed them. I remember going to an individual’s home following up on why he did not show up to work…only to find that he was dealing with a family crisis -- his teenager ran away from home. I also remember running into individuals at our local Meijer who were thankful for working together and excited to tell me about their new job. While the circumstances surrounding each of their lives were unique, it was clear that they were not there for a handout, but rather a hand up. Our TANF program handled all things employment and training related and gave them the hand up. Those services included orientation to the program, soft skills development, barrier removal, career planning, High School Equivalency or General Education Diploma, referrals to short-term training, support services, transitional supports, and helping retain employment."
+    },
+    {
+     "inicio_corpo": 4407,
+     "fim_corpo": 5226,
+     "trecho": "We were, and are still, dealing with difficult rules like having the 5th week of job search not count towards participation hours and individuals who are referred to us in the middle of the month who have a slim chance of meeting work participation for the month. It makes no sense to me that their hours wouldn’t be prorated for the month depending on when they were referred. Bottom line is that work participation rate doesn’t work. Fortunately in Michigan, due to the partnership we have with our state departments of Labor and Economic Opportunity and Department of Health and Human Services (known as the PATH Program), we have been able to solve these problems through caseload reduction credits where we can enroll a small percentage of individuals into high school equivalency and GED completion."
+    },
+    {
+     "inicio_corpo": 4675,
+     "fim_corpo": 5429,
+     "trecho": "It makes no sense to me that their hours wouldn’t be prorated for the month depending on when they were referred. Bottom line is that work participation rate doesn’t work. Fortunately in Michigan, due to the partnership we have with our state departments of Labor and Economic Opportunity and Department of Health and Human Services (known as the PATH Program), we have been able to solve these problems through caseload reduction credits where we can enroll a small percentage of individuals into high school equivalency and GED completion. Implemented in 2020, it provides an opportunity for participants to pursue high school completion, or equivalency, without facing the adverse effects of not meeting the work participation requirement."
+    },
+    {
+     "inicio_corpo": 7710,
+     "fim_corpo": 8720,
+     "trecho": "4. Locally we often struggle with the benefits cliff. The fact that individuals can just as quickly be off of benefits as they are on them. We have heard directly from many of our employers, where individuals have turned down a promotion and a raise because of the risk of losing their benefit although not necessarily tied to a TANF benefit. Consider a gradual reduction or a small income deferral period when individuals are transitioning to work and the delays that may occur before the first paycheck. I’m a firm believer that just as no one organization or person is responsible for the problems we are dealing with, there is no one organization or person who can fix them. Statewide, in addition to working closely with many state departments, we are working locally with our chambers of commerce, employer associations, unions, economic development agencies, individual school districts, schools, community colleges, universities, philanthropic, community and faith-based organizations."
+    },
+    {
+     "inicio_corpo": 7766,
+     "fim_corpo": 8720,
+     "trecho": "The fact that individuals can just as quickly be off of benefits as they are on them. We have heard directly from many of our employers, where individuals have turned down a promotion and a raise because of the risk of losing their benefit although not necessarily tied to a TANF benefit. Consider a gradual reduction or a small income deferral period when individuals are transitioning to work and the delays that may occur before the first paycheck. I’m a firm believer that just as no one organization or person is responsible for the problems we are dealing with, there is no one organization or person who can fix them. Statewide, in addition to working closely with many state departments, we are working locally with our chambers of commerce, employer associations, unions, economic development agencies, individual school districts, schools, community colleges, universities, philanthropic, community and faith-based organizations."
+    },
+    {
+     "inicio_corpo": 8402,
+     "fim_corpo": 9369,
+     "trecho": "Statewide, in addition to working closely with many state departments, we are working locally with our chambers of commerce, employer associations, unions, economic development agencies, individual school districts, schools, community colleges, universities, philanthropic, community and faith-based organizations. So as you can hear…partnerships are key to our overall success! Local partnerships were key to Jessica Geary’s success. Jessica began working with one of our career coaches in the West Michigan Works! Allegan service center in August of 2022 after being referred to the TANF program through DHHS. She lacked direction and a plan for her future and had significant barriers to gainful employment. Page 4 of 4 Jessica had many years of experience caring for people, but she did not have a Certified Nursing Assistant credential nor high school diploma so her previous work did not pay well and she had no potential for advancement."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0227::Posição no trabalho",
+   "unit_id": "W0227",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jacob Maas",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "Workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "Workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 810,
+     "fim_corpo": 1627,
+     "trecho": "is a division of ACSET, an equal opportunity employer/program and a proud partner of the American Job Center network. Auxiliary aids and services are available upon request to individuals with disabilities. West Michigan Works! is supported by state and federal funds; more details at westmiworks.org/about/. TTY 711. March 27, 2023 Good afternoon Chairman LaHood, Ranking Member Davis, and members of the subcommittee. My name is Jacob Maas and I have the privilege to serve as CEO of West Michigan Works! since its creation in 2015. West Michigan Works! serves as the local workforce development agency and our region consists of 7 counties; annually we serve approximately 3,000 employers and 40,000 job seekers out of 8 service centers, 3 satellite offices, and many home offices."
+    },
+    {
+     "inicio_corpo": 1125,
+     "fim_corpo": 2060,
+     "trecho": "TTY 711. March 27, 2023 Good afternoon Chairman LaHood, Ranking Member Davis, and members of the subcommittee. My name is Jacob Maas and I have the privilege to serve as CEO of West Michigan Works! since its creation in 2015. West Michigan Works! serves as the local workforce development agency and our region consists of 7 counties; annually we serve approximately 3,000 employers and 40,000 job seekers out of 8 service centers, 3 satellite offices, and many home offices. I am very passionate about the population we serve…especially in our TANF programs. If there is one thing that I have learned over the years it’s that when you directly impact an individual, you impact their family and if you are impacting their family, you are making an impact on the community. I started my career in workforce development 20 years ago working as an Employer Account Representative in the Michigan Works!"
+    },
+    {
+     "inicio_corpo": 5226,
+     "fim_corpo": 6242,
+     "trecho": "Implemented in 2020, it provides an opportunity for participants to pursue high school completion, or equivalency, without facing the adverse effects of not meeting the work participation requirement. The challenge is that culturally there is still the mindset that we must meet performance locally. In our region we are dealing with five different DHS directors who are held to the standard of work participation rates and one person can fail performance for that DHS, especially in our rural counties. I applaud the committee’s challenge of re-imagining what TANF can look like. Working directly with the population in a variety of roles I have learned a few things that I hope you find useful, and we would like to offer a few suggestions from our organization: 1. Focus on outcomes, not outputs. Work participation doesn’t work. Consider aligning the outcomes with the Workforce Innovation and Opportunity Act which is about credential attainment, employment, employment retention and earnings."
+    },
+    {
+     "inicio_corpo": 6616,
+     "fim_corpo": 7360,
+     "trecho": "There is enough data to support that having increased education and skills increases earning potential. We have also experienced tremendous success with apprenticeship programs, and we have received national awards for our work. Just as important though would be activities and time for barrier removal. Finding childcare can take time, dealing with legal issues takes time. We need to be able to have the flexibility to address the barriers before we can even help with a plan for employment. 3. Maybe a dream to me…but consider integrating programs. Texas and Michigan have unique models where the workforce development boards are delivering Workforce Innovation and Opportunity Act, Wagner-Peyser, Trade Act, and welfare reform."
+    },
+    {
+     "inicio_corpo": 6616,
+     "fim_corpo": 7360,
+     "trecho": "There is enough data to support that having increased education and skills increases earning potential. We have also experienced tremendous success with apprenticeship programs, and we have received national awards for our work. Just as important though would be activities and time for barrier removal. Finding childcare can take time, dealing with legal issues takes time. We need to be able to have the flexibility to address the barriers before we can even help with a plan for employment. 3. Maybe a dream to me…but consider integrating programs. Texas and Michigan have unique models where the workforce development boards are delivering Workforce Innovation and Opportunity Act, Wagner-Peyser, Trade Act, and welfare reform."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0227::Saúde e deficiência",
+   "unit_id": "W0227",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jacob Maas",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "individuals with disabilities",
+     "forma_encontrada": "individuals with disabilities",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 810,
+     "fim_corpo": 1021,
+     "trecho": "is a division of ACSET, an equal opportunity employer/program and a proud partner of the American Job Center network. Auxiliary aids and services are available upon request to individuals with disabilities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0227::Urbano e rural",
+   "unit_id": "W0227",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jacob Maas",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4849,
+     "fim_corpo": 5736,
+     "trecho": "Fortunately in Michigan, due to the partnership we have with our state departments of Labor and Economic Opportunity and Department of Health and Human Services (known as the PATH Program), we have been able to solve these problems through caseload reduction credits where we can enroll a small percentage of individuals into high school equivalency and GED completion. Implemented in 2020, it provides an opportunity for participants to pursue high school completion, or equivalency, without facing the adverse effects of not meeting the work participation requirement. The challenge is that culturally there is still the mindset that we must meet performance locally. In our region we are dealing with five different DHS directors who are held to the standard of work participation rates and one person can fail performance for that DHS, especially in our rural counties."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0231::Administração pública",
+   "unit_id": "W0231",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Ernesto Falcon",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "local government",
+     "forma_encontrada": "local government",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "local government",
+     "forma_encontrada": "Local Government",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "local government",
+     "forma_encontrada": "local government",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 14734,
+     "fim_corpo": 15405,
+     "trecho": "When V erizon discontinued its fiber service expansion in 2010, the city reminded the company that they had an agreement. The city decided to take V erizon to court to enforce their franchise in 2014, and while the litigation was lengthy, the city secured a settlement from V erizon to build another 500,000 FTTH connections to low -income communities .18 This wide difference between two similarly situated communities provides a key lesson for the Subcommittee as it contemplates the power balance between local communities and ISPs. Something must be in place to ensure equity in the deployment of broadband and typically that is through local governments."
+    },
+    {
+     "inicio_corpo": 15584,
+     "fim_corpo": 16598,
+     "trecho": "When we lose track of that balance, such as 15 Supra Note 13. 16 Benoît Felten and Thomas Langer, Wholesale Fiber is the Key to Broad US FTTP Coverage, Diffraction Analysis (October 27, 2021), available at https://www.eff.org/document/wholesale-fiber-key-broad-us-fttp-covera ge at pag e 32. 17 Hernan Galperin, Thai Le, Kurt Daum, Who Gets Access to Fast Broadband? Evidence from Los Angeles County, USC Annenberg (October 8, 2019), available at https://arnicusc.org/publicat ions/who-gets-access -to-fast - broadband -evidence-from -los-angeles-county -2014 -17/. 18 Scott Moritz, Verizon to Expand NYC Broadband Access, Settling Suit with City, Bloomberg (November 24, 2020), available at https://www.bloomberg.com/news/articles/2020-11-24/nyc-say s-verizon-settlement-to-build-out- high-speed-internet. 9 the FCC’s Small Cell Order, the local government ends up with the cost burdens 19 with little to show for it in regard to improved access for low -income and unserved communities ."
+    },
+    {
+     "inicio_corpo": 17315,
+     "fim_corpo": 18697,
+     "trecho": "The most recent report by The Markup detailed the extent this problem has been repeated across the country. 23 Overall Goals Should be Predictable Construction Timelines and Standardized Costs Broadly speaking, the most important positive goals to legislating here will be providing private, public, and non-profit sector applicants with predictable timelines when entering the construction phase as well as standardized fees when accessing federal and state lands. Predictability is essential because delays result in in creased labor costs with no countervailing benefit, which may turn a project that was once viable into a failure. Standardization is critical because the transition to fiber has changed how this infrastructure can be financed as well as the 19 Stretched Thin and Feeling the Squeeze, The Harmful Effects of Small Cell Preemption on Local Government, National Association of Telecommunications Officers and Advisors (March 2021), available at https://assets.noviams.com/novi -file-uploads/natoa/20210317_NATOA_CW AReport.pdf 20 Vincent Le and Gissela Moya, On the Wrong Side of the Digital Divide: Life Without Internet Access, and Why We Must Fix It in the Age of COVID -19, THE GREENLINING INSTITUTE (June 2, 2020), available at https://greenlining.org/publications/online -resources/2020/on -the-wrong-side-of-the-digita l-divide."
+    },
+    {
+     "inicio_corpo": 26687,
+     "fim_corpo": 27604,
+     "trecho": "This is where the public sector’s involvement is most needed. Certain parts of this country will require an entity who is willing to accept zero profit and operate “at cost” in order to keep the price of broadband low. They may require an entity to accept a nearly 40 -year low-interest debt instrument to long term finance the construction of the fiber with the goal of meeting the debt obligation and not much more. These factors are ill-suited for private sector participants who will not only want to avoid such areas, but also are unlikely to invest the requisite local resources needed to maintain the network in terms of staffing personnel and other operations and maintenance costs . In these instances, only the local community itself can meet the challenge. California, which removed its own restraints on local government networks in 2018, went through this experience in recent years."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0231::Cultura e informação",
+   "unit_id": "W0231",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Ernesto Falcon",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "libraries",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 993,
+     "fim_corpo": 1848,
+     "trecho": "Founded in 1990, EFF champions user privacy, free expression, and innovation through impact litigation, policy analysis, grassroots activism, and technology development. With over 35,000 dues-paying members and well over 1 million followers on social networks, we focus on promoting policies that benefit both creators and users of technology. My organization has been at the forefront of studying the future of broadband access in the high-speed market because without 21 st century ready connectivity , you are not a full participant in society. We have conducted in-depth research and produced publications on the issue from both a legal and technical perspective. For years , I have interview ed ISPs, both big and small, consultants, municipalities, cooperatives, financial experts, and advocates for schools, libraries, and telehealth."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0231::Domicílio e arranjo familiar",
+   "unit_id": "W0231",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Ernesto Falcon",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2819,
+     "fim_corpo": 3547,
+     "trecho": "EFF’s focus on fiber is due to its properties as the only data transmission medium capable of low latency and cost -efficient capacity upgrades for generations to come , once built. We were original sponsors of the California broadband infrastructure law (S.B. 156) that promises to deliver the largest deployment of open -access fiber of any state throughout its rural and urban unserved and underserved areas. We were also strong supporters of the “priority broadband project” provision of the IIJA that requires federal investments to focus on future -proof infrastructure that was scalable, able to meet evolving needs of households and businesses, and able to support 5G and successor wireless technologies."
+    },
+    {
+     "inicio_corpo": 13401,
+     "fim_corpo": 14299,
+     "trecho": "Wireline Broadband Mar ket, Samuelson-Glushko Technology Policy Clinic at Color ado Law (May 3, 2019), available at https://tlpc.colorado.edu/tlpc-releases-white-paper-for-eff-reevaluating-sharing-obliga tions-for- the-modern -u-s-wireline-broadband -ma rket/. 14 Eric Bangeman, California Rewrite Cable TC Franchise , Ars Technica (September 1, 2006), available at https://arstechnica.com/tech -policy/2006/09/7641/ . 8 States began to consolidate local “franchises” into single statewide franchise agreements with ISP-backed laws, but not all states made that mistake . EFF researched 15 the differences such decisions made and found wide discrepancies in broadband deployment. For example, in New Y ork, where local franchising was maintained, New Y ork City through local power was able to push the industry to connect hundreds of thousands of low-income households with FTTH."
+    },
+    {
+     "inicio_corpo": 24033,
+     "fim_corpo": 24880,
+     "trecho": "For example, EFF knows of an open- access fiber provider in California called Netfly Fiber , 26 which originally designed a plan to deploy 10,000+ strands of fiber optic al wire throughout a community. Such capacity c ould be useful, potentially into the 22 nd century, with the advancements in hardware that fiber could leverage; however, because a portion of their network had to pass a railroad, forcing a portion of the network to reduce its fiber count to below 432 strands. This was due to the incidental use fees 25 Supra Note 19. 26 See more about Netfly here: https://www.netlyfiber.com/about -us/ 12 (see chart below) set by the county being designed around a deployment model where each household (and each individual wire) would pay a large subscription fee early and the county would recover a portion of it ."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0231::Educação",
+   "unit_id": "W0231",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Ernesto Falcon",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 993,
+     "fim_corpo": 1848,
+     "trecho": "Founded in 1990, EFF champions user privacy, free expression, and innovation through impact litigation, policy analysis, grassroots activism, and technology development. With over 35,000 dues-paying members and well over 1 million followers on social networks, we focus on promoting policies that benefit both creators and users of technology. My organization has been at the forefront of studying the future of broadband access in the high-speed market because without 21 st century ready connectivity , you are not a full participant in society. We have conducted in-depth research and produced publications on the issue from both a legal and technical perspective. For years , I have interview ed ISPs, both big and small, consultants, municipalities, cooperatives, financial experts, and advocates for schools, libraries, and telehealth."
+    },
+    {
+     "inicio_corpo": 18697,
+     "fim_corpo": 18905,
+     "trecho": "21 Ga lperin, H., Bar, F., Kim, A.M., Le, T.V., Daum, K., Who Gets Access to Fast Broadband? Evidence from Los Angeles County , Spatial Analysis Lab at USC Price , Annenberg School for Communication (Sept."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0231::Idade",
+   "unit_id": "W0231",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Ernesto Falcon",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 134,
+     "trecho": "1 Testimony of Ernesto Falcon, Senior Legislative Counsel Electronic Frontier Foundation Before the U.S."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 505,
+     "trecho": "1 Testimony of Ernesto Falcon, Senior Legislative Counsel Electronic Frontier Foundation Before the U.S. House Committee on Energy and Commerce Subcommittee on Communications and Technology Legislative Hearing On: “Breaking Barriers: Streamlining Permitting to Expedite Broadband Deployment.” Washington, DC April 19, 2023 2 Testimony of Ernesto Falcon, Senior Legislative Counsel Electronic Frontier Foundation Before the U.S."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 898,
+     "trecho": "1 Testimony of Ernesto Falcon, Senior Legislative Counsel Electronic Frontier Foundation Before the U.S. House Committee on Energy and Commerce Subcommittee on Communications and Technology Legislative Hearing On: “Breaking Barriers: Streamlining Permitting to Expedite Broadband Deployment.” Washington, DC April 19, 2023 2 Testimony of Ernesto Falcon, Senior Legislative Counsel Electronic Frontier Foundation Before the U.S. House Committee on Energy and Commerce Subcommittee on Communications and Technology Legislative Hearing On: “Breaking Barriers: Streamlining Permitting to Expedite Broadband Deployment.” April 19, 2023 Chair Latta, Ranking Member Matsui, Members of the Subcommittee, my name is Ernesto Falcon. I am the Senior Legislative Counsel for the Electronic Frontier Foundation (EFF)."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0231::Infraestrutura e porte populacional",
+   "unit_id": "W0231",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Ernesto Falcon",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "last mile",
+     "forma_encontrada": "Last-Mile",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2548,
+     "fim_corpo": 3236,
+     "trecho": "3 The Success of the Broadband Equity Access and Deployment (BEAD) Program is Critical to Our International Competitiveness The EFF’s goal in broadband access is focused on the deployment of universally available, affordable, and competitive fiber networks. EFF’s focus on fiber is due to its properties as the only data transmission medium capable of low latency and cost -efficient capacity upgrades for generations to come , once built. We were original sponsors of the California broadband infrastructure law (S.B. 156) that promises to deliver the largest deployment of open -access fiber of any state throughout its rural and urban unserved and underserved areas."
+    },
+    {
+     "inicio_corpo": 2548,
+     "fim_corpo": 3236,
+     "trecho": "3 The Success of the Broadband Equity Access and Deployment (BEAD) Program is Critical to Our International Competitiveness The EFF’s goal in broadband access is focused on the deployment of universally available, affordable, and competitive fiber networks. EFF’s focus on fiber is due to its properties as the only data transmission medium capable of low latency and cost -efficient capacity upgrades for generations to come , once built. We were original sponsors of the California broadband infrastructure law (S.B. 156) that promises to deliver the largest deployment of open -access fiber of any state throughout its rural and urban unserved and underserved areas."
+    },
+    {
+     "inicio_corpo": 12586,
+     "fim_corpo": 13401,
+     "trecho": "In 2005, the Federal Communications Commission (FCC) made a foundational decision on how broadband competition policy would work with the entry of fiber to the home. In short, the FCC concluded that competition was growing, government policy was unnecessary in deference to market forces, and that the era of communications monopoly was rapidly ending. We explored at length 13 why the FCC was wrong, but there is more to the history. The federal decision to deregulate broadband was later followed by the decisions of many states, including California, 14 to eliminate the local power of cities at the request of companies like V erizon and AT& T at the advent of FTTH . 13 Bla ke Reid a nd Elliot Browning, Managing Last-Mile Monopolists: Reevaluating Sharing Obligations for the Modern U.S."
+    },
+    {
+     "inicio_corpo": 15884,
+     "fim_corpo": 16598,
+     "trecho": "17 Hernan Galperin, Thai Le, Kurt Daum, Who Gets Access to Fast Broadband? Evidence from Los Angeles County, USC Annenberg (October 8, 2019), available at https://arnicusc.org/publicat ions/who-gets-access -to-fast - broadband -evidence-from -los-angeles-county -2014 -17/. 18 Scott Moritz, Verizon to Expand NYC Broadband Access, Settling Suit with City, Bloomberg (November 24, 2020), available at https://www.bloomberg.com/news/articles/2020-11-24/nyc-say s-verizon-settlement-to-build-out- high-speed-internet. 9 the FCC’s Small Cell Order, the local government ends up with the cost burdens 19 with little to show for it in regard to improved access for low -income and unserved communities ."
+    },
+    {
+     "inicio_corpo": 31882,
+     "fim_corpo": 33031,
+     "trecho": "They would benefit significantly if it was clear there was some “lead” agency with responsibility for the timely resolution of a permit. Along with the need to provide additional resources to federal agencies to improve staffing to review and process permits, some centralized point of contact for communities would be beneficial. This is similar to what Kansas City did to attract Google Fiber back when cities were competing to be awarded a project. Rather than having the provider navigate several local agencies individually to process its permits for construction, the city provided a sing le point of contact who served as the interface with the other agencies . What Should Change After BEAD is Done? Looking forward, if BEAD is successful in delivering fiber infrastructure to many unserved communities , it will probably be time to abandon speed metrics as a means of testing whether an area is “served” or “unserved.” The reality is that on an all -fiber network, the cost differences between offering a gigabit connection, a ten -gigabit connection, and a hundred- gigabit connection, will continue to shrink rapidly."
+    },
+    {
+     "inicio_corpo": 32021,
+     "fim_corpo": 33031,
+     "trecho": "Along with the need to provide additional resources to federal agencies to improve staffing to review and process permits, some centralized point of contact for communities would be beneficial. This is similar to what Kansas City did to attract Google Fiber back when cities were competing to be awarded a project. Rather than having the provider navigate several local agencies individually to process its permits for construction, the city provided a sing le point of contact who served as the interface with the other agencies . What Should Change After BEAD is Done? Looking forward, if BEAD is successful in delivering fiber infrastructure to many unserved communities , it will probably be time to abandon speed metrics as a means of testing whether an area is “served” or “unserved.” The reality is that on an all -fiber network, the cost differences between offering a gigabit connection, a ten -gigabit connection, and a hundred- gigabit connection, will continue to shrink rapidly."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0231::Macrorregião",
+   "unit_id": "W0231",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Ernesto Falcon",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13664,
+     "fim_corpo": 14734,
+     "trecho": "14 Eric Bangeman, California Rewrite Cable TC Franchise , Ars Technica (September 1, 2006), available at https://arstechnica.com/tech -policy/2006/09/7641/ . 8 States began to consolidate local “franchises” into single statewide franchise agreements with ISP-backed laws, but not all states made that mistake . EFF researched 15 the differences such decisions made and found wide discrepancies in broadband deployment. For example, in New Y ork, where local franchising was maintained, New Y ork City through local power was able to push the industry to connect hundreds of thousands of low-income households with FTTH. Meanwhile, the County of Los Angeles, which EFF estimates can deliver fiber in up to 95 percent of its territory16 commercially —without subsidies —languishes at 40% FTTH coverage today with systemic digital redlining .17 New Y ork City understood that with its massive population, wealthy communities, business sector, and density , V erizon could provide fiber to every single home and signed that into a franchise in 2008."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0231::Posição no trabalho",
+   "unit_id": "W0231",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Ernesto Falcon",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "Workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9041,
+     "fim_corpo": 9684,
+     "trecho": "At the start of the pandemic, the sur ge in home usage led to a massive degradation of service for capacity constrained networks. The cable networks operators and legacy telecoms dependent on copper wires were not ready to handle what we now consider normal volumes of data usage. 9 Contrary to what many allege, American broadband infrastructure did not handle the wide spread transition to remote well. While most businesses will not transition to a 100% remote workforce going forward, nearly 80% of businesses now have work-from -home policies, signaling that remote work, and the demands it places on networks, is here to stay."
+    },
+    {
+     "inicio_corpo": 18697,
+     "fim_corpo": 19140,
+     "trecho": "21 Ga lperin, H., Bar, F., Kim, A.M., Le, T.V., Daum, K., Who Gets Access to Fast Broadband? Evidence from Los Angeles County , Spatial Analysis Lab at USC Price , Annenberg School for Communication (Sept. 2019), http://arnicusc.org/wp -content/uploads/2019/10/Policy -Brief-4-final.pdf . 22 Communications Workers of America & Na tional Digita l Inclusion Allia nce, AT&T’s Digital Redlining Leaving Communities Behind for Profit (Oct."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0231::Renda e classe",
+   "unit_id": "W0231",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Ernesto Falcon",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13401,
+     "fim_corpo": 14299,
+     "trecho": "Wireline Broadband Mar ket, Samuelson-Glushko Technology Policy Clinic at Color ado Law (May 3, 2019), available at https://tlpc.colorado.edu/tlpc-releases-white-paper-for-eff-reevaluating-sharing-obliga tions-for- the-modern -u-s-wireline-broadband -ma rket/. 14 Eric Bangeman, California Rewrite Cable TC Franchise , Ars Technica (September 1, 2006), available at https://arstechnica.com/tech -policy/2006/09/7641/ . 8 States began to consolidate local “franchises” into single statewide franchise agreements with ISP-backed laws, but not all states made that mistake . EFF researched 15 the differences such decisions made and found wide discrepancies in broadband deployment. For example, in New Y ork, where local franchising was maintained, New Y ork City through local power was able to push the industry to connect hundreds of thousands of low-income households with FTTH."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2284 @@
+eixo,id,caso,pertinencia,nivel,status,n_caracteres
+discursivo,W0001::Educação,BEAD,sim,superficial,ok_janela_estrito,157
+discursivo,W0001::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,150
+discursivo,W0001::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,157
+discursivo,W0001::Saúde,BEAD,sim,superficial,ok_janela_estrito,176
+discursivo,W0001::Territórios de povos e comunidades tradicionais,BEAD,sim,superficial,ok_janela_estrito,176
+discursivo,W0001::Urbano e rural,BEAD,sim,superficial,ok_janela_normalizado,214
+discursivo,W0002::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,131
+discursivo,W0002::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,85
+discursivo,W0002::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,85
+discursivo,W0005::Gênero,BEAD,sim,superficial,outro_documento,69
+discursivo,W0005::Infraestrutura e porte populacional,BEAD,sim,estrutural,ok_janela_estrito,138
+discursivo,W0005::Macrorregião,BEAD,sim,superficial,fora_da_janela,121
+discursivo,W0005::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,92
+discursivo,W0005::Saúde e deficiência,BEAD,sim,superficial,ok_janela_normalizado,105
+discursivo,W0005::Urbano e rural,BEAD,sim,estrutural,ok_janela_estrito,138
+discursivo,W0006::Gênero,BEAD,sim,superficial,ok_janela_estrito,170
+discursivo,W0006::Idade,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0006::Renda e classe,BEAD,sim,superficial,ok_janela_estrito,170
+discursivo,W0007::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,172
+discursivo,W0007::Gênero,BEAD,sim,superficial,ok_janela_estrito,134
+discursivo,W0007::Idade,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0007::Posição no trabalho,BEAD,sim,estrutural,fora_da_janela,221
+discursivo,W0007::Urbano e rural,BEAD,sim,estrutural,costurada_real,242
+discursivo,W0008::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,155
+discursivo,W0009::Domicílio e arranjo familiar,BEAD,sim,estrutural,fora_da_janela,211
+discursivo,W0009::Idade,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0009::Macrorregião,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0009::Posição no trabalho,BEAD,sim,estrutural,fora_da_janela,166
+discursivo,W0009::Saúde e deficiência,BEAD,sim,superficial,ok_janela_normalizado,143
+discursivo,W0009::Urbano e rural,BEAD,sim,estrutural,costurada_real,297
+discursivo,W0010::Escolaridade e letramento,BEAD,sim,superficial,fora_da_janela,154
+discursivo,W0010::Infraestrutura e porte populacional,BEAD,sim,superficial,fora_da_janela,153
+discursivo,W0010::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,54
+discursivo,W0010::Renda e classe,BEAD,sim,superficial,ok_janela_estrito,83
+discursivo,W0010::Urbano e rural,BEAD,sim,superficial,corte_interno,174
+discursivo,W0011::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,194
+discursivo,W0011::Posição no trabalho,BEAD,sim,estrutural,costurada_parcial,261
+discursivo,W0011::Renda e classe,BEAD,sim,estrutural,costurada_real,260
+discursivo,W0011::Urbano e rural,BEAD,sim,superficial,ok_janela_normalizado,213
+discursivo,W0013::Idade,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0013::Urbano e rural,BEAD,sim,superficial,costurada_real,129
+discursivo,W0014::Infraestrutura e porte populacional,BEAD,sim,estrutural,costurada_real,226
+discursivo,W0014::Posição no trabalho,BEAD,sim,superficial,fora_da_janela,115
+discursivo,W0014::Saúde e deficiência,BEAD,sim,superficial,fora_da_janela,113
+discursivo,W0014::Urbano e rural,BEAD,sim,estrutural,fora_da_janela,267
+discursivo,W0016::Cultura e informação,BEAD,sim,estrutural,costurada_parcial,239
+discursivo,W0016::Domicílio e arranjo familiar,BEAD,sim,estrutural,costurada_real,237
+discursivo,W0016::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,175
+discursivo,W0016::Gênero,BEAD,sim,superficial,ok_janela_estrito,133
+discursivo,W0016::Raça e etnia,BEAD,sim,superficial,ok_janela_estrito,129
+discursivo,W0016::Renda e classe,BEAD,sim,estrutural,costurada_real,248
+discursivo,W0016::Territórios de povos e comunidades tradicionais,BEAD,sim,estrutural,ok_janela_estrito,230
+discursivo,W0016::Urbano e rural,BEAD,sim,estrutural,costurada_real,248
+discursivo,W0017::Saúde e deficiência,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0018::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_normalizado,146
+discursivo,W0019::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,171
+discursivo,W0019::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,101
+discursivo,W0019::Vínculo institucional,BEAD,sim,superficial,ok_janela_estrito,205
+discursivo,W0020::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,135
+discursivo,W0020::Renda e classe,BEAD,sim,superficial,ok_janela_estrito,112
+discursivo,W0020::Saúde e deficiência,BEAD,sim,superficial,ok_janela_estrito,136
+discursivo,W0020::Vínculo institucional,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0021::Infraestrutura e porte populacional,BEAD,sim,estrutural,costurada_real,183
+discursivo,W0021::Urbano e rural,BEAD,sim,estrutural,corte_interno,269
+discursivo,W0022::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,121
+discursivo,W0022::Educação,BEAD,sim,superficial,ok_janela_estrito,85
+discursivo,W0022::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,140
+discursivo,W0022::Posição no trabalho,BEAD,sim,superficial,ok_janela_normalizado,142
+discursivo,W0022::Renda e classe,BEAD,sim,superficial,ok_janela_estrito,134
+discursivo,W0022::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,112
+discursivo,W0022::Vínculo institucional,BEAD,sim,superficial,ok_janela_estrito,167
+discursivo,W0023::Renda e classe,BEAD,sim,superficial,corte_interno,222
+discursivo,W0023::Saúde,BEAD,sim,superficial,fora_da_janela,185
+discursivo,W0023::Urbano e rural,BEAD,sim,estrutural,costurada_real,310
+discursivo,W0024::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_normalizado,98
+discursivo,W0024::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,127
+discursivo,W0024::Idade,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0024::Infraestrutura e porte populacional,BEAD,sim,superficial,costurada_real,205
+discursivo,W0024::Urbano e rural,BEAD,sim,estrutural,fora_da_janela,188
+discursivo,W0025::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,121
+discursivo,W0025::Idade,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0025::Infraestrutura e porte populacional,BEAD,sim,superficial,costurada_real,233
+discursivo,W0025::Macrorregião,BEAD,sim,superficial,ok_janela_estrito,91
+discursivo,W0025::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,128
+discursivo,W0026::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_normalizado,229
+discursivo,W0026::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,84
+discursivo,W0026::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,212
+discursivo,W0027::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,97
+discursivo,W0027::Escolaridade e letramento,BEAD,sim,estrutural,costurada_real,282
+discursivo,W0027::Infraestrutura e porte populacional,BEAD,sim,estrutural,ok_janela_estrito,117
+discursivo,W0027::Macrorregião,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0027::Renda e classe,BEAD,sim,estrutural,costurada_real,254
+discursivo,W0027::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,197
+discursivo,W0028::Gênero,BEAD,sim,superficial,ok_janela_estrito,74
+discursivo,W0028::Posição no trabalho,BEAD,sim,estrutural,costurada_real,157
+discursivo,W0028::Renda e classe,BEAD,sim,estrutural,costurada_real,272
+discursivo,W0028::Saúde e deficiência,BEAD,sim,estrutural,costurada_real,229
+discursivo,W0028::Territórios de povos e comunidades tradicionais,BEAD,sim,superficial,ok_janela_estrito,140
+discursivo,W0028::Urbano e rural,BEAD,sim,estrutural,costurada_real,251
+discursivo,W0029::Administração pública,BEAD,sim,superficial,ok_janela_normalizado,175
+discursivo,W0029::Cultura e informação,BEAD,sim,superficial,costurada_real,129
+discursivo,W0029::Educação,BEAD,sim,estrutural,costurada_real,285
+discursivo,W0029::Gênero,BEAD,sim,superficial,ok_janela_estrito,148
+discursivo,W0029::Infraestrutura e porte populacional,BEAD,sim,estrutural,costurada_real,235
+discursivo,W0029::Macrorregião,BEAD,sim,superficial,fora_da_janela,109
+discursivo,W0029::Renda e classe,BEAD,sim,superficial,ok_janela_estrito,148
+discursivo,W0029::Saúde e deficiência,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0029::Urbano e rural,BEAD,sim,estrutural,ok_janela_estrito,157
+discursivo,W0029::Vínculo institucional,BEAD,sim,superficial,ok_janela_estrito,75
+discursivo,W0030::Escolaridade e letramento,BEAD,sim,estrutural,corte_interno,236
+discursivo,W0030::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,180
+discursivo,W0030::Raça e etnia,BEAD,sim,superficial,ok_janela_estrito,129
+discursivo,W0030::Renda e classe,BEAD,sim,superficial,ok_janela_estrito,129
+discursivo,W0030::Saúde,BEAD,sim,superficial,ok_janela_estrito,249
+discursivo,W0030::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,198
+discursivo,W0031::Administração pública,BEAD,sim,estrutural,costurada_real,228
+discursivo,W0031::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,138
+discursivo,W0031::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,164
+discursivo,W0031::Renda e classe,BEAD,sim,superficial,ok_janela_normalizado,126
+discursivo,W0031::Territórios de povos e comunidades tradicionais,BEAD,sim,superficial,ok_janela_estrito,129
+discursivo,W0031::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,106
+discursivo,W0031::Vínculo institucional,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0033::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,109
+discursivo,W0033::Idade,BEAD,sim,superficial,fora_da_janela,188
+discursivo,W0033::Infraestrutura e porte populacional,BEAD,sim,estrutural,ok_janela_estrito,237
+discursivo,W0033::Posição no trabalho,BEAD,sim,superficial,fora_da_janela,202
+discursivo,W0033::Urbano e rural,BEAD,sim,estrutural,ok_janela_estrito,237
+discursivo,W0034::Domicílio e arranjo familiar,BEAD,sim,estrutural,ok_janela_estrito,212
+discursivo,W0034::Escolaridade e letramento,BEAD,sim,estrutural,ok_janela_estrito,212
+discursivo,W0034::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,165
+discursivo,W0034::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,99
+discursivo,W0034::Saúde e deficiência,BEAD,sim,superficial,ok_janela_estrito,157
+discursivo,W0034::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,104
+discursivo,W0035::Educação,BEAD,sim,superficial,ok_janela_estrito,51
+discursivo,W0035::Saúde e deficiência,BEAD,sim,superficial,ok_janela_estrito,167
+discursivo,W0035::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,224
+discursivo,W0036::Domicílio e arranjo familiar,BEAD,sim,estrutural,ok_janela_estrito,218
+discursivo,W0037::Infraestrutura e porte populacional,BEAD,sim,estrutural,costurada_real,223
+discursivo,W0038::Raça e etnia,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0038::Urbano e rural,BEAD,sim,estrutural,ok_janela_estrito,254
+discursivo,W0039::Educação,BEAD,sim,superficial,ok_janela_estrito,215
+discursivo,W0039::Idade,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0039::Renda e classe,BEAD,sim,estrutural,ok_janela_normalizado,187
+discursivo,W0039::Urbano e rural,BEAD,sim,estrutural,costurada_parcial,298
+discursivo,W0040::Administração pública,BEAD,sim,superficial,ok_janela_estrito,192
+discursivo,W0040::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,99
+discursivo,W0040::Educação,BEAD,sim,superficial,ok_janela_estrito,217
+discursivo,W0040::Escolaridade e letramento,BEAD,sim,superficial,costurada_real,238
+discursivo,W0040::Idade,BEAD,sim,superficial,ok_janela_estrito,249
+discursivo,W0040::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_normalizado,145
+discursivo,W0040::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,116
+discursivo,W0040::Saúde,BEAD,sim,superficial,ok_janela_estrito,147
+discursivo,W0040::Urbano e rural,BEAD,sim,estrutural,ok_janela_normalizado,204
+discursivo,W0041::Idade,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0041::Infraestrutura e porte populacional,BEAD,sim,estrutural,costurada_real,203
+discursivo,W0041::Urbano e rural,BEAD,sim,estrutural,costurada_real,285
+discursivo,W0042::Escolaridade e letramento,BEAD,sim,superficial,costurada_real,261
+discursivo,W0042::Infraestrutura e porte populacional,BEAD,sim,estrutural,ok_janela_normalizado,278
+discursivo,W0042::Saúde,BEAD,sim,superficial,corte_interno,155
+discursivo,W0042::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,209
+discursivo,W0043::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,136
+discursivo,W0043::Urbano e rural,BEAD,sim,estrutural,ok_janela_estrito,237
+discursivo,W0044::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,171
+discursivo,W0044::Raça e etnia,BEAD,sim,superficial,ok_janela_estrito,92
+discursivo,W0044::Urbano e rural,BEAD,sim,estrutural,costurada_real,221
+discursivo,W0045::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,141
+discursivo,W0045::Posição no trabalho,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0045::Urbano e rural,BEAD,sim,estrutural,fora_da_janela,196
+discursivo,W0046::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,217
+discursivo,W0046::Idade,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0046::Infraestrutura e porte populacional,BEAD,sim,estrutural,ok_janela_estrito,206
+discursivo,W0046::Macrorregião,BEAD,sim,superficial,ok_janela_estrito,116
+discursivo,W0046::Urbano e rural,BEAD,sim,estrutural,corte_interno,167
+discursivo,W0047::Domicílio e arranjo familiar,BEAD,sim,estrutural,ok_janela_estrito,210
+discursivo,W0047::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,176
+discursivo,W0047::Raça e etnia,BEAD,sim,superficial,fora_da_janela,130
+discursivo,W0047::Renda e classe,BEAD,sim,estrutural,ok_janela_estrito,210
+discursivo,W0047::Urbano e rural,BEAD,sim,superficial,corte_interno,174
+discursivo,W0048::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,176
+discursivo,W0048::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,184
+discursivo,W0048::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,171
+discursivo,W0048::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,164
+discursivo,W0049::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,153
+discursivo,W0049::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,127
+discursivo,W0050::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,161
+discursivo,W0051::Idade,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0051::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,148
+discursivo,W0052::Cultura e informação,BEAD,sim,superficial,ok_janela_estrito,250
+discursivo,W0052::Domicílio e arranjo familiar,BEAD,sim,estrutural,corte_interno,304
+discursivo,W0052::Infraestrutura e porte populacional,BEAD,sim,estrutural,costurada_real,253
+discursivo,W0052::Renda e classe,BEAD,sim,superficial,ok_janela_estrito,107
+discursivo,W0052::Saúde,BEAD,sim,superficial,costurada_real,233
+discursivo,W0052::Territórios de povos e comunidades tradicionais,BEAD,sim,estrutural,ok_janela_estrito,243
+discursivo,W0052::Urbano e rural,BEAD,sim,estrutural,ok_janela_estrito,243
+discursivo,W0053::Domicílio e arranjo familiar,BEAD,sim,superficial,fora_da_janela,126
+discursivo,W0053::Infraestrutura e porte populacional,BEAD,sim,superficial,fora_da_janela,220
+discursivo,W0053::Urbano e rural,BEAD,sim,estrutural,costurada_real,206
+discursivo,W0054::Escolaridade e letramento,BEAD,sim,superficial,fora_da_janela,233
+discursivo,W0054::Saúde e deficiência,BEAD,sim,superficial,fora_da_janela,163
+discursivo,W0054::Urbano e rural,BEAD,sim,superficial,costurada_real,134
+discursivo,W0055::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,193
+discursivo,W0055::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_normalizado,163
+discursivo,W0055::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,80
+discursivo,W0055::Macrorregião,BEAD,sim,superficial,costurada_real,126
+discursivo,W0055::Saúde,BEAD,sim,superficial,ok_janela_estrito,103
+discursivo,W0055::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,153
+discursivo,W0056::Domicílio e arranjo familiar,BEAD,sim,estrutural,costurada_real,257
+discursivo,W0056::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_normalizado,226
+discursivo,W0056::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,151
+discursivo,W0056::Raça e etnia,BEAD,sim,superficial,corte_interno,116
+discursivo,W0056::Saúde,BEAD,sim,superficial,ok_janela_estrito,106
+discursivo,W0056::Saúde e deficiência,BEAD,sim,superficial,ok_janela_estrito,182
+discursivo,W0056::Territórios de povos e comunidades tradicionais,BEAD,sim,estrutural,corte_interno,211
+discursivo,W0056::Urbano e rural,BEAD,sim,estrutural,corte_interno,211
+discursivo,W0058::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,178
+discursivo,W0058::Infraestrutura e porte populacional,BEAD,sim,estrutural,ok_janela_estrito,133
+discursivo,W0058::Urbano e rural,BEAD,sim,estrutural,ok_janela_estrito,202
+discursivo,W0059::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_normalizado,96
+discursivo,W0059::Saúde,BEAD,sim,superficial,ok_janela_estrito,219
+discursivo,W0059::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,79
+discursivo,W0060::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,220
+discursivo,W0060::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,220
+discursivo,W0060::Posição no trabalho,BEAD,sim,superficial,fora_da_janela,157
+discursivo,W0060::Urbano e rural,BEAD,sim,estrutural,fora_da_janela,213
+discursivo,W0061::Urbano e rural,BEAD,sim,estrutural,costurada_real,343
+discursivo,W0062::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,183
+discursivo,W0062::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,144
+discursivo,W0062::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,153
+discursivo,W0063::Infraestrutura e porte populacional,BEAD,sim,indeterminado,sem_trecho,0
+discursivo,W0063::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,82
+discursivo,W0063::Urbano e rural,BEAD,sim,estrutural,corte_interno,212
+discursivo,W0064::Infraestrutura e porte populacional,BEAD,sim,estrutural,ok_janela_estrito,127
+discursivo,W0064::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,88
+discursivo,W0065::Cultura e informação,BEAD,sim,estrutural,corte_interno,295
+discursivo,W0065::Domicílio e arranjo familiar,BEAD,sim,estrutural,ok_janela_estrito,143
+discursivo,W0065::Escolaridade e letramento,BEAD,sim,superficial,costurada_real,161
+discursivo,W0065::Infraestrutura e porte populacional,BEAD,sim,estrutural,fora_da_janela,275
+discursivo,W0065::Macrorregião,BEAD,sim,estrutural,ok_janela_estrito,181
+discursivo,W0065::Posição no trabalho,BEAD,sim,superficial,ok_janela_normalizado,198
+discursivo,W0065::Raça e etnia,BEAD,sim,estrutural,ok_janela_estrito,321
+discursivo,W0065::Urbano e rural,BEAD,sim,estrutural,corte_interno,243
+discursivo,W0066::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,146
+discursivo,W0066::Saúde,BEAD,sim,superficial,ok_janela_normalizado,189
+discursivo,W0066::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,165
+discursivo,W0067::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,267
+discursivo,W0068::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,134
+discursivo,W0068::Saúde,BEAD,sim,superficial,ok_janela_normalizado,168
+discursivo,W0068::Urbano e rural,BEAD,sim,superficial,ok_janela_normalizado,172
+discursivo,W0069::Urbano e rural,BEAD,sim,estrutural,costurada_parcial,244
+discursivo,W0070::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,119
+discursivo,W0070::Idade,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0071::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,82
+discursivo,W0071::Urbano e rural,BEAD,sim,estrutural,ok_janela_estrito,224
+discursivo,W0072::Escolaridade e letramento,BEAD,sim,superficial,costurada_real,254
+discursivo,W0072::Urbano e rural,BEAD,sim,superficial,costurada_real,254
+discursivo,W0074::Infraestrutura e porte populacional,BEAD,sim,estrutural,ok_janela_normalizado,302
+discursivo,W0074::Urbano e rural,BEAD,sim,estrutural,ok_janela_normalizado,224
+discursivo,W0075::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,157
+discursivo,W0075::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,107
+discursivo,W0075::Urbano e rural,BEAD,sim,estrutural,ok_janela_estrito,156
+discursivo,W0076::Gênero,BEAD,sim,superficial,fora_da_janela,124
+discursivo,W0076::Idade,BEAD,sim,superficial,ok_janela_estrito,112
+discursivo,W0076::Saúde e deficiência,BEAD,sim,superficial,ok_janela_estrito,132
+discursivo,W0076::Urbano e rural,BEAD,sim,superficial,fora_da_janela,193
+discursivo,W0077::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,65
+discursivo,W0077::Gênero,BEAD,sim,estrutural,corte_interno,292
+discursivo,W0077::Idade,BEAD,sim,superficial,corte_interno,111
+discursivo,W0077::Posição no trabalho,BEAD,sim,superficial,ok_janela_normalizado,138
+discursivo,W0077::Raça e etnia,BEAD,sim,superficial,fora_da_janela,261
+discursivo,W0077::Saúde,BEAD,sim,estrutural,ok_janela_estrito,242
+discursivo,W0077::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,107
+discursivo,W0078::Gênero,BEAD,sim,estrutural,costurada_real,236
+discursivo,W0078::Saúde e deficiência,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0080::Gênero,BEAD,sim,estrutural,fora_da_janela,121
+discursivo,W0080::Posição no trabalho,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0080::Raça e etnia,BEAD,sim,estrutural,corte_interno,292
+discursivo,W0081::Idade,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0082::Gênero,BEAD,sim,superficial,ok_janela_estrito,245
+discursivo,W0083::Macrorregião,BEAD,sim,superficial,ok_janela_estrito,175
+discursivo,W0084::Idade,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0085::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,187
+discursivo,W0085::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,234
+discursivo,W0085::Infraestrutura e porte populacional,BEAD,sim,estrutural,corte_interno,313
+discursivo,W0085::Territórios de povos e comunidades tradicionais,BEAD,sim,superficial,ok_janela_estrito,154
+discursivo,W0085::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,153
+discursivo,W0086::Cultura e informação,BEAD,sim,superficial,ok_janela_estrito,134
+discursivo,W0086::Educação,BEAD,sim,superficial,ok_janela_estrito,134
+discursivo,W0086::Saúde,BEAD,sim,superficial,ok_janela_estrito,134
+discursivo,W0086::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,115
+discursivo,W0087::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,159
+discursivo,W0088::Idade,BEAD,sim,estrutural,costurada_real,265
+discursivo,W0088::Posição no trabalho,BEAD,sim,superficial,costurada_real,248
+discursivo,W0088::Saúde e deficiência,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0088::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,207
+discursivo,W0089::Educação,BEAD,sim,superficial,ok_janela_normalizado,162
+discursivo,W0089::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_normalizado,126
+discursivo,W0089::Posição no trabalho,BEAD,sim,superficial,ok_janela_normalizado,165
+discursivo,W0089::Renda e classe,BEAD,sim,superficial,costurada_real,255
+discursivo,W0089::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,229
+discursivo,W0089::Vínculo institucional,BEAD,sim,superficial,ok_janela_estrito,191
+discursivo,W0090::Escolaridade e letramento,BEAD,sim,superficial,costurada_parcial,230
+discursivo,W0090::Gênero,BEAD,sim,estrutural,fora_da_janela,255
+discursivo,W0090::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_normalizado,191
+discursivo,W0090::Posição no trabalho,BEAD,sim,estrutural,ok_janela_normalizado,255
+discursivo,W0090::Renda e classe,BEAD,sim,superficial,ok_janela_normalizado,131
+discursivo,W0090::Saúde e deficiência,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0090::Territórios de povos e comunidades tradicionais,BEAD,sim,superficial,ok_janela_estrito,154
+discursivo,W0090::Urbano e rural,BEAD,sim,estrutural,fora_da_janela,215
+discursivo,W0091::Domicílio e arranjo familiar,BEAD,sim,estrutural,ok_janela_estrito,155
+discursivo,W0091::Idade,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0091::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,88
+discursivo,W0091::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,188
+discursivo,W0093::Gênero,BEAD,sim,estrutural,costurada_real,198
+discursivo,W0093::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,189
+discursivo,W0093::Raça e etnia,BEAD,sim,superficial,ok_janela_estrito,147
+discursivo,W0093::Saúde e deficiência,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0094::Gênero,BEAD,sim,superficial,costurada_real,223
+discursivo,W0094::Raça e etnia,BEAD,sim,superficial,costurada_real,223
+discursivo,W0094::Saúde e deficiência,BEAD,sim,superficial,ok_janela_estrito,228
+discursivo,W0094::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,145
+discursivo,W0095::Gênero,BEAD,sim,superficial,costurada_real,265
+discursivo,W0095::Raça e etnia,BEAD,sim,estrutural,ok_janela_estrito,194
+discursivo,W0096::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,75
+discursivo,W0096::Gênero,BEAD,sim,estrutural,fora_da_janela,232
+discursivo,W0096::Raça e etnia,BEAD,sim,estrutural,fora_da_janela,232
+discursivo,W0097::Administração pública,BEAD,sim,superficial,ok_janela_normalizado,122
+discursivo,W0097::Domicílio e arranjo familiar,BEAD,sim,estrutural,corte_interno,262
+discursivo,W0097::Gênero,BEAD,sim,superficial,ok_janela_estrito,58
+discursivo,W0097::Infraestrutura e porte populacional,BEAD,sim,estrutural,ok_janela_estrito,294
+discursivo,W0097::Renda e classe,BEAD,sim,estrutural,costurada_real,310
+discursivo,W0097::Urbano e rural,BEAD,sim,estrutural,costurada_real,277
+discursivo,W0098::Administração pública,BEAD,sim,superficial,ok_janela_estrito,71
+discursivo,W0098::Domicílio e arranjo familiar,BEAD,sim,estrutural,ok_janela_estrito,217
+discursivo,W0098::Escolaridade e letramento,BEAD,sim,estrutural,ok_janela_estrito,245
+discursivo,W0098::Posição no trabalho,BEAD,sim,estrutural,costurada_real,281
+discursivo,W0098::Renda e classe,BEAD,sim,estrutural,costurada_real,318
+discursivo,W0098::Urbano e rural,BEAD,sim,estrutural,costurada_real,297
+discursivo,W0099::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,232
+discursivo,W0099::Escolaridade e letramento,BEAD,sim,estrutural,ok_janela_estrito,147
+discursivo,W0099::Idade,BEAD,sim,superficial,ok_janela_estrito,188
+discursivo,W0099::Infraestrutura e porte populacional,BEAD,sim,estrutural,costurada_real,245
+discursivo,W0099::Posição no trabalho,BEAD,sim,estrutural,costurada_real,196
+discursivo,W0099::Renda e classe,BEAD,sim,estrutural,corte_interno,246
+discursivo,W0099::Saúde e deficiência,BEAD,sim,estrutural,costurada_parcial,299
+discursivo,W0099::Urbano e rural,BEAD,sim,estrutural,costurada_real,150
+discursivo,W0099::Vínculo institucional,BEAD,sim,superficial,ok_janela_estrito,188
+discursivo,W0100::Administração pública,BEAD,sim,superficial,corte_interno,223
+discursivo,W0100::Cultura e informação,BEAD,sim,superficial,corte_interno,146
+discursivo,W0100::Domicílio e arranjo familiar,BEAD,sim,estrutural,ok_janela_estrito,150
+discursivo,W0100::Idade,BEAD,sim,superficial,ok_janela_estrito,59
+discursivo,W0100::Posição no trabalho,BEAD,sim,estrutural,costurada_real,138
+discursivo,W0100::Renda e classe,BEAD,sim,estrutural,fora_da_janela,126
+discursivo,W0100::Urbano e rural,BEAD,sim,estrutural,costurada_real,192
+discursivo,W0100::Vínculo institucional,BEAD,sim,superficial,ok_janela_estrito,63
+discursivo,W0101::Educação,BEAD,sim,estrutural,ok_janela_estrito,138
+discursivo,W0101::Escolaridade e letramento,BEAD,sim,estrutural,ok_janela_estrito,138
+discursivo,W0101::Infraestrutura e porte populacional,BEAD,sim,estrutural,costurada_parcial,308
+discursivo,W0101::Macrorregião,BEAD,sim,superficial,ok_janela_estrito,165
+discursivo,W0101::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,263
+discursivo,W0101::Raça e etnia,BEAD,sim,estrutural,costurada_real,302
+discursivo,W0101::Renda e classe,BEAD,sim,estrutural,ok_janela_estrito,243
+discursivo,W0101::Saúde e deficiência,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0101::Urbano e rural,BEAD,sim,estrutural,ok_janela_normalizado,150
+discursivo,W0102::Administração pública,BEAD,sim,superficial,ok_janela_normalizado,174
+discursivo,W0102::Saúde,BEAD,sim,estrutural,costurada_real,287
+discursivo,W0102::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,173
+discursivo,W0103::Administração pública,BEAD,sim,superficial,ok_janela_estrito,160
+discursivo,W0104::Macrorregião,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0104::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,131
+discursivo,W0105::Cultura e informação,BEAD,sim,superficial,ok_janela_estrito,74
+discursivo,W0105::Macrorregião,BEAD,sim,superficial,ok_janela_estrito,153
+discursivo,W0105::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,147
+discursivo,W0106::Administração pública,BEAD,sim,estrutural,fora_da_janela,180
+discursivo,W0106::Macrorregião,BEAD,sim,estrutural,ok_janela_estrito,208
+discursivo,W0107::Gênero,BEAD,sim,superficial,ok_janela_estrito,75
+discursivo,W0107::Idade,BEAD,sim,estrutural,ok_janela_estrito,186
+discursivo,W0107::Raça e etnia,BEAD,sim,estrutural,ok_janela_estrito,124
+discursivo,W0107::Territórios de povos e comunidades tradicionais,BEAD,sim,superficial,ok_janela_estrito,138
+discursivo,W0107::Vínculo institucional,BEAD,sim,superficial,ok_janela_estrito,76
+discursivo,W0109::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_normalizado,126
+discursivo,W0109::Renda e classe,BEAD,sim,superficial,ok_janela_estrito,121
+discursivo,W0109::Saúde,BEAD,sim,estrutural,costurada_real,192
+discursivo,W0109::Saúde e deficiência,BEAD,sim,superficial,ok_janela_estrito,72
+discursivo,W0109::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,202
+discursivo,W0112::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,210
+discursivo,W0112::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,210
+discursivo,W0112::Idade,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0112::Infraestrutura e porte populacional,BEAD,sim,superficial,fora_da_janela,170
+discursivo,W0112::Urbano e rural,BEAD,sim,superficial,fora_da_janela,153
+discursivo,W0113::Administração pública,BEAD,sim,superficial,ok_janela_estrito,124
+discursivo,W0113::Raça e etnia,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0113::Saúde e deficiência,BEAD,sim,superficial,ok_janela_estrito,151
+discursivo,W0114::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,123
+discursivo,W0114::Saúde e deficiência,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0114::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,115
+discursivo,W0115::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,253
+discursivo,W0115::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,127
+discursivo,W0115::Idade,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0115::Infraestrutura e porte populacional,BEAD,sim,estrutural,ok_janela_estrito,348
+discursivo,W0115::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,127
+discursivo,W0115::Renda e classe,BEAD,sim,superficial,ok_janela_estrito,108
+discursivo,W0115::Saúde,BEAD,sim,superficial,ok_janela_estrito,160
+discursivo,W0115::Saúde e deficiência,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0115::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,167
+discursivo,W0116::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,116
+discursivo,W0116::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,144
+discursivo,W0116::Saúde e deficiência,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0116::Urbano e rural,BEAD,sim,estrutural,ok_janela_estrito,281
+discursivo,W0116::Vínculo institucional,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0117::Educação,BEAD,sim,superficial,ok_janela_estrito,91
+discursivo,W0117::Saúde,BEAD,sim,superficial,costurada_real,148
+discursivo,W0117::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,118
+discursivo,W0119::Administração pública,BEAD,sim,superficial,ok_janela_estrito,176
+discursivo,W0119::Gênero,BEAD,sim,superficial,ok_janela_estrito,79
+discursivo,W0119::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,222
+discursivo,W0119::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,135
+discursivo,W0120::Macrorregião,BEAD,sim,superficial,ok_janela_estrito,116
+discursivo,W0120::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,114
+discursivo,W0120::Saúde,BEAD,sim,superficial,ok_janela_estrito,148
+discursivo,W0120::Urbano e rural,BEAD,sim,estrutural,fora_da_janela,157
+discursivo,W0121::Idade,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0121::Urbano e rural,BEAD,sim,superficial,costurada_real,187
+discursivo,W0122::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,159
+discursivo,W0122::Escolaridade e letramento,BEAD,sim,estrutural,ok_janela_estrito,124
+discursivo,W0122::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,153
+discursivo,W0122::Raça e etnia,BEAD,sim,estrutural,ok_janela_estrito,290
+discursivo,W0122::Renda e classe,BEAD,sim,estrutural,costurada_real,289
+discursivo,W0122::Saúde,BEAD,sim,estrutural,ok_janela_estrito,211
+discursivo,W0122::Territórios de povos e comunidades tradicionais,BEAD,sim,estrutural,ok_janela_estrito,135
+discursivo,W0122::Urbano e rural,BEAD,sim,estrutural,ok_janela_estrito,259
+discursivo,W0123::Administração pública,BEAD,sim,superficial,ok_janela_estrito,217
+discursivo,W0123::Cultura e informação,BEAD,sim,superficial,ok_janela_normalizado,300
+discursivo,W0123::Domicílio e arranjo familiar,BEAD,sim,estrutural,costurada_real,214
+discursivo,W0123::Educação,BEAD,sim,superficial,ok_janela_estrito,178
+discursivo,W0123::Infraestrutura e porte populacional,BEAD,sim,estrutural,costurada_real,221
+discursivo,W0123::Posição no trabalho,BEAD,sim,superficial,corte_interno,119
+discursivo,W0123::Raça e etnia,BEAD,sim,estrutural,ok_janela_estrito,218
+discursivo,W0123::Renda e classe,BEAD,sim,estrutural,ok_janela_estrito,162
+discursivo,W0123::Saúde,BEAD,sim,superficial,ok_janela_estrito,178
+discursivo,W0123::Urbano e rural,BEAD,sim,estrutural,ok_janela_estrito,162
+discursivo,W0125::Domicílio e arranjo familiar,BEAD,sim,estrutural,costurada_real,309
+discursivo,W0125::Renda e classe,BEAD,sim,superficial,fora_da_janela,117
+discursivo,W0125::Territórios de povos e comunidades tradicionais,BEAD,sim,superficial,ok_janela_estrito,128
+discursivo,W0125::Urbano e rural,BEAD,sim,superficial,fora_da_janela,173
+discursivo,W0126::Gênero,BEAD,sim,superficial,ok_janela_estrito,41
+discursivo,W0126::Idade,BEAD,sim,superficial,ok_janela_estrito,103
+discursivo,W0126::Raça e etnia,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0126::Saúde e deficiência,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0127::Raça e etnia,BEAD,sim,superficial,ok_janela_estrito,196
+discursivo,W0128::Administração pública,BEAD,sim,superficial,ok_janela_estrito,184
+discursivo,W0128::Idade,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0128::Saúde e deficiência,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0129::Gênero,BEAD,sim,estrutural,ok_janela_estrito,167
+discursivo,W0129::Posição no trabalho,BEAD,sim,estrutural,ok_janela_estrito,275
+discursivo,W0129::Saúde e deficiência,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0129::Urbano e rural,BEAD,sim,estrutural,ok_janela_estrito,149
+discursivo,W0130::Administração pública,BEAD,sim,superficial,costurada_real,282
+discursivo,W0130::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,58
+discursivo,W0130::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,197
+discursivo,W0130::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,82
+discursivo,W0130::Raça e etnia,BEAD,sim,superficial,ok_janela_estrito,197
+discursivo,W0130::Urbano e rural,BEAD,sim,estrutural,ok_janela_estrito,201
+discursivo,W0131::Posição no trabalho,BEAD,sim,estrutural,costurada_real,244
+discursivo,W0131::Urbano e rural,BEAD,sim,superficial,ok_janela_normalizado,205
+discursivo,W0132::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,122
+discursivo,W0132::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,136
+discursivo,W0132::Raça e etnia,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0132::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,98
+discursivo,W0133::Administração pública,BEAD,sim,superficial,ok_janela_estrito,187
+discursivo,W0133::Escolaridade e letramento,BEAD,sim,estrutural,ok_janela_estrito,124
+discursivo,W0133::Infraestrutura e porte populacional,BEAD,sim,estrutural,ok_janela_estrito,153
+discursivo,W0133::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,60
+discursivo,W0133::Renda e classe,BEAD,sim,estrutural,ok_janela_estrito,240
+discursivo,W0133::Saúde,BEAD,sim,estrutural,ok_janela_estrito,209
+discursivo,W0133::Urbano e rural,BEAD,sim,superficial,ok_janela_normalizado,74
+discursivo,W0135::Posição no trabalho,BEAD,sim,superficial,fora_da_janela,164
+discursivo,W0141::Urbano e rural,BEAD,sim,superficial,ok_janela_normalizado,210
+discursivo,W0142::Domicílio e arranjo familiar,BEAD,sim,estrutural,ok_janela_estrito,334
+discursivo,W0142::Infraestrutura e porte populacional,BEAD,sim,estrutural,costurada_real,284
+discursivo,W0144::Posição no trabalho,BEAD,sim,superficial,costurada_real,190
+discursivo,W0144::Territórios de povos e comunidades tradicionais,BEAD,sim,superficial,ok_janela_estrito,162
+discursivo,W0144::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,156
+discursivo,W0145::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,112
+discursivo,W0145::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,112
+discursivo,W0146::Administração pública,BEAD,sim,superficial,ok_janela_estrito,144
+discursivo,W0146::Escolaridade e letramento,BEAD,sim,estrutural,ok_janela_estrito,113
+discursivo,W0146::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,100
+discursivo,W0146::Renda e classe,BEAD,sim,estrutural,ok_janela_estrito,93
+discursivo,W0146::Saúde,BEAD,sim,estrutural,ok_janela_normalizado,82
+discursivo,W0146::Territórios de povos e comunidades tradicionais,BEAD,sim,estrutural,ok_janela_estrito,82
+discursivo,W0146::Urbano e rural,BEAD,sim,estrutural,costurada_parcial,167
+discursivo,W0146::Vínculo institucional,BEAD,sim,superficial,ok_janela_estrito,107
+discursivo,W0147::Administração pública,BEAD,sim,superficial,ok_janela_estrito,99
+discursivo,W0147::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,68
+discursivo,W0147::Gênero,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0147::Infraestrutura e porte populacional,BEAD,sim,superficial,corte_interno,140
+discursivo,W0147::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,153
+discursivo,W0147::Raça e etnia,BEAD,sim,estrutural,costurada_real,240
+discursivo,W0147::Renda e classe,BEAD,sim,superficial,fora_da_janela,129
+discursivo,W0147::Saúde e deficiência,BEAD,sim,superficial,ok_janela_estrito,128
+discursivo,W0147::Urbano e rural,BEAD,sim,estrutural,ok_janela_estrito,159
+discursivo,W0148::Administração pública,BEAD,sim,estrutural,corte_interno,209
+discursivo,W0148::Escolaridade e letramento,BEAD,sim,superficial,costurada_real,194
+discursivo,W0148::Idade,BEAD,sim,superficial,fora_da_janela,159
+discursivo,W0148::Infraestrutura e porte populacional,BEAD,sim,superficial,fora_da_janela,88
+discursivo,W0148::Macrorregião,BEAD,sim,superficial,fora_da_janela,151
+discursivo,W0148::Posição no trabalho,BEAD,sim,estrutural,fora_da_janela,284
+discursivo,W0148::Raça e etnia,BEAD,sim,superficial,fora_da_janela,255
+discursivo,W0148::Renda e classe,BEAD,sim,estrutural,fora_da_janela,142
+discursivo,W0148::Saúde e deficiência,BEAD,sim,superficial,fora_da_janela,159
+discursivo,W0148::Territórios de povos e comunidades tradicionais,BEAD,sim,superficial,fora_da_janela,203
+discursivo,W0148::Urbano e rural,BEAD,sim,superficial,fora_da_janela,107
+discursivo,W0149::Cultura e informação,BEAD,sim,superficial,ok_janela_normalizado,378
+discursivo,W0149::Domicílio e arranjo familiar,BEAD,sim,estrutural,ok_janela_estrito,310
+discursivo,W0149::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,179
+discursivo,W0149::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,203
+discursivo,W0149::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,66
+discursivo,W0149::Raça e etnia,BEAD,sim,superficial,ok_janela_estrito,197
+discursivo,W0149::Renda e classe,BEAD,sim,superficial,ok_janela_estrito,77
+discursivo,W0149::Saúde,BEAD,sim,estrutural,ok_janela_estrito,235
+discursivo,W0149::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,100
+discursivo,W0150::Cultura e informação,BEAD,sim,superficial,ok_janela_normalizado,378
+discursivo,W0150::Domicílio e arranjo familiar,BEAD,sim,estrutural,outro_documento,310
+discursivo,W0150::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,69
+discursivo,W0150::Infraestrutura e porte populacional,BEAD,sim,superficial,costurada_real,238
+discursivo,W0150::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,186
+discursivo,W0150::Raça e etnia,BEAD,sim,superficial,ok_janela_estrito,186
+discursivo,W0150::Renda e classe,BEAD,sim,superficial,ok_janela_estrito,186
+discursivo,W0150::Saúde,BEAD,sim,estrutural,fora_da_janela,189
+discursivo,W0150::Saúde e deficiência,BEAD,sim,superficial,ok_janela_estrito,186
+discursivo,W0150::Territórios de povos e comunidades tradicionais,BEAD,sim,superficial,ok_janela_estrito,186
+discursivo,W0150::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,100
+discursivo,W0150::Vínculo institucional,BEAD,sim,superficial,ok_janela_normalizado,140
+discursivo,W0152::Administração pública,BEAD,sim,superficial,ok_janela_estrito,129
+discursivo,W0152::Escolaridade e letramento,BEAD,sim,estrutural,fora_da_janela,243
+discursivo,W0152::Idade,BEAD,sim,superficial,fora_da_janela,143
+discursivo,W0152::Infraestrutura e porte populacional,BEAD,sim,superficial,fora_da_janela,192
+discursivo,W0152::Posição no trabalho,BEAD,sim,estrutural,fora_da_janela,100
+discursivo,W0152::Saúde,BEAD,sim,superficial,fora_da_janela,143
+discursivo,W0152::Urbano e rural,BEAD,sim,estrutural,fora_da_janela,290
+discursivo,W0153::Domicílio e arranjo familiar,BEAD,sim,estrutural,ok_janela_estrito,213
+discursivo,W0153::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,156
+discursivo,W0153::Saúde,BEAD,sim,estrutural,ok_janela_estrito,139
+discursivo,W0153::Territórios de povos e comunidades tradicionais,BEAD,sim,estrutural,ok_janela_estrito,88
+discursivo,W0153::Urbano e rural,BEAD,sim,estrutural,corte_interno,273
+discursivo,W0153::Vínculo institucional,BEAD,sim,superficial,ok_janela_normalizado,266
+discursivo,W0155::Gênero,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0155::Infraestrutura e porte populacional,BEAD,sim,estrutural,fora_da_janela,202
+discursivo,W0155::Posição no trabalho,BEAD,sim,estrutural,ok_janela_normalizado,95
+discursivo,W0155::Urbano e rural,BEAD,sim,estrutural,fora_da_janela,349
+discursivo,W0156::Infraestrutura e porte populacional,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0156::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,155
+discursivo,W0157::Educação,BEAD,sim,superficial,ok_janela_estrito,126
+discursivo,W0157::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_normalizado,237
+discursivo,W0157::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,119
+discursivo,W0157::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,117
+discursivo,W0159::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,126
+discursivo,W0159::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,146
+discursivo,W0159::Renda e classe,BEAD,sim,superficial,ok_janela_estrito,126
+discursivo,W0159::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,146
+discursivo,W0160::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,120
+discursivo,W0162::Cultura e informação,BEAD,sim,superficial,costurada_real,202
+discursivo,W0162::Educação,BEAD,sim,superficial,costurada_real,202
+discursivo,W0162::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,264
+discursivo,W0162::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,126
+discursivo,W0162::Renda e classe,BEAD,sim,superficial,ok_janela_normalizado,363
+discursivo,W0162::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,98
+discursivo,W0163::Administração pública,BEAD,sim,superficial,ok_janela_estrito,131
+discursivo,W0163::Cultura e informação,BEAD,sim,superficial,ok_janela_estrito,195
+discursivo,W0163::Infraestrutura e porte populacional,BEAD,sim,superficial,fora_da_janela,257
+discursivo,W0163::Saúde,BEAD,sim,superficial,ok_janela_estrito,140
+discursivo,W0163::Urbano e rural,BEAD,sim,superficial,ok_janela_normalizado,142
+discursivo,W0164::Educação,BEAD,sim,superficial,ok_janela_estrito,178
+discursivo,W0164::Infraestrutura e porte populacional,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0164::Renda e classe,BEAD,sim,superficial,ok_janela_estrito,121
+discursivo,W0164::Saúde e deficiência,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0164::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,135
+discursivo,W0164::Vínculo institucional,BEAD,sim,superficial,ok_janela_estrito,150
+discursivo,W0165::Administração pública,BEAD,sim,superficial,ok_janela_estrito,239
+discursivo,W0165::Domicílio e arranjo familiar,BEAD,sim,estrutural,ok_janela_estrito,164
+discursivo,W0165::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,280
+discursivo,W0165::Idade,BEAD,sim,estrutural,ok_janela_estrito,113
+discursivo,W0165::Infraestrutura e porte populacional,BEAD,sim,estrutural,ok_janela_estrito,287
+discursivo,W0165::Posição no trabalho,BEAD,sim,superficial,ok_janela_normalizado,180
+discursivo,W0165::Renda e classe,BEAD,sim,superficial,ok_janela_estrito,151
+discursivo,W0165::Saúde,BEAD,sim,superficial,ok_janela_estrito,87
+discursivo,W0165::Urbano e rural,BEAD,sim,estrutural,ok_janela_estrito,164
+discursivo,W0190::Educação,BEAD,sim,superficial,ok_janela_estrito,150
+discursivo,W0190::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,217
+discursivo,W0190::Infraestrutura e porte populacional,BEAD,sim,estrutural,ok_janela_estrito,267
+discursivo,W0190::Saúde,BEAD,sim,superficial,ok_janela_estrito,117
+discursivo,W0190::Saúde e deficiência,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0190::Territórios de povos e comunidades tradicionais,BEAD,sim,estrutural,ok_janela_estrito,131
+discursivo,W0190::Urbano e rural,BEAD,sim,estrutural,ok_janela_estrito,158
+discursivo,W0191::Administração pública,BEAD,sim,superficial,ok_janela_estrito,111
+discursivo,W0191::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,155
+discursivo,W0191::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,171
+discursivo,W0191::Saúde,BEAD,sim,superficial,ok_janela_estrito,116
+discursivo,W0191::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,80
+discursivo,W0192::Administração pública,BEAD,sim,superficial,ok_janela_estrito,106
+discursivo,W0192::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,173
+discursivo,W0192::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,213
+discursivo,W0192::Renda e classe,BEAD,sim,superficial,ok_janela_estrito,172
+discursivo,W0192::Territórios de povos e comunidades tradicionais,BEAD,sim,superficial,ok_janela_estrito,124
+discursivo,W0192::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,102
+discursivo,W0192::Vínculo institucional,BEAD,nao,falso_positivo,sem_trecho,0
+discursivo,W0193::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,110
+discursivo,W0193::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,160
+discursivo,W0193::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,168
+discursivo,W0193::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,143
+discursivo,W0194::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,167
+discursivo,W0194::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,83
+discursivo,W0195::Cultura e informação,BEAD,sim,superficial,ok_janela_estrito,202
+discursivo,W0195::Educação,BEAD,sim,superficial,ok_janela_estrito,202
+discursivo,W0195::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,132
+discursivo,W0195::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,134
+discursivo,W0195::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,150
+discursivo,W0195::Raça e etnia,BEAD,sim,superficial,ok_janela_estrito,247
+discursivo,W0195::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,196
+discursivo,W0195::Vínculo institucional,BEAD,sim,superficial,ok_janela_estrito,89
+discursivo,W0196::Administração pública,BEAD,sim,superficial,ok_janela_estrito,173
+discursivo,W0196::Educação,BEAD,sim,superficial,ok_janela_estrito,142
+discursivo,W0196::Infraestrutura e porte populacional,BEAD,sim,superficial,ok_janela_estrito,110
+discursivo,W0196::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,83
+discursivo,W0196::Raça e etnia,BEAD,sim,superficial,ok_janela_estrito,157
+discursivo,W0196::Renda e classe,BEAD,sim,superficial,ok_janela_estrito,157
+discursivo,W0196::Territórios de povos e comunidades tradicionais,BEAD,sim,estrutural,corte_interno,248
+discursivo,W0196::Urbano e rural,BEAD,sim,superficial,ok_janela_estrito,139
+discursivo,W0197::Domicílio e arranjo familiar,BEAD,sim,estrutural,ok_janela_estrito,237
+discursivo,W0197::Infraestrutura e porte populacional,BEAD,sim,estrutural,ok_janela_estrito,259
+discursivo,W0197::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,114
+discursivo,W0197::Renda e classe,BEAD,sim,estrutural,ok_janela_estrito,184
+discursivo,W0197::Saúde e deficiência,BEAD,sim,superficial,ok_janela_estrito,219
+discursivo,W0197::Urbano e rural,BEAD,sim,estrutural,ok_janela_estrito,167
+discursivo,C0018::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,192
+discursivo,C0022::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,147
+discursivo,C0035::Administração pública,FUST,sim,superficial,fora_da_janela,223
+discursivo,C0035::Cultura e informação,FUST,sim,superficial,ok_janela_estrito,167
+discursivo,C0035::Educação,FUST,sim,superficial,fora_da_janela,206
+discursivo,C0035::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,73
+discursivo,C0035::Posição no trabalho,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,C0035::Raça e etnia,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,C0035::Renda e classe,FUST,sim,superficial,fora_da_janela,233
+discursivo,C0035::Saúde,FUST,sim,superficial,ok_janela_estrito,167
+discursivo,C0035::Saúde e deficiência,FUST,sim,superficial,ok_janela_estrito,82
+discursivo,C0035::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,36
+discursivo,C0037::Cultura e informação,FUST,sim,superficial,ok_janela_estrito,117
+discursivo,C0037::Educação,FUST,sim,superficial,ok_janela_estrito,117
+discursivo,C0037::Macrorregião,FUST,sim,superficial,ok_janela_estrito,104
+discursivo,C0037::Saúde,FUST,sim,superficial,ok_janela_estrito,114
+discursivo,C0042::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,210
+discursivo,C0042::Macrorregião,FUST,sim,superficial,costurada_real,173
+discursivo,C0042::Renda e classe,FUST,sim,superficial,ok_janela_estrito,157
+discursivo,C0044::Educação,FUST,sim,superficial,ok_janela_estrito,213
+discursivo,C0044::Renda e classe,FUST,sim,superficial,ok_janela_estrito,167
+discursivo,C0044::Saúde,FUST,sim,superficial,fora_da_janela,184
+discursivo,C0054::Educação,FUST,sim,superficial,ok_janela_estrito,104
+discursivo,C0056::Administração pública,FUST,sim,superficial,ok_janela_estrito,156
+discursivo,C0056::Cultura e informação,FUST,sim,superficial,ok_janela_estrito,170
+discursivo,C0056::Educação,FUST,sim,superficial,ok_janela_estrito,155
+discursivo,C0056::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,73
+discursivo,C0056::Renda e classe,FUST,sim,superficial,ok_janela_estrito,154
+discursivo,C0056::Saúde,FUST,sim,superficial,ok_janela_estrito,170
+discursivo,C0056::Saúde e deficiência,FUST,sim,superficial,ok_janela_estrito,82
+discursivo,C0056::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,37
+discursivo,C0064::Saúde e deficiência,FUST,sim,superficial,ok_janela_estrito,209
+discursivo,C0070::Educação,FUST,sim,superficial,ok_janela_estrito,220
+discursivo,C0071::Renda e classe,FUST,sim,superficial,ok_janela_estrito,266
+discursivo,C0078::Educação,FUST,sim,superficial,ok_janela_estrito,152
+discursivo,C0080::Cultura e informação,FUST,sim,superficial,fora_da_janela,191
+discursivo,C0080::Educação,FUST,sim,superficial,ok_janela_estrito,143
+discursivo,C0082::Educação,FUST,sim,superficial,ok_janela_estrito,67
+discursivo,C0083::Educação,FUST,sim,superficial,ok_janela_estrito,83
+discursivo,C0084::Educação,FUST,sim,superficial,ok_janela_estrito,132
+discursivo,C0085::Educação,FUST,sim,superficial,ok_janela_estrito,174
+discursivo,C0086::Educação,FUST,sim,superficial,ok_janela_estrito,192
+discursivo,C0086::Macrorregião,FUST,sim,superficial,ok_janela_estrito,119
+discursivo,C0086::Renda e classe,FUST,sim,superficial,ok_janela_estrito,87
+discursivo,C0086::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,59
+discursivo,C0090::Educação,FUST,sim,superficial,ok_janela_estrito,159
+discursivo,C0105::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,124
+discursivo,C0114::Renda e classe,FUST,sim,superficial,corte_interno,219
+discursivo,C0122::Posição no trabalho,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0001::Gênero,FUST,sim,superficial,costurada_real,158
+discursivo,S0003::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,185
+discursivo,S0003::Educação,FUST,sim,estrutural,ok_janela_estrito,156
+discursivo,S0003::Idade,FUST,sim,estrutural,ok_janela_estrito,156
+discursivo,S0003::Macrorregião,FUST,sim,superficial,ok_janela_estrito,51
+discursivo,S0003::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,212
+discursivo,S0003::Raça e etnia,FUST,sim,superficial,ok_janela_estrito,60
+discursivo,S0003::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,146
+discursivo,S0003::Território intraurbano,FUST,sim,superficial,ok_janela_estrito,57
+discursivo,S0004::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,174
+discursivo,S0004::Idade,FUST,sim,estrutural,ok_janela_estrito,92
+discursivo,S0004::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,174
+discursivo,S0005::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,146
+discursivo,S0005::Educação,FUST,sim,estrutural,ok_janela_estrito,180
+discursivo,S0005::Idade,FUST,sim,estrutural,ok_janela_estrito,180
+discursivo,S0005::Infraestrutura e porte populacional,FUST,sim,estrutural,ok_janela_estrito,180
+discursivo,S0005::Macrorregião,FUST,sim,superficial,ok_janela_estrito,51
+discursivo,S0005::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,144
+discursivo,S0005::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,180
+discursivo,S0006::Cultura e informação,FUST,sim,superficial,costurada_real,166
+discursivo,S0006::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0006::Educação,FUST,sim,superficial,costurada_real,166
+discursivo,S0006::Urbano e rural,FUST,sim,superficial,costurada_real,166
+discursivo,S0007::Administração pública,FUST,sim,superficial,ok_janela_estrito,143
+discursivo,S0007::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,134
+discursivo,S0007::Educação,FUST,sim,superficial,ok_janela_estrito,72
+discursivo,S0007::Macrorregião,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0007::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,59
+discursivo,S0007::Renda e classe,FUST,sim,superficial,ok_janela_estrito,117
+discursivo,S0007::Território intraurbano,FUST,sim,superficial,ok_janela_estrito,106
+discursivo,S0007::Urbano e rural,FUST,sim,estrutural,ok_janela_estrito,215
+discursivo,S0008::Educação,FUST,sim,superficial,ok_janela_estrito,148
+discursivo,S0008::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,198
+discursivo,S0008::Posição no trabalho,FUST,sim,superficial,costurada_real,140
+discursivo,S0008::Raça e etnia,FUST,sim,superficial,ok_janela_estrito,178
+discursivo,S0008::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,190
+discursivo,S0009::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,215
+discursivo,S0009::Educação,FUST,sim,superficial,ok_janela_estrito,98
+discursivo,S0009::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,249
+discursivo,S0009::Idade,FUST,sim,superficial,ok_janela_estrito,94
+discursivo,S0009::Macrorregião,FUST,sim,superficial,ok_janela_estrito,35
+discursivo,S0009::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,120
+discursivo,S0009::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,161
+discursivo,S0009::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,152
+discursivo,S0010::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,90
+discursivo,S0010::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,84
+discursivo,S0010::Gênero,FUST,sim,superficial,ok_janela_estrito,53
+discursivo,S0010::Idade,FUST,sim,superficial,costurada_real,130
+discursivo,S0010::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,88
+discursivo,S0010::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,136
+discursivo,S0010::Renda e classe,FUST,sim,superficial,ok_janela_estrito,209
+discursivo,S0010::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0011::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,142
+discursivo,S0011::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,80
+discursivo,S0011::Macrorregião,FUST,sim,superficial,costurada_real,206
+discursivo,S0011::Renda e classe,FUST,sim,superficial,ok_janela_estrito,99
+discursivo,S0011::Territórios de povos e comunidades tradicionais,FUST,sim,superficial,ok_janela_estrito,93
+discursivo,S0013::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,175
+discursivo,S0013::Macrorregião,FUST,sim,estrutural,ok_janela_estrito,235
+discursivo,S0013::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,194
+discursivo,S0013::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,103
+discursivo,S0013::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,102
+discursivo,S0014::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0015::Educação,FUST,sim,superficial,fora_da_janela,160
+discursivo,S0015::Idade,FUST,sim,superficial,ok_janela_estrito,116
+discursivo,S0016::Educação,FUST,sim,estrutural,ok_janela_estrito,115
+discursivo,S0016::Escolaridade e letramento,FUST,sim,estrutural,ok_janela_estrito,115
+discursivo,S0016::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0017::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0018::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0018::Gênero,FUST,sim,superficial,ok_janela_estrito,110
+discursivo,S0018::Posição no trabalho,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0018::Raça e etnia,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0018::Renda e classe,FUST,sim,superficial,costurada_real,241
+discursivo,S0019::Domicílio e arranjo familiar,FUST,sim,superficial,costurada_real,150
+discursivo,S0019::Educação,FUST,sim,superficial,ok_janela_estrito,81
+discursivo,S0019::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0019::Infraestrutura e porte populacional,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0019::Macrorregião,FUST,sim,superficial,fora_da_janela,229
+discursivo,S0019::Raça e etnia,FUST,sim,estrutural,ok_janela_estrito,113
+discursivo,S0019::Saúde,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0019::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,136
+discursivo,S0020::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,140
+discursivo,S0020::Gênero,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0020::Idade,FUST,sim,superficial,ok_janela_estrito,74
+discursivo,S0020::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,67
+discursivo,S0020::Macrorregião,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0020::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,159
+discursivo,S0020::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,75
+discursivo,S0021::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,118
+discursivo,S0022::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,113
+discursivo,S0022::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0022::Renda e classe,FUST,sim,superficial,ok_janela_estrito,104
+discursivo,S0023::Gênero,FUST,sim,superficial,ok_janela_estrito,84
+discursivo,S0023::Posição no trabalho,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0023::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0024::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0024::Macrorregião,FUST,sim,superficial,ok_janela_estrito,228
+discursivo,S0024::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,176
+discursivo,S0024::Território intraurbano,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0025::Educação,FUST,sim,superficial,ok_janela_estrito,83
+discursivo,S0025::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,173
+discursivo,S0025::Saúde,FUST,sim,superficial,ok_janela_estrito,59
+discursivo,S0025::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0026::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,116
+discursivo,S0027::Macrorregião,FUST,sim,superficial,ok_janela_estrito,124
+discursivo,S0027::Urbano e rural,FUST,sim,estrutural,ok_janela_estrito,214
+discursivo,S0028::Cultura e informação,FUST,sim,superficial,costurada_real,150
+discursivo,S0028::Educação,FUST,sim,superficial,ok_janela_estrito,79
+discursivo,S0028::Escolaridade e letramento,FUST,sim,estrutural,costurada_real,196
+discursivo,S0028::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0028::Macrorregião,FUST,sim,superficial,ok_janela_estrito,109
+discursivo,S0029::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,144
+discursivo,S0029::Renda e classe,FUST,sim,superficial,ok_janela_estrito,109
+discursivo,S0029::Urbano e rural,FUST,sim,estrutural,ok_janela_estrito,158
+discursivo,S0030::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,80
+discursivo,S0031::Educação,FUST,sim,superficial,ok_janela_estrito,88
+discursivo,S0034::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,73
+discursivo,S0034::Gênero,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0034::Idade,FUST,sim,superficial,costurada_real,140
+discursivo,S0034::Macrorregião,FUST,sim,superficial,ok_janela_estrito,163
+discursivo,S0034::Saúde,FUST,sim,superficial,ok_janela_estrito,188
+discursivo,S0034::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0035::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,32
+discursivo,S0036::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,156
+discursivo,S0036::Macrorregião,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0036::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,54
+discursivo,S0036::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0037::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0037::Macrorregião,FUST,sim,superficial,corte_interno,102
+discursivo,S0039::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0039::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,134
+discursivo,S0039::Renda e classe,FUST,sim,superficial,ok_janela_estrito,165
+discursivo,S0039::Saúde,FUST,sim,superficial,ok_janela_estrito,132
+discursivo,S0039::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0040::Idade,FUST,sim,superficial,ok_janela_estrito,26
+discursivo,S0040::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,195
+discursivo,S0041::Domicílio e arranjo familiar,FUST,sim,estrutural,costurada_real,241
+discursivo,S0041::Gênero,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0041::Saúde,FUST,sim,superficial,ok_janela_estrito,144
+discursivo,S0042::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,159
+discursivo,S0042::Macrorregião,FUST,sim,superficial,ok_janela_estrito,88
+discursivo,S0042::Renda e classe,FUST,sim,superficial,ok_janela_estrito,168
+discursivo,S0043::Macrorregião,FUST,sim,estrutural,ok_janela_estrito,193
+discursivo,S0043::Posição no trabalho,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0043::Território intraurbano,FUST,sim,superficial,ok_janela_estrito,139
+discursivo,S0044::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,119
+discursivo,S0044::Idade,FUST,sim,superficial,ok_janela_estrito,81
+discursivo,S0044::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,68
+discursivo,S0044::Renda e classe,FUST,sim,superficial,ok_janela_estrito,85
+discursivo,S0046::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,145
+discursivo,S0046::Renda e classe,FUST,sim,superficial,ok_janela_estrito,93
+discursivo,S0047::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,73
+discursivo,S0047::Idade,FUST,sim,superficial,ok_janela_estrito,49
+discursivo,S0047::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,80
+discursivo,S0047::Raça e etnia,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0047::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,73
+discursivo,S0048::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0051::Domicílio e arranjo familiar,FUST,sim,estrutural,costurada_real,187
+discursivo,S0051::Idade,FUST,sim,superficial,ok_janela_estrito,74
+discursivo,S0051::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,155
+discursivo,S0051::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,262
+discursivo,S0051::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0052::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,48
+discursivo,S0052::Educação,FUST,sim,superficial,ok_janela_estrito,90
+discursivo,S0052::Idade,FUST,sim,superficial,ok_janela_estrito,66
+discursivo,S0052::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,127
+discursivo,S0052::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0053::Domicílio e arranjo familiar,FUST,sim,superficial,costurada_real,91
+discursivo,S0053::Idade,FUST,sim,superficial,ok_janela_estrito,44
+discursivo,S0053::Renda e classe,FUST,sim,superficial,ok_janela_estrito,86
+discursivo,S0054::Administração pública,FUST,sim,superficial,ok_janela_estrito,166
+discursivo,S0054::Raça e etnia,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0054::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0055::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,133
+discursivo,S0055::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0055::Saúde,FUST,sim,superficial,ok_janela_estrito,189
+discursivo,S0055::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0056::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0056::Macrorregião,FUST,sim,superficial,ok_janela_estrito,132
+discursivo,S0056::Posição no trabalho,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0056::Raça e etnia,FUST,sim,superficial,ok_janela_estrito,71
+discursivo,S0056::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,108
+discursivo,S0057::Escolaridade e letramento,FUST,sim,superficial,costurada_real,131
+discursivo,S0057::Idade,FUST,sim,superficial,costurada_real,127
+discursivo,S0058::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,213
+discursivo,S0058::Educação,FUST,sim,estrutural,ok_janela_estrito,139
+discursivo,S0058::Escolaridade e letramento,FUST,sim,superficial,costurada_real,150
+discursivo,S0058::Idade,FUST,sim,estrutural,fora_da_janela,277
+discursivo,S0058::Macrorregião,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0058::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,199
+discursivo,S0058::Renda e classe,FUST,sim,superficial,ok_janela_estrito,180
+discursivo,S0058::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0060::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,227
+discursivo,S0061::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0062::Educação,FUST,sim,superficial,ok_janela_estrito,109
+discursivo,S0062::Idade,FUST,sim,superficial,ok_janela_estrito,162
+discursivo,S0062::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,155
+discursivo,S0062::Macrorregião,FUST,sim,superficial,ok_janela_estrito,80
+discursivo,S0062::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,158
+discursivo,S0062::Renda e classe,FUST,sim,superficial,ok_janela_estrito,214
+discursivo,S0062::Território intraurbano,FUST,sim,superficial,ok_janela_estrito,78
+discursivo,S0063::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,147
+discursivo,S0063::Urbano e rural,FUST,sim,estrutural,ok_janela_estrito,171
+discursivo,S0064::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,134
+discursivo,S0064::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0068::Macrorregião,FUST,sim,superficial,ok_janela_estrito,113
+discursivo,S0068::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,113
+discursivo,S0069::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,137
+discursivo,S0069::Educação,FUST,sim,superficial,ok_janela_estrito,31
+discursivo,S0069::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,55
+discursivo,S0069::Idade,FUST,sim,superficial,ok_janela_estrito,148
+discursivo,S0069::Renda e classe,FUST,sim,superficial,ok_janela_estrito,125
+discursivo,S0070::Cultura e informação,FUST,sim,superficial,ok_janela_estrito,83
+discursivo,S0070::Educação,FUST,sim,superficial,ok_janela_estrito,129
+discursivo,S0070::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,210
+discursivo,S0070::Macrorregião,FUST,sim,superficial,ok_janela_estrito,121
+discursivo,S0071::Escolaridade e letramento,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0071::Macrorregião,FUST,sim,estrutural,ok_janela_estrito,175
+discursivo,S0071::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,98
+discursivo,S0071::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,244
+discursivo,S0071::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0072::Educação,FUST,sim,superficial,fora_da_janela,92
+discursivo,S0072::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,124
+discursivo,S0072::Idade,FUST,sim,superficial,ok_janela_estrito,158
+discursivo,S0073::Macrorregião,FUST,sim,superficial,costurada_real,275
+discursivo,S0073::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,118
+discursivo,S0074::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,155
+discursivo,S0074::Renda e classe,FUST,sim,superficial,costurada_parcial,199
+discursivo,S0075::Posição no trabalho,FUST,sim,estrutural,fora_da_janela,180
+discursivo,S0075::Território intraurbano,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0076::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0076::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0077::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,101
+discursivo,S0077::Educação,FUST,sim,superficial,ok_janela_estrito,123
+discursivo,S0077::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,62
+discursivo,S0077::Gênero,FUST,sim,superficial,ok_janela_estrito,113
+discursivo,S0077::Macrorregião,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0077::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,102
+discursivo,S0077::Renda e classe,FUST,sim,superficial,ok_janela_estrito,87
+discursivo,S0077::Urbano e rural,FUST,sim,estrutural,costurada_real,290
+discursivo,S0078::Domicílio e arranjo familiar,FUST,sim,superficial,costurada_real,182
+discursivo,S0078::Macrorregião,FUST,sim,superficial,ok_janela_estrito,168
+discursivo,S0078::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,138
+discursivo,S0078::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,181
+discursivo,S0078::Urbano e rural,FUST,sim,estrutural,ok_janela_estrito,63
+discursivo,S0079::Macrorregião,FUST,sim,superficial,ok_janela_estrito,114
+discursivo,S0079::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,95
+discursivo,S0079::Raça e etnia,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0080::Macrorregião,FUST,sim,estrutural,ok_janela_estrito,113
+discursivo,S0080::Renda e classe,FUST,sim,superficial,ok_janela_estrito,114
+discursivo,S0081::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,116
+discursivo,S0081::Educação,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0081::Gênero,FUST,sim,superficial,ok_janela_estrito,72
+discursivo,S0081::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,217
+discursivo,S0081::Território intraurbano,FUST,sim,superficial,costurada_real,158
+discursivo,S0081::Urbano e rural,FUST,sim,estrutural,ok_janela_estrito,184
+discursivo,S0084::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,105
+discursivo,S0084::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,105
+discursivo,S0084::Território intraurbano,FUST,sim,superficial,ok_janela_estrito,96
+discursivo,S0085::Macrorregião,FUST,sim,superficial,ok_janela_estrito,125
+discursivo,S0089::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0089::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,244
+discursivo,S0090::Administração pública,FUST,sim,superficial,ok_janela_estrito,110
+discursivo,S0090::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,102
+discursivo,S0090::Educação,FUST,sim,superficial,ok_janela_estrito,100
+discursivo,S0090::Idade,FUST,sim,superficial,ok_janela_estrito,162
+discursivo,S0090::Macrorregião,FUST,sim,superficial,ok_janela_estrito,179
+discursivo,S0090::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,181
+discursivo,S0090::Raça e etnia,FUST,sim,superficial,ok_janela_estrito,76
+discursivo,S0090::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,136
+discursivo,S0090::Território intraurbano,FUST,sim,superficial,ok_janela_estrito,133
+discursivo,S0090::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0091::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,94
+discursivo,S0091::Macrorregião,FUST,sim,superficial,ok_janela_estrito,165
+discursivo,S0091::Raça e etnia,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0092::Macrorregião,FUST,sim,superficial,ok_janela_estrito,78
+discursivo,S0092::Renda e classe,FUST,sim,superficial,ok_janela_estrito,148
+discursivo,S0094::Macrorregião,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0096::Administração pública,FUST,sim,superficial,ok_janela_estrito,119
+discursivo,S0096::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0096::Posição no trabalho,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0096::Raça e etnia,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0097::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,139
+discursivo,S0097::Educação,FUST,sim,estrutural,ok_janela_estrito,236
+discursivo,S0097::Posição no trabalho,FUST,sim,estrutural,fora_da_janela,213
+discursivo,S0097::Saúde,FUST,sim,estrutural,ok_janela_estrito,236
+discursivo,S0098::Renda e classe,FUST,sim,superficial,ok_janela_estrito,210
+discursivo,S0099::Educação,FUST,sim,superficial,ok_janela_estrito,36
+discursivo,S0099::Gênero,FUST,sim,superficial,ok_janela_estrito,46
+discursivo,S0099::Idade,FUST,sim,superficial,ok_janela_estrito,99
+discursivo,S0099::Renda e classe,FUST,sim,superficial,ok_janela_estrito,163
+discursivo,S0100::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,129
+discursivo,S0100::Educação,FUST,sim,estrutural,ok_janela_estrito,222
+discursivo,S0100::Escolaridade e letramento,FUST,sim,estrutural,ok_janela_estrito,100
+discursivo,S0100::Idade,FUST,sim,estrutural,ok_janela_estrito,164
+discursivo,S0100::Macrorregião,FUST,sim,estrutural,ok_janela_estrito,114
+discursivo,S0100::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,164
+discursivo,S0101::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,125
+discursivo,S0101::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,87
+discursivo,S0101::Renda e classe,FUST,sim,superficial,ok_janela_estrito,103
+discursivo,S0102::Macrorregião,FUST,sim,superficial,ok_janela_estrito,205
+discursivo,S0102::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0103::Macrorregião,FUST,sim,superficial,costurada_real,161
+discursivo,S0103::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,39
+discursivo,S0103::Raça e etnia,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0103::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0104::Idade,FUST,sim,superficial,ok_janela_estrito,73
+discursivo,S0104::Raça e etnia,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0105::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,96
+discursivo,S0105::Educação,FUST,sim,superficial,ok_janela_estrito,120
+discursivo,S0105::Idade,FUST,sim,superficial,ok_janela_estrito,21
+discursivo,S0105::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,79
+discursivo,S0105::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,55
+discursivo,S0105::Renda e classe,FUST,sim,superficial,ok_janela_estrito,114
+discursivo,S0106::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0108::Educação,FUST,sim,superficial,ok_janela_estrito,91
+discursivo,S0108::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0110::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,52
+discursivo,S0110::Macrorregião,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0110::Renda e classe,FUST,sim,superficial,ok_janela_estrito,88
+discursivo,S0112::Idade,FUST,sim,estrutural,ok_janela_estrito,165
+discursivo,S0112::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,151
+discursivo,S0114::Educação,FUST,sim,superficial,ok_janela_estrito,87
+discursivo,S0114::Macrorregião,FUST,sim,estrutural,ok_janela_estrito,238
+discursivo,S0114::Urbano e rural,FUST,sim,superficial,fora_da_janela,63
+discursivo,S0115::Macrorregião,FUST,sim,superficial,ok_janela_estrito,98
+discursivo,S0115::Renda e classe,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0115::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,134
+discursivo,S0116::Macrorregião,FUST,sim,superficial,ok_janela_estrito,119
+discursivo,S0116::Raça e etnia,FUST,sim,superficial,ok_janela_estrito,66
+discursivo,S0116::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0117::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0118::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,98
+discursivo,S0120::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,171
+discursivo,S0120::Educação,FUST,sim,superficial,ok_janela_estrito,68
+discursivo,S0120::Gênero,FUST,sim,superficial,ok_janela_estrito,156
+discursivo,S0120::Idade,FUST,sim,superficial,ok_janela_estrito,118
+discursivo,S0120::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,186
+discursivo,S0120::Saúde,FUST,sim,superficial,ok_janela_estrito,68
+discursivo,S0121::Domicílio e arranjo familiar,FUST,sim,superficial,costurada_real,129
+discursivo,S0121::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,102
+discursivo,S0122::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0123::Educação,FUST,sim,superficial,ok_janela_estrito,97
+discursivo,S0123::Macrorregião,FUST,sim,superficial,costurada_real,149
+discursivo,S0124::Macrorregião,FUST,sim,superficial,ok_janela_estrito,126
+discursivo,S0124::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,97
+discursivo,S0124::Saúde,FUST,sim,superficial,ok_janela_estrito,76
+discursivo,S0125::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,101
+discursivo,S0126::Raça e etnia,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0128::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0129::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,101
+discursivo,S0129::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,189
+discursivo,S0129::Raça e etnia,FUST,sim,estrutural,ok_janela_estrito,183
+discursivo,S0130::Administração pública,FUST,sim,superficial,costurada_real,151
+discursivo,S0130::Educação,FUST,sim,superficial,ok_janela_estrito,154
+discursivo,S0130::Escolaridade e letramento,FUST,sim,estrutural,ok_janela_estrito,151
+discursivo,S0130::Idade,FUST,sim,superficial,ok_janela_estrito,199
+discursivo,S0130::Macrorregião,FUST,sim,superficial,ok_janela_estrito,106
+discursivo,S0130::Posição no trabalho,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0130::Renda e classe,FUST,sim,superficial,ok_janela_estrito,164
+discursivo,S0131::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,114
+discursivo,S0131::Gênero,FUST,sim,estrutural,ok_janela_estrito,276
+discursivo,S0131::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,119
+discursivo,S0132::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,292
+discursivo,S0132::Macrorregião,FUST,sim,superficial,ok_janela_estrito,131
+discursivo,S0132::Renda e classe,FUST,sim,superficial,ok_janela_estrito,114
+discursivo,S0132::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,98
+discursivo,S0133::Educação,FUST,sim,superficial,ok_janela_estrito,142
+discursivo,S0133::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,150
+discursivo,S0133::Idade,FUST,sim,superficial,ok_janela_estrito,194
+discursivo,S0133::Renda e classe,FUST,sim,superficial,ok_janela_estrito,108
+discursivo,S0134::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,94
+discursivo,S0134::Macrorregião,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0134::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,130
+discursivo,S0134::Renda e classe,FUST,sim,superficial,ok_janela_estrito,164
+discursivo,S0135::Renda e classe,FUST,sim,superficial,ok_janela_estrito,131
+discursivo,S0136::Escolaridade e letramento,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0136::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0136::Macrorregião,FUST,sim,estrutural,ok_janela_estrito,205
+discursivo,S0136::Posição no trabalho,FUST,sim,superficial,costurada_real,200
+discursivo,S0137::Urbano e rural,FUST,sim,estrutural,costurada_real,187
+discursivo,S0138::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0138::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,180
+discursivo,S0138::Renda e classe,FUST,sim,superficial,ok_janela_estrito,112
+discursivo,S0138::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,60
+discursivo,S0139::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,179
+discursivo,S0139::Educação,FUST,sim,estrutural,ok_janela_estrito,189
+discursivo,S0139::Escolaridade e letramento,FUST,sim,estrutural,ok_janela_estrito,107
+discursivo,S0139::Idade,FUST,sim,estrutural,ok_janela_estrito,226
+discursivo,S0139::Macrorregião,FUST,sim,superficial,ok_janela_estrito,141
+discursivo,S0139::Renda e classe,FUST,sim,estrutural,costurada_real,183
+discursivo,S0139::Urbano e rural,FUST,sim,estrutural,fora_da_janela,171
+discursivo,S0140::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,79
+discursivo,S0140::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,129
+discursivo,S0140::Renda e classe,FUST,sim,superficial,ok_janela_estrito,100
+discursivo,S0140::Território intraurbano,FUST,sim,superficial,ok_janela_estrito,132
+discursivo,S0140::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0141::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0142::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,143
+discursivo,S0142::Educação,FUST,sim,estrutural,costurada_real,223
+discursivo,S0142::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,197
+discursivo,S0142::Saúde,FUST,sim,estrutural,costurada_real,223
+discursivo,S0142::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,155
+discursivo,S0143::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0143::Gênero,FUST,sim,superficial,ok_janela_estrito,10
+discursivo,S0143::Idade,FUST,sim,superficial,ok_janela_estrito,9
+discursivo,S0143::Posição no trabalho,FUST,sim,superficial,costurada_real,132
+discursivo,S0143::Renda e classe,FUST,sim,superficial,ok_janela_estrito,103
+discursivo,S0145::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,160
+discursivo,S0146::Administração pública,FUST,sim,superficial,ok_janela_estrito,154
+discursivo,S0146::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,227
+discursivo,S0146::Território intraurbano,FUST,sim,estrutural,ok_janela_estrito,271
+discursivo,S0147::Macrorregião,FUST,sim,superficial,ok_janela_estrito,181
+discursivo,S0147::Renda e classe,FUST,sim,superficial,ok_janela_estrito,64
+discursivo,S0148::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0148::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,175
+discursivo,S0148::Raça e etnia,FUST,sim,superficial,costurada_real,139
+discursivo,S0148::Urbano e rural,FUST,sim,superficial,fora_da_janela,84
+discursivo,S0149::Macrorregião,FUST,sim,estrutural,ok_janela_estrito,131
+discursivo,S0149::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,145
+discursivo,S0149::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,145
+discursivo,S0149::Urbano e rural,FUST,sim,estrutural,ok_janela_estrito,131
+discursivo,S0150::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,79
+discursivo,S0150::Idade,FUST,sim,superficial,ok_janela_estrito,133
+discursivo,S0150::Posição no trabalho,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0151::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0152::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,94
+discursivo,S0152::Educação,FUST,sim,superficial,fora_da_janela,178
+discursivo,S0152::Posição no trabalho,FUST,sim,estrutural,fora_da_janela,159
+discursivo,S0152::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,94
+discursivo,S0152::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0153::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,193
+discursivo,S0153::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,193
+discursivo,S0154::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0154::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,60
+discursivo,S0154::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,210
+discursivo,S0154::Renda e classe,FUST,sim,superficial,ok_janela_estrito,102
+discursivo,S0155::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,108
+discursivo,S0155::Macrorregião,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0155::Renda e classe,FUST,sim,superficial,ok_janela_estrito,143
+discursivo,S0156::Cultura e informação,FUST,sim,superficial,ok_janela_estrito,108
+discursivo,S0156::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,117
+discursivo,S0156::Macrorregião,FUST,sim,superficial,costurada_real,233
+discursivo,S0156::Raça e etnia,FUST,sim,superficial,ok_janela_estrito,82
+discursivo,S0156::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0157::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,130
+discursivo,S0157::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,64
+discursivo,S0157::Infraestrutura e porte populacional,FUST,sim,superficial,costurada_real,130
+discursivo,S0157::Macrorregião,FUST,sim,superficial,ok_janela_estrito,79
+discursivo,S0157::Renda e classe,FUST,sim,superficial,ok_janela_estrito,86
+discursivo,S0157::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,102
+discursivo,S0158::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0158::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,100
+discursivo,S0159::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,92
+discursivo,S0159::Educação,FUST,sim,superficial,ok_janela_estrito,79
+discursivo,S0159::Saúde,FUST,sim,superficial,ok_janela_estrito,155
+discursivo,S0160::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,184
+discursivo,S0160::Educação,FUST,sim,superficial,ok_janela_estrito,151
+discursivo,S0160::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,94
+discursivo,S0160::Idade,FUST,sim,superficial,ok_janela_estrito,155
+discursivo,S0160::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,160
+discursivo,S0160::Renda e classe,FUST,sim,superficial,ok_janela_estrito,85
+discursivo,S0160::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,118
+discursivo,S0161::Educação,FUST,sim,estrutural,ok_janela_estrito,139
+discursivo,S0161::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,175
+discursivo,S0161::Posição no trabalho,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0162::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,258
+discursivo,S0162::Macrorregião,FUST,sim,superficial,ok_janela_estrito,75
+discursivo,S0162::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,157
+discursivo,S0162::Renda e classe,FUST,sim,superficial,ok_janela_estrito,78
+discursivo,S0163::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0164::Macrorregião,FUST,nao,falso_positivo,ok_janela_estrito,76
+discursivo,S0164::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,46
+discursivo,S0165::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,90
+discursivo,S0165::Educação,FUST,sim,superficial,ok_janela_estrito,99
+discursivo,S0165::Gênero,FUST,sim,superficial,ok_janela_estrito,80
+discursivo,S0165::Idade,FUST,sim,superficial,ok_janela_estrito,77
+discursivo,S0165::Macrorregião,FUST,nao,falso_positivo,ok_janela_estrito,118
+discursivo,S0165::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,99
+discursivo,S0165::Renda e classe,FUST,sim,superficial,ok_janela_estrito,99
+discursivo,S0165::Saúde,FUST,sim,superficial,ok_janela_estrito,99
+discursivo,S0165::Território intraurbano,FUST,sim,superficial,ok_janela_estrito,126
+discursivo,S0165::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,274
+discursivo,S0166::Macrorregião,FUST,sim,superficial,ok_janela_estrito,169
+discursivo,S0166::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,96
+discursivo,S0167::Administração pública,FUST,sim,superficial,ok_janela_estrito,178
+discursivo,S0167::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,210
+discursivo,S0167::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0167::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,170
+discursivo,S0167::Renda e classe,FUST,sim,superficial,ok_janela_estrito,98
+discursivo,S0168::Macrorregião,FUST,sim,estrutural,ok_janela_estrito,163
+discursivo,S0169::Administração pública,FUST,sim,superficial,ok_janela_estrito,175
+discursivo,S0169::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,221
+discursivo,S0169::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,122
+discursivo,S0170::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,69
+discursivo,S0171::Administração pública,FUST,sim,superficial,ok_janela_estrito,174
+discursivo,S0171::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,206
+discursivo,S0172::Macrorregião,FUST,sim,estrutural,ok_janela_estrito,115
+discursivo,S0172::Renda e classe,FUST,sim,superficial,ok_janela_estrito,181
+discursivo,S0173::Administração pública,FUST,sim,superficial,ok_janela_estrito,211
+discursivo,S0173::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,249
+discursivo,S0173::Idade,FUST,sim,estrutural,ok_janela_estrito,233
+discursivo,S0173::Macrorregião,FUST,sim,estrutural,ok_janela_estrito,201
+discursivo,S0173::Renda e classe,FUST,sim,superficial,ok_janela_estrito,187
+discursivo,S0173::Urbano e rural,FUST,sim,estrutural,ok_janela_estrito,150
+discursivo,S0174::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0174::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0174::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,242
+discursivo,S0174::Renda e classe,FUST,sim,superficial,ok_janela_estrito,117
+discursivo,S0174::Território intraurbano,FUST,nao,falso_positivo,ok_janela_estrito,69
+discursivo,S0174::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,34
+discursivo,S0176::Administração pública,FUST,sim,superficial,ok_janela_estrito,170
+discursivo,S0176::Idade,FUST,sim,superficial,ok_janela_estrito,139
+discursivo,S0176::Renda e classe,FUST,sim,superficial,ok_janela_estrito,209
+discursivo,S0177::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0177::Renda e classe,FUST,sim,superficial,ok_janela_estrito,141
+discursivo,S0178::Renda e classe,FUST,sim,superficial,ok_janela_estrito,142
+discursivo,S0179::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,160
+discursivo,S0179::Educação,FUST,sim,superficial,ok_janela_estrito,163
+discursivo,S0179::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,184
+discursivo,S0179::Idade,FUST,sim,superficial,ok_janela_estrito,118
+discursivo,S0179::Macrorregião,FUST,sim,superficial,ok_janela_estrito,118
+discursivo,S0179::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,88
+discursivo,S0179::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,152
+discursivo,S0179::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,88
+discursivo,S0180::Macrorregião,FUST,sim,superficial,ok_janela_estrito,161
+discursivo,S0180::Renda e classe,FUST,sim,superficial,ok_janela_estrito,133
+discursivo,S0180::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,206
+discursivo,S0181::Administração pública,FUST,sim,superficial,fora_da_janela,185
+discursivo,S0181::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,151
+discursivo,S0181::Educação,FUST,sim,superficial,ok_janela_estrito,208
+discursivo,S0181::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,123
+discursivo,S0181::Idade,FUST,sim,estrutural,ok_janela_estrito,161
+discursivo,S0181::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,111
+discursivo,S0181::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,85
+discursivo,S0181::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,97
+discursivo,S0182::Renda e classe,FUST,nao,falso_positivo,ok_janela_estrito,85
+discursivo,S0183::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,104
+discursivo,S0183::Gênero,FUST,nao,falso_positivo,ok_janela_estrito,89
+discursivo,S0183::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0183::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,156
+discursivo,S0183::Renda e classe,FUST,sim,superficial,ok_janela_estrito,99
+discursivo,S0183::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,66
+discursivo,S0184::Administração pública,FUST,sim,superficial,ok_janela_estrito,227
+discursivo,S0184::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,123
+discursivo,S0184::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,169
+discursivo,S0186::Posição no trabalho,FUST,sim,superficial,fora_da_janela,183
+discursivo,S0186::Urbano e rural,FUST,sim,estrutural,ok_janela_estrito,152
+discursivo,S0187::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,87
+discursivo,S0187::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0187::Macrorregião,FUST,sim,superficial,ok_janela_estrito,246
+discursivo,S0187::Posição no trabalho,FUST,nao,falso_positivo,ok_janela_estrito,97
+discursivo,S0187::Renda e classe,FUST,sim,superficial,ok_janela_estrito,191
+discursivo,S0187::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,71
+discursivo,S0188::Macrorregião,FUST,sim,superficial,ok_janela_estrito,232
+discursivo,S0188::Urbano e rural,FUST,sim,estrutural,ok_janela_estrito,162
+discursivo,S0189::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,303
+discursivo,S0189::Educação,FUST,sim,superficial,ok_janela_estrito,197
+discursivo,S0189::Gênero,FUST,sim,superficial,ok_janela_estrito,189
+discursivo,S0189::Idade,FUST,sim,estrutural,ok_janela_estrito,303
+discursivo,S0189::Macrorregião,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0189::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,127
+discursivo,S0189::Renda e classe,FUST,sim,superficial,ok_janela_estrito,153
+discursivo,S0189::Saúde,FUST,sim,superficial,ok_janela_estrito,149
+discursivo,S0191::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,277
+discursivo,S0191::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,83
+discursivo,S0192::Macrorregião,FUST,nao,falso_positivo,ok_janela_estrito,121
+discursivo,S0193::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,231
+discursivo,S0193::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,162
+discursivo,S0195::Renda e classe,FUST,sim,superficial,ok_janela_estrito,137
+discursivo,S0195::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,104
+discursivo,S0196::Administração pública,FUST,sim,estrutural,ok_janela_estrito,150
+discursivo,S0196::Educação,FUST,sim,superficial,ok_janela_estrito,187
+discursivo,S0196::Infraestrutura e porte populacional,FUST,sim,estrutural,ok_janela_estrito,130
+discursivo,S0196::Macrorregião,FUST,nao,falso_positivo,ok_janela_estrito,143
+discursivo,S0196::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,152
+discursivo,S0196::Renda e classe,FUST,sim,superficial,ok_janela_estrito,162
+discursivo,S0196::Urbano e rural,FUST,sim,estrutural,ok_janela_estrito,249
+discursivo,S0197::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,272
+discursivo,S0197::Gênero,FUST,sim,superficial,ok_janela_estrito,248
+discursivo,S0197::Idade,FUST,sim,superficial,ok_janela_estrito,231
+discursivo,S0197::Macrorregião,FUST,sim,superficial,ok_janela_estrito,165
+discursivo,S0197::Renda e classe,FUST,sim,superficial,ok_janela_estrito,86
+discursivo,S0197::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,110
+discursivo,S0198::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,228
+discursivo,S0199::Educação,FUST,sim,superficial,ok_janela_estrito,171
+discursivo,S0199::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,129
+discursivo,S0199::Macrorregião,FUST,sim,superficial,ok_janela_estrito,198
+discursivo,S0199::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,116
+discursivo,S0199::Renda e classe,FUST,sim,superficial,ok_janela_estrito,120
+discursivo,S0200::Administração pública,FUST,sim,superficial,ok_janela_estrito,167
+discursivo,S0200::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0200::Educação,FUST,sim,superficial,ok_janela_estrito,159
+discursivo,S0200::Escolaridade e letramento,FUST,sim,estrutural,ok_janela_estrito,187
+discursivo,S0200::Gênero,FUST,nao,falso_positivo,ok_janela_estrito,110
+discursivo,S0200::Macrorregião,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0200::Renda e classe,FUST,sim,superficial,ok_janela_estrito,166
+discursivo,S0201::Macrorregião,FUST,sim,superficial,ok_janela_estrito,180
+discursivo,S0201::Urbano e rural,FUST,sim,estrutural,ok_janela_estrito,190
+discursivo,S0203::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,141
+discursivo,S0203::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,137
+discursivo,S0204::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,142
+discursivo,S0204::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,141
+discursivo,S0204::Renda e classe,FUST,sim,superficial,ok_janela_estrito,141
+discursivo,S0205::Educação,FUST,sim,superficial,ok_janela_estrito,198
+discursivo,S0205::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,205
+discursivo,S0206::Administração pública,FUST,sim,estrutural,ok_janela_estrito,257
+discursivo,S0206::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,192
+discursivo,S0206::Macrorregião,FUST,sim,superficial,ok_janela_estrito,114
+discursivo,S0206::Renda e classe,FUST,sim,superficial,ok_janela_estrito,144
+discursivo,S0206::Saúde,FUST,sim,estrutural,ok_janela_estrito,176
+discursivo,S0207::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,239
+discursivo,S0208::Cultura e informação,FUST,nao,falso_positivo,ok_janela_estrito,102
+discursivo,S0208::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,206
+discursivo,S0208::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,102
+discursivo,S0209::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,125
+discursivo,S0209::Idade,FUST,sim,estrutural,ok_janela_estrito,185
+discursivo,S0209::Macrorregião,FUST,sim,superficial,ok_janela_estrito,102
+discursivo,S0209::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,170
+discursivo,S0210::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,167
+discursivo,S0210::Educação,FUST,sim,estrutural,ok_janela_estrito,61
+discursivo,S0210::Escolaridade e letramento,FUST,sim,estrutural,ok_janela_estrito,121
+discursivo,S0210::Idade,FUST,sim,estrutural,ok_janela_estrito,99
+discursivo,S0210::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,70
+discursivo,S0210::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,144
+discursivo,S0210::Saúde e deficiência,FUST,sim,superficial,ok_janela_estrito,261
+discursivo,S0210::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,70
+discursivo,S0211::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,89
+discursivo,S0211::Educação,FUST,sim,estrutural,ok_janela_estrito,134
+discursivo,S0211::Escolaridade e letramento,FUST,sim,estrutural,ok_janela_estrito,160
+discursivo,S0211::Idade,FUST,sim,estrutural,ok_janela_estrito,224
+discursivo,S0211::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,111
+discursivo,S0211::Renda e classe,FUST,sim,superficial,ok_janela_estrito,100
+discursivo,S0211::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,55
+discursivo,S0212::Domicílio e arranjo familiar,FUST,nao,falso_positivo,ok_janela_estrito,67
+discursivo,S0212::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,155
+discursivo,S0212::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,103
+discursivo,S0213::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0213::Macrorregião,FUST,sim,superficial,ok_janela_estrito,169
+discursivo,S0214::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,176
+discursivo,S0214::Renda e classe,FUST,sim,superficial,ok_janela_estrito,176
+discursivo,S0216::Macrorregião,FUST,sim,superficial,ok_janela_estrito,143
+discursivo,S0216::Renda e classe,FUST,sim,superficial,ok_janela_estrito,244
+discursivo,S0216::Saúde,FUST,sim,superficial,ok_janela_estrito,119
+discursivo,S0217::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,159
+discursivo,S0218::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,158
+discursivo,S0218::Idade,FUST,sim,superficial,ok_janela_estrito,188
+discursivo,S0218::Renda e classe,FUST,sim,superficial,ok_janela_estrito,202
+discursivo,S0219::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0219::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,147
+discursivo,S0219::Raça e etnia,FUST,sim,superficial,ok_janela_estrito,246
+discursivo,S0220::Administração pública,FUST,sim,superficial,ok_janela_estrito,198
+discursivo,S0221::Cultura e informação,FUST,sim,superficial,ok_janela_estrito,91
+discursivo,S0221::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0221::Educação,FUST,sim,superficial,ok_janela_estrito,91
+discursivo,S0221::Idade,FUST,sim,superficial,ok_janela_estrito,117
+discursivo,S0221::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,274
+discursivo,S0221::Macrorregião,FUST,nao,falso_positivo,ok_janela_estrito,58
+discursivo,S0221::Raça e etnia,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0221::Renda e classe,FUST,sim,superficial,ok_janela_estrito,225
+discursivo,S0221::Território intraurbano,FUST,sim,superficial,ok_janela_estrito,230
+discursivo,S0221::Territórios de povos e comunidades tradicionais,FUST,sim,superficial,ok_janela_estrito,209
+discursivo,S0222::Macrorregião,FUST,sim,estrutural,ok_janela_estrito,187
+discursivo,S0222::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,125
+discursivo,S0222::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,169
+discursivo,S0223::Macrorregião,FUST,sim,superficial,ok_janela_estrito,105
+discursivo,S0223::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,212
+discursivo,S0224::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,165
+discursivo,S0224::Educação,FUST,sim,superficial,ok_janela_estrito,165
+discursivo,S0224::Renda e classe,FUST,sim,superficial,ok_janela_estrito,209
+discursivo,S0224::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,140
+discursivo,S0225::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,83
+discursivo,S0225::Educação,FUST,sim,superficial,ok_janela_estrito,182
+discursivo,S0225::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,140
+discursivo,S0225::Gênero,FUST,sim,superficial,ok_janela_estrito,76
+discursivo,S0225::Idade,FUST,nao,falso_positivo,ok_janela_estrito,22
+discursivo,S0225::Macrorregião,FUST,sim,superficial,ok_janela_estrito,289
+discursivo,S0225::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,74
+discursivo,S0225::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,223
+discursivo,S0225::Saúde,FUST,sim,superficial,ok_janela_estrito,79
+discursivo,S0225::Território intraurbano,FUST,sim,estrutural,fora_da_janela,201
+discursivo,S0225::Territórios de povos e comunidades tradicionais,FUST,sim,superficial,ok_janela_estrito,126
+discursivo,S0226::Macrorregião,FUST,sim,superficial,ok_janela_estrito,194
+discursivo,S0226::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,166
+discursivo,S0227::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,180
+discursivo,S0227::Educação,FUST,sim,superficial,ok_janela_estrito,180
+discursivo,S0227::Idade,FUST,sim,superficial,ok_janela_estrito,87
+discursivo,S0227::Renda e classe,FUST,sim,superficial,ok_janela_estrito,182
+discursivo,S0228::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,102
+discursivo,S0228::Educação,FUST,sim,superficial,ok_janela_estrito,207
+discursivo,S0228::Idade,FUST,sim,estrutural,ok_janela_estrito,69
+discursivo,S0228::Macrorregião,FUST,sim,superficial,ok_janela_estrito,73
+discursivo,S0228::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,132
+discursivo,S0228::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,66
+discursivo,S0229::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,157
+discursivo,S0229::Educação,FUST,sim,superficial,ok_janela_estrito,209
+discursivo,S0229::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,79
+discursivo,S0229::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,204
+discursivo,S0229::Saúde,FUST,sim,superficial,ok_janela_estrito,173
+discursivo,S0229::Territórios de povos e comunidades tradicionais,FUST,sim,superficial,ok_janela_estrito,82
+discursivo,S0229::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,62
+discursivo,S0230::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0230::Macrorregião,FUST,sim,superficial,ok_janela_estrito,111
+discursivo,S0230::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,185
+discursivo,S0230::Raça e etnia,FUST,sim,superficial,ok_janela_estrito,124
+discursivo,S0230::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,92
+discursivo,S0232::Administração pública,FUST,sim,superficial,ok_janela_estrito,89
+discursivo,S0232::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,104
+discursivo,S0232::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,132
+discursivo,S0232::Idade,FUST,sim,superficial,ok_janela_estrito,107
+discursivo,S0232::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,161
+discursivo,S0232::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,85
+discursivo,S0233::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0233::Educação,FUST,sim,superficial,ok_janela_estrito,124
+discursivo,S0233::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,149
+discursivo,S0233::Gênero,FUST,sim,superficial,ok_janela_estrito,117
+discursivo,S0233::Idade,FUST,sim,superficial,ok_janela_estrito,93
+discursivo,S0233::Macrorregião,FUST,nao,falso_positivo,ok_janela_estrito,96
+discursivo,S0233::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,89
+discursivo,S0234::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0234::Gênero,FUST,sim,superficial,ok_janela_estrito,87
+discursivo,S0234::Idade,FUST,sim,superficial,ok_janela_estrito,53
+discursivo,S0234::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,99
+discursivo,S0234::Renda e classe,FUST,nao,falso_positivo,ok_janela_estrito,90
+discursivo,S0235::Saúde,FUST,sim,superficial,ok_janela_estrito,139
+discursivo,S0236::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,153
+discursivo,S0236::Educação,FUST,sim,superficial,ok_janela_estrito,137
+discursivo,S0236::Idade,FUST,sim,superficial,ok_janela_estrito,137
+discursivo,S0236::Macrorregião,FUST,sim,superficial,ok_janela_estrito,129
+discursivo,S0236::Posição no trabalho,FUST,nao,falso_positivo,ok_janela_estrito,103
+discursivo,S0236::Renda e classe,FUST,sim,superficial,ok_janela_estrito,117
+discursivo,S0237::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,148
+discursivo,S0237::Idade,FUST,sim,superficial,ok_janela_estrito,60
+discursivo,S0237::Posição no trabalho,FUST,sim,estrutural,fora_da_janela,177
+discursivo,S0237::Renda e classe,FUST,sim,estrutural,fora_da_janela,177
+discursivo,S0238::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,100
+discursivo,S0238::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,125
+discursivo,S0238::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,79
+discursivo,S0240::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,163
+discursivo,S0240::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0240::Infraestrutura e porte populacional,FUST,nao,falso_positivo,ok_janela_estrito,89
+discursivo,S0240::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,185
+discursivo,S0240::Renda e classe,FUST,sim,estrutural,fora_da_janela,185
+discursivo,S0240::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,188
+discursivo,S0241::Educação,FUST,sim,superficial,ok_janela_estrito,195
+discursivo,S0241::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0241::Macrorregião,FUST,sim,estrutural,ok_janela_estrito,109
+discursivo,S0241::Posição no trabalho,FUST,sim,estrutural,fora_da_janela,201
+discursivo,S0241::Saúde,FUST,sim,superficial,ok_janela_estrito,195
+discursivo,S0242::Macrorregião,FUST,sim,estrutural,ok_janela_estrito,151
+discursivo,S0243::Escolaridade e letramento,FUST,nao,falso_positivo,ok_janela_estrito,78
+discursivo,S0244::Administração pública,FUST,sim,superficial,ok_janela_estrito,153
+discursivo,S0244::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0244::Macrorregião,FUST,sim,superficial,ok_janela_estrito,92
+discursivo,S0244::Posição no trabalho,FUST,sim,superficial,fora_da_janela,197
+discursivo,S0245::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,162
+discursivo,S0245::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,136
+discursivo,S0246::Macrorregião,FUST,sim,superficial,ok_janela_estrito,107
+discursivo,S0247::Macrorregião,FUST,sim,superficial,ok_janela_estrito,44
+discursivo,S0247::Renda e classe,FUST,sim,superficial,ok_janela_estrito,111
+discursivo,S0248::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,149
+discursivo,S0248::Idade,FUST,nao,falso_positivo,ok_janela_estrito,142
+discursivo,S0248::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,106
+discursivo,S0248::Raça e etnia,FUST,sim,superficial,ok_janela_estrito,136
+discursivo,S0248::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,132
+discursivo,S0248::Saúde,FUST,sim,estrutural,ok_janela_estrito,241
+discursivo,S0248::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,58
+discursivo,S0249::Administração pública,FUST,sim,superficial,ok_janela_estrito,112
+discursivo,S0249::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,162
+discursivo,S0249::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,108
+discursivo,S0249::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,156
+discursivo,S0249::Macrorregião,FUST,sim,superficial,ok_janela_estrito,174
+discursivo,S0249::Renda e classe,FUST,sim,superficial,ok_janela_estrito,156
+discursivo,S0250::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,150
+discursivo,S0250::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0250::Renda e classe,FUST,sim,superficial,ok_janela_estrito,164
+discursivo,S0250::Território intraurbano,FUST,sim,estrutural,ok_janela_estrito,118
+discursivo,S0250::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,84
+discursivo,S0253::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,94
+discursivo,S0253::Educação,FUST,sim,superficial,ok_janela_estrito,159
+discursivo,S0253::Idade,FUST,sim,superficial,ok_janela_estrito,96
+discursivo,S0253::Macrorregião,FUST,sim,superficial,ok_janela_estrito,154
+discursivo,S0253::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,135
+discursivo,S0253::Renda e classe,FUST,sim,superficial,ok_janela_estrito,109
+discursivo,S0254::Administração pública,FUST,sim,superficial,ok_janela_estrito,141
+discursivo,S0254::Educação,FUST,sim,estrutural,ok_janela_estrito,98
+discursivo,S0254::Escolaridade e letramento,FUST,sim,estrutural,ok_janela_estrito,213
+discursivo,S0254::Idade,FUST,sim,estrutural,ok_janela_estrito,152
+discursivo,S0254::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,131
+discursivo,S0255::Administração pública,FUST,nao,falso_positivo,ok_janela_estrito,60
+discursivo,S0255::Macrorregião,FUST,sim,superficial,ok_janela_estrito,118
+discursivo,S0257::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,64
+discursivo,S0257::Renda e classe,FUST,sim,superficial,ok_janela_estrito,98
+discursivo,S0258::Cultura e informação,FUST,sim,superficial,ok_janela_estrito,141
+discursivo,S0258::Educação,FUST,sim,superficial,ok_janela_estrito,112
+discursivo,S0258::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,202
+discursivo,S0258::Idade,FUST,sim,superficial,ok_janela_estrito,134
+discursivo,S0258::Renda e classe,FUST,sim,superficial,ok_janela_estrito,113
+discursivo,S0259::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,180
+discursivo,S0259::Renda e classe,FUST,nao,falso_positivo,ok_janela_estrito,75
+discursivo,S0259::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,34
+discursivo,S0260::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,76
+discursivo,S0260::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,149
+discursivo,S0261::Macrorregião,FUST,sim,estrutural,ok_janela_estrito,130
+discursivo,S0261::Urbano e rural,FUST,sim,estrutural,ok_janela_estrito,221
+discursivo,S0262::Administração pública,FUST,sim,superficial,ok_janela_estrito,217
+discursivo,S0262::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,113
+discursivo,S0262::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,169
+discursivo,S0262::Renda e classe,FUST,sim,superficial,ok_janela_estrito,114
+discursivo,S0263::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,137
+discursivo,S0263::Macrorregião,FUST,nao,falso_positivo,ok_janela_estrito,77
+discursivo,S0264::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,114
+discursivo,S0264::Educação,FUST,sim,estrutural,ok_janela_estrito,192
+discursivo,S0264::Idade,FUST,sim,estrutural,ok_janela_estrito,151
+discursivo,S0264::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,102
+discursivo,S0264::Território intraurbano,FUST,sim,superficial,ok_janela_estrito,182
+discursivo,S0264::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,89
+discursivo,S0265::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,140
+discursivo,S0265::Idade,FUST,sim,superficial,ok_janela_estrito,58
+discursivo,S0265::Macrorregião,FUST,nao,falso_positivo,ok_janela_estrito,115
+discursivo,S0265::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,152
+discursivo,S0265::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,85
+discursivo,S0265::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,34
+discursivo,S0266::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0266::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,179
+discursivo,S0266::Renda e classe,FUST,sim,superficial,ok_janela_estrito,171
+discursivo,S0267::Administração pública,FUST,nao,falso_positivo,fora_da_janela,165
+discursivo,S0267::Idade,FUST,sim,estrutural,ok_janela_estrito,191
+discursivo,S0268::Macrorregião,FUST,sim,superficial,ok_janela_estrito,177
+discursivo,S0268::Renda e classe,FUST,sim,superficial,ok_janela_estrito,208
+discursivo,S0268::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,176
+discursivo,S0269::Macrorregião,FUST,sim,superficial,ok_janela_estrito,122
+discursivo,S0270::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,212
+discursivo,S0270::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,67
+discursivo,S0271::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0271::Posição no trabalho,FUST,nao,falso_positivo,ok_janela_estrito,59
+discursivo,S0273::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,96
+discursivo,S0273::Idade,FUST,nao,falso_positivo,ok_janela_estrito,103
+discursivo,S0273::Macrorregião,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0273::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,96
+discursivo,S0273::Território intraurbano,FUST,sim,superficial,ok_janela_estrito,125
+discursivo,S0273::Territórios de povos e comunidades tradicionais,FUST,sim,superficial,ok_janela_estrito,166
+discursivo,S0273::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,125
+discursivo,S0274::Administração pública,FUST,nao,falso_positivo,ok_janela_estrito,74
+discursivo,S0275::Educação,FUST,sim,superficial,ok_janela_estrito,180
+discursivo,S0275::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,44
+discursivo,S0275::Saúde,FUST,sim,estrutural,ok_janela_estrito,164
+discursivo,S0275::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,34
+discursivo,S0276::Educação,FUST,sim,superficial,ok_janela_estrito,99
+discursivo,S0276::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,99
+discursivo,S0276::Idade,FUST,sim,superficial,ok_janela_estrito,208
+discursivo,S0276::Macrorregião,FUST,sim,superficial,ok_janela_estrito,117
+discursivo,S0276::Renda e classe,FUST,sim,superficial,ok_janela_estrito,130
+discursivo,S0276::Saúde,FUST,sim,superficial,ok_janela_estrito,92
+discursivo,S0276::Urbano e rural,FUST,sim,estrutural,ok_janela_estrito,189
+discursivo,S0280::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,87
+discursivo,S0280::Educação,FUST,sim,estrutural,ok_janela_estrito,102
+discursivo,S0280::Escolaridade e letramento,FUST,sim,estrutural,ok_janela_estrito,73
+discursivo,S0280::Idade,FUST,sim,superficial,ok_janela_estrito,89
+discursivo,S0280::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,149
+discursivo,S0280::Raça e etnia,FUST,sim,estrutural,ok_janela_estrito,110
+discursivo,S0280::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,111
+discursivo,S0280::Território intraurbano,FUST,sim,superficial,ok_janela_estrito,118
+discursivo,S0280::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,71
+discursivo,S0281::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,87
+discursivo,S0282::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,129
+discursivo,S0282::Macrorregião,FUST,nao,falso_positivo,ok_janela_estrito,103
+discursivo,S0282::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,162
+discursivo,S0282::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,118
+discursivo,S0282::Saúde,FUST,sim,superficial,ok_janela_estrito,211
+discursivo,S0282::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,65
+discursivo,S0283::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,133
+discursivo,S0283::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,43
+discursivo,S0283::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,161
+discursivo,S0284::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,73
+discursivo,S0284::Educação,FUST,sim,superficial,fora_da_janela,167
+discursivo,S0284::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,128
+discursivo,S0284::Gênero,FUST,sim,superficial,ok_janela_estrito,95
+discursivo,S0284::Idade,FUST,sim,superficial,ok_janela_estrito,142
+discursivo,S0284::Macrorregião,FUST,sim,superficial,ok_janela_estrito,122
+discursivo,S0284::Raça e etnia,FUST,sim,superficial,ok_janela_estrito,130
+discursivo,S0284::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,73
+discursivo,S0284::Território intraurbano,FUST,sim,estrutural,ok_janela_estrito,111
+discursivo,S0285::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,102
+discursivo,S0285::Gênero,FUST,sim,superficial,ok_janela_estrito,139
+discursivo,S0285::Macrorregião,FUST,nao,falso_positivo,ok_janela_estrito,83
+discursivo,S0285::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,134
+discursivo,S0285::Raça e etnia,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0285::Renda e classe,FUST,sim,superficial,ok_janela_estrito,103
+discursivo,S0286::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,120
+discursivo,S0286::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,66
+discursivo,S0286::Macrorregião,FUST,sim,superficial,ok_janela_estrito,196
+discursivo,S0286::Renda e classe,FUST,sim,superficial,ok_janela_estrito,188
+discursivo,S0286::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,39
+discursivo,S0287::Macrorregião,FUST,nao,falso_positivo,ok_janela_estrito,124
+discursivo,S0288::Administração pública,FUST,sim,superficial,ok_janela_estrito,101
+discursivo,S0288::Educação,FUST,sim,superficial,ok_janela_estrito,101
+discursivo,S0288::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,145
+discursivo,S0288::Idade,FUST,sim,superficial,ok_janela_estrito,148
+discursivo,S0288::Macrorregião,FUST,sim,superficial,ok_janela_estrito,136
+discursivo,S0288::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,235
+discursivo,S0289::Gênero,FUST,sim,superficial,ok_janela_estrito,120
+discursivo,S0289::Macrorregião,FUST,sim,estrutural,ok_janela_estrito,89
+discursivo,S0289::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,86
+discursivo,S0289::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,116
+discursivo,S0290::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,158
+discursivo,S0290::Idade,FUST,sim,superficial,ok_janela_estrito,116
+discursivo,S0290::Raça e etnia,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0291::Administração pública,FUST,sim,estrutural,ok_janela_estrito,154
+discursivo,S0288::Renda e classe,FUST,sim,estrutural,fora_da_janela,176
+discursivo,S0291::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,98
+discursivo,S0291::Educação,FUST,sim,superficial,ok_janela_estrito,116
+discursivo,S0291::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,116
+discursivo,S0291::Idade,FUST,sim,superficial,ok_janela_estrito,144
+discursivo,S0291::Infraestrutura e porte populacional,FUST,sim,estrutural,ok_janela_estrito,266
+discursivo,S0291::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,98
+discursivo,S0292::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,154
+discursivo,S0292::Idade,FUST,sim,superficial,ok_janela_estrito,154
+discursivo,S0292::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,135
+discursivo,S0293::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,146
+discursivo,S0293::Macrorregião,FUST,sim,superficial,ok_janela_estrito,162
+discursivo,S0293::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,144
+discursivo,S0293::Renda e classe,FUST,sim,superficial,ok_janela_estrito,147
+discursivo,S0293::Território intraurbano,FUST,sim,superficial,ok_janela_estrito,147
+discursivo,S0293::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,147
+discursivo,S0294::Educação,FUST,sim,superficial,ok_janela_estrito,154
+discursivo,S0294::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,125
+discursivo,S0294::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0294::Macrorregião,FUST,nao,falso_positivo,ok_janela_estrito,89
+discursivo,S0294::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,128
+discursivo,S0294::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,114
+discursivo,S0295::Posição no trabalho,FUST,nao,falso_positivo,ok_janela_estrito,152
+discursivo,S0296::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,127
+discursivo,S0296::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,104
+discursivo,S0297::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,115
+discursivo,S0298::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,70
+discursivo,S0298::Macrorregião,FUST,sim,superficial,ok_janela_estrito,132
+discursivo,S0299::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,147
+discursivo,S0299::Saúde e deficiência,FUST,nao,falso_positivo,ok_janela_estrito,91
+discursivo,S0299::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,56
+discursivo,S0300::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,108
+discursivo,S0300::Macrorregião,FUST,sim,superficial,ok_janela_estrito,177
+discursivo,S0300::Urbano e rural,FUST,sim,estrutural,ok_janela_estrito,179
+discursivo,S0301::Cultura e informação,FUST,sim,superficial,ok_janela_estrito,98
+discursivo,S0301::Renda e classe,FUST,sim,superficial,ok_janela_estrito,91
+discursivo,S0302::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,123
+discursivo,S0303::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0303::Renda e classe,FUST,sim,superficial,ok_janela_estrito,68
+discursivo,S0303::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,79
+discursivo,S0304::Macrorregião,FUST,sim,superficial,ok_janela_estrito,203
+discursivo,S0304::Urbano e rural,FUST,sim,estrutural,ok_janela_estrito,163
+discursivo,S0305::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,41
+discursivo,S0306::Educação,FUST,sim,superficial,ok_janela_estrito,150
+discursivo,S0306::Idade,FUST,sim,superficial,ok_janela_estrito,130
+discursivo,S0306::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,161
+discursivo,S0306::Renda e classe,FUST,sim,superficial,ok_janela_estrito,80
+discursivo,S0306::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,87
+discursivo,S0308::Educação,FUST,sim,superficial,ok_janela_estrito,110
+discursivo,S0308::Idade,FUST,sim,superficial,ok_janela_estrito,111
+discursivo,S0309::Cultura e informação,FUST,sim,superficial,ok_janela_estrito,149
+discursivo,S0309::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,70
+discursivo,S0309::Educação,FUST,sim,superficial,ok_janela_estrito,147
+discursivo,S0309::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,122
+discursivo,S0309::Idade,FUST,sim,superficial,corte_interno,81
+discursivo,S0309::Urbano e rural,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0310::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,61
+discursivo,S0310::Educação,FUST,sim,superficial,ok_janela_estrito,69
+discursivo,S0310::Idade,FUST,sim,superficial,ok_janela_estrito,143
+discursivo,S0311::Educação,FUST,sim,superficial,ok_janela_estrito,163
+discursivo,S0311::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,194
+discursivo,S0311::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,94
+discursivo,S0312::Posição no trabalho,FUST,nao,falso_positivo,ok_janela_estrito,120
+discursivo,S0312::Saúde e deficiência,FUST,sim,superficial,ok_janela_estrito,167
+discursivo,S0313::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,160
+discursivo,S0313::Idade,FUST,sim,superficial,ok_janela_estrito,105
+discursivo,S0313::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,111
+discursivo,S0313::Macrorregião,FUST,nao,falso_positivo,ok_janela_estrito,76
+discursivo,S0313::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,170
+discursivo,S0314::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,160
+discursivo,S0314::Idade,FUST,sim,superficial,ok_janela_estrito,105
+discursivo,S0314::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,111
+discursivo,S0314::Macrorregião,FUST,nao,falso_positivo,ok_janela_estrito,76
+discursivo,S0314::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,170
+discursivo,S0315::Educação,FUST,sim,superficial,ok_janela_estrito,150
+discursivo,S0315::Idade,FUST,sim,superficial,ok_janela_estrito,130
+discursivo,S0315::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,161
+discursivo,S0315::Renda e classe,FUST,sim,superficial,ok_janela_estrito,80
+discursivo,S0315::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,87
+discursivo,S0316::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,160
+discursivo,S0316::Raça e etnia,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0316::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,75
+discursivo,S0317::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,88
+discursivo,S0317::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,134
+discursivo,S0317::Macrorregião,FUST,sim,superficial,ok_janela_estrito,55
+discursivo,S0317::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,133
+discursivo,S0317::Saúde,FUST,sim,superficial,ok_janela_estrito,134
+discursivo,S0317::Território intraurbano,FUST,sim,superficial,ok_janela_estrito,56
+discursivo,S0317::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,133
+discursivo,S0319::Posição no trabalho,FUST,nao,falso_positivo,ok_janela_estrito,59
+discursivo,S0319::Urbano e rural,FUST,sim,estrutural,ok_janela_estrito,133
+discursivo,S0320::Raça e etnia,FUST,sim,superficial,ok_janela_estrito,210
+discursivo,S0320::Saúde,FUST,sim,superficial,ok_janela_estrito,120
+discursivo,S0322::Macrorregião,FUST,sim,superficial,ok_janela_estrito,172
+discursivo,S0323::Administração pública,FUST,sim,superficial,ok_janela_estrito,78
+discursivo,S0323::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,107
+discursivo,S0323::Educação,FUST,sim,superficial,ok_janela_estrito,42
+discursivo,S0323::Idade,FUST,sim,superficial,ok_janela_estrito,181
+discursivo,S0323::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,69
+discursivo,S0323::Raça e etnia,FUST,sim,superficial,ok_janela_estrito,168
+discursivo,S0323::Renda e classe,FUST,sim,superficial,ok_janela_estrito,152
+discursivo,S0323::Saúde,FUST,sim,superficial,ok_janela_estrito,94
+discursivo,S0323::Território intraurbano,FUST,sim,superficial,ok_janela_estrito,84
+discursivo,S0324::Administração pública,FUST,sim,superficial,ok_janela_estrito,110
+discursivo,S0324::Cultura e informação,FUST,sim,superficial,ok_janela_estrito,137
+discursivo,S0324::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,196
+discursivo,S0324::Educação,FUST,sim,superficial,ok_janela_estrito,113
+discursivo,S0324::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,203
+discursivo,S0324::Idade,FUST,sim,estrutural,ok_janela_estrito,210
+discursivo,S0324::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,291
+discursivo,S0324::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,281
+discursivo,S0325::Gênero,FUST,sim,superficial,ok_janela_estrito,190
+discursivo,S0325::Macrorregião,FUST,sim,superficial,ok_janela_estrito,144
+discursivo,S0325::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,55
+discursivo,S0326::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,123
+discursivo,S0326::Gênero,FUST,sim,superficial,ok_janela_estrito,147
+discursivo,S0326::Idade,FUST,sim,superficial,ok_janela_estrito,172
+discursivo,S0326::Raça e etnia,FUST,sim,superficial,ok_janela_estrito,144
+discursivo,S0326::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,143
+discursivo,S0327::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,152
+discursivo,S0327::Macrorregião,FUST,sim,superficial,ok_janela_estrito,81
+discursivo,S0327::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,149
+discursivo,S0327::Raça e etnia,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0327::Renda e classe,FUST,sim,superficial,ok_janela_estrito,196
+discursivo,S0327::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,159
+discursivo,S0328::Educação,FUST,sim,superficial,ok_janela_estrito,210
+discursivo,S0328::Escolaridade e letramento,FUST,sim,estrutural,ok_janela_estrito,191
+discursivo,S0328::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0328::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,159
+discursivo,S0328::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,228
+discursivo,S0330::Macrorregião,FUST,nao,falso_positivo,ok_janela_estrito,132
+discursivo,S0330::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,59
+discursivo,S0331::Domicílio e arranjo familiar,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0331::Infraestrutura e porte populacional,FUST,nao,falso_positivo,ok_janela_estrito,156
+discursivo,S0331::Posição no trabalho,FUST,sim,superficial,fora_da_janela,149
+discursivo,S0331::Raça e etnia,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0332::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,195
+discursivo,S0332::Educação,FUST,sim,estrutural,ok_janela_estrito,195
+discursivo,S0332::Escolaridade e letramento,FUST,sim,estrutural,ok_janela_estrito,150
+discursivo,S0332::Idade,FUST,sim,superficial,ok_janela_estrito,57
+discursivo,S0332::Macrorregião,FUST,sim,superficial,ok_janela_estrito,154
+discursivo,S0332::Raça e etnia,FUST,sim,superficial,ok_janela_estrito,154
+discursivo,S0332::Renda e classe,FUST,sim,superficial,ok_janela_estrito,168
+discursivo,S0332::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,76
+discursivo,S0333::Idade,FUST,sim,superficial,ok_janela_estrito,150
+discursivo,S0333::Macrorregião,FUST,sim,superficial,ok_janela_estrito,84
+discursivo,S0333::Renda e classe,FUST,sim,superficial,ok_janela_estrito,84
+discursivo,S0334::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,186
+discursivo,S0334::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,160
+discursivo,S0335::Administração pública,FUST,sim,superficial,ok_janela_estrito,162
+discursivo,S0335::Cultura e informação,FUST,sim,superficial,ok_janela_estrito,148
+discursivo,S0335::Raça e etnia,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0337::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,168
+discursivo,S0338::Escolaridade e letramento,FUST,sim,estrutural,ok_janela_estrito,162
+discursivo,S0338::Raça e etnia,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0339::Idade,FUST,sim,superficial,ok_janela_estrito,192
+discursivo,S0340::Administração pública,FUST,sim,estrutural,ok_janela_estrito,191
+discursivo,S0340::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,86
+discursivo,S0340::Renda e classe,FUST,sim,superficial,ok_janela_estrito,83
+discursivo,S0340::Saúde,FUST,sim,superficial,ok_janela_estrito,101
+discursivo,S0341::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0341::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,143
+discursivo,S0341::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,176
+discursivo,S0342::Macrorregião,FUST,sim,superficial,ok_janela_estrito,156
+discursivo,S0343::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,114
+discursivo,S0343::Idade,FUST,sim,superficial,ok_janela_estrito,126
+discursivo,S0343::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,64
+discursivo,S0344::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,151
+discursivo,S0346::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,115
+discursivo,S0346::Saúde,FUST,sim,superficial,ok_janela_estrito,122
+discursivo,S0346::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,77
+discursivo,S0347::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,186
+discursivo,S0347::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,160
+discursivo,S0348::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,126
+discursivo,S0348::Idade,FUST,sim,superficial,ok_janela_estrito,89
+discursivo,S0348::Macrorregião,FUST,sim,superficial,ok_janela_estrito,111
+discursivo,S0348::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,129
+discursivo,S0348::Raça e etnia,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0349::Administração pública,FUST,sim,superficial,ok_janela_estrito,60
+discursivo,S0349::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0349::Macrorregião,FUST,sim,superficial,ok_janela_estrito,259
+discursivo,S0349::Território intraurbano,FUST,sim,superficial,ok_janela_estrito,247
+discursivo,S0350::Educação,FUST,sim,superficial,ok_janela_estrito,163
+discursivo,S0350::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,123
+discursivo,S0350::Idade,FUST,sim,superficial,ok_janela_estrito,123
+discursivo,S0350::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,102
+discursivo,S0350::Renda e classe,FUST,sim,superficial,ok_janela_estrito,75
+discursivo,S0350::Saúde,FUST,sim,superficial,ok_janela_estrito,102
+discursivo,S0350::Urbano e rural,FUST,sim,superficial,ok_janela_estrito,138
+discursivo,S0351::Administração pública,FUST,sim,superficial,ok_janela_estrito,60
+discursivo,S0351::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0351::Macrorregião,FUST,sim,superficial,ok_janela_estrito,259
+discursivo,S0351::Território intraurbano,FUST,sim,superficial,ok_janela_estrito,247
+discursivo,S0352::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,135
+discursivo,S0353::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,215
+discursivo,S0354::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,100
+discursivo,S0354::Idade,FUST,nao,falso_positivo,ok_janela_estrito,164
+discursivo,S0354::Posição no trabalho,FUST,sim,superficial,fora_da_janela,177
+discursivo,S0354::Renda e classe,FUST,sim,superficial,ok_janela_estrito,130
+discursivo,S0355::Administração pública,FUST,sim,estrutural,ok_janela_estrito,106
+discursivo,S0355::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,240
+discursivo,S0355::Macrorregião,FUST,sim,estrutural,ok_janela_estrito,240
+discursivo,S0355::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,127
+discursivo,S0356::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,223
+discursivo,S0356::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,176
+discursivo,S0356::Idade,FUST,sim,superficial,ok_janela_estrito,202
+discursivo,S0356::Infraestrutura e porte populacional,FUST,sim,superficial,ok_janela_estrito,216
+discursivo,S0356::Macrorregião,FUST,sim,estrutural,ok_janela_estrito,169
+discursivo,S0356::Renda e classe,FUST,sim,superficial,fora_da_janela,206
+discursivo,S0356::Território intraurbano,FUST,sim,superficial,ok_janela_estrito,148
+discursivo,S0357::Renda e classe,FUST,sim,superficial,ok_janela_estrito,126
+discursivo,S0358::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,100
+discursivo,S0358::Macrorregião,FUST,sim,estrutural,ok_janela_estrito,115
+discursivo,S0358::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,100
+discursivo,S0359::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,231
+discursivo,S0359::Educação,FUST,sim,superficial,corte_interno,176
+discursivo,S0359::Idade,FUST,sim,superficial,ok_janela_estrito,62
+discursivo,S0359::Renda e classe,FUST,sim,superficial,ok_janela_estrito,92
+discursivo,S0360::Domicílio e arranjo familiar,FUST,sim,estrutural,ok_janela_estrito,200
+discursivo,S0360::Educação,FUST,sim,estrutural,ok_janela_estrito,155
+discursivo,S0360::Escolaridade e letramento,FUST,sim,superficial,ok_janela_estrito,86
+discursivo,S0360::Posição no trabalho,FUST,sim,estrutural,ok_janela_estrito,268
+discursivo,S0360::Renda e classe,FUST,sim,estrutural,ok_janela_estrito,197
+discursivo,S0361::Idade,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0361::Raça e etnia,FUST,nao,falso_positivo,sem_trecho,0
+discursivo,S0362::Infraestrutura e porte populacional,FUST,nao,falso_positivo,ok_janela_normalizado,125
+discursivo,S0362::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,85
+discursivo,S0362::Urbano e rural,FUST,nao,falso_positivo,outro_documento,58
+discursivo,S0363::Administração pública,FUST,sim,superficial,ok_janela_estrito,126
+discursivo,S0363::Posição no trabalho,FUST,sim,superficial,ok_janela_estrito,137
+discursivo,S0364::Administração pública,FUST,nao,falso_positivo,ok_janela_estrito,136
+discursivo,S0364::Macrorregião,FUST,sim,superficial,ok_janela_estrito,226
+discursivo,S0390::Urbano e rural,FUST,nao,falso_positivo,ok_janela_estrito,58
+discursivo,S0398::Domicílio e arranjo familiar,FUST,sim,superficial,ok_janela_estrito,75
+discursivo,S0398::Macrorregião,FUST,sim,superficial,fora_da_janela,125
+discursivo,S0398::Renda e classe,FUST,sim,superficial,ok_janela_estrito,29
+discursivo,S0414::Renda e classe,FUST,sim,superficial,fora_da_janela,162
+discursivo,W0003::Educação,BEAD,nao,falso_positivo,ok_janela_estrito,155
+discursivo,W0003::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,155
+discursivo,W0003::Macrorregião,BEAD,nao,falso_positivo,ok_janela_estrito,122
+discursivo,W0005::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,63
+discursivo,W0005::Educação,BEAD,sim,superficial,ok_janela_estrito,134
+discursivo,W0005::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,146
+discursivo,W0006::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,113
+discursivo,W0006::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,184
+discursivo,W0007::Cultura e informação,BEAD,nao,falso_positivo,ok_janela_estrito,118
+discursivo,W0007::Macrorregião,BEAD,nao,falso_positivo,ok_janela_estrito,196
+discursivo,W0010::Educação,BEAD,sim,superficial,ok_janela_estrito,211
+discursivo,W0011::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,87
+discursivo,W0011::Macrorregião,BEAD,nao,falso_positivo,ok_janela_estrito,145
+discursivo,W0013::Educação,BEAD,sim,superficial,ok_janela_estrito,211
+discursivo,W0014::Educação,BEAD,nao,falso_positivo,ok_janela_estrito,43
+discursivo,W0014::Macrorregião,BEAD,sim,superficial,ok_janela_estrito,109
+discursivo,W0015::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,141
+discursivo,W0016::Educação,BEAD,nao,falso_positivo,ok_janela_estrito,168
+discursivo,W0018::Saúde,BEAD,sim,superficial,ok_janela_estrito,208
+discursivo,W0019::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,134
+discursivo,W0020::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,196
+discursivo,W0020::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,210
+discursivo,W0022::Saúde,BEAD,sim,superficial,ok_janela_estrito,227
+discursivo,W0023::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,191
+discursivo,W0024::Educação,BEAD,sim,superficial,ok_janela_estrito,127
+discursivo,W0025::Educação,BEAD,sim,superficial,ok_janela_estrito,250
+discursivo,W0027::Educação,BEAD,nao,falso_positivo,ok_janela_estrito,217
+discursivo,W0028::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,220
+discursivo,W0028::Saúde,BEAD,sim,estrutural,ok_janela_estrito,237
+discursivo,W0029::Domicílio e arranjo familiar,BEAD,sim,estrutural,ok_janela_estrito,179
+discursivo,W0029::Escolaridade e letramento,BEAD,sim,estrutural,ok_janela_estrito,256
+discursivo,W0029::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,272
+discursivo,W0029::Saúde,BEAD,sim,superficial,ok_janela_estrito,269
+discursivo,W0030::Cultura e informação,BEAD,sim,superficial,ok_janela_estrito,296
+discursivo,W0030::Educação,BEAD,sim,superficial,ok_janela_estrito,176
+discursivo,W0031::Cultura e informação,BEAD,sim,superficial,ok_janela_estrito,81
+discursivo,W0031::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,182
+discursivo,W0031::Educação,BEAD,sim,superficial,ok_janela_estrito,100
+discursivo,W0031::Saúde,BEAD,sim,superficial,ok_janela_estrito,172
+discursivo,W0032::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,201
+discursivo,W0032::Educação,BEAD,sim,superficial,ok_janela_estrito,201
+discursivo,W0033::Saúde,BEAD,sim,estrutural,ok_janela_estrito,237
+discursivo,W0034::Educação,BEAD,sim,estrutural,ok_janela_estrito,281
+discursivo,W0034::Saúde,BEAD,nao,falso_positivo,ok_janela_estrito,198
+discursivo,W0035::Saúde,BEAD,sim,superficial,ok_janela_estrito,62
+discursivo,W0036::Idade,BEAD,sim,superficial,ok_janela_estrito,172
+discursivo,W0037::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,214
+discursivo,W0038::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,226
+discursivo,W0039::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,156
+discursivo,W0040::Macrorregião,BEAD,nao,falso_positivo,ok_janela_estrito,155
+discursivo,W0041::Macrorregião,BEAD,nao,falso_positivo,ok_janela_estrito,142
+discursivo,W0043::Cultura e informação,BEAD,sim,superficial,ok_janela_estrito,201
+discursivo,W0043::Macrorregião,BEAD,nao,falso_positivo,ok_janela_estrito,79
+discursivo,W0044::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,163
+discursivo,W0044::Educação,BEAD,sim,estrutural,ok_janela_estrito,171
+discursivo,W0045::Domicílio e arranjo familiar,BEAD,nao,falso_positivo,ok_janela_estrito,230
+discursivo,W0045::Educação,BEAD,sim,superficial,ok_janela_estrito,98
+discursivo,W0045::Saúde,BEAD,sim,estrutural,ok_janela_estrito,108
+discursivo,W0047::Educação,BEAD,sim,superficial,ok_janela_estrito,200
+discursivo,W0047::Saúde,BEAD,sim,superficial,ok_janela_estrito,217
+discursivo,W0048::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,155
+discursivo,W0048::Educação,BEAD,sim,superficial,ok_janela_estrito,95
+discursivo,W0048::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,174
+discursivo,W0049::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,119
+discursivo,W0052::Educação,BEAD,sim,superficial,ok_janela_estrito,202
+discursivo,W0052::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,77
+discursivo,W0054::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,167
+discursivo,W0054::Saúde,BEAD,sim,superficial,ok_janela_estrito,261
+discursivo,W0055::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,117
+discursivo,W0056::Cultura e informação,BEAD,sim,superficial,ok_janela_estrito,174
+discursivo,W0056::Educação,BEAD,sim,estrutural,ok_janela_estrito,111
+discursivo,W0056::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,137
+discursivo,W0059::Cultura e informação,BEAD,sim,superficial,ok_janela_estrito,185
+discursivo,W0059::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,66
+discursivo,W0060::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,103
+discursivo,W0060::Educação,BEAD,sim,superficial,ok_janela_estrito,154
+discursivo,W0063::Domicílio e arranjo familiar,BEAD,sim,estrutural,ok_janela_estrito,234
+discursivo,W0063::Macrorregião,BEAD,sim,superficial,ok_janela_estrito,101
+discursivo,W0064::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,319
+discursivo,W0067::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,124
+discursivo,W0068::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,79
+discursivo,W0069::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,76
+discursivo,W0071::Saúde,BEAD,sim,superficial,ok_janela_estrito,151
+discursivo,W0072::Educação,BEAD,sim,superficial,ok_janela_estrito,159
+discursivo,W0074::Educação,BEAD,sim,superficial,ok_janela_estrito,201
+discursivo,W0074::Macrorregião,BEAD,nao,falso_positivo,ok_janela_estrito,154
+discursivo,W0075::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,112
+discursivo,W0076::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,148
+discursivo,W0076::Educação,BEAD,sim,superficial,ok_janela_estrito,89
+discursivo,W0077::Cultura e informação,BEAD,sim,superficial,ok_janela_estrito,289
+discursivo,W0077::Domicílio e arranjo familiar,BEAD,nao,falso_positivo,ok_janela_estrito,155
+discursivo,W0077::Educação,BEAD,sim,superficial,ok_janela_estrito,94
+discursivo,W0080::Educação,BEAD,nao,falso_positivo,ok_janela_estrito,272
+discursivo,W0080::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,151
+discursivo,W0081::Educação,BEAD,nao,falso_positivo,ok_janela_estrito,221
+discursivo,W0082::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,170
+discursivo,W0082::Vínculo institucional,BEAD,sim,superficial,ok_janela_estrito,245
+discursivo,W0086::Domicílio e arranjo familiar,BEAD,sim,superficial,fora_da_janela,110
+discursivo,W0086::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,228
+discursivo,W0088::Vínculo institucional,BEAD,sim,estrutural,ok_janela_estrito,125
+discursivo,W0089::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,219
+discursivo,W0089::Saúde,BEAD,sim,superficial,ok_janela_estrito,198
+discursivo,W0090::Cultura e informação,BEAD,sim,superficial,ok_janela_estrito,125
+discursivo,W0090::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,194
+discursivo,W0090::Educação,BEAD,nao,falso_positivo,ok_janela_estrito,199
+discursivo,W0090::Idade,BEAD,sim,superficial,ok_janela_estrito,129
+discursivo,W0090::Saúde,BEAD,sim,superficial,ok_janela_estrito,338
+discursivo,W0091::Cultura e informação,BEAD,sim,estrutural,ok_janela_estrito,108
+discursivo,W0091::Educação,BEAD,sim,estrutural,ok_janela_estrito,155
+discursivo,W0091::Escolaridade e letramento,BEAD,sim,estrutural,ok_janela_estrito,108
+discursivo,W0093::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,167
+discursivo,W0094::Cultura e informação,BEAD,nao,falso_positivo,ok_janela_estrito,127
+discursivo,W0094::Domicílio e arranjo familiar,BEAD,sim,estrutural,ok_janela_estrito,133
+discursivo,W0094::Educação,BEAD,sim,superficial,ok_janela_estrito,115
+discursivo,W0094::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,105
+discursivo,W0094::Posição no trabalho,BEAD,sim,superficial,ok_janela_estrito,166
+discursivo,W0095::Domicílio e arranjo familiar,BEAD,nao,falso_positivo,ok_janela_estrito,187
+discursivo,W0095::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,83
+discursivo,W0095::Vínculo institucional,BEAD,nao,falso_positivo,ok_janela_estrito,214
+discursivo,W0096::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,203
+discursivo,W0097::Educação,BEAD,sim,superficial,ok_janela_estrito,262
+discursivo,W0097::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,337
+discursivo,W0098::Cultura e informação,BEAD,sim,superficial,ok_janela_estrito,210
+discursivo,W0098::Educação,BEAD,sim,estrutural,ok_janela_estrito,210
+discursivo,W0098::Saúde,BEAD,sim,superficial,ok_janela_estrito,246
+discursivo,W0099::Cultura e informação,BEAD,sim,superficial,ok_janela_estrito,93
+discursivo,W0099::Educação,BEAD,sim,estrutural,ok_janela_estrito,286
+discursivo,W0099::Saúde,BEAD,sim,estrutural,ok_janela_estrito,459
+discursivo,W0100::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,93
+discursivo,W0101::Cultura e informação,BEAD,sim,superficial,ok_janela_estrito,372
+discursivo,W0101::Domicílio e arranjo familiar,BEAD,sim,estrutural,ok_janela_estrito,1061
+discursivo,W0101::Idade,BEAD,sim,superficial,ok_janela_estrito,372
+discursivo,W0102::Educação,BEAD,nao,falso_positivo,ok_janela_estrito,245
+discursivo,W0102::Macrorregião,BEAD,nao,falso_positivo,ok_janela_estrito,165
+discursivo,W0103::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,146
+discursivo,W0105::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,142
+discursivo,W0105::Educação,BEAD,nao,falso_positivo,ok_janela_estrito,164
+discursivo,W0105::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,115
+discursivo,W0106::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,194
+discursivo,W0107::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,62
+discursivo,W0107::Saúde,BEAD,sim,superficial,ok_janela_estrito,267
+discursivo,W0109::Educação,BEAD,sim,superficial,fora_da_janela,155
+discursivo,W0113::Domicílio e arranjo familiar,BEAD,nao,falso_positivo,corte_interno,192
+discursivo,W0113::Educação,BEAD,nao,falso_positivo,ok_janela_estrito,51
+discursivo,W0113::Idade,BEAD,nao,falso_positivo,fora_da_janela,108
+discursivo,W0114::Cultura e informação,BEAD,nao,falso_positivo,ok_janela_estrito,109
+discursivo,W0114::Educação,BEAD,sim,superficial,ok_janela_estrito,136
+discursivo,W0114::Saúde,BEAD,nao,falso_positivo,ok_janela_estrito,185
+discursivo,W0115::Cultura e informação,BEAD,sim,superficial,ok_janela_estrito,292
+discursivo,W0115::Educação,BEAD,sim,superficial,ok_janela_estrito,209
+discursivo,W0116::Educação,BEAD,sim,superficial,ok_janela_estrito,281
+discursivo,W0116::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,91
+discursivo,W0117::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,154
+discursivo,W0117::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,71
+discursivo,W0117::Vínculo institucional,BEAD,nao,falso_positivo,ok_janela_estrito,134
+discursivo,W0118::Educação,BEAD,nao,falso_positivo,ok_janela_estrito,217
+discursivo,W0118::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,136
+discursivo,W0119::Macrorregião,BEAD,sim,superficial,ok_janela_estrito,172
+discursivo,W0119::Saúde,BEAD,sim,superficial,ok_janela_estrito,155
+discursivo,W0120::Educação,BEAD,nao,falso_positivo,ok_janela_estrito,224
+discursivo,W0120::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,59
+discursivo,W0121::Macrorregião,BEAD,sim,superficial,ok_janela_estrito,281
+discursivo,W0122::Cultura e informação,BEAD,sim,superficial,ok_janela_estrito,168
+discursivo,W0122::Educação,BEAD,sim,estrutural,ok_janela_estrito,336
+discursivo,W0123::Territórios de povos e comunidades tradicionais,BEAD,sim,estrutural,ok_janela_estrito,218
+discursivo,W0125::Educação,BEAD,sim,estrutural,ok_janela_estrito,438
+discursivo,W0126::Domicílio e arranjo familiar,BEAD,nao,falso_positivo,ok_janela_estrito,79
+discursivo,W0126::Educação,BEAD,nao,falso_positivo,ok_janela_estrito,119
+discursivo,W0126::Escolaridade e letramento,BEAD,nao,falso_positivo,ok_janela_estrito,84
+discursivo,W0127::Educação,BEAD,nao,falso_positivo,ok_janela_estrito,124
+discursivo,W0128::Domicílio e arranjo familiar,BEAD,nao,falso_positivo,ok_janela_estrito,232
+discursivo,W0128::Educação,BEAD,nao,falso_positivo,ok_janela_estrito,162
+discursivo,W0128::Saúde,BEAD,nao,falso_positivo,ok_janela_estrito,265
+discursivo,W0129::Educação,BEAD,nao,falso_positivo,ok_janela_estrito,139
+discursivo,W0129::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,161
+discursivo,W0130::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,190
+discursivo,W0130::Saúde,BEAD,nao,falso_positivo,ok_janela_estrito,218
+discursivo,W0132::Educação,BEAD,nao,falso_positivo,ok_janela_estrito,322
+discursivo,W0132::Saúde,BEAD,sim,superficial,ok_janela_estrito,282
+discursivo,W0133::Domicílio e arranjo familiar,BEAD,sim,estrutural,ok_janela_estrito,240
+discursivo,W0133::Educação,BEAD,sim,superficial,ok_janela_estrito,236
+discursivo,W0133::Idade,BEAD,sim,superficial,ok_janela_estrito,72
+discursivo,W0135::Domicílio e arranjo familiar,BEAD,nao,falso_positivo,fora_da_janela,187
+discursivo,W0141::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,80
+discursivo,W0142::Educação,BEAD,sim,superficial,ok_janela_estrito,233
+discursivo,W0144::Educação,BEAD,sim,superficial,ok_janela_estrito,239
+discursivo,W0146::Domicílio e arranjo familiar,BEAD,sim,estrutural,ok_janela_estrito,695
+discursivo,W0146::Educação,BEAD,sim,estrutural,ok_janela_estrito,695
+discursivo,W0147::Cultura e informação,BEAD,nao,falso_positivo,ok_janela_estrito,241
+discursivo,W0147::Educação,BEAD,nao,falso_positivo,ok_janela_estrito,296
+discursivo,W0147::Escolaridade e letramento,BEAD,sim,superficial,fora_da_janela,174
+discursivo,W0147::Idade,BEAD,sim,superficial,ok_janela_estrito,171
+discursivo,W0147::Macrorregião,BEAD,sim,superficial,ok_janela_estrito,280
+discursivo,W0148::Domicílio e arranjo familiar,BEAD,sim,estrutural,ok_janela_estrito,217
+discursivo,W0148::Educação,BEAD,sim,superficial,ok_janela_estrito,229
+discursivo,W0149::Educação,BEAD,sim,superficial,ok_janela_estrito,410
+discursivo,W0149::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,161
+discursivo,W0150::Educação,BEAD,sim,superficial,ok_janela_estrito,372
+discursivo,W0150::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,161
+discursivo,W0152::Cultura e informação,BEAD,sim,superficial,fora_da_janela,137
+discursivo,W0152::Educação,BEAD,sim,superficial,fora_da_janela,394
+discursivo,W0153::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,212
+discursivo,W0155::Educação,BEAD,sim,superficial,ok_janela_estrito,147
+discursivo,W0156::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,85
+discursivo,W0156::Educação,BEAD,sim,superficial,ok_janela_estrito,331
+discursivo,W0156::Escolaridade e letramento,BEAD,sim,superficial,ok_janela_estrito,331
+discursivo,W0157::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,189
+discursivo,W0159::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,119
+discursivo,W0160::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,123
+discursivo,W0163::Educação,BEAD,sim,superficial,ok_janela_estrito,145
+discursivo,W0163::Macrorregião,BEAD,nao,falso_positivo,ok_janela_estrito,257
+discursivo,W0164::Cultura e informação,BEAD,sim,superficial,ok_janela_estrito,178
+discursivo,W0164::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,132
+discursivo,W0164::Saúde,BEAD,nao,falso_positivo,ok_janela_estrito,252
+discursivo,W0165::Educação,BEAD,sim,superficial,fora_da_janela,378
+discursivo,W0190::Cultura e informação,BEAD,sim,superficial,ok_janela_estrito,150
+discursivo,W0190::Domicílio e arranjo familiar,BEAD,sim,estrutural,corte_interno,451
+discursivo,W0192::Educação,BEAD,sim,superficial,ok_janela_estrito,162
+discursivo,W0193::Educação,BEAD,sim,superficial,ok_janela_estrito,293
+discursivo,W0193::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,93
+discursivo,W0194::Idade,BEAD,nao,falso_positivo,fora_da_janela,84
+discursivo,W0195::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,246
+discursivo,W0195::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,128
+discursivo,W0195::Macrorregião,BEAD,nao,falso_positivo,ok_janela_estrito,283
+discursivo,W0195::Saúde,BEAD,sim,superficial,ok_janela_estrito,286
+discursivo,W0196::Domicílio e arranjo familiar,BEAD,sim,superficial,ok_janela_estrito,96
+discursivo,W0196::Escolaridade e letramento,BEAD,nao,falso_positivo,ok_janela_estrito,251
+discursivo,W0196::Macrorregião,BEAD,sim,superficial,ok_janela_estrito,244
+discursivo,W0197::Educação,BEAD,sim,superficial,ok_janela_estrito,305
+discursivo,W0197::Macrorregião,BEAD,nao,falso_positivo,ok_janela_estrito,132
+discursivo,W0197::Saúde,BEAD,sim,superficial,ok_janela_estrito,70
+discursivo,W0196::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,254
+normativo,BEAD::1.2::IIJA Division F::1,BEAD,sim,superficial,ok_janela_estrito,134
+normativo,BEAD::1.2::IIJA Division F::2,BEAD,sim,superficial,ok_janela_estrito,213
+normativo,BEAD::1.2::IIJA Division F::3,BEAD,nao,falso_positivo,ok_janela_estrito,203
+normativo,BEAD::1.3::IIJA Division F::1,BEAD,sim,superficial,ok_janela_estrito,69
+normativo,BEAD::1.3::IIJA Division F::2,BEAD,sim,estrutural,ok_janela_estrito,216
+normativo,BEAD::1.3::IIJA Division F::3,BEAD,sim,superficial,corte_interno,124
+normativo,BEAD::1.3::IIJA Division F::4,BEAD,sim,estrutural,ok_janela_estrito,278
+normativo,BEAD::1.3::IIJA Division F::5,BEAD,sim,estrutural,ok_janela_estrito,320
+normativo,BEAD::1.3::IIJA Division F::6,BEAD,sim,estrutural,ok_janela_estrito,267
+normativo,BEAD::1.3::IIJA Division F::7,BEAD,sim,superficial,ok_janela_estrito,145
+normativo,BEAD::1.4::IIJA Division F::1,BEAD,sim,superficial,ok_janela_estrito,298
+normativo,BEAD::1.4::IIJA Division F::2,BEAD,sim,superficial,ok_janela_estrito,143
+normativo,BEAD::1.4::IIJA Division F::3,BEAD,sim,superficial,ok_janela_estrito,133
+normativo,BEAD::1.4::IIJA Division F::4,BEAD,sim,estrutural,ok_janela_estrito,244
+normativo,BEAD::2.1::IIJA Division F::1,BEAD,sim,estrutural,ok_janela_estrito,244
+normativo,BEAD::2.1::IIJA Division F::2,BEAD,sim,estrutural,ok_janela_estrito,225
+normativo,BEAD::2.1::IIJA Division F::3,BEAD,sim,superficial,ok_janela_estrito,200
+normativo,BEAD::2.2::IIJA Division F::1,BEAD,sim,superficial,ok_janela_estrito,93
+normativo,BEAD::2.2::IIJA Division F::2,BEAD,sim,superficial,ok_janela_estrito,187
+normativo,BEAD::2.2::IIJA Division F::3,BEAD,sim,superficial,ok_janela_estrito,215
+normativo,BEAD::2.2::IIJA Division F::4,BEAD,sim,estrutural,ok_janela_estrito,201
+normativo,BEAD::2.2::IIJA Division F::5,BEAD,sim,superficial,ok_janela_estrito,95
+normativo,BEAD::2.2::IIJA Division F::6,BEAD,sim,superficial,ok_janela_estrito,128
+normativo,BEAD::2.3::IIJA Division F::1,BEAD,sim,superficial,ok_janela_estrito,157
+normativo,BEAD::2.3::IIJA Division F::2,BEAD,sim,superficial,ok_janela_estrito,189
+normativo,BEAD::2.3::IIJA Division F::3,BEAD,sim,estrutural,ok_janela_estrito,84
+normativo,BEAD::2.3::IIJA Division F::4,BEAD,sim,estrutural,ok_janela_estrito,63
+normativo,BEAD::2.3::IIJA Division F::5,BEAD,sim,superficial,ok_janela_estrito,42
+normativo,BEAD::2.3::IIJA Division F::6,BEAD,nao,falso_positivo,ok_janela_estrito,148
+normativo,BEAD::2.3::IIJA Division F::7,BEAD,nao,falso_positivo,ok_janela_estrito,124
+normativo,BEAD::2.3::IIJA Division F::8,BEAD,nao,falso_positivo,ok_janela_estrito,218
+normativo,BEAD::2.4::IIJA Division F::1,BEAD,sim,superficial,ok_janela_estrito,238
+normativo,BEAD::2.4::IIJA Division F::2,BEAD,sim,superficial,ok_janela_estrito,153
+normativo,BEAD::2.4::IIJA Division F::4,BEAD,nao,falso_positivo,ok_janela_estrito,156
+normativo,BEAD::2.5::IIJA Division F::1,BEAD,sim,superficial,ok_janela_estrito,123
+normativo,BEAD::3.1::IIJA Division F::1,BEAD,sim,superficial,ok_janela_estrito,170
+normativo,BEAD::3.1::IIJA Division F::2,BEAD,sim,estrutural,ok_janela_estrito,184
+normativo,BEAD::3.1::IIJA Division F::3,BEAD,sim,superficial,ok_janela_estrito,53
+normativo,BEAD::3.1::IIJA Division F::4,BEAD,sim,superficial,ok_janela_estrito,144
+normativo,BEAD::3.1::IIJA Division F::5,BEAD,sim,superficial,ok_janela_estrito,223
+normativo,BEAD::3.1::IIJA Division F::6,BEAD,sim,superficial,ok_janela_estrito,100
+normativo,BEAD::3.1::IIJA Division F::7,BEAD,sim,estrutural,ok_janela_estrito,263
+normativo,BEAD::3.2::IIJA Division F::1,BEAD,sim,superficial,ok_janela_estrito,87
+normativo,BEAD::3.3::IIJA Division F::1,BEAD,sim,superficial,ok_janela_estrito,202
+normativo,BEAD::3.3::IIJA Division F::2,BEAD,sim,superficial,ok_janela_estrito,237
+normativo,BEAD::3.3::IIJA Division F::3,BEAD,sim,estrutural,ok_janela_estrito,184
+normativo,BEAD::3.3::IIJA Division F::4,BEAD,sim,superficial,ok_janela_estrito,115
+normativo,BEAD::3.3::IIJA Division F::5,BEAD,sim,superficial,ok_janela_estrito,154
+normativo,BEAD::3.3::IIJA Division F::6,BEAD,sim,estrutural,ok_janela_estrito,116
+normativo,BEAD::3.3::IIJA Division F::7,BEAD,sim,estrutural,ok_janela_estrito,158
+normativo,BEAD::3.3::IIJA Division F::8,BEAD,sim,estrutural,ok_janela_estrito,172
+normativo,BEAD::3.3::IIJA Division F::9,BEAD,sim,estrutural,ok_janela_estrito,292
+normativo,BEAD::3.3::IIJA Division F::10,BEAD,sim,estrutural,ok_janela_estrito,214
+normativo,BEAD::3.3::IIJA Division F::11,BEAD,sim,estrutural,ok_janela_estrito,196
+normativo,BEAD::3.3::IIJA Division F::12,BEAD,sim,superficial,ok_janela_estrito,250
+normativo,BEAD::3.3::IIJA Division F::13,BEAD,sim,estrutural,ok_janela_estrito,161
+normativo,BEAD::3.3::IIJA Division F::14,BEAD,sim,superficial,ok_janela_estrito,168
+normativo,BEAD::3.3::IIJA Division F::15,BEAD,sim,estrutural,ok_janela_estrito,269
+normativo,BEAD::3.3::IIJA Division F::16,BEAD,sim,estrutural,ok_janela_estrito,241
+normativo,BEAD::3.5::IIJA Division F::1,BEAD,sim,superficial,ok_janela_estrito,167
+normativo,BEAD::3.5::IIJA Division F::2,BEAD,sim,estrutural,ok_janela_estrito,216
+normativo,BEAD::3.5::IIJA Division F::3,BEAD,sim,superficial,ok_janela_estrito,95
+normativo,BEAD::3.5::IIJA Division F::4,BEAD,sim,estrutural,ok_janela_estrito,278
+normativo,BEAD::3.5::IIJA Division F::5,BEAD,sim,estrutural,ok_janela_estrito,320
+normativo,BEAD::3.5::IIJA Division F::6,BEAD,sim,estrutural,ok_janela_estrito,267
+normativo,BEAD::3.5::IIJA Division F::7,BEAD,sim,superficial,ok_janela_estrito,164
+normativo,BEAD::3.5::IIJA Division F::8,BEAD,sim,superficial,ok_janela_estrito,215
+normativo,BEAD::3.5::IIJA Division F::9,BEAD,sim,estrutural,ok_janela_estrito,124
+normativo,BEAD::3.5::IIJA Division F::10,BEAD,sim,estrutural,ok_janela_estrito,367
+normativo,BEAD::4.3::IIJA Division F::1,BEAD,sim,superficial,ok_janela_estrito,187
+normativo,BEAD::4.3::IIJA Division F::2,BEAD,sim,estrutural,ok_janela_estrito,257
+normativo,BEAD::4.3::IIJA Division F::3,BEAD,sim,estrutural,ok_janela_estrito,118
+normativo,BEAD::4.3::IIJA Division F::4,BEAD,sim,estrutural,ok_janela_estrito,116
+normativo,BEAD::4.3::IIJA Division F::5,BEAD,sim,estrutural,ok_janela_estrito,176
+normativo,BEAD::4.3::IIJA Division F::6,BEAD,sim,estrutural,ok_janela_estrito,196
+normativo,BEAD::4.3::IIJA Division F::7,BEAD,sim,estrutural,ok_janela_estrito,138
+normativo,BEAD::4.4::IIJA Division F::1,BEAD,sim,estrutural,ok_janela_estrito,219
+normativo,BEAD::4.4::IIJA Division F::2,BEAD,sim,estrutural,ok_janela_estrito,268
+normativo,BEAD::4.4::IIJA Division F::3,BEAD,sim,estrutural,ok_janela_estrito,227
+normativo,BEAD::4.4::IIJA Division F::4,BEAD,sim,superficial,ok_janela_estrito,245
+normativo,BEAD::2.1::IIJA SEC. 60102::1,BEAD,sim,estrutural,ok_janela_estrito,244
+normativo,BEAD::2.1::IIJA SEC. 60102::2,BEAD,sim,estrutural,ok_janela_estrito,225
+normativo,BEAD::2.3::IIJA SEC. 60102::1,BEAD,sim,superficial,ok_janela_estrito,157
+normativo,BEAD::2.4::IIJA SEC. 60102::1,BEAD,sim,superficial,ok_janela_estrito,153
+normativo,BEAD::2.4::IIJA SEC. 60102::3,BEAD,nao,falso_positivo,ok_janela_estrito,156
+normativo,BEAD::3.1::IIJA SEC. 60102::1,BEAD,sim,estrutural,ok_janela_estrito,184
+normativo,BEAD::3.3::IIJA SEC. 60102::1,BEAD,sim,superficial,ok_janela_estrito,202
+normativo,BEAD::3.3::IIJA SEC. 60102::2,BEAD,sim,superficial,ok_janela_estrito,237
+normativo,BEAD::3.3::IIJA SEC. 60102::3,BEAD,sim,estrutural,ok_janela_estrito,184
+normativo,BEAD::3.3::IIJA SEC. 60102::4,BEAD,sim,superficial,ok_janela_estrito,115
+normativo,BEAD::3.3::IIJA SEC. 60102::5,BEAD,sim,superficial,ok_janela_estrito,154
+normativo,BEAD::3.3::IIJA SEC. 60102::6,BEAD,sim,estrutural,ok_janela_estrito,116
+normativo,BEAD::3.3::IIJA SEC. 60102::7,BEAD,sim,estrutural,ok_janela_estrito,158
+normativo,BEAD::3.3::IIJA SEC. 60102::8,BEAD,sim,estrutural,ok_janela_estrito,172
+normativo,BEAD::3.3::IIJA SEC. 60102::9,BEAD,sim,estrutural,ok_janela_estrito,292
+normativo,BEAD::3.3::IIJA SEC. 60102::10,BEAD,sim,estrutural,ok_janela_estrito,214
+normativo,BEAD::3.3::IIJA SEC. 60102::11,BEAD,sim,estrutural,ok_janela_estrito,196
+normativo,BEAD::4.3::IIJA SEC. 60102::1,BEAD,sim,superficial,ok_janela_estrito,187
+normativo,BEAD::4.3::IIJA SEC. 60102::2,BEAD,sim,estrutural,ok_janela_estrito,257
+normativo,BEAD::4.3::IIJA SEC. 60102::3,BEAD,sim,estrutural,ok_janela_estrito,118
+normativo,BEAD::4.3::IIJA SEC. 60102::4,BEAD,sim,estrutural,ok_janela_estrito,116
+normativo,BEAD::4.3::IIJA SEC. 60102::5,BEAD,sim,estrutural,ok_janela_estrito,176
+normativo,BEAD::4.3::IIJA SEC. 60102::6,BEAD,sim,estrutural,ok_janela_estrito,196
+normativo,BEAD::4.3::IIJA SEC. 60102::7,BEAD,sim,estrutural,ok_janela_estrito,138
+normativo,BEAD::4.4::IIJA SEC. 60102::1,BEAD,sim,estrutural,ok_janela_estrito,219
+normativo,BEAD::4.4::IIJA SEC. 60102::2,BEAD,sim,estrutural,ok_janela_estrito,268
+normativo,BEAD::4.4::IIJA SEC. 60102::3,BEAD,sim,estrutural,ok_janela_estrito,227
+normativo,"FUST::1.4::Lei 9.472/1997, arts. 79-81::1",FUST,sim,estrutural,ok_janela_estrito,222
+normativo,"FUST::3.1::Lei 9.472/1997, arts. 79-81::1",FUST,sim,estrutural,ok_janela_estrito,222
+normativo,FUST::1.4::Lei 9.998/2000::1,FUST,sim,estrutural,ok_janela_estrito,208
+normativo,FUST::2.1::Lei 9.998/2000::1,FUST,sim,estrutural,ok_janela_estrito,151
+normativo,FUST::2.4::Lei 9.998/2000::1,FUST,nao,falso_positivo,ok_janela_estrito,108
+normativo,FUST::3.1::Lei 9.998/2000::1,FUST,sim,estrutural,ok_janela_estrito,37
+normativo,FUST::3.3::Lei 9.998/2000::1,FUST,sim,estrutural,ok_janela_estrito,58
+normativo,FUST::4.1::Lei 9.998/2000::1,FUST,sim,estrutural,ok_janela_estrito,139
+normativo,FUST::4.2::Lei 9.998/2000::1,FUST,sim,estrutural,ok_janela_estrito,186
+normativo,FUST::4.3::Lei 9.998/2000::1,FUST,sim,estrutural,ok_janela_estrito,209
+normativo,FUST::4.4::Lei 9.998/2000::1,FUST,sim,estrutural,ok_janela_estrito,224
+normativo,BEAD::1.2::IIJA Digital Equity Act::1,BEAD,sim,superficial,ok_janela_estrito,134
+normativo,BEAD::1.2::IIJA Digital Equity Act::2,BEAD,sim,superficial,ok_janela_estrito,213
+normativo,BEAD::1.3::IIJA Digital Equity Act::1,BEAD,sim,superficial,ok_janela_estrito,69
+normativo,BEAD::1.3::IIJA Digital Equity Act::2,BEAD,sim,estrutural,ok_janela_estrito,216
+normativo,BEAD::1.3::IIJA Digital Equity Act::3,BEAD,sim,superficial,corte_interno,124
+normativo,BEAD::1.3::IIJA Digital Equity Act::4,BEAD,sim,estrutural,ok_janela_estrito,278
+normativo,BEAD::1.3::IIJA Digital Equity Act::5,BEAD,sim,estrutural,ok_janela_estrito,320
+normativo,BEAD::1.3::IIJA Digital Equity Act::6,BEAD,sim,estrutural,ok_janela_estrito,267
+normativo,BEAD::1.4::IIJA Digital Equity Act::1,BEAD,sim,superficial,ok_janela_estrito,298
+normativo,BEAD::1.4::IIJA Digital Equity Act::2,BEAD,sim,superficial,ok_janela_estrito,143
+normativo,BEAD::1.4::IIJA Digital Equity Act::3,BEAD,sim,superficial,ok_janela_estrito,133
+normativo,BEAD::1.4::IIJA Digital Equity Act::4,BEAD,sim,estrutural,ok_janela_estrito,244
+normativo,BEAD::2.1::IIJA Digital Equity Act::1,BEAD,sim,superficial,ok_janela_estrito,200
+normativo,BEAD::2.2::IIJA Digital Equity Act::1,BEAD,sim,superficial,ok_janela_estrito,93
+normativo,BEAD::2.2::IIJA Digital Equity Act::2,BEAD,sim,superficial,ok_janela_estrito,187
+normativo,BEAD::2.2::IIJA Digital Equity Act::3,BEAD,sim,superficial,ok_janela_estrito,215
+normativo,BEAD::2.2::IIJA Digital Equity Act::4,BEAD,sim,estrutural,ok_janela_estrito,201
+normativo,BEAD::2.2::IIJA Digital Equity Act::5,BEAD,sim,superficial,ok_janela_estrito,95
+normativo,BEAD::2.2::IIJA Digital Equity Act::6,BEAD,sim,superficial,ok_janela_estrito,128
+normativo,BEAD::2.3::IIJA Digital Equity Act::1,BEAD,sim,superficial,ok_janela_estrito,189
+normativo,BEAD::2.3::IIJA Digital Equity Act::2,BEAD,sim,estrutural,ok_janela_estrito,84
+normativo,BEAD::2.3::IIJA Digital Equity Act::3,BEAD,sim,estrutural,ok_janela_estrito,63
+normativo,BEAD::2.3::IIJA Digital Equity Act::4,BEAD,sim,superficial,ok_janela_estrito,42
+normativo,BEAD::2.5::IIJA Digital Equity Act::1,BEAD,sim,superficial,ok_janela_estrito,123
+normativo,BEAD::3.1::IIJA Digital Equity Act::1,BEAD,sim,superficial,ok_janela_estrito,53
+normativo,BEAD::3.1::IIJA Digital Equity Act::2,BEAD,sim,superficial,ok_janela_estrito,144
+normativo,BEAD::3.2::IIJA Digital Equity Act::1,BEAD,sim,superficial,ok_janela_estrito,144
+normativo,BEAD::3.2::IIJA Digital Equity Act::2,BEAD,sim,estrutural,corte_interno,256
+normativo,BEAD::3.5::IIJA Digital Equity Act::1,BEAD,sim,superficial,ok_janela_estrito,167
+normativo,BEAD::3.5::IIJA Digital Equity Act::2,BEAD,sim,estrutural,ok_janela_estrito,216
+normativo,BEAD::3.5::IIJA Digital Equity Act::3,BEAD,sim,superficial,ok_janela_estrito,95
+normativo,BEAD::3.5::IIJA Digital Equity Act::4,BEAD,sim,estrutural,ok_janela_estrito,278
+normativo,BEAD::3.5::IIJA Digital Equity Act::5,BEAD,sim,estrutural,ok_janela_estrito,320
+normativo,BEAD::3.5::IIJA Digital Equity Act::6,BEAD,sim,estrutural,ok_janela_estrito,267
+normativo,BEAD::4.3::IIJA Digital Equity Act::1,BEAD,sim,superficial,ok_janela_estrito,276
+normativo,BEAD::4.4::IIJA Digital Equity Act::1,BEAD,sim,superficial,ok_janela_estrito,245
+normativo,BEAD::1.1::IIJA Digital Equity Act::1,BEAD,sim,superficial,ok_janela_estrito,162
+normativo,BEAD::1.1::IIJA Digital Equity Act::2,BEAD,sim,superficial,ok_janela_estrito,135
+normativo,BEAD::1.1::IIJA Digital Equity Act::3,BEAD,sim,superficial,ok_janela_estrito,157
+normativo,BEAD::2.4::IIJA Digital Equity Act::1,BEAD,sim,superficial,ok_janela_estrito,281
+normativo,BEAD::2.4::IIJA Digital Equity Act::2,BEAD,nao,falso_positivo,ok_janela_estrito,76
+normativo,BEAD::2.5::IIJA Digital Equity Act::2,BEAD,sim,superficial,ok_janela_estrito,108
+normativo,BEAD::2.5::IIJA Digital Equity Act::3,BEAD,nao,falso_positivo,ok_janela_estrito,257
+normativo,BEAD::2.5::IIJA Digital Equity Act::4,BEAD,sim,superficial,ok_janela_estrito,322
+normativo,BEAD::2.5::IIJA Digital Equity Act::5,BEAD,nao,falso_positivo,ok_janela_estrito,257
+normativo,BEAD::2.5::IIJA Digital Equity Act::6,BEAD,nao,falso_positivo,ok_janela_estrito,310
+normativo,BEAD::3.2::IIJA Digital Equity Act::3,BEAD,sim,estrutural,ok_janela_estrito,366
+normativo,BEAD::3.2::IIJA Digital Equity Act::4,BEAD,sim,estrutural,ok_janela_estrito,350
+normativo,BEAD::4.1::IIJA Digital Equity Act::1,BEAD,sim,superficial,ok_janela_estrito,345
+normativo,BEAD::4.1::IIJA Digital Equity Act::2,BEAD,sim,estrutural,ok_janela_estrito,256
+normativo,BEAD::4.1::IIJA Digital Equity Act::3,BEAD,sim,estrutural,ok_janela_estrito,118
+normativo,BEAD::4.3::IIJA Digital Equity Act::2,BEAD,nao,falso_positivo,ok_janela_estrito,100
+normativo,BEAD::4.3::IIJA Digital Equity Act::3,BEAD,sim,estrutural,ok_janela_estrito,86
+normativo,BEAD::4.3::IIJA Digital Equity Act::4,BEAD,sim,superficial,ok_janela_estrito,141
+normativo,BEAD::4.3::IIJA Digital Equity Act::5,BEAD,sim,estrutural,ok_janela_estrito,35
+normativo,BEAD::4.3::IIJA Digital Equity Act::6,BEAD,sim,estrutural,ok_janela_estrito,156
+normativo,BEAD::4.3::IIJA Digital Equity Act::7,BEAD,nao,falso_positivo,ok_janela_estrito,100
+normativo,BEAD::1.1::IIJA Division F::1,BEAD,sim,superficial,ok_janela_estrito,162
+normativo,BEAD::1.1::IIJA Division F::2,BEAD,sim,superficial,ok_janela_estrito,135
+normativo,BEAD::1.1::IIJA Division F::3,BEAD,sim,superficial,ok_janela_estrito,157
+normativo,BEAD::2.4::IIJA Division F::3,BEAD,sim,estrutural,ok_janela_estrito,369
+normativo,BEAD::2.4::IIJA Division F::5,BEAD,sim,superficial,ok_janela_estrito,281
+normativo,BEAD::2.4::IIJA Division F::6,BEAD,nao,falso_positivo,ok_janela_estrito,76
+normativo,BEAD::2.4::IIJA Division F::7,BEAD,sim,superficial,ok_janela_estrito,146
+normativo,BEAD::2.4::IIJA Division F::8,BEAD,sim,estrutural,corte_interno,290
+normativo,BEAD::2.4::IIJA Division F::9,BEAD,sim,estrutural,ok_janela_estrito,213
+normativo,BEAD::2.4::IIJA Division F::10,BEAD,sim,estrutural,ok_janela_estrito,221
+normativo,BEAD::2.4::IIJA Division F::11,BEAD,sim,estrutural,costurada_real,199
+normativo,BEAD::2.5::IIJA Division F::2,BEAD,sim,superficial,ok_janela_estrito,108
+normativo,BEAD::2.5::IIJA Division F::3,BEAD,nao,falso_positivo,ok_janela_estrito,257
+normativo,BEAD::2.5::IIJA Division F::4,BEAD,sim,superficial,ok_janela_estrito,322
+normativo,BEAD::2.5::IIJA Division F::5,BEAD,nao,falso_positivo,ok_janela_estrito,257
+normativo,BEAD::2.5::IIJA Division F::6,BEAD,nao,falso_positivo,ok_janela_estrito,310
+normativo,BEAD::3.2::IIJA Division F::2,BEAD,sim,estrutural,ok_janela_estrito,295
+normativo,BEAD::3.2::IIJA Division F::3,BEAD,sim,superficial,ok_janela_estrito,144
+normativo,BEAD::3.2::IIJA Division F::4,BEAD,sim,estrutural,costurada_real,335
+normativo,BEAD::3.2::IIJA Division F::5,BEAD,sim,estrutural,ok_janela_estrito,366
+normativo,BEAD::3.2::IIJA Division F::6,BEAD,sim,estrutural,ok_janela_estrito,350
+normativo,BEAD::3.2::IIJA Division F::7,BEAD,nao,falso_positivo,ok_janela_estrito,128
+normativo,BEAD::3.5::IIJA Division F::11,BEAD,sim,estrutural,costurada_real,357
+normativo,BEAD::3.5::IIJA Division F::12,BEAD,sim,superficial,ok_janela_estrito,112
+normativo,BEAD::4.1::IIJA Division F::1,BEAD,sim,superficial,ok_janela_estrito,378
+normativo,BEAD::4.1::IIJA Division F::2,BEAD,sim,superficial,ok_janela_estrito,345
+normativo,BEAD::4.1::IIJA Division F::3,BEAD,sim,estrutural,ok_janela_estrito,256
+normativo,BEAD::4.1::IIJA Division F::4,BEAD,sim,estrutural,ok_janela_estrito,118
+normativo,BEAD::4.1::IIJA Division F::5,BEAD,sim,superficial,ok_janela_estrito,223
+normativo,BEAD::4.1::IIJA Division F::6,BEAD,sim,superficial,costurada_real,323
+normativo,BEAD::4.2::IIJA Division F::1,BEAD,sim,superficial,ok_janela_estrito,378
+normativo,BEAD::4.2::IIJA Division F::2,BEAD,sim,superficial,ok_janela_estrito,164
+normativo,BEAD::4.3::IIJA Division F::8,BEAD,nao,falso_positivo,ok_janela_estrito,331
+normativo,BEAD::4.3::IIJA Division F::9,BEAD,sim,superficial,ok_janela_estrito,345
+normativo,BEAD::4.3::IIJA Division F::10,BEAD,nao,falso_positivo,ok_janela_estrito,146
+normativo,BEAD::4.3::IIJA Division F::11,BEAD,sim,estrutural,ok_janela_estrito,86
+normativo,BEAD::4.3::IIJA Division F::12,BEAD,sim,superficial,ok_janela_estrito,141
+normativo,BEAD::4.3::IIJA Division F::13,BEAD,sim,estrutural,ok_janela_estrito,35
+normativo,BEAD::4.3::IIJA Division F::14,BEAD,sim,estrutural,ok_janela_estrito,156
+normativo,BEAD::4.3::IIJA Division F::15,BEAD,nao,falso_positivo,ok_janela_estrito,100
+normativo,BEAD::4.3::IIJA Division F::16,BEAD,sim,superficial,ok_janela_estrito,223
+normativo,BEAD::2.4::IIJA SEC. 60102::2,BEAD,sim,estrutural,ok_janela_estrito,369
+normativo,BEAD::3.2::IIJA SEC. 60102::1,BEAD,sim,estrutural,ok_janela_estrito,295
+normativo,BEAD::4.1::IIJA SEC. 60102::1,BEAD,sim,superficial,ok_janela_estrito,378
+normativo,BEAD::4.2::IIJA SEC. 60102::1,BEAD,sim,superficial,ok_janela_estrito,378
+normativo,BEAD::4.2::IIJA SEC. 60102::2,BEAD,sim,superficial,ok_janela_estrito,164

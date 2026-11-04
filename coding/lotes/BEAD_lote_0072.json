@@ -1,0 +1,968 @@
+{
+ "caso": "BEAD",
+ "lote": 72,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0341::Macrorregião",
+   "unit_id": "W0341",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Steve Newton",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Puerto Rico",
+     "forma_encontrada": "Puerto Rico",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Puerto Rico",
+     "forma_encontrada": "Puerto Rico",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1774,
+     "fim_corpo": 2624,
+     "trecho": "We depend on communications pathways from Government-to-Government, Government-to-Public, and Public-to-Public. When any of these pathways fail, there are consequences. In many cases, the ability to communicate may help us prevent a disaster from becoming a catastrophe. Widespread and sustained inoperability of cellular networks, land mobile radio systems, and 911 call routing create an exceptionally difficult operating environment in which incident commanders and responders aren’t aware of changing conditions, can’t adequately plan and request resources, can’t effectively direct response activities, alert the public, or protect its front-line personnel. Over the last 32 years, I have participated in the response to twenty-one federally declared disasters, in North Carolina, Louisiana, South Carolina, Puerto Rico, and Hawaii."
+    },
+    {
+     "inicio_corpo": 3258,
+     "fim_corpo": 4013,
+     "trecho": "Newton before the U.S. House Committee on Energy and Commerce Subcommittee on Communications & Technology Page 4 facilities, power distribution, and other infrastructure. A telephone tandem located in New Orleans flooded, resulting in many 911 calls failing to be connected for more than a week in the region. After the second week calls were routed to PSAPs and temporary call centers over 10- digit administrative numbers, but without location information. Two 911 Centers in Louisiana were offline for more than 30 days. Requests for life saving resources had to be driven 68 miles away to the Louisiana State Emergency Operations Center (EOC) in Baton Rouge. In 2017 I responded to the Commonwealth of Puerto Rico after Hurricane María."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0341::Saúde",
+   "unit_id": "W0341",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Steve Newton",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2447,
+     "fim_corpo": 3258,
+     "trecho": "Over the last 32 years, I have participated in the response to twenty-one federally declared disasters, in North Carolina, Louisiana, South Carolina, Puerto Rico, and Hawaii. Most recently I responded to Hurricane Helene in western North Carolina, and directed the response to Hurricane Chantal in my own jurisdiction. Of those disasters, three stand out for their impact to public safety communications. In 2005 I deployed to Saint Tammany Parish, Louisiana, after Hurricane Katrina. Wind, torrential rain, flooding, and storm surge resulted in loss of life, damage to homes, damage to public safety answering points (9-1-1 Centers), emergency response facilities (police/fire/EMS stations/hospitals), public works yards, communications towers, wired and cellular telephone Testimony of Steven K."
+    },
+    {
+     "inicio_corpo": 5942,
+     "fim_corpo": 6843,
+     "trecho": "• The cadre of communications professionals mobilized from across the State to restore essential equipment and links at PSAP’s, EOC’s, Shelters, and other emergency facilities. Some of our challenges include: • Widespread cell service interruption, across all carriers, occurring simultaneously due to landslides, flooding, or trees damaging primary fiber lines shared by multiple carriers. • After 7 days, 22.2% of cell sites were offline overall, down from 74%. But within the harder hit jurisdictions like Yancey and Mitchell Counties, they still had 77% and 90% of their cell sites down, respectively. To my knowledge, these sites are not equipped with an alternative data transport circuits (i.e., satellite, microwave, disparate fiber paths, etc.). • The use of temporary deployables to reestablish cell service to PSAPs, EOCs, hospitals, and other critical facilities was crucial."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0342::Domicílio e arranjo familiar",
+   "unit_id": "W0342",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Drew Garner",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12519,
+     "fim_corpo": 13259,
+     "trecho": "BEAD is the best and potentially last chance many communities will have for fiber, so those that miss out will fall behind as innovative technologies demand increasing amounts of bandwidth. Affordability Separate from shifts in technology, the restructured BEAD Program no longer addresses the primary cause of the digital divide—Americans’ inability to afford internet service. 15 16 17 18 In BEAD’s original form, ISPs competed for awards by committing to offer the most affordable service, and winning ISPs would provide a plan specifically tailored for low-income households."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0342::Infraestrutura e porte populacional",
+   "unit_id": "W0342",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Drew Garner",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3097,
+     "fim_corpo": 4002,
+     "trecho": "Many suggestions to expedite permitting were met with support—expanding staff capacity, ensuring predictable turnaround times, developing best practices, increasing standardization, promoting transparency, creating online portals, improving data utilization, and coordinating services to locate underground utilities. These solutions, however, are not free. The time, people, and tools to safely expedite permitting come with a cost. Fortunately, BEAD has the ability to address this issue. Congress designed BEAD to holistically address the digital divide. That means more than simply running wires and building towers. Yes, BEAD will prioritize the deployment of networks to connect every unserved location in the country."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0342::Macrorregião",
+   "unit_id": "W0342",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Drew Garner",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6486,
+     "fim_corpo": 7415,
+     "trecho": "2022 BEAD Allocations”Advanced Communications Law & Policy Institute (August 14, 2025) https://broadbandexpanded.com/posts/botblocations In June, the National Telecommunications and Information Administration (NTIA) hit the reset button. In its BEAD Restructuring Notice,6 NTIA required states to rerun their bidding processes using new rules that prioritized cost-cutting over internet service quality and affordability. States were given three months to comply (a timeline that has since proven unworkable for many7) and ISPs had just weeks to revise and resubmit applications, an expensive process that led a sizable number to drop out.8 For example, Arkansas saw a 25% reduction in applicants, and, in Minnesota, dropped applications left twenty thousand locations with no bids.9 BEAD Post-Restructuring As of today, all 56 states and territories have discarded their original BEAD plans."
+    },
+    {
+     "inicio_corpo": 7723,
+     "fim_corpo": 8729,
+     "trecho": "While, on average, fiber remains the dominant technology, the variance between states is substantial, with some achieving over 90% fiber and others under 10% (these numbers are likely to drop as NTIA takes additional steps to cut fiber even further). This shift away from fiber is troubling for three reasons: 9 Sohn, Gigi “From Crumbs to Connections: Minnesota’s Broadband Future” (September 10, 2025) https://www.benton.org/blog/crumbs-connections-minnesota%E2%80%99s-broadband-future 8 Marx, Cameron. “29% of Minnesota Locations Received No Bids For BEAD” (August 5, 2025) https://broadbandbreakfast.com/29-of-minnesota-locations-received-no-bids-for-bead/ Marx, Cameron. “Arkansas Experiences 25% Decline in Applicants for BEAD Funding.”(August 5, 2025) https://broadbandbreakfast.com/arkansas-experiences-25-decline-in-applicants-for-bead-funding/ 7 36 out of 56 states and territories failed to meet the September 4th 2025 deadline, per NTIA’s dashboard [viewed September 15th, 2025]."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0342::Posição no trabalho",
+   "unit_id": "W0342",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Drew Garner",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 16126,
+     "fim_corpo": 17017,
+     "trecho": "That guidance has still not been produced. BEAD: Looking Forward NTIA is poised to restructure BEAD yet again. In the coming weeks, the agency will begin forcing states to rebid projects that exceed certain cost thresholds. This change would shift many additional locations to satellite and, for a second time, invalidate ISP applications. Further, NTIA appears inclined to claw back non-deployment funds—even though the Infrastructure Investment and Jobs Act does not allow for that. Clawing back these funds would cut state BEAD budgets by, on average, over $350 million, gutting the potential for permitting improvements or other initiatives for telehealth, workforce development, and broadband adoption."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0342::Renda e classe",
+   "unit_id": "W0342",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Drew Garner",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12519,
+     "fim_corpo": 13259,
+     "trecho": "BEAD is the best and potentially last chance many communities will have for fiber, so those that miss out will fall behind as innovative technologies demand increasing amounts of bandwidth. Affordability Separate from shifts in technology, the restructured BEAD Program no longer addresses the primary cause of the digital divide—Americans’ inability to afford internet service. 15 16 17 18 In BEAD’s original form, ISPs competed for awards by committing to offer the most affordable service, and winning ISPs would provide a plan specifically tailored for low-income households."
+    },
+    {
+     "inicio_corpo": 12769,
+     "fim_corpo": 13595,
+     "trecho": "Affordability Separate from shifts in technology, the restructured BEAD Program no longer addresses the primary cause of the digital divide—Americans’ inability to afford internet service. 15 16 17 18 In BEAD’s original form, ISPs competed for awards by committing to offer the most affordable service, and winning ISPs would provide a plan specifically tailored for low-income households. These provisions, which would help Americans afford the networks their tax dollars built, were eliminated in BEAD’s restructuring. Now, some low-income Americans will end up paying $80/month, if not more, for service that previously would have cost $30/month."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0342::Saúde",
+   "unit_id": "W0342",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Drew Garner",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 16126,
+     "fim_corpo": 17017,
+     "trecho": "That guidance has still not been produced. BEAD: Looking Forward NTIA is poised to restructure BEAD yet again. In the coming weeks, the agency will begin forcing states to rebid projects that exceed certain cost thresholds. This change would shift many additional locations to satellite and, for a second time, invalidate ISP applications. Further, NTIA appears inclined to claw back non-deployment funds—even though the Infrastructure Investment and Jobs Act does not allow for that. Clawing back these funds would cut state BEAD budgets by, on average, over $350 million, gutting the potential for permitting improvements or other initiatives for telehealth, workforce development, and broadband adoption."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0342::Urbano e rural",
+   "unit_id": "W0342",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Drew Garner",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1474,
+     "fim_corpo": 2278,
+     "trecho": "And with that service, enable prosperity. 1 The Benton Institute for Broadband & Society (Benton), a non-profit, operating foundation. These comments reflect the institutional view of the Benton Institute for Broadband & Society, and, unless obvious from the text, is not intended to reflect the views of its individual officers, directors, or advisors. BEAD’s historic investment will drive historic levels of broadband construction. And this will put enormous pressure on federal, state, and local permitting authorities. This is especially true in rural areas, where municipal capacity is typically low and BEAD activity will be high."
+    },
+    {
+     "inicio_corpo": 10138,
+     "fim_corpo": 11235,
+     "trecho": "LEO networks lack these qualities because their core infrastructure is in space, and satellites require regular replacement. 3. Fiber drives economic growth and AI; LEO networks do not. Communities with fiber are more likely to experience economic growth, entrepreneurship, 13 and increased property values 14 compared to communities served by different technologies. And only 14 Sanyal, Paroma, Coleman Bazelon, Yong Paek, and Dan Beemon. “Economic Benefits of Fiber Deployment” The Brattle Group (November 20, 2024) https://www.brattle.com/wp-content/uploads/2024/11/Economic-Benefits-of-Fiber-Deployment.pdf 13 Weinstein, Amanda, May Erouart, and Adam Dewbury. “Beyond Connectivity: The Role of Broadband in Rural Economic Growth and Resilience” Center for Rural Innovation (September 30, 2024) https://ruralinnovation.us/resources/reports/report-the-role-of-broadband-in-rural-economic-growth-and-resilience/ 12 Marek, Sue."
+    },
+    {
+     "inicio_corpo": 10297,
+     "fim_corpo": 11235,
+     "trecho": "3. Fiber drives economic growth and AI; LEO networks do not. Communities with fiber are more likely to experience economic growth, entrepreneurship, 13 and increased property values 14 compared to communities served by different technologies. And only 14 Sanyal, Paroma, Coleman Bazelon, Yong Paek, and Dan Beemon. “Economic Benefits of Fiber Deployment” The Brattle Group (November 20, 2024) https://www.brattle.com/wp-content/uploads/2024/11/Economic-Benefits-of-Fiber-Deployment.pdf 13 Weinstein, Amanda, May Erouart, and Adam Dewbury. “Beyond Connectivity: The Role of Broadband in Rural Economic Growth and Resilience” Center for Rural Innovation (September 30, 2024) https://ruralinnovation.us/resources/reports/report-the-role-of-broadband-in-rural-economic-growth-and-resilience/ 12 Marek, Sue."
+    },
+    {
+     "inicio_corpo": 10297,
+     "fim_corpo": 11235,
+     "trecho": "3. Fiber drives economic growth and AI; LEO networks do not. Communities with fiber are more likely to experience economic growth, entrepreneurship, 13 and increased property values 14 compared to communities served by different technologies. And only 14 Sanyal, Paroma, Coleman Bazelon, Yong Paek, and Dan Beemon. “Economic Benefits of Fiber Deployment” The Brattle Group (November 20, 2024) https://www.brattle.com/wp-content/uploads/2024/11/Economic-Benefits-of-Fiber-Deployment.pdf 13 Weinstein, Amanda, May Erouart, and Adam Dewbury. “Beyond Connectivity: The Role of Broadband in Rural Economic Growth and Resilience” Center for Rural Innovation (September 30, 2024) https://ruralinnovation.us/resources/reports/report-the-role-of-broadband-in-rural-economic-growth-and-resilience/ 12 Marek, Sue."
+    },
+    {
+     "inicio_corpo": 10297,
+     "fim_corpo": 11235,
+     "trecho": "3. Fiber drives economic growth and AI; LEO networks do not. Communities with fiber are more likely to experience economic growth, entrepreneurship, 13 and increased property values 14 compared to communities served by different technologies. And only 14 Sanyal, Paroma, Coleman Bazelon, Yong Paek, and Dan Beemon. “Economic Benefits of Fiber Deployment” The Brattle Group (November 20, 2024) https://www.brattle.com/wp-content/uploads/2024/11/Economic-Benefits-of-Fiber-Deployment.pdf 13 Weinstein, Amanda, May Erouart, and Adam Dewbury. “Beyond Connectivity: The Role of Broadband in Rural Economic Growth and Resilience” Center for Rural Innovation (September 30, 2024) https://ruralinnovation.us/resources/reports/report-the-role-of-broadband-in-rural-economic-growth-and-resilience/ 12 Marek, Sue."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0343::Escolaridade e letramento",
+   "unit_id": "W0343",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Spalter",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "student",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 908,
+     "fim_corpo": 1848,
+     "trecho": "At key turning points in the growth and evolution of this nation, each generation understood: when infrastructure is strategic, when competitiveness is on the line, government must clear the path. We meant business then. We must mean business now in today’s complex and connected world. Broadband permi�ng may not be the most aten�on-grabbing issue. But it is no exaggera�on to say that it impacts every corner of America today – everything from America’s leadership of the AI revolu�on to our ability to compete with global rivals, led by China, who are saliva�ng at the thought of American bureaucracy gumming up the wheels of progress and pu�ng U.S. 3 leadership in jeopardy. And, the stakes ripple all the way out to your cons�tuents back home, and to the commitment we have made as a country to connect everyone, from the farmer in North Carolina to the student in rural California, and everywhere in between."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0343::Posição no trabalho",
+   "unit_id": "W0343",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Spalter",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11128,
+     "fim_corpo": 12194,
+     "trecho": "Already we are seeing the beginnings of this progress. NTIA’s Broadband Permitting Council, for example, has done a tremendous job identifying and recommending categorical exclusions for previously analyzed rights-of-way. We can’t stop there. This is a call to practicality. Common sense. Growth. Real-world outcomes over process. At its heart, our shared effort to put in place smart permitting reforms is about whether America will lead or lag. Our global competitors — led by China — are not waiting. Neither can we. For our part, the nation’s broadband providers are ready to go. Our fiber spools are forward deployed in warehouses and on fields across the country. Our trenchers, our engineers and technicians, our fiber splicers and linemen, our broadband workforce are all geared up. Let’s get them moving. And Congress can make that happen by helping to clear the path. Thank you for your leadership on these issues, and please, as always, consider USTelecom and our members as a resource and a partner as you continue your important work."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0343::Urbano e rural",
+   "unit_id": "W0343",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Spalter",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 908,
+     "fim_corpo": 1848,
+     "trecho": "At key turning points in the growth and evolution of this nation, each generation understood: when infrastructure is strategic, when competitiveness is on the line, government must clear the path. We meant business then. We must mean business now in today’s complex and connected world. Broadband permi�ng may not be the most aten�on-grabbing issue. But it is no exaggera�on to say that it impacts every corner of America today – everything from America’s leadership of the AI revolu�on to our ability to compete with global rivals, led by China, who are saliva�ng at the thought of American bureaucracy gumming up the wheels of progress and pu�ng U.S. 3 leadership in jeopardy. And, the stakes ripple all the way out to your cons�tuents back home, and to the commitment we have made as a country to connect everyone, from the farmer in North Carolina to the student in rural California, and everywhere in between."
+    },
+    {
+     "inicio_corpo": 3780,
+     "fim_corpo": 4758,
+     "trecho": "• Take Kansas, where broadband builders were forced to halt work for months because a railroad insisted on a permit that was not necessary and threatened legal ac�on unless the provider paid tens of thousands in fees, hired unnecessary ﬂag personnel, and agreed to annual renewals. A�er 60 days of delay and moun�ng costs, the provider ﬁnally had to bore 15 feet under the tracks just to move forward. A vital broadband project was slowed for months — not by technology, not by funding, but by outdated permi�ng prac�ces on railroad rights-of-way. And, the roadblocks are hardly limited to federal red tape. State and local requirements can also be counterproduc�ve. 5 • The running joke in Minnesota is that there are two seasons: winter and construc�on. Because of the short construc�on season, even brief delays can set projects back an en�re year. One rural broadband build has been forced to wait more than six months just for a soil tes�ng permit."
+    },
+    {
+     "inicio_corpo": 4068,
+     "fim_corpo": 4970,
+     "trecho": "A�er 60 days of delay and moun�ng costs, the provider ﬁnally had to bore 15 feet under the tracks just to move forward. A vital broadband project was slowed for months — not by technology, not by funding, but by outdated permi�ng prac�ces on railroad rights-of-way. And, the roadblocks are hardly limited to federal red tape. State and local requirements can also be counterproduc�ve. 5 • The running joke in Minnesota is that there are two seasons: winter and construc�on. Because of the short construc�on season, even brief delays can set projects back an en�re year. One rural broadband build has been forced to wait more than six months just for a soil tes�ng permit. By the �me overlapping federal and state reviews are complete, the project will have been delayed nearly two years — leaving en�re rural communi�es without service while costs mounted and contractors sat idle."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0344::Administração pública",
+   "unit_id": "W0344",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Patrick Halley",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "local government",
+     "forma_encontrada": "local government",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "local government",
+     "forma_encontrada": "local government",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "Local Governments",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "Local Governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3242,
+     "fim_corpo": 4091,
+     "trecho": "Whether it is via a macro tower, a small cell, on a rooftop, or inside a building, the full potential of that spectrum depends on access to wireless infrastructure. At the local level, this can mean the difference between having coverage sufficient to provide access to life -saving connectivity and enough capacity to take advantage of the full 3 capabilities of advanced 5G and 6G networks. On the global stage, it is the difference between winning the AI race or sitting on the sidelines. WIA seeks a national wireless infrastructure permitting framework that is predictable, proportionate, and transparent for all . Such a framework respects the important role of local governments in infrastructure siting—in fact , the local government role is essential for the sustainability of the wireless infrastructure ecosystem."
+    },
+    {
+     "inicio_corpo": 3409,
+     "fim_corpo": 4187,
+     "trecho": "At the local level, this can mean the difference between having coverage sufficient to provide access to life -saving connectivity and enough capacity to take advantage of the full 3 capabilities of advanced 5G and 6G networks. On the global stage, it is the difference between winning the AI race or sitting on the sidelines. WIA seeks a national wireless infrastructure permitting framework that is predictable, proportionate, and transparent for all . Such a framework respects the important role of local governments in infrastructure siting—in fact , the local government role is essential for the sustainability of the wireless infrastructure ecosystem. We welcome, and in most communities we have, an effective partnership with local governments."
+    },
+    {
+     "inicio_corpo": 12157,
+     "fim_corpo": 13073,
+     "trecho": "The true utility of these tools, unleashing innovations like smart manufacturing and farming, autonomous vehicles, and robust automation, will all be dependent on ubiquitous and reliable wireless connections. As a former National Security Council Director for Emerging Technologies recently put it , “…information gathered on edge devices will be the battleground on which the AI race is won or lost.” 5 Simply put, t o continue to advance connectivity across the country, meet consumer demand, maintain our competitive edge in 5G, and lead on 6G and AI, America must build high- speed wireless infrastructure. II. Congress Can Ensure a Consistent, National Wireless Permitting Framework. WIA seeks a national wireless infrastructure permitting framework that is predictable, proportionate, and transparent. Such a framework respects the important role of local governments in infrastructure siting."
+    },
+    {
+     "inicio_corpo": 13407,
+     "fim_corpo": 14614,
+     "trecho": "STUDIES (Apr. 3, 2025), https://www.csis.org/analysis/missing-link-ai- stack-why-digital-infrastructure-essential-us-leadership. 8 businesses and families. As landowners, partnerships with industry bring in much needed revenue. And, just like the wireless industry, they want to bring innovation and a high quality of life to their communities. WIA and its members share this vision. A. Bipartisan Efforts: The Strong Foundation for Streamlined Wireless Infrastructure. Congressional action, aided by sensible implementation at the Federal Communications Commission (FCC), has been effective in reducing barriers to deployment. 6 The fastest , most efficient, and least impactful way to deploy wireless networks is by colocating on existing facilities. Congress recognized this, leading it to enact section 6409 of the 2012 Spectrum Act , providing that “a State or local government may not deny, and shall approve, any eligible facilities request for a modification of an existing wireless tower or base station that does not substantially change the physical dimensions of such tower or base station.” 7 This provision jumpstarted the deployment of modern wireless networks."
+    },
+    {
+     "inicio_corpo": 14614,
+     "fim_corpo": 15720,
+     "trecho": "The FCC’s subsequent bipartisan orders interpreting this statute have led to significantly more efficient siting of facilities that do not substantially alter the physical environment. These interpretations began under the Obama Administration and Chairman Wheeler, specifying a 60- day “shot clock” for colocations after which the application would be deemed granted. 8 Most 6 See, e.g., Middle Class Tax Relief and Job Creation Act of 2012, Pub. L. 112-96 at Sec. 6409, codified at 47 U.S.C. § 1455(a); Implementation of State and Local Governments' Obligation to Approve Certain Wireless Facility Modification Requests Under Section 6409(a) of the Spectrum Act of 2012, Declaratory Ruling, 35 FCC Rcd 5977 (2020) [“5G Upgrade Order”]; Accelerating Wireless Broadband Deployment by Removing Barriers to Infrastructure Investment, Declaratory Ruling and Third Report and Order, 30 FCC Rcd 9088 (2018) [ “Small Cell Order”]; Accelerating Wireless Broadband Deployment by Improving Wireless Facilities Siting Policies , Report and Order, 29 FCC Rcd 12865 (2014) [“2014 Infrastructure Order”]."
+    },
+    {
+     "inicio_corpo": 16922,
+     "fim_corpo": 17871,
+     "trecho": "The FCC did this by making use of the tools Congress provided in s ections 253 and 332 of the Communications Act to promote 5G infrastructure. Relatedly, the FCC used the statutory provisions of s ection 253(a) to ban siting moratoria while still respecting the role of local governments. Data shows that such reforms were effective, with siting activity in the two years following the FCC’s order exceeding the previous seven years combined—an explosive trend that has continued through today. 11 authority fails to issue a decision within 60 days (subject to any tolling, as described above) on an application submitted pursuant to Section 6409(a).”). 9 Implementation of State and Local Governments' Obligation to Approve Certain Wireless Facility Modification Requests Under Section 6409(a) of the Spectrum Act of 2012, Declaratory Ruling, 35 FCC Rcd 5977 (June 10, 2020) (“5G Upgrade Order”) (aff’d, League of CA Cities, et al."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0344::Domicílio e arranjo familiar",
+   "unit_id": "W0344",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Patrick Halley",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7988,
+     "fim_corpo": 8951,
+     "trecho": "The demand for data on wireless networks is steadily increasing for both mobile and fixed wireless access. Last year marked the third straight year of 35 percent growth in mobile data usage—reaching 132 exabytes. The total number of U.S. wireless connections reached 579 million, or 1.7 connections per American. Nearly half of those connections, 259 million devices, are now 5G-enabled.2 The 5G evolution has also enabled innovations in home broadband. Fixed Wireless Access (FWA) delivered over 5G networks has emerged as the fastest-growing alternative to traditional fixed broadband. With more than 13 million home internet customers now using 5G FWA, in addition to the efforts of traditional wireless internet service providers (WISPs), wireless providers have brought millions of new broadband connections—and choice—to U.S. households, many of which were previously underserved or entirely unserved by traditional broadband providers."
+    },
+    {
+     "inicio_corpo": 12778,
+     "fim_corpo": 13572,
+     "trecho": "II. Congress Can Ensure a Consistent, National Wireless Permitting Framework. WIA seeks a national wireless infrastructure permitting framework that is predictable, proportionate, and transparent. Such a framework respects the important role of local governments in infrastructure siting. States and communities understand the critical nature of wireless service and wireless infrastructure. They use it to deliver government services and to meet the needs of 5 Navin Girishankar and Matt Pearl, The Missing Link in the AI Stack: Why Digital Infrastructure Is Essential to U.S. Leadership, CTR. FOR STRAT. & INT’L. STUDIES (Apr. 3, 2025), https://www.csis.org/analysis/missing-link-ai- stack-why-digital-infrastructure-essential-us-leadership. 8 businesses and families."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0344::Educação",
+   "unit_id": "W0344",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Patrick Halley",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9269,
+     "fim_corpo": 10213,
+     "trecho": "6 market share.3 For consumers, this fight is a win, delivering more value and greater flexibility than ever before. This is even more important in rural areas, as one of the most compelling aspects of 5G FWA is its ability to deliver fast, reliable broadband without the need for physical fiber or cable infrastructure all the way to the home. This makes it an ideal solution in areas where laying last-mile fiber is cost-prohibitive, or where the only existing option is copper-based DSL. For too long, many consumers in rural, suburban, and even some urban areas, have had little or no choice when it came to internet service. With the rise of 5G FWA, that dynamic is changing. In addition to home broadband services, more businesses are turning to wireless for their enterprise indoor connectivity needs—from manufacturing floors to stadiums , hospitals, hotels, and school campuses, to shipping ports and airports."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0344::Gênero",
+   "unit_id": "W0344",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Patrick Halley",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5597,
+     "fim_corpo": 6530,
+     "trecho": "And, while these networks seem magical —they are not magic. They require the right mix of spectrum and infrastructure, access to capital (including federal support in uneconomic areas), and a highly skilled and well-trained workforce to get the job done. A. Wireless Networks Underpin Modern American Life. On its own, the wireless industry contributes significantly to the U .S. economy through investments and job creation. In 2024, wireless infrastructure investments —including construction, maintenance, and operations—amounted to more than $63 billion. By the end of 2024, 368,750 full -time workers or equivalents were engaged in building, maintaining, and operating the nation’s cellular networks, supporting 5G and LTE, indoor and outdoor coverage and private network deployments. These women and men—from the tower techs to engineers— helped to build, maintain, and operate nearly 155,000 cell towers."
+    },
+    {
+     "inicio_corpo": 24870,
+     "fim_corpo": 25939,
+     "trecho": "As Chairman Carr has previously testified, creating the deployment mechanism without streamlining permitting “is like stepping on the gas and brakes at the same time.” 18 This sentiment was shared by former President Biden’s Deputy Secretary of Commerce Don Graves , who highlighted “permitting, permitting, permitting” as one of the main issues preventing broadband deployment.19 18 The Fiscal Year 2025 Federal Communications Commission Agency Budget ¸ Testimony of Brendan Carr, Commissioner, FCC, SUBCOMM. ON COMM’NCS. AND TECH (Jul. 9, 2024), https://docs.fcc.gov/public/attachments/DOC-404046A1.pdf. 19 Don Graves, Deputy Secretary of Commerce, https://ustelecom.org/american -connectivity-forum/ (40:03). 13 III. Congress Should be Proactive in Enabling the Infrastructure Workforce. Finally, we must also recognize the men and women working across the country to build and operate broadband networks and continue to focus our efforts on developing the workforce capable of meeting the broadband deployment needs of today and tomorrow."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0344::Infraestrutura e porte populacional",
+   "unit_id": "W0344",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Patrick Halley",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "last mile",
+     "forma_encontrada": "last-mile",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7988,
+     "fim_corpo": 8951,
+     "trecho": "The demand for data on wireless networks is steadily increasing for both mobile and fixed wireless access. Last year marked the third straight year of 35 percent growth in mobile data usage—reaching 132 exabytes. The total number of U.S. wireless connections reached 579 million, or 1.7 connections per American. Nearly half of those connections, 259 million devices, are now 5G-enabled.2 The 5G evolution has also enabled innovations in home broadband. Fixed Wireless Access (FWA) delivered over 5G networks has emerged as the fastest-growing alternative to traditional fixed broadband. With more than 13 million home internet customers now using 5G FWA, in addition to the efforts of traditional wireless internet service providers (WISPs), wireless providers have brought millions of new broadband connections—and choice—to U.S. households, many of which were previously underserved or entirely unserved by traditional broadband providers."
+    },
+    {
+     "inicio_corpo": 8098,
+     "fim_corpo": 8951,
+     "trecho": "Last year marked the third straight year of 35 percent growth in mobile data usage—reaching 132 exabytes. The total number of U.S. wireless connections reached 579 million, or 1.7 connections per American. Nearly half of those connections, 259 million devices, are now 5G-enabled.2 The 5G evolution has also enabled innovations in home broadband. Fixed Wireless Access (FWA) delivered over 5G networks has emerged as the fastest-growing alternative to traditional fixed broadband. With more than 13 million home internet customers now using 5G FWA, in addition to the efforts of traditional wireless internet service providers (WISPs), wireless providers have brought millions of new broadband connections—and choice—to U.S. households, many of which were previously underserved or entirely unserved by traditional broadband providers."
+    },
+    {
+     "inicio_corpo": 8839,
+     "fim_corpo": 9776,
+     "trecho": "households, many of which were previously underserved or entirely unserved by traditional broadband providers. As the Wall Street Journal recently reported, this increased rivalry is resulting in more aggressive pricing, better service offerings, and new promotions as wireless and cable operators compete for 2 2025 Annual Survey Highlights, CTIA (Sept. 8, 2025), https://www.ctia.org/news/2025-annual-survey-highlights. 6 market share.3 For consumers, this fight is a win, delivering more value and greater flexibility than ever before. This is even more important in rural areas, as one of the most compelling aspects of 5G FWA is its ability to deliver fast, reliable broadband without the need for physical fiber or cable infrastructure all the way to the home. This makes it an ideal solution in areas where laying last-mile fiber is cost-prohibitive, or where the only existing option is copper-based DSL."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0344::Posição no trabalho",
+   "unit_id": "W0344",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Patrick Halley",
+   "n_ocorrencias_no_par": 13,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 7,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "Workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "Workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5051,
+     "fim_corpo": 5857,
+     "trecho": "The legislation being considered by the S ubcommittee today would codify those prior bipartisan actions and strengthen the rules of the road. WIA urges this Subcommittee and Congress to finish the job. 4 I. Evolving Wireless Networks are Reshaping America. Whether for daily life, work, or in emergencies, the ability to connect instantly is invaluable—and often assumed. This connectivity supports every aspect of the American economy, from manufacturing to agriculture, healthcare, transportation, education, and beyond. And, while these networks seem magical —they are not magic. They require the right mix of spectrum and infrastructure, access to capital (including federal support in uneconomic areas), and a highly skilled and well-trained workforce to get the job done."
+    },
+    {
+     "inicio_corpo": 5327,
+     "fim_corpo": 6407,
+     "trecho": "Whether for daily life, work, or in emergencies, the ability to connect instantly is invaluable—and often assumed. This connectivity supports every aspect of the American economy, from manufacturing to agriculture, healthcare, transportation, education, and beyond. And, while these networks seem magical —they are not magic. They require the right mix of spectrum and infrastructure, access to capital (including federal support in uneconomic areas), and a highly skilled and well-trained workforce to get the job done. A. Wireless Networks Underpin Modern American Life. On its own, the wireless industry contributes significantly to the U .S. economy through investments and job creation. In 2024, wireless infrastructure investments —including construction, maintenance, and operations—amounted to more than $63 billion. By the end of 2024, 368,750 full -time workers or equivalents were engaged in building, maintaining, and operating the nation’s cellular networks, supporting 5G and LTE, indoor and outdoor coverage and private network deployments."
+    },
+    {
+     "inicio_corpo": 19224,
+     "fim_corpo": 20148,
+     "trecho": "Notwithstanding the agency’s orders being affirmed on appeal,14 continued efforts to skirt the bounds of FCC rules now matched with broader changes to administrative law emphasize the need for Congressional action. With the landmark decision in Loper Bright, which removed the standard of deference courts must provide agency interpretations, the impetus to legislate is now back with Congress. 15 Indeed, the legislative package before the Subcommittee today is a unique opportunity to meet this moment in a post-Chevron landscape. The blueprint for 12 See A Build Agenda for America, Remarks of FCC Chairman Brendan Carr (Jul. 2, 2025), https://docs.fcc.gov/public/attachments/DOC-412663A1.pdf (outlining the focus of the Build America Agenda to include accelerating high-speed infrastructure builds, restoring America’s leadership in wireless, and strengthening America’s telecom workforce, among others)."
+    },
+    {
+     "inicio_corpo": 24870,
+     "fim_corpo": 25684,
+     "trecho": "As Chairman Carr has previously testified, creating the deployment mechanism without streamlining permitting “is like stepping on the gas and brakes at the same time.” 18 This sentiment was shared by former President Biden’s Deputy Secretary of Commerce Don Graves , who highlighted “permitting, permitting, permitting” as one of the main issues preventing broadband deployment.19 18 The Fiscal Year 2025 Federal Communications Commission Agency Budget ¸ Testimony of Brendan Carr, Commissioner, FCC, SUBCOMM. ON COMM’NCS. AND TECH (Jul. 9, 2024), https://docs.fcc.gov/public/attachments/DOC-404046A1.pdf. 19 Don Graves, Deputy Secretary of Commerce, https://ustelecom.org/american -connectivity-forum/ (40:03). 13 III. Congress Should be Proactive in Enabling the Infrastructure Workforce."
+    },
+    {
+     "inicio_corpo": 25390,
+     "fim_corpo": 25939,
+     "trecho": "ON COMM’NCS. AND TECH (Jul. 9, 2024), https://docs.fcc.gov/public/attachments/DOC-404046A1.pdf. 19 Don Graves, Deputy Secretary of Commerce, https://ustelecom.org/american -connectivity-forum/ (40:03). 13 III. Congress Should be Proactive in Enabling the Infrastructure Workforce. Finally, we must also recognize the men and women working across the country to build and operate broadband networks and continue to focus our efforts on developing the workforce capable of meeting the broadband deployment needs of today and tomorrow."
+    },
+    {
+     "inicio_corpo": 25390,
+     "fim_corpo": 26153,
+     "trecho": "ON COMM’NCS. AND TECH (Jul. 9, 2024), https://docs.fcc.gov/public/attachments/DOC-404046A1.pdf. 19 Don Graves, Deputy Secretary of Commerce, https://ustelecom.org/american -connectivity-forum/ (40:03). 13 III. Congress Should be Proactive in Enabling the Infrastructure Workforce. Finally, we must also recognize the men and women working across the country to build and operate broadband networks and continue to focus our efforts on developing the workforce capable of meeting the broadband deployment needs of today and tomorrow. WIA is a national leader in workforce development for the wireless and broadband industry, and we appreciate the efforts Congress and the Administration have taken to make resources available for this purpose."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0344::Saúde",
+   "unit_id": "W0344",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Patrick Halley",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6170,
+     "fim_corpo": 7169,
+     "trecho": "By the end of 2024, 368,750 full -time workers or equivalents were engaged in building, maintaining, and operating the nation’s cellular networks, supporting 5G and LTE, indoor and outdoor coverage and private network deployments. These women and men—from the tower techs to engineers— helped to build, maintain, and operate nearly 155,000 cell towers. 1 That hard work translates into real life. Imagine you are about to hit “send” on a text to a friend—or maybe you are sending a prompt on your mobile de vice to your preferred AI service. Your smartphone takes your message or request and turns it into radio waves. If you’re outside, those radio waves fly through the open air until they’re caught by the antennas on the nearest cell tower. If you’re indoors—say at an office building, or maybe a stadium or hospital , in-building 1 WIA, Wireless Infrastructure By the Numbers; 2024 Key Statistics (May 7, 2025), https://wia.org/wireless- infrastructure-by-the-numbers-2024/."
+    },
+    {
+     "inicio_corpo": 9269,
+     "fim_corpo": 10213,
+     "trecho": "6 market share.3 For consumers, this fight is a win, delivering more value and greater flexibility than ever before. This is even more important in rural areas, as one of the most compelling aspects of 5G FWA is its ability to deliver fast, reliable broadband without the need for physical fiber or cable infrastructure all the way to the home. This makes it an ideal solution in areas where laying last-mile fiber is cost-prohibitive, or where the only existing option is copper-based DSL. For too long, many consumers in rural, suburban, and even some urban areas, have had little or no choice when it came to internet service. With the rise of 5G FWA, that dynamic is changing. In addition to home broadband services, more businesses are turning to wireless for their enterprise indoor connectivity needs—from manufacturing floors to stadiums , hospitals, hotels, and school campuses, to shipping ports and airports."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0344::Urbano e rural",
+   "unit_id": "W0344",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Patrick Halley",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1295,
+     "fim_corpo": 2065,
+     "trecho": "Wireless connectivity is at the core of every sector of our technology-driven economy. That is why it is so important that the United States is, and that we remain, the global leader in wireless. 2 I am here today first to share the good news of the American wireless success story. Where we are getting our spectrum and infrastructure policies right, it is working. Wireless carriers and their infrastructure partners are investing billions annually to close coverage gaps and increase capacity. Mobile broadband speeds are up, prices are down, enterprises are increasingly turning to advanced private wireless connectivity, and it is fixed wireless broadband service that is leading the charge to close the digital divide in rural communities."
+    },
+    {
+     "inicio_corpo": 8592,
+     "fim_corpo": 9628,
+     "trecho": "With more than 13 million home internet customers now using 5G FWA, in addition to the efforts of traditional wireless internet service providers (WISPs), wireless providers have brought millions of new broadband connections—and choice—to U.S. households, many of which were previously underserved or entirely unserved by traditional broadband providers. As the Wall Street Journal recently reported, this increased rivalry is resulting in more aggressive pricing, better service offerings, and new promotions as wireless and cable operators compete for 2 2025 Annual Survey Highlights, CTIA (Sept. 8, 2025), https://www.ctia.org/news/2025-annual-survey-highlights. 6 market share.3 For consumers, this fight is a win, delivering more value and greater flexibility than ever before. This is even more important in rural areas, as one of the most compelling aspects of 5G FWA is its ability to deliver fast, reliable broadband without the need for physical fiber or cable infrastructure all the way to the home."
+    },
+    {
+     "inicio_corpo": 8951,
+     "fim_corpo": 9918,
+     "trecho": "As the Wall Street Journal recently reported, this increased rivalry is resulting in more aggressive pricing, better service offerings, and new promotions as wireless and cable operators compete for 2 2025 Annual Survey Highlights, CTIA (Sept. 8, 2025), https://www.ctia.org/news/2025-annual-survey-highlights. 6 market share.3 For consumers, this fight is a win, delivering more value and greater flexibility than ever before. This is even more important in rural areas, as one of the most compelling aspects of 5G FWA is its ability to deliver fast, reliable broadband without the need for physical fiber or cable infrastructure all the way to the home. This makes it an ideal solution in areas where laying last-mile fiber is cost-prohibitive, or where the only existing option is copper-based DSL. For too long, many consumers in rural, suburban, and even some urban areas, have had little or no choice when it came to internet service."
+    },
+    {
+     "inicio_corpo": 10213,
+     "fim_corpo": 10934,
+     "trecho": "In-building, small cells, and private wireless networks are being deployed across industries for consistent coverage and secure connections, and this connectivity is driving innovation in automation and robotics, patient monitoring, public and employee safety, and customer experience. Analysts estimate more than 40,000 private 4G and 5G networks will be in operation globally by 2030 (a 500 percent increase) with 80 percent of active deployments being private 5G. 4 B. Wireless Networks: Powering America’s AI Future So how do we win this global tech race? We start by looking right in our own back yard and making sure each American community—rural, urban , and suburban—has rock solid connectivity."
+    },
+    {
+     "inicio_corpo": 22828,
+     "fim_corpo": 23658,
+     "trecho": "16 Unfortunately, this process has still not been fully implemented , with the Government Accountability Office (GAO) reporting that less than half of communications use applications on B ureau of Land Management lands were being approved within that timeline , while over forty percent did not have sufficiently accurate and complete information to determine whether they met the deadline. 17 As we continue to push 16 Consolidated Appropriations Act 2018, Pub. L. No. 115-141, Division P [Mobile Now Act]. 17 Broadband Deployment: Agencies Should Take Steps to Better Meet Deadline for Processing Permits , GAO-24- 106157 (Apr. 2024), https://www.gao.gov/assets/gao-24-106157.pdf. 12 networks further out across rural America, timely access to siting on federal lands, particularly in the west, is essential."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,867 @@
+{
+ "caso": "BEAD",
+ "lote": 60,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0275::Posição no trabalho",
+   "unit_id": "W0275",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Kristian Toivo",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2230,
+     "fim_corpo": 3112,
+     "trecho": "Our testing activities are lab-agnostic, managed within TIP Project Groups and governed by TIP’s Test & Validation Committee and Board. We also facilitate knowledge sharing between testing facilitators in order to reduce duplication of efforts and facilitate validation and deployment solutions more quickly among the ecosystem. The State of Open RAN and the Importance of the Wireless Innovation Fund Based on decades of experience in this industry, I think the establishment of NTIA’s Wireless Innovation Fund is a profound investment in network infrastructure that is poised to pay dividends for generations to come. The Fund has the capability to accelerate the development and adoption of open, interoperable, and standards-based networks to drive wireless innovation, foster competition, upskill the engineering workforce, and strengthen supply chain resilience."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0276::Domicílio e arranjo familiar",
+   "unit_id": "W0276",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Brian Lawlor",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 922,
+     "fim_corpo": 1707,
+     "trecho": "We also have local TV stations in Bakersfield, Boise, Salt Lake City and Waco. From the company’s inception 145 years ago, Scripps has always believed strongly in our duty to serve communities, most notably with our quality, objective local journalism. Since 1923, Scripps’s news operations have followed a simple, but powerful credo to guide our army of local journalists around the country: “Give light and the people will find their own way.” Today, our local broadcast stations and national networks together reach nearly every American household – with 62 local TV stations in 43 markets, serving 71 million monthly viewers – and seven national networks including news outlets Court TV and Scripps News, and entertainment brands ION, Bounce, Grit, Laff and ION Mystery."
+    },
+    {
+     "inicio_corpo": 4137,
+     "fim_corpo": 4869,
+     "trecho": "• Scripps Sports also has the rights to the NCAA’s Big Sky Conference, making available college football and basketball games that would normally not be distributed on broadcast TV in the markets throughout Montana, Utah, Idaho and others. The power of the over-the-air broadcast platform is never more obvious than during the annual University of Montana versus Montana State football game, which airs on Scripps local TV stations through our five markets in Montana. Across the state, the lowest rating in any market was a 31 household rating, meaning that 31 percent of all the TV households in the Bozeman Montana TV market watched that football game on broadcast TV – and all the other Montana markets exceeded that."
+    },
+    {
+     "inicio_corpo": 4137,
+     "fim_corpo": 4869,
+     "trecho": "• Scripps Sports also has the rights to the NCAA’s Big Sky Conference, making available college football and basketball games that would normally not be distributed on broadcast TV in the markets throughout Montana, Utah, Idaho and others. The power of the over-the-air broadcast platform is never more obvious than during the annual University of Montana versus Montana State football game, which airs on Scripps local TV stations through our five markets in Montana. Across the state, the lowest rating in any market was a 31 household rating, meaning that 31 percent of all the TV households in the Bozeman Montana TV market watched that football game on broadcast TV – and all the other Montana markets exceeded that."
+    },
+    {
+     "inicio_corpo": 5341,
+     "fim_corpo": 6071,
+     "trecho": "This has made it difficult for fans to watch in many cases – either through difficulty finding the games or the expense or logistical 5 challenges of the streaming option. Sports that used to be available to all are now sometimes aired by platforms without connections to local communities, and fans who can’t pay get locked out. This all comes at the detriment of local sports, whose frustrated fanbases are unable to watch their teams compete. Our goal is to serve fans, and we can only do so if broadcast stations are part of the equation. More than 20 percent of Scripps households now receive our stations through cable-replacement services known as virtual Multichannel Video Programming Distributors (vMVPDs)."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0276::Gênero",
+   "unit_id": "W0276",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Brian Lawlor",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "Women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1707,
+     "fim_corpo": 2758,
+     "trecho": "American viewers can find all of our brands over the air for free, and on numerous cable, satellite, digital, and streaming platforms. Building on our rich history in local broadcasting and wide reach, in December 2022, Scripps launched a standalone sports division, Scripps Sports. Scripps Sports uses our local markets and national broadcast networks to provide professional and 3 college sports teams, leagues and conferences the ability to reach their fans more directly and more broadly. During this first year of Scripps Sports, the people have found their way to our free, over-the-air local and national sports offerings. In just twelve short months, we have achieved a series of notable successes for sports fans and viewers around the country, with a particular focus on advancing and growing women’s sports: • In a landmark deal with the WNBA last year, we responded to the exploding interest in women’s basketball, becoming that league’s first partner to create a national franchise night each week of the WNBA season."
+    },
+    {
+     "inicio_corpo": 1843,
+     "fim_corpo": 2758,
+     "trecho": "Building on our rich history in local broadcasting and wide reach, in December 2022, Scripps launched a standalone sports division, Scripps Sports. Scripps Sports uses our local markets and national broadcast networks to provide professional and 3 college sports teams, leagues and conferences the ability to reach their fans more directly and more broadly. During this first year of Scripps Sports, the people have found their way to our free, over-the-air local and national sports offerings. In just twelve short months, we have achieved a series of notable successes for sports fans and viewers around the country, with a particular focus on advancing and growing women’s sports: • In a landmark deal with the WNBA last year, we responded to the exploding interest in women’s basketball, becoming that league’s first partner to create a national franchise night each week of the WNBA season."
+    },
+    {
+     "inicio_corpo": 2352,
+     "fim_corpo": 3336,
+     "trecho": "In just twelve short months, we have achieved a series of notable successes for sports fans and viewers around the country, with a particular focus on advancing and growing women’s sports: • In a landmark deal with the WNBA last year, we responded to the exploding interest in women’s basketball, becoming that league’s first partner to create a national franchise night each week of the WNBA season. This move has created “appointment viewing” fans, much like that which already exists for many men’s sports. Last year, we broadcast 44 national and regional WNBA games on our ION network, which is available free, over the air to viewers. This year, we will add a national studio show to showcase the league and its amazing athletes similar to how the NBA or NFL are presented on other networks. • We entered into an agreement with the National Women’s Soccer League (NWSL) that features a weekly, nationally available doubleheader every Saturday night of the season."
+    },
+    {
+     "inicio_corpo": 2758,
+     "fim_corpo": 3548,
+     "trecho": "This move has created “appointment viewing” fans, much like that which already exists for many men’s sports. Last year, we broadcast 44 national and regional WNBA games on our ION network, which is available free, over the air to viewers. This year, we will add a national studio show to showcase the league and its amazing athletes similar to how the NBA or NFL are presented on other networks. • We entered into an agreement with the National Women’s Soccer League (NWSL) that features a weekly, nationally available doubleheader every Saturday night of the season. Over the course of the season, Scripps Sports will be televising 50 women’s soccer matches nationally on ION, significantly increasing the profile and reach of professional women’s soccer in the United States."
+    },
+    {
+     "inicio_corpo": 2758,
+     "fim_corpo": 3548,
+     "trecho": "This move has created “appointment viewing” fans, much like that which already exists for many men’s sports. Last year, we broadcast 44 national and regional WNBA games on our ION network, which is available free, over the air to viewers. This year, we will add a national studio show to showcase the league and its amazing athletes similar to how the NBA or NFL are presented on other networks. • We entered into an agreement with the National Women’s Soccer League (NWSL) that features a weekly, nationally available doubleheader every Saturday night of the season. Over the course of the season, Scripps Sports will be televising 50 women’s soccer matches nationally on ION, significantly increasing the profile and reach of professional women’s soccer in the United States."
+    },
+    {
+     "inicio_corpo": 6386,
+     "fim_corpo": 7297,
+     "trecho": "The most important genres for linear television – sports and live news – are on broadcast TV. Americans appreciate being able to get this programming on their local stations, especially those offered for free over the air. No platform has been able to duplicate broadcasters’ ability to bring local news and sports to the local viewer and with little or no cost. Sports and news bind communities together, not just for those who can afford it. At Scripps, we want to see the broadcast marketplace continue to grow, and we’re helping to lead this trend. Our strategy with Scripps Sports is two-fold. First, we want to use ION, the number-five-rated broadcast network in the U.S., to establish a national home for sports deserving increased visibility. One of the biggest problems for many sports, especially women’s sports, has historically been that fans don’t know when or where to find the games."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0278::Educação",
+   "unit_id": "W0278",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. John Ourand",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 304,
+     "fim_corpo": 1234,
+     "trecho": "Faced with falling subscriber bases, traditional media companies have become much more judicious about where they want to invest their money. Deep-pocketed digital companies have remained disciplined about how much they want to pay for sports rights. The result has seen the most popular sports command the biggest pay increases for their media rights. The NFL nearly doubled its rights fee haul when it signed its most recent rights deals nearly three years ago. The NBA currently is negotiating its next deal, and by all accounts that league is poised to see a big increase. But other leagues and conferences have found it difficult to negotiate such lucrative deals. Take the Pac-12, for example. Located on the West Coast, it’s one of the most storied college conferences in the country, nicknamed the Conference of Champions because its schools have won more NCAA championships than any other college conference."
+    },
+    {
+     "inicio_corpo": 558,
+     "fim_corpo": 1484,
+     "trecho": "The result has seen the most popular sports command the biggest pay increases for their media rights. The NFL nearly doubled its rights fee haul when it signed its most recent rights deals nearly three years ago. The NBA currently is negotiating its next deal, and by all accounts that league is poised to see a big increase. But other leagues and conferences have found it difficult to negotiate such lucrative deals. Take the Pac-12, for example. Located on the West Coast, it’s one of the most storied college conferences in the country, nicknamed the Conference of Champions because its schools have won more NCAA championships than any other college conference. The Pac-12 was unable to work out a television deal last summer, and the conference that boasts Cal, Washington, Arizona, UCLA and USC imploded. The schools decided to bolt to other conferences that had TV deals rather than stick with the Pac-12."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0279::Domicílio e arranjo familiar",
+   "unit_id": "W0279",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Rob Thun",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9329,
+     "fim_corpo": 10091,
+     "trecho": "Not all of these subscribers can receive these same games if carried by broadcasters. First, and contrary to what broadcasters will tell you, not everybody can receive over-the-air broadcast signals. Tens of millions of people live too far from a broadcast tower to receive such signals. This, indeed, is why cable operators built the first cable systems in the 1950s.5 Many more live in areas in which they can only receive broadcast signals with expensive rooftop antennas. And yet more don’t own over-the- air antennas of any kind. 5 Some may remember years of fights between satellite carriers and broadcasters about the provision of so-called “distant signals” to “unserved households” that could not receive local signals over the air."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0279::Infraestrutura e porte populacional",
+   "unit_id": "W0279",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Rob Thun",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9329,
+     "fim_corpo": 10091,
+     "trecho": "Not all of these subscribers can receive these same games if carried by broadcasters. First, and contrary to what broadcasters will tell you, not everybody can receive over-the-air broadcast signals. Tens of millions of people live too far from a broadcast tower to receive such signals. This, indeed, is why cable operators built the first cable systems in the 1950s.5 Many more live in areas in which they can only receive broadcast signals with expensive rooftop antennas. And yet more don’t own over-the- air antennas of any kind. 5 Some may remember years of fights between satellite carriers and broadcasters about the provision of so-called “distant signals” to “unserved households” that could not receive local signals over the air."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0279::Macrorregião",
+   "unit_id": "W0279",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Rob Thun",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8357,
+     "fim_corpo": 9329,
+     "trecho": "II. The Shift from RSNs to Broadcasting Will Harm Many Viewers. Some of you might be inclined to think that the shift from RSNs to over-the-air broadcasters is a good thing. This is certainly the broadcasters’ story. After all, what could be better for consumers than “free” over-the-air distribution of sports? Yet there is no free lunch and there never has been. Broadcast distribution of sports programming doesn’t mean “everybody gets sports for free.” To the contrary, it means that many people who now get local sports won’t be able to do so. And it means that many who do not want to pay for local sports will have to do so as part of their pay-TV “entry-level” programming packages. A. Many People Will Lose Sports Programming. Today, any DIRECTV subscriber subscribing to an appropriate programming package and located within an RSN’s “territory”—that is, the area in which a team authorizes the RSN to carry its games—can receive the RSN."
+    },
+    {
+     "inicio_corpo": 9533,
+     "fim_corpo": 10463,
+     "trecho": "Tens of millions of people live too far from a broadcast tower to receive such signals. This, indeed, is why cable operators built the first cable systems in the 1950s.5 Many more live in areas in which they can only receive broadcast signals with expensive rooftop antennas. And yet more don’t own over-the- air antennas of any kind. 5 Some may remember years of fights between satellite carriers and broadcasters about the provision of so-called “distant signals” to “unserved households” that could not receive local signals over the air. 6 Second, broadcast carriage will not extend to all areas served by an RSN. To explain why, please see the map below depicting what would happen if rights to the Washington Capitals migrated entirely from Monumental Sports Network to stations owned by Sinclair.6 The red part of the map shows Monumental Sports Network “territory” for the Capitals today."
+    },
+    {
+     "inicio_corpo": 9622,
+     "fim_corpo": 10625,
+     "trecho": "This, indeed, is why cable operators built the first cable systems in the 1950s.5 Many more live in areas in which they can only receive broadcast signals with expensive rooftop antennas. And yet more don’t own over-the- air antennas of any kind. 5 Some may remember years of fights between satellite carriers and broadcasters about the provision of so-called “distant signals” to “unserved households” that could not receive local signals over the air. 6 Second, broadcast carriage will not extend to all areas served by an RSN. To explain why, please see the map below depicting what would happen if rights to the Washington Capitals migrated entirely from Monumental Sports Network to stations owned by Sinclair.6 The red part of the map shows Monumental Sports Network “territory” for the Capitals today. Every DIRECTV and cable subscriber in that territory can get Monumental Sports today, so everybody in that territory can watch Capitals games if they want to."
+    },
+    {
+     "inicio_corpo": 9814,
+     "fim_corpo": 10625,
+     "trecho": "And yet more don’t own over-the- air antennas of any kind. 5 Some may remember years of fights between satellite carriers and broadcasters about the provision of so-called “distant signals” to “unserved households” that could not receive local signals over the air. 6 Second, broadcast carriage will not extend to all areas served by an RSN. To explain why, please see the map below depicting what would happen if rights to the Washington Capitals migrated entirely from Monumental Sports Network to stations owned by Sinclair.6 The red part of the map shows Monumental Sports Network “territory” for the Capitals today. Every DIRECTV and cable subscriber in that territory can get Monumental Sports today, so everybody in that territory can watch Capitals games if they want to."
+    },
+    {
+     "inicio_corpo": 10091,
+     "fim_corpo": 10960,
+     "trecho": "6 Second, broadcast carriage will not extend to all areas served by an RSN. To explain why, please see the map below depicting what would happen if rights to the Washington Capitals migrated entirely from Monumental Sports Network to stations owned by Sinclair.6 The red part of the map shows Monumental Sports Network “territory” for the Capitals today. Every DIRECTV and cable subscriber in that territory can get Monumental Sports today, so everybody in that territory can watch Capitals games if they want to. 6 This is merely a hypothetical involving a team with which many on the subcommittee might be familiar; I am aware of no such proposed migration. 7 The borders within the map show television markets. They show that many different television stations serve that same territory—some owned by Sinclair, some not."
+    },
+    {
+     "inicio_corpo": 10625,
+     "fim_corpo": 11534,
+     "trecho": "6 This is merely a hypothetical involving a team with which many on the subcommittee might be familiar; I am aware of no such proposed migration. 7 The borders within the map show television markets. They show that many different television stations serve that same territory—some owned by Sinclair, some not. If Sinclair acquired rights to the Capitals from Monumental, non-Sinclair stations would have no ability to distribute Capitals games unless Sinclair were to decide to “sublicense” its Capitals rights to these other stations’ owners (if its deal with the NHL allowed it to). Unless and until that were to happen, people living in those areas couldn’t watch Capitals games over the air. Likewise, some of the television stations depicted on the map have service areas7 that are only partially within the Capitals territory assigned to Monumental Sports by the NHL."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0280::Saúde",
+   "unit_id": "W0280",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Lindsay Gorman",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4544,
+     "fim_corpo": 5383,
+     "trecho": "2 Applications in healthcare, smart cities, connected vehicles are already springing up and have the potential to drive massive value creation, but also to introduce equally large cybersecurity risks. As Commerce Secretary Raimundo pointedly outlined, electric vehicles are “collecting a huge amount of information about the driver, the location of the vehicle, the surroundings of the vehicle…Do we want all that data going to Beijing?”3 Smart vehicles that can allow for traffic light optimization, collective route planning, or thermostat adjustment on an approach home can also provide a nefarious actor with information on visits to the doctor or therapist, where children play soccer, or trips to the local watering holes. 4 The same can be said of wearable health monitors, telehealth visits, and one day remote surgeries."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0281::Posição no trabalho",
+   "unit_id": "W0281",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Craig Singleton",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "Workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 30030,
+     "fim_corpo": 30961,
+     "trecho": "Here, Congress has an important role to play. The White House’s engagement with the Linux Foundation, especially in initiatives to bolster cybersecurity through artificial intelligence, underscores the need for a thorough congressional review of these relationships. 26 Other U.S. executive branch agencies have similarly encouraged the use of open standards under development by the O-RAN Alliance. Only through a deeper understanding of these and other 26 The White House, “Biden-Harris Administration Launches Artificial Intelligence Cyber Challenge to Protect America's Critical Software,” August 9, 2023. (https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/09/biden-harris-administration-launches-artificial- intelligence-cyber-challenge-to-protect-americas-critical-software). “Takeaways from the White House Cyber Workforce and Education Summit,” Linux Foundation, accessed February 13, 2024."
+    },
+    {
+     "inicio_corpo": 30303,
+     "fim_corpo": 31222,
+     "trecho": "26 Other U.S. executive branch agencies have similarly encouraged the use of open standards under development by the O-RAN Alliance. Only through a deeper understanding of these and other 26 The White House, “Biden-Harris Administration Launches Artificial Intelligence Cyber Challenge to Protect America's Critical Software,” August 9, 2023. (https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/09/biden-harris-administration-launches-artificial- intelligence-cyber-challenge-to-protect-americas-critical-software). “Takeaways from the White House Cyber Workforce and Education Summit,” Linux Foundation, accessed February 13, 2024. (https://www.linuxfoundation.org/blog/blog/takeaways-from-the-white-house-cyber- workforce-and-education-summit); Steven Vaughan-Nichols, “White House joins OpenSSF and the Linux Foundation in securing open-source software,” ZDNet, accessed February 12, 2024."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0281::Saúde",
+   "unit_id": "W0281",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Craig Singleton",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "health care facilities",
+     "forma_encontrada": "healthcare facilities",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13302,
+     "fim_corpo": 14092,
+     "trecho": "Despite these and other identified risks, China’s cyber activities and broader geopolitical positioning have largely gone unchecked by Washington and its allies, contributing to a concerning climate of impunity. The unintended consequence of today’s inaction is that China may one day in the not-so-distant future feel emboldened to launch cyber assaults with the explicit goal of inducing “societal panic,” according to Cybersecurity and Infrastructure Security Agency Director Jen Easterly. 10 More specifically, these countervalue operations, including those directed at U.S. civilians, could seek to disrupt essential systems, such as the power grid, financial institutions, healthcare facilities, emergency services, telecommunications networks, and transportation systems."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0281::Saúde e deficiência",
+   "unit_id": "W0281",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Craig Singleton",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "blind",
+     "forma_encontrada": "blind",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "deaf",
+     "forma_encontrada": "deaf",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 19576,
+     "fim_corpo": 20556,
+     "trecho": "(https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Litigation_Release/Litigation%20Release%20- %20Countering%20Enemy%20Informationized%20Operations%20in%20Peace%20and%20War.pdf); Larry M. Wortzel, “The Chinese People’s Liberation Army and Information Warfare,” U.S. Army War College, March 2014, accessed February 12, 2024. (https://apps.dtic.mil/sti/pdfs/ADA596797.pdf) 18 “Chinese State-Sponsored Cyber Operations: Observed TTPs,” Cybersecurity and Infrastructure Security Agency, accessed February 12, 2024. (https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-200b) Craig Singleton February 15, 2024 Foundation for Defense of Democracies 9 www.fdd.org The objective, then, in targeting these sectors, according to PLA planners, is to induce a state of “blindness, deafness, and even paralysis” in the opponent, effectively impeding them by severing the flow of critical information and crippling their command-and-control capabilities."
+    },
+    {
+     "inicio_corpo": 19576,
+     "fim_corpo": 20556,
+     "trecho": "(https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Litigation_Release/Litigation%20Release%20- %20Countering%20Enemy%20Informationized%20Operations%20in%20Peace%20and%20War.pdf); Larry M. Wortzel, “The Chinese People’s Liberation Army and Information Warfare,” U.S. Army War College, March 2014, accessed February 12, 2024. (https://apps.dtic.mil/sti/pdfs/ADA596797.pdf) 18 “Chinese State-Sponsored Cyber Operations: Observed TTPs,” Cybersecurity and Infrastructure Security Agency, accessed February 12, 2024. (https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-200b) Craig Singleton February 15, 2024 Foundation for Defense of Democracies 9 www.fdd.org The objective, then, in targeting these sectors, according to PLA planners, is to induce a state of “blindness, deafness, and even paralysis” in the opponent, effectively impeding them by severing the flow of critical information and crippling their command-and-control capabilities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0283::Domicílio e arranjo familiar",
+   "unit_id": "W0283",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Allison Stanger",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 17560,
+     "fim_corpo": 18412,
+     "trecho": "The value of AI to improve productivity, such as making programmers more productive, is by far the main economic motivation for creating it, not the ability to evade paying for creative content. Let us consider poisonous speech that might bring liabilities to the poster. A post 230 world might motivate the evolution of criminal and civil constraints on hosting speech over a platform, but there is no reason to think that it would greatly strengthen or weaken the fundamentals of free speech. One difference between speech before and after the internet was that the scale of the internet “weaponized” some instances of speech that would not have been as significant before. For instance, an individual yelling threats at someone in passing is quite different from a million people yelling threats at that person, or at their families."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0283::Educação",
+   "unit_id": "W0283",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Allison Stanger",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 24949,
+     "fim_corpo": 25863,
+     "trecho": "Our laws should serve the national interest. Section 230 once did, but it now undermines the American interest and serves our enemies rather than American democracy. The time has come to give Section 230 the respectful burial it deserves. 14 Jaron Lanier and Allison Stanger, “The One Internet Hack that Could Save Everything,” Wired, February 13, 2024. https://www.wired.com/story/the-one-internet-hack-that-could-save-everything-section-230/ 9 Allison Stanger is Russell Leng ’60 Professor of International Politics and Economics at Middlebury College; Co-Director (with Danielle Allen), GETTING-Plurality Research Network, Harvard University; Senior Fellow, Ash Center for Democratic Governance and Innovation, Harvard Kennedy School; founding member of the Digital Humanism Initiative (Vienna); and an External Professor and Science Board member at the Santa Fe Institute."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0283::Idade",
+   "unit_id": "W0283",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Allison Stanger",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2761,
+     "fim_corpo": 3997,
+     "trecho": "After President Clinton signed the 1996 Telecommunications Act into law, it was unclear how the Courts would interpret it. When the dust had settled, Section 230 emerged as something of a double-edged sword. It could be used to justify censorship, and it could at the same time be deployed as a corporate liability shield. Most importantly, it provided the runway for the takeoff of Google, Twitter, and Facebook. It basically played an irreplaceable role in creating the Internet as we today know it, where extremely powerful companies are effectively shielded from liability, unlike all other corporate entities. What Our World with Section 230 Looks Like Today Section 230 unleashed astonishing American creativity, and its scope and reach continue to be vast. Section 230 currently provides blanket exemption from liability for recommender systems (the algorithms that serve you things they think will interest you), content moderation (in theory, company censorship of content that violates their terms of service; in practice, another matter entirely2), and Internet search.3 No other contemporary American corporations, especially ones with so much power, benefits from such blanket exemption from liability."
+    },
+    {
+     "inicio_corpo": 24765,
+     "fim_corpo": 25863,
+     "trecho": "It is a simple piece of legislation—all it takes is deleting twenty-six words, and it represents a unique opportunity for bipartisanship, which is precisely what our country needs. Our laws should serve the national interest. Section 230 once did, but it now undermines the American interest and serves our enemies rather than American democracy. The time has come to give Section 230 the respectful burial it deserves. 14 Jaron Lanier and Allison Stanger, “The One Internet Hack that Could Save Everything,” Wired, February 13, 2024. https://www.wired.com/story/the-one-internet-hack-that-could-save-everything-section-230/ 9 Allison Stanger is Russell Leng ’60 Professor of International Politics and Economics at Middlebury College; Co-Director (with Danielle Allen), GETTING-Plurality Research Network, Harvard University; Senior Fellow, Ash Center for Democratic Governance and Innovation, Harvard Kennedy School; founding member of the Digital Humanism Initiative (Vienna); and an External Professor and Science Board member at the Santa Fe Institute."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0284::Cultura e informação",
+   "unit_id": "W0284",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Mary Franks",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "libraries",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10790,
+     "fim_corpo": 11560,
+     "trecho": "(identifying as examples claims based on false-light invasion of privacy and publicity given to private life). However, “[d]efamation at common law distinguished between publisher and distributor liability.” Id. at 121 n.12 (emphases added). While a publisher was strictly liable for carrying defamatory matter, a distributor who only “delivers or transmits defamatory matter published by a third person is subject to liability if, but only if, he knows or has reason to know of its defamatory character.” Restatement (Second) of Torts § 581. This sort of distributor-based liability extended to anyone “transferring or circulating” material they knew or had reason to know was defamatory, including news dealers, bookstores, libraries, and telegraph operators."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0284::Domicílio e arranjo familiar",
+   "unit_id": "W0284",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Mary Franks",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7237,
+     "fim_corpo": 8256,
+     "trecho": "One of the specific purposes of this section is to overrule Stratton-Oakmont v. Prodigy and any other similar decisions which have treated such providers and users as publishers or speakers of content that is not their own because they have restricted access to objectionable material. H.R. Conf. Rep. No. 104–458, at 194 (1996) (emphases added). These overarching goals of encouraging online intermediaries to take affirmative, voluntary steps to remove harmful material were also codified in the law itself. Section 230 states that it is “the policy of the United States” to “encourage the development of technologies which maximize user control over what information is received by individuals, families, and schools who use the Internet and other interactive computer services,” and to “remove disincentives for the development and utilization of blocking and filtering technologies that empower parents to restrict their children’s access to objectionable or inappropriate online material.” 47 U.S.C."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0284::Educação",
+   "unit_id": "W0284",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Mary Franks",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 719,
+     "trecho": "1 U.S. House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology Hearing: “Where Are We Now: Section 230 of the Communications Decency Act of 1996.” Written Testimony of Dr. Mary Anne Franks Eugene L. and Barbara A. Bernard Professor in Intellectual Property, Technology, and Civil Rights Law, George Washington Law School President and Legislative & Tech Policy Director, Cyber Civil Rights Initiative Submitted April 9, 2023 2 Summary Section 230 was enacted as a “Good Samaritan” law for the Internet, that is, a law that seeks to encourage pro-social behavior by providing legal protection for voluntary, good faith efforts to assist others."
+    },
+    {
+     "inicio_corpo": 7237,
+     "fim_corpo": 8256,
+     "trecho": "One of the specific purposes of this section is to overrule Stratton-Oakmont v. Prodigy and any other similar decisions which have treated such providers and users as publishers or speakers of content that is not their own because they have restricted access to objectionable material. H.R. Conf. Rep. No. 104–458, at 194 (1996) (emphases added). These overarching goals of encouraging online intermediaries to take affirmative, voluntary steps to remove harmful material were also codified in the law itself. Section 230 states that it is “the policy of the United States” to “encourage the development of technologies which maximize user control over what information is received by individuals, families, and schools who use the Internet and other interactive computer services,” and to “remove disincentives for the development and utilization of blocking and filtering technologies that empower parents to restrict their children’s access to objectionable or inappropriate online material.” 47 U.S.C."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0284::Gênero",
+   "unit_id": "W0284",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Mary Franks",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "Women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 21631,
+     "fim_corpo": 22057,
+     "trecho": "7 Danielle K. Citron, “Cyber Civil Rights,” Boston University Law Review, (February 2009), https://scholarship.law.bu.edu/faculty_scholarship/617. 8 Jonathon Penney, “Whose Speech Is Chilled by Surveillance?,” Slate, Jul. 7, 2017, https://slate.com/technology/2017/07/women-young-people-experience-the-chilling-effects-of- surveillance-at-higher-rates.html; Caitlin Ring Carlson & Haley Witt, “Online harassment of U.S."
+    },
+    {
+     "inicio_corpo": 21631,
+     "fim_corpo": 22629,
+     "trecho": "7 Danielle K. Citron, “Cyber Civil Rights,” Boston University Law Review, (February 2009), https://scholarship.law.bu.edu/faculty_scholarship/617. 8 Jonathon Penney, “Whose Speech Is Chilled by Surveillance?,” Slate, Jul. 7, 2017, https://slate.com/technology/2017/07/women-young-people-experience-the-chilling-effects-of- surveillance-at-higher-rates.html; Caitlin Ring Carlson & Haley Witt, “Online harassment of U.S. women journalists and its impact on press freedom,” First Monday, 25, November 11, 2020, https://firstmonday.org/ojs/index.php/fm/article/download/11071/9995; Lucina Di Meco & Saskia Brechenmacher, “Tackling Online Abuse and Disinformation Targeting Women in Politics,” Carnegie Endowment for International Peace, November 30, 2020, https://carnegieendowment.org/2020/11/30/tackling-online-abuse-and-disinformation-targeting- women-in-politics-pub-83331 13 ensures that those suits which are brought will rarely survive a motion to dismiss on Section 230 grounds."
+    },
+    {
+     "inicio_corpo": 21631,
+     "fim_corpo": 22629,
+     "trecho": "7 Danielle K. Citron, “Cyber Civil Rights,” Boston University Law Review, (February 2009), https://scholarship.law.bu.edu/faculty_scholarship/617. 8 Jonathon Penney, “Whose Speech Is Chilled by Surveillance?,” Slate, Jul. 7, 2017, https://slate.com/technology/2017/07/women-young-people-experience-the-chilling-effects-of- surveillance-at-higher-rates.html; Caitlin Ring Carlson & Haley Witt, “Online harassment of U.S. women journalists and its impact on press freedom,” First Monday, 25, November 11, 2020, https://firstmonday.org/ojs/index.php/fm/article/download/11071/9995; Lucina Di Meco & Saskia Brechenmacher, “Tackling Online Abuse and Disinformation Targeting Women in Politics,” Carnegie Endowment for International Peace, November 30, 2020, https://carnegieendowment.org/2020/11/30/tackling-online-abuse-and-disinformation-targeting- women-in-politics-pub-83331 13 ensures that those suits which are brought will rarely survive a motion to dismiss on Section 230 grounds."
+    },
+    {
+     "inicio_corpo": 21631,
+     "fim_corpo": 22629,
+     "trecho": "7 Danielle K. Citron, “Cyber Civil Rights,” Boston University Law Review, (February 2009), https://scholarship.law.bu.edu/faculty_scholarship/617. 8 Jonathon Penney, “Whose Speech Is Chilled by Surveillance?,” Slate, Jul. 7, 2017, https://slate.com/technology/2017/07/women-young-people-experience-the-chilling-effects-of- surveillance-at-higher-rates.html; Caitlin Ring Carlson & Haley Witt, “Online harassment of U.S. women journalists and its impact on press freedom,” First Monday, 25, November 11, 2020, https://firstmonday.org/ojs/index.php/fm/article/download/11071/9995; Lucina Di Meco & Saskia Brechenmacher, “Tackling Online Abuse and Disinformation Targeting Women in Politics,” Carnegie Endowment for International Peace, November 30, 2020, https://carnegieendowment.org/2020/11/30/tackling-online-abuse-and-disinformation-targeting- women-in-politics-pub-83331 13 ensures that those suits which are brought will rarely survive a motion to dismiss on Section 230 grounds."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0284::Saúde",
+   "unit_id": "W0284",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Mary Franks",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "Hospitals",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 17540,
+     "fim_corpo": 18440,
+     "trecho": "Rev. 401, 403 (2017). This reading of Section 230 gives indifferent and unscrupulous online intermediaries a competitive advantage over responsible online intermediaries dedicating costly resources to safety and harm prevention. It also gives the tech industry generally a competitive advantage over virtually every other industry and over most private individuals. Most people, most of the time, can be held liable of for causing harm. This is true even if they cause it indirectly and unintentionally, and especially if they benefit in some way from the harm. As Justice Elena Kagan asked during oral argument in Gonzalez v. Google, 598 U. S. ____ (2023), “every other industry has to internalize the costs of its conduct. Why is it that the tech industry gets a pass?” Auto manufacturers can face liability for making engines that catch fire. Hospitals can be sued for botched surgeries."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0285::Cultura e informação",
+   "unit_id": "W0285",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Mary Leary",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "libraries",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12007,
+     "fim_corpo": 12984,
+     "trecho": "(2023); H.R. 7891, 118th Cong (2024). 13 Id. 6 federal level. As the Committee knows, the Supreme Court is considering whether state governments can restrict editorial choices for platforms.14 These platforms are not government entities but private companies. Therefore, they can and should monitor the content on their platforms to minimize victimization. But these entities cannot have it both ways. They have taken the position in litigation that they can control what is on their platforms, but then argue in motions to dismiss that they should continue to have de facto near absolute immunity when sued for abrogating that responsibility. Some of the concerns in the question can be addressed through the aforementioned duty of care and liability for false information facilitated on their platforms. This is hardly unprecedented. Newspapers, bookstores, libraries, and other entities possess First Amendment protections, but they are not absolute."
+    }
+   ]
+  }
+ ]
+}

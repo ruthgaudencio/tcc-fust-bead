@@ -1,0 +1,490 @@
+# W0052 | Mr. Michael Calabrese | Open Technology Institute at New America
+# 116th Congress | House | 2019-07-16
+# "Our Wireless Future: Building A Comprehensive Approach to Spectrum Policy"
+# source: https://www.congress.gov/116/meeting/house/109797/witnesses/HHRG-116-IF16-Wstate-CalabreseM-20190716.pdf
+
+Hearing on  
+“Our Wireless Future: Building a  
+Comprehensive Approach to Spectrum Policy”  
+ 
+ 
+ 
+Before the  
+United States House of Representatives  
+Committee on Energy and Commerce  
+ 
+Subcommittee on Communications and Technology  
+ 
+ 
+ 
+Testimony of  
+Michael Calabrese  
+Director, Wireless Future Project 
+Open Technology Institute at New America 
+ 
+ 
+ 
+ 
+ 
+Washington, D.C.  
+July 16, 2019 
+  
+
+2 
+ 
+Introduction 
+Good morning Chairmen Pallone and Doyle, Ranking Members Walden and Latta, and 
+members of the Subcommittee.  My name is Michael Calabrese. I direct the Wireless Future 
+Project at New America’s Open Technology Institute (OTI), a nonprofit policy institute based 
+here in Washington, D.C.  My organization develops and advocates for policies to promote 
+universal, faster and more affordable wireless broadband connectivity, broadband competition, 
+and more efficient spectrum use with a focus on expanding unlicensed access and dynamic 
+spectrum sharing. OTI is also a member of the broad-based Public Interest Spectrum Coalition 
+that includes national consumer, civil rights, education, rural broadband and social justice 
+organizations.   
+There are two fundamental reasons why it’s critical that substantially more mid-band 
+spectrum is made available on a licensed, unlicensed and dynamically shared basis.  First, we all 
+three paths to access spectrum because the world’s most robust and productive 5th generation 
+wireless ecosystem will not be built out by mobile carriers alone or solely with exclusively-
+licensed spectrum.  America’s “5G” wireless ecosystem, like the current 4G wireless ecosystem, 
+will rely on a combination of national or regional carrier networks for truly “mobile” connections 
+(for use ‘on the go’) and a far larger number of complementary, high-capacity and customized 
+networks deployed by individual business firms households to meet their particular needs at a 
+lower cost.  
+Today Wi-Fi makes internet access and broadband data on smartphones and laptops 
+faster and far more affordable.  Wi-Fi already carries between 70 and 80% of all mobile device 
+data traffic. In a 5G world, indoor and customized small cell networks using Next Generation 
+Wi-Fi, private LTE and other technologies will enhance the ecosystem and fuel advanced 
+applications such as home and industrial IoT, virtual reality and near-real time interactive video. 
+This distinction between spectrum for coverage (which fits the traditional cellular 
+licensing model) and spectrum for capacity in localized areas (which is the rationale for 
+unlicensed and lightly-licensed, shared spectrum) is even more relevant for 5G in light of the fact 
+that an increasing share of mobile device data traffic (more than 80 percent) is consumed 
+indoors, on a nomadic and not mobile basis. The benefits of 5G – high throughput, low latency, 
+and the ability to connect hundreds of different devices and sensors in a local area (e.g., IoT) – 
+will be most available outdoors and in high-traffic areas on cellular networks.  As described 
+3 
+ 
+below, Next Generation Wi-Fi (Wi-Fi 6) and private LTE networks will be most relevant indoors 
+where more than 80% of mobile data use actually takes place. 
+A second fundamental reason to make mid-band spectrum available on a licensed, 
+unlicensed and shared basis is that a guiding goal of the Communications Act is to “encourage 
+the deployment on a reasonable and timely basis of advanced telecommunications capability to 
+all Americans.”1 While there are heated disagreements about progress towards this goal, there is 
+no question that we can and must do better in addressing the rural and low-income digital 
+divides.  
+Rural, small town, Tribal and historically marginalized communities are most likely to 
+find themselves on the losing side of the digital divide.  The FCC’s most recent Broadband 
+Deployment Report, which tends systematically to overstate the availability of broadband, 
+reported that “the gap in rural and Tribal America remains notable: over 26% of Americans in 
+rural areas and 32% of Americans in Tribal lands lack coverage from fixed terrestrial 25 Mbps/3 
+Mbps broadband, as compared to only 1.7% of Americans in urban areas.”2 A Pew Research 
+Center survey reported that 24% of rural adults said that a lack of high-speed internet access is a 
+“major problem” in their community.3 
+Affordability and choice among competing internet providers continues to be major 
+deterrents as well. Just 45% of U.S. adults who make less than $30,000 a year have broadband at 
+home, compared to 87% of adults who make more than $75,000 annually.4   A recent 
+Department of Education survey found that 38% of households with children under 18 and no 
+home broadband access said it was because service was too expensive.5  Aggravating 
+affordability is lack of competition.  More than 50% of rural households had at most one choice 
+for an ISP offering service at the minimum adequate service level of 25/3 mbps as of year-end 
+                                                           
+1 47 U.S.C. § 1302(a). 
+2 FCC, Fixed Broadband Deployment Data from FCC Form 477 (May 2, 2019) (data as of Dec. 31, 2017), 
+https://www.fcc.gov/general/broadband-deployment-data-fcc-form-477.    
+3 Monica Anderson, “About a quarter of rural Americans say access to high-speed internet is a major problem,” The 
+Pew Research Center (Sep. 10, 2018), https://tinyurl.com/y6c6uqcl. 
+4 “Internet/Broadband Fact Sheet,” Pew Research Center (Feb. 5, 2018), https://tinyurl.com/y3bnc92t. 
+5 “Student Access to Digital Learning Resources Outside of the Classroom,” U.S. Department of Education, Institute 
+of Education Sciences, National Center for Education Statistics (Apr. 2018), 
+https://nces.ed.gov/pubs2017/2017098.pdf. Another 38% said it was because they did not need it or they were 
+uninterested in it. 
+4 
+ 
+2017, according to the FCC’s December 2018 Communications Marketplace Report.6  Reflecting 
+this lack of competition, even when rural consumers have access to broadband, they frequently 
+pay higher prices for lower quality service despite the fact that, on average, they earn less than 
+Americans living in urban areas.7 
+Because of the enormous costs of building out geographically extensive 5G networks, 
+national and regional carriers will focus initially on the more densely-populated urban and 
+affluent suburban areas with the largest returns on investment.  While 5G networks may not 
+reach rural, small town or even many exurban communities for many years, smaller and local 
+providers of high-capacity fixed wireless broadband that rely primarily on unlicensed and 
+coordinated sharing of unused spectrum capacity can more rapidly extend high-capacity and 
+more affordable fixed broadband access to these underserved areas.  
+More mid-band unlicensed (at 5.9 and 6 GHz) and shared spectrum (unused C-band 
+spectrum for fixed wireless broadband) can serve as the public infrastructure that enables high-
+capacity broadband in underserved areas. Capital costs to deploy fixed point-to-multipoint 
+(P2MP) wireless connections using vacant C-band and unlicensed spectrum are a fraction – 
+about one-seventh the cost – of fiber and are still able to provide high-throughput broadband 
+service.8  They are also far more cost-effective per gigabyte for this purpose than mobile 
+systems. In addition, anywhere a high-capacity fixed service is available, Wi-Fi 6 can provide 
+the same consumer benefits as licensed 5G and more affordably. 
+ 
+Citizens Broadband Radio Service: A Roadmap for Spectrum Sharing and Abundance 
+ 
+At the outset, it’s important to recognize that within the next two months a truly 
+revolutionary breakthrough in spectrum policy is likely to launch commercial network services. 
+The new Citizens Broadband Radio Service (CBRS) represents a landmark in forward-thinking 
+spectrum policy not only for the 3.5 GHz band, but as a framework and model for unlocking 
+enormous and low-cost capacity for wireless broadband and innovation in additional occupied 
+but underutilized bands.  
+                                                           
+6 FCC, Communications Marketplace Report (rel. Dec. 26, 2018), https://www.fcc.gov/document/fcc-adopts-first-
+consolidated-communications-marketplace-report-0.  
+7 Sharon Strover, “Reaching rural America with broadband internet service,” PhysOrg (Jan. 17, 2018), 
+https://phys.org/news/2018-01-rural-america-broadband-internet.html#jCp. 
+8 See The Carmel Group, Ready for Takeoff: Broadband Wireless Access Providers Prepare to Soar with Fixed 
+Wireless, at 12, Fig. 6 (2017).   
+5 
+ 
+In 2015, a unanimous FCC adopted CBRS to coordinate new licensed and opportunistic 
+(lightly-licensed) access to unused spectrum in the 3550-3700 MHz band used by the U.S. Navy.  
+The CBRS rules authorize the certification of multiple frequency coordination systems – called 
+Spectrum Access Systems (SAS) – to govern a dynamic framework for spectrum sharing among 
+a three-tier hierarchy of users: incumbent licensees (U.S. Navy radar), Priority Access Licenses 
+(PALs), and opportunistic (effectively unlicensed) General Authorized Access (GAA) users. The 
+SASs are responsible for ensuring incumbent services are fully protected from harmful 
+interference and that PAL operators are protected from each other and from GAA users. 
+Rarely has a new spectrum access mechanism received such an outpouring of investment 
+and innovation by such a diverse range of business enterprises.  Over the past few years, an 
+unprecedented collaboration among dozens of companies from a diverse range of industries has 
+developed technical rules, new use cases (e.g., neutral host networks), an interoperable “OnGo” 
+technology, a product certification program, and the design of the SASs and coastal sensing 
+networks needed to protect the Navy and coordinate sharing. The CBRS Alliance has more than 
+130 member companies from a wide variety of industries. The SAS and environmental sensing 
+systems have been tested and provisionally approved, putting this new approach to dynamic 
+sharing of underutilized Federal spectrum on the brink of unlocking broadband capacity and 
+innovation across a band considered fully occupied and off limits just five years ago. 
+ The FCC’s original 2015 CBRS Order intended to make a combination of very small-
+area licenses (PALs) and unlicensed spectrum (GAA) available on a targeted basis to thousands 
+of potential network operators, including rural ISPs, private “neutral host” LTE networks, office 
+complexes, factories, utilities, ports and other critical infrastructure operators, shopping malls, 
+sporting arenas, and college and other campuses. The agency aimed to accomplish this in part by 
+making the PALs small (the size of census tracts), temporary and therefore far more affordable 
+than very large-area and permanent mobile licenses.   
+The Commission wisely adopted this alternative licensing structure to increase rural 
+broadband deployment, to encourage intensive use of the band in both urban and less-populated 
+areas, to create new opportunities for market entrants, and to promote new and innovative use 
+cases. With direct and affordable access to spectrum, local enterprises and others users can 
+deploy localized broadband and IoT networks, including connectivity solutions customized and 
+deployed by end users themselves, much as Wi-Fi is used today, but with an option to pay for a 
+6 
+ 
+license with interference protection. Other nations, including the UK and Germany, are now 
+attempting to replicate this innovation by authorizing coordinated shared use of 3 GHz spectrum 
+in small areas by local enterprises. 
+Unfortunately, last October the Commission reversed a key pillar of the agency’s original 
+vision for CBRS, enlarging the PALs to the size of counties and making licenses permanent 
+rather than available for periodic re-auction. Public interest groups, rural broadband ISPs, 
+technology and critical infrastructure companies, big hotel and office management companies, 
+municipal users and virtually every party other than mobile carriers and their equipment 
+suppliers argued that making PALs permanent and as large as traditional cellular licenses would 
+preclude most of the innovative and localized use cases that the CBRS rules were specifically 
+designed to catalyze.  
+Despite the FCC’s unwise decision to effectively exclude most small ISPs and other U.S. 
+businesses from acquiring PALs at auction, we believe the CBRS three-tier sharing framework 
+still can and will soon prove to be a critical part of the foundation for the nation’s 5G future.  
+Going forward, in additional underutilized bands, coordinated access to unused spectrum on a 
+local basis – ideally using either dynamic sharing without pre-set license area, or very small area 
+licenses – can empower rural broadband service providers, individual enterprise, schools, 
+hospitals, factories, office complexes, and other niche connectivity providers to customize and 
+operate their own private LTE networks. 
+ 
+C-band: A Public Auction with Revenue and Spectrum to Close theBroadband Divide 
+  
+OTI and multiple public interest coalitions strongly support the overarching goal of the 
+Commission’s rulemaking on C-band. A reallocation of C-band has the potential to ensure that 
+all 500 megahertz of today’s grossly underutilized C-band is put to work to fuel America’s 5G 
+future and to close the rural broadband divide. The FCC’s  pending proposals to reallocate at 
+least the lower portion of the band to add 5G capacity, and to authorize sharing of unused 
+spectrum in at least the upper portion for high-speed fixed broadband coverage in rural areas, 
+each represent an essential component of a potential win-win-win solution that achieves three 
+vital public interest outcomes: First, to reallocate and auction a substantial portion of the band to 
+promote mobile 5G networks; second, to enable high-speed fixed wireless service in rural, small 
+7 
+ 
+town, Tribal and other underserved areas at a fraction of the cost of trenching fiber; and third, to 
+protect existing earth stations from undue disruption or harmful interference.  
+ 
+Congress Can Avoid Unjust Enrichment and Earmark Proceeds for Broadband Infrastructure 
+ 
+Public interest groups, rural wireless ISPs, the cable industry and other stakeholders 
+remain concerned, however, that the agency continues to consider proposals for a ‘private 
+auction’ that would violate the Communications Act and needlessly transfer many billions of 
+dollars in public assets to four foreign satellite companies that never paid for the public airwaves 
+they use. A private sale controlled by four foreign-based companies, with no return of the 
+anticipated proceeds of $10 to $30 billion or more to the Treasury, amounts to a massive and 
+needless giveaway of public revenue we could be investing to close the digital divide. 
+A private auction or sale would violate Section 309(j) of the Communications Act and 
+willfully ignore Congressional intent and precedent. Congress has twice passed legislation 
+ensuring that when the TV bands at 700 MHz and 600 MHz were consolidated for auction to 
+mobile carriers, local broadcast stations would either receive no windfall (the 2002 Auction 
+Reform Act9) or receive at most incentive payments limited by a competitive reverse auction (the 
+2012 incentive auction bill10).  Indeed, most broadcasters received only compensation for 
+expenses incurred to switch frequencies, an approach that would work well in the C-band if only 
+the lower 200 megahertz are cleared, because incumbents have acknowledged that all current 
+FSS video and radio distribution can be accommodated above 3900 MHz. General provisions 
+such as Sections 303(c), 303(r) and 4(i) cannot possibly provide the authority for a public or 
+private auction that is not consistent with the explicit provisions of Section 309(j). 
+Just as Congress in 2012 designated $7 billion from the auctions of AWS-3 and 600 MHz 
+spectrum to fund FirstNet, under your leadership Congress can set aside $10 billion or more of 
+C-band auction revenue to pay for broadband infrastructure in underserved areas. According to 
+FCC data, broadband is unavailable to roughly 25 million Americans, more than 19 million of 
+whom live in rural communities. With a pay-for at hand, Congress should not miss this rare 
+                                                           
+9 Spectrum Reform Act of 2002, Pub. L. No. 107-195, 47 U.S.C. §309(j)(15)(C)(iv), available at 
+https://www.congress.gov/bill/107th-congress/house-bill/4560/text?overview=closed. 
+10 Middle Class Tax Relief and Job Creation Act of 2012, Pub.L. 112–96, Subtitle D—Spectrum Auction Authority, 
+§ 6402, (enacted Feb. 22, 2012), codified at 47 U.S.C. § 309(j)(8)(G)  (“Spectrum Act”), available at 
+https://www.congress.gov/112/plaws/publ96/PLAW-112publ96.pdf. 
+ 
+8 
+ 
+opportunity to narrow the rural/urban digital divide by directing both dollars and unused C-band 
+spectrum for fixed wireless broadband and backhaul in rural areas. 
+A private auction is also likely to distort competition in the mobile market, excluding 
+smaller and rural ISPs. Incumbents have a strong incentive to maximize their windfall rather than 
+the broader public interest. Moreover, a private sale would set a dangerous precedent, suggesting 
+that incumbent licensees should always wage maximum resistance against giving up or sharing 
+unused spectrum unless the Commission agrees to give them all the public revenue that until 
+now has always, with few exceptions, flowed back to the public. 
+The speediest, most straightforward option consistent with the Commission’s statutory 
+authority is a traditional forward auction that consolidates FSS incumbents into the upper portion 
+of the band and requires auction winners to reimburse incumbents for any eligible and reasonable 
+costs. Unlike a private auction, the courts have consistently upheld the Commission’s authority 
+to reorganize bands, to modify licenses, and to authorize mechanisms that reimburse incumbents’ 
+costs.  There is strong precedent from multiple prior proceedings to support license conditions 
+that require winning bidders to shoulder the costs of relocating FSS incumbents and to 
+voluntarily negotiate reasonable premium payments, as needed, to incumbents in exchange for 
+expedited clearance.  The FCC can appoint an independent Transition Facilitator.  Bipartisan 
+leadership in Congress should either legislate or at least urge this outcome. 
+ 
+Shared Access to Unused C-band Spectrum Can Spur Fixed Wireless Broadband 
+ 
+Like the TV band prior to its consolidation, the C-band’s overall capacity is grossly 
+underutilized.  We believe any Congressional action on C-band should require the FCC to 
+authorize coordinated, shared access to unused spectrum across the entire band to the extent it 
+does not cause harmful interference to registered earth stations or to future licensed mobile 
+services. Spectrum itself is public infrastructure that can be used to help close the digital divide. 
+Unlocking every megahertz of the grossly underutilized C-band will promote a more inclusive, 
+robust and affordable 5G wireless ecosystem for all Americans.  
+By requiring rural ISPs and other operators to rely on an automated coordination system, 
+the FCC can fully protect existing earth stations (and thereby TV and radio consumers) in the 
+same way that the Spectrum Access System (SAS) will begin in just a couple months to 
+coordinate shared use of the adjacent 3.5 GHz band between the U.S. Navy and terrestrial 
+9 
+ 
+broadband providers. As described above, the SAS will both safeguard Navy operations and 
+manage opportunistic use of unused licensed spectrum until licensees actually build out and 
+commence service. Similarly, the FCC should be required to authorize shared use of unused 
+spectrum across the entire C-band, but retain the discretion to determine the technical rules that 
+ensure there is no harmful interference to licensed and operating services. An engineering study 
+filed yesterday by wireless ISPs, Google and Microsoft showed that even on a co-channel basis, 
+unused spectrum can be easily coordinated with earth stations and shared locally for rural 
+broadband, enterprise networks and other uses in 78% of the country where at least 80 million 
+Americans live. 
+In sum, C-band gives Congress an opportunity to mandate both a public auction and 
+coordinated shared access to unused spectrum in the C-band, which together can provide billions 
+in funding for infrastructure and the spectrum that rural broadband providers, schools, and other 
+enterprises need to close the connectivity gap in underserved areas. 
+ 
+Next Generation Wi-Fi: Accelerating Affordable 5G Services for All Americans 
+ 
+Unlicensed spectrum is what ultimately makes both mobile and fixed broadband service 
+more available, more productive and more affordable for an overwhelming majority of 
+Americans at home, at work, at school, and in public places.  Most mobile devices rely entirely 
+on unlicensed spectrum for connectivity.  Wi-Fi generates hundreds of billions of dollars in 
+economic activity and consumer surplus each year, in substantial part as a critical complement to 
+mobile carrier networks that would otherwise be overwhelmed by consumer demand. Wi-Fi also 
+plays an increasingly important role in connecting education, manufacturing, agriculture, and 
+healthcare technologies.  IoT and other high-capacity, local-area networks – most of which will 
+be indoors and connect everything – are likely to make unlicensed spectrum an even more 
+critical part of a truly robust 5G ecosystem.  
+Wi-Fi is the reason warnings of a “spectrum crisis” years ago were greatly overstated. 
+Most consumers don’t even realize that between 70 and 80% of the total mobile data traffic 
+flowing over smartphones and tablets never touch their mobile carrier network. The vast majority 
+of mobile data travels a very short distance over shared, unlicensed spectrum and into the fixed 
+broadband connection that most homes and businesses buy from a cable company, a wireline 
+telco or a wireless ISP. 
+10 
+ 
+And just as Wi-Fi is central to today’s 4G wireless ecosystem, Next Gen Wi-Fi will be a 
+complement to 5G mobile networks that makes 5G services more rapidly available – and far 
+more affordable – to every home and business nationwide.  Cisco, which measures and projects 
+internet traffic globally, projects consumers will need Wi-Fi to carry far more traffic in the 5G 
+era as IoT and advanced, media-centric applications demand more data, but cellular connectivity 
+is more limited indoors or more expensive due to data caps.11 
+The good news is that Next Gen Wi-Fi – known more formally as Wi-Fi 6 – is ready to 
+go now and can accelerate 5G-quality services for all Americans. Because mobile 5G networks 
+are massively expensive to deploy, they won’t be available outside dense urban, high-traffic, and 
+affluent suburban areas for many years.  Wi-Fi 6, by contrast, can upgrade connectivity in any 
+home or business that has a gigabit-capable fixed broadband service, as more than 80 million 
+cable subscribers (among others) already do today. 
+In other words, Next Gen Wi-Fi can bring 5G capabilities more quickly to urban, 
+suburban and rural areas alike. But, there’s a big if . . . Accelerating affordable 5G capabilities 
+for all depends on whether the FCC gives America’s homes and businesses access to a sufficient 
+amount of contiguous, wide-channel unlicensed spectrum.  The FCC’s efforts to open more 
+unlicensed spectrum at 5.9 GHz and across the entire 6 GHz band – more than 1200 megahertz 
+of new unlicensed spectrum capacity – is key to unlocking the potential for the U.S. to truly have 
+the world’s most robust and equitable 5G wireless networks.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+11 Usha Andra, “Connecting the Unconnected: 5G and Wi-Fi 6 Will Play a Pivotal Role in Bridging the Digital 
+Divide,” Cisco Blog (March 19, 2019), https://tinyurl.com/y488kqda. 
+Wi-Fi 
+Use 
+5725 
+MHz 
+ 5850 MHz 
+ 5925 MHz 
+ 6425 MHz 
+ 7125 
+MHz 
+ 
+5.9 GHz 
+U-NII-3 
+Primary 
+U.S. Wi-Fi 
+Band 
+11 
+ 
+Extending Gigabit-Fast Wi-Fi Across the Entire 6 GHz Band is Feasible and Essential  
+ 
+Authorizing unlicensed use of 1200 contiguous megahertz of spectrum across the entire 6 
+GHz band – from 5925 to 7125 MHz – is the fuel necessary to power gigabit-fast and affordable 
+Wi-Fi 6 and other unlicensed innovations of greatest benefit to consumers and the overall 
+economy.  OTI and PISC strongly support the FCC’s pending proposal to allow at least indoor 
+use of unlicensed devices and networks across all four band segments (a total of 1200 
+megahertz).  We likewise support the FCC’s proposal to allow outdoor unlicensed operations – 
+as well as indoor operations at standard power (1 watt) – in two band segments that total 850 
+megahertz subject to registration and recurring authorization by a geolocation database.  As I’ve 
+noted, these Automated Frequency Coordination (AFC) systems will be similar to, but simpler 
+than, the Spectrum Access System that facilitates sharing and protects Navy operations in the 
+new CBRS band in the immediately adjacent 3.5 GHz CBRS band. 
+The FCC’s proposed rulemaking has one critical shortcoming, however, that threatens to 
+diminish the value of Wi-Fi 6 to the vast majority of Americans at home and at work.  In 
+addition to authorizing Wi-Fi at standard power subject to coordination by an automated 
+database (AFC), the Commission also proposes to allow indoor-only operations at a much lower 
+power (250 milliwatts rather than 1 watt), but only in the U-NII-6 and U-NII-8 band segments. 
+These two band segments are not contiguous, total only 350 megahertz and, most critically, 
+would make available only a single gigabit-fast channel for Wi-Fi 6. 
+Consumer advocates, as well as rural broadband providers and a coalition of the nation’s 
+largest high-tech companies, have all urged the Commission to likewise authorize lower-power, 
+indoor-only unlicensed use across the much larger U-NII-5 and U-NII-7 band segments without 
+the cost and complexity of geolocation database coordination.  These two band segments total 
+850 megahertz and would unleash four new 160-megahertz wide channels. This is especially 
+critical for small business and families. The overwhelming majority of consumer welfare and 
+economic value generated by unlicensed spectrum – and particularly by Wi-Fi – is indoors, in 
+homes and businesses literally walled off from incumbent receivers in the U-NII-5 and U-NII-7 
+band segments.  
+Although expensive, professionally-installed, higher-power and AFC-controlled 
+unlicensed access will be important for enterprise networks and outdoor deployments, the failure 
+to set a power level at which Wi-Fi can operate indoors across the entire 6 GHz band will 
+12 
+ 
+sacrifice what is likely to be the greatest benefit of this rulemaking.  Wi-Fi is the workhorse of 
+the Internet because low-cost, off-the-shelf routers and devices can easily and affordably offer 
+access to unlicensed spectrum that provides high-capacity connectivity in homes, at work, at 
+school, in libraries, at restaurants, retailers and virtually every public place. Without affordable, 
+do-it-yourself access to the 850 megahertz in U-NII-5 and U-NII-7, a majority of homes and 
+small businesses in particular could be limited to a single 160 megahertz channel between 6875 
+and 7125 MHz. 
+We remain hopeful that engineering facts will prevail over incumbent fears – and the by-
+now-predictable NIMBY syndrome that seems to afflict every incumbent user of an 
+underutilized band of spectrum.  The Commission can adopt a rebuttable presumption that lower-
+power, indoor-only (LPI) unlicensed access does not create an undue risk of harmful interference 
+to incumbents.  
+First, harmful interference to incumbent point-to-point (FS) links at this power level from 
+LPI inside a building would be extremely rare. The two operate in entirely different locations and 
+with transmit characteristics that are complementary.  
+Second, fixed point-to-point links are high power and use high-quality, highly-directional 
+antenna, whereas Wi-Fi on a LPI basis would operate indoors at very low duty cycles and at 
+extraordinarily low power.   
+Third, moving Wi-Fi and other unlicensed traffic onto networks required to be low power 
+and indoors could reduce the overall risk of interference to FS incumbents.  And by making 1200 
+contiguous megahertz available inside every building, unlicensed routers and other devices will 
+spread their transmissions over multiple and much wider channels, further reducing the risk. 
+ Our coalition has also urged the FCC to harmonize the rules for outdoor, AFC-controlled 
+fixed wireless deployments with existing unlicensed rules (Part 15) for the 5 GHz bands that 
+permit higher gain antennas and therefore enable rural broadband providers to cover larger areas 
+more affordably. Equipment already widely deployed in the 5 GHz band is easily adaptable to 
+operate in the 6 GHz band.  
+Finally, while we agree that AFC systems will be necessary to avoid interference 
+outdoors and for standard power deployments, AFCs in this band can be relatively simple 
+databases that are easy to implement. Geolocation database coordination is well-established and 
+reliable in bands, such as in U-NII-5 (5925 to 6425 MHz) and U-NII-7 (6525 to 6875 MHz), 
+13 
+ 
+where incumbent operations are geographically fixed and change location or operating 
+parameters infrequently. The FCC has a long history of ensuring that coordination technologies 
+and procedures work to give primary licensees in shared band a high degree of protection from 
+harmful interference.  Fears about theoretical and corner-case scenarios that could result in 
+fleeting interference should not preempt the truly enormous economic and social benefits of 
+authorizing unlicensed sharing across the entire 6 GHz band. 
+ 
+The Vacant 5.9 GHz Band is a Roadblock to a Potential Wi-Fi Superhighway 
+ 
+The 5.9 GHz band lies directly between the upper portion of the 5 GHz band, which is 
+currently used for unlicensed Wi-Fi and rural broadband, and the 6 GHz band that the FCC has 
+proposed to open for shared unlicensed use. As Commissioner Mike O’Rielly so aptly put it, the 
+5.9 GHz band is “the missing link between the 5 GHz and 6 GHz bands.”  Reallocating the 5.9 
+GHz band for unlicensed use would create a very high-capacity Wi-Fi “superband” that would 
+enable multiple contiguous channels of gigabit-fast connectivity in every home and business. As 
+noted above, contiguous and wide unlicensed spectrum with mid-band propagation is absolutely 
+essential for accelerating the next-generation 5G-capable Wi-Fi services. 
+The 5.9 GHz band is currently allocated for auto safety signaling using a specific 
+technology called Dedicated Short-Range Communications (“DSRC”).  Way back in 1999 the 
+FCC allocated this 75 megahertz (5850 to 5925 MHz) for shared use by DSRC technology on a 
+licensed basis.  For two decades the band has gone almost completely unused.  The 5 GHz band 
+has become a telling experiment in market forces and innovation. Wi-Fi also emerged in 1999 
+and consumers today are celebrating its 20th anniversary. Over that time, while the auto industry 
+left the 5.9 GHz band fallow, unlicensed innovation and Wi-Fi use has surged, saturating both 
+the 2.4 GHz band and two segments of the 5 GHz band with intensive spectrum re-use that 
+generates hundreds of billions of dollars annually in consumer surplus.  Wi-Fi bands are 
+congested because they carry the vast majority of wireless internet traffic and are an input for 
+virtually every other industry. The ‘car band,’ meanwhile, sits idling and empty. 
+DSRC has also been eclipsed by newer technologies that render the requirement to use 
+DSRC in the 5.9 GHz band a relic of an abandoned policy that would have mandated DSRC 
+radios in every new vehicle and would have taken at least another two decades, at a high cost to 
+14 
+ 
+consumers, to be effective.12  Unfortunately, the Department of Transportation (DOT) has not yet 
+formally withdrawn its proposed DSRC mandate; nor has it acknowledged, as the European 
+Union has, that real-time safety signaling for V2X applications requires far less than the 75 
+megahertz currently set aside for this purpose.  Since Cellular V2X is in its infancy and is likely 
+to thrive, if at all, as an application on general purpose mobile 5G networks, it could be a “win-
+win” for consumers to relocate V2X safety signaling.  
+To its credit, a majority of FCC commissioners seem eager to resolve this issue. 
+Chairman Pai had planned to put a very objective Further Notice of Proposed Rulemaking on the 
+FCC’s June 2019 meeting agenda, seeking comment on several possible outcomes. However, 
+that attempt to update the record continues to be delayed by DOT, which appears unwilling to let 
+the FCC explore all options that serve the public interest overall. We believe Congress should 
+urge the FCC and DOT to work together to solicit public input and explore all alternatives, 
+including whether an alternative band, such as the nearly vacant 4.9 GHz public safety band, 
+could be equally or more useful for vehicle safety applications that are integrated with 5G mobile 
+networks. Consumers will benefit most if allocations for both safety and Wi-Fi are optimized. 
+ Cellular V2X should certainly be given the opportunity to prevail in the market as an 
+application on general purpose mobile 5G networks. But even if the FCC decides that a spectrum 
+set-aside at 5.9 GHz is necessary for time-critical safety signaling, the band segmentation 
+approach that has been before the agency for more than three years at least minimizes the cost of 
+another DSRC-type failure.  As the Commission has stated multiple times in policy statements 
+since the 2002 Spectrum Policy Task Force Report, exceptions made for public safety or other 
+public interest allocations should be narrowly defined “and the amount of spectrum . . . limited to 
+that which ensures that those [compelling public interest] objectives are achieved.”13 
+Thank you for this opportunity to share our views with the Committee on these critical 
+spectrum proceedings. 
+*   *   *   *   *   * 
+                                                           
+12 Harding, J. et al., “Vehicle-to-Vehicle Communications: Readiness of V2V Technology for Application,” 
+National Highway Traffic Safety Administration, Report No. DOT HS 812014 (Aug. 2014), at 24 (“Even if the 
+market drives faster uptake by consumers of aftermarket devices . . . it will still take 37 year s before we would 
+expect the technology to fully penetrate the fleet.”). 
+13 FCC, Report of the Spectrum Policy Task Force, ET Docket No. 02-135, at 41 (Nov. 2002), available at 
+https://tinyurl.com/yypqy8uu.

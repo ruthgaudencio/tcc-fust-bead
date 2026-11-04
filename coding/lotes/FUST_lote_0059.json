@@ -1,0 +1,1118 @@
+{
+ "caso": "FUST",
+ "lote": 59,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0355::Macrorregião",
+   "unit_id": "S0355",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-08-07",
+   "orador": "Edison Lobão",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1931,
+     "fim_corpo": 3032,
+     "trecho": "Cada um de nós, Senadores ou Deputados, é testemunha pessoal dessas carências. A Bancada do Maranhão conseguiu, nos últimos orçamentos federais, a duras penas, destinar algumas verbas relativas a ações de saneamento público e a sistemas de tratamento de água para o Governo Estadual e prefeituras municipais maranhenses. São dotações bem-vindas, mas representarão uma gota d’água na solução dos problemas de saneamento enfrentados pelo Estado e pelos Municípios. Uma ação decisiva em relação ao saneamento público em nosso país representaria não somente uma vultosa economia para o Tesouro, mas talvez, principalmente, um socorro para as populações pobres, hoje vítimas contumazes das doenças infecto-contagiosas, da dengue, das hepatites, da febre amarela, da cólera e de tantos outros males que infelicitam milhões de famílias brasileiras. No Nordeste, 35% dos domicílios não têm água encanada e 85% não dispõem de rede de esgoto; no País são 21% e 58%, respectivamente, percentuais, como se vê, que beiram a escândalo perante as entidades internacionais que monitoram tais áreas."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0355::Renda e classe",
+   "unit_id": "S0355",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-08-07",
+   "orador": "Edison Lobão",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "carentes",
+     "forma_encontrada": "carentes",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1812,
+     "fim_corpo": 2785,
+     "trecho": "No entanto, ainda segundo o referido Ministro, não se investem em saneamento mais do que 20% das suas reais carências. Cada um de nós, Senadores ou Deputados, é testemunha pessoal dessas carências. A Bancada do Maranhão conseguiu, nos últimos orçamentos federais, a duras penas, destinar algumas verbas relativas a ações de saneamento público e a sistemas de tratamento de água para o Governo Estadual e prefeituras municipais maranhenses. São dotações bem-vindas, mas representarão uma gota d’água na solução dos problemas de saneamento enfrentados pelo Estado e pelos Municípios. Uma ação decisiva em relação ao saneamento público em nosso país representaria não somente uma vultosa economia para o Tesouro, mas talvez, principalmente, um socorro para as populações pobres, hoje vítimas contumazes das doenças infecto-contagiosas, da dengue, das hepatites, da febre amarela, da cólera e de tantos outros males que infelicitam milhões de famílias brasileiras."
+    },
+    {
+     "inicio_corpo": 2785,
+     "fim_corpo": 3583,
+     "trecho": "No Nordeste, 35% dos domicílios não têm água encanada e 85% não dispõem de rede de esgoto; no País são 21% e 58%, respectivamente, percentuais, como se vê, que beiram a escândalo perante as entidades internacionais que monitoram tais áreas. Conclui-se, à primeira vista, que temos preferido \"tratar o doente\" a \"prevenir a doença\" com um saneamento que assegurasse a todos boa qualidade de vida. As estimativas do BNDES demonstram que, para cada R$4,00 aplicados em saneamento, economizam-se R$10,00 no atendimento à saúde. Portanto, se cumprida fosse a meta desejada pelo Ministro da Saúde de se investirem R$4 bilhões por ano em saneamento público, o Governo economizaria em assistência à saúde R$10 bilhões por ano, além de minorar o sofrimento de populações mais pobres e carentes."
+    },
+    {
+     "inicio_corpo": 2785,
+     "fim_corpo": 3583,
+     "trecho": "No Nordeste, 35% dos domicílios não têm água encanada e 85% não dispõem de rede de esgoto; no País são 21% e 58%, respectivamente, percentuais, como se vê, que beiram a escândalo perante as entidades internacionais que monitoram tais áreas. Conclui-se, à primeira vista, que temos preferido \"tratar o doente\" a \"prevenir a doença\" com um saneamento que assegurasse a todos boa qualidade de vida. As estimativas do BNDES demonstram que, para cada R$4,00 aplicados em saneamento, economizam-se R$10,00 no atendimento à saúde. Portanto, se cumprida fosse a meta desejada pelo Ministro da Saúde de se investirem R$4 bilhões por ano em saneamento público, o Governo economizaria em assistência à saúde R$10 bilhões por ano, além de minorar o sofrimento de populações mais pobres e carentes."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0356::Domicílio e arranjo familiar",
+   "unit_id": "S0356",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-08-08",
+   "orador": "Arlindo Porto",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1655,
+     "fim_corpo": 2576,
+     "trecho": "Ora, se o objetivo é atender os mais carentes, não se pode discriminar estados ou regiões. O critério correto deveria ter sido, desde o início, sem dúvida, o IDH dos Municípios brasileiros e não o IDH dos Estados. Assim, como o Brasil apresenta profundos desequilíbrios regionais, o mesmo acontece no âmbito dos estados. O critério adotado, sem que se tivesse ouvido as representações políticas, mostra-se profundamente injusto, pois discrimina pobres pelo estado de origem e não pelo estado de necessidade em que se encontram. Será diferente a fome do pobre da caatinga nordestina e dos rincões amazônicos daquela sentida pelos meninos de rua de outras cidades e estados? A impossibilidade de atendimento médico ou acesso à educação das famílias do Vale do Jequitinhonha e do Vale do Mucuri, em Minas Gerais, ou do Vale da Ribeira, em São Paulo, seria menos angustiante do que de outras regiões?"
+    },
+    {
+     "inicio_corpo": 12066,
+     "fim_corpo": 12933,
+     "trecho": "O País não pode discriminar este ou aquele Estado; tem que levar o programa a todos os Estados brasileiros. Associo-me também a V. Exª, ao Senador Sebastião Rocha e a todos no sentido de o Senado Federal pressionar, para que todos os Estados brasileiros sejam realmente atendidos. Mais uma vez, cumprimento-o pelo oportunismo e pelo brilhantismo do pronunciamento de V. Exª. Muito obrigado. O SR. ARLINDO PORTO (PTB – MG) – Muito obrigado, Senador Maguito Vilela. Recordo-me de, quando V. Exª era Vice-Governador do Governador Iris Rezende e eu, Vice-Governador do Governador Hélio Garcia, quantas vezes nos encontramos nos municípios limítrofes de Minas Gerais e Goiás. Depois, V. Exª se tornou Governador do Estado de Goiás e continuou a ação do Governador Iris, implementando esse programa de combate à pobreza e de apoio e assistência às famílias carentes."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0356::Escolaridade e letramento",
+   "unit_id": "S0356",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-08-08",
+   "orador": "Arlindo Porto",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "analfabetismo",
+     "forma_encontrada": "analfabetismo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 392,
+     "fim_corpo": 1459,
+     "trecho": "É louvável a intenção do Executivo em promover ações coordenadas de promoção de desenvolvimento socioeconômico dos municípios carentes do País, tomando por base um indicativo mais humanitário, que é o Índice de Desenvolvimento Humano - IDH. Esta é a proposta do Programa de Desenvolvimento Integrado Socioeconômico, o IDH-14, projeto que se compatibiliza com o Fundo de Combate à Pobreza, aprovado nesta no Congresso Nacional por iniciativa do nosso Presidente, Senador Antonio Carlos Magalhães. O IDH, desenvolvido pela Organização das Nações Unidas na busca de melhorar a capacidade de avaliação das reais condições de vida das populações, é uma alternativa melhor ao que existia anteriormente e que considerava apenas os dados econômicos. Para composição do IDH são levados em conta fatores como índice de analfabetismo, nível de acesso à saúde e outros indicativos diretamente ligados ao nível de qualidade de vida e possibilidade do progresso dos habitantes e não apenas o produto interno regional ou nacional que envolve essa população."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0356::Idade",
+   "unit_id": "S0356",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-08-08",
+   "orador": "Arlindo Porto",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11146,
+     "fim_corpo": 12066,
+     "trecho": "Há fome no entorno do Distrito Federal, a poucos quilômetros do Palácio da Alvorada, em Santo Antônio do Descoberto, em Águas Lindas; até mesmo dentro de Brasília, na cidade estrutural, milhares de pessoas disputam o \"lixão\". No nordeste goiano, também há fome. Se o Governo quer combater a fome, tem de ir aos locais onde ela está. E onde está a fome? Em todos os Estados brasileiros, em vários municípios; não diria em todos os Municípios brasileiros, mas em todos os estados, com certeza! Por intermédio dos prefeitos, poder-se-iam detectar aqueles que realmente passam fome, para que fossem naturalmente acudidos. Quero dizer a V. Exª que fizemos um programa como esse em Goiás e não excluímos uma cidade sequer; atendemos Anápolis, cidade industrial, Goiânia, capital do Estado, mas as 242 cidades de Goiás foram tratadas igualmente no combate à fome e à miséria, inclusive com assistência às crianças abandonadas."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0356::Infraestrutura e porte populacional",
+   "unit_id": "S0356",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-08-08",
+   "orador": "Arlindo Porto",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "fronteira",
+     "forma_encontrada": "fronteira",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "sem atendimento",
+     "forma_encontrada": "sem atendimento",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7851,
+     "fim_corpo": 8892,
+     "trecho": "Ainda há tempo para que se repare esse tratamento desigual e desproporcional, que afeta não só Minas Gerais, mas os 12 estados discriminados e, mais do que isso, os municípios e, principalmente, os brasileiros mais carentes de nosso País. O Sr. Sebastião Rocha (Bloco/PDT – AP) – Permite-me V. Exª um aparte, Senador Arlindo Porto? O SR. ARLINDO PORTO (PTB – MG) – Com muito prazer, Senador Sebastião Rocha. O Sr. Sebastião Rocha (Bloco/PDT – AP) – Quero apoiar integralmente o discurso de V. Exª e, ao mesmo tempo, referir-me a um pronunciamento do Senador Maguito Vilela, feito na semana passada no mesmo tom. Associo-me, portanto, a esse propósito de V. Exª de que o Senado da República se mobilize para rever esses critérios, numa articulação com a área do Governo responsável por esse programa. Veja V. Exª se há cabimento em excluir o Amapá, um Estado na fronteira norte do Brasil, recém-criado, sem nenhuma estrutura, ainda, do ponto de vista administrativo, econômico e social, de um programa dessa natureza."
+    },
+    {
+     "inicio_corpo": 10304,
+     "fim_corpo": 11085,
+     "trecho": "Fico feliz com a atitude de V. Exª. Enche-me de satisfação poder levantar o tema nesta Casa e já ter a manifestação de V. Exª. O Sr. Maguito Vilela (PMDB – GO) – Permite-me V. Exª um aparte? O SR. ARLINDO PORTO (PTB – MG) – Ouço, com prazer, o aparte do Senador Maguito Vilela. O Sr. Maguito Vilela (PMDB – GO) – Senador Arlindo Porto, gostaria também de cumprimentá-lo pelo brilhantismo com que faz seu pronunciamento – aliás, brilhantismo que lhe é peculiar – e de fazer coro também com as palavras de V. Exª e do nobre Senador Sebastião Rocha, porque fiz um pronunciamento na semana passada nesse diapasão. Ninguém pode entender essa definição do Presidente da República de atender 14 estados e deixar 16 sem atendimento, além do próprio Distrito Federal."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0356::Macrorregião",
+   "unit_id": "S0356",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-08-08",
+   "orador": "Arlindo Porto",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "nordeste",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2944,
+     "fim_corpo": 3743,
+     "trecho": "Esqueceram-se – o que vem acontecendo reiteradamente – dos princípios federativos, já tão distorcidos pela inadequada proporcionalidade da representação política. Os técnicos do Governo Federal adotaram, inicialmente, o IDH estadual para selecionar 14 dos 26 Estados brasileiros, restringindo os programas de apoio aos de menor IDH. Posteriormente, utilizaram o IDH municipal para redistribuição dos recursos no âmbito dos Estados. Com isso, promoveram profunda injustiça, pois muitos dos municípios beneficiados têm IDH superior ao de tantos outros municípios que ficarão sem programas, obras e serviços, simplesmente por estarem em estados não selecionados, como se o miserável paulista, mineiro ou gaúcho tivessem maior resistência à fome e às doenças que os excluídos do Norte e Nordeste."
+    },
+    {
+     "inicio_corpo": 2944,
+     "fim_corpo": 3743,
+     "trecho": "Esqueceram-se – o que vem acontecendo reiteradamente – dos princípios federativos, já tão distorcidos pela inadequada proporcionalidade da representação política. Os técnicos do Governo Federal adotaram, inicialmente, o IDH estadual para selecionar 14 dos 26 Estados brasileiros, restringindo os programas de apoio aos de menor IDH. Posteriormente, utilizaram o IDH municipal para redistribuição dos recursos no âmbito dos Estados. Com isso, promoveram profunda injustiça, pois muitos dos municípios beneficiados têm IDH superior ao de tantos outros municípios que ficarão sem programas, obras e serviços, simplesmente por estarem em estados não selecionados, como se o miserável paulista, mineiro ou gaúcho tivessem maior resistência à fome e às doenças que os excluídos do Norte e Nordeste."
+    },
+    {
+     "inicio_corpo": 4257,
+     "fim_corpo": 5332,
+     "trecho": "O Sr. Gerson Camata (PMDB – ES) – Permite V. Exª um aparte? O SR. ARLINDO PORTO (PTB – MG) – Ouço V. Exª. O Sr. Gerson Camata (PMDB – ES) – Nobre Senador Arlindo Porto, interrompo o raciocínio de V. Exª para dizer que tudo o que V. Exª disser com relação a este assunto, o Espírito Santo se solidariza com Minas Gerais, já que fomos igualmente discriminados. O SR. ARLINDO PORTO (PTB – MG) – Senador Gerson Camata, com muita alegria incorporo essa manifestação de V. Exª. O Estado de Minas Gerais e o Estado que V. Exª representa e do qual já foi Governador sabem perfeitamente das distorções e dos desequilíbrios. Por isso, este assunto deve ser discutido, e é o que faço aqui no plenário do Senado, para que possamos sensibilizar os técnicos e, politicamente, sensibilizar o Governo para que medidas sejam tomadas. O norte do Espírito Santo, especialmente, enquadra-se nessa premissa, haja vista que recentemente foi incluído na área atendida pela Sudene; é uma prova inequívoca de que é uma região carente, assim como grande parte de Minas Gerais."
+    },
+    {
+     "inicio_corpo": 5833,
+     "fim_corpo": 6756,
+     "trecho": "Muita coisa mudou nesse mesmo período entre os estados. Em parte, pela própria guerra fiscal, em parte, pelas vantagens comparativas de cada região em uma economia célere, e muito pela capacidade do empresariado local. Mas não houve transformações de vulto em relação a municípios. Salvo raras exceções, de municípios que conseguiram captação de recursos de rápida frutificação. Tanto é que 11% dos 1.818 municípios mais pobres do País, com IDH até 0,50, estão em Minas Gerais. São 194 Municípios em Minas Gerais que se enquadram na condição de desenvolvimento humano baixo ou insatisfatório. Se tomarmos como base as microrregiões, o IDH municipal de 1991 indicava a existência de 209 microrregiões do País com o IDH entre 0,30 e 0,50, das quais 12 estão em Minas Gerais, todas localizadas nas áreas já reconhecidamente carentes: Vales do Jequitinhonha e do Mucuri, norte de Minas Gerais e região do rio Doce."
+    },
+    {
+     "inicio_corpo": 7851,
+     "fim_corpo": 8892,
+     "trecho": "Ainda há tempo para que se repare esse tratamento desigual e desproporcional, que afeta não só Minas Gerais, mas os 12 estados discriminados e, mais do que isso, os municípios e, principalmente, os brasileiros mais carentes de nosso País. O Sr. Sebastião Rocha (Bloco/PDT – AP) – Permite-me V. Exª um aparte, Senador Arlindo Porto? O SR. ARLINDO PORTO (PTB – MG) – Com muito prazer, Senador Sebastião Rocha. O Sr. Sebastião Rocha (Bloco/PDT – AP) – Quero apoiar integralmente o discurso de V. Exª e, ao mesmo tempo, referir-me a um pronunciamento do Senador Maguito Vilela, feito na semana passada no mesmo tom. Associo-me, portanto, a esse propósito de V. Exª de que o Senado da República se mobilize para rever esses critérios, numa articulação com a área do Governo responsável por esse programa. Veja V. Exª se há cabimento em excluir o Amapá, um Estado na fronteira norte do Brasil, recém-criado, sem nenhuma estrutura, ainda, do ponto de vista administrativo, econômico e social, de um programa dessa natureza."
+    },
+    {
+     "inicio_corpo": 8675,
+     "fim_corpo": 9585,
+     "trecho": "Veja V. Exª se há cabimento em excluir o Amapá, um Estado na fronteira norte do Brasil, recém-criado, sem nenhuma estrutura, ainda, do ponto de vista administrativo, econômico e social, de um programa dessa natureza. Então, sem dúvida, Senador Arlindo Porto, o mais prudente, o mais correto seria atender a municípios de todos os estados. É preferível atender aos municípios mais pobres de todos os Estados brasileiros a selecionar 14 estados. Nesse sentido, estarei apresentando, amanhã, na reunião da Comissão de Assuntos Sociais, um requerimento, convocando o Ministro da área responsável por esse programa para debater e expor os critérios analisados. Eu, particularmente, quero muito saber por que o Amapá foi excluído desse programa. Se não me falham as informações, foi praticamente o único Estado do Norte a ter sido excluído, ao passo que praticamente todos os Estados do Nordeste foram contemplados."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0356::Renda e classe",
+   "unit_id": "S0356",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-08-08",
+   "orador": "Arlindo Porto",
+   "n_ocorrencias_no_par": 13,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 7,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "carentes",
+     "forma_encontrada": "carentes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "carentes",
+     "forma_encontrada": "carentes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobre",
+     "forma_encontrada": "pobre",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "carente",
+     "forma_encontrada": "carente",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "carentes",
+     "forma_encontrada": "carentes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "carentes",
+     "forma_encontrada": "carentes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "carentes",
+     "forma_encontrada": "carentes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 639,
+     "trecho": "O SR. ARLINDO PORTO (PTB - MG. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Sr as e Srs. Senadores, por dever de ofício e como representante do Estado de Minas Gerais nesta Casa, sou obrigado a denunciar a inconformidade dos mineiros com os critérios adotados pelo Programa de Desenvolvimento Integrado Socioeconômico, lançado semana passada pelo Governo Federal. É louvável a intenção do Executivo em promover ações coordenadas de promoção de desenvolvimento socioeconômico dos municípios carentes do País, tomando por base um indicativo mais humanitário, que é o Índice de Desenvolvimento Humano - IDH."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 900,
+     "trecho": "O SR. ARLINDO PORTO (PTB - MG. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Sr as e Srs. Senadores, por dever de ofício e como representante do Estado de Minas Gerais nesta Casa, sou obrigado a denunciar a inconformidade dos mineiros com os critérios adotados pelo Programa de Desenvolvimento Integrado Socioeconômico, lançado semana passada pelo Governo Federal. É louvável a intenção do Executivo em promover ações coordenadas de promoção de desenvolvimento socioeconômico dos municípios carentes do País, tomando por base um indicativo mais humanitário, que é o Índice de Desenvolvimento Humano - IDH. Esta é a proposta do Programa de Desenvolvimento Integrado Socioeconômico, o IDH-14, projeto que se compatibiliza com o Fundo de Combate à Pobreza, aprovado nesta no Congresso Nacional por iniciativa do nosso Presidente, Senador Antonio Carlos Magalhães."
+    },
+    {
+     "inicio_corpo": 900,
+     "fim_corpo": 1746,
+     "trecho": "O IDH, desenvolvido pela Organização das Nações Unidas na busca de melhorar a capacidade de avaliação das reais condições de vida das populações, é uma alternativa melhor ao que existia anteriormente e que considerava apenas os dados econômicos. Para composição do IDH são levados em conta fatores como índice de analfabetismo, nível de acesso à saúde e outros indicativos diretamente ligados ao nível de qualidade de vida e possibilidade do progresso dos habitantes e não apenas o produto interno regional ou nacional que envolve essa população. Se a intenção inicialmente é positiva, não podemos deixar de apontar o equívoco metodológico que é tomar diferentes índices para destinação de recursos, obras e serviços com os mesmos fins. Ora, se o objetivo é atender os mais carentes, não se pode discriminar estados ou regiões."
+    },
+    {
+     "inicio_corpo": 1459,
+     "fim_corpo": 2195,
+     "trecho": "Se a intenção inicialmente é positiva, não podemos deixar de apontar o equívoco metodológico que é tomar diferentes índices para destinação de recursos, obras e serviços com os mesmos fins. Ora, se o objetivo é atender os mais carentes, não se pode discriminar estados ou regiões. O critério correto deveria ter sido, desde o início, sem dúvida, o IDH dos Municípios brasileiros e não o IDH dos Estados. Assim, como o Brasil apresenta profundos desequilíbrios regionais, o mesmo acontece no âmbito dos estados. O critério adotado, sem que se tivesse ouvido as representações políticas, mostra-se profundamente injusto, pois discrimina pobres pelo estado de origem e não pelo estado de necessidade em que se encontram."
+    },
+    {
+     "inicio_corpo": 1459,
+     "fim_corpo": 2346,
+     "trecho": "Se a intenção inicialmente é positiva, não podemos deixar de apontar o equívoco metodológico que é tomar diferentes índices para destinação de recursos, obras e serviços com os mesmos fins. Ora, se o objetivo é atender os mais carentes, não se pode discriminar estados ou regiões. O critério correto deveria ter sido, desde o início, sem dúvida, o IDH dos Municípios brasileiros e não o IDH dos Estados. Assim, como o Brasil apresenta profundos desequilíbrios regionais, o mesmo acontece no âmbito dos estados. O critério adotado, sem que se tivesse ouvido as representações políticas, mostra-se profundamente injusto, pois discrimina pobres pelo estado de origem e não pelo estado de necessidade em que se encontram. Será diferente a fome do pobre da caatinga nordestina e dos rincões amazônicos daquela sentida pelos meninos de rua de outras cidades e estados?"
+    },
+    {
+     "inicio_corpo": 4387,
+     "fim_corpo": 5332,
+     "trecho": "Gerson Camata (PMDB – ES) – Nobre Senador Arlindo Porto, interrompo o raciocínio de V. Exª para dizer que tudo o que V. Exª disser com relação a este assunto, o Espírito Santo se solidariza com Minas Gerais, já que fomos igualmente discriminados. O SR. ARLINDO PORTO (PTB – MG) – Senador Gerson Camata, com muita alegria incorporo essa manifestação de V. Exª. O Estado de Minas Gerais e o Estado que V. Exª representa e do qual já foi Governador sabem perfeitamente das distorções e dos desequilíbrios. Por isso, este assunto deve ser discutido, e é o que faço aqui no plenário do Senado, para que possamos sensibilizar os técnicos e, politicamente, sensibilizar o Governo para que medidas sejam tomadas. O norte do Espírito Santo, especialmente, enquadra-se nessa premissa, haja vista que recentemente foi incluído na área atendida pela Sudene; é uma prova inequívoca de que é uma região carente, assim como grande parte de Minas Gerais."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0356::Território intraurbano",
+   "unit_id": "S0356",
+   "subcategoria": "Território intraurbano",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-08-08",
+   "orador": "Arlindo Porto",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "favela",
+     "forma_encontrada": "favela",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1875,
+     "fim_corpo": 2731,
+     "trecho": "Assim, como o Brasil apresenta profundos desequilíbrios regionais, o mesmo acontece no âmbito dos estados. O critério adotado, sem que se tivesse ouvido as representações políticas, mostra-se profundamente injusto, pois discrimina pobres pelo estado de origem e não pelo estado de necessidade em que se encontram. Será diferente a fome do pobre da caatinga nordestina e dos rincões amazônicos daquela sentida pelos meninos de rua de outras cidades e estados? A impossibilidade de atendimento médico ou acesso à educação das famílias do Vale do Jequitinhonha e do Vale do Mucuri, em Minas Gerais, ou do Vale da Ribeira, em São Paulo, seria menos angustiante do que de outras regiões? O que aflige mais: a falta de segurança no polígono da maconha no interior de Pernambuco ou a insegurança dos favelados do Estado do Rio de Janeiro?"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0357::Renda e classe",
+   "unit_id": "S0357",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-08-08",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobre",
+     "forma_encontrada": "pobre",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "carentes",
+     "forma_encontrada": "carentes",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1413,
+     "fim_corpo": 2284,
+     "trecho": "No entanto, quando lembramos que, no ano passado, após a desvalorização cambial, a dívida líqüida do setor público esteve perigosamente caminhando para a falta de controle, não resta dúvida de que a situação atual é bem mais tranqüila, tendo sido alcançada uma estabilização da dívida líqüida em relação ao PIB. O fato, Sr. Presidente, é que, se os recursos constitucionais que pertenciam a Estados e a Municípios – a participação nos impostos de arrecadação federal – puderam ajudar a União no controle das contas públicas federais, tais recursos, ao mesmo tempo, fizeram muita falta a seus legítimos donos. Como conseqüência, os Estados e os Municípios precisaram sofrer um ajuste fiscal mais pesado e mais radical do que seria devido, ocasionando a suspensão e a piora de serviços públicos essenciais prestados à população, especialmente à população mais pobre."
+    },
+    {
+     "inicio_corpo": 5049,
+     "fim_corpo": 5923,
+     "trecho": "Tal medida, extremamente drástica, contribuiu para a piora sistemática das contas públicas de Estados e Municípios, fazendo com que ocorresse prejuízo indelével aos serviços públicos por ele oferecidos. Finalmente, este ano o FEF deixou de existir. Entretanto, faz-se necessário reparar o efeito nefasto causado às finanças públicas durante a vigência daquele confisco. É importante perceber que os recursos retirados de diversos entes da Federação formaram, de fato, uma espécie de empréstimo compulsório da União para com os demais entes componentes da Federação. Destarte, neste momento em que a União já atingiu seu equilíbrio fiscal, como disse antes, faz-se premente que sejam viabilizadas condições para que os Estados e os Municípios façam o mesmo, sem que deteriorem ainda mais os serviços prestados ao público, particularmente aos mais carentes."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0358::Domicílio e arranjo familiar",
+   "unit_id": "S0358",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-08-09",
+   "orador": "Clodoaldo Torres",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12350,
+     "fim_corpo": 13632,
+     "trecho": "Na Inglaterra, onde só há praticamente termelétricas, privatizou-se tudo. Na Noruega, onde só há praticamente hidrelétricas, não se privatizou nada. Há toda a lógica nisso. Obviamente, o correto é dirigir o modelo para a introdução da concorrência entre os agentes, e não, primordialmente, para a mudança da natureza da propriedade das instalações. Um outro motivo para que, nos Estados Unidos, não se privatizem as hidrelétricas estatais é que isso é política e economicamente inviável. Os Estados daquela Federação, beneficiados pelos baixos preços da energia elétrica estatal, jamais concordariam com a privatização, que levaria necessariamente ao aumento de tarifas, pois os investimentos privados teriam que ser remunerados. Um aumento de tarifas que contrariaria os interesses das empresas, dos trabalhadores e das famílias. Como seria o nosso caso, na eventualidade de privatização da Chesf. Portanto, Sr. Presidente, por todas essas razões, defendo a seguinte posição: privatizar a Chesf é indesejável; privatizar a Chesf é impróprio; privatizar a Chesf é descabido. Mas, sobretudo, privatizar a Chesf é pouco inteligente, é pouco esclarecido, é correr um risco excessivamente alto a ser dolorosamente pago pelos nordestinos e pelo Brasil. Muito obrigado."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0358::Macrorregião",
+   "unit_id": "S0358",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-08-09",
+   "orador": "Clodoaldo Torres",
+   "n_ocorrencias_no_par": 14,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 8,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "norte",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "norte",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "norte",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "norte",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 758,
+     "trecho": "O SR. CLODOALDO TORRES (PTB - PE. Pronuncia o seguinte discurso. Sem revisão do orador.) - Sr. Presidente, Srªs e Srs. Senadores, quero tratar aqui da privatização da Chesf, que consta dos planos imediatos do Governo. Pretendo analisar e comentar esse assunto sem nenhum passionalismo, sem nenhum preconceito. Não acredito na posição dos que querem manter tudo estatal nem na postura dos que querem tudo privatizar, a qualquer custo e a qualquer preço para a sociedade. No caso da Chesf, estou seguro de que existem fortíssimas e preponderantes razões para mantê-la sob controle estatal. Razões práticas, pragmáticas, relacionadas com a questão da água como bem público de usos múltiplos e conflitantes, principalmente em região árida como o Nordeste."
+    },
+    {
+     "inicio_corpo": 2558,
+     "fim_corpo": 3433,
+     "trecho": "Já quando se trata de privatizar usinas hidrelétricas, inseridas em cadeia em um grande rio, sujeito às pressões do uso múltiplo do precioso bem público que é a água, o caso se complica radicalmente. É a situação da Chesf. A privatização das usinas hidrelétricas existentes e em operação no São Francisco é uma proposta que tem que ser analisada com extremo cuidado; tem que ser amplamente discutida e examinada em debate aberto por técnicos e pela sociedade em geral; nos plenários das representações políticas e nas reuniões da cidadania. E, Sr. Presidente, os argumentos contra a privatização da Chesf vão, a cada passo, acumulando-se insuperavelmente. O que é a Chesf? Algumas palavras sobre ela. A Chesf, hoje, é um imenso parque de instalações de energia elétrica servindo o Nordeste: 17 mil quilômetros de linhas de transmissão, nove usinas hidrelétricas."
+    },
+    {
+     "inicio_corpo": 3105,
+     "fim_corpo": 3956,
+     "trecho": "E, Sr. Presidente, os argumentos contra a privatização da Chesf vão, a cada passo, acumulando-se insuperavelmente. O que é a Chesf? Algumas palavras sobre ela. A Chesf, hoje, é um imenso parque de instalações de energia elétrica servindo o Nordeste: 17 mil quilômetros de linhas de transmissão, nove usinas hidrelétricas. Fora a usina hidrelétrica de Boa Esperança, no rio Parnaíba, a Chesf é, essencialmente, o conjunto de grandes hidrelétricas do rio São Francisco: Sobradinho, Itaparica, Moxotó, o complexo das usinas de Paulo Afonso e Xingó. A Chesf são os 10.704 megawatts que movem a economia nordestina. E é uma empresa viável e rentável, com lucro líquido previsto para este ano de R$300 milhões, e R$1 bilhão para o próximo ano. Quando a Chesf foi fundada, há 55 anos, o Nordeste consumia apenas 1% da energia elétrica do Brasil."
+    },
+    {
+     "inicio_corpo": 3271,
+     "fim_corpo": 4245,
+     "trecho": "A Chesf, hoje, é um imenso parque de instalações de energia elétrica servindo o Nordeste: 17 mil quilômetros de linhas de transmissão, nove usinas hidrelétricas. Fora a usina hidrelétrica de Boa Esperança, no rio Parnaíba, a Chesf é, essencialmente, o conjunto de grandes hidrelétricas do rio São Francisco: Sobradinho, Itaparica, Moxotó, o complexo das usinas de Paulo Afonso e Xingó. A Chesf são os 10.704 megawatts que movem a economia nordestina. E é uma empresa viável e rentável, com lucro líquido previsto para este ano de R$300 milhões, e R$1 bilhão para o próximo ano. Quando a Chesf foi fundada, há 55 anos, o Nordeste consumia apenas 1% da energia elétrica do Brasil. Hoje, são 15%. No seu início, houve os que acharam ambiciosa demais a meta da primeira usina de Paulo Afonso: 165 megawatts! Hoje, com 65 vezes mais, a Chesf alavanca o desenvolvimento do Nordeste e contribui para diminuir as fortíssimas disparidades regionais ainda existentes no Brasil."
+    },
+    {
+     "inicio_corpo": 5670,
+     "fim_corpo": 6634,
+     "trecho": "Exª, analiso esse assunto na tentativa de ser o mais ponderado possível. Sou, de certa forma, radicalmente contra a privatização das nossas hidrelétricas. E não preciso ir muito longe, basta observar o modelo dos Estados Unidos, onde nunca se permitiu a privatização das hidrelétricas, em função dos argumentos que V. Exª expõe sobre a importância da água. Digo que abordo o assunto de forma ponderada porque não discordo, por exemplo, de iniciativas novas do Governo de que grupos privados possam vir a construir hidrelétricas em nosso País. O meu Estado, o Amapá, inclusive poderá ser palco da construção de uma hidrelétrica nesse modelo, onde uma empresa privada terá a concessão para construir a hidrelétrica de Santo Antônio, no rio Jari, nos limites entre o Pará e o Amapá. Sou favorável a essa construção. Mas sou contra, Senador Clodoaldo Torres, à privatização, por exemplo, da Eletronorte, porque ela é uma das coisas boas que existem na nossa Amazônia."
+    },
+    {
+     "inicio_corpo": 5743,
+     "fim_corpo": 6634,
+     "trecho": "Sou, de certa forma, radicalmente contra a privatização das nossas hidrelétricas. E não preciso ir muito longe, basta observar o modelo dos Estados Unidos, onde nunca se permitiu a privatização das hidrelétricas, em função dos argumentos que V. Exª expõe sobre a importância da água. Digo que abordo o assunto de forma ponderada porque não discordo, por exemplo, de iniciativas novas do Governo de que grupos privados possam vir a construir hidrelétricas em nosso País. O meu Estado, o Amapá, inclusive poderá ser palco da construção de uma hidrelétrica nesse modelo, onde uma empresa privada terá a concessão para construir a hidrelétrica de Santo Antônio, no rio Jari, nos limites entre o Pará e o Amapá. Sou favorável a essa construção. Mas sou contra, Senador Clodoaldo Torres, à privatização, por exemplo, da Eletronorte, porque ela é uma das coisas boas que existem na nossa Amazônia."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0358::Posição no trabalho",
+   "unit_id": "S0358",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-08-09",
+   "orador": "Clodoaldo Torres",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12350,
+     "fim_corpo": 13632,
+     "trecho": "Na Inglaterra, onde só há praticamente termelétricas, privatizou-se tudo. Na Noruega, onde só há praticamente hidrelétricas, não se privatizou nada. Há toda a lógica nisso. Obviamente, o correto é dirigir o modelo para a introdução da concorrência entre os agentes, e não, primordialmente, para a mudança da natureza da propriedade das instalações. Um outro motivo para que, nos Estados Unidos, não se privatizem as hidrelétricas estatais é que isso é política e economicamente inviável. Os Estados daquela Federação, beneficiados pelos baixos preços da energia elétrica estatal, jamais concordariam com a privatização, que levaria necessariamente ao aumento de tarifas, pois os investimentos privados teriam que ser remunerados. Um aumento de tarifas que contrariaria os interesses das empresas, dos trabalhadores e das famílias. Como seria o nosso caso, na eventualidade de privatização da Chesf. Portanto, Sr. Presidente, por todas essas razões, defendo a seguinte posição: privatizar a Chesf é indesejável; privatizar a Chesf é impróprio; privatizar a Chesf é descabido. Mas, sobretudo, privatizar a Chesf é pouco inteligente, é pouco esclarecido, é correr um risco excessivamente alto a ser dolorosamente pago pelos nordestinos e pelo Brasil. Muito obrigado."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0359::Domicílio e arranjo familiar",
+   "unit_id": "S0359",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-08-11",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6192,
+     "fim_corpo": 7847,
+     "trecho": "Louvo a iniciativa de V. Exª de registrar esse fato e de solidarizar-se com o Ministro da Educação Paulo Renato. Também o faço. S. Exª também pode contar com a minha solidariedade e com a minha contribuição, para que possamos permanecer alertas a essa especulação que se faz num segmento de ensino tão importante e significativo para o desenvolvimento do nosso País. O SR. LÚCIO ALCÂNTARA (PSDB - CE) - Muito obrigado, nobre Senador Leomar Quintanilha. Essa medida do Ministério da Educação merece o aplauso geral. Que o Sr. Ministro Paulo Renato siga nessa mesma política e nessa mesma forma de atuar, porque será a garantia de que poderemos esperar um mínimo de qualidade do ensino superior do País. Essas faculdades são privadas, com anuidades que geralmente custam uma pequena fortuna. Pais de famílias, muitas vezes, fazem sacrifícios enormes para depois serem enganados, para terem seus filhos freqüentando escolas que não oferecem o mínimo de condição para a preparação desses jovens para o exercício profissional. O Ministério da Educação deve mesmo ser vigilante e rigoroso. Se há o que aprimorar no sistema de avaliação, vamos fazê-lo. Sem dúvida, essa foi uma medida salutar e saneadora. A proliferação de faculdades, sobretudo daquelas que formam profissionais que lidam com a vida, não pode continuar, sob pena de estarmos sendo coniventes com uma ação absolutamente irresponsável que só visa ao lucro e que só visa a satisfazer a ganância de alguns, sendo extremamente prejudicial à sociedade brasileira. Muito obrigado, Sr. Presidente. C:\\Arquivos de Programas\\taquigrafia\\macros\\normal_teste.dot 10/6/263:54"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0359::Educação",
+   "unit_id": "S0359",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-08-11",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3819,
+     "fim_corpo": 4679,
+     "trecho": "A simples realização do chamado provão não é suficiente para avaliar na plenitude a excelência de um determinado curso universitário, até porque o processo de avaliação se completa com outros elementos que vão além da prova, que dizem respeito à instalação física, à qualificação dos professores, à produção científica do corpo docente etc. Por isso, quando o Ministro Paulo Renato anuncia que, em razão desse mecanismo de avaliação, o Ministério da Educação está determinando o fechamento de faculdades de Medicina no País, admiro sua atitude. Tenho dito desta tribuna que a proliferação de cursos superiores no Brasil, sem obedecer - alguns estão autorizados há mais tempo e já funcionando - a padrões mínimos de qualidade, no caso das escolas de ciências ligadas à vida, sobretudo da Medicina, é um atentado, é algo que não podemos aceitar impunemente."
+    },
+    {
+     "inicio_corpo": 6217,
+     "fim_corpo": 7847,
+     "trecho": "Exª de registrar esse fato e de solidarizar-se com o Ministro da Educação Paulo Renato. Também o faço. S. Exª também pode contar com a minha solidariedade e com a minha contribuição, para que possamos permanecer alertas a essa especulação que se faz num segmento de ensino tão importante e significativo para o desenvolvimento do nosso País. O SR. LÚCIO ALCÂNTARA (PSDB - CE) - Muito obrigado, nobre Senador Leomar Quintanilha. Essa medida do Ministério da Educação merece o aplauso geral. Que o Sr. Ministro Paulo Renato siga nessa mesma política e nessa mesma forma de atuar, porque será a garantia de que poderemos esperar um mínimo de qualidade do ensino superior do País. Essas faculdades são privadas, com anuidades que geralmente custam uma pequena fortuna. Pais de famílias, muitas vezes, fazem sacrifícios enormes para depois serem enganados, para terem seus filhos freqüentando escolas que não oferecem o mínimo de condição para a preparação desses jovens para o exercício profissional. O Ministério da Educação deve mesmo ser vigilante e rigoroso. Se há o que aprimorar no sistema de avaliação, vamos fazê-lo. Sem dúvida, essa foi uma medida salutar e saneadora. A proliferação de faculdades, sobretudo daquelas que formam profissionais que lidam com a vida, não pode continuar, sob pena de estarmos sendo coniventes com uma ação absolutamente irresponsável que só visa ao lucro e que só visa a satisfazer a ganância de alguns, sendo extremamente prejudicial à sociedade brasileira. Muito obrigado, Sr. Presidente. C:\\Arquivos de Programas\\taquigrafia\\macros\\normal_teste.dot 10/6/263:54"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0359::Idade",
+   "unit_id": "S0359",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-08-11",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6305,
+     "fim_corpo": 7847,
+     "trecho": "Também o faço. S. Exª também pode contar com a minha solidariedade e com a minha contribuição, para que possamos permanecer alertas a essa especulação que se faz num segmento de ensino tão importante e significativo para o desenvolvimento do nosso País. O SR. LÚCIO ALCÂNTARA (PSDB - CE) - Muito obrigado, nobre Senador Leomar Quintanilha. Essa medida do Ministério da Educação merece o aplauso geral. Que o Sr. Ministro Paulo Renato siga nessa mesma política e nessa mesma forma de atuar, porque será a garantia de que poderemos esperar um mínimo de qualidade do ensino superior do País. Essas faculdades são privadas, com anuidades que geralmente custam uma pequena fortuna. Pais de famílias, muitas vezes, fazem sacrifícios enormes para depois serem enganados, para terem seus filhos freqüentando escolas que não oferecem o mínimo de condição para a preparação desses jovens para o exercício profissional. O Ministério da Educação deve mesmo ser vigilante e rigoroso. Se há o que aprimorar no sistema de avaliação, vamos fazê-lo. Sem dúvida, essa foi uma medida salutar e saneadora. A proliferação de faculdades, sobretudo daquelas que formam profissionais que lidam com a vida, não pode continuar, sob pena de estarmos sendo coniventes com uma ação absolutamente irresponsável que só visa ao lucro e que só visa a satisfazer a ganância de alguns, sendo extremamente prejudicial à sociedade brasileira. Muito obrigado, Sr. Presidente. C:\\Arquivos de Programas\\taquigrafia\\macros\\normal_teste.dot 10/6/263:54"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0359::Renda e classe",
+   "unit_id": "S0359",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-08-11",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 592,
+     "trecho": "O SR. LÚCIO ALCÂNTARA (PSDB - CE. Pronuncia o seguinte discurso. Sem revisão do orador.) - Sr. Presidente, Srªs e Srs. Senadores, o jornal Folha de S.Paulo, na edição de terça-feira, dia 8 de agosto, traz uma notícia muito interessante. Informa que o Sr. Michel Camdessus, ex-diretor-gerente do Fundo Monetário Internacional, foi nomeado conselheiro do Vaticano. Em um breve comunicado, o Vaticano anunciou que ele integrará o Conselho de Justiça e Paz. Será o mais novo membro desse Conselho, onde vai desenvolver esforços para que as dívidas dos países pobres sejam reduzidas ou perdoadas."
+    },
+    {
+     "inicio_corpo": 237,
+     "fim_corpo": 1234,
+     "trecho": "Informa que o Sr. Michel Camdessus, ex-diretor-gerente do Fundo Monetário Internacional, foi nomeado conselheiro do Vaticano. Em um breve comunicado, o Vaticano anunciou que ele integrará o Conselho de Justiça e Paz. Será o mais novo membro desse Conselho, onde vai desenvolver esforços para que as dívidas dos países pobres sejam reduzidas ou perdoadas. O Sr. Michel Camdessus é um católico, com sólida formação humanista, e esteve no comando do Banco Central da França, integrando a equipe que estudou a adesão do país à moeda única. Presidiu o Fundo Monetário Internacional durante três mandatos e sempre foi, de certa forma, também um crítico daquela instituição, na medida em que pregou a necessidade de renová-la. À frente daquela organização internacional, tudo fez para que ela mantivesse uma postura no sentido de promover realmente o desenvolvimento, principalmente dos países mais pobres ou daqueles que ainda lutam para encontrar o caminho do desenvolvimento e do bem-estar social."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0360::Domicílio e arranjo familiar",
+   "unit_id": "S0360",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-08-15",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4892,
+     "fim_corpo": 5651,
+     "trecho": "Tal situação é agravada, ainda, pelo fato perverso de as vagas mais disputadas do ensino superior públicos serem ocupadas por estudantes oriundos de escolas de ensino médio particulares, pagas, e, portanto, reservadas à elite econômica. O presente projeto de lei permite que os recursos do Fundo de Garantia por Tempo de Serviço - FGTS - sejam sacados pelo trabalhador para o pagamento da mensalidade escolar, no ensino médio e no superior, assim como para saldar dívidas do crédito educativo, em benefício próprio e de seus dependentes. Desse modo, proporciona a ampliação das oportunidades de acesso educacional. Ao mesmo tempo, fortalece o papel que é próprio do ensino privado: o de ser uma opção de educação para as famílias."
+    },
+    {
+     "inicio_corpo": 5458,
+     "fim_corpo": 6369,
+     "trecho": "Desse modo, proporciona a ampliação das oportunidades de acesso educacional. Ao mesmo tempo, fortalece o papel que é próprio do ensino privado: o de ser uma opção de educação para as famílias. A legislação é razoavelmente criteriosa no estabelecimento dos motivos de saques dos recursos do FGTS, uma vez que esse tem como propósito proteger o trabalhador contra as intempéries do mercado de trabalho. Essa tendência merece nosso apoio. Todavia, julgamos que a ampliação do acesso à educação representa motivação muito mais importante para o trabalhador do que a permissão, consagrada em lei, para investir no volátil mercado de capitais. Em suma, ao permitir que o trabalhador retire recursos do FGTS para investir em sua formação escolar e na de sua família, a legislação estará cumprindo mandamento constitucional que prevê ser a educação direito de todos e dever do Estado (art."
+    },
+    {
+     "inicio_corpo": 5873,
+     "fim_corpo": 6689,
+     "trecho": "Essa tendência merece nosso apoio. Todavia, julgamos que a ampliação do acesso à educação representa motivação muito mais importante para o trabalhador do que a permissão, consagrada em lei, para investir no volátil mercado de capitais. Em suma, ao permitir que o trabalhador retire recursos do FGTS para investir em sua formação escolar e na de sua família, a legislação estará cumprindo mandamento constitucional que prevê ser a educação direito de todos e dever do Estado (art. 205). Ressalto que só em Santa Catarina existem cerca de 60 mil estudantes do 2º grau matriculados em estabelecimentos particulares, e outros 20 mil freqüentam cursos de graduação em universidades e faculdades privadas. Acolhida a proposição, ganham os trabalhadores, suas famílias, as empresas e o País."
+    },
+    {
+     "inicio_corpo": 7242,
+     "fim_corpo": 8174,
+     "trecho": "Muitos estudantes não conseguem concluir o ensino médio; outros passam no vestibular, mas não podem freqüentar o curso porque seus pais não dispõem de recursos para pagar as mensalidades ou porque não conseguem arrumar emprego para custear seus estudos. Por outro lado, os recursos do crédito educativo, destinados aos estudantes universitários, não podem atender a todos. Estamos, portanto, diante de um grande drama. Em razão disso, já é prevista uma gama de situações em que o Fundo de Garantia pode ser aplicado. Ultimamente, por intermédio do Fundo de Garantia, foi possível aplicar no mercado de capitais, como ocorreu no caso da compra de ações da Petrobras. Então, se houve a possibilidade de utilização dos recursos do Fundo de Garantia com esse objetivo, por que um pai de família, que vê seu filho na iminência de interromper seus estudos, não pode utilizar um percentual desse Fundo, visto haver reservas?"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0360::Educação",
+   "unit_id": "S0360",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-08-15",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 10,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 4,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 66,
+     "fim_corpo": 958,
+     "trecho": "Sem revisão do orador.) - Sr. Presidente, Srªs e Srs. Senadores, venho à tribuna, nesta tarde, para tratar de um problema sério que tenho observado no meu Estado - e acredito que pelo Brasil afora - em relação aos estudantes dos diversos níveis. Sr. Presidente, tenho recebido, constantemente, correspondências de pais de alunos e de alunos que freqüentam o ensino médio, especialmente os de 2º grau, e até dos que já cursam o nível superior - acredito que os meus nobres Pares também passam por isso - expondo todas as dificuldades existentes para darem continuidade aos estudos. Além disso há pedidos de emprego, de preferência de meio expediente, para os estudantes - para que não percam o vestibular feito ou para que possam dar seqüência à faculdade que fazem -, para que se sustentem, pois os pais, na maioria das vezes, não têm condições de manter seus filhos na escola."
+    },
+    {
+     "inicio_corpo": 958,
+     "fim_corpo": 1779,
+     "trecho": "E como muitas vezes os pais não têm recursos, e os filhos também não, há o cancelamento do curso, e é um drama, o filho volta para casa decepcionado. Vemos isso a todo instante. Sr. Presidente, baseado nisso, embora haja o crédito educativo, além de outras saídas - no meu Estado, há um fundo constitucional para bolsas de estudos para estudantes carentes -, trocando idéias com outras pessoas e consultando entidades organizadas, chegamos à conclusão que se poderia criar uma nova maneira de usar o Fundo de Garantia por Tempo de Serviço. Se o pai não pode pagar o estudo do filho, que também não consegue emprego para pagar os próprios estudos, e se ele tiver saldo no Fundo de Garantia, por que não usar uma parte disso para que seu filho tenha acesso à formação escolar, possa se preparar para a vida?"
+    },
+    {
+     "inicio_corpo": 1513,
+     "fim_corpo": 2354,
+     "trecho": "Se o pai não pode pagar o estudo do filho, que também não consegue emprego para pagar os próprios estudos, e se ele tiver saldo no Fundo de Garantia, por que não usar uma parte disso para que seu filho tenha acesso à formação escolar, possa se preparar para a vida? Após muita análise e discussões, chegamos à conclusão de que esse seria um caminho. Confesso, Sr. Presidente e nobres Colegas, que já existem alguns projetos tramitando nesta Casa no mesmo sentido, por isso entendemos apresentar, após ouvir inúmeros apelos, a seguinte proposta: Acrescenta inciso ao art. 20 da Lei nº 8.036, de 11 de maio de 1990, de forma a permitir saque no Fundo de Garantia por Tempo de Serviço (FGTS) para pagamento de mensalidade escolar no ensino médio e no superior, bem como de dívidas do programa de crédito educativo."
+    },
+    {
+     "inicio_corpo": 1779,
+     "fim_corpo": 2814,
+     "trecho": "Após muita análise e discussões, chegamos à conclusão de que esse seria um caminho. Confesso, Sr. Presidente e nobres Colegas, que já existem alguns projetos tramitando nesta Casa no mesmo sentido, por isso entendemos apresentar, após ouvir inúmeros apelos, a seguinte proposta: Acrescenta inciso ao art. 20 da Lei nº 8.036, de 11 de maio de 1990, de forma a permitir saque no Fundo de Garantia por Tempo de Serviço (FGTS) para pagamento de mensalidade escolar no ensino médio e no superior, bem como de dívidas do programa de crédito educativo. Art. 1º O art. 20 da Lei nº 8.036, de 11 de maio de 1990, passa a vigorar acrescido do inciso XIII: “Art. 20 ................................................................................... XIII - pagamento de mensalidade escolar, no ensino médio e em curso superior de graduação, bem como de prestações e saldo devedor de programa de crédito educativo, em benefício do titular e de seus dependentes."
+    },
+    {
+     "inicio_corpo": 2814,
+     "fim_corpo": 3949,
+     "trecho": "(AC)” Justificação A educação tem-se revelado cada vez mais valiosa para o desenvolvimento social e econômico de qualquer país. Além de permitir que os indivíduos desenvolvam as suas potencialidades, contribuindo, assim, para a sua realização pessoal, a educação reduz as desigualdades sociais e fortalece a capacidade produtiva das empresas e das nações, o que proporciona a sua melhor inserção no exigente e competitivo mercando internacional. Tal diagnóstico justifica o emprego de maior volume de recursos financeiros na ampliação da escolaridade e no aprimoramento da qualidade do ensino. Lamentavelmente, vários indicadores revelam as dificuldades de acesso ao ensino médio e à educação superior pela maioria da população brasileira. A taxa líquida de escolarização no ensino médio, por exemplo, é pouco superior a 20% (vejam bem, vou repetir: a taxa líquida de escolarização no ensino médio, por exemplo, é pouco superior a 20%; de cada 100 temos uma média de 20 que se preparam, que se formam no ensino médio no Brasil), enquanto atinge 60% na Argentina e quase 90% na Coréia do Sul."
+    },
+    {
+     "inicio_corpo": 2970,
+     "fim_corpo": 3949,
+     "trecho": "Além de permitir que os indivíduos desenvolvam as suas potencialidades, contribuindo, assim, para a sua realização pessoal, a educação reduz as desigualdades sociais e fortalece a capacidade produtiva das empresas e das nações, o que proporciona a sua melhor inserção no exigente e competitivo mercando internacional. Tal diagnóstico justifica o emprego de maior volume de recursos financeiros na ampliação da escolaridade e no aprimoramento da qualidade do ensino. Lamentavelmente, vários indicadores revelam as dificuldades de acesso ao ensino médio e à educação superior pela maioria da população brasileira. A taxa líquida de escolarização no ensino médio, por exemplo, é pouco superior a 20% (vejam bem, vou repetir: a taxa líquida de escolarização no ensino médio, por exemplo, é pouco superior a 20%; de cada 100 temos uma média de 20 que se preparam, que se formam no ensino médio no Brasil), enquanto atinge 60% na Argentina e quase 90% na Coréia do Sul."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0360::Escolaridade e letramento",
+   "unit_id": "S0360",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-08-15",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 12,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 6,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "estudantes",
+     "forma_encontrada": "estudantes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "estudantes",
+     "forma_encontrada": "estudantes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "estudantes",
+     "forma_encontrada": "estudantes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escolaridade",
+     "forma_encontrada": "escolaridade",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "estudantes",
+     "forma_encontrada": "estudantes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "estudantes",
+     "forma_encontrada": "estudantes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "estudantes",
+     "forma_encontrada": "estudantes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "estudantes",
+     "forma_encontrada": "estudantes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "estudantes",
+     "forma_encontrada": "estudantes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "estudantes",
+     "forma_encontrada": "estudantes",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 312,
+     "trecho": "O SR. CASILDO MALDANER (PMDB - SC. Pronuncia o seguinte discurso. Sem revisão do orador.) - Sr. Presidente, Srªs e Srs. Senadores, venho à tribuna, nesta tarde, para tratar de um problema sério que tenho observado no meu Estado - e acredito que pelo Brasil afora - em relação aos estudantes dos diversos níveis."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 661,
+     "trecho": "O SR. CASILDO MALDANER (PMDB - SC. Pronuncia o seguinte discurso. Sem revisão do orador.) - Sr. Presidente, Srªs e Srs. Senadores, venho à tribuna, nesta tarde, para tratar de um problema sério que tenho observado no meu Estado - e acredito que pelo Brasil afora - em relação aos estudantes dos diversos níveis. Sr. Presidente, tenho recebido, constantemente, correspondências de pais de alunos e de alunos que freqüentam o ensino médio, especialmente os de 2º grau, e até dos que já cursam o nível superior - acredito que os meus nobres Pares também passam por isso - expondo todas as dificuldades existentes para darem continuidade aos estudos."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 661,
+     "trecho": "O SR. CASILDO MALDANER (PMDB - SC. Pronuncia o seguinte discurso. Sem revisão do orador.) - Sr. Presidente, Srªs e Srs. Senadores, venho à tribuna, nesta tarde, para tratar de um problema sério que tenho observado no meu Estado - e acredito que pelo Brasil afora - em relação aos estudantes dos diversos níveis. Sr. Presidente, tenho recebido, constantemente, correspondências de pais de alunos e de alunos que freqüentam o ensino médio, especialmente os de 2º grau, e até dos que já cursam o nível superior - acredito que os meus nobres Pares também passam por isso - expondo todas as dificuldades existentes para darem continuidade aos estudos."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 958,
+     "trecho": "O SR. CASILDO MALDANER (PMDB - SC. Pronuncia o seguinte discurso. Sem revisão do orador.) - Sr. Presidente, Srªs e Srs. Senadores, venho à tribuna, nesta tarde, para tratar de um problema sério que tenho observado no meu Estado - e acredito que pelo Brasil afora - em relação aos estudantes dos diversos níveis. Sr. Presidente, tenho recebido, constantemente, correspondências de pais de alunos e de alunos que freqüentam o ensino médio, especialmente os de 2º grau, e até dos que já cursam o nível superior - acredito que os meus nobres Pares também passam por isso - expondo todas as dificuldades existentes para darem continuidade aos estudos. Além disso há pedidos de emprego, de preferência de meio expediente, para os estudantes - para que não percam o vestibular feito ou para que possam dar seqüência à faculdade que fazem -, para que se sustentem, pois os pais, na maioria das vezes, não têm condições de manter seus filhos na escola."
+    },
+    {
+     "inicio_corpo": 661,
+     "fim_corpo": 1513,
+     "trecho": "Além disso há pedidos de emprego, de preferência de meio expediente, para os estudantes - para que não percam o vestibular feito ou para que possam dar seqüência à faculdade que fazem -, para que se sustentem, pois os pais, na maioria das vezes, não têm condições de manter seus filhos na escola. E como muitas vezes os pais não têm recursos, e os filhos também não, há o cancelamento do curso, e é um drama, o filho volta para casa decepcionado. Vemos isso a todo instante. Sr. Presidente, baseado nisso, embora haja o crédito educativo, além de outras saídas - no meu Estado, há um fundo constitucional para bolsas de estudos para estudantes carentes -, trocando idéias com outras pessoas e consultando entidades organizadas, chegamos à conclusão que se poderia criar uma nova maneira de usar o Fundo de Garantia por Tempo de Serviço."
+    },
+    {
+     "inicio_corpo": 2488,
+     "fim_corpo": 3436,
+     "trecho": "20 ................................................................................... XIII - pagamento de mensalidade escolar, no ensino médio e em curso superior de graduação, bem como de prestações e saldo devedor de programa de crédito educativo, em benefício do titular e de seus dependentes. (AC)” Justificação A educação tem-se revelado cada vez mais valiosa para o desenvolvimento social e econômico de qualquer país. Além de permitir que os indivíduos desenvolvam as suas potencialidades, contribuindo, assim, para a sua realização pessoal, a educação reduz as desigualdades sociais e fortalece a capacidade produtiva das empresas e das nações, o que proporciona a sua melhor inserção no exigente e competitivo mercando internacional. Tal diagnóstico justifica o emprego de maior volume de recursos financeiros na ampliação da escolaridade e no aprimoramento da qualidade do ensino."
+    }
+   ]
+  }
+ ]
+}

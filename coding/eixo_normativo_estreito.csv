@@ -1,0 +1,37 @@
+caso,codigo,subcategoria,nivel,mecanismo_tipo,diploma_evidencia,evidencia_verbatim,n_dispositivos,n_estrutural,n_superficial,n_indeterminado,escopo
+FUST,1.1,Idade,ausente,,,,0,0,0,0,estreito
+FUST,1.2,Gênero,ausente,,,,0,0,0,0,estreito
+FUST,1.3,Raça e etnia,ausente,,,,0,0,0,0,estreito
+FUST,1.4,Saúde e deficiência,estrutural,critério de elegibilidade,Lei 9.998/2000,XII – fornecimento de acessos individuais e equipamentos de interface a instituições de assistência a deficientes; XIII – fornecimento de acessos individuais e equipamentos de interface a deficientes carentes,1,1,0,0,estreito
+FUST,2.1,Renda e classe,estrutural,percentual destinado,Lei 9.998/2000,"de forma a beneficiar em percentuais maiores os estabelecimentos freqüentados por população carente, de acordo com a regulamentação do Poder Executivo;",1,1,0,0,estreito
+FUST,2.2,Escolaridade e letramento,ausente,,,,0,0,0,0,estreito
+FUST,2.3,Posição no trabalho,ausente,,,,0,0,0,0,estreito
+FUST,2.4,Domicílio e arranjo familiar,ausente,,,,1,0,0,0,estreito
+FUST,2.5,Vínculo institucional,ausente,,,,0,0,0,0,estreito
+FUST,3.1,Urbano e rural,estrutural,critério de elegibilidade,Lei 9.998/2000,XIV – implantação da telefonia rural.,1,1,0,0,estreito
+FUST,3.2,Macrorregião,ausente,,,,0,0,0,0,estreito
+FUST,3.3,Infraestrutura e porte populacional,estrutural,critério de elegibilidade,Lei 9.998/2000,I – atendimento a localidades com menos de cem habitantes;,1,1,0,0,estreito
+FUST,3.4,Território intraurbano,ausente,,,,0,0,0,0,estreito
+FUST,3.5,Territórios de povos e comunidades tradicionais,ausente,,,,0,0,0,0,estreito
+FUST,4.1,Educação,estrutural,percentual destinado,Lei 9.998/2000,"§ 2o Do total dos recursos do Fust, dezoito por cento, no mínimo, serão aplicados em educação, para os estabelecimentos públicos de ensino.",1,1,0,0,estreito
+FUST,4.2,Saúde,estrutural,critério de elegibilidade,Lei 9.998/2000,"implantação de acessos para utilização de serviços de redes digitais de informação destinadas ao acesso público, inclusive da internet, em condições favorecidas, a instituições de saúde;",1,1,0,0,estreito
+FUST,4.3,Cultura e informação,estrutural,critério de elegibilidade,Lei 9.998/2000,"VI – implantação de acessos para utilização de serviços de redes digitais de informação destinadas ao acesso público, inclusive da internet, em condições favorecidas, a estabelecimentos de ensino e bibliotecas",1,1,0,0,estreito
+FUST,4.4,Administração pública,estrutural,critério de elegibilidade,Lei 9.998/2000,"X – implantação de acessos individuais para órgãos de segurança pública; XI – implantação de serviços de telecomunicações em unidades do serviço público, civis ou militares, situadas em pontos remotos do território nacional;",1,1,0,0,estreito
+BEAD,1.1,Idade,ausente,,,,0,0,0,0,estreito
+BEAD,1.2,Gênero,ausente,,,,0,0,0,0,estreito
+BEAD,1.3,Raça e etnia,ausente,,,,0,0,0,0,estreito
+BEAD,1.4,Saúde e deficiência,ausente,,,,0,0,0,0,estreito
+BEAD,2.1,Renda e classe,estrutural,critério de elegibilidade,IIJA SEC. 60102,with priority given to a residential building that— (A) has a substantial share of unserved households; or (B) is in a location in which the percentage of individ- uals with a household income that is at or below 150 percent of the poverty line,2,2,0,0,estreito
+BEAD,2.2,Escolaridade e letramento,ausente,,,,0,0,0,0,estreito
+BEAD,2.3,Posição no trabalho,superficial,nenhum,IIJA SEC. 60102,"that facilitates greater use of broadband service by vulnerable populations, including low- income individuals, unemployed individuals, and aged individuals.",1,0,1,0,estreito
+BEAD,2.4,Domicílio e arranjo familiar,estrutural,critério de elegibilidade,IIJA SEC. 60102,"installing internet and Wi-Fi infrastructure or providing reduced-cost broadband within a multi-family residential building, with priority given to a residential building that— (A) has a substantial share of unserved households; or (B) is in a location in which the percentage of individ- uals with a household income that is at or below 150 percent of the poverty line",3,1,1,0,estreito
+BEAD,2.5,Vínculo institucional,ausente,,,,0,0,0,0,estreito
+BEAD,3.1,Urbano e rural,estrutural,critério de elegibilidade,IIJA SEC. 60102,"The Assistant Secretary shall provide technical and other assistance to eligible enti- ties— (i) to support the expansion of broadband, with priority for— (I) expansion in rural areas;",1,1,0,0,estreito
+BEAD,3.2,Macrorregião,estrutural,critério de elegibilidade,IIJA SEC. 60102,"S TATE.—The term ‘‘State’’ has the meaning given the term in section 158 of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 942), except that that definition shall be applied by striking ‘‘, and any other territory or possession of the United States’’.",1,1,0,0,estreito
+BEAD,3.3,Infraestrutura e porte populacional,estrutural,percentual destinado,IIJA SEC. 60102,"the Assistant Secretary shall allocate to eligible entities, in accordance with subparagraph (B) of this paragraph, 10 percent of the amount appropriated pursuant to subsection (b)(2).",11,7,4,0,estreito
+BEAD,3.4,Território intraurbano,ausente,,,,0,0,0,0,estreito
+BEAD,3.5,Territórios de povos e comunidades tradicionais,ausente,,,,0,0,0,0,estreito
+BEAD,4.1,Educação,superficial,nenhum,IIJA SEC. 60102,"C OMMUNITY ANCHOR INSTITUTION .—The term ‘‘community anchor institution’’ means an entity such as a school, library, health clinic, health center, hospital or other medical provider, public safety entity, institution of higher education, public housing organization, or commu- nity support organization that facilitates greater use of broadband service by vulnerable populations",1,0,1,0,estreito
+BEAD,4.2,Saúde,superficial,nenhum,IIJA SEC. 60102,"C OMMUNITY ANCHOR INSTITUTION .—The term ‘‘community anchor institution’’ means an entity such as a school, library, health clinic, health center, hospital or other medical provider, public safety entity, institution of higher education, public housing organization, or commu- nity support organization that facilitates greater use of broadband service by vulnerable populations",2,0,2,0,estreito
+BEAD,4.3,Cultura e informação,estrutural,obrigação de monitoramento,IIJA SEC. 60102,(V) identifies— (aa) each unserved location or under- served location under the jurisdiction of the eligible entity; and (bb) each community anchor institution under the jurisdiction of the eligible entity that is an eligible community anchor institu- tion;,7,6,1,0,estreito
+BEAD,4.4,Administração pública,estrutural,critério de elegibilidade,IIJA SEC. 60102,"may not exclude cooperatives, nonprofit organizations, public-private partnerships, private companies, public or private utilities, public utility dis- tricts, or local governments from eligibility for such grant funds;",3,3,0,0,estreito

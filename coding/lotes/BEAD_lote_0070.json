@@ -1,0 +1,786 @@
+{
+ "caso": "BEAD",
+ "lote": 70,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0327::Posição no trabalho",
+   "unit_id": "W0327",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jamil Jaffer",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 56650,
+     "fim_corpo": 57715,
+     "trecho": "To that end, the government should provide tax and other economic incentives for increased private investment in the development of such technologies, the broader deployment of large-scale computing infrastructure to support cloud and edge computing, and the expansion of AI capabilities being made available to U.S. and allied innovators across the globe. Likewise, the government should work with innovators and investors across the who share our interests to understand key government needs and priorities to develop the innovations and capabilities to address those needs. Likewise, ensuring that the United States and our allies are able to access the manufacturing capacity and workforce necessary to support a modern technology and communications infrastructure—including consistent access to semiconductors, critical minerals, and other core materials necessary to support major technological innovation—will also be of critical strategic importance to the United States in the coming years, particularly as our economic competition with China heats up."
+    },
+    {
+     "inicio_corpo": 58528,
+     "fim_corpo": 58932,
+     "trecho": "Tech Companies, supra n. 78 (“Picking and choosing individual companies to be treated differently than others under our antitrust laws is inconsistent with the heart of our economic system, which Seeks to reward innovation and success, not penalize them.”). 18 and infrastructure industries, and to ensure that we have the skilled workers necessary to build and maintain this capacity and capability."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0328::Infraestrutura e porte populacional",
+   "unit_id": "W0328",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tom Stroup",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 923,
+     "trecho": "House Energy & Commerce: Communications and Technology Subcommittee Hearing: “Global Networks at Risk: Securing the Future of Communications Infrastructure” Summary of Testimony of Tom Stroup, Satellite Industry Association Satellites are foundational to modern life, supporting global communications, navigation, remote sensing, and emergency response. SIA members provide critical, resilient services to Americans and allies worldwide, enabling U.S. leadership in an increasingly interconnected and contested world. With over 12,000 active satellites and plans for many more, we are in an era of rapid innovation. Satellite services support all 16 critical infrastructure sectors, from emergency communications to precision agriculture and resilience for global telecommunications. Satellites are uniquely positioned to connect unserved populations and serve as a backbone for 5G, IoT, and AI technologies."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0328::Urbano e rural",
+   "unit_id": "W0328",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tom Stroup",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7280,
+     "fim_corpo": 8199,
+     "trecho": "While both GEO and non-GEO systems have the ability to provide large amounts of capacity, the combined solutions offer the best of both systems, enhancing the resiliency and reliability of services. Another recent development furthering network resiliency is the deployment of direct to device mobile satellite connectivity, led through major partnerships between satellite operators and both wireless carriers and manufacturers, which greatly expand the range of communications available to mobile customers. Satellite technology is also making American agriculture more efficient and adaptable, providing resilience against international supply chain risks. Satellite broadband, for instance, enables remote farms with livestock sensors, soil monitors, and autonomous farming equipment in rural America, far beyond where terrestrial wireless and wireline can reach or make economic sense to deploy."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0330::Escolaridade e letramento",
+   "unit_id": "W0330",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Asad Ramzanali",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "student",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "Student",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "student",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9150,
+     "fim_corpo": 10021,
+     "trecho": "This means growing talent domestically by strengthening universities and recruiting and retaining the best minds from across the world. Today’s generative AI is based on the transformer model (the ‘T’ in GPT), first introduced in a technical paper in 2017.25 The eight researchers who authored the paper were working in the U.S. for an American company, but six were born outside the U.S. and the other two are children of immigrants.26 A recent analysis shows that 60% of the top AI startups in the U.S. have at least one immigrant founder,27 with 70% of those founders originally coming to the U.S. on student visas.28 Recent immigration actions risk hurting AI R&D supremacy and causing a “brain drain” of scientists.29 In the domain of this Subcommittee, the telecommunications sector is seeing interesting and important uses of AI that deserve attention."
+    },
+    {
+     "inicio_corpo": 29496,
+     "fim_corpo": 30527,
+     "trecho": "26 Steven Levy, 8 Google Employees Invented Modern AI. Here’s the Inside Story, WIRED, Mar. 2024, https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/. 27 Jeremy Neufeld & Lindsay Milliken, Most of America’s Top AI Companies Were Founded by Immigrants, INSTITUTE FOR PROGRESS (Apr. 16, 2025), https://ifp.org/most-of-americas-top-ai-companies-were-founded-by-immigrants/. 28 TINA HUANG, ZACHARY ARNOLD, & REMCO ZWETSLOOT, MOST OF AMERICA’S “MOST PROMISING” AI STARTUPS HAVE IMMIGRANT FOUNDERS (2020), https://cset.georgetown.edu/publication/most-of-americas-most-promising-ai-startups-have- immigrant-founders/. 29 Will Knight, Trump’s Crackdown on Foreign Student Visas Could Derail Critical AI Research, WIRED, May 29, 2025, https://www.wired.com/story/trump-administration-foreign-student-visa-brain-drain/; Nisha Gaind et al., US Brain Drain: Nature’s Guide to the Initiatives Drawing Scientists Abroad, 641 NATURE 1077 (2025), https://www nature.com/articles/d41586- 025-01540-y."
+    },
+    {
+     "inicio_corpo": 29496,
+     "fim_corpo": 30527,
+     "trecho": "26 Steven Levy, 8 Google Employees Invented Modern AI. Here’s the Inside Story, WIRED, Mar. 2024, https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/. 27 Jeremy Neufeld & Lindsay Milliken, Most of America’s Top AI Companies Were Founded by Immigrants, INSTITUTE FOR PROGRESS (Apr. 16, 2025), https://ifp.org/most-of-americas-top-ai-companies-were-founded-by-immigrants/. 28 TINA HUANG, ZACHARY ARNOLD, & REMCO ZWETSLOOT, MOST OF AMERICA’S “MOST PROMISING” AI STARTUPS HAVE IMMIGRANT FOUNDERS (2020), https://cset.georgetown.edu/publication/most-of-americas-most-promising-ai-startups-have- immigrant-founders/. 29 Will Knight, Trump’s Crackdown on Foreign Student Visas Could Derail Critical AI Research, WIRED, May 29, 2025, https://www.wired.com/story/trump-administration-foreign-student-visa-brain-drain/; Nisha Gaind et al., US Brain Drain: Nature’s Guide to the Initiatives Drawing Scientists Abroad, 641 NATURE 1077 (2025), https://www nature.com/articles/d41586- 025-01540-y."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0330::Posição no trabalho",
+   "unit_id": "W0330",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Asad Ramzanali",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4442,
+     "fim_corpo": 5484,
+     "trecho": "I have found it helpful to break AI into its component parts, as depicted in the accompanying figure. AI is commonly described as a technological stack,10 where the top layer represents an application that consumers or businesses use, and the bottom layers represent the physical infrastructure necessary to develop and use AI. The data centers that house the physical layers of the stack require high-capacity fiber connectivity for transferring data in from businesses and out to users. Businesses and consumers are only able to access the applications if they have access to high-speed internet, which has long been a key priority of this Subcommittee. Like any model, this depiction is overly simplified. Many important inputs to AI are not illustrated, including a robust R&D ecosystem, an educated and capable workforce, a competitive marketplace, internet access, intellectual and creative content, a robust rule of law, and even a California state ban on noncompete agreements that enables startup formation."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0330::Urbano e rural",
+   "unit_id": "W0330",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Asad Ramzanali",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12678,
+     "fim_corpo": 13505,
+     "trecho": "C. Increasing AI Access and Adoption for All Americans Finally, AI’s power and usefulness will be fundamentally limited if all Americans are not able to access applications that use AI. This Subcommittee has long led the charge for increasing access to and adoption of broadband. As mentioned earlier, AI systems are computers that connect to the world via fiber connections to the public internet, and which end-users access from their at-home or mobile internet connections. If all Americans do not have high-speed internet, we will exacerbate the digital divide. The Broadband Equity, Access, and Deployment (BEAD) and Digital Equity programs that this Subcommittee included in the bipartisan Infrastructure Investment and Jobs Act are important steps to close the digital divide, particularly in rural areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0331::Escolaridade e letramento",
+   "unit_id": "W0331",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Chip Pickering",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3990,
+     "fim_corpo": 4890,
+     "trecho": "Throughout my time on Capitol Hill, I witnessed firsthand this panel's critical role in shaping the foundational policies that enabled the Internet economy we know today. 2 1. The AI Race Against China: The Stakes We are in an AI race against China comparable to the Nuclear and Space Races of decades past. The critical difference is this race is funded primarily by private sector players in AI infrastructure and models. American companies and private investors directed approximately $110 billion to AI in 2024 — nearly 12 times more than China. But this lead is not guaranteed. China has declared AI a \"strategic technology\" with plans to lead global AI investments by 2030, establishing a National Data Administration, and leveraging centralized planning. They will graduate almost double the number of STEM students than the United States in 2025 and are overtaking the U.S."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0331::Infraestrutura e porte populacional",
+   "unit_id": "W0331",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Chip Pickering",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8924,
+     "fim_corpo": 9837,
+     "trecho": "3. Permitting Reform: Remove Barriers and Unleash Deployment Universal broadband access is a prerequisite to universal AI access. Every AI application — from training large language models to deploying autonomous systems — requires reliable 5 and high-capacity broadband networks. Policymakers should use this once-in-a-generation moment to break down existing barriers to fast and affordable deployment. We need comprehensive permitting reform across deployment methods — from fiber to fixed wireless, to satellite — that accelerates both energy and digital infrastructure deployment. Fiber Networks INCOMPAS member companies are investing billions in fiber networks that provide the high-speed, low-latency connections essential for AI applications. These networks must reach beyond metropolitan areas, and into rural and underserved communities that risk being left behind in the AI economy."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0331::Posição no trabalho",
+   "unit_id": "W0331",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Chip Pickering",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6531,
+     "fim_corpo": 7447,
+     "trecho": "Second: A Federal Strategy is Essential Beyond government operations, we must maximize efficiency of fiber, spectrum, and energy networks — the foundational infrastructure for AI success. Harnessing the intersection among these sectors is essential to form a national AI policy. We need national predictability — not a patchwork of state uncertainty. A patchwork of state frameworks at this time would be imprudent. The interstate nature of AI systems, data flows, and infrastructure demands consistent national standards. Moreover, our global aspirations mean we must approach this endeavor as a national priority. A temporary pause on state AI laws – like the one contained in H.R. 1 – gives Congress and the Administration the space to investigate, publish findings, and agree on a federal strategy that integrates energy, education, investment, national security, workforce development, and access."
+    },
+    {
+     "inicio_corpo": 16937,
+     "fim_corpo": 18078,
+     "trecho": "The lessons from ITFA and spectrum policy show us the way forward — across the aisle. 6. INCOMPAS and the AI Competition Center: Coordinating the National Conversation 10 Since 1982, INCOMPAS has championed open networks and open markets, and open competition. Through our AI Competition Center, launched in 2023, we are engaging in policy development and education for this critical era. This process has included: • Gathering industry and academic leaders on the cutting edge of AI development to serve on our Advisory Council to provide insight based on their respective expertise; • Working with our members to understand how they deploy AI systems in their own businesses; • Engaging legislators and their staff on the transformational potential of AI, building a broad coalition of voices; • Convening policy groups across the critical areas of AI development — namely workforce evolution and resilience, American energy security and leadership, and the power and potential of proprietary and open source models; and, • Publication of one of the first national policy frameworks for this groundbreaking technology."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0331::Urbano e rural",
+   "unit_id": "W0331",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Chip Pickering",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8924,
+     "fim_corpo": 9837,
+     "trecho": "3. Permitting Reform: Remove Barriers and Unleash Deployment Universal broadband access is a prerequisite to universal AI access. Every AI application — from training large language models to deploying autonomous systems — requires reliable 5 and high-capacity broadband networks. Policymakers should use this once-in-a-generation moment to break down existing barriers to fast and affordable deployment. We need comprehensive permitting reform across deployment methods — from fiber to fixed wireless, to satellite — that accelerates both energy and digital infrastructure deployment. Fiber Networks INCOMPAS member companies are investing billions in fiber networks that provide the high-speed, low-latency connections essential for AI applications. These networks must reach beyond metropolitan areas, and into rural and underserved communities that risk being left behind in the AI economy."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0332::Cultura e informação",
+   "unit_id": "W0332",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Jim Shea",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "library",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 985,
+     "fim_corpo": 2029,
+     "trecho": "Working with partners such as Intel, Nvidia, and Qualcomm, DeepSig’s AI based OmniPHY® software replaces traditional wireless processing algorithms with AI in 5G systems. When you make a call, the signal from your mobile phone travels to a base station often reﬂecting from multiple buildings and obstacles while competing with interfering signals. Traditional wireless algorithms employ a simpliﬁed one-size ﬁts all approach to pull signals out of the noise. AI on the other hand, can learn the local wireless environment by monitoring received signals to rapidly develop AI models that better sort signals from noise and impairments, dramatically improving spectrum efficiency and reducing dropped calls. This breakthrough extends to 5G massive MIMO technology – ﬂat panel antenna arrays that focus wireless signals at individual users. Traditional massive MIMO algorithms use a library of ﬁxed antenna beams but AI can learn the best beam shapes and directions for each user to optimize performance and the user experience."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0333::Idade",
+   "unit_id": "W0333",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ronnie Vasishta",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 587,
+     "trecho": "“AI in the Everyday: Current Applications and Future Frontiers in Communications and Technology” Hearing Before the United States House of Representatives Energy & Commerce Committee Subcommittee on Communications and Technology June 4th, 2025 Written Testimony of Ronnie Vasishta Senior Vice President of Telecom NVIDIA Chairman Guthrie, Ranking Member Pallone, Chairman Hudson, and Ranking Member Matsui, thank you for the invitation to speak with you today, and for your thoughtful engagement on artificial intelligence, telecommunications, and American competitiveness."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 675,
+     "trecho": "“AI in the Everyday: Current Applications and Future Frontiers in Communications and Technology” Hearing Before the United States House of Representatives Energy & Commerce Committee Subcommittee on Communications and Technology June 4th, 2025 Written Testimony of Ronnie Vasishta Senior Vice President of Telecom NVIDIA Chairman Guthrie, Ranking Member Pallone, Chairman Hudson, and Ranking Member Matsui, thank you for the invitation to speak with you today, and for your thoughtful engagement on artificial intelligence, telecommunications, and American competitiveness. My name is Ronnie Vasishta and I am the Senior Vice President of Telecom at NVIDIA."
+    },
+    {
+     "inicio_corpo": 10609,
+     "fim_corpo": 11553,
+     "trecho": "AI investments continue to expand within the industry, with 65 percent of respondents indicating an increase in 2025. The industry expects to prioritize these investments across building AI infrastructure, accelerating adoption through third- party AI solutions, and training staff on AI skills. Perspectives From the Field The survey focuses on telecommunications professionals who are the primary agents responsible for investing, implementing, and delivering AI to their companies. The survey was fielded from October to November 2024 and included a mix of single-choice and multiple-choice questions. Respondents represented a global mix of telecommunications companies, including network operators, system integrators, internet service providers, network equipment providers, independent software vendors, and more. Sixty percent of respondents are senior executives and directors, while 40 percent are individual contributors."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0333::Macrorregião",
+   "unit_id": "W0333",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ronnie Vasishta",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 26885,
+     "fim_corpo": 27739,
+     "trecho": "Telecom operators will be both adopters of AI and the engine that pushes AI solutions to billions of customers in nearly every country on the planet. We can see this clearly in how the telecommunications industry is adopting AI into the network stack. The next evolution of software-defined networks is AI-native networks, where AI enables both wired and wireless networks to become more energy- and cost-efficient and offer the flexibility to adapt to varying workloads and conditions. In wireless cellular networks, AI is helping to drive the monetization of 5G networks, while also playing a critical role in the research and development of 6G technologies. And with AI-RAN in wireless cellular networks, telecom operators can both be the primary users of AI and the hub for how AI is deployed at the edge in local regions and territories."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0335::Domicílio e arranjo familiar",
+   "unit_id": "W0335",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Jimmy Todd",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2570,
+     "fim_corpo": 3539,
+     "trecho": "This farm was eight miles outside Nex-Tech’s service boundary and would take an over nine-mile build to get fiber to their headquarters. Serving one customer that far away would never directly pay off on paper, but we also realized an opportunity like this in a rural area doesn’t just impact one farm, it impacts everyone. We figured out a plan to get them fiber and, as a result, they won the contract. Since then, that little dairy farm almost tripled in size and expanded their business into two other fiber-connected locations. Today, through fiber-based technologies, they monitor the health of 32,000 cows, control the milk processing and condensing plant, and use robots to assist with the daily milking of 10,000 cows. This is a huge success story for a small, rural business. But this isn’t a success story for just that farm—because of that contract they created local jobs, sustained family livelihoods, and brought economic growth to the entire community."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0335::Infraestrutura e porte populacional",
+   "unit_id": "W0335",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Jimmy Todd",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "last mile",
+     "forma_encontrada": "Last Mile",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3915,
+     "fim_corpo": 4806,
+     "trecho": "In farming, data helps increase yields, but also appropriately mitigates the inputs needed for the advanced yields and that is also good for our environment. Today’s farms use a variety of sensors, automated machinery, automated irrigation, and in some cases, as I previously mentioned, robotic labor. The data throughput varies by technology, but where 3 a sensor may be low data, a drone with high-resolution cameras may require extremely high data throughput. In many rural areas, connectivity has been a challenge, limiting their ability to take advantage of Ag Technology. As fiber has reached the farms and ranches, it has enhanced their ability to embrace new technology that will make their operation more productive and profitable. The Last Mile fiber network is needed to facilitate the high-functioning Last Acre network reaching across the acreage of our farms and ranches."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0335::Posição no trabalho",
+   "unit_id": "W0335",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Jimmy Todd",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1210,
+     "fim_corpo": 2101,
+     "trecho": "I was also appointed to the Precision Ag Task Force of the Federal Communications Commission (FCC), co-authoring a comprehensive report on related connectivity and technology needs on November 6, 2023. I also currently serve as a member of board of directors for the Fiber Broadband Association. In addition to my experience in the telecom industry, I am also a proud Veteran with 21+ years of service across the U.S. Navy, Army, and Army National Guard. As someone who lives in rural Kansas, I’ve seen first-hand how robust fiber broadband transforms small businesses and entire communities. Broadband is more than a utility—it’s vital economic infrastructure that connects all of us. With robust connectivity, rural communities can attract new 2 businesses, support entrepreneurs, and retain their workforce—including young people who often leave rural areas in search of opportunity."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0335::Saúde",
+   "unit_id": "W0335",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Jimmy Todd",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4806,
+     "fim_corpo": 5661,
+     "trecho": "While there are plenty of success stories, small businesses and cooperatives still face burdensome permitting processes that delay builds and discourage investment. Permitting delays drive up costs, waste resources, and create unnecessary administrative hurdles. Congress can help by streamlining these processes so providers can deploy fiber faster and more efficiently. My company was the first in the nation to bring fiber infrastructure to a rural exchange. We received a lot of criticism for gold-plating the network as a waste of money, but I am so glad we were not dissuaded from our belief in fiber and the potential it would provide to our communities and rural service areas. Fiber is the “do it once, do it right” investment—future-proof infrastructure that will support AI, smart agriculture, telehealth, and other innovations for decades."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0335::Urbano e rural",
+   "unit_id": "W0335",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Jimmy Todd",
+   "n_ocorrencias_no_par": 17,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 11,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural area",
+     "forma_encontrada": "rural area",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 452,
+     "trecho": "1 Written Testimony of Jimmy Todd CEO and General Manager Nex-Tech Hearing on “Wired for Growth: How Expanding Broadband Can Revitalize Rural Small Businesses” before the Committee on Small Business United States House of Representatives September 3, 2025 Thank you, Chairman Williams, Ranking Member Velázquez, and members of the Committee for the opportunity to appear before you today on the importance of fiber broadband for rural communities."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 452,
+     "trecho": "1 Written Testimony of Jimmy Todd CEO and General Manager Nex-Tech Hearing on “Wired for Growth: How Expanding Broadband Can Revitalize Rural Small Businesses” before the Committee on Small Business United States House of Representatives September 3, 2025 Thank you, Chairman Williams, Ranking Member Velázquez, and members of the Committee for the opportunity to appear before you today on the importance of fiber broadband for rural communities."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 617,
+     "trecho": "1 Written Testimony of Jimmy Todd CEO and General Manager Nex-Tech Hearing on “Wired for Growth: How Expanding Broadband Can Revitalize Rural Small Businesses” before the Committee on Small Business United States House of Representatives September 3, 2025 Thank you, Chairman Williams, Ranking Member Velázquez, and members of the Committee for the opportunity to appear before you today on the importance of fiber broadband for rural communities. My name is Jimmy Todd, and I am the CEO and General Manager for Nex-Tech, a local co-op that provides broadband to communities and small businesses in rural Kansas."
+    },
+    {
+     "inicio_corpo": 452,
+     "fim_corpo": 999,
+     "trecho": "My name is Jimmy Todd, and I am the CEO and General Manager for Nex-Tech, a local co-op that provides broadband to communities and small businesses in rural Kansas. Headquartered in Lenora, Kansas, Nex-Tech has 33,000 customers, serving over 11,000 square miles from the northwest to the central part of the state. I have close to 40 years of experience working in the technology and telecommunications industry. My career has been dedicated to ensuring rural communities have access to the best in telecom, broadband, and precision agriculture."
+    },
+    {
+     "inicio_corpo": 866,
+     "fim_corpo": 1804,
+     "trecho": "My career has been dedicated to ensuring rural communities have access to the best in telecom, broadband, and precision agriculture. I was a gubernatorial appointee to the Next Generation 9-1-1 Coordinating Council and Team Kansas under the state Department of Commerce, focusing on community and economic development efforts across the state. I was also appointed to the Precision Ag Task Force of the Federal Communications Commission (FCC), co-authoring a comprehensive report on related connectivity and technology needs on November 6, 2023. I also currently serve as a member of board of directors for the Fiber Broadband Association. In addition to my experience in the telecom industry, I am also a proud Veteran with 21+ years of service across the U.S. Navy, Army, and Army National Guard. As someone who lives in rural Kansas, I’ve seen first-hand how robust fiber broadband transforms small businesses and entire communities."
+    },
+    {
+     "inicio_corpo": 1210,
+     "fim_corpo": 2101,
+     "trecho": "I was also appointed to the Precision Ag Task Force of the Federal Communications Commission (FCC), co-authoring a comprehensive report on related connectivity and technology needs on November 6, 2023. I also currently serve as a member of board of directors for the Fiber Broadband Association. In addition to my experience in the telecom industry, I am also a proud Veteran with 21+ years of service across the U.S. Navy, Army, and Army National Guard. As someone who lives in rural Kansas, I’ve seen first-hand how robust fiber broadband transforms small businesses and entire communities. Broadband is more than a utility—it’s vital economic infrastructure that connects all of us. With robust connectivity, rural communities can attract new 2 businesses, support entrepreneurs, and retain their workforce—including young people who often leave rural areas in search of opportunity."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0335::Vínculo institucional",
+   "unit_id": "W0335",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Jimmy Todd",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veteran",
+     "forma_encontrada": "Veteran",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 767,
+     "fim_corpo": 1628,
+     "trecho": "I have close to 40 years of experience working in the technology and telecommunications industry. My career has been dedicated to ensuring rural communities have access to the best in telecom, broadband, and precision agriculture. I was a gubernatorial appointee to the Next Generation 9-1-1 Coordinating Council and Team Kansas under the state Department of Commerce, focusing on community and economic development efforts across the state. I was also appointed to the Precision Ag Task Force of the Federal Communications Commission (FCC), co-authoring a comprehensive report on related connectivity and technology needs on November 6, 2023. I also currently serve as a member of board of directors for the Fiber Broadband Association. In addition to my experience in the telecom industry, I am also a proud Veteran with 21+ years of service across the U.S."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0336::Cultura e informação",
+   "unit_id": "W0336",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Karen Jackson-Furman",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "libraries",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5918,
+     "fim_corpo": 6742,
+     "trecho": "Fiber Optic Technology It’s not just any connection that will make the difference. We’ve chosen to deploy ﬁber optic technology to as many homes and businesses as possible. We want to make sure our communities are not just getting by today with “good enough” technology, but that they have a high-speed, robust broadband network that will provide opportunities decades from now. Fiber is scalable and has capabilities that both meet the needs of today and the foreseeable future, with the ability to provide multi-gigabit, low latency, symmetrical service. There are also positive externalities beyond simply faster speeds to homes and small businesses. Fiber can support heavy users like schools, libraries, and health clinics and can also facilitate remote education, telehealth, and precision agriculture."
+    }
+   ]
+  }
+ ]
+}

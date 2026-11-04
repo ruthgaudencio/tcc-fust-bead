@@ -1,0 +1,796 @@
+{
+ "caso": "FUST",
+ "lote": 35,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0211::Idade",
+   "unit_id": "S0211",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-10",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "criança",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "Criança",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 931,
+     "trecho": "O SR. CASILDO MALDANER (PMDB - SC. Pronuncia o seguinte discurso. Sem revisão do orador.) - Sr. Presidente, nobres Colegas, não foram poucas as vezes que ocupei esta tribuna para abordar temas ligados à educação brasileira. Penso ser minha obrigação, como cidadão e Parlamentar, estimular o debate em torno dessa área absolutamente vital para o País. Volto a fazê-lo agora para focalizar uma questão da maior relevância, especialmente por sua aguda repercussão social. Trata-se do crucial problema do financiamento da educação superior, o qual, a cada dia que passa, torna-se mais angustiante. Falemos francamente se é verdade que o acesso ao Ensino Fundamental está sendo ampliado, possibilitando que cerca de 95% de nossas crianças sejam matriculadas na faixa de escolaridade obrigatória, o mesmo não pode ser afirmado tão amplamente em relação ao ensino médio e, muito particularmente, no que se refere à educação superior."
+    },
+    {
+     "inicio_corpo": 1522,
+     "fim_corpo": 2348,
+     "trecho": "Hoje, ter acesso e condições de permanência em um curso de graduação - seja ele qual for - é questão de direito e pressuposto para superar as barreiras do atraso e da dependência. Nesse sentido, dois desafios se colocam diante de nós e, em ambos os casos, não há como se escamotear a realidade. Em primeiro lugar, não pode o Poder Público se omitir no tocante à oferta de vagas ao ensino médio. Eis aí uma questão grave que bate à nossa porta e que, se não for enfrentada com determinação, haverá de explodir em pouco tempo, com gravíssimas repercussões sociais. De muito pouco adiantará o esforço que se está fazendo, no sentido de colocar \"toda criança na escola\" se não for oferecida aos adolescentes e jovens egressos do ensino fundamental possibilidade de concluírem a educação básica, terminando o ensino médio."
+    },
+    {
+     "inicio_corpo": 1522,
+     "fim_corpo": 2348,
+     "trecho": "Hoje, ter acesso e condições de permanência em um curso de graduação - seja ele qual for - é questão de direito e pressuposto para superar as barreiras do atraso e da dependência. Nesse sentido, dois desafios se colocam diante de nós e, em ambos os casos, não há como se escamotear a realidade. Em primeiro lugar, não pode o Poder Público se omitir no tocante à oferta de vagas ao ensino médio. Eis aí uma questão grave que bate à nossa porta e que, se não for enfrentada com determinação, haverá de explodir em pouco tempo, com gravíssimas repercussões sociais. De muito pouco adiantará o esforço que se está fazendo, no sentido de colocar \"toda criança na escola\" se não for oferecida aos adolescentes e jovens egressos do ensino fundamental possibilidade de concluírem a educação básica, terminando o ensino médio."
+    },
+    {
+     "inicio_corpo": 13037,
+     "fim_corpo": 13910,
+     "trecho": "Talvez fosse obrigação do Ministério da Educação realizar uma campanha pública afirmando que as escolas não podem fazer isso. Nenhuma instituição educacional pode prender currículos ou qualquer outro documento. É preciso mandar o caso, se ocorrer, para o Ministério Público. Se se deve à escola, esta tem obrigação de cobrar judicialmente a dívida. É ilegal que ela prenda currículo ou qualquer outro documento do estudante. É importante que as pessoas prestem atenção a isso, principalmente as mais simples, as mais pobres, que muitas vezes passam por esse tipo de humilhação. Às vezes, o estudante quer matricular-se em outra escola com mensalidade menor, mas a outra escola, da qual o pai ou a mãe de família é devedor, nega-se a entregar as notas. Isso é ilegal. Quando isso acontecer, vá ao Ministério Público, vá ao Conselho dos Direitos da Criança e do Adolescente."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0211::Posição no trabalho",
+   "unit_id": "S0211",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-10",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6212,
+     "fim_corpo": 7105,
+     "trecho": "Ademais, salta aos olhos a necessidade de um razoável prazo de carência após a formatura para que a dívida comece a ser saldada. Afinal, há um componente social nesse tipo de financiamento que não pode ser esquecido, sob pena de o Fies perder todo e qualquer sentido. Em suma, Sr. Presidente, nobres Colegas, acredito que um programa de financiamento da educação superior, como se pretende o Fies, somente se justifica se conseguir viabilizar o acesso e a permanência de estudantes carentes nos cursos pretendidos. Afinal, não são esses estudantes os responsáveis pelas mazelas do País, pela falta de vagas nas instituições públicas e gratuitas, por sua situação de penúria financeira. Eles não são os culpados. São, antes de tudo, vítimas de uma história que não construíram. Na maioria são trabalhadores que, em face de sua condição econômica, não tiveram acesso à universidade pública."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0211::Renda e classe",
+   "unit_id": "S0211",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-10",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "carentes",
+     "forma_encontrada": "carentes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobre",
+     "forma_encontrada": "pobre",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "carentes",
+     "forma_encontrada": "carentes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5837,
+     "fim_corpo": 6731,
+     "trecho": "No entanto, Sr. Presidente, isso ainda é muito pouco. A legislação que rege o Fies carece de urgente e profunda reformulação, sob pena de continuar esmagando os milhares de estudantes que dele dependem, quando não impossibilitando por completo sua utilização. Há que haver juros menores, diferenciando essa modalidade de empréstimo daqueles comuns no mercado financeiro. Ademais, salta aos olhos a necessidade de um razoável prazo de carência após a formatura para que a dívida comece a ser saldada. Afinal, há um componente social nesse tipo de financiamento que não pode ser esquecido, sob pena de o Fies perder todo e qualquer sentido. Em suma, Sr. Presidente, nobres Colegas, acredito que um programa de financiamento da educação superior, como se pretende o Fies, somente se justifica se conseguir viabilizar o acesso e a permanência de estudantes carentes nos cursos pretendidos."
+    },
+    {
+     "inicio_corpo": 8463,
+     "fim_corpo": 9155,
+     "trecho": "Quando estou no meu Estado nos fins de semana, sinto o clamor deles. Trabalham de dia para, à noite, freqüentarem o aperfeiçoamento de um curso superior. Entretanto, às vezes não encontram espaço no mercado de trabalho, e os pais fazem um apelo para que eu arrume um emprego, pelo menos de meio expediente, para que o filho possa pagar a faculdade. Eles dizem que o padrinho paga a pensão, mas a faculdade é R$300,00, R$500,00 e eles não têm esse dinheiro. O filho tem de arrumar um emprego, para poder se formar. E há faculdades que cobram R$700,00, R$800,00, R$900,00, R$1.000,00 por mês! O que pode fazer um pai pobre, com quatro ou cinco filhos, ganhando um salário mínimo, dois ou três?"
+    },
+    {
+     "inicio_corpo": 8812,
+     "fim_corpo": 9636,
+     "trecho": "Eles dizem que o padrinho paga a pensão, mas a faculdade é R$300,00, R$500,00 e eles não têm esse dinheiro. O filho tem de arrumar um emprego, para poder se formar. E há faculdades que cobram R$700,00, R$800,00, R$900,00, R$1.000,00 por mês! O que pode fazer um pai pobre, com quatro ou cinco filhos, ganhando um salário mínimo, dois ou três? O filho passa num vestibular e é triste vê-lo em casa, sem conseguir um emprego e sem freqüentar o banco escolar. Eu respondo a todos que procurem inscrever-se, na secretaria da sua faculdade, candidatando-se a dois pontos: um é o Crédito Educativo e o outro é um Fundo para a Educação, criado pela Constituição do nosso Estado, por meio de lei sancionada quando fui Governador. Os recursos do Fundo, previstos no Orçamento do Estado, são destinados a atender alunos carentes."
+    },
+    {
+     "inicio_corpo": 12720,
+     "fim_corpo": 13615,
+     "trecho": "Como isso é possível? Por essa razão, não poderia deixar de prestar solidariedade a V. Exª pelo seu pronunciamento. Esse problema não ocorre apenas em seu Estado. A questão é tão grave que, se o problema existe em um Estado com uma das maiores rendas per capita no Brasil, imaginem o que acontece nos outros Estados. Talvez fosse obrigação do Ministério da Educação realizar uma campanha pública afirmando que as escolas não podem fazer isso. Nenhuma instituição educacional pode prender currículos ou qualquer outro documento. É preciso mandar o caso, se ocorrer, para o Ministério Público. Se se deve à escola, esta tem obrigação de cobrar judicialmente a dívida. É ilegal que ela prenda currículo ou qualquer outro documento do estudante. É importante que as pessoas prestem atenção a isso, principalmente as mais simples, as mais pobres, que muitas vezes passam por esse tipo de humilhação."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0211::Urbano e rural",
+   "unit_id": "S0211",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-10",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2753,
+     "fim_corpo": 3492,
+     "trecho": "Ao Governo Federal cabe uma única atitude: criar algo similar ao atual Fundef - que, a propósito, precisa urgentemente aproximar suas contas da realidade, ao invés de trabalhar com valor fictício por aluno matriculado - para o financiamento do ensino médio. O segundo desafio situa-se no âmbito da educação superior. Uma vez mais, tenhamos a coragem de falar aberta e francamente: a União praticamente esgotou sua capacidade de intervenção nesse setor. Nem ela tem condições de criar e manter novas universidades, nem as instituições públicas conseguirão ampliar suas vagas à quantidade necessária. Assim, independentemente de nossa vontade ou de nossas convicções doutrinárias, o campo fica cada vez mais aberto à iniciativa privada."
+    },
+    {
+     "inicio_corpo": 14331,
+     "fim_corpo": 15746,
+     "trecho": "Mas continuamos deixando que um País deste tamanho, com uma população numerosa, comprometa apenas 3% de seu Orçamento com educação, do ensino fundamental ao nível superior. Parabéns, Senador Casildo Maldaner. O SR. CASILDO MALDANER (PMDB - SC) - É com honra que recolho suas ponderações, Senadora Heloisa Helena. Há recursos do próprio Governo para financiar moradias para a classe média ou até mesmo alta, por um período de 12 ou 15 anos, às vezes casas de praia em lugares de veraneio. Enquanto isso, vejo sofrer um estudante que quer se formar, que quer se preparar para a vida, para o País, para colaborar em áreas importantes. As vagas existem, porque o Conselho de Educação as autorizou. É preciso analisar se naquele campo há vaga para que a pessoa possa se preparar, porque o País precisa de profissionais, e não há condições de financiamento. Não dá para entender essa disparidade. Sr. Presidente, trago essa preocupação para que a área econômica, o Ministro da Educação enfrente o problema. Trata-se de uma questão social que precisa ser levada ao Presidente da República. Claro, os que precisam, até um certo limite, podem ter suas casas, mas financiar casas de veraneio com fundos do Governo não é possível. Precisamos encontrar caminhos para que todos possam preparar-se para colaborar com o Brasil. Trata-se de aproximarmos os excluídos de um processo do qual gostariam de participar."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0212::Domicílio e arranjo familiar",
+   "unit_id": "S0212",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-11",
+   "orador": "Carlos Bezerra",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "domicílio",
+     "forma_encontrada": "domicílio",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "domicílio",
+     "forma_encontrada": "domicílio",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3481,
+     "fim_corpo": 4319,
+     "trecho": "Obrigá-las a pagar indenizações nos montantes previstos pela Lei nº 8.420, de 1992, que alterou a mencionada Lei 4.866, pode levá-las à falência, fato que, no fim das contas, prejudicaria também seus representantes, que poderiam ficar sem nada receber. Isso, porém, não constitui razão suficiente para justificar a criação de um autêntico frankenstein legal, um corpo formado por partes arbitrariamente retiradas daqui e dali e costuradas de qualquer jeito, como seria a vinculação dos representantes comerciais ao regime do FGTS. Outro projeto é o que altera o art. 39 da Lei nº 4.886, que define o foro privilegiado para as eventuais controvérsias entre representantes e representados. Originalmente, a Lei se omitia quanto à questão; na Lei 8.420, porém, ficou definido como foro privilegiado o domicílio do representante."
+    },
+    {
+     "inicio_corpo": 4319,
+     "fim_corpo": 5118,
+     "trecho": "Em seu Projeto de Lei do Senado de número 132, de 1999, a Senadora Marluce Pinto volta a deixar em aberto a questão ao propor que o foro competente passe a ser aquele que constar do contrato celebrado entre representado e representante. Mais uma vez, a intenção do legislador visa à previsão de casos em que os representados sejam pequenas ou microempresas para as quais seria extremamente onerosa a contratação de profissionais de advocacia em outros Estados ou no interior. Acontece, porém, que isso abre às grandes empresas a possibilidade usar seu poder no sentido de pressionar seus representantes comerciais a assinarem contratos nos quais se defina como privilegiado o foro delas, representadas, impondo aos representantes os ônus de se defenderem judicialmente longe de seu domicílio."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0212::Posição no trabalho",
+   "unit_id": "S0212",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-11",
+   "orador": "Carlos Bezerra",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 826,
+     "fim_corpo": 1636,
+     "trecho": "Além disso, como atividade comercial, a representação oferece um campo promissor de trabalho para inúmeros empreendedores do interior do País, possibilitando a criação de outros empregos nos escritórios de representação. Os representantes comerciais constituem-se, portanto, numa classe de profissionais importante para a lucratividade das empresas dos grandes centros produtores e contribuem para a manutenção, para a ampliação, do nível de emprego e de atividade econômica dos municípios e estados menos desenvolvidos. Em um momento histórico em que nos preocupam tão intensamente a necessidade da retomada do crescimento econômico e o quadro desanimador do desemprego, não podemos desprezar nenhuma atividade, muito menos a pertencente um setor com tanto potencial de criação de empregos."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0212::Urbano e rural",
+   "unit_id": "S0212",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-11",
+   "orador": "Carlos Bezerra",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1053,
+     "trecho": "O SR. SENADOR CARLOS BEZERRA (PMDB – MT) - Sr. Presidente, Srªs. e Srs. Senadores, uma das atividades mais importantes para o funcionamento de uma economia dinâmica de mercado pode ter existência quase invisível, passando despercebida da população em geral e nem sempre recebendo o devido reconhecimento por parte das autoridades governamentais. Trata-se da representação comercial, pela qual uma empresa comercial pode, por meio de contrato, dispor de representantes em praças comerciais onde ela não teria condições de atuar diretamente, mas onde tem interesse em fazer negócios. Os representantes comerciais ao estimularem o aumento da produção de empresas industriais, pelo acréscimo de demanda que promovem a partir da sua atuação em mercados importadores, exercem uma função essencial para a expansão da economia. Além disso, como atividade comercial, a representação oferece um campo promissor de trabalho para inúmeros empreendedores do interior do País, possibilitando a criação de outros empregos nos escritórios de representação."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0213::Domicílio e arranjo familiar",
+   "unit_id": "S0213",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-12",
+   "orador": "Ernandes Amorim",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8730,
+     "fim_corpo": 9755,
+     "trecho": "Será que não queriam assumir o passivo que haviam criado e aguardavam a oportunidade de debitar os prejuízos ao Estado? E aqui vem, Senador Romeu Tuma: Será que queriam esconder a utilização da agência do Banco no Estado de São Paulo na lavagem de dinheiro obtido no \"esquema\" dos precatórios, descoberta em CPI desta Casa? Neste momento, ouço o aparte do nobre Senador Romeu Tuma para respaldar esse problema da participação do Banco Central na intervenção no Estado de Rondônia, que não é da responsabilidade do Sr. Armínio Fraga, mas de seus antecessores, para que S. Exª possa dizer o grau de comprometimento das autoridades que naquela época respondiam pela intervenção no Beron. O Sr. Romeu Tuma (PFL – SP) – Agradeço a V. Exª. Fica a interrogação preliminar: o crime compensa? Eu diria, com muita clareza, que quando ingressei na CPI dos Precatórios, sob a Presidência do ilustre Senador Bernardo Cabral - que hoje foi homenageado na CCJ, na hora correta e justa -, algumas diligências foram determinadas."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0213::Macrorregião",
+   "unit_id": "S0213",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-12",
+   "orador": "Ernandes Amorim",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10466,
+     "fim_corpo": 11465,
+     "trecho": "Exª faz: de quem é a responsabilidade criminal pelo resultado dessa lavagem de dinheiro, cujo prejuízo recaiu sobre o Beron? Não vejo nenhum governador, prefeito ou aqueles que estão sendo acusados de manipulação dos títulos da dívida pública por meio de precatórios fazerem com que o banco seja ressarcido dos prejuízos. Penso que V. Exª fez muito bem quando convidou o Presidente do Banco Central, que aqui virá e provavelmente trará em mãos documentos que possam explicar o que aconteceu, porque não ficou muito claro qual foi o papel do Banco Central durante a intervenção e sobre todo o prejuízo, o emaranhado que circulou nessas operações. Qualquer gerente, qualquer diretor poderia ter verificado o que estava acontecendo: um banco que movimenta 100 mil passa, de repente, a movimentar 1 milhão. Tem-se que saber por quê. Não dá para ignorar o fato de uma agência pequena, de um banco do Norte, num grande Estado, sob intervenção, ter duplicado, quadruplicado, quintuplicado o seu movimento."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0214::Posição no trabalho",
+   "unit_id": "S0214",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-12",
+   "orador": "Emília Fernandes",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3594,
+     "fim_corpo": 4896,
+     "trecho": "Portanto, Sr. Presidente, Srªs e Srs. Senadores, todos os envolvidos nessa negociata, que precisa ser melhor esclarecida à população brasileira, precisam dar uma explicação. É por isso, que amanhã, estaremos encaminhando, por intermédio da Comissão de Infra-Estrutura, um requerimento, convocando os responsáveis por esses órgãos oficiais a vir dar esclarecimento a esta Casa. O Congresso Nacional e a sociedade brasileira não podem aceitar pura e simplesmente que as coisas ocorram dessa forma, pois, além da doação das estatais públicas, ainda se está deixando de arrecadar impostos certamente necessários para pagar um salário mínimo mais decente aos trabalhadores deste País, para combater a pobreza, para se construir moradia, enfim, para se bancar, realmente, a educação e a saúde tão deficitárias em termos de recursos. Portanto, Sr. Presidente, Srªs e Srs. Senadores, estou profundamente preocupada, porque o ágio, que foi motivo de propaganda do Governo Federal durante a venda das empresas estatais de telefonia e energia, hoje está sendo devolvido, inclusive com vantagens para as empresas que fizeram a compra. Era este o registro que eu tinha a fazer. O debate maior dar-se-á, sem dúvida, na Comissão de Serviços de Infra-Estrutura. Muito obrigada. aÊ,"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0214::Renda e classe",
+   "unit_id": "S0214",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-12",
+   "orador": "Emília Fernandes",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3594,
+     "fim_corpo": 4896,
+     "trecho": "Portanto, Sr. Presidente, Srªs e Srs. Senadores, todos os envolvidos nessa negociata, que precisa ser melhor esclarecida à população brasileira, precisam dar uma explicação. É por isso, que amanhã, estaremos encaminhando, por intermédio da Comissão de Infra-Estrutura, um requerimento, convocando os responsáveis por esses órgãos oficiais a vir dar esclarecimento a esta Casa. O Congresso Nacional e a sociedade brasileira não podem aceitar pura e simplesmente que as coisas ocorram dessa forma, pois, além da doação das estatais públicas, ainda se está deixando de arrecadar impostos certamente necessários para pagar um salário mínimo mais decente aos trabalhadores deste País, para combater a pobreza, para se construir moradia, enfim, para se bancar, realmente, a educação e a saúde tão deficitárias em termos de recursos. Portanto, Sr. Presidente, Srªs e Srs. Senadores, estou profundamente preocupada, porque o ágio, que foi motivo de propaganda do Governo Federal durante a venda das empresas estatais de telefonia e energia, hoje está sendo devolvido, inclusive com vantagens para as empresas que fizeram a compra. Era este o registro que eu tinha a fazer. O debate maior dar-se-á, sem dúvida, na Comissão de Serviços de Infra-Estrutura. Muito obrigada. aÊ,"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0216::Macrorregião",
+   "unit_id": "S0216",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-13",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2806,
+     "fim_corpo": 4078,
+     "trecho": "Pelo menos nesses casos, os governos estaduais e as companhias de saneamento receberam os recursos mas não deram o passo subseqüente, por não existir a definição de titularidade e de marco regulatório. Repito o alerta de que o Governo está caminhando para um grave equívoco, porque, ao financiar o saneamento de Manaus, não faz sentido deixar de financiar também outras grandes cidades brasileiras. Caminharemos para o caos absoluto, para a irresponsabilidade absoluta num setor decisivo para a qualidade de vida do nosso povo, porque relacionado diretamente com a saúde. E, no momento em que houver saneamento organizado no País, gastaremos menos com remédio, com unidades de saúde, hospitais. Por isso estou preocupado, Senador Gilberto Mestrinho. Li essa matéria e repito que não tenho nenhuma restrição ao saneamento de Manaus, ao contrário, é um belo e importante Estado do Norte, mas trata-se de uma questão nacional, que precisa ser merecer profunda avaliação. Penso que o Governo pratica uma irresponsabilidade ao iniciar o financiamento da privatização, sem que antes defina a titularidade e principalmente o marco regulatório que garanta o funcionamento desse setor no nosso País. Muito obrigado, Sr. Presidente. Era o que tinha a dizer."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0216::Renda e classe",
+   "unit_id": "S0216",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-13",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1021,
+     "fim_corpo": 1806,
+     "trecho": "E o mais grave é que o setor de saneamento não tem um marco regulatório definido. Cito um exemplo típico dessa situação, para que o Presidente da Casa e os Srs. Senadores que me estão ouvindo entendam a gravidade dessa situação. Hoje há 27 companhias estaduais de saneamento, funcionando em moldes antigos e já superados. Mas são empresas públicas. Com a privatização, surgiram dilemas a serem resolvidos pela legislação, antes mesmo que esse processo de privatização continue. Como tratar, por exemplo, da inadimplência nesse setor? O tratamento de água e esgoto deixará de ser feito porque o cidadão não pagou sua conta ou ele tem direito a uma quantidade mínima de água? Entendo que esse é um direito do cidadão, particularmente daquele das camadas mais pobres do nosso povo."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0216::Saúde",
+   "unit_id": "S0216",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-13",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unidades de saúde",
+     "forma_encontrada": "unidades de saúde",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitais",
+     "forma_encontrada": "hospitais",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2806,
+     "fim_corpo": 4078,
+     "trecho": "Pelo menos nesses casos, os governos estaduais e as companhias de saneamento receberam os recursos mas não deram o passo subseqüente, por não existir a definição de titularidade e de marco regulatório. Repito o alerta de que o Governo está caminhando para um grave equívoco, porque, ao financiar o saneamento de Manaus, não faz sentido deixar de financiar também outras grandes cidades brasileiras. Caminharemos para o caos absoluto, para a irresponsabilidade absoluta num setor decisivo para a qualidade de vida do nosso povo, porque relacionado diretamente com a saúde. E, no momento em que houver saneamento organizado no País, gastaremos menos com remédio, com unidades de saúde, hospitais. Por isso estou preocupado, Senador Gilberto Mestrinho. Li essa matéria e repito que não tenho nenhuma restrição ao saneamento de Manaus, ao contrário, é um belo e importante Estado do Norte, mas trata-se de uma questão nacional, que precisa ser merecer profunda avaliação. Penso que o Governo pratica uma irresponsabilidade ao iniciar o financiamento da privatização, sem que antes defina a titularidade e principalmente o marco regulatório que garanta o funcionamento desse setor no nosso País. Muito obrigado, Sr. Presidente. Era o que tinha a dizer."
+    },
+    {
+     "inicio_corpo": 2806,
+     "fim_corpo": 4078,
+     "trecho": "Pelo menos nesses casos, os governos estaduais e as companhias de saneamento receberam os recursos mas não deram o passo subseqüente, por não existir a definição de titularidade e de marco regulatório. Repito o alerta de que o Governo está caminhando para um grave equívoco, porque, ao financiar o saneamento de Manaus, não faz sentido deixar de financiar também outras grandes cidades brasileiras. Caminharemos para o caos absoluto, para a irresponsabilidade absoluta num setor decisivo para a qualidade de vida do nosso povo, porque relacionado diretamente com a saúde. E, no momento em que houver saneamento organizado no País, gastaremos menos com remédio, com unidades de saúde, hospitais. Por isso estou preocupado, Senador Gilberto Mestrinho. Li essa matéria e repito que não tenho nenhuma restrição ao saneamento de Manaus, ao contrário, é um belo e importante Estado do Norte, mas trata-se de uma questão nacional, que precisa ser merecer profunda avaliação. Penso que o Governo pratica uma irresponsabilidade ao iniciar o financiamento da privatização, sem que antes defina a titularidade e principalmente o marco regulatório que garanta o funcionamento desse setor no nosso País. Muito obrigado, Sr. Presidente. Era o que tinha a dizer."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0217::Posição no trabalho",
+   "unit_id": "S0217",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-13",
+   "orador": "Heloísa Helena",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8060,
+     "fim_corpo": 9220,
+     "trecho": "Onde essas soluções técnicas se reverteram em benefício? Onde foram bem sucedidas? Onde elas apresentaram mérito, etc.? Essa é que é a grande questão. Então, eu queria parabenizar a Senadora e dizer que faço coro, em nome também do nosso Partido, com ela contra essa infeliz declaração do Fundo Monetário Internacional. A SRª HELOISA HELENA (Bloco/PT – AL) – Agradeço a V. Exª pelo aparte, Senador. Fico contente que possamos inclusive aprovar nesta Casa uma nota de repúdio, Sr. Presidente, assinada pelos vários Partidos, com o objetivo de protestar contra o Fundo Monetário Internacional. O Fundo Monetário Internacional tem imposto programas de ajuste fiscal que destróem nações inteiras pela fome, pelo desemprego, pela miséria e pelo sofrimento. O povo brasileiro pode questionar o Congresso Nacional, as forças políticas podem disputar posições aqui no Congresso e com a sociedade, mas jamais podem aceitar que o FMI faça qualquer crítica ao Parlamento brasileiro, pois ele não tem autoridade moral nem legitimidade popular para fazer qualquer crítica ao Congresso. Portanto, registro o meu repúdio, Sr. Presidente. ¿à P x"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0218::Domicílio e arranjo familiar",
+   "unit_id": "S0218",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-13",
+   "orador": "Tião Viana",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 595,
+     "trecho": "O Sr. Tião Viana (Bloco/PT – AC. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Sr as e Sr s Senadores, trago ao Senado Federal uma preocupação que certamente se estende a mais de oito mil famílias de brasileiros cujos filhos estudam em universidades na Bolívia. Trata-se da situação política da Bolívia. Não bastasse a suspeita de fraude na eleição do Peru, por uma prática de imperialismo que se quer implantar lá, pelo Governo Fujimori, mais uma vez, desrespeitando a soberania popular, a Bolívia acha-se em meio a uma conturbação da ordem pública e política."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0218::Idade",
+   "unit_id": "S0218",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-13",
+   "orador": "Tião Viana",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "JOVENS",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 289,
+     "trecho": "O Sr. Tião Viana (Bloco/PT – AC. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Sr as e Sr s Senadores, trago ao Senado Federal uma preocupação que certamente se estende a mais de oito mil famílias de brasileiros cujos filhos estudam em universidades na Bolívia."
+    },
+    {
+     "inicio_corpo": 5127,
+     "fim_corpo": 6534,
+     "trecho": "O discurso que desvirtua uma realidade, de que está se ampliando a cobertura de saneamento básico por intermédio de um consórcio internacional, no fundo, esconde uma tentativa de apropriação de um patrimônio, de um bem estratégico, que é a água, que tanto vai representar nos próximos 30 anos para os países que a detêm. Acredito que o Governo brasileiro deva ter, por intermédio do Ministério das Relações Exteriores, um cuidado especial com oito mil jovens que estão naquele momento vivendo um clima de tensão na Bolívia e que precisam ter tranqüilidade para não estarem diante de um momento de mais mortes, de mais violência nas ruas, que possa redundar em risco de vida, risco à integridade física de civis brasileiros que estão tentando viver e construir uma realidade que lhes permita trabalhar no futuro em seu próprio país. É um assunto delicado essa situação de privatização do serviço de saneamento; envolve amplo debate e tem sido exaustivamente exposto como preocupação do Senado Federal. Espero que o Governo brasileiro dê um basta definitivo a essa tese de que não deverá redundar em outra atitude, senão a de rejeição, pela sociedade brasileira, de uma política de privatização que, a cada dia, nos deixaria mais pobres e mais sujeitos a inseguranças sobre o que constitui nosso bem maior: o patrimônio mineral estratégico. Muito obrigado, Srª Presidente. è #"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0218::Renda e classe",
+   "unit_id": "S0218",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-13",
+   "orador": "Tião Viana",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3846,
+     "fim_corpo": 4745,
+     "trecho": "É preciso olhar para a inteligência do Estado, é preciso olhar para aquilo que é a capacidade de elevar os países do Terceiro Mundo localizados na América do Sul a uma condição de soberania, de dignidade e elevação perante um cenário internacional tão perverso. Estamos vivendo um momento em que o encontro dos países pobres em Havana decide que o que está posto dentro da política internacional de redução do papel do Estado nacional dos países pobres, de desnacionalização das empresas nacionais, é do tamanho ou maior do que o holocausto vivido neste século, que testemunhamos com olhos muito tristes. Fidel Castro alega que os países pobres deveriam se reunir e criar um tribunal internacional que julgasse, pela perversidade, aqueles ricos que cada vez mais procuram sangrar os pobres do Terceiro Mundo, por vaidade e em nome de uma soberania que quer sobreviver por mais mil anos."
+    },
+    {
+     "inicio_corpo": 3846,
+     "fim_corpo": 4745,
+     "trecho": "É preciso olhar para a inteligência do Estado, é preciso olhar para aquilo que é a capacidade de elevar os países do Terceiro Mundo localizados na América do Sul a uma condição de soberania, de dignidade e elevação perante um cenário internacional tão perverso. Estamos vivendo um momento em que o encontro dos países pobres em Havana decide que o que está posto dentro da política internacional de redução do papel do Estado nacional dos países pobres, de desnacionalização das empresas nacionais, é do tamanho ou maior do que o holocausto vivido neste século, que testemunhamos com olhos muito tristes. Fidel Castro alega que os países pobres deveriam se reunir e criar um tribunal internacional que julgasse, pela perversidade, aqueles ricos que cada vez mais procuram sangrar os pobres do Terceiro Mundo, por vaidade e em nome de uma soberania que quer sobreviver por mais mil anos."
+    },
+    {
+     "inicio_corpo": 4108,
+     "fim_corpo": 5127,
+     "trecho": "Estamos vivendo um momento em que o encontro dos países pobres em Havana decide que o que está posto dentro da política internacional de redução do papel do Estado nacional dos países pobres, de desnacionalização das empresas nacionais, é do tamanho ou maior do que o holocausto vivido neste século, que testemunhamos com olhos muito tristes. Fidel Castro alega que os países pobres deveriam se reunir e criar um tribunal internacional que julgasse, pela perversidade, aqueles ricos que cada vez mais procuram sangrar os pobres do Terceiro Mundo, por vaidade e em nome de uma soberania que quer sobreviver por mais mil anos. Entendo que o Brasil precisa ser oficialmente solidário ao povo boliviano neste momento, pedindo tranqüilidade aos que constróem e coordenam a ordem pública daquele país, pedindo que o resultado seja o respeito à manifestação popular, à decisão popular de não querer a privatização do serviço de saneamento, em respeito a um patrimônio estratégico daquele país, que é a água."
+    },
+    {
+     "inicio_corpo": 4457,
+     "fim_corpo": 5127,
+     "trecho": "Fidel Castro alega que os países pobres deveriam se reunir e criar um tribunal internacional que julgasse, pela perversidade, aqueles ricos que cada vez mais procuram sangrar os pobres do Terceiro Mundo, por vaidade e em nome de uma soberania que quer sobreviver por mais mil anos. Entendo que o Brasil precisa ser oficialmente solidário ao povo boliviano neste momento, pedindo tranqüilidade aos que constróem e coordenam a ordem pública daquele país, pedindo que o resultado seja o respeito à manifestação popular, à decisão popular de não querer a privatização do serviço de saneamento, em respeito a um patrimônio estratégico daquele país, que é a água."
+    },
+    {
+     "inicio_corpo": 5965,
+     "fim_corpo": 6534,
+     "trecho": "É um assunto delicado essa situação de privatização do serviço de saneamento; envolve amplo debate e tem sido exaustivamente exposto como preocupação do Senado Federal. Espero que o Governo brasileiro dê um basta definitivo a essa tese de que não deverá redundar em outra atitude, senão a de rejeição, pela sociedade brasileira, de uma política de privatização que, a cada dia, nos deixaria mais pobres e mais sujeitos a inseguranças sobre o que constitui nosso bem maior: o patrimônio mineral estratégico. Muito obrigado, Srª Presidente. è #"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0219::Idade",
+   "unit_id": "S0219",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-13",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "idosos",
+     "forma_encontrada": "idos os",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2540,
+     "fim_corpo": 3894,
+     "trecho": "O compromisso da Senadora Heloisa Helena, que nos representa, é de colocar a matéria logo em discussão. Estaremos sempre dizendo ao Governo Federal da importância de acelerar os passos para concluir o processo de demarcação das áreas indígenas. O Senador Antonio Carlos Magalhães, ouvindo inclusive as severas críticas ao incidente ocorrido com o Governo César Borges, procurou mencionar que é um governo que respeita direitos, mas se colocou à disposição, inclusive pedindo para nós, Senadores, examinemos bem quais foram os problemas. S. Exª disse que se dispõe a ajudar no diálogo, inclusive com os governos estadual e Federal, para corrigir os problemas que foram detectados. Convidaram-nos e aos povos indígenas para que estejamos, inclusive a Líder do PT, no próximo dia 22, na Bahia, para rememorarmos os sofrimentos a que foram submetidos os índios nestes 500 anos. Estes 500 anos não foram só de coisas boas para os povos que aqui chegaram, mas representaram muitas vezes sofrimento, seja para os que aqui estavam, os índios, seja para os que, arrancados da África, foram escravizados e para tantos que até hoje não têm os direitos à cidadania e à vida digna. Precisamos, então, reverter esse quadro para que o próximo milênio seja uma outra história de muito maior justiça para todos os brasileiros. Muito obrigado. ¿ F"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0219::Posição no trabalho",
+   "unit_id": "S0219",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-13",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "Trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 393,
+     "fim_corpo": 1232,
+     "trecho": "Stanley Fischer que a obrigação do Congresso Nacional é atender àquilo que nós, como representantes do povo, consideramos prioridade para a população brasileira. Não se pode, no Congresso Nacional, ter o exame dos assuntos nacionais sob a perspectiva do Fundo Monetário Internacional, que, na maioria das vezes, leva em consideração os interesses das instituições financeiras que emprestam recursos a diversos países, inclusive ao Brasil, e que geralmente se preocupam apenas com que cada Governo, seja municipal, seja estadual, ou federal, administre os recursos de forma a sempre sobrar o necessário – e o mais do que necessário – para o serviço da dívida, ainda que isso represente o estrangulamento dos gastos, a perda das garantias de direito à saúde, à educação, à habitação, a uma vida digna e aos direitos dos trabalhadores."
+    },
+    {
+     "inicio_corpo": 1926,
+     "fim_corpo": 2228,
+     "trecho": "O Senador também ouviu as reivindicações, que considero importantes, para que o Congresso Nacional, de pronto, examine o estatuto dos povos indígenas. A Câmara dos Deputados acabou de colocar em pauta para a próxima terça-feira esse estatuto, por solicitação da Liderança do Partido dos Trabalhadores."
+    }
+   ]
+  }
+ ]
+}

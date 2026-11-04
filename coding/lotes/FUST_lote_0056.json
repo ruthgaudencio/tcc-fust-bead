@@ -1,0 +1,927 @@
+{
+ "caso": "FUST",
+ "lote": 56,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0332::Raça e etnia",
+   "unit_id": "S0332",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-29",
+   "orador": "Heloísa Helena",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "indígenas",
+     "forma_encontrada": "indígenas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "índio",
+     "forma_encontrada": "índio",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 910,
+     "trecho": "A SRª HELOISA HELENA (Bloco/PT – AL. Pronuncia o seguinte discurso. Sem revisão da oradora.) – Sr. Presidente, Srªs e Srs. Senadores, faço uma comunicação sobre denúncias feitas pelo Movimento Nacional de Meninos e Meninas de Rua não apenas do meu Estado, mas do Brasil, muito especialmente em relação a Alagoas. Falar sobre a situação da criança e do adolescente no Brasil é algo extremamente complexo. Embora sempre esteja nos discursos oficiais e eleitorais, certamente a criança é uma simbologia nos discursos eleitorais. Ora a criança é o futuro da Nação, ora é o significado de uma alternativa de desenvolvimento econômico e social do futuro. Em alguns povos indígenas, especialmente no norte do País, o velho é considerado o dono da história, o índio o dono da aldeia, e a criança a dona do mundo, o que significa que a criança, sem dúvida, mexe com mentes e corações espalhados pelo mundo."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 910,
+     "trecho": "A SRª HELOISA HELENA (Bloco/PT – AL. Pronuncia o seguinte discurso. Sem revisão da oradora.) – Sr. Presidente, Srªs e Srs. Senadores, faço uma comunicação sobre denúncias feitas pelo Movimento Nacional de Meninos e Meninas de Rua não apenas do meu Estado, mas do Brasil, muito especialmente em relação a Alagoas. Falar sobre a situação da criança e do adolescente no Brasil é algo extremamente complexo. Embora sempre esteja nos discursos oficiais e eleitorais, certamente a criança é uma simbologia nos discursos eleitorais. Ora a criança é o futuro da Nação, ora é o significado de uma alternativa de desenvolvimento econômico e social do futuro. Em alguns povos indígenas, especialmente no norte do País, o velho é considerado o dono da história, o índio o dono da aldeia, e a criança a dona do mundo, o que significa que a criança, sem dúvida, mexe com mentes e corações espalhados pelo mundo."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0332::Renda e classe",
+   "unit_id": "S0332",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-29",
+   "orador": "Heloísa Helena",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7088,
+     "fim_corpo": 7873,
+     "trecho": "Todos que aqui estão têm netos, filhos, já foram crianças e adolescentes e sabem exatamente da gravidade da situação da criança e do adolescente. Sempre digo que se vivêssemos em um país que cumprisse a sua legislação relativa à assistência social, educação e saúde, se cumpríssemos a Constituição – segundo ela, é requisito irrenunciável para o estabelecimento de uma política econômica a soberania nacional -, com certeza, não estaríamos vivendo em um país que se ajoelha covardemente diante do Fundo Monetário Internacional, que financia a agiotagem e a orgia financeira internacional ao mesmo tempo em que deixa suas crianças, seus adolescentes e os 78 milhões de pobres e miseráveis simplesmente à mercê do que não existe, pois não existe mais aparelho de Estado no Brasil."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0332::Urbano e rural",
+   "unit_id": "S0332",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-29",
+   "orador": "Heloísa Helena",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1337,
+     "fim_corpo": 2220,
+     "trecho": "É inadmissível. Não podemos aceitar que uma sociedade capaz de decifrar o código genético e causar uma revolução no mundo da ciência continue matando suas crianças com a barbárie da miséria. Todos sabemos o significado de decifrar o código genético e as gigantescas possibilidades para a Ciência. Trata-se de um conhecimento que pode revolucionar a Medicina, que permite entender o estudo das causas e o tratamento das doenças, o funcionamento da estrutura biológica e a suscetibilidade para algumas doenças. Sem dúvida, é um marco no mundo da ciência. E como é que podemos justificar que, ao mesmo tempo em que erigimos um marco do ponto de vista conceitual, algo que representa uma belíssima revolução no campo da ciência, no campo da medicina, as nossas crianças - estruturas anatomofisiológicas muito mais sensíveis - continuem sendo assassinadas pela barbárie da miséria?"
+    },
+    {
+     "inicio_corpo": 1337,
+     "fim_corpo": 2220,
+     "trecho": "É inadmissível. Não podemos aceitar que uma sociedade capaz de decifrar o código genético e causar uma revolução no mundo da ciência continue matando suas crianças com a barbárie da miséria. Todos sabemos o significado de decifrar o código genético e as gigantescas possibilidades para a Ciência. Trata-se de um conhecimento que pode revolucionar a Medicina, que permite entender o estudo das causas e o tratamento das doenças, o funcionamento da estrutura biológica e a suscetibilidade para algumas doenças. Sem dúvida, é um marco no mundo da ciência. E como é que podemos justificar que, ao mesmo tempo em que erigimos um marco do ponto de vista conceitual, algo que representa uma belíssima revolução no campo da ciência, no campo da medicina, as nossas crianças - estruturas anatomofisiológicas muito mais sensíveis - continuem sendo assassinadas pela barbárie da miséria?"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0333::Idade",
+   "unit_id": "S0333",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-29",
+   "orador": "Marina Silva",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "idoso",
+     "forma_encontrada": "idoso",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "criança",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "criança",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6131,
+     "fim_corpo": 7222,
+     "trecho": "Agora, a PEC também passa a ser secundária – assim como foram secundarizados os projetos anteriores – porque a prioridade é a medida provisória. As pessoas poderão dizer: \"Marina, você não está querendo resolver o problema?\" Claro que sim. Há vários projetos tramitando nesta Casa, mas o Governo, incessantemente, utiliza-se desses projetos, transformando-os em outras proposições, porque não quer que o Senado Federal, a Câmara dos Deputados e outras pessoas também tenham iniciativas. Posso dizer que isso está ocorrendo agora. Além de apresentar outro projeto de lei, o Governo – que tinha esse direito, pois não precisava concordar com o meu projeto – edita uma medida provisória. Há também outros exemplos: em relação à campanha de vacinação do idoso, de autoria do Deputado Eduardo Jorge, o Governo, apossando-se do projeto, baixou uma Portaria ministerial; quanto à proteção ao trabalho doméstico, proposição de autoria da Senadora Benedita da Silva, o Governo, por entender que a Srª Benedita da Silva não poderia pensar, apresentou outra proposta em cima da de S."
+    },
+    {
+     "inicio_corpo": 6828,
+     "fim_corpo": 7883,
+     "trecho": "Há também outros exemplos: em relação à campanha de vacinação do idoso, de autoria do Deputado Eduardo Jorge, o Governo, apossando-se do projeto, baixou uma Portaria ministerial; quanto à proteção ao trabalho doméstico, proposição de autoria da Senadora Benedita da Silva, o Governo, por entender que a Srª Benedita da Silva não poderia pensar, apresentou outra proposta em cima da de S. Exª. Ainda mais: em relação ao Projeto de Renda Mínima, do Senador Eduardo Suplicy, bem como quanto ao projeto sobre porte de armas, do Senador José Roberto Arruda, para não ficarmos apenas nos Parlamentares da Oposição, ocorreu o mesmo. Enfim, são vários os projetos \"biopirateados\" pelo Governo, porque ninguém aqui pode ter idéias, ou, quando as tem, elas devem ser sempre entregues ao Governo. É claro que queremos resolver o mérito, pouco importando quem seja o pai da criança; porém, deve haver uma relação de respeito de parte do Governo para com o Congresso no que se refere ao ato de legislar, assim como respeitamos as iniciativas do Executivo."
+    },
+    {
+     "inicio_corpo": 13275,
+     "fim_corpo": 14243,
+     "trecho": "Faço ainda o registro de que, segundo o que aconteceu, tivemos a decisão da Justiça Federal que proibiu a Empresa Monsanto de produzir soja transgênica e o Governo Federal de autorizar novos casos de plantio e comercialização de alimentos geneticamente modificados durante o prazo de 90 dias e está exigindo que se tenha uma legislação clara sobre o assunto para que não se fique aqui autorizando o plantio e a comercialização de transgênicos sem que tenhamos base legal. Peço que façam parte do meu discurso a nota das organizações não-governamentais sobre a edição da medida provisória para regular o acesso aos recursos genéticos do País, bem como as matérias dos jornais Folha de S.Paulo e Gazeta Mercantil. Agradeço a liberalidade da Mesa. Devo ainda registrar que se fico emocionada tratando desse tema é porque, desde criança, vi a biopirataria acontecer sob meus olhos em que levavam sementes de nossas seringueiras trocando por bombom e rapadura."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0333::Macrorregião",
+   "unit_id": "S0333",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-29",
+   "orador": "Marina Silva",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "amazônia",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "amazônia",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1140,
+     "fim_corpo": 2231,
+     "trecho": "O Governo, durante todos esses quase cinco anos, tem se informado da necessidade de uma lei que regulamente o acesso aos nossos recursos genéticos e biológicos. O projeto de minha autoria, apresentado no final de 1995, teve uma tramitação muito importante nesta Casa, com quatro audiências públicas, a realização de um workshop e várias iniciativas nos diversos Estados da Federação. Contudo, não contou com a prioridade do Governo, no momento em que chegou à Câmara dos Deputados. Devo reconhecer que, no Senado, a base de sustentação do Governo, com algumas exceções que se submeteram talvez a algum tipo de pressão do Governo, portou-se de forma magistral, porque o projeto tramitou na Casa foi aprovado por unanimidade na Comissão de Assuntos Sociais, com o substitutivo do Senador Osmar Dias. Todavia, o Governo, em face do episódio ocorrido no contrato entre a Bioamazônia e a empresa Novartis, está descobrindo que regulamentar os recursos genéticos é uma prioridade urgente urgentíssima que, porém, não foi tratada como tal durante esses quatro anos, infelizmente."
+    },
+    {
+     "inicio_corpo": 11218,
+     "fim_corpo": 12138,
+     "trecho": "Então, Sr. Presidente, agradecendo a V. Exª por ter sido bastante liberal em me conceder esse tempo, apenas registro que há um documento intitulado \"Nota das organizações não-governamentais sobre a edição de medida provisória para regular o acesso aos recursos genéticos do nosso País\". Essa nota está assinada por várias entidades que não concordam com essa forma de o Governo agir por decreto porque é uma discussão que precisamos, que é prioritária, mas tem mecanismo de tramitar com urgência. O Governo, quando quer urgência constitucional para aprovar ANA – que sejam Marias ou Josés – aqui dentro, ele o faz de um dia para o outro. Mas, em um momento importante como esse, em que quer regular o contrato entre a Bioamazônia e a Norvartis, adota o instituto da medida provisória, que é um mecanismo anti-democrático e desrespeitoso com o acúmulo que a sociedade e o Congresso Nacional têm feito sobre o tema."
+    },
+    {
+     "inicio_corpo": 11511,
+     "fim_corpo": 12417,
+     "trecho": "Essa nota está assinada por várias entidades que não concordam com essa forma de o Governo agir por decreto porque é uma discussão que precisamos, que é prioritária, mas tem mecanismo de tramitar com urgência. O Governo, quando quer urgência constitucional para aprovar ANA – que sejam Marias ou Josés – aqui dentro, ele o faz de um dia para o outro. Mas, em um momento importante como esse, em que quer regular o contrato entre a Bioamazônia e a Norvartis, adota o instituto da medida provisória, que é um mecanismo anti-democrático e desrespeitoso com o acúmulo que a sociedade e o Congresso Nacional têm feito sobre o tema. Quem assina a nota é o Fórum Brasileiro de ONGs e Movimentos Sociais para o Meio Ambiente e Desenvolvimento, o Instituto Sócio-Ambiental, o Instituto de Estudos Socioeconômicos – Inesc, a Fundação Vitória-Amazônia, a SBTA, a Rede de ONGs da Mata Atlântica e várias outras."
+    },
+    {
+     "inicio_corpo": 13753,
+     "fim_corpo": 15167,
+     "trecho": "Peço que façam parte do meu discurso a nota das organizações não-governamentais sobre a edição da medida provisória para regular o acesso aos recursos genéticos do País, bem como as matérias dos jornais Folha de S.Paulo e Gazeta Mercantil. Agradeço a liberalidade da Mesa. Devo ainda registrar que se fico emocionada tratando desse tema é porque, desde criança, vi a biopirataria acontecer sob meus olhos em que levavam sementes de nossas seringueiras trocando por bombom e rapadura. Era assim que se fazia com os pobres e levaram todo o nosso ouro branco da Amazônia. Agora, vejo novamente a legispirataria acontecer não com a minha iniciativa, mas com a do Congresso Nacional. Poderia a lei de autoria do Governo até ser aprovada, já que ele tem maioria nesta Casa. Não há problema! Todavia, gostaria que o Governo tivesse a grandeza de discutir com o Congresso as iniciativas que aqui estão tramitando, ao invés de pirateá-las como medidas provisórias. *************************************************************************** DOCUMENTOS A QUE SE REFERE A SRª SENADORA MARINA SILVA EM SEU PRONUNCIAMENTO: ************************************************************************** ¿¿"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0333::Renda e classe",
+   "unit_id": "S0333",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-29",
+   "orador": "Marina Silva",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13753,
+     "fim_corpo": 15167,
+     "trecho": "Peço que façam parte do meu discurso a nota das organizações não-governamentais sobre a edição da medida provisória para regular o acesso aos recursos genéticos do País, bem como as matérias dos jornais Folha de S.Paulo e Gazeta Mercantil. Agradeço a liberalidade da Mesa. Devo ainda registrar que se fico emocionada tratando desse tema é porque, desde criança, vi a biopirataria acontecer sob meus olhos em que levavam sementes de nossas seringueiras trocando por bombom e rapadura. Era assim que se fazia com os pobres e levaram todo o nosso ouro branco da Amazônia. Agora, vejo novamente a legispirataria acontecer não com a minha iniciativa, mas com a do Congresso Nacional. Poderia a lei de autoria do Governo até ser aprovada, já que ele tem maioria nesta Casa. Não há problema! Todavia, gostaria que o Governo tivesse a grandeza de discutir com o Congresso as iniciativas que aqui estão tramitando, ao invés de pirateá-las como medidas provisórias. *************************************************************************** DOCUMENTOS A QUE SE REFERE A SRª SENADORA MARINA SILVA EM SEU PRONUNCIAMENTO: ************************************************************************** ¿¿"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0334::Domicílio e arranjo familiar",
+   "unit_id": "S0334",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-29",
+   "orador": "Geraldo Cândido",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5187,
+     "fim_corpo": 6211,
+     "trecho": "Mas o problema maior é que os números estão de tal forma banalizados que uma morte humana não mais recebe a devida atenção por parte da sociedade e, principalmente, das chamadas \"autoridades competentes\". Para que V. Exªs tenham uma idéia, somente no mês de junho aconteceram três mortes. Não pretendo misturar as coisas, mas independentemente das variáveis positivas existentes no Plano de Segurança, tornado público na última semana, é chegada a hora de o Governo Federal resolver o problema de segurança no trabalho. Todos aqui conhecem as estatísticas: o Brasil é um dos recordistas mundiais em acidente de trabalho!!! Apesar de quererem privatizar de vez a Petrobras – como se essa fosse a solução para os males da empresa e do País – é bom lembrar ao Presidente da Republica que muitas famílias estão hoje chorando a perda de seus entes, em particular a família do operador Nei Luiz de Melo Brito, de 51 anos, que morreu ao tentar resolver o problema do vazamento de gás numa vistoria da Unidade Explosão."
+    },
+    {
+     "inicio_corpo": 5187,
+     "fim_corpo": 6211,
+     "trecho": "Mas o problema maior é que os números estão de tal forma banalizados que uma morte humana não mais recebe a devida atenção por parte da sociedade e, principalmente, das chamadas \"autoridades competentes\". Para que V. Exªs tenham uma idéia, somente no mês de junho aconteceram três mortes. Não pretendo misturar as coisas, mas independentemente das variáveis positivas existentes no Plano de Segurança, tornado público na última semana, é chegada a hora de o Governo Federal resolver o problema de segurança no trabalho. Todos aqui conhecem as estatísticas: o Brasil é um dos recordistas mundiais em acidente de trabalho!!! Apesar de quererem privatizar de vez a Petrobras – como se essa fosse a solução para os males da empresa e do País – é bom lembrar ao Presidente da Republica que muitas famílias estão hoje chorando a perda de seus entes, em particular a família do operador Nei Luiz de Melo Brito, de 51 anos, que morreu ao tentar resolver o problema do vazamento de gás numa vistoria da Unidade Explosão."
+    },
+    {
+     "inicio_corpo": 5392,
+     "fim_corpo": 6382,
+     "trecho": "Para que V. Exªs tenham uma idéia, somente no mês de junho aconteceram três mortes. Não pretendo misturar as coisas, mas independentemente das variáveis positivas existentes no Plano de Segurança, tornado público na última semana, é chegada a hora de o Governo Federal resolver o problema de segurança no trabalho. Todos aqui conhecem as estatísticas: o Brasil é um dos recordistas mundiais em acidente de trabalho!!! Apesar de quererem privatizar de vez a Petrobras – como se essa fosse a solução para os males da empresa e do País – é bom lembrar ao Presidente da Republica que muitas famílias estão hoje chorando a perda de seus entes, em particular a família do operador Nei Luiz de Melo Brito, de 51 anos, que morreu ao tentar resolver o problema do vazamento de gás numa vistoria da Unidade Explosão. Presto, nesse momento, minhas sinceras condolências à família de mais um herói, desses que lutam diariamente pelo seu ganha-pão, mas também pela sua empresa, a Petrobras."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0334::Posição no trabalho",
+   "unit_id": "S0334",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-29",
+   "orador": "Geraldo Cândido",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 438,
+     "fim_corpo": 1252,
+     "trecho": "Neste ano, pela segunda vez, ocorreu mais um vazamento na Baía da Guanabara, ocasionando um problema muito grave, apesar de todas as medidas tomadas, das denúncias, enfim, de todos os relatórios feitos. Um navio, a serviço da Petrobras, deixou vazar óleo em cerca de um quilômetro de extensão nas águas da Baía da Guanabara. Isso demonstra que a Direção da Petrobras não tem uma política de manutenção da refinaria e de seus equipamentos e não se preocupa, principalmente, com o meio ambiente. Esses vazamentos são prejudiciais não só à empresa, mas também ao meio ambiente, devido à agressão ambiental que acontece em função do vazamento. Na semana passada, aconteceu também um acidente grave na Refinaria Landulpho Alves, na Bahia, causando a morte de um operador e ferimentos em três trabalhadores."
+    },
+    {
+     "inicio_corpo": 1851,
+     "fim_corpo": 2755,
+     "trecho": "Enquanto Relator da Subcomissão de Infra-Estrutura que apura as causas do vazamento na baía de Guanabara em janeiro, fico mais preocupado, pois, na verdade, creio que a situação é muito mais grave do que pensávamos. Tivemos a oportunidade de visitar a baía de Guanabara após o vazamento. Sobrevoamos a região da ilha de Paquetá, Ilha do Governador, Guapemirim, enfim, toda a região atingida pelo vazamento. Visitamos também a Reduc, em Duque de Caxias, e constatamos que há um problema muito sério na refinaria. É uma indústria antiga, com 40 anos de funcionamento, e seus equipamentos estão muito desgastados. Inclusive, chamamos a atenção de sua superintendência e de seus engenheiros para o fato de que há situações dentro da empresa, até mesmo por denúncia do Sindicato dos Petroleiros, da Federação Única dos Petroleiros, de que poderiam acontecer acidentes graves com morte de trabalhadores."
+    },
+    {
+     "inicio_corpo": 6382,
+     "fim_corpo": 7220,
+     "trecho": "Nunca é demais destacar que a maioria dos acidentes dessa natureza, similar ao que vitimou o operador Nei Luiz de Melo Brito, são previsíveis. É o que denominamos de incidentes críticos. Numa estatística já estudada e comprovada, de cada 600 incidentes críticos, 30 podem vir a se transformar em danos materiais, 10 dos quais em lesões leves, e podendo um vir a ser uma lesão grave ou incapacitante ou, até mesmo, uma morte. O que temos percebido é que essa pirâmide, tão simples de ser utilizada no controle das atividades de operação no trato com o petróleo, de amplo conhecimento dos engenheiros de segurança, tem sido abandoada em razão da política neoliberal de desmonte do Estado. Com isso, impõe a terceirização como elemento básico na obtenção de crescentes lucros em detrimento da segurança dos nossos trabalhadores."
+    },
+    {
+     "inicio_corpo": 6531,
+     "fim_corpo": 7407,
+     "trecho": "É o que denominamos de incidentes críticos. Numa estatística já estudada e comprovada, de cada 600 incidentes críticos, 30 podem vir a se transformar em danos materiais, 10 dos quais em lesões leves, e podendo um vir a ser uma lesão grave ou incapacitante ou, até mesmo, uma morte. O que temos percebido é que essa pirâmide, tão simples de ser utilizada no controle das atividades de operação no trato com o petróleo, de amplo conhecimento dos engenheiros de segurança, tem sido abandoada em razão da política neoliberal de desmonte do Estado. Com isso, impõe a terceirização como elemento básico na obtenção de crescentes lucros em detrimento da segurança dos nossos trabalhadores. Apenas para exemplificar, das 44 mortes que mencionei agora há pouco, ocorridas nos últimos nove anos nas empresas do Pólo de Camaçari, 30 foram de trabalhadores de firmas terceirizadas."
+    },
+    {
+     "inicio_corpo": 10160,
+     "fim_corpo": 11573,
+     "trecho": "Portanto, Sr. Presidente, Srªs e Srs. Senadores, mais uma vez, estamos diante de um dos problemas mais sérios deste final de século: a necessidade de defesa do meio ambiente. Mas, neste momento, importa destacar que é cada vez mais importante lembrar que a questão ambiental está vinculada à segurança do trabalho e aí, Sr. Presidente, os números falam por si: Apenas na Baía de Guanabara, no período de 1992/2000, foram 13 acidentes, todos envolvendo a Petrobras; O número de acidentes fatais ultrapassa a casa dos 50. Ou o Senado Federal se posiciona firmemente a esse respeito ou seremos cobrados pela sociedade. A atual direção da Petrobras será lembrada na história da empresa como aquela de maiores índices de acidentes, tanto de trabalhadores vitimados, como de danos ao meio ambiente. Já que o País tem um Governo que não julga essa Direção, nós, os trabalhadores do Rio de Janeiro, do Estado da Bahia e toda a sociedade brasileira, a julgaremos e, certamente, a condenaremos. Tenho certeza, a história julgará a Direção da Petrobrás pouco comprometida com o nosso meio ambiente. Agradeço, inclusive, pela compreensão, Sr. Presidente. Muito obrigado. M W"
+    },
+    {
+     "inicio_corpo": 10160,
+     "fim_corpo": 11573,
+     "trecho": "Portanto, Sr. Presidente, Srªs e Srs. Senadores, mais uma vez, estamos diante de um dos problemas mais sérios deste final de século: a necessidade de defesa do meio ambiente. Mas, neste momento, importa destacar que é cada vez mais importante lembrar que a questão ambiental está vinculada à segurança do trabalho e aí, Sr. Presidente, os números falam por si: Apenas na Baía de Guanabara, no período de 1992/2000, foram 13 acidentes, todos envolvendo a Petrobras; O número de acidentes fatais ultrapassa a casa dos 50. Ou o Senado Federal se posiciona firmemente a esse respeito ou seremos cobrados pela sociedade. A atual direção da Petrobras será lembrada na história da empresa como aquela de maiores índices de acidentes, tanto de trabalhadores vitimados, como de danos ao meio ambiente. Já que o País tem um Governo que não julga essa Direção, nós, os trabalhadores do Rio de Janeiro, do Estado da Bahia e toda a sociedade brasileira, a julgaremos e, certamente, a condenaremos. Tenho certeza, a história julgará a Direção da Petrobrás pouco comprometida com o nosso meio ambiente. Agradeço, inclusive, pela compreensão, Sr. Presidente. Muito obrigado. M W"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0335::Administração pública",
+   "unit_id": "S0335",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-29",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "prefeitura",
+     "forma_encontrada": "Prefeitura",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3265,
+     "fim_corpo": 4748,
+     "trecho": "No Ceará, portanto, a situação não é diferente da que se verifica nos demais Estados brasileiros. A Gazeta Mercantil Ceará , desde 9 de julho de 1998, circula encartada na edição nacional, e é o único periódico diário de economia, negócios e finanças do Estado. Para isso, firmou parceria com a Tribuna do Ceará na área de produção gráfica. A exemplo do que acontece em outros Estados, a Gazeta Mercantil S.A. tem-se associado a diversos projetos de interesse social na região. Entre esses, podemos citar o convênio celebrado com a Universidade Regional do Cariri, com o objetivo de viabilizar a expansão e a modernização do Museu de Paleontologia local; o seminário promovido em conjunto com a Fundação Cultural da Prefeitura de Fortaleza, em busca de soluções para a recuperação do centro antigo da Capital cearense; e a parceria que vem desenvolvendo com o Pacto de Cooperação do Ceará, para criação do Fórum da Comunidade. Essas iniciativas, Srªs e Srs. Senadores, são exemplos de uma interação entre o jornal e a comunidade, numa prova eloqüente de que a octogenária Gazeta Mercantil vai muito além da informação, por sentir-se comprometida com a verdade e também com os níveis de bem-estar e de desenvolvimento da sociedade brasileira. Muito obrigado. ûF"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0335::Cultura e informação",
+   "unit_id": "S0335",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-29",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "museu",
+     "forma_encontrada": "Museu",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3067,
+     "fim_corpo": 4748,
+     "trecho": "Aliás, pesquisa da ProMarket, de Fortaleza, revelou que 96% dos leitores do periódico pertencem às classes econômicas \"A\" e \"B\", e que 60% são donos de empresas, presidentes, gerentes e executivos. No Ceará, portanto, a situação não é diferente da que se verifica nos demais Estados brasileiros. A Gazeta Mercantil Ceará , desde 9 de julho de 1998, circula encartada na edição nacional, e é o único periódico diário de economia, negócios e finanças do Estado. Para isso, firmou parceria com a Tribuna do Ceará na área de produção gráfica. A exemplo do que acontece em outros Estados, a Gazeta Mercantil S.A. tem-se associado a diversos projetos de interesse social na região. Entre esses, podemos citar o convênio celebrado com a Universidade Regional do Cariri, com o objetivo de viabilizar a expansão e a modernização do Museu de Paleontologia local; o seminário promovido em conjunto com a Fundação Cultural da Prefeitura de Fortaleza, em busca de soluções para a recuperação do centro antigo da Capital cearense; e a parceria que vem desenvolvendo com o Pacto de Cooperação do Ceará, para criação do Fórum da Comunidade. Essas iniciativas, Srªs e Srs. Senadores, são exemplos de uma interação entre o jornal e a comunidade, numa prova eloqüente de que a octogenária Gazeta Mercantil vai muito além da informação, por sentir-se comprometida com a verdade e também com os níveis de bem-estar e de desenvolvimento da sociedade brasileira. Muito obrigado. ûF"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0335::Raça e etnia",
+   "unit_id": "S0335",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-29",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pardos",
+     "forma_encontrada": "par dos",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 903,
+     "fim_corpo": 1917,
+     "trecho": "Essa aceitação, que se repete Brasil afora, é um prêmio a que a Gazeta faz jus e, ao mesmo tempo, um reconhecimento pelos serviços que vem prestando à sociedade brasileira, no momento em que completa 80 anos de fundação. Nesse período, a Gazeta Mercantil consolidou-se como importante veículo de informação, tornando-se leitura indispensável para as pessoas que detêm poder decisório e para os formadores de opinião. No entanto, o público leitor da Gazeta vai muito além desses segmentos, englobando profissionais liberais e acadêmicos em geral. Essa preferência, Srªs e Srs. Senadores, tem suas razões. Desde sua fundação, o periódico pautou-se em quatro princípios básicos que definem seu compromisso com a verdade e seu peso no seio da sociedade brasileira: informar com isenção e independência; formar opinião com responsabilidade; servir ao País e participar dos movimentos em favor da comunidade; e influir nas decisões políticas e econômicas da administração pública e da empresa privada."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0337::Posição no trabalho",
+   "unit_id": "S0337",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-29",
+   "orador": "Maria do Carmo Alves",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 143,
+     "trecho": "A SRª MARIA DO CARMO ALVES (PFL - SE) - Sr. Presidente, Srªs e Senhores Senadores, a preocupação maior da Nação brasileira é com o desemprego."
+    },
+    {
+     "inicio_corpo": 9089,
+     "fim_corpo": 10030,
+     "trecho": "É comum que o agente financeiro inicie o processo de execução judicial ou extra judicial para beneficiar-se da dedutibilidade dos prejuízos. Com o aumento da dívida, agora acrescida de custo de publicação de editais, de honorários advocatícios e outras despesas administrativas, acaba não ocorrendo o acordo, acarretando a retomada do imóvel. \"A SOLUÇÃO\". É de fundamental importância que a legislação seja adaptada, de forma a permitir que os descontos concedidos contratualmente sejam considerados como despesa dedutível para fins de imposto de renda, sendo, portanto, desnecessários os custos da execução judicial ou extra judicial, facilitando, assim, a renegociação da dívida. 6- A SOLUÇÃO PARA OS CASOS DE INADIMPLÊNCIA. \"O PROBLEMA\". Atualmente quando um mutuário tem um problema financeiro motivado por doença, desemprego, ou outras causas, a única solução possível é a incorporação dos atrasos ao saldo devedor."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0338::Escolaridade e letramento",
+   "unit_id": "S0338",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-29",
+   "orador": "Pedro Simon",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "analfabetismo",
+     "forma_encontrada": "analfabetismo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "analfabetos",
+     "forma_encontrada": "analfabetos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "analfabetismo",
+     "forma_encontrada": "analfabetismo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3293,
+     "fim_corpo": 4785,
+     "trecho": "É, portanto, de absoluta relevância que nossas universidades públicas sejam reconhecidas como essenciais ao nosso futuro\". E pondera também o manifesto da UnB: \"Deve-se atentar para que os benefícios fiscais concedidos ao setor produtivo não sejam considerados instrumentos privilegiados de incentivo ao desenvolvimento científico-tecnológico nacional, pois são de alcance limitado e não substituem investimentos diretos em universidades e centros de pesquisa. Um volume razoável de investimentos viabilizará um novo paradigma sociotécnico, que agrupará empresas, organizações e instituições e criará as condições para que a sociedade brasileira possa entrar em um processo acelerado de modernização tecnológica, resgatando, concomitantemente, nossa dívida social. Esta, já agravada pelo analfabetismo histórico (que ao findar a Década da Educação ainda persiste, com um constrangedor percentual de 16,5% de analfabetos tradicionais), pode crescer devido ao acúmulo de um tipo de analfabetismo igualmente nefasto - o científico-tecnológico\". Infelizmente, como foi dito antes, o Brasil investe muito pouco em ciência e tecnologia, embora tenhamos um material humano excelente e uma boa rede de universidades e de centros de pesquisa. Ora, isso tem que ser mudado, sob pena de sermos condenados eternamente a um segundo plano entre as nações. Acho que a reunião da SBPC, este ano, em Brasília, será uma grande oportunidade para debatermos a fundo essa questão. Muito obrigada."
+    },
+    {
+     "inicio_corpo": 3416,
+     "fim_corpo": 4785,
+     "trecho": "E pondera também o manifesto da UnB: \"Deve-se atentar para que os benefícios fiscais concedidos ao setor produtivo não sejam considerados instrumentos privilegiados de incentivo ao desenvolvimento científico-tecnológico nacional, pois são de alcance limitado e não substituem investimentos diretos em universidades e centros de pesquisa. Um volume razoável de investimentos viabilizará um novo paradigma sociotécnico, que agrupará empresas, organizações e instituições e criará as condições para que a sociedade brasileira possa entrar em um processo acelerado de modernização tecnológica, resgatando, concomitantemente, nossa dívida social. Esta, já agravada pelo analfabetismo histórico (que ao findar a Década da Educação ainda persiste, com um constrangedor percentual de 16,5% de analfabetos tradicionais), pode crescer devido ao acúmulo de um tipo de analfabetismo igualmente nefasto - o científico-tecnológico\". Infelizmente, como foi dito antes, o Brasil investe muito pouco em ciência e tecnologia, embora tenhamos um material humano excelente e uma boa rede de universidades e de centros de pesquisa. Ora, isso tem que ser mudado, sob pena de sermos condenados eternamente a um segundo plano entre as nações. Acho que a reunião da SBPC, este ano, em Brasília, será uma grande oportunidade para debatermos a fundo essa questão. Muito obrigada."
+    },
+    {
+     "inicio_corpo": 3416,
+     "fim_corpo": 4785,
+     "trecho": "E pondera também o manifesto da UnB: \"Deve-se atentar para que os benefícios fiscais concedidos ao setor produtivo não sejam considerados instrumentos privilegiados de incentivo ao desenvolvimento científico-tecnológico nacional, pois são de alcance limitado e não substituem investimentos diretos em universidades e centros de pesquisa. Um volume razoável de investimentos viabilizará um novo paradigma sociotécnico, que agrupará empresas, organizações e instituições e criará as condições para que a sociedade brasileira possa entrar em um processo acelerado de modernização tecnológica, resgatando, concomitantemente, nossa dívida social. Esta, já agravada pelo analfabetismo histórico (que ao findar a Década da Educação ainda persiste, com um constrangedor percentual de 16,5% de analfabetos tradicionais), pode crescer devido ao acúmulo de um tipo de analfabetismo igualmente nefasto - o científico-tecnológico\". Infelizmente, como foi dito antes, o Brasil investe muito pouco em ciência e tecnologia, embora tenhamos um material humano excelente e uma boa rede de universidades e de centros de pesquisa. Ora, isso tem que ser mudado, sob pena de sermos condenados eternamente a um segundo plano entre as nações. Acho que a reunião da SBPC, este ano, em Brasília, será uma grande oportunidade para debatermos a fundo essa questão. Muito obrigada."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0338::Raça e etnia",
+   "unit_id": "S0338",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-29",
+   "orador": "Pedro Simon",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pardo",
+     "forma_encontrada": "par do",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 36,
+     "fim_corpo": 999,
+     "trecho": "Senadores, Srªs e Srs. Senadores, entre os dias 9 e 14 de julho será realizada aqui na capital da República, no campus da Universidade de Brasília, a 52 ª Reunião Anual da Sociedade Brasileira para o Progresso da Ciência. Este ano o tema será \"O Brasil na sociedade do conhecimento: desafio para o século XXI\". Desde o dia 23 de março, o Laboratório de Estudos do Futuro, da UnB e a Secretaria Regional do Distrito Federal da Sociedade Brasileira Para o Progresso da Ciência vêm promovendo debates com vistas à preparação deste grande evento. Nesses debates preparatórios, já foram discutidos temas como \"Meio Ambiente\", \"Biotecnologia\", \"Recursos Hídricos\", \"Desenvolvimento Sócioeconômico\" e \"Informação e Comunicação\". Na condição de Presidente da Subcomissão de Rádio e Televisão, que faz parte da Comissão de Educação do Senado Federal, fui convidado a participar do evento, numa mesa-redonda que discutirá mídia, violência e regulamentação."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0339::Idade",
+   "unit_id": "S0339",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-29",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "criança",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "criança",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "criança",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "criança",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1732,
+     "fim_corpo": 2640,
+     "trecho": "Sr. Presidente, são diversos os argumentos positivos quando se pretende defender uma idéia com tão nobres objetivos e de tanto alcance social. De pronto, temos a convicção de que a licença-maternidade, associada ao pagamento do salário-maternidade, para as mães adotantes servirá para estimular as pessoas, eventualmente inseguras, no momento de uma decisão tão importante. Igualmente, o tempo de convívio permanente decorrente da licença das atividades profissionais, quaisquer que sejam elas, servirá para tornar menos traumático o processo de interação psicológica e afetiva da mãe com o adotado. Além disso, a disciplina pretendida trará, inegavelmente, benefícios sociais futuros, com redução do número de menores abandonados, preservação da saúde das crianças adotadas, com a melhoria no padrão alimentar, educacional e das condições sanitárias a que possa estar submetida a criança."
+    },
+    {
+     "inicio_corpo": 1732,
+     "fim_corpo": 2640,
+     "trecho": "Sr. Presidente, são diversos os argumentos positivos quando se pretende defender uma idéia com tão nobres objetivos e de tanto alcance social. De pronto, temos a convicção de que a licença-maternidade, associada ao pagamento do salário-maternidade, para as mães adotantes servirá para estimular as pessoas, eventualmente inseguras, no momento de uma decisão tão importante. Igualmente, o tempo de convívio permanente decorrente da licença das atividades profissionais, quaisquer que sejam elas, servirá para tornar menos traumático o processo de interação psicológica e afetiva da mãe com o adotado. Além disso, a disciplina pretendida trará, inegavelmente, benefícios sociais futuros, com redução do número de menores abandonados, preservação da saúde das crianças adotadas, com a melhoria no padrão alimentar, educacional e das condições sanitárias a que possa estar submetida a criança."
+    },
+    {
+     "inicio_corpo": 2640,
+     "fim_corpo": 3328,
+     "trecho": "Representa, portanto, uma economia substancial para o Estado, capaz de compensar, por si só, os eventuais gastos da previdência com o citado benefício. No caso da guarda judicial, preceito similar deve ser implementado, uma vez que as situações guardam extrema semelhança, em relação aos objetivos e características que envolvem adotantes e adotados. Nesse sentido, tive a honra de submeter ao Senado Federal, na semana finda, um projeto de lei, com vistas à inclusão na CLT, de artigo fixando em cento e vinte dias o prazo de licença-maternidade, nos casos em que a empregada, inclusive a doméstica, adotar ou obtiver a guarda judicial de criança de até cinco anos de idade."
+    },
+    {
+     "inicio_corpo": 2640,
+     "fim_corpo": 3422,
+     "trecho": "Representa, portanto, uma economia substancial para o Estado, capaz de compensar, por si só, os eventuais gastos da previdência com o citado benefício. No caso da guarda judicial, preceito similar deve ser implementado, uma vez que as situações guardam extrema semelhança, em relação aos objetivos e características que envolvem adotantes e adotados. Nesse sentido, tive a honra de submeter ao Senado Federal, na semana finda, um projeto de lei, com vistas à inclusão na CLT, de artigo fixando em cento e vinte dias o prazo de licença-maternidade, nos casos em que a empregada, inclusive a doméstica, adotar ou obtiver a guarda judicial de criança de até cinco anos de idade. Quando a criança tiver mais de cinco anos de idade, a duração da licença será de trinta dias."
+    },
+    {
+     "inicio_corpo": 2792,
+     "fim_corpo": 3857,
+     "trecho": "No caso da guarda judicial, preceito similar deve ser implementado, uma vez que as situações guardam extrema semelhança, em relação aos objetivos e características que envolvem adotantes e adotados. Nesse sentido, tive a honra de submeter ao Senado Federal, na semana finda, um projeto de lei, com vistas à inclusão na CLT, de artigo fixando em cento e vinte dias o prazo de licença-maternidade, nos casos em que a empregada, inclusive a doméstica, adotar ou obtiver a guarda judicial de criança de até cinco anos de idade. Quando a criança tiver mais de cinco anos de idade, a duração da licença será de trinta dias. Complementando, propus também alteração na Lei n.º 8.213, de 24 de julho de 1991, acrescendo artigo que torna devido o salário-maternidade a todas as seguradas que adotarem ou que obtiverem guarda judicial de crianças, observadas, no que se refere às empregadas e empregadas domésticas, as condições e prazos estabelecidos na legislação trabalhista e, no que se refere às demais seguradas, as condições e prazos a que me referi."
+    },
+    {
+     "inicio_corpo": 3328,
+     "fim_corpo": 4721,
+     "trecho": "Quando a criança tiver mais de cinco anos de idade, a duração da licença será de trinta dias. Complementando, propus também alteração na Lei n.º 8.213, de 24 de julho de 1991, acrescendo artigo que torna devido o salário-maternidade a todas as seguradas que adotarem ou que obtiverem guarda judicial de crianças, observadas, no que se refere às empregadas e empregadas domésticas, as condições e prazos estabelecidos na legislação trabalhista e, no que se refere às demais seguradas, as condições e prazos a que me referi. Minha proposta é bastante realista e igualitária. Estou propondo que essa licença seja de 120 (cento e vinte) dias para as adoções ou concessão de guarda de crianças com menos de 5 (cinco) anos, e de trinta dias quando as crianças tiverem idade acima deste limite. Creio que esses prazos são bastante razoáveis e compatíveis com a legislação que protege a criança e o adolescente. Finalmente, para que eventuais deficiências orçamentárias sejam solucionadas, é prevista a concessão do benefício a partir de 1º de janeiro de 2001. Sr. Presidente, tenho a firme convicção de que, por todas as razões que apresentei, a proposta encaminhada terá o apoio de todos os meus ilustres Pares, e que, em sua serena e conseqüente avaliação, certamente contribuirão para o aprimoramento de seus dispositivos. Era o que eu tinha a dizer. Muito obrigado."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0340::Administração pública",
+   "unit_id": "S0340",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-29",
+   "orador": "Sérgio Machado",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "prefeituras",
+     "forma_encontrada": "prefeituras",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeituras",
+     "forma_encontrada": "prefeituras",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1086,
+     "fim_corpo": 1909,
+     "trecho": "A Constituição do País definiu as responsabilidades dos Governos Federal, estadual e dos Municípios em relação à prestação dos serviços de saúde, mas não equacionou a participação de cada esfera de governo no financiamento do Sistema Público de Saúde - o SUS. Em verdade, tem-se verificado, nesta área, um aporte muito superior de recursos federais em relação às outras estâncias de governo. Dados do Ministério do Planejamento mostram que o setor público aplicou, no ano de 1999, quase R$ 32 bilhões na saúde, dos quais a União arcou com 65%, os Estados com 20% e os Municípios com 15%, evidenciando claramente uma grande distorção. Estimativas do Ministério da Saúde apontam que, no ano passado, os governos estaduais aplicaram, em média, 9% de seus impostos com a saúde e as prefeituras, cerca de 12%."
+    },
+    {
+     "inicio_corpo": 1909,
+     "fim_corpo": 2816,
+     "trecho": "A emenda busca respeitar este nível de investimentos para não onerar muito estados e municípios menos favorecidos. Muitos já destinam parcelas significativas, ou acima, do piso estabelecido pela PEC de sua receita no setor. Mas é preciso estabelecer patamares mínimos para que as esferas que ainda não o fazem, comecem a investir mais. Entretanto, atualmente, temos presenciado uma prática que onera os cofres federais. Quando o Governo Federal aumenta os investimentos na saúde, Estados e Municípios reduzem, criando um círculo vicioso que obriga a União a ter de disponibilizar, constantemente, verbas emergenciais ou suplementares. Esta situação tem imputado à União grande parte da destinação de recursos na Saúde para os diversos entes da federação. Fica claro que ainda não há compromisso de alguns governos estaduais e prefeituras em torno da aplicação de um mínimo de recursos na saúde."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0340::Domicílio e arranjo familiar",
+   "unit_id": "S0340",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-29",
+   "orador": "Sérgio Machado",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 161,
+     "trecho": "O SR. SÉRGIO MACHADO (PSDB – CE) - Sr. Presidente, Srªs e Srs. Senadores, o acesso à saúde se insere, hoje, num dos principais direitos do cidadão e da família."
+    },
+    {
+     "inicio_corpo": 161,
+     "fim_corpo": 1086,
+     "trecho": "Sem saúde, as pessoas não vivem, não se divertem, não trabalham, atividades que se inserem no pleno exercício da cidadania. Quem mais sofre com os problemas no sistema de saúde são as populações menos favorecidas que não têm meios financeiros de aderir aos planos de saúde. Os mais carentes são o principal público atendido pelo SUS e, portanto, seu atendimento deve ser uma das principais metas de governo. A questão exige solução urgente. Quem está nas filas dos hospitais ou depende de um tratamento para sobreviver, não pode esperar mais! É incontestável que já conseguimos avanços significativos, como a redução da mortalidade infantil. Atingimos também metas na vacinação, como a erradicação da paralisia infantil. Mas é preciso, ainda, incrementar programas na área de prevenção, como o médico de família, perpetuar os hábitos de higiene e manter o caráter curativo dos hospitais e centros de saúde."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0340::Renda e classe",
+   "unit_id": "S0340",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-29",
+   "orador": "Sérgio Machado",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "carentes",
+     "forma_encontrada": "carentes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "carentes",
+     "forma_encontrada": "carentes",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 575,
+     "trecho": "O SR. SÉRGIO MACHADO (PSDB – CE) - Sr. Presidente, Srªs e Srs. Senadores, o acesso à saúde se insere, hoje, num dos principais direitos do cidadão e da família. Sem saúde, as pessoas não vivem, não se divertem, não trabalham, atividades que se inserem no pleno exercício da cidadania. Quem mais sofre com os problemas no sistema de saúde são as populações menos favorecidas que não têm meios financeiros de aderir aos planos de saúde. Os mais carentes são o principal público atendido pelo SUS e, portanto, seu atendimento deve ser uma das principais metas de governo."
+    },
+    {
+     "inicio_corpo": 3706,
+     "fim_corpo": 5186,
+     "trecho": "E os governos estaduais e municipais serão obrigados a investir, no primeiro ano, 7% da soma da arrecadação tributária com as transferências da União, incluindo um crescimento gradual, até atingir 12%, no caso dos Estados, ou 15%, no caso dos Municípios, num prazo de 5 anos. Cumpre destacar que foi assim que países desenvolvidos na Europa e na Ásia -- como Japão, Alemanha e Coréia - superaram seus problemas sociais e melhoraram a distribuição de riqueza. Sem um mínimo de aporte de recursos programados para setores essenciais, como a saúde, o Brasil estará selando seu destino no cenário mundial. Essa é a melhor maneira de diminuir os desequilíbrios regionais, ampliando a oferta de serviços de saúde nas regiões mais carentes e reduzindo as distorções hoje existentes - alguns governos gastam mais de 20% e outros, menos de 5% de sua receita nesta área. Sem isso, não poderemos continuar buscando um país mais justo do ponto de vista social. Diante de todas as evidências e, fundamentalmente, por acreditar que um dos principais indicadores para o desenvolvimento de uma nação é o de possuir um povo mental e fisicamente saudável é que a liderança do PSDB encaminha o voto \"sim\", Sr. Presidente. Era o que eu tinha a dizer. Muito obrigado. Ü K"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0340::Saúde",
+   "unit_id": "S0340",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-29",
+   "orador": "Sérgio Machado",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitais",
+     "forma_encontrada": "hospitais",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitais",
+     "forma_encontrada": "hospitais",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitais",
+     "forma_encontrada": "hospitais",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 716,
+     "trecho": "O SR. SÉRGIO MACHADO (PSDB – CE) - Sr. Presidente, Srªs e Srs. Senadores, o acesso à saúde se insere, hoje, num dos principais direitos do cidadão e da família. Sem saúde, as pessoas não vivem, não se divertem, não trabalham, atividades que se inserem no pleno exercício da cidadania. Quem mais sofre com os problemas no sistema de saúde são as populações menos favorecidas que não têm meios financeiros de aderir aos planos de saúde. Os mais carentes são o principal público atendido pelo SUS e, portanto, seu atendimento deve ser uma das principais metas de governo. A questão exige solução urgente. Quem está nas filas dos hospitais ou depende de um tratamento para sobreviver, não pode esperar mais!"
+    },
+    {
+     "inicio_corpo": 161,
+     "fim_corpo": 1086,
+     "trecho": "Sem saúde, as pessoas não vivem, não se divertem, não trabalham, atividades que se inserem no pleno exercício da cidadania. Quem mais sofre com os problemas no sistema de saúde são as populações menos favorecidas que não têm meios financeiros de aderir aos planos de saúde. Os mais carentes são o principal público atendido pelo SUS e, portanto, seu atendimento deve ser uma das principais metas de governo. A questão exige solução urgente. Quem está nas filas dos hospitais ou depende de um tratamento para sobreviver, não pode esperar mais! É incontestável que já conseguimos avanços significativos, como a redução da mortalidade infantil. Atingimos também metas na vacinação, como a erradicação da paralisia infantil. Mas é preciso, ainda, incrementar programas na área de prevenção, como o médico de família, perpetuar os hábitos de higiene e manter o caráter curativo dos hospitais e centros de saúde."
+    },
+    {
+     "inicio_corpo": 2670,
+     "fim_corpo": 3505,
+     "trecho": "Fica claro que ainda não há compromisso de alguns governos estaduais e prefeituras em torno da aplicação de um mínimo de recursos na saúde. É esta realidade que a PEC pretende mudar, fixando um cronograma e estipulando pisos progressivos de investimentos na saúde. Essa proposta de emenda constitucional pretende dirimir esta problemática, garantindo um mínimo de verbas para a saúde em cada esfera de governo e homogeneizando o gasto no território nacional, de forma a propiciar uma gradativa redução nas disparidades regionais. De acordo com a emenda, os gastos públicos com a saúde irão crescer gradualmente, durante os próximos 5 anos, melhorando o atendimento do SUS, ampliando os serviços oferecidos à população e garantindo o desenvolvimento tecnológico em hospitais, centros de saúde e entidades de pesquisa."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0341::Idade",
+   "unit_id": "S0341",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-29",
+   "orador": "Carlos Bezerra",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "idosos",
+     "forma_encontrada": "idos os",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5230,
+     "fim_corpo": 6192,
+     "trecho": "Especificamente, o Estado do Mato Grosso será beneficiado com a inclusão das rodovias federais que ligam Rondonópolis a Santa Helena, passando por Cuiabá e Sinop. Ao lado da participação no Programa CREMA, a atuação parlamentar da bancada mato-grossense promoveu a inclusão, no orçamento federal de 2000, de recursos destinados à restauração de 521 km da BR-174 e de 80 km da BR-163, bem como para adequação de tráfego e construção de travessias urbanas em diversas rodovias federais no Estado. As travessias urbanas merecem um destaque especial, não só pela melhor trafegabilidade, mas principalmente pela segurança em localidades situadas às margens das BRs, cuja população se ressente freqüentemente da perda de vidas humanas em acidentes em seus perímetros urbanos. Garantidos os recursos orçamentários, bem como as verbas internacionais do BIRD, a materialização das ações está agora em mãos do DNER, a quem caberá sua continuidade."
+    }
+   ]
+  }
+ ]
+}

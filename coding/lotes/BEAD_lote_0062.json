@@ -1,0 +1,973 @@
+{
+ "caso": "BEAD",
+ "lote": 62,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0289::Infraestrutura e porte populacional",
+   "unit_id": "W0289",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Troy Klinger",
+   "n_ocorrencias_no_par": 11,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 5,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 651,
+     "trecho": "Written Testimony of Troy Klinger Director, Network Operations unWired Broadband, LLC. Before the Subcommittee on Communications and Technology “Perspectives from the Fields: The State of Rural Broadband in America” May 10, 2024 1001 Truxtun Avenue, Bakersfield, CA 93301 Good morning, Chair Latta, and members of the Subcommittee. I am Troy Klinger, Director of Network Operations at unWired Broadband, a hybrid fixed wireless and fiber optic Internet Service Provider (ISP) whose primary mission is to serve the rural and underserved residents, businesses and anchor institutions in California’s Central Valley and North Valley."
+    },
+    {
+     "inicio_corpo": 651,
+     "fim_corpo": 1364,
+     "trecho": "I am responsible for the design, management and ongoing operation of the unWired Broadband network with a team of highly qualified and experienced engineers and technicians. I’m honored and pleased to offer my perspective on the current state of broadband in rural California, and how we can secure meaningful connectivity for every American, close the digital divide, and more specifically, meet the challenges and opportunities in providing high speed Internet services to rural Americans. About unWired Broadband unWired Broadband has been providing high speed Internet services to rural and underserved residents, businesses, and anchor institutions in the California Central Valley since 2003."
+    },
+    {
+     "inicio_corpo": 2978,
+     "fim_corpo": 3982,
+     "trecho": "The majority of our customers are within 10 miles of one or more of our transmission sites. Over the first 20 years of our operation, typical download and upload speeds offered in our fixed wireless network ranged from 5 to 30Mbps with higher speed, more expensive connections available using dedicated transmission equipment, sometimes ordered by Enterprise customers. UnWired’s enterprise services range from small 20Mbps/20Mbps symmetrical connections to 2Gbps/2Gbps with capabilities to exceed 10Gbps in some areas. Unlike the majority of ISPs, unWired provides a minimum speed guarantee. To deliver on our promise to our customers, we have historically only provided smaller bandwidth connections that actually meet their broadband usage needs. It may come as a surprise to you based on the speeds specified in various programs identifying unserved and underserved customers, but across our entire network, at peak demand times, the actual average usage of our customers is 6 Mbps!"
+    },
+    {
+     "inicio_corpo": 2978,
+     "fim_corpo": 3982,
+     "trecho": "The majority of our customers are within 10 miles of one or more of our transmission sites. Over the first 20 years of our operation, typical download and upload speeds offered in our fixed wireless network ranged from 5 to 30Mbps with higher speed, more expensive connections available using dedicated transmission equipment, sometimes ordered by Enterprise customers. UnWired’s enterprise services range from small 20Mbps/20Mbps symmetrical connections to 2Gbps/2Gbps with capabilities to exceed 10Gbps in some areas. Unlike the majority of ISPs, unWired provides a minimum speed guarantee. To deliver on our promise to our customers, we have historically only provided smaller bandwidth connections that actually meet their broadband usage needs. It may come as a surprise to you based on the speeds specified in various programs identifying unserved and underserved customers, but across our entire network, at peak demand times, the actual average usage of our customers is 6 Mbps!"
+    },
+    {
+     "inicio_corpo": 5037,
+     "fim_corpo": 6017,
+     "trecho": "These technologies combined with the recent availability of LIDAR mapping have enabled fixed wireless providers to accurately plan new deployments ensuring comprehensive coverage in a way never before possible. Our company is currently allocating millions of dollars in funds to two transformative projects: our NextGen fixed wireless services using the advanced technologies like available from Tarana Wireless, and our fiber optic network projects in small, denser rural cities and census designated areas. Importance of Connectivity in Rural Areas There are many residents and businesses in the rural California Central Valley who do not have access to reliable, trenched-in high-speed Internet services because the cost of deploying a fiber infrastructure is not economical. Nor is it expected to be economical with the demand for high-speed Internet services in unserved and underserved areas relative to public funding sources and budget constraints."
+    },
+    {
+     "inicio_corpo": 5251,
+     "fim_corpo": 6017,
+     "trecho": "Our company is currently allocating millions of dollars in funds to two transformative projects: our NextGen fixed wireless services using the advanced technologies like available from Tarana Wireless, and our fiber optic network projects in small, denser rural cities and census designated areas. Importance of Connectivity in Rural Areas There are many residents and businesses in the rural California Central Valley who do not have access to reliable, trenched-in high-speed Internet services because the cost of deploying a fiber infrastructure is not economical. Nor is it expected to be economical with the demand for high-speed Internet services in unserved and underserved areas relative to public funding sources and budget constraints."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0289::Posição no trabalho",
+   "unit_id": "W0289",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Troy Klinger",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6797,
+     "fim_corpo": 7716,
+     "trecho": "There are several technologies that farms, and equipment manufacturers are using to solve these problems, but just as fiber or fixed wireless isn’t the single solution for broadband there is not a single solution for connectivity across a farm. Technologies using LoRa are best suited for longer distances with lower data throughputs where battery power alone will maintain connectivity for long durations. For applications that require larger bandwidth such as autonomous tractors, WiFi solutions provide the best coverage and connectivity, but require power through cables, solar, or wind power generation. With all varieties of farm technology, the need for great connectivity to the farm is increasing. As we have been seeing demand for more services and higher speeds from the ag industry, we have also been seeing more demand for services from workers in that industry at their rural residences."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0289::Renda e classe",
+   "unit_id": "W0289",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Troy Klinger",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8166,
+     "fim_corpo": 9111,
+     "trecho": "Many of the rural communities that currently lack access to high-speed broadband are communities with lower household incomes. Many ISP’s will avoid investment in these communities due to customer take rates and financial risk. The Affordable Connectivity Program (ACP) enabled eligible, lower income customers in rural areas to subscribe to high- speed Internet services that they could not otherwise afford. We have seen hundreds of new customers since November 2023 subscribe to our services through our participation in the ACP program. We encourage refunding that program to help bridge the digital divide in the rural areas of the US. Losing access to this much needed assistance will result in many households not having Internet access. Additionally, the loss of customers will likely result in reduced investment into low-income rural markets due to longer ROIs for service providers if they choose to invest at all."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0289::Urbano e rural",
+   "unit_id": "W0289",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Troy Klinger",
+   "n_ocorrencias_no_par": 24,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 18,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "Rural Areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 348,
+     "trecho": "Written Testimony of Troy Klinger Director, Network Operations unWired Broadband, LLC. Before the Subcommittee on Communications and Technology “Perspectives from the Fields: The State of Rural Broadband in America” May 10, 2024 1001 Truxtun Avenue, Bakersfield, CA 93301 Good morning, Chair Latta, and members of the Subcommittee."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 651,
+     "trecho": "Written Testimony of Troy Klinger Director, Network Operations unWired Broadband, LLC. Before the Subcommittee on Communications and Technology “Perspectives from the Fields: The State of Rural Broadband in America” May 10, 2024 1001 Truxtun Avenue, Bakersfield, CA 93301 Good morning, Chair Latta, and members of the Subcommittee. I am Troy Klinger, Director of Network Operations at unWired Broadband, a hybrid fixed wireless and fiber optic Internet Service Provider (ISP) whose primary mission is to serve the rural and underserved residents, businesses and anchor institutions in California’s Central Valley and North Valley."
+    },
+    {
+     "inicio_corpo": 90,
+     "fim_corpo": 1151,
+     "trecho": "Before the Subcommittee on Communications and Technology “Perspectives from the Fields: The State of Rural Broadband in America” May 10, 2024 1001 Truxtun Avenue, Bakersfield, CA 93301 Good morning, Chair Latta, and members of the Subcommittee. I am Troy Klinger, Director of Network Operations at unWired Broadband, a hybrid fixed wireless and fiber optic Internet Service Provider (ISP) whose primary mission is to serve the rural and underserved residents, businesses and anchor institutions in California’s Central Valley and North Valley. I am responsible for the design, management and ongoing operation of the unWired Broadband network with a team of highly qualified and experienced engineers and technicians. I’m honored and pleased to offer my perspective on the current state of broadband in rural California, and how we can secure meaningful connectivity for every American, close the digital divide, and more specifically, meet the challenges and opportunities in providing high speed Internet services to rural Americans."
+    },
+    {
+     "inicio_corpo": 348,
+     "fim_corpo": 1151,
+     "trecho": "I am Troy Klinger, Director of Network Operations at unWired Broadband, a hybrid fixed wireless and fiber optic Internet Service Provider (ISP) whose primary mission is to serve the rural and underserved residents, businesses and anchor institutions in California’s Central Valley and North Valley. I am responsible for the design, management and ongoing operation of the unWired Broadband network with a team of highly qualified and experienced engineers and technicians. I’m honored and pleased to offer my perspective on the current state of broadband in rural California, and how we can secure meaningful connectivity for every American, close the digital divide, and more specifically, meet the challenges and opportunities in providing high speed Internet services to rural Americans."
+    },
+    {
+     "inicio_corpo": 651,
+     "fim_corpo": 1364,
+     "trecho": "I am responsible for the design, management and ongoing operation of the unWired Broadband network with a team of highly qualified and experienced engineers and technicians. I’m honored and pleased to offer my perspective on the current state of broadband in rural California, and how we can secure meaningful connectivity for every American, close the digital divide, and more specifically, meet the challenges and opportunities in providing high speed Internet services to rural Americans. About unWired Broadband unWired Broadband has been providing high speed Internet services to rural and underserved residents, businesses, and anchor institutions in the California Central Valley since 2003."
+    },
+    {
+     "inicio_corpo": 3355,
+     "fim_corpo": 4098,
+     "trecho": "UnWired’s enterprise services range from small 20Mbps/20Mbps symmetrical connections to 2Gbps/2Gbps with capabilities to exceed 10Gbps in some areas. Unlike the majority of ISPs, unWired provides a minimum speed guarantee. To deliver on our promise to our customers, we have historically only provided smaller bandwidth connections that actually meet their broadband usage needs. It may come as a surprise to you based on the speeds specified in various programs identifying unserved and underserved customers, but across our entire network, at peak demand times, the actual average usage of our customers is 6 Mbps! More recently, we have seen significant improvements in fixed wireless technology capable of serving rural areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0290::Domicílio e arranjo familiar",
+   "unit_id": "W0290",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Alan Davidson",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3744,
+     "fim_corpo": 4620,
+     "trecho": "Demand remains high in Indian Country: our second funding notice for almost $1 billion was nearly three times oversubscribed. Permitting Obtaining the necessary permits to construct broadband networks has long been a pain point in the deployment process. At NTIA, we are doing everything we can to help—from working with federal land management and historical preservation agencies to streamline the process for building on government land, to developing a new mapping tool to help grantees identify permit requirements early in project planning. Affordability Affordability remains a key goal across our Internet for All programs, and it is a goal that Congress can help us achieve. The Affordable Connectivity Program has helped more than 23 million households subscribe to free or discounted Internet service—more than 1 in 6 households across the country."
+    },
+    {
+     "inicio_corpo": 3744,
+     "fim_corpo": 4620,
+     "trecho": "Demand remains high in Indian Country: our second funding notice for almost $1 billion was nearly three times oversubscribed. Permitting Obtaining the necessary permits to construct broadband networks has long been a pain point in the deployment process. At NTIA, we are doing everything we can to help—from working with federal land management and historical preservation agencies to streamline the process for building on government land, to developing a new mapping tool to help grantees identify permit requirements early in project planning. Affordability Affordability remains a key goal across our Internet for All programs, and it is a goal that Congress can help us achieve. The Affordable Connectivity Program has helped more than 23 million households subscribe to free or discounted Internet service—more than 1 in 6 households across the country."
+    },
+    {
+     "inicio_corpo": 4005,
+     "fim_corpo": 4812,
+     "trecho": "At NTIA, we are doing everything we can to help—from working with federal land management and historical preservation agencies to streamline the process for building on government land, to developing a new mapping tool to help grantees identify permit requirements early in project planning. Affordability Affordability remains a key goal across our Internet for All programs, and it is a goal that Congress can help us achieve. The Affordable Connectivity Program has helped more than 23 million households subscribe to free or discounted Internet service—more than 1 in 6 households across the country. Affordable connectivity plays an important role in the success of the Internet for All deployment programs. We know that an Internet connection is not enough if a family cannot afford it."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0290::Escolaridade e letramento",
+   "unit_id": "W0290",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Alan Davidson",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2357,
+     "fim_corpo": 3329,
+     "trecho": "As of February 29, each state in America, along with DC and Puerto Rico, adopted a plan to ensure that all people have the skills, technology, and capacity to reap the full benefits of our digital economy. In March, NTIA launched the State Digital Equity Capacity Grant funding notice, which makes more than $800 million available for states and territories to execute on those plans—the largest- ever investment toward this national goal. Other Internet for All Programs In our other programs, NTIA is already connecting people across America. • Our Broadband Infrastructure Program has deployed high-speed Internet service to nearly 33,000 previously unserved homes. • Grants from our Connecting Minority Communities Pilot Program have provided more than 25,000 connected devices to students and community members through Minority Serving Institutions, yielded 9,000 new broadband subscriptions, and trained more than 15,000 people in digital skills."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0290::Gênero",
+   "unit_id": "W0290",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Alan Davidson",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9394,
+     "fim_corpo": 10280,
+     "trecho": "Just this month, NTIA released a second NOFO focused on bolstering the supply chain and supporting the development of interoperable 5G equipment. We’re making up to $420 million available for these critical investments. And as we work to promote investment in supplier diversity at home, we are also advancing trusted and resilient networks internationally. In concert with other federal agencies, NTIA has put forth technical Open RAN standards—developed by the private sector here in the United States—for adoption around the world. And we have earned commitments from multiple allies to invest in R&D, adopt incentives, and enact policies to support Open RAN. FirstNet Our colleagues at the First Responder Network Authority (FirstNet) have been busy both building and expanding this network as well as providing support to the men and women who keep America safe."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0290::Idade",
+   "unit_id": "W0290",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Alan Davidson",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "youth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7629,
+     "fim_corpo": 8415,
+     "trecho": "Such assurance will in turn boost public—and marketplace—confidence in these tools. 4 Meanwhile, we continue working on a key assignment from President Biden’s executive order on AI: assessing the benefits and harms of advanced AI models with widely available model weights, the core component of AI systems. Our Request for Comment in this proceeding attracted significant public interest, and our team is on track to deliver a report to the White House in July. Kids Online Health and Safety We continue to co-lead the President’s Task Force on Kids Online Health and Safety, alongside the Department of Health and Human Services. The Task Force is examining how government, industry, educators, and caregivers can better protect the health and safety of youth online."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0290::Infraestrutura e porte populacional",
+   "unit_id": "W0290",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Alan Davidson",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "last mile",
+     "forma_encontrada": "last-mile",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2255,
+     "fim_corpo": 3041,
+     "trecho": "2 Digital Equity We have also reached significant milestones in our Digital Equity Act programs. As of February 29, each state in America, along with DC and Puerto Rico, adopted a plan to ensure that all people have the skills, technology, and capacity to reap the full benefits of our digital economy. In March, NTIA launched the State Digital Equity Capacity Grant funding notice, which makes more than $800 million available for states and territories to execute on those plans—the largest- ever investment toward this national goal. Other Internet for All Programs In our other programs, NTIA is already connecting people across America. • Our Broadband Infrastructure Program has deployed high-speed Internet service to nearly 33,000 previously unserved homes."
+    },
+    {
+     "inicio_corpo": 4300,
+     "fim_corpo": 5313,
+     "trecho": "Affordability Affordability remains a key goal across our Internet for All programs, and it is a goal that Congress can help us achieve. The Affordable Connectivity Program has helped more than 23 million households subscribe to free or discounted Internet service—more than 1 in 6 households across the country. Affordable connectivity plays an important role in the success of the Internet for All deployment programs. We know that an Internet connection is not enough if a family cannot afford it. We also know that ACP helped network providers make the business case to serve rural and remote communities. Congress should act to ensure that more than 23 million Americans can continue to stay connected. 3 NTIA will continue to ensure networks are affordable, including through low-cost options required by the BEAD Program, reducing last-mile costs through our Middle Mile program, and distributing low or no-cost devices through our Tribal and Connecting Minority Communities Programs."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0290::Macrorregião",
+   "unit_id": "W0290",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Alan Davidson",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Puerto Rico",
+     "forma_encontrada": "Puerto Rico",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 931,
+     "fim_corpo": 1872,
+     "trecho": "Maintaining American leadership in wireless innovation; and 3. Developing policies that will make for a better Internet – one that offers privacy, security, openness, trust, and safety. Internet for All This week marks two years since NTIA launched the Internet for All initiative. Today we are administering six major grant programs addressing the barriers that have kept too many Americans from fully participating in life online. I am happy to report that, across all six programs, we are hitting our marks and making progress on our goal of connecting everyone in America by the end of this decade. Broadband Equity, Access, and Deployment (BEAD) Program As 2023 came to a close, we reached an important milestone in our Broadband Equity, Access, and Deployment (BEAD) program: All 56 states and territories submitted Initial Proposals for how they plan to spend their share of the $42 billion state grant program."
+    },
+    {
+     "inicio_corpo": 1377,
+     "fim_corpo": 2255,
+     "trecho": "I am happy to report that, across all six programs, we are hitting our marks and making progress on our goal of connecting everyone in America by the end of this decade. Broadband Equity, Access, and Deployment (BEAD) Program As 2023 came to a close, we reached an important milestone in our Broadband Equity, Access, and Deployment (BEAD) program: All 56 states and territories submitted Initial Proposals for how they plan to spend their share of the $42 billion state grant program. In the Bipartisan Infrastructure Law, Congress prioritized the planning and preparation that has characterized these first two years. Now, 2024 is a year of execution—the year for which we’ve been planning. As NTIA approves initial plans, states and territories will be embarking on the challenge and subgrantee selection processes that will fund providers to build networks."
+    },
+    {
+     "inicio_corpo": 1549,
+     "fim_corpo": 2565,
+     "trecho": "Broadband Equity, Access, and Deployment (BEAD) Program As 2023 came to a close, we reached an important milestone in our Broadband Equity, Access, and Deployment (BEAD) program: All 56 states and territories submitted Initial Proposals for how they plan to spend their share of the $42 billion state grant program. In the Bipartisan Infrastructure Law, Congress prioritized the planning and preparation that has characterized these first two years. Now, 2024 is a year of execution—the year for which we’ve been planning. As NTIA approves initial plans, states and territories will be embarking on the challenge and subgrantee selection processes that will fund providers to build networks. 2 Digital Equity We have also reached significant milestones in our Digital Equity Act programs. As of February 29, each state in America, along with DC and Puerto Rico, adopted a plan to ensure that all people have the skills, technology, and capacity to reap the full benefits of our digital economy."
+    },
+    {
+     "inicio_corpo": 1872,
+     "fim_corpo": 2804,
+     "trecho": "In the Bipartisan Infrastructure Law, Congress prioritized the planning and preparation that has characterized these first two years. Now, 2024 is a year of execution—the year for which we’ve been planning. As NTIA approves initial plans, states and territories will be embarking on the challenge and subgrantee selection processes that will fund providers to build networks. 2 Digital Equity We have also reached significant milestones in our Digital Equity Act programs. As of February 29, each state in America, along with DC and Puerto Rico, adopted a plan to ensure that all people have the skills, technology, and capacity to reap the full benefits of our digital economy. In March, NTIA launched the State Digital Equity Capacity Grant funding notice, which makes more than $800 million available for states and territories to execute on those plans—the largest- ever investment toward this national goal."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0290::Raça e etnia",
+   "unit_id": "W0290",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Alan Davidson",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "minority",
+     "forma_encontrada": "Minority",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "minority",
+     "forma_encontrada": "Minority",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "minority",
+     "forma_encontrada": "Minority",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2255,
+     "fim_corpo": 3329,
+     "trecho": "2 Digital Equity We have also reached significant milestones in our Digital Equity Act programs. As of February 29, each state in America, along with DC and Puerto Rico, adopted a plan to ensure that all people have the skills, technology, and capacity to reap the full benefits of our digital economy. In March, NTIA launched the State Digital Equity Capacity Grant funding notice, which makes more than $800 million available for states and territories to execute on those plans—the largest- ever investment toward this national goal. Other Internet for All Programs In our other programs, NTIA is already connecting people across America. • Our Broadband Infrastructure Program has deployed high-speed Internet service to nearly 33,000 previously unserved homes. • Grants from our Connecting Minority Communities Pilot Program have provided more than 25,000 connected devices to students and community members through Minority Serving Institutions, yielded 9,000 new broadband subscriptions, and trained more than 15,000 people in digital skills."
+    },
+    {
+     "inicio_corpo": 2357,
+     "fim_corpo": 3329,
+     "trecho": "As of February 29, each state in America, along with DC and Puerto Rico, adopted a plan to ensure that all people have the skills, technology, and capacity to reap the full benefits of our digital economy. In March, NTIA launched the State Digital Equity Capacity Grant funding notice, which makes more than $800 million available for states and territories to execute on those plans—the largest- ever investment toward this national goal. Other Internet for All Programs In our other programs, NTIA is already connecting people across America. • Our Broadband Infrastructure Program has deployed high-speed Internet service to nearly 33,000 previously unserved homes. • Grants from our Connecting Minority Communities Pilot Program have provided more than 25,000 connected devices to students and community members through Minority Serving Institutions, yielded 9,000 new broadband subscriptions, and trained more than 15,000 people in digital skills."
+    },
+    {
+     "inicio_corpo": 4442,
+     "fim_corpo": 5313,
+     "trecho": "The Affordable Connectivity Program has helped more than 23 million households subscribe to free or discounted Internet service—more than 1 in 6 households across the country. Affordable connectivity plays an important role in the success of the Internet for All deployment programs. We know that an Internet connection is not enough if a family cannot afford it. We also know that ACP helped network providers make the business case to serve rural and remote communities. Congress should act to ensure that more than 23 million Americans can continue to stay connected. 3 NTIA will continue to ensure networks are affordable, including through low-cost options required by the BEAD Program, reducing last-mile costs through our Middle Mile program, and distributing low or no-cost devices through our Tribal and Connecting Minority Communities Programs."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0290::Urbano e rural",
+   "unit_id": "W0290",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Alan Davidson",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4005,
+     "fim_corpo": 4923,
+     "trecho": "At NTIA, we are doing everything we can to help—from working with federal land management and historical preservation agencies to streamline the process for building on government land, to developing a new mapping tool to help grantees identify permit requirements early in project planning. Affordability Affordability remains a key goal across our Internet for All programs, and it is a goal that Congress can help us achieve. The Affordable Connectivity Program has helped more than 23 million households subscribe to free or discounted Internet service—more than 1 in 6 households across the country. Affordable connectivity plays an important role in the success of the Internet for All deployment programs. We know that an Internet connection is not enough if a family cannot afford it. We also know that ACP helped network providers make the business case to serve rural and remote communities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0291::Domicílio e arranjo familiar",
+   "unit_id": "W0291",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Carrie Goldberg",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11171,
+     "fim_corpo": 12030,
+     "trecho": "Indeed, a teaspoon of the powder mixed with water ends a life in about 20 minutes. On Amazon’s website I saw pictures of the product and lots of user reviews from heartbroken parents and toxicologists saying the product had killed their kid. I expected the case to just be a pro bono letter. Surely Amazon was just too big to realize it was selling a suicide kit. And I say kit, because it recommended that users who purchase the chemical also buy attending products to guarantee death – including a small scale to measure the dose, Tagamet anti-emetic pills to prevent vomiting, and an Amazon edition suicide manual with an entire chapter on how to die from Sodium Nitrite. Mikael had also the scale and Tagamet was found in his room. Unlike the other products Amazon sells, the 99% pure Sodium Nitrite it sold to Mikael has no household use."
+    },
+    {
+     "inicio_corpo": 12141,
+     "fim_corpo": 13023,
+     "trecho": "To my surprise, when Amazon’s lawyers responded in May, rather than taking the product off the market, they doubled down and said they have no duty to restrict sales just because somebody was “misusing.” They said they could not be held liable anyway. majority today thrusts Congress into the unlikely position of having enacted legislation that encourages and protects the involvement of ISPs as silent partners in criminal enterprises for profit. Confident that Congress did not intend such an incongruous result, I respectfully dissent.” – Judge J. Lewis Doe v. America Online Inc. (2001) Supreme Court of FL No. SC94355 Goldberg, Legislative Proposal to Sunset Section 230 of the Communications Decency Act, May 22, 2024 5 I ended up suing Amazon. And other parents joined the fight. I now represent 24 families to whom Amazon knowingly sold this chemical."
+    },
+    {
+     "inicio_corpo": 12396,
+     "fim_corpo": 13360,
+     "trecho": "majority today thrusts Congress into the unlikely position of having enacted legislation that encourages and protects the involvement of ISPs as silent partners in criminal enterprises for profit. Confident that Congress did not intend such an incongruous result, I respectfully dissent.” – Judge J. Lewis Doe v. America Online Inc. (2001) Supreme Court of FL No. SC94355 Goldberg, Legislative Proposal to Sunset Section 230 of the Communications Decency Act, May 22, 2024 5 I ended up suing Amazon. And other parents joined the fight. I now represent 24 families to whom Amazon knowingly sold this chemical. We have six cases filed. One of the cases is on behalf of the families of a 16 year old girl, Kristine Jónsson from Ohio and 17 year old Ethan McCarthy from West Virginia In that case, I sued saying that Amazon was negligent for selling and distributing Sodium Nitrite when it knew that the product was regularly used for death."
+    },
+    {
+     "inicio_corpo": 43597,
+     "fim_corpo": 44762,
+     "trecho": "VI. Why KOSA does not solve the problem completely The Kids Online Safety Act (KOSA), introduced in the Senate, is a response to platforms’ to profound evidence showing that platforms sought to addict children and regularly exposed them to harmful content. The blockbuster feature is the imposition of a “duty of care” that requires that platforms “exercise reasonable care in the creation and implementation of any design features to prevent and mitigate” specific “harms to minors” such as mental health disorders, violence, drug use, etc. The law sets forth design features that must be embedded in the app such as privacy settings and the ability for parents to supervise their child’s activities. The most recent iteration of the bill has been approved by organizations that typically oppose online regulations, such as free speech and digital rights organizations. Kosa provides families with the tools, safeguards, and transparency to protect against threats to children’s health and well-being online with platforms required to protect children’s information, disable addictive product features, and opt-out of algorithmic recommendations."
+    },
+    {
+     "inicio_corpo": 44481,
+     "fim_corpo": 45430,
+     "trecho": "Kosa provides families with the tools, safeguards, and transparency to protect against threats to children’s health and well-being online with platforms required to protect children’s information, disable addictive product features, and opt-out of algorithmic recommendations. Social media platforms are required to perform an annual independent audit assessing risks to minors, their compliance with KOSA, and whether the platform is taking meaningful steps to mitigate harms. Lastly it allows academic researchers access to critical datasets so they can research harms to the safety and well- being of minors. While KOSA is laudable for many reasons, it does not solve the problems imposed by Section 230. First off, it does not amend or interplay with Section 230 in any way. The bill does not impact the liability of tech companies at all or provide the children and families it’s supposed to protect with any means of enforcement."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0291::Educação",
+   "unit_id": "W0291",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Carrie Goldberg",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13798,
+     "fim_corpo": 14755,
+     "trecho": "But the judge said that since I had mentioned user reviews – i.e. content posted by another user, Section 230 applied and the claim should be thrown out. This was one sentence in a 42 page complaint and none of the claims even relied on that fact. The Court dismissed the case with prejudice and said Amazon was immune from liability for intentionally concealing the harms connected to the product because the lawsuit included language that discussed the posting of third party content. B. Immunity for marketing a hook-up app to children John Doe v Grindr (Pending in the 9th Circuit) Grindr is the world’s biggest hook-up app for LGBTQ+ individuals. In recent years, it has begun campaigns on TikTok and Instagram clearly marketed to children. Not only are these platforms primarily used by children, but the content Grindr posted showed videos of adolescent-appearing kids in school gymnasiums and high school or middle school settings."
+    },
+    {
+     "inicio_corpo": 13864,
+     "fim_corpo": 14755,
+     "trecho": "content posted by another user, Section 230 applied and the claim should be thrown out. This was one sentence in a 42 page complaint and none of the claims even relied on that fact. The Court dismissed the case with prejudice and said Amazon was immune from liability for intentionally concealing the harms connected to the product because the lawsuit included language that discussed the posting of third party content. B. Immunity for marketing a hook-up app to children John Doe v Grindr (Pending in the 9th Circuit) Grindr is the world’s biggest hook-up app for LGBTQ+ individuals. In recent years, it has begun campaigns on TikTok and Instagram clearly marketed to children. Not only are these platforms primarily used by children, but the content Grindr posted showed videos of adolescent-appearing kids in school gymnasiums and high school or middle school settings."
+    },
+    {
+     "inicio_corpo": 13864,
+     "fim_corpo": 14755,
+     "trecho": "content posted by another user, Section 230 applied and the claim should be thrown out. This was one sentence in a 42 page complaint and none of the claims even relied on that fact. The Court dismissed the case with prejudice and said Amazon was immune from liability for intentionally concealing the harms connected to the product because the lawsuit included language that discussed the posting of third party content. B. Immunity for marketing a hook-up app to children John Doe v Grindr (Pending in the 9th Circuit) Grindr is the world’s biggest hook-up app for LGBTQ+ individuals. In recent years, it has begun campaigns on TikTok and Instagram clearly marketed to children. Not only are these platforms primarily used by children, but the content Grindr posted showed videos of adolescent-appearing kids in school gymnasiums and high school or middle school settings."
+    },
+    {
+     "inicio_corpo": 14558,
+     "fim_corpo": 15456,
+     "trecho": "Not only are these platforms primarily used by children, but the content Grindr posted showed videos of adolescent-appearing kids in school gymnasiums and high school or middle school settings. In April, 2019, John Doe, a closeted 15 year old gay boy living with Autism and ADHD in a rural community fell victim to Grindr’s juvenile-targeting marketing. He was desperate to meet other gay kids and naively thought he could find friends on Grindr. Without his parent’s knowledge or permission, he downloaded the app, complied with a prompt that told him he needed to be 18 or older and created a profile, choosing whatever birthday he wanted. Grindr extracted John Doe’s location data from his phone and offered proximately located users to him and offered him to nearby adults. The day he downloaded Grindr, he matched with an adult nearby his school, met up with him and was raped."
+    },
+    {
+     "inicio_corpo": 14918,
+     "fim_corpo": 15858,
+     "trecho": "He was desperate to meet other gay kids and naively thought he could find friends on Grindr. Without his parent’s knowledge or permission, he downloaded the app, complied with a prompt that told him he needed to be 18 or older and created a profile, choosing whatever birthday he wanted. Grindr extracted John Doe’s location data from his phone and offered proximately located users to him and offered him to nearby adults. The day he downloaded Grindr, he matched with an adult nearby his school, met up with him and was raped. Stunned, traumatized, and confused, Doe returned to Grindr. Over four consecutive days in total, Grindr matched Doe with four adults, each who raped him with varying degrees of force and violence. Three of the four were criminally convicted. Doe experienced significant trauma and distress from the rapes, causing him to attempt suicide, drop out of school, and require inpatient hospitalization."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0291::Saúde",
+   "unit_id": "W0291",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Carrie Goldberg",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 15012,
+     "fim_corpo": 15858,
+     "trecho": "Without his parent’s knowledge or permission, he downloaded the app, complied with a prompt that told him he needed to be 18 or older and created a profile, choosing whatever birthday he wanted. Grindr extracted John Doe’s location data from his phone and offered proximately located users to him and offered him to nearby adults. The day he downloaded Grindr, he matched with an adult nearby his school, met up with him and was raped. Stunned, traumatized, and confused, Doe returned to Grindr. Over four consecutive days in total, Grindr matched Doe with four adults, each who raped him with varying degrees of force and violence. Three of the four were criminally convicted. Doe experienced significant trauma and distress from the rapes, causing him to attempt suicide, drop out of school, and require inpatient hospitalization."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0291::Saúde e deficiência",
+   "unit_id": "W0291",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Carrie Goldberg",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "blind",
+     "forma_encontrada": "blind",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "blind",
+     "forma_encontrada": "blind",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 16095,
+     "fim_corpo": 16972,
+     "trecho": "Grindr alleged Goldberg, Legislative Proposal to Sunset Section 230 of the Communications Decency Act, May 22, 2024 6 that it is but a forum for “speech.” The District Court dismissed the entire case with prejudice, claiming that but-for the user content, none of the harms that befell Doe would have occurred. The judge lamented that “[t]he facts of this care are indisputably alarming and tragic. No one should endure what Plaintiff has.” Yet, he dismissed the case because, according to the Court, Section 230 immunizes the platform because if not for user content – specifically the location data Grindr extracts from users to match them with other users – none of the harms would have happened to Doe. The trafficking claims were dismissed because the judge said that Grindr merely “turned a blind eye” to the unlawful conduct, which it is allowed to do."
+    },
+    {
+     "inicio_corpo": 48009,
+     "fim_corpo": 48912,
+     "trecho": "The Supreme Court already refused twice in 2023 to not engage in cases with a “complaint that appears to state little, if any, plausible claim for relief.” Gonzalez v. Google (598 U.S. 617 (2023)) Taamneh v. Twitter (598 U.S. 471 (2023)_. VII. The Fix Section 230 ought to be sunsetted via the Sunset Clause. However, if Congress fails and instead pursues other legislative avenues, any legislation must distinguish between hosting defamatory content versus enabling criminal conduct. The first deserves 230, the second does not. ◼ Conduct carve-outs o Bad Samaritan carve-outs – no immunity from civil liability for platforms that Goldberg, Legislative Proposal to Sunset Section 230 of the Communications Decency Act, May 22, 2024 16 ▪ purposefully facilitate or solicit third party content or activity that violates criminal law; ▪ Are willfully blind to illicit conduct, (e.g."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0291::Urbano e rural",
+   "unit_id": "W0291",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Carrie Goldberg",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13954,
+     "fim_corpo": 14918,
+     "trecho": "This was one sentence in a 42 page complaint and none of the claims even relied on that fact. The Court dismissed the case with prejudice and said Amazon was immune from liability for intentionally concealing the harms connected to the product because the lawsuit included language that discussed the posting of third party content. B. Immunity for marketing a hook-up app to children John Doe v Grindr (Pending in the 9th Circuit) Grindr is the world’s biggest hook-up app for LGBTQ+ individuals. In recent years, it has begun campaigns on TikTok and Instagram clearly marketed to children. Not only are these platforms primarily used by children, but the content Grindr posted showed videos of adolescent-appearing kids in school gymnasiums and high school or middle school settings. In April, 2019, John Doe, a closeted 15 year old gay boy living with Autism and ADHD in a rural community fell victim to Grindr’s juvenile-targeting marketing."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0292::Cultura e informação",
+   "unit_id": "W0292",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Kate Tummarello",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "libraries",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3933,
+     "fim_corpo": 4818,
+     "trecho": "Butthelegalframeworkcreatedin1996stillworksacrosstheInternet,farbeyondplatformsrunby largetechcompanies. ThatincludeseverythingfromstartupsinEngine’snetwork—likethosethat 4 StrattonOakmont v. Prodigy, No. 31063/94, 1995WL323710(N.Y. Sup. Ct. May24, 1995) 3 Cubby, Inc. v. CompuServe Inc., 776F. Supp. 135(S.D.N.Y. 1991) 2 Hours of videouploadedtoYouTube every minute as of February 2022, Statista(June2022),https://www.statista.com/statistics/259477/hours-of-video-uploaded-to-youtube-every-minute/. buildlocalcommunitiesthroughevents, 5 createsaferdatingexperiences, 6 facilitateconversation aboutcurrentevents, 7 support educators, 8 helpsmallbusinessesfindcustomers, 9 andmore—tothe non-profit-runWikipedia,tolibraries, toeducationalinstitutions, toInternetinfrastructure companies, toindividualsrunningMastodonservers, orcommunitylistservs, orbloggerswith commentsections."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0294::Domicílio e arranjo familiar",
+   "unit_id": "W0294",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Eric Keber",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 753,
+     "fim_corpo": 1660,
+     "trecho": "July 24, 2024 Chairman Tiﬀany, Ranking Member Neguse and members of the Subcommi=ee, thank you for the opportunity to tes?fy at this legisla?ve hearing, speciﬁcally in support of H.R. 3293, the Expedi'ng Federal Broadband Deployment Reviews Act. I am tes?fying on behalf of WTA – Advocates for Rural Broadband, which represents approximately 370 small broadband providers serving rural America with high-speed broadband, telephone, and other communica?ons services. The typical company serves between 3,000-5,000 customers and has 20-30 employees. The networks these companies build predominantly consist of buried ﬁber. But at ?mes, depending on terrain, cost, and other factors a company’s network will consist of aerial ﬁber a=ached to poles as well as ﬁxed and cellular wireless technology. Our members are primarily a mix of private, mostly family-owned, companies and coopera?ves."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0294::Infraestrutura e porte populacional",
+   "unit_id": "W0294",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Eric Keber",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4661,
+     "fim_corpo": 5457,
+     "trecho": "Only on very rare occasions do they a=empt to get permission to construct networks in or on completely undisturbed ground. It makes no sense, whether on or oﬀ federal land, if a broadband provider is simply digging up previously disturbed ground or making use of an exis?ng rights-of-way that the process should take as long as it oden does. Some anecdotal examples of the problems faced by WTA’s rural broadband providers include: • A company that sought to bury ﬁber along an exis?ng state highway that passed through federal land. It took two years and seven months to get ﬁnal approval so this project could begin construc?on. 3 • A company that was awarded federal funding through RUS’ ReConnect program in October of 2022 to build a network to residents unserved by ﬁber."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1078 @@
+{
+ "caso": "BEAD",
+ "lote": 43,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0182::Educação",
+   "unit_id": "W0182",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3354,
+     "fim_corpo": 4248,
+     "trecho": "Indeed, in the last 13 months, the FCC has worked together to stand up an unprecedented 2 $24 billion in various low-income programs. In February 2021, we built off of Congress’s bipartisan decision in the Consolidated Appropriations Act to enact a $3.2 billion Emergency Broadband Benefit Program (EBB). In May 2021, we voted to create a $7.2 billion Emergency Connectivity Fund (ECF) that was funded by Congress in the March 2021 American Rescue Plan (ARPA). By working together, we improved the FCC’s approach to ECF by making sure that the agency would award funding on a prospective, forward-looking basis first. This decision ensured that ECF funds could be used to connect students that were still stuck on the wrong side of the digital divide. We also took steps to ensure that rural students and homeschooled students would receive a fair shot at receiving ECF funds."
+    },
+    {
+     "inicio_corpo": 19380,
+     "fim_corpo": 20048,
+     "trecho": "Given the magnitude of current funding and the pressing need to connect more Americans, it is even more important that we ensure that these funds are spent wisely and that their impact is carefully measured. But we are already seeing some worrying signs that may just be the tip of the iceberg. For instance, the FCC’s Office of the Inspector General (OIG) issued a report last November regarding one of the FCC’s new initiatives. The OIG report uncovered what appears to be an egregious and near nationwide scheme in which broadband providers or sales agents were falsely claiming that a household has a student that attends a qualifying low-income school."
+    },
+    {
+     "inicio_corpo": 19380,
+     "fim_corpo": 20291,
+     "trecho": "Given the magnitude of current funding and the pressing need to connect more Americans, it is even more important that we ensure that these funds are spent wisely and that their impact is carefully measured. But we are already seeing some worrying signs that may just be the tip of the iceberg. For instance, the FCC’s Office of the Inspector General (OIG) issued a report last November regarding one of the FCC’s new initiatives. The OIG report uncovered what appears to be an egregious and near nationwide scheme in which broadband providers or sales agents were falsely claiming that a household has a student that attends a qualifying low-income school. In just one example, the report identifies a low-income school in Florida that was designated by providers as the school supporting the enrollment of 1,884 households, even though there are no more than 200 students that attend the school."
+    },
+    {
+     "inicio_corpo": 19380,
+     "fim_corpo": 20291,
+     "trecho": "Given the magnitude of current funding and the pressing need to connect more Americans, it is even more important that we ensure that these funds are spent wisely and that their impact is carefully measured. But we are already seeing some worrying signs that may just be the tip of the iceberg. For instance, the FCC’s Office of the Inspector General (OIG) issued a report last November regarding one of the FCC’s new initiatives. The OIG report uncovered what appears to be an egregious and near nationwide scheme in which broadband providers or sales agents were falsely claiming that a household has a student that attends a qualifying low-income school. In just one example, the report identifies a low-income school in Florida that was designated by providers as the school supporting the enrollment of 1,884 households, even though there are no more than 200 students that attend the school."
+    },
+    {
+     "inicio_corpo": 19591,
+     "fim_corpo": 20291,
+     "trecho": "But we are already seeing some worrying signs that may just be the tip of the iceberg. For instance, the FCC’s Office of the Inspector General (OIG) issued a report last November regarding one of the FCC’s new initiatives. The OIG report uncovered what appears to be an egregious and near nationwide scheme in which broadband providers or sales agents were falsely claiming that a household has a student that attends a qualifying low-income school. In just one example, the report identifies a low-income school in Florida that was designated by providers as the school supporting the enrollment of 1,884 households, even though there are no more than 200 students that attend the school."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0182::Escolaridade e letramento",
+   "unit_id": "W0182",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "student",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3235,
+     "fim_corpo": 4121,
+     "trecho": "The FCC has also been busy taking bipartisan actions that address the affordability portion of the digital divide. Indeed, in the last 13 months, the FCC has worked together to stand up an unprecedented 2 $24 billion in various low-income programs. In February 2021, we built off of Congress’s bipartisan decision in the Consolidated Appropriations Act to enact a $3.2 billion Emergency Broadband Benefit Program (EBB). In May 2021, we voted to create a $7.2 billion Emergency Connectivity Fund (ECF) that was funded by Congress in the March 2021 American Rescue Plan (ARPA). By working together, we improved the FCC’s approach to ECF by making sure that the agency would award funding on a prospective, forward-looking basis first. This decision ensured that ECF funds could be used to connect students that were still stuck on the wrong side of the digital divide."
+    },
+    {
+     "inicio_corpo": 3354,
+     "fim_corpo": 4248,
+     "trecho": "Indeed, in the last 13 months, the FCC has worked together to stand up an unprecedented 2 $24 billion in various low-income programs. In February 2021, we built off of Congress’s bipartisan decision in the Consolidated Appropriations Act to enact a $3.2 billion Emergency Broadband Benefit Program (EBB). In May 2021, we voted to create a $7.2 billion Emergency Connectivity Fund (ECF) that was funded by Congress in the March 2021 American Rescue Plan (ARPA). By working together, we improved the FCC’s approach to ECF by making sure that the agency would award funding on a prospective, forward-looking basis first. This decision ensured that ECF funds could be used to connect students that were still stuck on the wrong side of the digital divide. We also took steps to ensure that rural students and homeschooled students would receive a fair shot at receiving ECF funds."
+    },
+    {
+     "inicio_corpo": 3354,
+     "fim_corpo": 4248,
+     "trecho": "Indeed, in the last 13 months, the FCC has worked together to stand up an unprecedented 2 $24 billion in various low-income programs. In February 2021, we built off of Congress’s bipartisan decision in the Consolidated Appropriations Act to enact a $3.2 billion Emergency Broadband Benefit Program (EBB). In May 2021, we voted to create a $7.2 billion Emergency Connectivity Fund (ECF) that was funded by Congress in the March 2021 American Rescue Plan (ARPA). By working together, we improved the FCC’s approach to ECF by making sure that the agency would award funding on a prospective, forward-looking basis first. This decision ensured that ECF funds could be used to connect students that were still stuck on the wrong side of the digital divide. We also took steps to ensure that rural students and homeschooled students would receive a fair shot at receiving ECF funds."
+    },
+    {
+     "inicio_corpo": 19105,
+     "fim_corpo": 20048,
+     "trecho": "Government Accountability Office found in multiple reports examining that initiative, failures in program design, reporting, and coordination resulted in significant waste and an inability to verify the impact of federal funds on broadband availability and subscribership. Given the magnitude of current funding and the pressing need to connect more Americans, it is even more important that we ensure that these funds are spent wisely and that their impact is carefully measured. But we are already seeing some worrying signs that may just be the tip of the iceberg. For instance, the FCC’s Office of the Inspector General (OIG) issued a report last November regarding one of the FCC’s new initiatives. The OIG report uncovered what appears to be an egregious and near nationwide scheme in which broadband providers or sales agents were falsely claiming that a household has a student that attends a qualifying low-income school."
+    },
+    {
+     "inicio_corpo": 19380,
+     "fim_corpo": 20291,
+     "trecho": "Given the magnitude of current funding and the pressing need to connect more Americans, it is even more important that we ensure that these funds are spent wisely and that their impact is carefully measured. But we are already seeing some worrying signs that may just be the tip of the iceberg. For instance, the FCC’s Office of the Inspector General (OIG) issued a report last November regarding one of the FCC’s new initiatives. The OIG report uncovered what appears to be an egregious and near nationwide scheme in which broadband providers or sales agents were falsely claiming that a household has a student that attends a qualifying low-income school. In just one example, the report identifies a low-income school in Florida that was designated by providers as the school supporting the enrollment of 1,884 households, even though there are no more than 200 students that attend the school."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0182::Infraestrutura e porte populacional",
+   "unit_id": "W0182",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6515,
+     "fim_corpo": 7395,
+     "trecho": "And in 2022 and beyond, we could then shift to the Lower 3 GHz band and several additional spectrum bands that I identified. I also made the point then that we should begin working with Congress on extending the Commission’s spectrum auction authority. On the infrastructure front, there is also more the FCC can do. To start, one of the most important steps that the FCC can take is to complete our work on accurate, updated maps. Getting those maps done is going to be key to ensuring that we properly target the billions of dollars in federal funds that are now available for broadband. Next, I have called for the Commission to continue the prior FCC’s work to accelerate Internet builds. For instance, I argued that the FCC should make sure that our cost sharing rules for pole replacements are not inhibiting Internet builds, particularly in unserved areas."
+    },
+    {
+     "inicio_corpo": 17698,
+     "fim_corpo": 18614,
+     "trecho": "It gets worse. The Treasury rules allow these billions of dollars to be spent based on bad data. It does this by authorizing recipients to determine whether an area lacks access to high-speed Internet service by relying on informal interviews and reports—however inaccurate those may be—rather than the broadband maps that the federal government has been funding and standing up. Thankfully, it is not too late to correct course. The state, local, and Tribal governments that receive ARPA funding will have the power to direct these dollars to those communities that have been left behind, rather than those that already benefit from high-speed Internet services today. I hope they do so. Congress can also help here. In the Infrastructure Investment and Jobs Act (IIJA), Congress ensured that IIJA funds would flow first to unserved areas, using the FCC’s forthcoming broadband maps as a guide."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0182::Posição no trabalho",
+   "unit_id": "W0182",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "Workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 19679,
+     "fim_corpo": 20575,
+     "trecho": "For instance, the FCC’s Office of the Inspector General (OIG) issued a report last November regarding one of the FCC’s new initiatives. The OIG report uncovered what appears to be an egregious and near nationwide scheme in which broadband providers or sales agents were falsely claiming that a household has a student that attends a qualifying low-income school. In just one example, the report identifies a low-income school in Florida that was designated by providers as the school supporting the enrollment of 1,884 households, even though there are no more than 200 students that attend the school. As we continue to make funding available through our programs, we need to give OIG the tools it needs to do its job to prevent against this type of abuse. 6 All of these challenges are going to be compounded by supply chain and workforce shortages that remain to be solved."
+    },
+    {
+     "inicio_corpo": 19818,
+     "fim_corpo": 20760,
+     "trecho": "The OIG report uncovered what appears to be an egregious and near nationwide scheme in which broadband providers or sales agents were falsely claiming that a household has a student that attends a qualifying low-income school. In just one example, the report identifies a low-income school in Florida that was designated by providers as the school supporting the enrollment of 1,884 households, even though there are no more than 200 students that attend the school. As we continue to make funding available through our programs, we need to give OIG the tools it needs to do its job to prevent against this type of abuse. 6 All of these challenges are going to be compounded by supply chain and workforce shortages that remain to be solved. The recently enacted Telecommunications Skilled Workforce Act, championed by Representatives Tim Walberg and Yvette Clarke, will help address the workforce shortage in the long run."
+    },
+    {
+     "inicio_corpo": 20048,
+     "fim_corpo": 20760,
+     "trecho": "In just one example, the report identifies a low-income school in Florida that was designated by providers as the school supporting the enrollment of 1,884 households, even though there are no more than 200 students that attend the school. As we continue to make funding available through our programs, we need to give OIG the tools it needs to do its job to prevent against this type of abuse. 6 All of these challenges are going to be compounded by supply chain and workforce shortages that remain to be solved. The recently enacted Telecommunications Skilled Workforce Act, championed by Representatives Tim Walberg and Yvette Clarke, will help address the workforce shortage in the long run."
+    },
+    {
+     "inicio_corpo": 20048,
+     "fim_corpo": 20906,
+     "trecho": "In just one example, the report identifies a low-income school in Florida that was designated by providers as the school supporting the enrollment of 1,884 households, even though there are no more than 200 students that attend the school. As we continue to make funding available through our programs, we need to give OIG the tools it needs to do its job to prevent against this type of abuse. 6 All of these challenges are going to be compounded by supply chain and workforce shortages that remain to be solved. The recently enacted Telecommunications Skilled Workforce Act, championed by Representatives Tim Walberg and Yvette Clarke, will help address the workforce shortage in the long run. But in the near term, supply chain and workforce issues only underscore the need to prevent overbuilding and eliminate waste, fraud, and abuse."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0182::Renda e classe",
+   "unit_id": "W0182",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1745,
+     "fim_corpo": 2679,
+     "trecho": "To highlight just one example, my colleagues and I voted to unleash greater competition for families living in apartments, public housing, and other multiple dwelling units— environments that account for nearly one out of every three people in this country. We did so by putting an end to contractual shenanigans that only operated to deny consumers access to competitive providers. On spectrum, the FCC has also taken action. Last year, for instance, we worked together to stand up and complete a successful auction of 100 MHz of spectrum in the 3.45 GHz band. On this score, I want to commend Chairwoman Rosenworcel in particular for establishing rules that allow providers to operate in this spectrum at 5G power levels, which will prove key to connecting more Americans. On telehealth, the FCC has been helping to extend the life-saving benefits of this technology, including to low-income Americans and veterans."
+    },
+    {
+     "inicio_corpo": 2679,
+     "fim_corpo": 3493,
+     "trecho": "Indeed, over the last two years, we have voted to award about $550 million to frontline health care providers through our Connected Care Pilot Program and COVID-19 Telehealth Program. I have been fortunate to see the benefits of these initiatives firsthand. Since 2018, I’ve had the privilege of visiting 48 different health care facilities across 24 states. Almost every provider I’ve visited—from Miami to Anchorage—shared a similar message about the spike we are seeing in telehealth and how the FCC’s initiatives are helping meet this demand. The FCC has also been busy taking bipartisan actions that address the affordability portion of the digital divide. Indeed, in the last 13 months, the FCC has worked together to stand up an unprecedented 2 $24 billion in various low-income programs."
+    },
+    {
+     "inicio_corpo": 19380,
+     "fim_corpo": 20048,
+     "trecho": "Given the magnitude of current funding and the pressing need to connect more Americans, it is even more important that we ensure that these funds are spent wisely and that their impact is carefully measured. But we are already seeing some worrying signs that may just be the tip of the iceberg. For instance, the FCC’s Office of the Inspector General (OIG) issued a report last November regarding one of the FCC’s new initiatives. The OIG report uncovered what appears to be an egregious and near nationwide scheme in which broadband providers or sales agents were falsely claiming that a household has a student that attends a qualifying low-income school."
+    },
+    {
+     "inicio_corpo": 19380,
+     "fim_corpo": 20291,
+     "trecho": "Given the magnitude of current funding and the pressing need to connect more Americans, it is even more important that we ensure that these funds are spent wisely and that their impact is carefully measured. But we are already seeing some worrying signs that may just be the tip of the iceberg. For instance, the FCC’s Office of the Inspector General (OIG) issued a report last November regarding one of the FCC’s new initiatives. The OIG report uncovered what appears to be an egregious and near nationwide scheme in which broadband providers or sales agents were falsely claiming that a household has a student that attends a qualifying low-income school. In just one example, the report identifies a low-income school in Florida that was designated by providers as the school supporting the enrollment of 1,884 households, even though there are no more than 200 students that attend the school."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0182::Saúde",
+   "unit_id": "W0182",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "Telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "health care facilities",
+     "forma_encontrada": "health care facilities",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 851,
+     "trecho": "TESTIMONY OF BRENDAN CARR COMMISSIONER, FEDERAL COMMUNICATIONS COMMISSION BEFORE THE SUBCOMMITTEE ON COMMUNICATIONS AND TECHNOLOGY OF THE UNITED STATES HOUSE OF REPRESENTATIVES COMMITTEE ON ENERGY AND COMMERCE “CONNECTING AMERICA: OVERSIGHT OF THE FCC” MARCH 31, 2022 Chairman Doyle, Ranking Member Latta, and distinguished members of the Subcommittee, thank you for the invitation to testify. It is an honor to appear before you today. The issues that this Subcommittee and the FCC focus on have never been more important. Over the last two years in particular, Americans experienced in an unprecedented way the power and opportunity provided by an affordable, high-speed connection as they turned to the Internet for everything from educating their kids and working remotely to accessing high-quality telehealth services."
+    },
+    {
+     "inicio_corpo": 456,
+     "fim_corpo": 1553,
+     "trecho": "The issues that this Subcommittee and the FCC focus on have never been more important. Over the last two years in particular, Americans experienced in an unprecedented way the power and opportunity provided by an affordable, high-speed connection as they turned to the Internet for everything from educating their kids and working remotely to accessing high-quality telehealth services. And this has galvanized support for investing the resources necessary to end the digital divide that still persists in too many parts of the country. So I welcome the opportunity to address these issues, and more, today. I. At the FCC, we have been busy delivering on Congress’s priorities. From increasing choice and competition in the broadband market to standing up the largest set of affordability programs in FCC history, from expanding access to vital telehealth services to freeing up additional spectrum for high- speed offerings, my FCC colleagues and I have been working together to advance commonsense policies that are making a difference in the lives of everyday Americans."
+    },
+    {
+     "inicio_corpo": 1745,
+     "fim_corpo": 2679,
+     "trecho": "To highlight just one example, my colleagues and I voted to unleash greater competition for families living in apartments, public housing, and other multiple dwelling units— environments that account for nearly one out of every three people in this country. We did so by putting an end to contractual shenanigans that only operated to deny consumers access to competitive providers. On spectrum, the FCC has also taken action. Last year, for instance, we worked together to stand up and complete a successful auction of 100 MHz of spectrum in the 3.45 GHz band. On this score, I want to commend Chairwoman Rosenworcel in particular for establishing rules that allow providers to operate in this spectrum at 5G power levels, which will prove key to connecting more Americans. On telehealth, the FCC has been helping to extend the life-saving benefits of this technology, including to low-income Americans and veterans."
+    },
+    {
+     "inicio_corpo": 2005,
+     "fim_corpo": 2866,
+     "trecho": "We did so by putting an end to contractual shenanigans that only operated to deny consumers access to competitive providers. On spectrum, the FCC has also taken action. Last year, for instance, we worked together to stand up and complete a successful auction of 100 MHz of spectrum in the 3.45 GHz band. On this score, I want to commend Chairwoman Rosenworcel in particular for establishing rules that allow providers to operate in this spectrum at 5G power levels, which will prove key to connecting more Americans. On telehealth, the FCC has been helping to extend the life-saving benefits of this technology, including to low-income Americans and veterans. Indeed, over the last two years, we have voted to award about $550 million to frontline health care providers through our Connected Care Pilot Program and COVID-19 Telehealth Program."
+    },
+    {
+     "inicio_corpo": 2132,
+     "fim_corpo": 3044,
+     "trecho": "On spectrum, the FCC has also taken action. Last year, for instance, we worked together to stand up and complete a successful auction of 100 MHz of spectrum in the 3.45 GHz band. On this score, I want to commend Chairwoman Rosenworcel in particular for establishing rules that allow providers to operate in this spectrum at 5G power levels, which will prove key to connecting more Americans. On telehealth, the FCC has been helping to extend the life-saving benefits of this technology, including to low-income Americans and veterans. Indeed, over the last two years, we have voted to award about $550 million to frontline health care providers through our Connected Care Pilot Program and COVID-19 Telehealth Program. I have been fortunate to see the benefits of these initiatives firsthand. Since 2018, I’ve had the privilege of visiting 48 different health care facilities across 24 states."
+    },
+    {
+     "inicio_corpo": 2316,
+     "fim_corpo": 3235,
+     "trecho": "On this score, I want to commend Chairwoman Rosenworcel in particular for establishing rules that allow providers to operate in this spectrum at 5G power levels, which will prove key to connecting more Americans. On telehealth, the FCC has been helping to extend the life-saving benefits of this technology, including to low-income Americans and veterans. Indeed, over the last two years, we have voted to award about $550 million to frontline health care providers through our Connected Care Pilot Program and COVID-19 Telehealth Program. I have been fortunate to see the benefits of these initiatives firsthand. Since 2018, I’ve had the privilege of visiting 48 different health care facilities across 24 states. Almost every provider I’ve visited—from Miami to Anchorage—shared a similar message about the spike we are seeing in telehealth and how the FCC’s initiatives are helping meet this demand."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0182::Territórios de povos e comunidades tradicionais",
+   "unit_id": "W0182",
+   "subcategoria": "Territórios de povos e comunidades tradicionais",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Tribal governments",
+     "forma_encontrada": "Tribal governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 17549,
+     "fim_corpo": 18383,
+     "trecho": "I am already hearing about jurisdictions that are poised to do just. This misguided action would only deepen the digital divide in this country. It gets worse. The Treasury rules allow these billions of dollars to be spent based on bad data. It does this by authorizing recipients to determine whether an area lacks access to high-speed Internet service by relying on informal interviews and reports—however inaccurate those may be—rather than the broadband maps that the federal government has been funding and standing up. Thankfully, it is not too late to correct course. The state, local, and Tribal governments that receive ARPA funding will have the power to direct these dollars to those communities that have been left behind, rather than those that already benefit from high-speed Internet services today."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0182::Urbano e rural",
+   "unit_id": "W0182",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3354,
+     "fim_corpo": 4248,
+     "trecho": "Indeed, in the last 13 months, the FCC has worked together to stand up an unprecedented 2 $24 billion in various low-income programs. In February 2021, we built off of Congress’s bipartisan decision in the Consolidated Appropriations Act to enact a $3.2 billion Emergency Broadband Benefit Program (EBB). In May 2021, we voted to create a $7.2 billion Emergency Connectivity Fund (ECF) that was funded by Congress in the March 2021 American Rescue Plan (ARPA). By working together, we improved the FCC’s approach to ECF by making sure that the agency would award funding on a prospective, forward-looking basis first. This decision ensured that ECF funds could be used to connect students that were still stuck on the wrong side of the digital divide. We also took steps to ensure that rural students and homeschooled students would receive a fair shot at receiving ECF funds."
+    },
+    {
+     "inicio_corpo": 16252,
+     "fim_corpo": 17094,
+     "trecho": "Second, I am concerned by an apparent lack of adequate tracking, measurement, and accountability standards. For example, last July, I wrote letters to each of the Executive Branch agencies listed above, and I asked them to identify the steps they were taking to track and monitor the broadband initiatives that they were funding. Their responses—or in some cases lack thereof—did not inspire confidence. One Department wrote back that, at least at the time of their response, “it is not possible to identify a specific amount that exclusively went to broadband initiatives,” let alone, I assume, monitor the progress being made towards achieving eligible broadband goals. Third, many of the policies guiding the expenditure of these broadband dollars are poised to leave rural communities and unconnected Americans behind."
+    },
+    {
+     "inicio_corpo": 16589,
+     "fim_corpo": 17549,
+     "trecho": "Their responses—or in some cases lack thereof—did not inspire confidence. One Department wrote back that, at least at the time of their response, “it is not possible to identify a specific amount that exclusively went to broadband initiatives,” let alone, I assume, monitor the progress being made towards achieving eligible broadband goals. Third, many of the policies guiding the expenditure of these broadband dollars are poised to leave rural communities and unconnected Americans behind. Take, for example, the final rules that the Treasury Department adopted earlier this year that govern the expenditure of $350 billion in ARPA funds. Rather than directing those dollars to the rural and other communities without any Internet infrastructure today, the Administration gives the green light for recipients to spend those funds on overbuilding existing, high-speed networks in communities that already have multiple broadband providers."
+    },
+    {
+     "inicio_corpo": 25609,
+     "fim_corpo": 26487,
+     "trecho": "In all of this, Congress can make certain points clear. For instance, it could focus legislation on dominant, general use social media or digital distribution platforms, rather than specialized ones. This could include excluding comment sections to publications, specialized message boards, or communities within larger platforms that self-moderate. Similarly, Congress could legislate in a way that does not require any platform to host illegal content, child pornography, terrorist speech, indecent, profane, or similar categories of speech that Congress has previously carved out. Big Tech has avoided accountability in several additional ways too. One of them concerns the FCC’s roughly $9 billion Universal Service Fund (USF). This initiative provides the support necessary to subsidize the agency’s affordable Internet and rural connectivity programs."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0182::Vínculo institucional",
+   "unit_id": "W0182",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "veterans",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2005,
+     "fim_corpo": 2679,
+     "trecho": "We did so by putting an end to contractual shenanigans that only operated to deny consumers access to competitive providers. On spectrum, the FCC has also taken action. Last year, for instance, we worked together to stand up and complete a successful auction of 100 MHz of spectrum in the 3.45 GHz band. On this score, I want to commend Chairwoman Rosenworcel in particular for establishing rules that allow providers to operate in this spectrum at 5G power levels, which will prove key to connecting more Americans. On telehealth, the FCC has been helping to extend the life-saving benefits of this technology, including to low-income Americans and veterans."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0183::Domicílio e arranjo familiar",
+   "unit_id": "W0183",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 996,
+     "fim_corpo": 1998,
+     "trecho": "For my part, I am proud to say that we are helping make America more equitable, secure, and sustainable. When I last spoke with this subcommittee, I noted how our long-standing digital divide had morphed into a monstrous COVID-19 divide. And like so many other aspects of the pandemic, the lack of access to and adoption of home broadband has amplified and reinforced existing inequities in our society. In particular, Americans of color remain, by a wide margin, less likely to have a home broadband connection than their counterparts. The Pew Research Center has found that 29 percent of Black adults and 35 percent of Latinx adults do not have a home broadband connection. We must meet the disconnected where they are. For tens of millions of Americans, the price for broadband is just too high. A recent study by Education Superhighway found that 18.1 million households, home to 47 million people, remain offline simply because they cannot afford an internet connection."
+    },
+    {
+     "inicio_corpo": 1240,
+     "fim_corpo": 2196,
+     "trecho": "And like so many other aspects of the pandemic, the lack of access to and adoption of home broadband has amplified and reinforced existing inequities in our society. In particular, Americans of color remain, by a wide margin, less likely to have a home broadband connection than their counterparts. The Pew Research Center has found that 29 percent of Black adults and 35 percent of Latinx adults do not have a home broadband connection. We must meet the disconnected where they are. For tens of millions of Americans, the price for broadband is just too high. A recent study by Education Superhighway found that 18.1 million households, home to 47 million people, remain offline simply because they cannot afford an internet connection. Millions more have made difficult sacrifices to keep their broadband service. No family should have to choose between keeping the lights on and a broadband connection, but we know that they do."
+    },
+    {
+     "inicio_corpo": 1998,
+     "fim_corpo": 2833,
+     "trecho": "Millions more have made difficult sacrifices to keep their broadband service. No family should have to choose between keeping the lights on and a broadband connection, but we know that they do. The Affordable Connectivity Program is changing that. Congress and President Biden have made a $14.2 billion investment in affordability that converted the Emergency Broadband Benefit from a pandemic-focused effort into a long-term part of the FCC’s work. In setting up ACP, the FCC announced many steps to continue increasing participation in the program. I want to highlight one of the places where I will focus my efforts. The Chairwoman, along with my colleagues, supported my proposal to seek comment on a Pilot Program to expand participation by households that benefit from Federal Public Housing Assistance (FPHA)."
+    },
+    {
+     "inicio_corpo": 1998,
+     "fim_corpo": 3006,
+     "trecho": "Millions more have made difficult sacrifices to keep their broadband service. No family should have to choose between keeping the lights on and a broadband connection, but we know that they do. The Affordable Connectivity Program is changing that. Congress and President Biden have made a $14.2 billion investment in affordability that converted the Emergency Broadband Benefit from a pandemic-focused effort into a long-term part of the FCC’s work. In setting up ACP, the FCC announced many steps to continue increasing participation in the program. I want to highlight one of the places where I will focus my efforts. The Chairwoman, along with my colleagues, supported my proposal to seek comment on a Pilot Program to expand participation by households that benefit from Federal Public Housing Assistance (FPHA). More than 5 2 million households benefit from federal rental assistance programs, including public housing and the housing choice voucher program (Section 8)."
+    },
+    {
+     "inicio_corpo": 2196,
+     "fim_corpo": 3184,
+     "trecho": "The Affordable Connectivity Program is changing that. Congress and President Biden have made a $14.2 billion investment in affordability that converted the Emergency Broadband Benefit from a pandemic-focused effort into a long-term part of the FCC’s work. In setting up ACP, the FCC announced many steps to continue increasing participation in the program. I want to highlight one of the places where I will focus my efforts. The Chairwoman, along with my colleagues, supported my proposal to seek comment on a Pilot Program to expand participation by households that benefit from Federal Public Housing Assistance (FPHA). More than 5 2 million households benefit from federal rental assistance programs, including public housing and the housing choice voucher program (Section 8). There is a clear synergy between housing and connectivity; if we are helping a family secure housing, we should be able to help them secure an online connection in that home."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0184::Cultura e informação",
+   "unit_id": "W0184",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "library",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "libraries",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2311,
+     "fim_corpo": 3355,
+     "trecho": "Working on a tight timeframe, the agency set up this $14.2 billion effort to extend the monthly discount available for a longer time and put in place new statutory criteria to reach more households. As a result, we now have more than 11 million households nationwide participating in the program. We’re also at work identifying how to expand outreach with a rulemaking that is ongoing. And led by Commissioner Starks, we are working to develop an initiative to reach those in federal housing assistance communities and get even more households connected. Second, in the past I’ve sat before you and described a problem I call the Homework Gap, the especially cruel digital divide between students who have access to the internet at home for their nightly schoolwork, and those who do not. You know who these children are because you see them lingering in the library parking lot to catch the free Wi-Fi signal for schoolwork and sliding into the booths at fast food restaurants to write their papers with a side of fries."
+    },
+    {
+     "inicio_corpo": 3119,
+     "fim_corpo": 3938,
+     "trecho": "You know who these children are because you see them lingering in the library parking lot to catch the free Wi-Fi signal for schoolwork and sliding into the booths at fast food restaurants to write their papers with a side of fries. During the pandemic the Homework Gap became an educational chasm. Students without broadband at home were locked out of the virtual classroom. But again, with your help the Commission was able to get kids connected and make a meaningful dent in the Homework Gap. The American Rescue Plan Act provided the agency with the authority to set up the Emergency Connectivity Fund. This is a $7.17 billion program that supports schools and libraries nationwide, helping them get the internet service and devices they need to get online and fully participate in remote education."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0184::Domicílio e arranjo familiar",
+   "unit_id": "W0184",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 10,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 4,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1054,
+     "fim_corpo": 1976,
+     "trecho": "But as we leave this period, we need to acknowledge that the connected world we’ve relied on is not going away. High-speed internet access is no longer just nice-to-have. It is need-to-have for everyone, everywhere. For this reason, the Commission has been hard at work—using tools both new and old—to connect people to the broadband they now need for everyday life. During the last year the agency mounted an extraordinary response to this crisis. With the help of Congress, we’ve established three historic efforts to bring reliable, affordable, high- speed internet to more people in more places. First, in record time we launched the nation’s largest-ever broadband affordability program. Last year we began by putting in place the Emergency Broadband Benefit. It provided eligible households monthly discounts to help pay for internet service and a one-time discount for a computer or tablet."
+    },
+    {
+     "inicio_corpo": 1168,
+     "fim_corpo": 2136,
+     "trecho": "High-speed internet access is no longer just nice-to-have. It is need-to-have for everyone, everywhere. For this reason, the Commission has been hard at work—using tools both new and old—to connect people to the broadband they now need for everyday life. During the last year the agency mounted an extraordinary response to this crisis. With the help of Congress, we’ve established three historic efforts to bring reliable, affordable, high- speed internet to more people in more places. First, in record time we launched the nation’s largest-ever broadband affordability program. Last year we began by putting in place the Emergency Broadband Benefit. It provided eligible households monthly discounts to help pay for internet service and a one-time discount for a computer or tablet. That meant these families could keep up with work, apply for jobs, seek out healthcare, and get the information they need in the communities where they live."
+    },
+    {
+     "inicio_corpo": 1669,
+     "fim_corpo": 2513,
+     "trecho": "First, in record time we launched the nation’s largest-ever broadband affordability program. Last year we began by putting in place the Emergency Broadband Benefit. It provided eligible households monthly discounts to help pay for internet service and a one-time discount for a computer or tablet. That meant these families could keep up with work, apply for jobs, seek out healthcare, and get the information they need in the communities where they live. Then, earlier this year, the Infrastructure Investment and Jobs Act gave the agency the authority to extend this effort and renamed it the Affordable Connectivity Program. Working on a tight timeframe, the agency set up this $14.2 billion effort to extend the monthly discount available for a longer time and put in place new statutory criteria to reach more households."
+    },
+    {
+     "inicio_corpo": 1669,
+     "fim_corpo": 2613,
+     "trecho": "First, in record time we launched the nation’s largest-ever broadband affordability program. Last year we began by putting in place the Emergency Broadband Benefit. It provided eligible households monthly discounts to help pay for internet service and a one-time discount for a computer or tablet. That meant these families could keep up with work, apply for jobs, seek out healthcare, and get the information they need in the communities where they live. Then, earlier this year, the Infrastructure Investment and Jobs Act gave the agency the authority to extend this effort and renamed it the Affordable Connectivity Program. Working on a tight timeframe, the agency set up this $14.2 billion effort to extend the monthly discount available for a longer time and put in place new statutory criteria to reach more households. As a result, we now have more than 11 million households nationwide participating in the program."
+    },
+    {
+     "inicio_corpo": 1976,
+     "fim_corpo": 2876,
+     "trecho": "That meant these families could keep up with work, apply for jobs, seek out healthcare, and get the information they need in the communities where they live. Then, earlier this year, the Infrastructure Investment and Jobs Act gave the agency the authority to extend this effort and renamed it the Affordable Connectivity Program. Working on a tight timeframe, the agency set up this $14.2 billion effort to extend the monthly discount available for a longer time and put in place new statutory criteria to reach more households. As a result, we now have more than 11 million households nationwide participating in the program. We’re also at work identifying how to expand outreach with a rulemaking that is ongoing. And led by Commissioner Starks, we are working to develop an initiative to reach those in federal housing assistance communities and get even more households connected."
+    },
+    {
+     "inicio_corpo": 4317,
+     "fim_corpo": 5127,
+     "trecho": "During the last round of funding, the agency made it a priority to ensure that these funds reached every state and territory in the country. They have been used to provide equipment and services that hospitals use to remotely diagnose and evaluate patients as well as enhance the telehealth services they provide on-site. In addition, the agency has committed over $98 million to support expanded healthcare monitoring programs using new technologies through its Connected Care Pilot Program, an initiative promoted by Commissioner Brendan Carr. With these efforts, the Commission has expanded access to quality care using connections that help make it available where it is safe and convenient. These programs are expanding connections and improving lives for households across the country."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0184::Educação",
+   "unit_id": "W0184",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 377,
+     "fim_corpo": 1054,
+     "trecho": "Thank you for the opportunity to appear before you today. It is good to see you—in person. While I have been before you many times, this is the first time as Chairwoman of the Federal Communications Commission. It is an honor to serve in this role at a time when the connections that unite us have never been more important. The pandemic has proven with clarity what this Committee and the Commission have long known to be true: Broadband access is essential for full participation in modern life. When we masked up and hunkered down, we relied on communications to stay working, stay healthy, stay informed, stay in school, stay in touch, and stay entertained."
+    },
+    {
+     "inicio_corpo": 2311,
+     "fim_corpo": 3119,
+     "trecho": "Working on a tight timeframe, the agency set up this $14.2 billion effort to extend the monthly discount available for a longer time and put in place new statutory criteria to reach more households. As a result, we now have more than 11 million households nationwide participating in the program. We’re also at work identifying how to expand outreach with a rulemaking that is ongoing. And led by Commissioner Starks, we are working to develop an initiative to reach those in federal housing assistance communities and get even more households connected. Second, in the past I’ve sat before you and described a problem I call the Homework Gap, the especially cruel digital divide between students who have access to the internet at home for their nightly schoolwork, and those who do not."
+    },
+    {
+     "inicio_corpo": 2513,
+     "fim_corpo": 3355,
+     "trecho": "As a result, we now have more than 11 million households nationwide participating in the program. We’re also at work identifying how to expand outreach with a rulemaking that is ongoing. And led by Commissioner Starks, we are working to develop an initiative to reach those in federal housing assistance communities and get even more households connected. Second, in the past I’ve sat before you and described a problem I call the Homework Gap, the especially cruel digital divide between students who have access to the internet at home for their nightly schoolwork, and those who do not. You know who these children are because you see them lingering in the library parking lot to catch the free Wi-Fi signal for schoolwork and sliding into the booths at fast food restaurants to write their papers with a side of fries."
+    },
+    {
+     "inicio_corpo": 3119,
+     "fim_corpo": 3938,
+     "trecho": "You know who these children are because you see them lingering in the library parking lot to catch the free Wi-Fi signal for schoolwork and sliding into the booths at fast food restaurants to write their papers with a side of fries. During the pandemic the Homework Gap became an educational chasm. Students without broadband at home were locked out of the virtual classroom. But again, with your help the Commission was able to get kids connected and make a meaningful dent in the Homework Gap. The American Rescue Plan Act provided the agency with the authority to set up the Emergency Connectivity Fund. This is a $7.17 billion program that supports schools and libraries nationwide, helping them get the internet service and devices they need to get online and fully participate in remote education."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0184::Escolaridade e letramento",
+   "unit_id": "W0184",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "Students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "student",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2136,
+     "fim_corpo": 3119,
+     "trecho": "Then, earlier this year, the Infrastructure Investment and Jobs Act gave the agency the authority to extend this effort and renamed it the Affordable Connectivity Program. Working on a tight timeframe, the agency set up this $14.2 billion effort to extend the monthly discount available for a longer time and put in place new statutory criteria to reach more households. As a result, we now have more than 11 million households nationwide participating in the program. We’re also at work identifying how to expand outreach with a rulemaking that is ongoing. And led by Commissioner Starks, we are working to develop an initiative to reach those in federal housing assistance communities and get even more households connected. Second, in the past I’ve sat before you and described a problem I call the Homework Gap, the especially cruel digital divide between students who have access to the internet at home for their nightly schoolwork, and those who do not."
+    },
+    {
+     "inicio_corpo": 2613,
+     "fim_corpo": 3502,
+     "trecho": "We’re also at work identifying how to expand outreach with a rulemaking that is ongoing. And led by Commissioner Starks, we are working to develop an initiative to reach those in federal housing assistance communities and get even more households connected. Second, in the past I’ve sat before you and described a problem I call the Homework Gap, the especially cruel digital divide between students who have access to the internet at home for their nightly schoolwork, and those who do not. You know who these children are because you see them lingering in the library parking lot to catch the free Wi-Fi signal for schoolwork and sliding into the booths at fast food restaurants to write their papers with a side of fries. During the pandemic the Homework Gap became an educational chasm. Students without broadband at home were locked out of the virtual classroom."
+    },
+    {
+     "inicio_corpo": 3355,
+     "fim_corpo": 4040,
+     "trecho": "During the pandemic the Homework Gap became an educational chasm. Students without broadband at home were locked out of the virtual classroom. But again, with your help the Commission was able to get kids connected and make a meaningful dent in the Homework Gap. The American Rescue Plan Act provided the agency with the authority to set up the Emergency Connectivity Fund. This is a $7.17 billion program that supports schools and libraries nationwide, helping them get the internet service and devices they need to get online and fully participate in remote education. To date, the Commission has been able to use this program to support more than 12 million students."
+    },
+    {
+     "inicio_corpo": 9604,
+     "fim_corpo": 10593,
+     "trecho": "Next month, I will convene the first principals-level meeting of the Cybersecurity Forum for Independent and Executive Branch Regulators, to better coordinate the government’s response to evolving cyber threats. I also have traveled and held meetings with my international counterparts to support the United States candidate for the Secretary General of the International Telecommunication Union, Doreen Bogdan Martin, who I believe is the right person to lead this organization at this time. Last but certainly not least, the Commission is focused on consumers. I’ve often said our programs are built household by household, person by person. And it’s true. When a mom enrolls in the Affordable Connectivity Program and can pay for groceries and her internet bill that month, I know we’re on the right track. When a student who couldn’t get online, could now receive service or a computer through the Emergency Connectivity Fund, that means we’re making a difference."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0184::Macrorregião",
+   "unit_id": "W0184",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3624,
+     "fim_corpo": 4461,
+     "trecho": "The American Rescue Plan Act provided the agency with the authority to set up the Emergency Connectivity Fund. This is a $7.17 billion program that supports schools and libraries nationwide, helping them get the internet service and devices they need to get online and fully participate in remote education. To date, the Commission has been able to use this program to support more than 12 million students. Third, the Commission recently wrapped up awards for its historic COVID-19 Telehealth program. With funding from both the CARES Act and Consolidated Appropriations Act, the agency awarded just under $450 million in support for telemedicine efforts during the pandemic. During the last round of funding, the agency made it a priority to ensure that these funds reached every state and territory in the country."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0184::Saúde",
+   "unit_id": "W0184",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "Telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3355,
+     "fim_corpo": 4141,
+     "trecho": "During the pandemic the Homework Gap became an educational chasm. Students without broadband at home were locked out of the virtual classroom. But again, with your help the Commission was able to get kids connected and make a meaningful dent in the Homework Gap. The American Rescue Plan Act provided the agency with the authority to set up the Emergency Connectivity Fund. This is a $7.17 billion program that supports schools and libraries nationwide, helping them get the internet service and devices they need to get online and fully participate in remote education. To date, the Commission has been able to use this program to support more than 12 million students. Third, the Commission recently wrapped up awards for its historic COVID-19 Telehealth program."
+    },
+    {
+     "inicio_corpo": 3624,
+     "fim_corpo": 4645,
+     "trecho": "The American Rescue Plan Act provided the agency with the authority to set up the Emergency Connectivity Fund. This is a $7.17 billion program that supports schools and libraries nationwide, helping them get the internet service and devices they need to get online and fully participate in remote education. To date, the Commission has been able to use this program to support more than 12 million students. Third, the Commission recently wrapped up awards for its historic COVID-19 Telehealth program. With funding from both the CARES Act and Consolidated Appropriations Act, the agency awarded just under $450 million in support for telemedicine efforts during the pandemic. During the last round of funding, the agency made it a priority to ensure that these funds reached every state and territory in the country. They have been used to provide equipment and services that hospitals use to remotely diagnose and evaluate patients as well as enhance the telehealth services they provide on-site."
+    },
+    {
+     "inicio_corpo": 3738,
+     "fim_corpo": 4645,
+     "trecho": "This is a $7.17 billion program that supports schools and libraries nationwide, helping them get the internet service and devices they need to get online and fully participate in remote education. To date, the Commission has been able to use this program to support more than 12 million students. Third, the Commission recently wrapped up awards for its historic COVID-19 Telehealth program. With funding from both the CARES Act and Consolidated Appropriations Act, the agency awarded just under $450 million in support for telemedicine efforts during the pandemic. During the last round of funding, the agency made it a priority to ensure that these funds reached every state and territory in the country. They have been used to provide equipment and services that hospitals use to remotely diagnose and evaluate patients as well as enhance the telehealth services they provide on-site."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0184::Territórios de povos e comunidades tradicionais",
+   "unit_id": "W0184",
+   "subcategoria": "Territórios de povos e comunidades tradicionais",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "Tribal lands",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5025,
+     "fim_corpo": 5848,
+     "trecho": "These programs are expanding connections and improving lives for households across the country. But we are also using this moment to build a foundation for growth and opportunity in a post-pandemic world. This effort includes our recent work to expand the wireless economy in order to create jobs, promote competition, and advance both prosperity and equity. To this end, we’ve moved aggressively to free up wireless spectrum for new 5G services. Earlier this year we concluded a successful auction of 100 megahertz of prime-mid-band spectrum in the 3.45 GHz band. Just last week, I announced that we will hold another mid-band auction, featuring the 2.5 GHz band, starting in July, following our special effort to award more than 355 licenses in this band for broadband deployment on rural Tribal lands."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0184::Urbano e rural",
+   "unit_id": "W0184",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5025,
+     "fim_corpo": 5848,
+     "trecho": "These programs are expanding connections and improving lives for households across the country. But we are also using this moment to build a foundation for growth and opportunity in a post-pandemic world. This effort includes our recent work to expand the wireless economy in order to create jobs, promote competition, and advance both prosperity and equity. To this end, we’ve moved aggressively to free up wireless spectrum for new 5G services. Earlier this year we concluded a successful auction of 100 megahertz of prime-mid-band spectrum in the 3.45 GHz band. Just last week, I announced that we will hold another mid-band auction, featuring the 2.5 GHz band, starting in July, following our special effort to award more than 355 licenses in this band for broadband deployment on rural Tribal lands."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0188::Educação",
+   "unit_id": "W0188",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Mark Gibson",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6869,
+     "fim_corpo": 7607,
+     "trecho": "CBRS deployment launched in January 2020. In the nearly two and a half years since CBRS service launch, there have been well over 200,000 CBRS devices deployed across the country and growing at the rate of thousands of deployments monthly. These deployments support all reaches of telecommunications including support for distance learning during COVID, enabling hospital COVID triage centers, helping otherwise poorly connected farmers achieve 5G connectivity, support for critical manufacturing automation and helping to connect disparate corners of our supply chain. CBRS supports Education, Healthcare, Manufacturing, Supply Chain and Logistics and Entertainment. A growing number of cities & school districts across the U.S."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0188::Escolaridade e letramento",
+   "unit_id": "W0188",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Mark Gibson",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6869,
+     "fim_corpo": 7712,
+     "trecho": "CBRS deployment launched in January 2020. In the nearly two and a half years since CBRS service launch, there have been well over 200,000 CBRS devices deployed across the country and growing at the rate of thousands of deployments monthly. These deployments support all reaches of telecommunications including support for distance learning during COVID, enabling hospital COVID triage centers, helping otherwise poorly connected farmers achieve 5G connectivity, support for critical manufacturing automation and helping to connect disparate corners of our supply chain. CBRS supports Education, Healthcare, Manufacturing, Supply Chain and Logistics and Entertainment. A growing number of cities & school districts across the U.S. are now deploying CBRS networks to bridge the digital divide and help students stay connected at home."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1107 @@
+{
+ "lote": "confiabilidade_lote_002.json",
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0130::Renda e classe",
+   "unit_id": "S0130",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-03",
+   "orador": "Ademir Andrade",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "carentes",
+     "forma_encontrada": "carentes",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5769,
+     "fim_corpo": 6845,
+     "trecho": "Conseqüentemente, ao ampliar a oferta de vagas, faz-se em detrimento da qualidade, já que o valor aluno/ano baixa enormemente. Para corrigir essa distorção, estamos propondo a inclusão, no art. 2º da Lei, de um novo parágrafo, com a seguinte redação. § 7º. Antes de findo cada ano, serão promovidas as compensações na distribuição dos recursos do Fundo com base nos dados do Censo Escolar do ano correspondente. Outro problema constatado e que procuramos corrigir na proposição ora apresentada diz respeito à regularidade nas transferências da complementação federal, que, na forma como está prevista no Decreto que regulamenta a Lei do Fundef, assegura o repasse da complementação somente no final de cada exercício e não permite que esta complementação seja reajustada ao longo do mesmo exercício. Isto vem provocando, especialmente nas áreas mais carentes, que dependem mais das complementações da União, uma irregularidade na distribuição temporal dos recursos, o que compromete a linearidade na oferta do serviço educacional."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0140::Urbano e rural",
+   "unit_id": "S0140",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-11",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "Campos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 20540,
+     "fim_corpo": 21485,
+     "trecho": "Sr. Presidente, encaminho à Mesa, até para um momento de paz e de tranqüilidade, dois requerimentos, assinados pelos Senadores mineiros Francelino Pereira, José de Alencar e Arlindo Porto, para que a Mesa possa fixar dia e hora para comemorarmos ou assinalarmos os cem anos de nascimento de duas grandes figuras brasileiras... O SR. PRESIDENTE (Geraldo Melo) - Senador Francelino Pereira, peço a V. Exª que encaminhe os seus requerimentos à Mesa, que providenciará a sua leitura, para conhecimento do Plenário, porque já são 13 minutos além do tempo. O SR. FRANCELINO PEREIRA (PFL - MG) - É o que estou fazendo. São dois requerimentos, um de homenagem ao Senador Gustavo Capanema e outro de homenagem ao Senador Milton Campos, duas figuras exponenciais desta República e que devem ser homenageados exatamente por esta Casa. O SR. PRESIDENTE (Geraldo Melo) - A Mesa aguarda o encaminhamento dos requerimentos por parte de V. Exª."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0143::Posição no trabalho",
+   "unit_id": "S0143",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-14",
+   "orador": "Jorge Bornhausen",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7529,
+     "fim_corpo": 8251,
+     "trecho": "Nomes não nos faltam, e a nossa organização será o sustentáculo para o atingimento da nossa meta, da qual, como Presidente do Partido, não me afastarei de modo algum. Avançando sem nunca recuar , o PFL deu destaque devido aos seus movimentos, hoje dirigidos nacionalmente, o PFL Mulher, pela eminente Senadora Maria do Carmo; o PFL Trabalhista, pelo Deputado Luiz Antônio Medeiros e o PFL Jovem por Luiz Ferla. Com voto e voz na Executiva Nacional, face ao novo modelo implantado, o Deputado Luiz Antônio Medeiros apresentou proposta de um salário mínimo que tivesse como meta alcançar um nível em reais equivalente a U$100 e mais um abono que pudesse atender às classes trabalhadoras menos favorecidas."
+    },
+    {
+     "inicio_corpo": 10353,
+     "fim_corpo": 11189,
+     "trecho": "Dessa maneira, o Partido recebeu no dia 11 de fevereiro, sexta-feira passada, estudo do renomado economista Paulo Rabello de Castro, trazendo sugestões oportunas para que possamos atingir a meta proposta, avançando em uma tabela cuja faixa prevista incide apenas sobre o primeiro degrau da escala salarial, minimizando o impacto inflacionário e ainda propondo o exame da criação do \"salário de referência previdenciário\". Avançando sem nunca recuar , a Comissão presidida pelo Senador José Jorge já possui dois projetos e uma proposta governamental de diálogo, em que se inclui também a participação voluntária do Ministro da Previdência, Waldeck Ornelas. Estamos dando ao assunto \"reajuste do salário mínimo\" a relevância que o trabalhador brasileiro merece, tirando-o do cadeado onde, pela crise, encontra-se preso."
+    },
+    {
+     "inicio_corpo": 11021,
+     "fim_corpo": 12226,
+     "trecho": "Estamos dando ao assunto \"reajuste do salário mínimo\" a relevância que o trabalhador brasileiro merece, tirando-o do cadeado onde, pela crise, encontra-se preso. Repito o que disse em minha entrevista: \"quando cada um explicita sua proposta, fica mais fácil ver onde termina a consciência social e onde começa a demagogia.\" Avançando sem nunca recuar , o PFL, integrante da base do Governo, como o maior Partido numericamente no Congresso Nacional, abriu o debate, espera sugestões e está aberto ao diálogo com os demais Partidos e a sociedade organizada. O PFL quer o debate para que, com responsabilidade, possamos conseguir o melhor e o possível, evitando um veto do Executivo e a frustração dos anseios legítimos do trabalhador brasileiro, externados em oportuna hora pelo Presidente do PFL Trabalhista, Deputado Luiz Antonio Medeiros. O PFL prega o liberalismo social, que em seu programa tem como prioridade o binômio Educação e Emprego, orgulha-se de não conjugar o verbo recuar e de, como Partido de centro, defensor da cidadania, estar sempre procurando o bem comum e avançando no sentido de uma melhor justiça social. Muito obrigado. (Palmas.) ´ `"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0150::Posição no trabalho",
+   "unit_id": "S0150",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-22",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "Trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 709,
+     "trecho": "O SR. EDUARDO SUPLICY (Bloco/PT – SP. Para uma comunicação. Sem revisão do orador.) – Sr. Presidente, informo à Casa que a Juíza Rosemeire Gonçalves de Carvalho concedeu, há pouco, liminar suspendendo o processo de privatização do Banespa e determinou à União, ao Banco Central, à Fator, ao Banespa e ao Governo do Estado de São Paulo que se abstenham de praticar qualquer ato relacionado à privatização do Banespa. Isso decorreu de ação que a Câmara dos Deputados, o Deputado Ricardo Berzoini e outros do Partido dos Trabalhadores realizaram, bem como da ação cível que eu próprio, aqui no Senado Federal, resolvi dar entrada junto ao Procurador do Distrito Federal, Luiz Francisco Fernandes de Souza."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0152::Renda e classe",
+   "unit_id": "S0152",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-23",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "carentes",
+     "forma_encontrada": "carentes",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2206,
+     "fim_corpo": 3195,
+     "trecho": "Será que, do ponto de vista da autoridade monetária, que quer a estabilidade de preços e que, sobretudo, tem por obrigação a responsabilidade de acompanhá-la e preservá-la, seria interessante ajustarmos o valor do salário mínimo, para que, o mais breve possível, viéssemos a alcançar um valor da ordem de R$180? Seria adequado, por exemplo, aumentarmos o valor do salário mínimo para R$150 em maio e para R$180 em outubro, números estes ainda insatisfatórios? Será que isso seria adequado para que tivéssemos consistência com o regime de flexibilidade de câmbio? Ora, precisamos levar em consideração diversos fatores. No momento em que estamos examinando a forma com que se pode erradicar a pobreza, especialmente com uma grande preocupação em ampliar as oportunidade de trabalho em toda a economia brasileira, é muito importante pensarmos em como podemos, ao mesmo tempo, combater a pobreza, ampliar o nível de emprego, manter a estabilidade de preços e erradicar a miséria."
+    },
+    {
+     "inicio_corpo": 2206,
+     "fim_corpo": 3195,
+     "trecho": "Será que, do ponto de vista da autoridade monetária, que quer a estabilidade de preços e que, sobretudo, tem por obrigação a responsabilidade de acompanhá-la e preservá-la, seria interessante ajustarmos o valor do salário mínimo, para que, o mais breve possível, viéssemos a alcançar um valor da ordem de R$180? Seria adequado, por exemplo, aumentarmos o valor do salário mínimo para R$150 em maio e para R$180 em outubro, números estes ainda insatisfatórios? Será que isso seria adequado para que tivéssemos consistência com o regime de flexibilidade de câmbio? Ora, precisamos levar em consideração diversos fatores. No momento em que estamos examinando a forma com que se pode erradicar a pobreza, especialmente com uma grande preocupação em ampliar as oportunidade de trabalho em toda a economia brasileira, é muito importante pensarmos em como podemos, ao mesmo tempo, combater a pobreza, ampliar o nível de emprego, manter a estabilidade de preços e erradicar a miséria."
+    },
+    {
+     "inicio_corpo": 3753,
+     "fim_corpo": 4524,
+     "trecho": "E quais foram, segundo Clóvis Rossi, alguns dos instrumentos fundamentais utilizados pela Coréia para conseguir recuperar a sua economia? \"Programas foram criados ou ampliados para evitar que a crise econômica se transformasse em catástrofe social. Entre eles, o aumento da cobertura do seguro-desemprego. O governo introduziu também frentes de trabalho temporárias, que, em janeiro de 1999, empregavam 437 mil pessoas, embora houvesse 650 mil demandantes de vagas. Introduziu igualmente um programa de renda mínima para atender 750 mil pessoas. Em outubro deste ano, entra em vigor o Ato de Garantia de Renda Mínima Básica, pelo qual todo coreano que viva abaixo da linha de pobreza (2 milhões) terá direito a uma renda pública.\" Sr."
+    },
+    {
+     "inicio_corpo": 4243,
+     "fim_corpo": 5067,
+     "trecho": "Introduziu igualmente um programa de renda mínima para atender 750 mil pessoas. Em outubro deste ano, entra em vigor o Ato de Garantia de Renda Mínima Básica, pelo qual todo coreano que viva abaixo da linha de pobreza (2 milhões) terá direito a uma renda pública.\" Sr. Presidente, Srªs e Srs. Senadores, há pouco, o Senador José Alencar e eu estivemos com o Presidente do Banco Central, Armínio Fraga, dialogando sobre a questão do salário mínimo. Reitero, Senador José Alencar, que seria importante, neste momento, pensarmos em uma forma de combinar a definição do salário mínimo com a de um programa de transferência de renda direta a todas as pessoas e/ou famílias cuja renda não alcance determinado patamar. E isso poderia ser concatenado com a criação desse Fundo de Combate e Erradicação da Pobreza."
+    },
+    {
+     "inicio_corpo": 4548,
+     "fim_corpo": 5488,
+     "trecho": "Senadores, há pouco, o Senador José Alencar e eu estivemos com o Presidente do Banco Central, Armínio Fraga, dialogando sobre a questão do salário mínimo. Reitero, Senador José Alencar, que seria importante, neste momento, pensarmos em uma forma de combinar a definição do salário mínimo com a de um programa de transferência de renda direta a todas as pessoas e/ou famílias cuja renda não alcance determinado patamar. E isso poderia ser concatenado com a criação desse Fundo de Combate e Erradicação da Pobreza. Por que razão isso é perfeitamente possível? O Senado Federal aprovou a proposta de garantia de renda mínima e enviou-a para a Câmara dos Deputados. Desde 1992, essa proposta se encontra naquela Casa, aguardando votação. A ponderação do Executivo sempre foi a de que não havia recursos suficientes. Agora, pretende-se criar um Fundo de Combate e Erradicação da Pobreza e espera-se arrecadar pelo menos R$4 bilhões."
+    },
+    {
+     "inicio_corpo": 8026,
+     "fim_corpo": 9103,
+     "trecho": "Tenho dado a seguinte recomendação a cada prefeito que tem instituído o Programa de Garantia de Renda Mínima ou o Programa da Bolsa-Escola: procure instituir um grupo de trabalho que faça uma avaliação sobre o melhor desenho do benefício; acompanhe de perto as experiências de outros municípios; examine também como esse tipo de programa tem sido implantado em outros países; e procure aperfeiçoar, a cada ano, a forma de se instituir esse benefício. Reitero a todos os prefeitos e governadores que me coloco à disposição para fazermos essa reflexão no sentido de melhorar a instituição dessa proposição. Cabe agora ao Presidente Fernando Henrique – razão pela qual insisto na sugestão à Sua Excelência –- realizar as reuniões prometidas com os membros da Comissão Mista de Combate à Pobreza, para que possamos mostrar à Sua Excelência a necessidade de coordenar adequadamente programas na direção da erradicação do trabalho infantil e da garantia de renda mínima, a fim de que o direito à cidadania seja melhor e universalmente definido para todos os brasileiros."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0155::Renda e classe",
+   "unit_id": "S0155",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-24",
+   "orador": "Paulo Souto",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5443,
+     "fim_corpo": 6696,
+     "trecho": "Não podemos deixar de cumprimentar os baianos, os homens públicos do Estado da Bahia pelo avanço sensível desse Estado. A Bahia aponta, no firmamento das estrelas dos Estados brasileiros, como um exemplo para as demais Unidades da Federação. Cumprimentos a V. Exª, ao povo baiano e aos seus líderes políticos O SR. PAULO SOUTO (PFL - BA) – Agradeço as palavras de tanto carinho do Senador Gerson Camata. Sempre vemos as nossas fronteiras com o Espírito Santo como um lugar que queremos desenvolver harmonicamente em benefício dos dois Estados. Completando, quero dizer que tudo isso permite que o Estado invista nos seus programas de infra-estrutura, na modernização da sua economia, na atração de investimentos importantes, e também em muitos programas sociais. Foi lançado recentemente um programa voltado basicamente para os cem municípios mais pobres do Estado, buscando alterar suas condições sociais. Era essa a comunicação, claro que com uma certa ponta de orgulho que todos temos, mas principalmente com o objetivo de mostrar que é possível o equilíbrio, sem prejudicar em nada os investimentos que o Estado está fazendo, liberando recursos para que se possa investir sobretudo em seus programas sociais. Muito obrigado."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0160::Idade",
+   "unit_id": "S0160",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-01",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6749,
+     "fim_corpo": 7694,
+     "trecho": "Daí a importância de se conjugar esforços para a implementação de instrumentos racionais que permitam avançar nessa direção. Dentre as ações, as experiências internacionais e algumas adotadas, ainda em escala modesta no Brasil, demonstram que a universalização do direito a uma renda suficiente para as necessidades vitais do indivíduo é um importante instrumento para a construção da cidadania. O formato de um programa de garantia de renda mínima pode ser o de um imposto de renda negativo que procure evitar as denominadas armadilhas do desemprego ou da pobreza. Para isso deve sempre existir o estímulo ao progresso, ao trabalho, mas garantindo que todos possam participar da riqueza da nação. Esse programa também pode ser relacionado à educação, de maneira a propiciar meios para que as famílias mais pobres disponham de um complemento de renda que permita as suas crianças irem à escola, ao invés de trabalharem precocemente."
+    },
+    {
+     "inicio_corpo": 9131,
+     "fim_corpo": 9930,
+     "trecho": "Por ocasião da Conferência Internacional sobre a Renda Mínima, Vossa Excelência reiterou o seu apoio à proposição de se garantir o direito a uma renda mínima aos brasileiros, ponderando, entretanto, que seria favorável que o programa fosse instituído de forma descentralizada, com a possível coordenação da União e dos Estados, mas com a implementação a cargo dos Municípios. É este, aliás, o sentido da Lei nº 9.533, de 1997, que autoriza o Governo Federal a financiar em 50% os gastos dos Municípios que instituem o Programa de Renda Mínima associado às ações socioeducativas. O Senado Federal aprovou, em novembro último, projeto de lei de minha autoria que modifica a fórmula do benefício para as famílias que tenham renda até meio salário mínimo mensal per capita e crianças até 14 anos."
+    },
+    {
+     "inicio_corpo": 11806,
+     "fim_corpo": 12810,
+     "trecho": "De pronto aceitei esse convite; contudo, o que eu gostaria de aqui reiterar é a importância de o próprio Governo estar ouvindo as recomendações de economistas, sobretudo daqueles do IPEA que participaram desta Conferência Internacional sobre a Renda Mínima e dos que prestaram depoimentos na Comissão Mista de Combate à Pobreza. Se seguirmos as recomendações dos economistas do IPEA, como Roberto Borges Martins, Ricardo Paes de Barros, Ricardo Henriques, Lena Lavinas, Sônia Rocha e outros que, não sendo daquele órgão, fizeram recomendações semelhantes, então, certamente, estaríamos agora colocando que a maior parte dos recursos do Fundo de Combate à Pobreza devem ser destinados a transferências diretas de renda para aquelas famílias que não alcançam determinado patamar de rendimentos e que tenham crianças de até 16 anos, o que seria, exatamente, ampliar significativamente os programas de renda mínima, universalizando esse direito por todo o Brasil. Muito obrigado. ! "
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0161::Posição no trabalho",
+   "unit_id": "S0161",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-02",
+   "orador": "José Eduardo Dutra",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "Trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1106,
+     "trecho": "O SR. JOSÉ EDUARDO DUTRA (Bloco/PT - SE. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs. e Srs. Senadores, embora a sessão de hoje tenha tido a presença de poucos Senadores, ela foi, sem dúvida alguma, uma das mais ricas dos últimos dias. Vimos Senadores tratando de questões de grande relevância do interesse nacional, como o salário mínimo e a Lei de Responsabilidade Fiscal. Tratarei de um assunto referente ao meu Estado de Sergipe, mas que tem muita relação com alguns dos pontos discutidos hoje, particularmente em relação ao discurso da Senadora Heloisa Helena. S. Exª. falava que já existem hoje leis suficientes para punir os governantes, os agentes públicos que agem com irresponsabilidade fiscal, que metem a mão no dinheiro público. Recebi um dossiê – naturalmente, não vou lê-lo - do Sindicato dos Trabalhadores em Educação no Estado de Sergipe – Sintese, a respeito de diversas irregularidades que vêm acontecendo no meu Estado relativas à má utilização de recursos do Fundef e que vêm sendo denunciadas em diversos Estados, em diversos Municípios."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0176::Administração pública",
+   "unit_id": "S0176",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-23",
+   "orador": "Pedro Simon",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "prefeitura",
+     "forma_encontrada": "Prefeitura",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8817,
+     "fim_corpo": 10029,
+     "trecho": "Se Sua Excelência disser que esses recursos são para pagar a dívida externa e para coisas essenciais, tudo bem. Mas será que existe alguma coisa mais essencial do que um fundo da pobreza? Peço desculpas a V. Exª, agradeço a tolerância de V. Exª, mas penso que essas questões eram fundamentais. Que não venha a medida provisória. Que o Governo tome a decisão. É tanto? É tanto. Mas que os seus Líderes venham debater na comissão. Em segundo lugar, que a proposta levada pela Senadora Marina, de que um percentual desses R$40 bilhões seja utilizado no fundo da pobreza, seria uma grande saída. Caso contrário, Sr. Presidente, vamos votar em plenário. Voto favorável ao fundo da pobreza, mas voto com uma mágoa profunda, porque é uma decepção total em meio a isso tudo que está acontecendo, quando vamos rolar uma dívida de R$10 bilhões da Prefeitura de São Paulo e demos para o Banco Nacional R$11 bilhões. E apenas R$4 bilhões são destinados para o fundo da pobreza. Obrigado, Sr. Presidente. ¶ B"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0181::Escolaridade e letramento",
+   "unit_id": "S0181",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-27",
+   "orador": "Carlos Patrocínio",
+   "n_ocorrencias_no_par": 10,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 4,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "estudantes",
+     "forma_encontrada": "estudantes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "estudantes",
+     "forma_encontrada": "estudantes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "estudantes",
+     "forma_encontrada": "estudantes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escolaridade",
+     "forma_encontrada": "escolaridade",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "estudantes",
+     "forma_encontrada": "estudantes",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3540,
+     "fim_corpo": 4382,
+     "trecho": "Um ponto é, porém, indiscutível. A escola tradicional, nos moldes daquela em que estudamos, e que passou apenas pelas mudanças impostas pelas reformas de ensino, está obsoleta. Neste mundo em progressiva aceleração, várias profissões estão desaparecendo; centenas, milhares de postos de trabalho são rapidamente extintos; milhões de trabalhadores se encontram repentinamente desempregados e sem novas opções; milhares de jovens, a cada ano, perambulam pelas ruas em busca do sonhado primeiro emprego – e não encontram a colocação. Não se pode, no entanto, apenas culpar a escola, já que, ao longo das décadas, ela cumpriu fielmente a missão que lhe foi conferida: a de preparar os alunos para tarefas rotineiras e repetitivas; para cumprir determinações; a de treinar mão-de-obra com baixa qualificação e, por isto mesmo, barata."
+    },
+    {
+     "inicio_corpo": 4601,
+     "fim_corpo": 5530,
+     "trecho": "A própria televisão nos mostra isso, quando, por exemplo, anúncios publicitários da empresa Shell, no canal Discovery, apresentam jovens que há algum tempo seriam chamados de hippies ou de ecologistas radicais e hoje são biólogos, geólogos, gestores de programas de proteção ao meio ambiente, etc. Podemos notar, Srªs e Srs. Senadores, que a escola tradicional seguia – e ainda segue – diretrizes rígidas, capacitando os indivíduos para as profissões específicas, com currículos e programas padronizados em nível nacional. As empresas definiam o número de vagas por ocupação e a escola procurava preparar o material humano para suprir essa demanda. A escola de que precisamos vai muito além. Para oferecer uma educação que corresponda às expectativas da sociedade, a escola da terceira onda deverá estar atenta às novas necessidades das famílias e dos alunos e à realidade do mundo do trabalho, em constante mutação."
+    },
+    {
+     "inicio_corpo": 4899,
+     "fim_corpo": 5714,
+     "trecho": "Podemos notar, Srªs e Srs. Senadores, que a escola tradicional seguia – e ainda segue – diretrizes rígidas, capacitando os indivíduos para as profissões específicas, com currículos e programas padronizados em nível nacional. As empresas definiam o número de vagas por ocupação e a escola procurava preparar o material humano para suprir essa demanda. A escola de que precisamos vai muito além. Para oferecer uma educação que corresponda às expectativas da sociedade, a escola da terceira onda deverá estar atenta às novas necessidades das famílias e dos alunos e à realidade do mundo do trabalho, em constante mutação. Para atender a esse novo mercado de trabalho, altamente competitivo, há necessidade de que a escola proporcione aos estudantes a oportunidade de desenvolverem novas habilidades."
+    },
+    {
+     "inicio_corpo": 5530,
+     "fim_corpo": 6406,
+     "trecho": "Para atender a esse novo mercado de trabalho, altamente competitivo, há necessidade de que a escola proporcione aos estudantes a oportunidade de desenvolverem novas habilidades. Dentre as competências explicitadas por empresários atuantes, os estudiosos vêm destacando, como essenciais, as seguintes: 1ª raciocinar, criar e inovar; 2ª trabalhar em equipe, em regime de colaboração; 3ª usar computador no seu trabalho; 4ª dominar uma segunda língua (de preferência o inglês); 5ª assumir riscos; e 6ª tomar decisões e resolver problemas. Segundo os especialistas da educação, em breve, quem tiver uma formação muito verticalizada poderá vir a ficar sem emprego. Uma das tendências é que os estudantes universitários, em futuro próximo, não mais se graduem em apenas um curso, mas em três ou quatro opções profissionais distintas."
+    },
+    {
+     "inicio_corpo": 6238,
+     "fim_corpo": 7235,
+     "trecho": "Uma das tendências é que os estudantes universitários, em futuro próximo, não mais se graduem em apenas um curso, mas em três ou quatro opções profissionais distintas. Outra tendência aponta para a possibilidade de 80% dos empregos atuais desaparecerem, em médio prazo, substituídos por novas profissões. A esses desafios junte-se a opinião de vários economistas, para quem considerar o emprego como uma questão de demanda e oferta é uma visão inteiramente superada. Defendem eles que o importante agora é o crescimento; que, para crescer mais, é preciso ter maior competitividade – o que só se consegue com mão-de-obra qualificada. Logo, é preciso reformular o ensino brasileiro e investir no avanço educacional das novas gerações. Segundo esse novo enfoque, busca-se valorizar o ensino profissionalizante como uma alternativa para os jovens. A profissionalização de trabalhadores e estudantes passa a ser realizada em três níveis de ensino diferentes: básico, técnico e tecnológico."
+    },
+    {
+     "inicio_corpo": 8122,
+     "fim_corpo": 9086,
+     "trecho": "Há onze anos, portanto. As obras de construção da Escola foram iniciadas em janeiro de 1995, após convênio entre o MEC e a Prefeitura de Palmas, durante a gestão do nosso jovem Senador Eduardo Siqueira Campos. Pelo cronograma de execução, até o próximo dia 31 deste mês de março, estarão terminadas todas as obras daquele estabelecimento de ensino, com exceção do Ginásio de Esportes. Segundo informações encaminhadas pelo Professor Francisco Aldivino Tavares, assessor especial da Secretaria de Educação do Estado e responsável pelo acompanhamento do processo de implantação daquela Escola Técnica, a instituição iniciará seu funcionamento ministrando os cursos: o Básicos – com duração variada, destinados a proporcionar ao trabalhador, qualquer que seja o nível de escolaridade, conhecimentos que permitam sua reprofissionalização, qualificação e atualização para o exercício das profissões demandadas pelo mercado do Estado de Tocantins."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0183::Urbano e rural",
+   "unit_id": "S0183",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-27",
+   "orador": "Lauro Campos",
+   "n_ocorrencias_no_par": 11,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 5,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "CAMPOS",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "Campos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "CAMPOS",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "CAMPOS",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "Campos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "CAMPOS",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "CAMPOS",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "Campos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "Campos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "CAMPOS",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 35,
+     "trecho": "O SR. LAURO CAMPOS (Bloco/PT – DF."
+    },
+    {
+     "inicio_corpo": 4955,
+     "fim_corpo": 5864,
+     "trecho": "Se eu vencer estou perdido! Dizia eu. Jamais pleiteei trilhar a estrada do poder. Também a subserviência não me agrada. Com o companheiro Lula, que muito prezo e admiro, só tive quatro contatos superficiais. Nunca quis ser eminência parda de ninguém. Também não sou guru também daqueles que têm prestígio e que poderão chegar ao poder um dia. Conservo a minha estatura normal e conservo e também a minha integridade. Um dia, quando se reuniram quatrocentos colegas da Universidade de Brasília para prestigiar meu nome numa candidatura, o Prof. Dércio Munhoz, amicíssimo meu, homem admirável, íntegro, disse que havia uma virtude em mim que ele mais admirava: a coerência. Eu respondi depois, na minha hora de falar, depois que o Prof. Cristovam Buarque começou a sua fala, naquele dia, dizendo: \"Hoje, vou dizer por que tenho inveja do Lauro Campos\" - esta foi a sua primeira frase, inesquecível."
+    },
+    {
+     "inicio_corpo": 6041,
+     "fim_corpo": 6950,
+     "trecho": "Na hora de sua morte, entregaram-lhe a chave da liberdade e da vida, que o livraria da cicuta e do abraço de Thánatos, a morte. Ele disse: \"Eu continuarei ateniense e não bárbaro. Serei fiel às minhas idéias e aos meus companheiros. Eu prefiro a morte à incoerência.\" Muitas alegrias tive em minhas derrotas e até mesmo esse afastamento que impediu que eu falasse um minuto sequer, durante cinco anos de mandato, sobre a minha problemática, sofrida e injustiçada cidade de Brasília, que escolhi para morar, há 40 anos, a cuja inauguração assisti, cuja efervescência presenciei, cujas chaminés de poeira vermelha – parecia que estávamos numa olaria imensa, cheia de chaminés e de poeira –, envolviam a todos. Aqui tive o sossego que me permitiu vencer um pouco as minhas insuficiências intelectuais, a minha burrice. Lutei contra ela, e aqui foi um campo de luta muito propício para que eu fizesse isso."
+    },
+    {
+     "inicio_corpo": 10587,
+     "fim_corpo": 11452,
+     "trecho": "Eles foram para os grandes centros; as indústrias, de início, os absorveram com salários miseráveis e, depois, com a crise, os expulsaram: 1,5 milhão de trabalhadores sem emprego em São Paulo. O desemprego chamado ficcional, aquele tempo que o trabalhador passa desempregado, entre o momento em que perdeu o emprego até encontrar uma outra ocupação, é, agora, de 54 semanas. Cinqüenta e quatro semanas! Quem perde o seu emprego está condenado a viver ou a morrer. Qual é o trabalhador brasileiro que tem, na sua poupança, em seu patrimônio, recursos que possam ser vendidos a fim de que ele, durante 54 semanas, em média, sustente a sua mulher e seus filhos? O Sr. Pedro Simon (PMDB – RS) – Se V. Exª me permite, justiça seja feita: não fecha um ano; para tanto faltam cinco dias. O SR. LAURO CAMPOS (Bloco/PT – DF) – Agradeço o cálculo de V."
+    },
+    {
+     "inicio_corpo": 10972,
+     "fim_corpo": 11836,
+     "trecho": "Cinqüenta e quatro semanas! Quem perde o seu emprego está condenado a viver ou a morrer. Qual é o trabalhador brasileiro que tem, na sua poupança, em seu patrimônio, recursos que possam ser vendidos a fim de que ele, durante 54 semanas, em média, sustente a sua mulher e seus filhos? O Sr. Pedro Simon (PMDB – RS) – Se V. Exª me permite, justiça seja feita: não fecha um ano; para tanto faltam cinco dias. O SR. LAURO CAMPOS (Bloco/PT – DF) – Agradeço o cálculo de V. Exª; esse cálculo da dor, esse cálculo da injustiça. E pagamos a ele R$151,00. E V. Exª, Senador Pedro Simon, disse, na quinta-feira, que seriam R$150,25 – eu me lembro. E vieram, não os R$150,25, mas R$151,00 redondos. O Sr. Pedro Simon (PMDB – RS) – O que foi uma má idéia. O SR. LAURO CAMPOS (Bloco/PT – DF) – Sim, Excelência; uma má idéia, não há dúvida alguma."
+    },
+    {
+     "inicio_corpo": 12887,
+     "fim_corpo": 13290,
+     "trecho": "Não entramos na pele deles para falar, como um dia o General Geisel falou: \"Eu também faria isso! Eu também mataria, para evitar a fome de um filho meu, se estivesse desempregado.\" O General Geisel, o alemão, o frio, apenas para avaliarmos o grau de frieza e de crueldade que entrou na alma de grande parte da sociedade brasileira. O Sr. José Roberto Arruda (PSDB - DF) – Senador Lauro Campos, V."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0184::Administração pública",
+   "unit_id": "S0184",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-28",
+   "orador": "Gilvam Borges",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "órgãos públicos",
+     "forma_encontrada": "órgãos públicos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "órgãos públicos",
+     "forma_encontrada": "órgãos públicos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeituras",
+     "forma_encontrada": "prefeituras",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1680,
+     "fim_corpo": 2479,
+     "trecho": "Por outro lado, as reservas do FGTS representam um significativo volume de recursos para investimentos em obras de infra-estrutura, com nítido reflexo positivo em termos de emprego, renda e de melhoria de condições de vida. No entanto, também no FGTS, torna-se fundamental a redução do endividamento, não só para propiciar maior atividade econômica com o uso de seus recursos, mas também para garantir, a longo prazo, que o sistema não sofra qualquer solução de continuidade, por carência de meios. O endividamento com o INSS e com o FGTS está historicamente consagrado em nossa vida econômica e apresenta um perfil assustador, pois não está distribuído pela sociedade, mas concentrado em dois grandes grupos de devedores: os órgãos públicos das três esferas de poder e os empregadores."
+    },
+    {
+     "inicio_corpo": 1680,
+     "fim_corpo": 2739,
+     "trecho": "Por outro lado, as reservas do FGTS representam um significativo volume de recursos para investimentos em obras de infra-estrutura, com nítido reflexo positivo em termos de emprego, renda e de melhoria de condições de vida. No entanto, também no FGTS, torna-se fundamental a redução do endividamento, não só para propiciar maior atividade econômica com o uso de seus recursos, mas também para garantir, a longo prazo, que o sistema não sofra qualquer solução de continuidade, por carência de meios. O endividamento com o INSS e com o FGTS está historicamente consagrado em nossa vida econômica e apresenta um perfil assustador, pois não está distribuído pela sociedade, mas concentrado em dois grandes grupos de devedores: os órgãos públicos das três esferas de poder e os empregadores. Quanto ao primeiro grupo, os órgãos públicos, principalmente os governos estaduais e as prefeituras, tenho que reconhecer que existe um problema estrutural nas contas públicas desses entes federativos que conduz a um déficit crônico com o INSS e o FGTS."
+    },
+    {
+     "inicio_corpo": 1680,
+     "fim_corpo": 2739,
+     "trecho": "Por outro lado, as reservas do FGTS representam um significativo volume de recursos para investimentos em obras de infra-estrutura, com nítido reflexo positivo em termos de emprego, renda e de melhoria de condições de vida. No entanto, também no FGTS, torna-se fundamental a redução do endividamento, não só para propiciar maior atividade econômica com o uso de seus recursos, mas também para garantir, a longo prazo, que o sistema não sofra qualquer solução de continuidade, por carência de meios. O endividamento com o INSS e com o FGTS está historicamente consagrado em nossa vida econômica e apresenta um perfil assustador, pois não está distribuído pela sociedade, mas concentrado em dois grandes grupos de devedores: os órgãos públicos das três esferas de poder e os empregadores. Quanto ao primeiro grupo, os órgãos públicos, principalmente os governos estaduais e as prefeituras, tenho que reconhecer que existe um problema estrutural nas contas públicas desses entes federativos que conduz a um déficit crônico com o INSS e o FGTS."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0189::Macrorregião",
+   "unit_id": "S0189",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-03-31",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "n Orte",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9185,
+     "fim_corpo": 9990,
+     "trecho": "Ora, o que poderia o Governador Mário Covas fazer e acabou não fazendo? Aliás, acho lamentável esse procedimento de S. Exª, que foi devidamente informado a respeito dessa possibilidade e preferiu não instituí-la porque, quem sabe, não quis considerar seriamente a proposição de um parlamentar brilhante do Partido dos Trabalhadores, que é o Deputado Estadual Paulo Teixeira, mesmo tendo a Srª Marta Godinho, anterior Secretária de Bem-Estar Social, dado o seu apoio à proposição. Aliás, o Programa Alimenta São Paulo decorreu, segundo fui informado, de uma sugestão de Dom Mauro Morelli, responsável pela coordenação do Movimento pela Segurança Alimentar. Ele teria conversado com a Srª Marta Godinho, hoje substituída pelo Sr. Edson Ortega, e convencido o Governador a aplicar esse programa."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0210::Domicílio e arranjo familiar",
+   "unit_id": "S0210",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-10",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1422,
+     "fim_corpo": 2156,
+     "trecho": "Não se trata de uma abordagem nova, porque estamos todos cansados de saber disso, mas, vindo de uma agência de desenvolvimento internacional do porte do Bird, que é o Banco Mundial, ela passa a ter uma importância maior. Essa constatação partiu de um trabalho em que foram ouvidas 60 mil pessoas em 60 países dos cinco continentes e que se chama \"Vozes dos pobres\". Houve o levantamento, a partir do qual diz o Presidente do Banco Mundial, James Wolfensohn que o Bird dará prioridade aos projetos das próprias comunidades. Textualmente, S. Sª diz: A idéia é dar uma voz mais poderosa às instituições comunitárias cujas decisões afetam suas famílias e meio de vida, a fim de torná-las mais confiáveis e responsáveis."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0210::Renda e classe",
+   "unit_id": "S0210",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-10",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 26,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 20,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 649,
+     "trecho": "O SR. LÚCIO ALCÂNTARA (PSDB – CE. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Sr as e Srs. Senadores, o Jornal O Globo , nas edições de 5 de abril e 15 de março, respectivamente, publicou matéria sobre documento do Banco Internacional para a Reconstrução e o Desenvolvimento (Bird) e sobre documento do Programa das Nações Unidas para o Desenvolvimento (Pnud), comentando a situação da pobreza no Brasil, tema sobre o qual nos temos debruçado, não só eu, mas praticamente todo o Senado, na busca de dar uma resposta para essa constatação grave que fazemos de um grande contingente de pobres e até de miseráveis no País."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 649,
+     "trecho": "O SR. LÚCIO ALCÂNTARA (PSDB – CE. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Sr as e Srs. Senadores, o Jornal O Globo , nas edições de 5 de abril e 15 de março, respectivamente, publicou matéria sobre documento do Banco Internacional para a Reconstrução e o Desenvolvimento (Bird) e sobre documento do Programa das Nações Unidas para o Desenvolvimento (Pnud), comentando a situação da pobreza no Brasil, tema sobre o qual nos temos debruçado, não só eu, mas praticamente todo o Senado, na busca de dar uma resposta para essa constatação grave que fazemos de um grande contingente de pobres e até de miseráveis no País."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1025,
+     "trecho": "O SR. LÚCIO ALCÂNTARA (PSDB – CE. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Sr as e Srs. Senadores, o Jornal O Globo , nas edições de 5 de abril e 15 de março, respectivamente, publicou matéria sobre documento do Banco Internacional para a Reconstrução e o Desenvolvimento (Bird) e sobre documento do Programa das Nações Unidas para o Desenvolvimento (Pnud), comentando a situação da pobreza no Brasil, tema sobre o qual nos temos debruçado, não só eu, mas praticamente todo o Senado, na busca de dar uma resposta para essa constatação grave que fazemos de um grande contingente de pobres e até de miseráveis no País. Não podemos conviver com essa situação no derrubar de um novo milênio, quando estamos celebrando os 500 anos da chegada dos portugueses ao Brasil. O documento do Bird traz uma abordagem interessante sobre o problema da pobreza, uma vez que não se limita a apontar as carências de ordem material – a falta de renda, de habitação, de assistência médica, de educação, etc."
+    },
+    {
+     "inicio_corpo": 649,
+     "fim_corpo": 1085,
+     "trecho": "Não podemos conviver com essa situação no derrubar de um novo milênio, quando estamos celebrando os 500 anos da chegada dos portugueses ao Brasil. O documento do Bird traz uma abordagem interessante sobre o problema da pobreza, uma vez que não se limita a apontar as carências de ordem material – a falta de renda, de habitação, de assistência médica, de educação, etc. – e cita a falta de voz política como indicador de pobreza."
+    },
+    {
+     "inicio_corpo": 649,
+     "fim_corpo": 1422,
+     "trecho": "Não podemos conviver com essa situação no derrubar de um novo milênio, quando estamos celebrando os 500 anos da chegada dos portugueses ao Brasil. O documento do Bird traz uma abordagem interessante sobre o problema da pobreza, uma vez que não se limita a apontar as carências de ordem material – a falta de renda, de habitação, de assistência médica, de educação, etc. – e cita a falta de voz política como indicador de pobreza. A ausência de representação e de canais de expressão para manifestar o inconformismo ou para levantar a voz, a fim de que os Governos, os dirigentes, os Parlamentos possam ouvir, tomar consciência da gravidade da situação e da precariedade das condições em que se vive é, talvez, a maior pobreza, que, em resumo, é a falta de cidadania."
+    },
+    {
+     "inicio_corpo": 1025,
+     "fim_corpo": 1794,
+     "trecho": "– e cita a falta de voz política como indicador de pobreza. A ausência de representação e de canais de expressão para manifestar o inconformismo ou para levantar a voz, a fim de que os Governos, os dirigentes, os Parlamentos possam ouvir, tomar consciência da gravidade da situação e da precariedade das condições em que se vive é, talvez, a maior pobreza, que, em resumo, é a falta de cidadania. Não se trata de uma abordagem nova, porque estamos todos cansados de saber disso, mas, vindo de uma agência de desenvolvimento internacional do porte do Bird, que é o Banco Mundial, ela passa a ter uma importância maior. Essa constatação partiu de um trabalho em que foram ouvidas 60 mil pessoas em 60 países dos cinco continentes e que se chama \"Vozes dos pobres\"."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0219::Raça e etnia",
+   "unit_id": "S0219",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-13",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 9,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 3,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "indígenas",
+     "forma_encontrada": "indígenas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "indígena",
+     "forma_encontrada": "indígena",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "indígenas",
+     "forma_encontrada": "indígenas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "indígenas",
+     "forma_encontrada": "indígenas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "indígenas",
+     "forma_encontrada": "indígenas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "indígenas",
+     "forma_encontrada": "indígenas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "indígenas",
+     "forma_encontrada": "indígenas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "índios",
+     "forma_encontrada": "índios",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "índios",
+     "forma_encontrada": "índios",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 555,
+     "fim_corpo": 1926,
+     "trecho": "Não se pode, no Congresso Nacional, ter o exame dos assuntos nacionais sob a perspectiva do Fundo Monetário Internacional, que, na maioria das vezes, leva em consideração os interesses das instituições financeiras que emprestam recursos a diversos países, inclusive ao Brasil, e que geralmente se preocupam apenas com que cada Governo, seja municipal, seja estadual, ou federal, administre os recursos de forma a sempre sobrar o necessário – e o mais do que necessário – para o serviço da dívida, ainda que isso represente o estrangulamento dos gastos, a perda das garantias de direito à saúde, à educação, à habitação, a uma vida digna e aos direitos dos trabalhadores. Srª Presidente, Senadora Heloisa Helena, informo ainda ao Senado Federal que o Senador Antonio Carlos Magalhães aceitou o convite que lhe foi feito hoje pela manhã para que comparecesse à reunião dos povos indígenas, realizada na Comissão de Direitos Humanos da Câmara dos Deputados, onde teve oportunidade de ouvir alguns pronunciamentos muito severos, inclusive dos Pataxós-Hã-Hã-Hãe, da Bahia, protestando veementemente contra a maneira pela qual o Governo César Borges utilizou-se da Polícia Militar a fim de reprimir os direitos daquele grupo indígena, inclusive destruindo um monumento feito em memória ao sofrimentos dos povos indígenas nesses 500 anos do Descobrimento do Brasil."
+    },
+    {
+     "inicio_corpo": 1232,
+     "fim_corpo": 1926,
+     "trecho": "Srª Presidente, Senadora Heloisa Helena, informo ainda ao Senado Federal que o Senador Antonio Carlos Magalhães aceitou o convite que lhe foi feito hoje pela manhã para que comparecesse à reunião dos povos indígenas, realizada na Comissão de Direitos Humanos da Câmara dos Deputados, onde teve oportunidade de ouvir alguns pronunciamentos muito severos, inclusive dos Pataxós-Hã-Hã-Hãe, da Bahia, protestando veementemente contra a maneira pela qual o Governo César Borges utilizou-se da Polícia Militar a fim de reprimir os direitos daquele grupo indígena, inclusive destruindo um monumento feito em memória ao sofrimentos dos povos indígenas nesses 500 anos do Descobrimento do Brasil."
+    },
+    {
+     "inicio_corpo": 1232,
+     "fim_corpo": 1926,
+     "trecho": "Srª Presidente, Senadora Heloisa Helena, informo ainda ao Senado Federal que o Senador Antonio Carlos Magalhães aceitou o convite que lhe foi feito hoje pela manhã para que comparecesse à reunião dos povos indígenas, realizada na Comissão de Direitos Humanos da Câmara dos Deputados, onde teve oportunidade de ouvir alguns pronunciamentos muito severos, inclusive dos Pataxós-Hã-Hã-Hãe, da Bahia, protestando veementemente contra a maneira pela qual o Governo César Borges utilizou-se da Polícia Militar a fim de reprimir os direitos daquele grupo indígena, inclusive destruindo um monumento feito em memória ao sofrimentos dos povos indígenas nesses 500 anos do Descobrimento do Brasil."
+    },
+    {
+     "inicio_corpo": 1232,
+     "fim_corpo": 2077,
+     "trecho": "Srª Presidente, Senadora Heloisa Helena, informo ainda ao Senado Federal que o Senador Antonio Carlos Magalhães aceitou o convite que lhe foi feito hoje pela manhã para que comparecesse à reunião dos povos indígenas, realizada na Comissão de Direitos Humanos da Câmara dos Deputados, onde teve oportunidade de ouvir alguns pronunciamentos muito severos, inclusive dos Pataxós-Hã-Hã-Hãe, da Bahia, protestando veementemente contra a maneira pela qual o Governo César Borges utilizou-se da Polícia Militar a fim de reprimir os direitos daquele grupo indígena, inclusive destruindo um monumento feito em memória ao sofrimentos dos povos indígenas nesses 500 anos do Descobrimento do Brasil. O Senador também ouviu as reivindicações, que considero importantes, para que o Congresso Nacional, de pronto, examine o estatuto dos povos indígenas."
+    },
+    {
+     "inicio_corpo": 1926,
+     "fim_corpo": 2363,
+     "trecho": "O Senador também ouviu as reivindicações, que considero importantes, para que o Congresso Nacional, de pronto, examine o estatuto dos povos indígenas. A Câmara dos Deputados acabou de colocar em pauta para a próxima terça-feira esse estatuto, por solicitação da Liderança do Partido dos Trabalhadores. Obviamente, em seguida, caberá à Câmara dos Deputados e ao Senado examinar esse estatuto à luz das reivindicações dos povos indígenas."
+    },
+    {
+     "inicio_corpo": 1926,
+     "fim_corpo": 2785,
+     "trecho": "O Senador também ouviu as reivindicações, que considero importantes, para que o Congresso Nacional, de pronto, examine o estatuto dos povos indígenas. A Câmara dos Deputados acabou de colocar em pauta para a próxima terça-feira esse estatuto, por solicitação da Liderança do Partido dos Trabalhadores. Obviamente, em seguida, caberá à Câmara dos Deputados e ao Senado examinar esse estatuto à luz das reivindicações dos povos indígenas. Também solicitaram-nos que examinemos o quanto antes a Resolução nº 169, da Organização Internacional do Trabalho, que está aqui e que precisa ser colocada logo em pauta. O compromisso da Senadora Heloisa Helena, que nos representa, é de colocar a matéria logo em discussão. Estaremos sempre dizendo ao Governo Federal da importância de acelerar os passos para concluir o processo de demarcação das áreas indígenas."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0227::Educação",
+   "unit_id": "S0227",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-17",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6080,
+     "fim_corpo": 7138,
+     "trecho": "Não há desenvolvimento sem inconformismo. A Nação está hoje perplexa, direi mesmo inconformada, diante dos acontecimentos em Washington. Sr. Presidente, chegou a hora, o instante, para o Senado, o Congresso Nacional, conclamar a sociedade brasileira, os poderes institucionais, as organizações públicas e privadas, as associações de classe e sindicatos, as esquerdas e as direitas políticas, os ricos e os pobres, para debater o Brasil, seu modelo econômico, sua política social, seu destino como país e como nação; para discutir, com urgência, o perfil da política de privatização, se veio para o bem ou para o mal, ou se está numa posição intermediária; para discutir a globalização, que atinge o coração, o corpo e a alma do País, suas atividades econômicas, da grande à microempresa, das famílias às pessoas, das fábricas às escolas; para discutir também, com urgência, se o nacionalismo, que, no passado recente, conduziu ao estatismo e ainda está na cabeça de muita gente, fornece ou não uma saída para a Nação perante a crise que aí está."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0232::Idade",
+   "unit_id": "S0232",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Romeu Tuma",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovem",
+     "forma_encontrada": "jovem",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "idoso",
+     "forma_encontrada": "idos o",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "jovem",
+     "forma_encontrada": "jovem",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "idosos",
+     "forma_encontrada": "idosos",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 791,
+     "fim_corpo": 1707,
+     "trecho": "Um sentimento previsível, porém, quando se sabe que, embora com diferenças de estilo, Sérgio Motta e Luís Eduardo Magalhães buscavam o mesmo objetivo: o bem do Brasil e do seu povo. Sim, porque as diferenças de caminho com o mesmo destino somente serviram para acentuar as qualidades de ambos e engrandecer a liderança que cada um exercia, a seu modo, nos respectivos campos de atuação política, a ponto de despertar respeito e admiração de tantos quantos participam da vida pública nacional. Estamos reunidos para homenagear a memória desses dois portentos e relembrar seus exemplos de fidelidade, pertinácia e luta na consecução dos próprios ideais. Estamos reunidos para relembrar os exemplos históricos de honradez, credibilidade e liderança que nos legaram e que nos compete rememorar sempre para mostrar o rumo certo a jovens e antigos políticos, também devotados à concretização dos sonhos brasileiros."
+    },
+    {
+     "inicio_corpo": 3779,
+     "fim_corpo": 4785,
+     "trecho": "Conhecido por sua habilidade nos bastidores, foi então convidado pelo Presidente da República para assumir a articulação política como Líder do Governo na Câmara, vindo a falecer no dia 21 de abril de 1998. A pouco mais de um mês do falecimento, o lançamento oficial da candidatura de Luís Eduardo a Governador da Bahia desarticulou a Oposição no Estado, a começar pela desistência dos pré-candidatos da Oposição, que não conseguiram se unir. A menos de seis meses das eleições, a candidatura já contava com o apoio de 389, ou seja, 93,7% das 451 prefeituras do Estado e, três semanas antes de morrer, outras lideranças de outros partidos chegaram a apoiar Luís Eduardo Magalhães. A primeira partiu do Diretório Regional do PMDB. Eliane Cantanhêde, abalizada jornalista, publicou na Folha de S. Paulo matéria que parece um tributo à transparência dos 20 anos de vida pública do jovem líder, cujo prematuro desaparecimento deixou \"um enorme vazio político não só na Bahia, mas no Brasil\"."
+    },
+    {
+     "inicio_corpo": 7087,
+     "fim_corpo": 7856,
+     "trecho": "Em fevereiro de 92, tornou-se líder do PFL na Câmara dos Deputados. Já no Governo Fernando Henrique Cardoso, foi eleito Presidente da Câmara, com 384 votos. Nesse cargo, ocupou interinamente duas vezes a Presidência da República, nos dias 17 de outubro, 6 e 7 de novembro de 1995. Conhecido por sua habilidade nos bastidores, foi convidado pelo Presidente para assumir a articulação política como Líder do Governo na Câmara. Faleceu dia 21 de abril de 1998. A pouco mais de um mês do falecimento, o lançamento oficial da candidatura de Luís Eduardo a Governador da Bahia desarticulou a oposição no Estado, a começar pela desistência do pré-candidato do PT, Waldir Pires, que, em nota oficial, disse que não ter condições de unir os partidos oposicionistas."
+    },
+    {
+     "inicio_corpo": 7518,
+     "fim_corpo": 8408,
+     "trecho": "Faleceu dia 21 de abril de 1998. A pouco mais de um mês do falecimento, o lançamento oficial da candidatura de Luís Eduardo a Governador da Bahia desarticulou a oposição no Estado, a começar pela desistência do pré-candidato do PT, Waldir Pires, que, em nota oficial, disse que não ter condições de unir os partidos oposicionistas. A menos de 6 meses das eleições, a candidatura já contava com o apoio de 389 – ou seja, 93,7% - das 451 prefeituras do Estado e, três semanas antes de morrer, Luís Eduardo começava a receber adesões também de políticos da oposição. A primeira partiu do Diretório Regional do PMDB. Eliane Cantanhêde, abalizada jornalista, publicou na Folha de S. Paulo matéria que parece um tributo à transparência dos 20 anos de vida pública do jovem líder, cujo prematuro desaparecimento deixou \"um enorme vazio político, não só na Bahia, mas no Brasil\"."
+    },
+    {
+     "inicio_corpo": 14930,
+     "fim_corpo": 15784,
+     "trecho": "Dois outros documentos estavam com o Presidente FHC para se transformar em decretos: o Plano de Universalização do Serviço, com a previsão de subsídios, e o Plano de Qualidade, sobre a tecnologia que seria utilizada. Mas o desaparecimento de Sérgio Motta, assim como o de Luís Eduardo, significou sensível perda para a democracia brasileira. Tanto que o consagrado jurisconsulto Walter Ceneviva teorizou sobre esse significado, à luz da Constituição, dizendo que tal perda sugere \"uma reavaliação do importante papel que ambos vinham tendo no Estado Democrático de Direito, indicado no art. 1º da Carta, na qual os atores do entendimento entre contrários são essenciais, permitindo aos mais habilidosos e qualificados a condição de líderes de suas corrente.\" E frisou: Nem sempre o povo compreende o aperto de mão dos contrários."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0232::Infraestrutura e porte populacional",
+   "unit_id": "S0232",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Romeu Tuma",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "fronteiras",
+     "forma_encontrada": "fronteiras",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9765,
+     "fim_corpo": 10707,
+     "trecho": "Disse ele: \"O deputado era uma das maiores esperanças, senão a maior, do Brasil para o futuro.\" Evidentemente, a comoção acabou por concentrar-se na Bahia. Sua intensidade mereceu inúmeras explicações, cuja essência pode estar na carta do leitor Roberto Sobral, enviada de Salvador para a imprensa paulistana, \"a respeito da inestimável perda, para nós, baianos, do deputado Luís Eduardo Magalhães\". Diz textualmente o missivista: Quais os motivos que nos levaram a tamanho amor por uma figura política tão polêmica quanto ACM? Nesse amor nos encontramos, nós, os comuns do povo, e os nossos ilustres Caetano, Gil, Jorge Amado, João Ubaldo e tantos outros de credo político diverso. Tal fenômeno só deve intrigar os que não vivem na Bahia. O pesar transcendeu nossas fronteiras, a ponto de a Câmara dos Deputados da Argentina haver realizado sessão especial em homenagem a Luís Eduardo e Sérgio Motta."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0250::Domicílio e arranjo familiar",
+   "unit_id": "S0250",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-09",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5196,
+     "fim_corpo": 6138,
+     "trecho": "O Governo não pode estimular a venda de uma empresa de serviço de saneamento sem antes estabelecer medidas que resguardem o meio ambiente. Hoje, as empresas públicas não têm compromisso com a preservação ambiental – está aí o exemplo da Cedae, jogando esgoto na Baía de Guanabara, na Lagoa Rodrigo de Freitas – imaginem nas mãos de grupos privados. Não é possível passar as concessionárias do controle estatal para privado sem definir regras tarifárias, e é bom que se diga aqui, regras hoje inexistentes. Eis, por exemplo, uma questão importante: que regras a nova controladora da empresa privatizada seguiria, por exemplo, no caso de um cliente deixar de pagar a conta de água? Qual a regra, se não existe lei? Ele seria punido com o corte do fornecimento pura e simplesmente? Que tragédia, Sr. Presidente, uma família passar dias ou meses sem água para beber, para fazer comida, tomar banho, entre outras necessidades básicas."
+    },
+    {
+     "inicio_corpo": 11461,
+     "fim_corpo": 12352,
+     "trecho": "Nós temos que impedir que mais um crime seja cometido contra este patrimônio público que são nossas águas, nossos mananciais, nossos rios. Muito obrigado, Senador. O SR. PAULO HARTUNG (PPS - ES)– Muito obrigado, Senador Geraldo Cândido. Há três coisas que considero muito importantes. Primeiro, é preciso desbloquear os recursos do FGTS para voltarem a ter crédito para a área de saneamento Estados e Municípios. Segundo, precisamos definir a titularidade desse setor. Esta é uma questão que o Senado precisa debater, se debruçar sobre ela. Anos a fio o Senado tem discutido este assunto, que precisa ser definido. Terceiro, precisamos ter um marco regulatório, porque esse é um setor que precisa ter compromisso com a área de meio ambiente e com o cidadão. Por exemplo, eu entendo, Senador Geraldo Cândido, que o fornecimento de água em uma residência não pode ser cortado."
+    }
+   ]
+  }
+ ]
+}

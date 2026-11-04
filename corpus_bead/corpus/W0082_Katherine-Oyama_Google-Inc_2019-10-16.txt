@@ -1,0 +1,652 @@
+# W0082 | Ms. Katherine Oyama | Google, Inc.
+# 116th Congress | House | 2019-10-16
+# "Fostering a Healthier Internet to Protect Consumers"
+# source: https://www.congress.gov/116/meeting/house/110075/witnesses/HHRG-116-IF16-Wstate-OyamaK-20191016.pdf
+
+Written Testimony of Katherine Oyama
+ 
+Global Head of Intellectual Property Policy
+ 
+ 
+United States House of Representatives
+ 
+ Energy and Commerce Committee
+ 
+Communications & Technology and Consumer Protection & Commerce
+ 
+Subcommittees
+ 
+ 
+“Fostering a Healthier Internet to Protect Consumers"
+ 
+ 
+October 16, 2019
+ 
+ 
+Chairman Doyle and Chairwoman Schakowsky, Ranking Members Latta and McMorris
+ 
+Rodgers, and distinguished members of the Committee: Thank you for the
+ 
+opportunity to appear before you today.  I appreciate your leadership on the
+ 
+important issues of consumer protection, content moderation, and free expression
+ 
+online, and I welcome the opportunity to discuss Google’s work in these areas.
+ 
+ 
+My name is Katherine Oyama, and I am the Global Head of Intellectual Property Policy
+ 
+at Google.  In that capacity, I also advise the company on public policy frameworks for
+ 
+the management and moderation of online content of all kinds.
+ 
+ 
+At Google, our mission is to organize the world’s information and make it universally
+ 
+accessible and useful.  We build tools that empower users to access, create, and share
+ 
+information like never before — giving them more choice, opportunity, and exposure
+ 
+to a diversity of opinions.
+ 
+ 
+ 
+ 
+ 
+Our services and many others are positive forces for creativity, learning, and access
+ 
+to information.  You can see this everyday in a variety of ways.  For instance, online
+ 
+services have long been a place for breaking news, exposing injustices, and sharing
+ 
+content from places without reliable access to other forms of media.  The openness of
+ 
+the internet has democratized how stories — and whose stories — get told, and has
+ 
+created a platform where anyone can succeed.  Services that host original,
+ 
+user-generated content are stimulating an explosion of new creativity, making it
+ 
+easier than ever for creators of all types — amateur and professional, new and
+ 
+established — to find their audiences.
+ 
+ 
+This creativity and innovation continues to yield enormous economic benefits for the
+ 
+United States.  Digital platforms help millions of consumers find legitimate content
+ 
+across the internet, facilitating almost $29 trillion USD in online commerce each year.
+ 
+1
+In 2018, the internet sector contributed $2.1 trillion to the U.S. economy and created 6
+ 
+million jobs.
+  Last year, Google's search and advertising tools alone helped provide
+ 
+2
+$335 billion of economic activity within the United States for more than 1.3 million
+ 
+businesses, website publishers, and nonprofit organizations.
+ 
+3
+ 
+However, like all means of communications before it, the internet has been used for
+ 
+both the best and the worst of purposes.  While educators, artists, and small
+ 
+businesses learned to tap into its openness in order to reach broader audiences,
+ 
+nefarious actors learned to use it as well for their own goals.  This is why, in addition to
+ 
+respecting local law, we have developed robust policies, procedures, and community
+ 
+guidelines that govern what activity is permissible on our platforms and update them
+ 
+regularly to meet the changing needs of both our users and society​
+.
+ 
+ 
+1
+ United Nations Conference on Trade and Development, “Global e-Commerce sales surged to $29
+ 
+trillion USD” (March 29, 2019), available at
+ 
+https://unctad.org/en/pages/PressRelease.aspx?OriginalVersionID=505​
+.
+ 
+2
+ Internet Association, “Measuring The U.S. Internet Sector: 2019” (September 26, 2019), Available at:
+ 
+https://internetassociation.org/publications/measuring-us-internet-sector-2019/​
+.
+ 
+3
+ ​
+https://economicimpact.google.com/
+ 
+2
+ 
+ 
+ 
+Addressing illegal content is a shared responsibility, and our ability to take action on
+ 
+problematic content is underpinned by section 230 (“§230”) of the Communications
+ 
+Decency Act of 1996.  The law not only clarifies where services can be held liable for
+ 
+third-party content, but it also creates the legal certainty necessary for services like
+ 
+ours to take swift action against harmful content of all types.  ​
+It also does nothing to
+ 
+alter platform liability for violations of federal criminal laws, which are expressly
+ 
+exempted from the scope of the Communications Decency Act.  And it makes clear
+ 
+that any entity that is responsible, in whole or in part, for the creation or development
+ 
+of information on its platform also is not immune under ​
+§​
+230.
+ 
+ 
+In my testimony today, I will focus on three key areas: (i) the history of §230 and how it
+ 
+has helped the internet grow; (ii) how §230 contributes to our efforts to take down
+ 
+harmful content; and (iii) our policies and systems at Google for tackling illegal and
+ 
+potentially harmful content.
+ 
+ 
+§230 and the Growth of the Internet
+ 
+As the Committee knows, §230 was first introduced in the 1990s as a result of a rising
+ 
+number of legal cases, including ​
+Cubby, Inc. v. CompuServe Inc.​
+, and ​
+Stratton
+ 
+Oakmont, Inc. v. Prodigy Services Co.​
+, which created a tenuous position for internet
+ 
+users and services.  Courts found CompuServe not at fault for illegal user content
+ 
+because it had made no attempt to moderate, while holding Prodigy legally
+ 
+responsible after it had taken an “editorial” role in user content by moderating some
+ 
+of it.  As a result of these cases and others, the law at that stage actually
+ 
+disincentivized taking action on truly harmful content online.  §230 changed that
+ 
+calculus for platforms, incentivizing action against harmful content.  The §230 “good
+ 
+Samaritan” provision was specifically introduced to incentivize self-monitoring and
+ 
+facilitate content moderation.
+ 
+ 
+3
+ 
+ 
+In the intervening years, the importance of §230 to the US economy has only grown. It
+ 
+has generated a robust internet ecosystem where commerce, innovation, and free
+ 
+expression all thrive — while at the same time enabling providers to develop content
+ 
+detection mechanisms and take aggressive steps to fight online abuse.  §230 is a key
+ 
+contributor to the US’s $172 billion trade surplus in digital services.
+  It is also critical in
+ 
+4
+ensuring continued economic growth:  A recent study found that over the next
+ 
+decade, §230 will contribute an additional 4.25 million jobs and $440 billion in growth
+ 
+to the economy.
+  Furthermore, investors in the startup ecosystem -- who drive early
+ 
+5
+investment in new technologies -- have said that weakening online safe harbors would
+ 
+have a recession-like impact on investment.
+  §230 is also a differentiator for the US:
+ 
+6
+China, Russia, and others take a very different approach to regulating and censoring
+ 
+speech online, sometimes including speech that is critical of political leaders.
+ 
+7
+ 
+§230 and Corporate Responsibility Online
+ 
+Perhaps the best way to understand the importance of §230 is to think about what
+ 
+might happen if it were not in place.  Without §230, platforms could face liability for
+ 
+decisions around removal of content from their platforms.  Review sites (like Yelp,
+ 
+TripAdvisor, or Angie’s List) might be sued for defamation claims brought by a
+ 
+restaurant, hotel, or an electrician trying to suppress their negative reviews.
+ 
+4
+ Internet Association, “A Look At American Digital Exports” (January 23, 2019), available at:
+ 
+https://internetassociation.org/publications/a-look-at-american-digital-exports/
+ 
+5
+ NetChoice and the Copia Institute, “Don’t Shoot The Message Board: How Intermediary Liability Harms
+ 
+Online Investment and Innovation” (June 25, 2019), available at:
+ 
+https://netchoice.org/report-section-230-enables-american-innovation-to-flourish-igniting-investmen
+t-opportunities-for-startups/​
+.
+ 
+ 
+6
+ Booz & Company, Inc., “The Impact of U.S. Internet Copyright Regulations on Early-Stage Investment A
+ 
+Quantitative Study” (2011), available at
+ 
+https://www.fifthera.com/perspectives-blog/2014/12/9/the-impact-of-internet-copyright-regulations-o
+n-early-stage-investment​
+.
+ 
+7
+ See: Aunpam Chander, “How Law Made Silicon Valley” (August 15. 2013), available at:
+ 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2340197​
+”; Adrian Shahbaz,“Freedom on the Net
+ 
+2018”, available at
+ 
+https://freedomhouse.org/report/freedom-net/freedom-net-2018/rise-digital-authoritarianism​
+;
+ 
+AccessNow and EDRi, “Content regulation – what’s the (online) harm?” (October 9, 2019), available at
+ 
+https://edri.org/content-regulation-whats-the-online-harm/​
+.
+ 
+ 
+4
+ 
+ 
+Professional and business sites, like LinkedIn and Glassdoor, might face liability if one
+ 
+of their users circulated a false rumor about what it’s like to work at a particular
+ 
+company.  Marketplaces like Amazon, eBay, and OfferUp might be sued for negative
+ 
+product reviews.  Crowdfunding sites like Patreon and GoFundMe could face liability if
+ 
+a user posted comments about someone else that were perceived to be defamatory.
+ 
+Video platforms like YouTube and content-sharing apps like Instagram might face
+ 
+legal claims for removing videos they determined could harm or mislead users.  Even
+ 
+email providers and search engines might be sued for trying to weed out spam and
+ 
+malware. ​
+ ​
+Without §230, search engines, video sharing platforms, political blogs,
+ 
+startups, and review sites of all kinds would either not be able to filter content at all
+ 
+(resulting in more offensive online content, including adult content, spam, security
+ 
+threats, etc.) or would over-filter content (including important cases of political
+ 
+speech) -- in​
+ either scenario, harming consumers and businesses that rely on and use
+ 
+these services every day.
+ 
+ 
+Because of §230, we enforce rigorous policies to ensure that our platforms are safe,
+ 
+useful, and vibrant for our users.  It may be hard to recall the early days of the internet,
+ 
+when a search could yield page after page of duplicate, irrelevant content.  §230 is
+ 
+critical to the removal of spam and malware, helping users access the information
+ 
+they are seeking.  At Google, we have had responsible content policies in place from
+ 
+the early days of our company; and as time has gone by, they have evolved alongside
+ 
+our products.
+ 
+ 
+Our Policies and Systems
+ 
+Our strategy for tackling illegal and potentially harmful content is tailored to each of
+ 
+our platforms.  For each of our products, we have a specific set of rules and guidelines
+ 
+that are suitable for the type of platform, how it is used, and the risk of harm
+ 
+associated with it.  These approaches range from clear policies and community
+ 
+guidelines, with mechanisms to report content that violates them, to increasingly
+ 
+5
+ 
+ 
+effective artificial intelligence (AI) and machine learning that can facilitate removal of
+ 
+harmful content before a single human user has been able to access it.  We also now
+ 
+have over 10,000 people across Google working on content moderation and removal
+ 
+on our platforms and have invested hundreds of millions of dollars in these efforts.
+ 
+ 
+ 
+YouTube
+ 
+Around 2 billion people come to YouTube every month and over 500 hours of video
+ 
+are uploaded every minute — making it one of the largest living collections of cultural
+ 
+content ever assembled in one place.  The vast majority of this content is positive,
+ 
+ranging from “how-to” tutorials, family videos, journalism, and entertainment to
+ 
+educational and artistic content and more.  In fact, over a billion educational videos
+ 
+are viewed on YouTube each day.  At the same time, YouTube continues to drive
+ 
+revenue to creators on the platform.  YouTube channels making over six figures in
+ 
+revenue are up 40 percent over the last year.  And in the last 12 months alone, we've
+ 
+paid out over $3 billion to the music industry.
+ 
+ 
+While problematic or borderline content on YouTube accounts for less than 1% of the
+ 
+content on the platform, we are constantly working to draw effective, appropriate
+ 
+lines.  Deciding what content is allowed on our platforms, while preserving people’s
+ 
+right to express themselves, is a big responsibility.  It means developing rules that we
+ 
+can enforce consistently.  It means balancing respect for diverse viewpoints and
+ 
+giving a platform to marginalized voices, while developing thoughtful policies to tackle
+ 
+egregious content that violates our rules.  Over the years, we have developed a
+ 
+variety of tools in response to content challenges.  On YouTube, we remove content
+ 
+that violates our policies, elevate authoritative content, reduce the spread of
+ 
+borderline content, and reward trusted creators.
+ 
+ 
+ 
+6
+ 
+ 
+YouTube’s Community Guidelines provide clear rules of the road for what content we
+ 
+do and do not allow.
+  We police content that violates these guidelines in two key
+ 
+8
+ways: (1) a thorough review system that combines the efforts of machines and
+ 
+humans to enforce our policies; and (2) the support of our community members who
+ 
+flag content that violates our guidelines.  As a result, videos that violate our policies
+ 
+generate a fraction of a percent of the views on YouTube.
+ 
+ 
+We use a mix of machines and people to enforce our policies at scale. Machine
+ 
+learning is allowing us to identify and remove violative content faster than ever
+ 
+before.  And our investment in technology enables us to address enforcement of our
+ 
+content policies at scale.  Machines flag suspect videos for review by trained teams,
+ 
+who can analyze the content and take quick action. This system has had a major
+ 
+impact on the way we tackle harmful content, and has helped our human reviewers
+ 
+remove content more quickly.
+ 
+ 
+The statistics show that our machine learning tools are able to remove violative
+ 
+content at scale.  Between April and June 2019, YouTube removed over 9 million
+ 
+videos for violating our community guidelines.
+  Over 87% of these were first flagged
+ 
+9
+by machines rather than humans.  Of those detected by machines, 81% were never
+ 
+viewed. YouTube also removed over 537 million comments that violated our
+ 
+community guidelines, 99% of which were detected by our automated flagging
+ 
+systems. This accounts for only a fraction of the billions of comments posted on
+ 
+YouTube each quarter.
+ 
+ 
+As mentioned earlier, we have a “flagging” system through which our user community
+ 
+helps enforce our policies by notifying us of any content that violates our guidelines.
+ 
+The option to report or “flag” content that breaches our community guidelines is
+ 
+available under every YouTube video and comment, and we receive flags from an
+ 
+8
+ ​
+https://www.youtube.com/about/policies/#community-guidelines
+ 
+9
+ ​
+https://transparencyreport.google.com/youtube-policy/removals?hl=en​
+.
+ 
+7
+ 
+ 
+engaged and diverse global community.  Along with providing YouTube users with a
+ 
+means to flag content, we have  built a network of what we call “Trusted Flaggers”.
+ 
+These are experts, often associated with non-governmental or specialist
+ 
+organizations, who have a high accuracy rate in identifying videos that might violate
+ 
+our guidelines.  Between April and June 2019, we removed 1,152,263 videos thanks to
+ 
+Trusted Flaggers and users, which helped us to identify and take action against
+ 
+content that does not meet our community guidelines.
+ 
+ 
+ 
+Our efforts do not end there, as we are constantly adapting to new challenges and
+ 
+looking for ways to improve our policies.  We work closely with experts on an ongoing
+ 
+basis as we review our policies and, in 2018 alone, we made more than 30 updates. For
+ 
+example, in June 2019 we updated our existing community guidelines for hate speech
+ 
+to make it clear that our rules specifically prohibit videos alleging that one group of
+ 
+people is superior in order to justify discrimination, segregation, or exclusion based on
+ 
+qualities like age, gender, race, caste, religion, sexual orientation, or veteran status.
+ 
+10
+In addition, our guidelines now make it crystal clear that we will remove content
+ 
+denying that well-documented violent events took place, like the Holocaust. These
+ 
+changes to our approach toward hateful content were developed in consultation with
+ 
+dozens of experts in subjects like violent extremism, supremacism, civil rights, and
+ 
+free speech.
+ 
+ 
+ 
+Search and Google Ads
+ 
+Google Search is a web search engine that indexes hundreds of billions of webpages.
+ 
+That index is well over 100 billion gigabytes in size.  We do not host the content in
+ 
+Search and cannot influence its mere presence online, so we take different
+ 
+approaches to keeping people safe when using the product, including the use of
+ 
+ranking algorithms to surface relevant and high quality information. We also take
+ 
+measures to prevent poor quality or harmful content from rising in search results.
+ 
+10
+ ​
+https://youtube.googleblog.com/2019/06/our-ongoing-work-to-tackle-hate.html
+ 
+8
+ 
+ 
+ 
+When it comes to removing web pages from Google Search, we are strongly guided
+ 
+by local law and decisions from the courts.  This includes removing child sexual abuse
+ 
+material, copyright infringing material, and other illegal content.  Our approach is
+ 
+based on the belief that, when it comes to questions about what information should
+ 
+be stripped from public availability, those lines are better drawn by lawmakers than by
+ 
+Google.  That being said, there are some narrow circumstances
+ in which we may
+ 
+11
+remove links from organic listings, including when we identify violations of our
+ 
+guidelines
+ — for example, sites with deceptive or manipulative behavior designed to
+ 
+12
+deceive our users.  Google suppresses or demotes approximately 19 billion web spam
+ 
+impressions from Search results every day.
+ 
+ 
+ 
+While we ​
+need to prevent bad actors from gaming our systems through manipulation,
+ 
+spam, fraud, or other forms of abuse, we ​
+understand that transparency is crucial to
+ 
+maintaining user trust.  So in addition to publishing our Search Quality Rater
+ 
+Guidelines, we provide information about Search on our “How Search Works” site.
+ 
+13
+We also publish an annual Transparency Report,
+ sharing data on how government
+ 
+14
+actions and policies affect privacy, security, and access to information online.  The
+ 
+Transparency Report provides users with detailed information on removals to ensure
+ 
+they understand how and why Google removes content from its platforms.
+ 
+ 
+Finally, in order to protect users and enable a safe advertising ecosystem, we have
+ 
+strict policies across our advertising products and enforce them using both
+ 
+automated and human evaluation.
+  In 2018 we took down 2.3 billion ads for violating
+ 
+15
+our policies.
+  That’s more than six million bad ads every day, and we’re able to
+ 
+16
+11
+ ​
+https://www.google.com/search/howsearchworks/mission/open-web/
+ 
+12
+ ​
+https://support.google.com/webmasters/answer/35769?hl=en
+ 
+13
+ ​
+https://www.google.com/search/howsearchworks/
+ 
+14
+ ​
+https://transparencyreport.google.com/
+ 
+15
+ ​
+https://support.google.com/adspolicy/answer/6008942?hl=en
+ 
+16
+ ​
+https://www.blog.google/products/ads/enabling-safe-digital-advertising-ecosystem/
+ 
+9
+ 
+ 
+prevent the majority of fraud and policy violations before ads are ever even shown.
+ 
+This includes ads removed from approximately 1.2 million pages, more than 22,000
+ 
+apps, and nearly 15,000 sites across our ad network for violations of policies directed
+ 
+at misrepresentative, hateful, or other low-quality content.  Using improved machine
+ 
+learning technology, we were able to identify and terminate almost one million bad
+ 
+advertiser accounts, nearly double the amount we terminated in 2017.
+ 
+ 
+Conclusion
+ 
+We take the safety of our users very seriously and value our close and collaborative
+ 
+relationships with law enforcement, government agencies, and policymakers.  We
+ 
+understand that these are difficult issues of great interest to Congress and want to be
+ 
+responsible actors who are a part of the solution.  As these issues evolve, Google will
+ 
+continue to invest in the people and technology to meet the challenges at hand.  We
+ 
+look forward to continued collaboration with the Committee as it examines these
+ 
+issues.  Thank you for your time.  I look forward to taking your questions.
+ 
+ 
+10

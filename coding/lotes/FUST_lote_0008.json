@@ -1,0 +1,816 @@
+{
+ "caso": "FUST",
+ "lote": 8,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0022::Idade",
+   "unit_id": "S0022",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Carlos Bezerra",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "idoso",
+     "forma_encontrada": "idoso",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 700,
+     "fim_corpo": 1629,
+     "trecho": "Apliquei-a durante meu governo com pleno sucesso. Mas o atual governo estadual, ao anular a tarifa que eu havia implantado, cometeu uma injustiça social e por isso enfrentou uma forte reação da sociedade matogrossense. Antes detalhar um pouco mais o exitoso exemplo de Mato Grosso, faço alguns comentários sobre o Projeto de Lei nº 610, que trata da instituição de normas para a fixação de tarifas a serem cobradas dos usuários de baixa renda pelo abastecimento de água e pelos serviços de esgotamento sanitário, em todo o País Além disso, em relação aos mesmos serviços de água e esgoto, regula o projeto a transferência, para a iniciativa privada, do controle das empresas prestadoras desses serviços, isto é, das empresas públicas de água e esgoto. O projeto de lei estabelece um mecanismo muito habilidoso de transferência, aperfeiçoando, em muito, o que temos visto até agora nas privatizações feitas no Brasil."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0022::Renda e classe",
+   "unit_id": "S0022",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Carlos Bezerra",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "baixa renda",
+     "forma_encontrada": "baixa renda",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "baixa renda",
+     "forma_encontrada": "baixa renda",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "baixa renda",
+     "forma_encontrada": "baixa renda",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "baixa renda",
+     "forma_encontrada": "baixa renda",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobre",
+     "forma_encontrada": "pobre",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 465,
+     "trecho": "O SR. CARLOS BEZERRA (PMDB – MT) - Sr. Presidente, Srªs. e Srs. Senadores, declaro total apoio ao Projeto de Lei do Senado nº 610, de 1999, de autoria do Senador Geraldo Melo. Sua iniciativa é muito oportuna, pois oferece soluções para dois problemas que preocupam o País: o assustador encarecimento das tarifas de serviços públicos, principalmente para os usuários mais pobres; e os equívocos constatamos no modelo de privatização até agora aplicado pelo Governo."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 700,
+     "trecho": "O SR. CARLOS BEZERRA (PMDB – MT) - Sr. Presidente, Srªs. e Srs. Senadores, declaro total apoio ao Projeto de Lei do Senado nº 610, de 1999, de autoria do Senador Geraldo Melo. Sua iniciativa é muito oportuna, pois oferece soluções para dois problemas que preocupam o País: o assustador encarecimento das tarifas de serviços públicos, principalmente para os usuários mais pobres; e os equívocos constatamos no modelo de privatização até agora aplicado pelo Governo. Minha experiência como governador de Mato Grosso permite-me afirmar que a idéia da tarifa social para os usuários de baixa renda não é somente necessária e justa, como perfeitamente viável do ponto de vista econômico-financeiro."
+    },
+    {
+     "inicio_corpo": 465,
+     "fim_corpo": 1464,
+     "trecho": "Minha experiência como governador de Mato Grosso permite-me afirmar que a idéia da tarifa social para os usuários de baixa renda não é somente necessária e justa, como perfeitamente viável do ponto de vista econômico-financeiro. Apliquei-a durante meu governo com pleno sucesso. Mas o atual governo estadual, ao anular a tarifa que eu havia implantado, cometeu uma injustiça social e por isso enfrentou uma forte reação da sociedade matogrossense. Antes detalhar um pouco mais o exitoso exemplo de Mato Grosso, faço alguns comentários sobre o Projeto de Lei nº 610, que trata da instituição de normas para a fixação de tarifas a serem cobradas dos usuários de baixa renda pelo abastecimento de água e pelos serviços de esgotamento sanitário, em todo o País Além disso, em relação aos mesmos serviços de água e esgoto, regula o projeto a transferência, para a iniciativa privada, do controle das empresas prestadoras desses serviços, isto é, das empresas públicas de água e esgoto."
+    },
+    {
+     "inicio_corpo": 1464,
+     "fim_corpo": 2228,
+     "trecho": "O projeto de lei estabelece um mecanismo muito habilidoso de transferência, aperfeiçoando, em muito, o que temos visto até agora nas privatizações feitas no Brasil. Quanto à tarifa social, o Projeto nº 610, muito justificadamente, transforma em direito o que, hoje, é apenas uma ação isolada de alguns governantes mais sensíveis às questões sociais. Pretende em relação aos serviços de água e esgoto, indispensáveis à saúde e à boa qualidade de vida da população, evitar que se repita o que ocorreu com a privatização da energia elétrica: os consumidores de baixa renda que gozavam de tarifas subsidiadas viram, repentinamente, suas contas de luz elevarem-se a níveis insuportáveis, acarretando graves transtornos para a população de menor poder aquisitivo."
+    },
+    {
+     "inicio_corpo": 2720,
+     "fim_corpo": 3947,
+     "trecho": "Sem dúvida; com essa canalização do capital privado para a melhoria e universalização do serviço, beneficia-se a sociedade. Os governos estaduais, ou municipais, que passarem a ter minoria acionária, lucrarão com os dividendos que lhes caberão, face a valorização das ações. Resultado esse a ser alcançado dada a usual eficiência da gestão privada. Além disso, o Projeto nº 610 estabelece a possibilidade de venda da participação acionária do poder público, três anos após a privatização, sob certas condições prudentes. Sr. Presidente, Srªs. e Srs. Senadores, repito: é muito oportuno o aperfeiçoamento proposto pelo Senador Geraldo Melo, pois o que temos visto, até aqui, nas privatizações, nos preocupa. No setor elétrico, por exemplo: não percebemos suficiente proteção do consumidor de baixa renda; os contratos de privatização permitem aumentos abusivos das tarifas; o capital privado tem-se concentrado na compra de instalações prontas, quando o País tem necessidade urgente de capital para novas centrais geradoras; o Poder Público, freqüentemente, vem se desfazendo de qualquer participação acionária, deixando, com isso, de lucrar com os ganhos comerciais ensejados pela gestão privada."
+    },
+    {
+     "inicio_corpo": 3947,
+     "fim_corpo": 4625,
+     "trecho": "Sr. Presidente, essa situação merece ser, aqui, debatida. E a esse debate, de alcance e caráter nacional, posso também aduzir a experiência de Mato Grosso, principalmente no que tange à tarifa social nos serviços públicos. Com a Lei Estadual nº 5.419, de 27 de dezembro de 1988, estabeleci, então, percentuais de cobrança de ICMS sobre a energia elétrica que variavam conforme a faixa de consumo, medida em quilowatts-hora. Para as faixas de consumo mais modestas, as alíquotas do ICMS eram acentuadamente mais baixas. Para consumo residencial de até 50 quilowatts-hora, que caracteriza um padrão de vida muito pobre, a energia elétrica era totalmente isenta de ICMS."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0023::Gênero",
+   "unit_id": "S0023",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Carlos Patrocínio",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "mulheres",
+     "forma_encontrada": "mulheres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2243,
+     "fim_corpo": 3363,
+     "trecho": "Além disso, \"a criação de um tribunal permanente para julgar crimes de genocídio, crimes de guerra, crimes contra a humanidade e de agressão é ponto relevante na diplomacia internacional desde o fim da Segunda Guerra\". Daí incluir-se, no rol de compromissos da ONU, o movimento destinado à aprovação do Tribunal Penal Internacional, pela maioria dos países integrantes da Organização. Tem ele, como uma de suas características fundamentais, a de exercício autônomo em relação ao Conselho de Segurança da ONU, constituindo fator impeditivo de que recaiam sobre as suas ações qualquer implicação política, como a interferência do Conselho e o veto de seus integrantes. De acordo com o Estatuto, o Tribunal contará com a representação dos principais sistemas jurídicos, observando distribuição geográfica eqüitativa e o equilíbrio entre homens e mulheres, podendo iniciar qualquer investigação sobre Estado-parte onde ocorreu o ilícito, ou onde um seu cidadão seja acusado do crime, a requerimento de membro do Conselho de Segurança da ONU ou de seu procurador, investido de poder próprio para essa finalidade."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0023::Posição no trabalho",
+   "unit_id": "S0023",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Carlos Patrocínio",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "autônomo",
+     "forma_encontrada": "autônomo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1839,
+     "fim_corpo": 2916,
+     "trecho": "Nada mais procedente, como se vê, em nossos dias, marcados pela necessidade de os Estados encontrarem soluções econômicas e sociais comuns, resolverem seus conflitos e reunirem forças para o enfrentamento da internacionalização da criminalidade, do aumento da miséria, do abandono a que foram relegados milhões de seres humanos, excluídos dos benefícios criados pela denominada nova ordem mundial. Além disso, \"a criação de um tribunal permanente para julgar crimes de genocídio, crimes de guerra, crimes contra a humanidade e de agressão é ponto relevante na diplomacia internacional desde o fim da Segunda Guerra\". Daí incluir-se, no rol de compromissos da ONU, o movimento destinado à aprovação do Tribunal Penal Internacional, pela maioria dos países integrantes da Organização. Tem ele, como uma de suas características fundamentais, a de exercício autônomo em relação ao Conselho de Segurança da ONU, constituindo fator impeditivo de que recaiam sobre as suas ações qualquer implicação política, como a interferência do Conselho e o veto de seus integrantes."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0023::Urbano e rural",
+   "unit_id": "S0023",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Carlos Patrocínio",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "campos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 648,
+     "fim_corpo": 1408,
+     "trecho": "Nessa direção, há um ano, aproximadamente, adotou-se, em Roma, o Estatuto do Tribunal Penal Internacional, a partir do consenso entre as nações representadas na ONU, o entendimento de que a nenhum país é dada a pretensão de possuir soberania sobre os direitos humanos, em seus aspectos morais, éticos e jurídicos. Tal documento reserva à Corte, sem prejuízo das prerrogativas da Justiça de cada país, a jurisdição mundial sobre crimes de extrema gravidade, como tais compreendidos, entre outros, os de violação dos direitos do homem; os impeditivos de seu acesso às necessidades elementares de educação, moradia, saúde, lazer, convivência familiar e social; e os de respeito à liberdade e às escolhas pessoais, nos campos da cultura e da religião."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0024::Domicílio e arranjo familiar",
+   "unit_id": "S0024",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Ronaldo Cunha Lima",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "Residência",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3864,
+     "fim_corpo": 4820,
+     "trecho": "Toda essa estrutura técnica e administrativa não foi montada, por acaso, na Paraíba, mas por se levar em conta o montante da produção mineral do Estado, a sua situação geográfica e o seu papel de centro irradiador da atividade mineral na região nordestina. Em 1972, no entanto, fatores daquela conjuntura histórica e política levaram à desativação do Laboratório sediado na Paraíba, sendo criado então o 4º Distrito do DNPM, com sede em Recife-PE, para onde se transferiu todo o acervo da unidade paraibana. A Paraíba mostrava ainda sua hegemonia no setor mineral nordestino quando foi criado, em Campina Grande, o Curso de Engenharia de Minas da Universidade Federal da Paraíba, no ano de 1977; dois anos depois, é criada a Companhia de Desenvolvimento de Recursos Minerais da Paraíba (CDRM); em 1982, são instalados, em nosso Estado, o Centro Gemológico do Nordeste e a Residência do DNPM, esta última subordinada ao 4º Distrito do DNPM em Recife."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0024::Macrorregião",
+   "unit_id": "S0024",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Ronaldo Cunha Lima",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 699,
+     "fim_corpo": 1547,
+     "trecho": "A Paraíba explora e exporta pedras semipreciosas como a turmalina azul, a qual tem obtido grande aceitação e cotação no mercado internacional. A notável variedade de granitos ornamentais vem, igualmente, atraindo investimentos para o Estado. A exploração mineral da área paraibana da província pegmatítica da Borborema, onde existe grande variedade de minerais, é a responsável maior pela sobrevivência da população que habita a região do Seridó e Curimataú. Além de contar com duas unidades fabris de cimento, a Paraíba responde pela maior produção de bentonita do País. É também o nosso Estado o maior produtor do minério de titânio no Brasil, contribuindo com cerca de 90% de toda a produção nacional. A exploração desses e de outros recursos minerais tem concedido à Paraíba uma posição de destaque na produção mineral do Nordeste."
+    },
+    {
+     "inicio_corpo": 848,
+     "fim_corpo": 1931,
+     "trecho": "A notável variedade de granitos ornamentais vem, igualmente, atraindo investimentos para o Estado. A exploração mineral da área paraibana da província pegmatítica da Borborema, onde existe grande variedade de minerais, é a responsável maior pela sobrevivência da população que habita a região do Seridó e Curimataú. Além de contar com duas unidades fabris de cimento, a Paraíba responde pela maior produção de bentonita do País. É também o nosso Estado o maior produtor do minério de titânio no Brasil, contribuindo com cerca de 90% de toda a produção nacional. A exploração desses e de outros recursos minerais tem concedido à Paraíba uma posição de destaque na produção mineral do Nordeste. De acordo com o último Anuário Mineral Brasileiro, relativo ao ano de 1997, a Paraíba é responsável por 26,9% da produção mineral – exceto energéticos – da Região Nordeste, ficando atrás apenas do Estado da Bahia, que responde por 31,4% da produção regional, e acima dos demais Estados, como o Ceará – com 10,8% –, o Rio Grande do Norte –também com 10,8% – e Pernambuco – com 9,7% –."
+    },
+    {
+     "inicio_corpo": 2182,
+     "fim_corpo": 2971,
+     "trecho": "Ainda que esses resultados apresentem sensível variação de ano a ano, a Paraíba vem mantendo-se, sempre, entre os primeiros lugares. Em 1999, a estimativa é de que o valor líquido da produção mineral paraibana chegue aos R$ 21,7 milhões, acima dos 19,3 milhões da produção pernambucana e bem acima dos valores estimados para as respectivas produções do Ceará e do Rio Grande do Norte. O setor de mineração da Paraíba assistiu apreensivo a medidas recentes tomadas pelo Departamento Nacional de Produção Mineral – DNPM. Em setembro próximo passado, uma Portaria do Diretor Geral do DNPM revogou as competências técnica e administrativa de todos os seus Distritos, restabelecendo-as, em seguida, no que se refere ao Nordeste, apenas para os Estados de Pernambuco, Ceará e Bahia."
+    },
+    {
+     "inicio_corpo": 3864,
+     "fim_corpo": 4820,
+     "trecho": "Toda essa estrutura técnica e administrativa não foi montada, por acaso, na Paraíba, mas por se levar em conta o montante da produção mineral do Estado, a sua situação geográfica e o seu papel de centro irradiador da atividade mineral na região nordestina. Em 1972, no entanto, fatores daquela conjuntura histórica e política levaram à desativação do Laboratório sediado na Paraíba, sendo criado então o 4º Distrito do DNPM, com sede em Recife-PE, para onde se transferiu todo o acervo da unidade paraibana. A Paraíba mostrava ainda sua hegemonia no setor mineral nordestino quando foi criado, em Campina Grande, o Curso de Engenharia de Minas da Universidade Federal da Paraíba, no ano de 1977; dois anos depois, é criada a Companhia de Desenvolvimento de Recursos Minerais da Paraíba (CDRM); em 1982, são instalados, em nosso Estado, o Centro Gemológico do Nordeste e a Residência do DNPM, esta última subordinada ao 4º Distrito do DNPM em Recife."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0024::Posição no trabalho",
+   "unit_id": "S0024",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Ronaldo Cunha Lima",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4820,
+     "fim_corpo": 5566,
+     "trecho": "Em 1989, enfim, é criada a Câmara de Pedras da Bolsa de Mercadorias. Essa simples sucessão de fatos já atesta o quanto permaneceu importante a atividade econômica da mineração na Paraíba; mostra, igualmente, os esforços dos paraibanos em corresponder à riqueza dos recursos minerais depositados no subsolo do Estado, desenvolvendo e aprimorando a pesquisa e a exploração dos mesmos, juntamente com a formação acadêmica na área. Por todas essas razões, o povo paraibano – e especialmente os empresários e trabalhadores vinculados ao setor minerário – considerou relevante conquista para o Estado a criação do 15º Distrito do DNPM, em 1994, com sede em Campina Grande, que veio a ocorrer juntamente com a transformação do órgão em autarquia."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0024::Território intraurbano",
+   "unit_id": "S0024",
+   "subcategoria": "Território intraurbano",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Ronaldo Cunha Lima",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "periferia",
+     "forma_encontrada": "periferia",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5566,
+     "fim_corpo": 6956,
+     "trecho": "É bastante compreensível, Senhor Presidente, Senhoras e Senhores Senadores, que o povo da Paraíba não aceite, agora, um retrocesso, rumo a uma situação de subordinação administrativa que julgávamos superada. Necessitamos, muito ao contrário, de incrementar a produção mineradora em nosso Estado, aumentando o número de concessões de lavra, aprimorando a fiscalização e a arrecadação da Compensação Financeira pela Exploração Mineral e demais tributos, gerando empregos e riqueza. Com toda a admiração e respeito fraterno pelo Estado de Pernambuco, não vemos razão legítima para que a Paraíba, que representa o pólo mais expressivo de mineração na região, deva perder a relativa autonomia administrativa de que gozava. Rejeitamos, veementemente, a lógica que pretende perenizar as relações de centro e periferia, independentemente de considerar o conteúdo específico de cada caso, bem como o potencial de crescimento a ele relacionado. Devemos responder, portanto, Senhor Presidente, com um sonoro \"NEGO\" àqueles que, talvez inadvertidamente, pretendem retardar o desenvolvimento econômico, social e humano da Paraíba, do qual tanto necessita a nossa população. Reivindicamos, assim, junto às autoridades competentes, que não seja desativado o Distrito do Departamento Nacional de Produção Mineral na Paraíba, por todas as razões que viemos de expor. Muito obrigado."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0025::Educação",
+   "unit_id": "S0025",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Mauro Miranda",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2077,
+     "fim_corpo": 2981,
+     "trecho": "Hoje, por sua proximidade com o Distrito Federal, já atrai numerosos brasilienses, que ali possuem chácaras e fazendas para seu lazer nos fins de semana. Outro grande atrativo de Luziânia são os monumentos que contam sua história. Entre esses, destacam-se o sobrado defronte a Igreja Matriz, o prédio do Centro Cultural José Dilermando de Meirelles e a Igreja Nossa Senhora do Rosário, construída espontaneamente por escravos e inaugurada em 1763. Os três monumentos são relíquias autênticas do período colonial, e a igreja foi tombada pelo Instituto Histórico e Geográfico de Goiás em 1980. O censo de 1996 revelou, em Luziânia, a existência de 119 mil habitantes. Estima-se que hoje a cidade já tenha pelo menos 130 mil moradores, que têm à sua disposição 16 postos de saúde, dois hospitais, um aeroporto, um centro de ensino superior, quatro escolas de segundo grau e 40 de primeiro grau."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0025::Posição no trabalho",
+   "unit_id": "S0025",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Mauro Miranda",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2675,
+     "fim_corpo": 3617,
+     "trecho": "O censo de 1996 revelou, em Luziânia, a existência de 119 mil habitantes. Estima-se que hoje a cidade já tenha pelo menos 130 mil moradores, que têm à sua disposição 16 postos de saúde, dois hospitais, um aeroporto, um centro de ensino superior, quatro escolas de segundo grau e 40 de primeiro grau. Infelizmente, esse rápido crescimento, especialmente nos últimos anos, dada a proximidade com o Distrito Federal, deu-se de forma um tanto atabalhoada, motivo por que Luziânia, como as demais cidades do Entorno, merecem uma atenção especial dos governos dos estados limítrofes e especialmente das autoridades federais. Nesse sentido, a implementação dos programas da Secretaria de Desenvolvimento do Entorno do Distrito Federal revela-se auspiciosa. Com muitos problemas para resolver, notadamente o desemprego, a assistência à saúde e a falta de saneamento, Luziânia não tem por que esmorecer na busca de um futuro melhor."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0025::Saúde",
+   "unit_id": "S0025",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Mauro Miranda",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "postos de saúde",
+     "forma_encontrada": "postos de saúde",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitais",
+     "forma_encontrada": "hospitais",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2077,
+     "fim_corpo": 2981,
+     "trecho": "Hoje, por sua proximidade com o Distrito Federal, já atrai numerosos brasilienses, que ali possuem chácaras e fazendas para seu lazer nos fins de semana. Outro grande atrativo de Luziânia são os monumentos que contam sua história. Entre esses, destacam-se o sobrado defronte a Igreja Matriz, o prédio do Centro Cultural José Dilermando de Meirelles e a Igreja Nossa Senhora do Rosário, construída espontaneamente por escravos e inaugurada em 1763. Os três monumentos são relíquias autênticas do período colonial, e a igreja foi tombada pelo Instituto Histórico e Geográfico de Goiás em 1980. O censo de 1996 revelou, em Luziânia, a existência de 119 mil habitantes. Estima-se que hoje a cidade já tenha pelo menos 130 mil moradores, que têm à sua disposição 16 postos de saúde, dois hospitais, um aeroporto, um centro de ensino superior, quatro escolas de segundo grau e 40 de primeiro grau."
+    },
+    {
+     "inicio_corpo": 2077,
+     "fim_corpo": 2981,
+     "trecho": "Hoje, por sua proximidade com o Distrito Federal, já atrai numerosos brasilienses, que ali possuem chácaras e fazendas para seu lazer nos fins de semana. Outro grande atrativo de Luziânia são os monumentos que contam sua história. Entre esses, destacam-se o sobrado defronte a Igreja Matriz, o prédio do Centro Cultural José Dilermando de Meirelles e a Igreja Nossa Senhora do Rosário, construída espontaneamente por escravos e inaugurada em 1763. Os três monumentos são relíquias autênticas do período colonial, e a igreja foi tombada pelo Instituto Histórico e Geográfico de Goiás em 1980. O censo de 1996 revelou, em Luziânia, a existência de 119 mil habitantes. Estima-se que hoje a cidade já tenha pelo menos 130 mil moradores, que têm à sua disposição 16 postos de saúde, dois hospitais, um aeroporto, um centro de ensino superior, quatro escolas de segundo grau e 40 de primeiro grau."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0025::Urbano e rural",
+   "unit_id": "S0025",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Mauro Miranda",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6993,
+     "fim_corpo": 8065,
+     "trecho": "Srªs. e Srs. Senadores, o time do Goiás está voltando para o grande palco do maior de todos os campeonatos nacionais de futebol. Será o único representante dos estados da região Centro-Oeste. E estará cumprindo um papel que vai além das repercussões de uma competição esportiva. Com o uniforme verde que reflete a rica natureza do Estado de Goiás, e com um grupo preparado para competir em condições de igualdade com os grandes clubes de estados mais tradicionais na prática do futebol, o Goiás vai ajudar a projetar a imagem do nosso Estado, como tem feito sempre. E estou certo de que, com a nova estrutura do Vila Nova, teremos em breve todas as condições para colocar dois representantes na primeira divisão do futebol brasileiro. No campo esportivo, temos figuras ilustres que já ajudaram a projetar a imagem do nosso estado no exterior, como foi o jogador Baltasar, e como são hoje os goianos Anderson, que também joga na Seleção Brasileira e no futebol espanhol, o mais rico do planeta, e Paulo Nunes, um dos mais completos artilheiros do futebol brasileiro."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0026::Posição no trabalho",
+   "unit_id": "S0026",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Ernandes Amorim",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 815,
+     "fim_corpo": 1784,
+     "trecho": "Comprei minério e vendi estanho, e agora tenho comprado boi e vendido carne. Mas tem algo nessa política que não está certo. A idéia da privatização foi vendida com argumento de que permitiria investimentos externos. O que era necessário, pois não tínhamos poupança interna, e era preciso reservas de dólares para assegurar a estabilidade do real, no primeiro momento. Até a adoção das reformas que modificariam a estrutura da economia brasileira. Então, colocamos o patrimônio nacional à venda. Mas agora, para realizar essa venda, estamos precisando de emprestar dinheiro às empresas multinacionais, e tomar esse dinheiro emprestado no exterior, em dólar. Qual o custo dessa operação? Não estou dizendo da diferença entre o juro pago pelo BNDES, e o juro recebido. Não é isso. Mas o custo para o Brasil. Primeiro, o desemprego dos técnicos qualificados, substituídos por outros, que essas empresas trazem de seus países de origem."
+    },
+    {
+     "inicio_corpo": 1491,
+     "fim_corpo": 2355,
+     "trecho": "Qual o custo dessa operação? Não estou dizendo da diferença entre o juro pago pelo BNDES, e o juro recebido. Não é isso. Mas o custo para o Brasil. Primeiro, o desemprego dos técnicos qualificados, substituídos por outros, que essas empresas trazem de seus países de origem. Segundo, o aumento da dívida externa. Ao invés da multinacional tomar o dinheiro emprestado no exterior, quem faz a operação é um banco oficial. Então, a dívida em dólares é desse Banco, com garantia do Governo. Não daquela empresa, que ficou devendo em real. Aí, esse dólar fica disponível nas reservas cambiais do Brasil, e é usado pela própria empresa beneficiada, para enviar seus lucros à matriz. Lá fora. Mas vamos precisar pagá-los. Então tomaremos mais dólares emprestados, subordinando nossa economia às regras de desemprego e recessão do FMI."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0027::Macrorregião",
+   "unit_id": "S0027",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Romero Jucá",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1642,
+     "fim_corpo": 2572,
+     "trecho": "Se, num olhar retrospectivo, recuperarmos a agenda efetivamente cumprida pela Agência nestes dois anos de vida, verificaremos que o desafio de suas propostas tem sido, rigorosamente, acompanhado por realizações bem concretas. Senão vejamos. De dezembro de 1997 até outubro de 1999, fiscalizou 100% das concessionárias de serviço público; executou a obrigatoriedade de pagamento de indenização aos consumidores prejudicados pelo blecaute ocorrido em março de 1999, com aplicação de multas aos responsáveis; ampliou a capacidade de geração de energia no Brasil; mediou e solucionou cerca de 1.300 conflitos de interesses; adotou um conjunto apreciável de medidas de estímulo à competição no setor; conquistou a provisão de energia elétrica 24 horas por dia para cerca de 200 comunidades isoladas do Norte e do Centro-Oeste; definiu, por fim, programas de combate ao desperdício de energia desenvolvidos pelas concessionárias."
+    },
+    {
+     "inicio_corpo": 4707,
+     "fim_corpo": 5654,
+     "trecho": "Mesmo assim, quando há casos em que o consumidor tenha-se sentido insatisfeito, ou mesmo lesado, com o atendimento, a Aneel oferece os serviços de sua Ouvidoria, cuja função consiste não somente em zelar pela qualidade do serviço público de energia elétrica, mas também receber, apurar e solucionar reclamações de usuários. Do ponto de vista da expansão da capacidade gerativa, a Aneel promoveu, entre 1998 e 1999, licitações de nove empreendimentos, que totalizaram 2 milhões e 800 mil quilowatts, além de ter autorizado 2 milhões e 600 mil quilowatts de termelétricas. Os investimentos programados para as hidrelétricas correspondem a 5 bilhões e 700 milhões de reais da iniciativa privada, que desembolsou cerca de 1 bilhão e 100 milhões de reais pelas concessões. Até outubro de 1998, cerca de 300 mil moradores das regiões Norte e Centro-Oeste passaram a contar com o benefício do abastecimento de energia elétrica em suas casas."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0027::Urbano e rural",
+   "unit_id": "S0027",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Romero Jucá",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5284,
+     "fim_corpo": 6107,
+     "trecho": "Os investimentos programados para as hidrelétricas correspondem a 5 bilhões e 700 milhões de reais da iniciativa privada, que desembolsou cerca de 1 bilhão e 100 milhões de reais pelas concessões. Até outubro de 1998, cerca de 300 mil moradores das regiões Norte e Centro-Oeste passaram a contar com o benefício do abastecimento de energia elétrica em suas casas. Isso somente foi possível graças à decisão da Aneel de alterar o mecanismo de reembolso dos recursos provenientes da chamada Conta de Consumo de Combustíveis Fósseis – CCC – para os sistemas isolados de geração de energia elétrica. Apesar de o Brasil abrigar, com desalento, a constatação de que apenas 33% das propriedades rurais são eletrificadas, a Agência está providenciando a regulamentação do papel das cooperativas de eletrificação rural."
+    },
+    {
+     "inicio_corpo": 5284,
+     "fim_corpo": 6214,
+     "trecho": "Os investimentos programados para as hidrelétricas correspondem a 5 bilhões e 700 milhões de reais da iniciativa privada, que desembolsou cerca de 1 bilhão e 100 milhões de reais pelas concessões. Até outubro de 1998, cerca de 300 mil moradores das regiões Norte e Centro-Oeste passaram a contar com o benefício do abastecimento de energia elétrica em suas casas. Isso somente foi possível graças à decisão da Aneel de alterar o mecanismo de reembolso dos recursos provenientes da chamada Conta de Consumo de Combustíveis Fósseis – CCC – para os sistemas isolados de geração de energia elétrica. Apesar de o Brasil abrigar, com desalento, a constatação de que apenas 33% das propriedades rurais são eletrificadas, a Agência está providenciando a regulamentação do papel das cooperativas de eletrificação rural. Existem 187 cooperativas de eletrificação rural espelhadas pelo País, reunindo mais de 500 mil associados."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0028::Cultura e informação",
+   "unit_id": "S0028",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Mozarildo Cavalcanti",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "biblioteca",
+     "forma_encontrada": "Biblioteca",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "biblioteca",
+     "forma_encontrada": "Biblioteca",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5225,
+     "fim_corpo": 6250,
+     "trecho": "É o que explica, por exemplo, que, ao lado de cursos tradicionais como os de Língua Inglesa, Francesa, Espanhola e Portuguesa, existam os de Língua e Cultura Macuxi e de Língua e Cultura Yanomami. O mesmo raciocínio pode ser estendido à pós-graduação. Ao mesmo tempo em que são ministrados cursos de especialização voltados para a Metodologia de Pesquisa, Educação Física Teórica, Matemática Aplicada e Ciências Morfológicas, também o são Produtos Naturais e História Socioeconômica da Amazônia Brasileira, ambos em óbvia vinculação ao cenário da região. Atuando decididamente na extensão, oferecendo cursos e desenvolvendo projetos comunitários, a UFRR completa seu trabalho oferecendo instalações e equipamentos para o bom atendimento de seus alunos, em particular, e da população de Roraima, em geral. Refiro-me, por exemplo, à sua Biblioteca Central, com mais de 11 mil títulos e quase mil periódicos; à escola de Aplicação; à Rádio Universitária; ao Núcleo de Educação a Distância e à Editora Universitária."
+    },
+    {
+     "inicio_corpo": 6250,
+     "fim_corpo": 7201,
+     "trecho": "A Universidade Federal de Roraima vive um momento especial, após ter atravessado um período de turbulência administrativa, está agora na expectativa de uma período de consolidação e crescimento, após terem sido eleitos e empossados os Diretores dos Centros e Departamentos, e sido escolhida a lista tríplice de Professores Doutores que será remetida ao Senhor Ministro da Educação a fim de que seja nomeado o Reitor que dirigirá os destinos da nossa Universidade durante quatro anos. Quero, portanto, apelar ao Exmo. Sr. Dr. Paulo Renato de Souza, que analise os nomes e nomeie o nosso Reitor, o que é um reclamo da comunidade acadêmica da UFRR. Mas, também que o MEC dê à nossa Universidade o apoio que ele precisa para se consolidar: maiores recursos para o custeio; concurso para Professores e funcionários técnico-administrativos; construção de Biblioteca, do restaurante universitário, de laboratório; e aquisição de livros e equipamentos."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0028::Educação",
+   "unit_id": "S0028",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Mozarildo Cavalcanti",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5422,
+     "fim_corpo": 6250,
+     "trecho": "O mesmo raciocínio pode ser estendido à pós-graduação. Ao mesmo tempo em que são ministrados cursos de especialização voltados para a Metodologia de Pesquisa, Educação Física Teórica, Matemática Aplicada e Ciências Morfológicas, também o são Produtos Naturais e História Socioeconômica da Amazônia Brasileira, ambos em óbvia vinculação ao cenário da região. Atuando decididamente na extensão, oferecendo cursos e desenvolvendo projetos comunitários, a UFRR completa seu trabalho oferecendo instalações e equipamentos para o bom atendimento de seus alunos, em particular, e da população de Roraima, em geral. Refiro-me, por exemplo, à sua Biblioteca Central, com mais de 11 mil títulos e quase mil periódicos; à escola de Aplicação; à Rádio Universitária; ao Núcleo de Educação a Distância e à Editora Universitária."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0028::Escolaridade e letramento",
+   "unit_id": "S0028",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Mozarildo Cavalcanti",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2544,
+     "fim_corpo": 3511,
+     "trecho": "Alguns dados referentes à instituição atestam seu sempre presente compromisso com as causas maiores do Estado. Isso se dá, por exemplo, quando se verifica a quantidade de cursos de graduação oferecidos, pautados nas exigências da sociedade e nas necessidades primordiais da região. Além disso, Senhor Presidente, Senhoras e Senhores Senadores, a preocupação em ampliar a oferta de vagas, dando mais chances de freqüentá-la aos que dela mais necessitam, é que explica uma decisão da Universidade Federal de Roraima de oferecer seus cursos pela manhã, à tarde e à noite. Uma atitude dessa natureza, além de não ser corriqueira entre suas congêneres, ressalta uma dimensão extraordinária do trabalho da instituição: sua visão social, o que a torna ainda mais merecedora de enaltecimento. Organizando suas atividades acadêmicas em períodos semestrais, a UFRR acolhe novos alunos duas vezes ao ano, aplicando exames vestibulares nos meses de julho e dezembro."
+    },
+    {
+     "inicio_corpo": 3119,
+     "fim_corpo": 3830,
+     "trecho": "Uma atitude dessa natureza, além de não ser corriqueira entre suas congêneres, ressalta uma dimensão extraordinária do trabalho da instituição: sua visão social, o que a torna ainda mais merecedora de enaltecimento. Organizando suas atividades acadêmicas em períodos semestrais, a UFRR acolhe novos alunos duas vezes ao ano, aplicando exames vestibulares nos meses de julho e dezembro. Aliás, é bom que se diga desde já que seu alunado – à primeira vista pequeno – corresponde a uma posição superior à média nacional. Para que se tenha idéia do que estou afirmando, basta lembrar que seus mais de 4 mil alunos correspondem a cerca de 2% da população total do Estado, hoje em torno dos 250 mil habitantes."
+    },
+    {
+     "inicio_corpo": 3119,
+     "fim_corpo": 4004,
+     "trecho": "Uma atitude dessa natureza, além de não ser corriqueira entre suas congêneres, ressalta uma dimensão extraordinária do trabalho da instituição: sua visão social, o que a torna ainda mais merecedora de enaltecimento. Organizando suas atividades acadêmicas em períodos semestrais, a UFRR acolhe novos alunos duas vezes ao ano, aplicando exames vestibulares nos meses de julho e dezembro. Aliás, é bom que se diga desde já que seu alunado – à primeira vista pequeno – corresponde a uma posição superior à média nacional. Para que se tenha idéia do que estou afirmando, basta lembrar que seus mais de 4 mil alunos correspondem a cerca de 2% da população total do Estado, hoje em torno dos 250 mil habitantes. Outra comparação que lhe é extremamente favorável diz respeito à proporção entre o número de docentes e de funcionários técnico-administrativos com o número de alunos."
+    },
+    {
+     "inicio_corpo": 3830,
+     "fim_corpo": 4801,
+     "trecho": "Outra comparação que lhe é extremamente favorável diz respeito à proporção entre o número de docentes e de funcionários técnico-administrativos com o número de alunos. Nas funções administrativas, atuam apenas 175 servidores. O corpo docente é por demais enxuto: são 196 professores, dos quais 83 têm tão somente a graduação. Entretanto, refletindo uma louvável preocupação do contínuo aperfeiçoamento, boa parte do professorado dirige-se à pós-graduação: 24 fizeram cursos de especialização, 78 – concluíram o Mestrado, enquanto 11 já são doutores. Claro que se está longe do ideal. A existência de apenas quatro laboratórios configura uma lacuna, a ser devidamente preenchida. O corpo docente terá que obter melhor qualificação acadêmica, até mesmo como condição indispensável para que a pós-graduação na UFRR, hoje embrionária, possa deslanchar. Atualmente, do total de alunos da instituição, 39 fazem cursos de especialização e 8 estão cursando Mestrado."
+    },
+    {
+     "inicio_corpo": 5125,
+     "fim_corpo": 6042,
+     "trecho": "Afora isso, o que mais chama a atenção é o olhar da instituição voltado para sua terra e sua gente. É o que explica, por exemplo, que, ao lado de cursos tradicionais como os de Língua Inglesa, Francesa, Espanhola e Portuguesa, existam os de Língua e Cultura Macuxi e de Língua e Cultura Yanomami. O mesmo raciocínio pode ser estendido à pós-graduação. Ao mesmo tempo em que são ministrados cursos de especialização voltados para a Metodologia de Pesquisa, Educação Física Teórica, Matemática Aplicada e Ciências Morfológicas, também o são Produtos Naturais e História Socioeconômica da Amazônia Brasileira, ambos em óbvia vinculação ao cenário da região. Atuando decididamente na extensão, oferecendo cursos e desenvolvendo projetos comunitários, a UFRR completa seu trabalho oferecendo instalações e equipamentos para o bom atendimento de seus alunos, em particular, e da população de Roraima, em geral."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0028::Idade",
+   "unit_id": "S0028",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "1999-12-15",
+   "orador": "Mozarildo Cavalcanti",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovem",
+     "forma_encontrada": "jovem",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1167,
+     "fim_corpo": 1937,
+     "trecho": "Faço tais observações, Senhor Presidente, tendo em mente a realidade de meu Estado. Como é do conhecimento geral, Roraima é um pequeno Estado, de criação recente, tendo o menor índice populacional da Região Norte e do Brasil. Nessas condições, avulta a participação de nossa Universidade Federal no processo de desenvolvimento estadual, atuando nas mais variadas frentes: forma profissionais aptos a enfrentar os grandes desafios locais; estuda a realidade roraimense, vista e entendida no contexto amazônico; forma os professores que atuarão nos níveis fundamental e médio da educação; desenvolve pesquisa, especialmente aquela vinculada às necessidades da região. A Universidade Federal de Roraima, tanto quanto o Estado, é uma instituição bastante jovem."
+    }
+   ]
+  }
+ ]
+}

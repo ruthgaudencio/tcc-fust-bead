@@ -1,0 +1,263 @@
+# W0041 | Mr. Jason Hendricks | Range Companies
+# 116th Congress | House | 2019-06-25
+# Broadband Mapping: Small Carrier Perspectives on a Path Forward
+# source: https://www.congress.gov/116/meeting/house/109698/witnesses/HHRG-116-SM23-Wstate-HendricksJ-20190625.pdf
+
+1 
+ 
+Written Testimony of Jason Hendricks 
+Chief Regulatory Officer, Range Companies 
+ 
+U.S. House of Representatives Committee on Small Business 
+Subcommittee on Contracting and Infrastructure 
+ 
+Broadband Mapping: Small Carrier Perspectives on a Path Forward 
+June 25, 2019 
+ 
+ 
+Background 
+Good morning Chairman Golden, Ranking Member Stauber and members of this 
+Subcommittee.  My name is Jason Hendricks, and I am the Chief Regulatory Officer of the Range 
+Companies and a Board member for WTA – Advocates for Rural Broadband.  I am providing 
+testimony today on behalf of the Range Companies and WTA.  It is a pleasure and honor to 
+testify before you this morning. 
+ 
+The Range Companies are comprised of the parent company – Range Telephone Cooperative – 
+and its subsidiaries – RT Communications, Dubois Telephone Exchange (“DTE”), and Advanced 
+Communications Technology.  Together, the four companies provide telecommunications and 
+broadband service in rural areas in Montana, Wyoming, Colorado, and South Dakota.  Our 
+combined incumbent carrier serving area is approximately 30,000 square miles, with a 
+customer density of 0.54 customers per square mile.  The largest town we serve has a 
+population of about 5,500 and the smallest communities we serve have populations in low 
+double digits.  Despite the low density and high-cost challenges of our serving areas, we provide 
+very high-speed, quality Internet services, including fiber-to-the-premise service, in many of the 
+communities we serve.  But like most small, rural providers, we have very rural areas that are 
+cost prohibitive to serve with speeds comparable to those that are available in more densely 
+populated areas.  It is these areas for which the accuracy of broadband mapping is most 
+important and for which the current Federal Communications Commission (“FCC”) mapping 
+mechanism is the least accurate.  My testimony focuses on goals to improve broadband 
+mapping without being overly burdensome to small providers with limited resources. 
+  
+Problems with the Existing FCC Broadband Map and Location Assumptions 
+The FCC’s current broadband map is derived from data reported by broadband providers twice 
+a year in FCC Form 477 (Local Telephone Competition and Broadband Reporting).  There are 
+concerns that many observers have with the current broadband map and they derive from the 
+way in which the data is reported and mapped.  These concerns include: 
+  
+• Use of advertised speeds rather than actual speeds - Per FCC Form 477 formatting 
+instructions, the speeds reported are often advertised speeds, which may not equate 
+with speeds a customer can expect to receive, particularly in sparsely populated areas. 
+2 
+ 
+• Lack of granularity - Availability of service is determined on a census block basis and 
+census blocks can be very large in rural areas. 
+• Overstatement of availability - An entire census block can be shown as having 
+broadband available if service is offered to just one location in that census block, 
+resulting in many premises appearing to have broadband available to them when they 
+do not. 
+• Understatement of availability - There is typically a delay of more than a year between 
+the time data is reported via Form 477 to the time a map is created showing the 
+availability of service, resulting in possible understatements of broadband availability if 
+providers have expanded their broadband services in the interim. 
+• Funding decisions based on inaccurate data - In some of its high cost universal service 
+fund (USF) programs, the FCC uses Form 477 data to determine where to target USF 
+support and if the underlying data is not accurate, limited USF support dollars may not 
+go to places where it is needed or may go to places where broadband already exists. 
+• Regulatory burdens - Form 477 remains burdensome for providers to complete with the 
+FCC estimating in its instructions that the annual reporting burdens for this collection of 
+information is 387 hours per each of the two responses, including the time for reviewing 
+instructions, searching existing data sources, gathering and maintaining the required 
+data and completing and reviewing the collection of information. 
+ 
+Between our four companies, we are required to provide broadband data on over 7,000 census 
+blocks.  Yet, census blocks can be upwards of hundreds of square miles in size and are often ill-
+fitted to population clusters and network boundaries.  For example, we are required to report 
+on a census block of 366 square miles with 19 locations.   
+ 
+I will provide you with an example of the problems that can occur when census blocks are used 
+to determine broadband availability.  RT Communications serves the town of Hulett, Wyoming 
+(population 383), which is near the nation’s first National Monument, Devil’s Tower.  It provides 
+100 Mbps service in town and has fiber south of town.  But there are locations outside of town 
+that we haven’t been able to serve at speeds of 25 Mbps or more due to high construction 
+costs.  We have looked at pursuing state or federal grants to defray some of the construction 
+costs to serve those locations.  However, the large census block in which the locations exist is 
+considered served because it includes a portion of the town in which we provide 100 Mbps 
+service.  Were an alternative mapping system used that was better tied to existing provider 
+networks, the outlying locations could be properly identified as unserved so that universal 
+service support or broadband grants could be targeted to the locations in need.  Similar 
+examples can be found throughout our serving areas. 
+ 
+Moreover, there can also be problems with the data the FCC uses to determine customer 
+locations for purposes of distributing model-based universal service support.  Recently, the FCC 
+announced Alternative Connect America Fund (ACAM) offers to carriers not already receiving 
+model-based support.  Carriers have until July 17 to make decisions on whether to accept 
+ACAM universal service support or continue to receive funding via the existing cost-based 
+support methodology.  In Wyoming, if we accept ACAM support, we would receive an annual 
+3 
+ 
+support amount in return for deploying broadband service to a specified number of locations.  
+Like many companies reviewing the ACAM buildout obligations, we are finding many 
+discrepancies between census data locations used by the model and the real-world locations of 
+where people actually live.  For example, in examining tribal buildout obligations in DTE’s 
+territory, we have discovered a census block for which the model assumes 10 locations exist.  In 
+reality, the census block is mostly hayfields and sagebrush grazing with only one customer 
+location.  In total for DTE, accepting ACAM may necessitate broadband deployment to 268 
+tribal locations when our analysis shows that there are 241 locations, at most, in the census 
+blocks at issue.  Similar examples of locations assumed in the model that don’t exist in reality 
+can be found throughout our serving areas. 
+ 
+The Range Companies strongly believe that improvements can be made to the FCC’s broadband 
+mapping system and customer location databases.  I will first lay out some goals we have to 
+achieve a higher level of granularity in broadband mapping to ensure that broadband support 
+flows to areas most in need.  Then I will talk about some of the solutions being considered in 
+the industry and will comment on their workability from a small company perspective. 
+ 
+Proposed Goals for Broadband Mapping Changes 
+The Range Companies are supportive of efforts to achieve a higher level of granularity in 
+broadband mapping to ensure that broadband support funds go to areas most in need.  We 
+offer four goals for consideration in the establishment of a new system.   
+ 
+First, we request that the reporting requirements for a new broadband mapping system not be 
+overly burdensome for small providers.  Specifically, the reporting requirements should be 
+consistent with capabilities easily available to providers, match the network characteristics of 
+providers, and allow for easy upload with minimal effort. 
+ 
+Second, we request that the methodology be used for all state and federal broadband support, 
+loan, and grant decisions so that providers need not be subjected to reporting requirements 
+that differ across jurisdictions.  Currently, we provide broadband mapping data in Wyoming and 
+Colorado, as well as to the FCC though 477 data submissions and High Cost Universal 
+Broadband (HUBB) reporting via the Universal Service Administrative Corporation.  Having one 
+data submission for all jurisdictions and for all purposes would greatly reduce compliance 
+burdens. 
+ 
+Third, the process used by regulators to verify the accuracy of data should be meaningful and 
+minimally burdensome to small providers.  For example, if broadband speed and latency tests 
+are used to verify the accuracy of data, then these tests should be for those portions of the 
+networks the provider controls, the data samples should reflect the size of the carrier and the 
+demographics they serve, and the tests should be conducted in a manner unobtrusive to the 
+customers receiving the service. 
+ 
+Fourth, a challenge process should be enacted to allow other providers, government entities, 
+customers, and interested third parties to challenge the accuracy of data provided by a 
+4 
+ 
+provider.  A challenge process will help ensure broadband availability is not overstated and that 
+support is not precluded from going to areas that are unserved. 
+ 
+Broadband Mapping Proposals 
+I will now provide a summary of some of the main proposals submitted to the FCC to improve 
+its broadband mapping system. 
+ 
+First, NCTA - The Internet and Television Association, has proposed that fixed broadband 
+providers be required to submit polygon shapefiles in lieu of the census block availability data.  
+According to NCTA, the use of shapefiles would increase the accuracy of the reported data 
+because shapefiles are more closely tied to a provider’s service area and the shapefiles could be 
+generated based on a provider’s footprint using a variety of sources, such as network maps or 
+homes passed data.  As further explained by Connected Nation, mapping programs like those it 
+administers in Minnesota offer proven examples of where granular polygons, contained within 
+shapefiles, have been created to depict service availability footprints and where the resulting 
+map is used to guide the state’s broadband grant program. 
+ 
+Second, with respect to customer location data, USTelecom, with the help of its vendor 
+CostQuest, has developed a proposal to create a “Broadband Serviceable Location Fabric” 
+(“BSLF”) that would generate an individual latitude and longitude for buildings to where 
+broadband is, or would be, deployed.  Its proposal would create a consistent location fabric for 
+which all serviceable locations would be located using a single methodology and thus provide a 
+harmonized reference point for broadband reporting.  To create the BSLF, multiple data sources 
+would be required.  USTelecom is conducting a pilot program in Virginia and Missouri to 
+demonstrate the viability of its proposal and to validate its assumptions.  CostQuest has 
+estimated that if the FCC adopts the BSLF methodology it would take an additional 12 months 
+to complete a nationwide fabric after the pilot closes.  The coalition intends to provide a report 
+on the pilot program to the FCC by the end of July. 
+ 
+In conjunction with their shapefile proposal, NCTA and others have also advocated for the use 
+of crowdsourcing, in which the FCC would: 1) establish a verification process to allow 
+consumers to report potential inaccuracies in the data, and 2) the FCC staff would forward any 
+submissions to the relevant providers, who would make any necessary corrections in 
+subsequent filings.  According to NCTA, the primary goal of this process is to improve the 
+accuracy of the map, not to generate enforcement activity.   
+ 
+Reactions to Broadband Mapping Proposals 
+The Range Companies believe that these proposals do not have to be mutually exclusive and 
+both can be adopted over time. In the near-term, we are supportive of the NCTA shapefile 
+proposal.  First, it can be easily accommodated with our existing mapping capabilities.  Two, it 
+can be more representative of network architecture, community boundaries, and the locations 
+of outlying customers and rights of way.  Three, it can be overlaid on multiple types of premise 
+location platforms.   
+ 
+5 
+ 
+I will provide you with an example of a typical exchange of ours and how we envision shapefile 
+mapping would work.  In one of our typical exchanges, there is a small town that is relatively 
+concentrated and has high bandwidth availability with either fiber to the premise service or a 
+fiber-copper combination with very short copper loop lengths.  Outside of town, there are 
+typically developments with larger lot sizes and with more distance between homes than what 
+occurs in town but with more cluster characteristics than what occurs in more remote 
+locations. In the more remote locations, there are often farms and ranches with customer 
+premises separated by miles from one another and which are many miles from the town in 
+which switches and network concentrators are located.  With shapefiles for this typical town, 
+we could have one polygon for the town where we are very confident that most customers can 
+get high-speed broadband service.  Then we could have multiple polygons for the clusters of 
+premises located on the outskirts of town that would align with the network characteristics 
+present in those clusters.  Then we could use lines to represent bandwidth available along the 
+roadways leading further away from town and along which there may be the occasional home 
+or business.  Lastly, we could use dots to represent bandwidth available for the individual 
+locations in remote locations many miles from the town.  With this type of mapping, one could 
+clearly see the locations with the lowest broadband speeds, which should better inform policy 
+decisions on how best to address the broadband needs of those that are unserved or 
+underserved.  In addition, shapefiles for other exchanges and from other companies could be 
+consolidated into one master file that would more accurately display broadband availability by 
+town, county, state, or country.  Further, such files can be more easily updated as network 
+characteristics improve and bandwidth increases than the exiting method that requires one to 
+first match bandwidth availability to the census block for which locations may be less logically 
+assigned.   
+ 
+However, policymakers should consider how to achieve even higher granularity in the future. At 
+Range, we are cautiously optimistic about the USTelecom group’s location fabric proposal.  We 
+are fully aware of the errors contained in the current location databases and are hopeful that a 
+more accurate database can developed.  We look forward to the results of the pilot projects 
+and will be able to comment further when more information is known.  If a better customer 
+location fabric is developed, it appears that it can be complementary to the shapefile proposal 
+so that polygons can be more accurately overlaid on customer location maps.  We do believe, 
+however, that shapefile reporting processes can be created and used prior to the development 
+of a customer location fabric and that development of the latter should not delay the 
+development of the former.   
+ 
+With respect to crowd-sourcing, while we are supportive of opportunities for customers to 
+challenge broadband speeds reported by companies, it is with the caveat that broadband speed 
+and latency tests within a home over customer equipment may not be as accurate as those 
+performed by companies for the portions of the networks they control.  There are numerous 
+factors within a home that can show speeds lower than what a customer is receiving, or 
+capable of receiving, such as the age of the customer’s hardware and software, inside wiring, 
+and whether other devices are using the Internet at the time of the test, or whether the 
+customer has subscribed to the highest speed available.  Thus, while crowdsourcing could be 
+6 
+ 
+used for data points in limited instances, we don’t believe there should be an over-reliance on 
+the results of customer speed tests. 
+ 
+We do believe that before any decision is made on whether to provide funding to a new entity 
+in an area where a provider has already received universal service support or 
+broadband/infrastructure grants, or whether to eliminate or reduce universal service support 
+for an existing recipient, or whether to deem an area served and thereby ineligible for support, 
+there should be a challenge process whereby existing providers, state commissions, customers, 
+and interested third parties can challenge the broadband availability for which the decision is 
+being made to grant new support or reduce current support.  Any map, no matter how carefully 
+constructed, can be inaccurate either through errors or simply because it is out of date by the 
+time a funding decision is being made.  A challenge process need not be overly time-consuming 
+and burdensome.  We believe a streamlined process can be established to ensure that scarce 
+funding is targeted to the areas that are most truly in need. 
+ 
+Concluding Remarks 
+There appears to be broad agreement that the FCC’s current broadband mapping methodology 
+needs to be changed.  FCC Chairman Ajit Pai acknowledged as much in his testimony on June 12 
+to the Senate Commerce, Science, and Transportation Committee when he stated that he 
+intends to “to circulate a Report and Order at the FCC’s monthly meeting in August that would 
+result in a more granular and more accurate broadband map.  That means requiring broadband 
+providers to report where they actually offer service below the census block level, and looking 
+to incorporate public feedback into our mapping efforts.” I will work with WTA and others in 
+the industry to provide comments to the FCC in advance of the Order’s release that are 
+consistent with positions I provided in my testimony today.  We are committed to doing our 
+part to achieve a more granular broadband availability map via a less-burdensome reporting 
+methodology that better reflects real-world network characteristics and customer locations, 
+and that contains a meaningful challenge process.

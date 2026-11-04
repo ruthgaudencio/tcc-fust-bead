@@ -1,0 +1,2737 @@
+par_id,caso,unit_id,subcategoria,status,ja_codificado,recodificar
+C0018::Domicílio e arranjo familiar,FUST,C0018,Domicílio e arranjo familiar,identico,sim,nao
+C0022::Domicílio e arranjo familiar,FUST,C0022,Domicílio e arranjo familiar,identico,sim,nao
+C0035::Administração pública,FUST,C0035,Administração pública,identico,sim,nao
+C0035::Cultura e informação,FUST,C0035,Cultura e informação,identico,sim,nao
+C0035::Educação,FUST,C0035,Educação,identico,sim,nao
+C0035::Infraestrutura e porte populacional,FUST,C0035,Infraestrutura e porte populacional,identico,sim,nao
+C0035::Posição no trabalho,FUST,C0035,Posição no trabalho,identico,sim,nao
+C0035::Raça e etnia,FUST,C0035,Raça e etnia,identico,sim,nao
+C0035::Renda e classe,FUST,C0035,Renda e classe,identico,sim,nao
+C0035::Saúde,FUST,C0035,Saúde,identico,sim,nao
+C0035::Saúde e deficiência,FUST,C0035,Saúde e deficiência,identico,sim,nao
+C0035::Urbano e rural,FUST,C0035,Urbano e rural,identico,sim,nao
+C0037::Cultura e informação,FUST,C0037,Cultura e informação,identico,sim,nao
+C0037::Educação,FUST,C0037,Educação,identico,sim,nao
+C0037::Macrorregião,FUST,C0037,Macrorregião,identico,sim,nao
+C0037::Saúde,FUST,C0037,Saúde,identico,sim,nao
+C0042::Infraestrutura e porte populacional,FUST,C0042,Infraestrutura e porte populacional,identico,sim,nao
+C0042::Macrorregião,FUST,C0042,Macrorregião,identico,sim,nao
+C0042::Renda e classe,FUST,C0042,Renda e classe,identico,sim,nao
+C0044::Educação,FUST,C0044,Educação,identico,sim,nao
+C0044::Renda e classe,FUST,C0044,Renda e classe,identico,sim,nao
+C0044::Saúde,FUST,C0044,Saúde,identico,sim,nao
+C0054::Educação,FUST,C0054,Educação,identico,sim,nao
+C0056::Administração pública,FUST,C0056,Administração pública,identico,sim,nao
+C0056::Cultura e informação,FUST,C0056,Cultura e informação,identico,sim,nao
+C0056::Educação,FUST,C0056,Educação,identico,sim,nao
+C0056::Infraestrutura e porte populacional,FUST,C0056,Infraestrutura e porte populacional,identico,sim,nao
+C0056::Renda e classe,FUST,C0056,Renda e classe,identico,sim,nao
+C0056::Saúde,FUST,C0056,Saúde,identico,sim,nao
+C0056::Saúde e deficiência,FUST,C0056,Saúde e deficiência,identico,sim,nao
+C0056::Urbano e rural,FUST,C0056,Urbano e rural,identico,sim,nao
+C0064::Saúde e deficiência,FUST,C0064,Saúde e deficiência,identico,sim,nao
+C0070::Educação,FUST,C0070,Educação,identico,sim,nao
+C0071::Renda e classe,FUST,C0071,Renda e classe,identico,sim,nao
+C0078::Educação,FUST,C0078,Educação,identico,sim,nao
+C0080::Cultura e informação,FUST,C0080,Cultura e informação,identico,sim,nao
+C0080::Educação,FUST,C0080,Educação,identico,sim,nao
+C0082::Educação,FUST,C0082,Educação,identico,sim,nao
+C0083::Educação,FUST,C0083,Educação,identico,sim,nao
+C0084::Educação,FUST,C0084,Educação,identico,sim,nao
+C0085::Educação,FUST,C0085,Educação,identico,sim,nao
+C0086::Educação,FUST,C0086,Educação,identico,sim,nao
+C0086::Macrorregião,FUST,C0086,Macrorregião,identico,sim,nao
+C0086::Renda e classe,FUST,C0086,Renda e classe,identico,sim,nao
+C0086::Urbano e rural,FUST,C0086,Urbano e rural,identico,sim,nao
+C0090::Educação,FUST,C0090,Educação,identico,sim,nao
+C0105::Infraestrutura e porte populacional,FUST,C0105,Infraestrutura e porte populacional,identico,sim,nao
+C0114::Renda e classe,FUST,C0114,Renda e classe,identico,sim,nao
+C0122::Posição no trabalho,FUST,C0122,Posição no trabalho,identico,sim,nao
+S0001::Gênero,FUST,S0001,Gênero,identico,sim,nao
+S0003::Domicílio e arranjo familiar,FUST,S0003,Domicílio e arranjo familiar,identico,sim,nao
+S0003::Educação,FUST,S0003,Educação,identico,sim,nao
+S0003::Idade,FUST,S0003,Idade,identico,sim,nao
+S0003::Macrorregião,FUST,S0003,Macrorregião,identico,sim,nao
+S0003::Posição no trabalho,FUST,S0003,Posição no trabalho,identico,sim,nao
+S0003::Raça e etnia,FUST,S0003,Raça e etnia,identico,sim,nao
+S0003::Renda e classe,FUST,S0003,Renda e classe,identico,sim,nao
+S0003::Território intraurbano,FUST,S0003,Território intraurbano,identico,sim,nao
+S0004::Domicílio e arranjo familiar,FUST,S0004,Domicílio e arranjo familiar,identico,sim,nao
+S0004::Idade,FUST,S0004,Idade,identico,sim,nao
+S0004::Renda e classe,FUST,S0004,Renda e classe,identico,sim,nao
+S0005::Domicílio e arranjo familiar,FUST,S0005,Domicílio e arranjo familiar,identico,sim,nao
+S0005::Educação,FUST,S0005,Educação,identico,sim,nao
+S0005::Idade,FUST,S0005,Idade,identico,sim,nao
+S0005::Infraestrutura e porte populacional,FUST,S0005,Infraestrutura e porte populacional,identico,sim,nao
+S0005::Macrorregião,FUST,S0005,Macrorregião,identico,sim,nao
+S0005::Posição no trabalho,FUST,S0005,Posição no trabalho,identico,sim,nao
+S0005::Renda e classe,FUST,S0005,Renda e classe,identico,sim,nao
+S0006::Cultura e informação,FUST,S0006,Cultura e informação,identico,sim,nao
+S0006::Domicílio e arranjo familiar,FUST,S0006,Domicílio e arranjo familiar,identico,sim,nao
+S0006::Educação,FUST,S0006,Educação,identico,sim,nao
+S0006::Urbano e rural,FUST,S0006,Urbano e rural,identico,sim,nao
+S0007::Administração pública,FUST,S0007,Administração pública,identico,sim,nao
+S0007::Domicílio e arranjo familiar,FUST,S0007,Domicílio e arranjo familiar,identico,sim,nao
+S0007::Educação,FUST,S0007,Educação,identico,sim,nao
+S0007::Macrorregião,FUST,S0007,Macrorregião,identico,sim,nao
+S0007::Posição no trabalho,FUST,S0007,Posição no trabalho,identico,sim,nao
+S0007::Renda e classe,FUST,S0007,Renda e classe,identico,sim,nao
+S0007::Território intraurbano,FUST,S0007,Território intraurbano,identico,sim,nao
+S0007::Urbano e rural,FUST,S0007,Urbano e rural,identico,sim,nao
+S0008::Educação,FUST,S0008,Educação,identico,sim,nao
+S0008::Escolaridade e letramento,FUST,S0008,Escolaridade e letramento,identico,sim,nao
+S0008::Posição no trabalho,FUST,S0008,Posição no trabalho,identico,sim,nao
+S0008::Raça e etnia,FUST,S0008,Raça e etnia,identico,sim,nao
+S0008::Renda e classe,FUST,S0008,Renda e classe,identico,sim,nao
+S0009::Domicílio e arranjo familiar,FUST,S0009,Domicílio e arranjo familiar,identico,sim,nao
+S0009::Educação,FUST,S0009,Educação,identico,sim,nao
+S0009::Escolaridade e letramento,FUST,S0009,Escolaridade e letramento,identico,sim,nao
+S0009::Idade,FUST,S0009,Idade,identico,sim,nao
+S0009::Macrorregião,FUST,S0009,Macrorregião,identico,sim,nao
+S0009::Posição no trabalho,FUST,S0009,Posição no trabalho,identico,sim,nao
+S0009::Renda e classe,FUST,S0009,Renda e classe,identico,sim,nao
+S0009::Urbano e rural,FUST,S0009,Urbano e rural,identico,sim,nao
+S0010::Domicílio e arranjo familiar,FUST,S0010,Domicílio e arranjo familiar,identico,sim,nao
+S0010::Escolaridade e letramento,FUST,S0010,Escolaridade e letramento,identico,sim,nao
+S0010::Gênero,FUST,S0010,Gênero,identico,sim,nao
+S0010::Idade,FUST,S0010,Idade,identico,sim,nao
+S0010::Infraestrutura e porte populacional,FUST,S0010,Infraestrutura e porte populacional,identico,sim,nao
+S0010::Posição no trabalho,FUST,S0010,Posição no trabalho,identico,sim,nao
+S0010::Renda e classe,FUST,S0010,Renda e classe,identico,sim,nao
+S0010::Urbano e rural,FUST,S0010,Urbano e rural,identico,sim,nao
+S0011::Escolaridade e letramento,FUST,S0011,Escolaridade e letramento,identico,sim,nao
+S0011::Infraestrutura e porte populacional,FUST,S0011,Infraestrutura e porte populacional,identico,sim,nao
+S0011::Macrorregião,FUST,S0011,Macrorregião,identico,sim,nao
+S0011::Renda e classe,FUST,S0011,Renda e classe,identico,sim,nao
+S0011::Territórios de povos e comunidades tradicionais,FUST,S0011,Territórios de povos e comunidades tradicionais,identico,sim,nao
+S0013::Infraestrutura e porte populacional,FUST,S0013,Infraestrutura e porte populacional,identico,sim,nao
+S0013::Macrorregião,FUST,S0013,Macrorregião,identico,sim,nao
+S0013::Posição no trabalho,FUST,S0013,Posição no trabalho,identico,sim,nao
+S0013::Renda e classe,FUST,S0013,Renda e classe,identico,sim,nao
+S0013::Urbano e rural,FUST,S0013,Urbano e rural,identico,sim,nao
+S0014::Urbano e rural,FUST,S0014,Urbano e rural,identico,sim,nao
+S0015::Educação,FUST,S0015,Educação,identico,sim,nao
+S0015::Idade,FUST,S0015,Idade,identico,sim,nao
+S0016::Educação,FUST,S0016,Educação,identico,sim,nao
+S0016::Escolaridade e letramento,FUST,S0016,Escolaridade e letramento,identico,sim,nao
+S0016::Urbano e rural,FUST,S0016,Urbano e rural,identico,sim,nao
+S0017::Domicílio e arranjo familiar,FUST,S0017,Domicílio e arranjo familiar,identico,sim,nao
+S0018::Domicílio e arranjo familiar,FUST,S0018,Domicílio e arranjo familiar,identico,sim,nao
+S0018::Gênero,FUST,S0018,Gênero,identico,sim,nao
+S0018::Posição no trabalho,FUST,S0018,Posição no trabalho,identico,sim,nao
+S0018::Raça e etnia,FUST,S0018,Raça e etnia,identico,sim,nao
+S0018::Renda e classe,FUST,S0018,Renda e classe,identico,sim,nao
+S0019::Domicílio e arranjo familiar,FUST,S0019,Domicílio e arranjo familiar,identico,sim,nao
+S0019::Educação,FUST,S0019,Educação,identico,sim,nao
+S0019::Idade,FUST,S0019,Idade,identico,sim,nao
+S0019::Infraestrutura e porte populacional,FUST,S0019,Infraestrutura e porte populacional,identico,sim,nao
+S0019::Macrorregião,FUST,S0019,Macrorregião,identico,sim,nao
+S0019::Raça e etnia,FUST,S0019,Raça e etnia,identico,sim,nao
+S0019::Saúde,FUST,S0019,Saúde,identico,sim,nao
+S0019::Urbano e rural,FUST,S0019,Urbano e rural,identico,sim,nao
+S0020::Domicílio e arranjo familiar,FUST,S0020,Domicílio e arranjo familiar,identico,sim,nao
+S0020::Gênero,FUST,S0020,Gênero,identico,sim,nao
+S0020::Idade,FUST,S0020,Idade,identico,sim,nao
+S0020::Infraestrutura e porte populacional,FUST,S0020,Infraestrutura e porte populacional,identico,sim,nao
+S0020::Macrorregião,FUST,S0020,Macrorregião,identico,sim,nao
+S0020::Posição no trabalho,FUST,S0020,Posição no trabalho,identico,sim,nao
+S0020::Urbano e rural,FUST,S0020,Urbano e rural,identico,sim,nao
+S0021::Escolaridade e letramento,FUST,S0021,Escolaridade e letramento,identico,sim,nao
+S0022::Domicílio e arranjo familiar,FUST,S0022,Domicílio e arranjo familiar,identico,sim,nao
+S0022::Idade,FUST,S0022,Idade,identico,sim,nao
+S0022::Renda e classe,FUST,S0022,Renda e classe,identico,sim,nao
+S0023::Gênero,FUST,S0023,Gênero,identico,sim,nao
+S0023::Posição no trabalho,FUST,S0023,Posição no trabalho,identico,sim,nao
+S0023::Urbano e rural,FUST,S0023,Urbano e rural,identico,sim,nao
+S0024::Domicílio e arranjo familiar,FUST,S0024,Domicílio e arranjo familiar,identico,sim,nao
+S0024::Macrorregião,FUST,S0024,Macrorregião,identico,sim,nao
+S0024::Posição no trabalho,FUST,S0024,Posição no trabalho,identico,sim,nao
+S0024::Território intraurbano,FUST,S0024,Território intraurbano,identico,sim,nao
+S0025::Educação,FUST,S0025,Educação,identico,sim,nao
+S0025::Posição no trabalho,FUST,S0025,Posição no trabalho,identico,sim,nao
+S0025::Saúde,FUST,S0025,Saúde,identico,sim,nao
+S0025::Urbano e rural,FUST,S0025,Urbano e rural,identico,sim,nao
+S0026::Posição no trabalho,FUST,S0026,Posição no trabalho,identico,sim,nao
+S0027::Macrorregião,FUST,S0027,Macrorregião,identico,sim,nao
+S0027::Urbano e rural,FUST,S0027,Urbano e rural,identico,sim,nao
+S0028::Cultura e informação,FUST,S0028,Cultura e informação,identico,sim,nao
+S0028::Educação,FUST,S0028,Educação,identico,sim,nao
+S0028::Escolaridade e letramento,FUST,S0028,Escolaridade e letramento,identico,sim,nao
+S0028::Idade,FUST,S0028,Idade,identico,sim,nao
+S0028::Macrorregião,FUST,S0028,Macrorregião,identico,sim,nao
+S0029::Posição no trabalho,FUST,S0029,Posição no trabalho,identico,sim,nao
+S0029::Renda e classe,FUST,S0029,Renda e classe,identico,sim,nao
+S0029::Urbano e rural,FUST,S0029,Urbano e rural,identico,sim,nao
+S0030::Domicílio e arranjo familiar,FUST,S0030,Domicílio e arranjo familiar,identico,sim,nao
+S0031::Educação,FUST,S0031,Educação,identico,sim,nao
+S0034::Domicílio e arranjo familiar,FUST,S0034,Domicílio e arranjo familiar,identico,sim,nao
+S0034::Gênero,FUST,S0034,Gênero,identico,sim,nao
+S0034::Idade,FUST,S0034,Idade,identico,sim,nao
+S0034::Macrorregião,FUST,S0034,Macrorregião,identico,sim,nao
+S0034::Saúde,FUST,S0034,Saúde,identico,sim,nao
+S0034::Urbano e rural,FUST,S0034,Urbano e rural,identico,sim,nao
+S0035::Domicílio e arranjo familiar,FUST,S0035,Domicílio e arranjo familiar,identico,sim,nao
+S0036::Domicílio e arranjo familiar,FUST,S0036,Domicílio e arranjo familiar,identico,sim,nao
+S0036::Macrorregião,FUST,S0036,Macrorregião,identico,sim,nao
+S0036::Posição no trabalho,FUST,S0036,Posição no trabalho,identico,sim,nao
+S0036::Urbano e rural,FUST,S0036,Urbano e rural,identico,sim,nao
+S0037::Domicílio e arranjo familiar,FUST,S0037,Domicílio e arranjo familiar,identico,sim,nao
+S0037::Macrorregião,FUST,S0037,Macrorregião,identico,sim,nao
+S0039::Idade,FUST,S0039,Idade,identico,sim,nao
+S0039::Posição no trabalho,FUST,S0039,Posição no trabalho,identico,sim,nao
+S0039::Renda e classe,FUST,S0039,Renda e classe,identico,sim,nao
+S0039::Saúde,FUST,S0039,Saúde,identico,sim,nao
+S0039::Urbano e rural,FUST,S0039,Urbano e rural,identico,sim,nao
+S0040::Idade,FUST,S0040,Idade,identico,sim,nao
+S0040::Posição no trabalho,FUST,S0040,Posição no trabalho,identico,sim,nao
+S0041::Domicílio e arranjo familiar,FUST,S0041,Domicílio e arranjo familiar,identico,sim,nao
+S0041::Gênero,FUST,S0041,Gênero,identico,sim,nao
+S0041::Saúde,FUST,S0041,Saúde,identico,sim,nao
+S0042::Domicílio e arranjo familiar,FUST,S0042,Domicílio e arranjo familiar,identico,sim,nao
+S0042::Macrorregião,FUST,S0042,Macrorregião,identico,sim,nao
+S0042::Renda e classe,FUST,S0042,Renda e classe,identico,sim,nao
+S0043::Macrorregião,FUST,S0043,Macrorregião,identico,sim,nao
+S0043::Posição no trabalho,FUST,S0043,Posição no trabalho,identico,sim,nao
+S0043::Território intraurbano,FUST,S0043,Território intraurbano,identico,sim,nao
+S0044::Domicílio e arranjo familiar,FUST,S0044,Domicílio e arranjo familiar,identico,sim,nao
+S0044::Idade,FUST,S0044,Idade,identico,sim,nao
+S0044::Posição no trabalho,FUST,S0044,Posição no trabalho,identico,sim,nao
+S0044::Renda e classe,FUST,S0044,Renda e classe,identico,sim,nao
+S0046::Posição no trabalho,FUST,S0046,Posição no trabalho,identico,sim,nao
+S0046::Renda e classe,FUST,S0046,Renda e classe,identico,sim,nao
+S0047::Domicílio e arranjo familiar,FUST,S0047,Domicílio e arranjo familiar,identico,sim,nao
+S0047::Idade,FUST,S0047,Idade,identico,sim,nao
+S0047::Infraestrutura e porte populacional,FUST,S0047,Infraestrutura e porte populacional,identico,sim,nao
+S0047::Raça e etnia,FUST,S0047,Raça e etnia,identico,sim,nao
+S0047::Urbano e rural,FUST,S0047,Urbano e rural,identico,sim,nao
+S0048::Domicílio e arranjo familiar,FUST,S0048,Domicílio e arranjo familiar,identico,sim,nao
+S0051::Domicílio e arranjo familiar,FUST,S0051,Domicílio e arranjo familiar,identico,sim,nao
+S0051::Idade,FUST,S0051,Idade,identico,sim,nao
+S0051::Posição no trabalho,FUST,S0051,Posição no trabalho,identico,sim,nao
+S0051::Renda e classe,FUST,S0051,Renda e classe,identico,sim,nao
+S0051::Urbano e rural,FUST,S0051,Urbano e rural,identico,sim,nao
+S0052::Domicílio e arranjo familiar,FUST,S0052,Domicílio e arranjo familiar,identico,sim,nao
+S0052::Educação,FUST,S0052,Educação,identico,sim,nao
+S0052::Idade,FUST,S0052,Idade,identico,sim,nao
+S0052::Infraestrutura e porte populacional,FUST,S0052,Infraestrutura e porte populacional,identico,sim,nao
+S0052::Urbano e rural,FUST,S0052,Urbano e rural,identico,sim,nao
+S0053::Domicílio e arranjo familiar,FUST,S0053,Domicílio e arranjo familiar,identico,sim,nao
+S0053::Idade,FUST,S0053,Idade,identico,sim,nao
+S0053::Renda e classe,FUST,S0053,Renda e classe,identico,sim,nao
+S0054::Administração pública,FUST,S0054,Administração pública,identico,sim,nao
+S0054::Raça e etnia,FUST,S0054,Raça e etnia,identico,sim,nao
+S0054::Urbano e rural,FUST,S0054,Urbano e rural,identico,sim,nao
+S0055::Domicílio e arranjo familiar,FUST,S0055,Domicílio e arranjo familiar,identico,sim,nao
+S0055::Idade,FUST,S0055,Idade,identico,sim,nao
+S0055::Saúde,FUST,S0055,Saúde,identico,sim,nao
+S0055::Urbano e rural,FUST,S0055,Urbano e rural,identico,sim,nao
+S0056::Idade,FUST,S0056,Idade,identico,sim,nao
+S0056::Macrorregião,FUST,S0056,Macrorregião,identico,sim,nao
+S0056::Posição no trabalho,FUST,S0056,Posição no trabalho,identico,sim,nao
+S0056::Raça e etnia,FUST,S0056,Raça e etnia,identico,sim,nao
+S0056::Urbano e rural,FUST,S0056,Urbano e rural,identico,sim,nao
+S0057::Escolaridade e letramento,FUST,S0057,Escolaridade e letramento,identico,sim,nao
+S0057::Idade,FUST,S0057,Idade,identico,sim,nao
+S0058::Domicílio e arranjo familiar,FUST,S0058,Domicílio e arranjo familiar,identico,sim,nao
+S0058::Educação,FUST,S0058,Educação,identico,sim,nao
+S0058::Escolaridade e letramento,FUST,S0058,Escolaridade e letramento,identico,sim,nao
+S0058::Idade,FUST,S0058,Idade,identico,sim,nao
+S0058::Macrorregião,FUST,S0058,Macrorregião,identico,sim,nao
+S0058::Posição no trabalho,FUST,S0058,Posição no trabalho,identico,sim,nao
+S0058::Renda e classe,FUST,S0058,Renda e classe,identico,sim,nao
+S0058::Urbano e rural,FUST,S0058,Urbano e rural,identico,sim,nao
+S0060::Posição no trabalho,FUST,S0060,Posição no trabalho,identico,sim,nao
+S0061::Domicílio e arranjo familiar,FUST,S0061,Domicílio e arranjo familiar,identico,sim,nao
+S0062::Educação,FUST,S0062,Educação,identico,sim,nao
+S0062::Idade,FUST,S0062,Idade,identico,sim,nao
+S0062::Infraestrutura e porte populacional,FUST,S0062,Infraestrutura e porte populacional,identico,sim,nao
+S0062::Macrorregião,FUST,S0062,Macrorregião,identico,sim,nao
+S0062::Posição no trabalho,FUST,S0062,Posição no trabalho,identico,sim,nao
+S0062::Renda e classe,FUST,S0062,Renda e classe,identico,sim,nao
+S0062::Território intraurbano,FUST,S0062,Território intraurbano,identico,sim,nao
+S0063::Posição no trabalho,FUST,S0063,Posição no trabalho,identico,sim,nao
+S0063::Urbano e rural,FUST,S0063,Urbano e rural,identico,sim,nao
+S0064::Posição no trabalho,FUST,S0064,Posição no trabalho,identico,sim,nao
+S0064::Urbano e rural,FUST,S0064,Urbano e rural,identico,sim,nao
+S0068::Macrorregião,FUST,S0068,Macrorregião,identico,sim,nao
+S0068::Urbano e rural,FUST,S0068,Urbano e rural,identico,sim,nao
+S0069::Domicílio e arranjo familiar,FUST,S0069,Domicílio e arranjo familiar,identico,sim,nao
+S0069::Educação,FUST,S0069,Educação,identico,sim,nao
+S0069::Escolaridade e letramento,FUST,S0069,Escolaridade e letramento,identico,sim,nao
+S0069::Idade,FUST,S0069,Idade,identico,sim,nao
+S0069::Renda e classe,FUST,S0069,Renda e classe,identico,sim,nao
+S0070::Cultura e informação,FUST,S0070,Cultura e informação,identico,sim,nao
+S0070::Educação,FUST,S0070,Educação,identico,sim,nao
+S0070::Escolaridade e letramento,FUST,S0070,Escolaridade e letramento,identico,sim,nao
+S0070::Macrorregião,FUST,S0070,Macrorregião,identico,sim,nao
+S0071::Escolaridade e letramento,FUST,S0071,Escolaridade e letramento,identico,sim,nao
+S0071::Macrorregião,FUST,S0071,Macrorregião,identico,sim,nao
+S0071::Posição no trabalho,FUST,S0071,Posição no trabalho,identico,sim,nao
+S0071::Renda e classe,FUST,S0071,Renda e classe,identico,sim,nao
+S0071::Urbano e rural,FUST,S0071,Urbano e rural,identico,sim,nao
+S0072::Educação,FUST,S0072,Educação,identico,sim,nao
+S0072::Escolaridade e letramento,FUST,S0072,Escolaridade e letramento,identico,sim,nao
+S0072::Idade,FUST,S0072,Idade,identico,sim,nao
+S0073::Macrorregião,FUST,S0073,Macrorregião,identico,sim,nao
+S0073::Urbano e rural,FUST,S0073,Urbano e rural,identico,sim,nao
+S0074::Posição no trabalho,FUST,S0074,Posição no trabalho,identico,sim,nao
+S0074::Renda e classe,FUST,S0074,Renda e classe,identico,sim,nao
+S0075::Posição no trabalho,FUST,S0075,Posição no trabalho,identico,sim,nao
+S0075::Território intraurbano,FUST,S0075,Território intraurbano,identico,sim,nao
+S0076::Domicílio e arranjo familiar,FUST,S0076,Domicílio e arranjo familiar,identico,sim,nao
+S0076::Idade,FUST,S0076,Idade,identico,sim,nao
+S0077::Domicílio e arranjo familiar,FUST,S0077,Domicílio e arranjo familiar,identico,sim,nao
+S0077::Educação,FUST,S0077,Educação,identico,sim,nao
+S0077::Escolaridade e letramento,FUST,S0077,Escolaridade e letramento,identico,sim,nao
+S0077::Gênero,FUST,S0077,Gênero,identico,sim,nao
+S0077::Macrorregião,FUST,S0077,Macrorregião,identico,sim,nao
+S0077::Posição no trabalho,FUST,S0077,Posição no trabalho,identico,sim,nao
+S0077::Renda e classe,FUST,S0077,Renda e classe,identico,sim,nao
+S0077::Urbano e rural,FUST,S0077,Urbano e rural,identico,sim,nao
+S0078::Domicílio e arranjo familiar,FUST,S0078,Domicílio e arranjo familiar,identico,sim,nao
+S0078::Macrorregião,FUST,S0078,Macrorregião,identico,sim,nao
+S0078::Posição no trabalho,FUST,S0078,Posição no trabalho,identico,sim,nao
+S0078::Renda e classe,FUST,S0078,Renda e classe,identico,sim,nao
+S0078::Urbano e rural,FUST,S0078,Urbano e rural,identico,sim,nao
+S0079::Macrorregião,FUST,S0079,Macrorregião,identico,sim,nao
+S0079::Posição no trabalho,FUST,S0079,Posição no trabalho,identico,sim,nao
+S0079::Raça e etnia,FUST,S0079,Raça e etnia,identico,sim,nao
+S0080::Macrorregião,FUST,S0080,Macrorregião,identico,sim,nao
+S0080::Renda e classe,FUST,S0080,Renda e classe,identico,sim,nao
+S0081::Domicílio e arranjo familiar,FUST,S0081,Domicílio e arranjo familiar,identico,sim,nao
+S0081::Educação,FUST,S0081,Educação,identico,sim,nao
+S0081::Gênero,FUST,S0081,Gênero,identico,sim,nao
+S0081::Posição no trabalho,FUST,S0081,Posição no trabalho,identico,sim,nao
+S0081::Território intraurbano,FUST,S0081,Território intraurbano,identico,sim,nao
+S0081::Urbano e rural,FUST,S0081,Urbano e rural,identico,sim,nao
+S0084::Domicílio e arranjo familiar,FUST,S0084,Domicílio e arranjo familiar,identico,sim,nao
+S0084::Renda e classe,FUST,S0084,Renda e classe,identico,sim,nao
+S0084::Território intraurbano,FUST,S0084,Território intraurbano,identico,sim,nao
+S0085::Macrorregião,FUST,S0085,Macrorregião,identico,sim,nao
+S0089::Domicílio e arranjo familiar,FUST,S0089,Domicílio e arranjo familiar,identico,sim,nao
+S0089::Posição no trabalho,FUST,S0089,Posição no trabalho,identico,sim,nao
+S0090::Administração pública,FUST,S0090,Administração pública,identico,sim,nao
+S0090::Domicílio e arranjo familiar,FUST,S0090,Domicílio e arranjo familiar,identico,sim,nao
+S0090::Educação,FUST,S0090,Educação,identico,sim,nao
+S0090::Idade,FUST,S0090,Idade,identico,sim,nao
+S0090::Macrorregião,FUST,S0090,Macrorregião,identico,sim,nao
+S0090::Posição no trabalho,FUST,S0090,Posição no trabalho,identico,sim,nao
+S0090::Raça e etnia,FUST,S0090,Raça e etnia,identico,sim,nao
+S0090::Renda e classe,FUST,S0090,Renda e classe,identico,sim,nao
+S0090::Território intraurbano,FUST,S0090,Território intraurbano,identico,sim,nao
+S0090::Urbano e rural,FUST,S0090,Urbano e rural,identico,sim,nao
+S0091::Infraestrutura e porte populacional,FUST,S0091,Infraestrutura e porte populacional,identico,sim,nao
+S0091::Macrorregião,FUST,S0091,Macrorregião,identico,sim,nao
+S0091::Raça e etnia,FUST,S0091,Raça e etnia,identico,sim,nao
+S0092::Macrorregião,FUST,S0092,Macrorregião,identico,sim,nao
+S0092::Renda e classe,FUST,S0092,Renda e classe,identico,sim,nao
+S0094::Macrorregião,FUST,S0094,Macrorregião,identico,sim,nao
+S0096::Administração pública,FUST,S0096,Administração pública,identico,sim,nao
+S0096::Domicílio e arranjo familiar,FUST,S0096,Domicílio e arranjo familiar,identico,sim,nao
+S0096::Posição no trabalho,FUST,S0096,Posição no trabalho,identico,sim,nao
+S0096::Raça e etnia,FUST,S0096,Raça e etnia,identico,sim,nao
+S0097::Domicílio e arranjo familiar,FUST,S0097,Domicílio e arranjo familiar,identico,sim,nao
+S0097::Educação,FUST,S0097,Educação,identico,sim,nao
+S0097::Posição no trabalho,FUST,S0097,Posição no trabalho,identico,sim,nao
+S0097::Saúde,FUST,S0097,Saúde,identico,sim,nao
+S0098::Renda e classe,FUST,S0098,Renda e classe,identico,sim,nao
+S0099::Educação,FUST,S0099,Educação,identico,sim,nao
+S0099::Gênero,FUST,S0099,Gênero,identico,sim,nao
+S0099::Idade,FUST,S0099,Idade,identico,sim,nao
+S0099::Renda e classe,FUST,S0099,Renda e classe,identico,sim,nao
+S0100::Domicílio e arranjo familiar,FUST,S0100,Domicílio e arranjo familiar,identico,sim,nao
+S0100::Educação,FUST,S0100,Educação,identico,sim,nao
+S0100::Escolaridade e letramento,FUST,S0100,Escolaridade e letramento,identico,sim,nao
+S0100::Idade,FUST,S0100,Idade,identico,sim,nao
+S0100::Macrorregião,FUST,S0100,Macrorregião,identico,sim,nao
+S0100::Renda e classe,FUST,S0100,Renda e classe,identico,sim,nao
+S0101::Domicílio e arranjo familiar,FUST,S0101,Domicílio e arranjo familiar,identico,sim,nao
+S0101::Posição no trabalho,FUST,S0101,Posição no trabalho,identico,sim,nao
+S0101::Renda e classe,FUST,S0101,Renda e classe,identico,sim,nao
+S0102::Macrorregião,FUST,S0102,Macrorregião,identico,sim,nao
+S0102::Urbano e rural,FUST,S0102,Urbano e rural,identico,sim,nao
+S0103::Macrorregião,FUST,S0103,Macrorregião,identico,sim,nao
+S0103::Posição no trabalho,FUST,S0103,Posição no trabalho,identico,sim,nao
+S0103::Raça e etnia,FUST,S0103,Raça e etnia,identico,sim,nao
+S0103::Urbano e rural,FUST,S0103,Urbano e rural,identico,sim,nao
+S0104::Idade,FUST,S0104,Idade,identico,sim,nao
+S0104::Raça e etnia,FUST,S0104,Raça e etnia,identico,sim,nao
+S0105::Domicílio e arranjo familiar,FUST,S0105,Domicílio e arranjo familiar,identico,sim,nao
+S0105::Educação,FUST,S0105,Educação,identico,sim,nao
+S0105::Idade,FUST,S0105,Idade,identico,sim,nao
+S0105::Infraestrutura e porte populacional,FUST,S0105,Infraestrutura e porte populacional,identico,sim,nao
+S0105::Posição no trabalho,FUST,S0105,Posição no trabalho,identico,sim,nao
+S0105::Renda e classe,FUST,S0105,Renda e classe,identico,sim,nao
+S0106::Domicílio e arranjo familiar,FUST,S0106,Domicílio e arranjo familiar,identico,sim,nao
+S0108::Educação,FUST,S0108,Educação,identico,sim,nao
+S0108::Urbano e rural,FUST,S0108,Urbano e rural,identico,sim,nao
+S0110::Domicílio e arranjo familiar,FUST,S0110,Domicílio e arranjo familiar,identico,sim,nao
+S0110::Macrorregião,FUST,S0110,Macrorregião,identico,sim,nao
+S0110::Renda e classe,FUST,S0110,Renda e classe,identico,sim,nao
+S0112::Idade,FUST,S0112,Idade,identico,sim,nao
+S0112::Posição no trabalho,FUST,S0112,Posição no trabalho,identico,sim,nao
+S0114::Educação,FUST,S0114,Educação,identico,sim,nao
+S0114::Macrorregião,FUST,S0114,Macrorregião,identico,sim,nao
+S0114::Urbano e rural,FUST,S0114,Urbano e rural,identico,sim,nao
+S0115::Macrorregião,FUST,S0115,Macrorregião,identico,sim,nao
+S0115::Renda e classe,FUST,S0115,Renda e classe,identico,sim,nao
+S0115::Urbano e rural,FUST,S0115,Urbano e rural,identico,sim,nao
+S0116::Macrorregião,FUST,S0116,Macrorregião,identico,sim,nao
+S0116::Raça e etnia,FUST,S0116,Raça e etnia,identico,sim,nao
+S0116::Urbano e rural,FUST,S0116,Urbano e rural,identico,sim,nao
+S0117::Idade,FUST,S0117,Idade,identico,sim,nao
+S0118::Posição no trabalho,FUST,S0118,Posição no trabalho,identico,sim,nao
+S0120::Domicílio e arranjo familiar,FUST,S0120,Domicílio e arranjo familiar,identico,sim,nao
+S0120::Educação,FUST,S0120,Educação,identico,sim,nao
+S0120::Gênero,FUST,S0120,Gênero,identico,sim,nao
+S0120::Idade,FUST,S0120,Idade,identico,sim,nao
+S0120::Posição no trabalho,FUST,S0120,Posição no trabalho,identico,sim,nao
+S0120::Saúde,FUST,S0120,Saúde,identico,sim,nao
+S0121::Domicílio e arranjo familiar,FUST,S0121,Domicílio e arranjo familiar,identico,sim,nao
+S0121::Urbano e rural,FUST,S0121,Urbano e rural,identico,sim,nao
+S0122::Urbano e rural,FUST,S0122,Urbano e rural,identico,sim,nao
+S0123::Educação,FUST,S0123,Educação,identico,sim,nao
+S0123::Macrorregião,FUST,S0123,Macrorregião,identico,sim,nao
+S0124::Macrorregião,FUST,S0124,Macrorregião,identico,sim,nao
+S0124::Posição no trabalho,FUST,S0124,Posição no trabalho,identico,sim,nao
+S0124::Saúde,FUST,S0124,Saúde,identico,sim,nao
+S0125::Posição no trabalho,FUST,S0125,Posição no trabalho,identico,sim,nao
+S0126::Raça e etnia,FUST,S0126,Raça e etnia,identico,sim,nao
+S0128::Domicílio e arranjo familiar,FUST,S0128,Domicílio e arranjo familiar,identico,sim,nao
+S0129::Domicílio e arranjo familiar,FUST,S0129,Domicílio e arranjo familiar,identico,sim,nao
+S0129::Posição no trabalho,FUST,S0129,Posição no trabalho,identico,sim,nao
+S0129::Raça e etnia,FUST,S0129,Raça e etnia,identico,sim,nao
+S0130::Administração pública,FUST,S0130,Administração pública,identico,sim,nao
+S0130::Educação,FUST,S0130,Educação,identico,sim,nao
+S0130::Escolaridade e letramento,FUST,S0130,Escolaridade e letramento,identico,sim,nao
+S0130::Idade,FUST,S0130,Idade,identico,sim,nao
+S0130::Macrorregião,FUST,S0130,Macrorregião,identico,sim,nao
+S0130::Posição no trabalho,FUST,S0130,Posição no trabalho,identico,sim,nao
+S0130::Renda e classe,FUST,S0130,Renda e classe,identico,sim,nao
+S0131::Domicílio e arranjo familiar,FUST,S0131,Domicílio e arranjo familiar,identico,sim,nao
+S0131::Gênero,FUST,S0131,Gênero,identico,sim,nao
+S0131::Posição no trabalho,FUST,S0131,Posição no trabalho,identico,sim,nao
+S0132::Escolaridade e letramento,FUST,S0132,Escolaridade e letramento,identico,sim,nao
+S0132::Macrorregião,FUST,S0132,Macrorregião,identico,sim,nao
+S0132::Renda e classe,FUST,S0132,Renda e classe,identico,sim,nao
+S0132::Urbano e rural,FUST,S0132,Urbano e rural,identico,sim,nao
+S0133::Educação,FUST,S0133,Educação,identico,sim,nao
+S0133::Escolaridade e letramento,FUST,S0133,Escolaridade e letramento,identico,sim,nao
+S0133::Idade,FUST,S0133,Idade,identico,sim,nao
+S0133::Renda e classe,FUST,S0133,Renda e classe,identico,sim,nao
+S0134::Infraestrutura e porte populacional,FUST,S0134,Infraestrutura e porte populacional,identico,sim,nao
+S0134::Macrorregião,FUST,S0134,Macrorregião,identico,sim,nao
+S0134::Posição no trabalho,FUST,S0134,Posição no trabalho,identico,sim,nao
+S0134::Renda e classe,FUST,S0134,Renda e classe,identico,sim,nao
+S0135::Renda e classe,FUST,S0135,Renda e classe,identico,sim,nao
+S0136::Escolaridade e letramento,FUST,S0136,Escolaridade e letramento,identico,sim,nao
+S0136::Idade,FUST,S0136,Idade,identico,sim,nao
+S0136::Macrorregião,FUST,S0136,Macrorregião,identico,sim,nao
+S0136::Posição no trabalho,FUST,S0136,Posição no trabalho,identico,sim,nao
+S0137::Urbano e rural,FUST,S0137,Urbano e rural,identico,sim,nao
+S0138::Idade,FUST,S0138,Idade,identico,sim,nao
+S0138::Posição no trabalho,FUST,S0138,Posição no trabalho,identico,sim,nao
+S0138::Renda e classe,FUST,S0138,Renda e classe,identico,sim,nao
+S0138::Urbano e rural,FUST,S0138,Urbano e rural,identico,sim,nao
+S0139::Domicílio e arranjo familiar,FUST,S0139,Domicílio e arranjo familiar,identico,sim,nao
+S0139::Educação,FUST,S0139,Educação,identico,sim,nao
+S0139::Escolaridade e letramento,FUST,S0139,Escolaridade e letramento,identico,sim,nao
+S0139::Idade,FUST,S0139,Idade,identico,sim,nao
+S0139::Macrorregião,FUST,S0139,Macrorregião,identico,sim,nao
+S0139::Renda e classe,FUST,S0139,Renda e classe,identico,sim,nao
+S0139::Urbano e rural,FUST,S0139,Urbano e rural,identico,sim,nao
+S0140::Domicílio e arranjo familiar,FUST,S0140,Domicílio e arranjo familiar,identico,sim,nao
+S0140::Posição no trabalho,FUST,S0140,Posição no trabalho,identico,sim,nao
+S0140::Renda e classe,FUST,S0140,Renda e classe,identico,sim,nao
+S0140::Território intraurbano,FUST,S0140,Território intraurbano,identico,sim,nao
+S0140::Urbano e rural,FUST,S0140,Urbano e rural,identico,sim,nao
+S0141::Domicílio e arranjo familiar,FUST,S0141,Domicílio e arranjo familiar,identico,sim,nao
+S0142::Domicílio e arranjo familiar,FUST,S0142,Domicílio e arranjo familiar,identico,sim,nao
+S0142::Educação,FUST,S0142,Educação,identico,sim,nao
+S0142::Posição no trabalho,FUST,S0142,Posição no trabalho,identico,sim,nao
+S0142::Saúde,FUST,S0142,Saúde,identico,sim,nao
+S0142::Urbano e rural,FUST,S0142,Urbano e rural,identico,sim,nao
+S0143::Domicílio e arranjo familiar,FUST,S0143,Domicílio e arranjo familiar,identico,sim,nao
+S0143::Gênero,FUST,S0143,Gênero,identico,sim,nao
+S0143::Idade,FUST,S0143,Idade,identico,sim,nao
+S0143::Posição no trabalho,FUST,S0143,Posição no trabalho,identico,sim,nao
+S0143::Renda e classe,FUST,S0143,Renda e classe,identico,sim,nao
+S0145::Posição no trabalho,FUST,S0145,Posição no trabalho,identico,sim,nao
+S0146::Administração pública,FUST,S0146,Administração pública,identico,sim,nao
+S0146::Renda e classe,FUST,S0146,Renda e classe,identico,sim,nao
+S0146::Território intraurbano,FUST,S0146,Território intraurbano,identico,sim,nao
+S0147::Macrorregião,FUST,S0147,Macrorregião,identico,sim,nao
+S0147::Renda e classe,FUST,S0147,Renda e classe,identico,sim,nao
+S0148::Domicílio e arranjo familiar,FUST,S0148,Domicílio e arranjo familiar,identico,sim,nao
+S0148::Posição no trabalho,FUST,S0148,Posição no trabalho,identico,sim,nao
+S0148::Raça e etnia,FUST,S0148,Raça e etnia,identico,sim,nao
+S0148::Urbano e rural,FUST,S0148,Urbano e rural,identico,sim,nao
+S0149::Macrorregião,FUST,S0149,Macrorregião,identico,sim,nao
+S0149::Posição no trabalho,FUST,S0149,Posição no trabalho,identico,sim,nao
+S0149::Renda e classe,FUST,S0149,Renda e classe,identico,sim,nao
+S0149::Urbano e rural,FUST,S0149,Urbano e rural,identico,sim,nao
+S0150::Domicílio e arranjo familiar,FUST,S0150,Domicílio e arranjo familiar,identico,sim,nao
+S0150::Idade,FUST,S0150,Idade,identico,sim,nao
+S0150::Posição no trabalho,FUST,S0150,Posição no trabalho,identico,sim,nao
+S0151::Urbano e rural,FUST,S0151,Urbano e rural,identico,sim,nao
+S0152::Domicílio e arranjo familiar,FUST,S0152,Domicílio e arranjo familiar,identico,sim,nao
+S0152::Educação,FUST,S0152,Educação,identico,sim,nao
+S0152::Posição no trabalho,FUST,S0152,Posição no trabalho,identico,sim,nao
+S0152::Renda e classe,FUST,S0152,Renda e classe,identico,sim,nao
+S0152::Urbano e rural,FUST,S0152,Urbano e rural,identico,sim,nao
+S0153::Posição no trabalho,FUST,S0153,Posição no trabalho,identico,sim,nao
+S0153::Renda e classe,FUST,S0153,Renda e classe,identico,sim,nao
+S0154::Domicílio e arranjo familiar,FUST,S0154,Domicílio e arranjo familiar,identico,sim,nao
+S0154::Infraestrutura e porte populacional,FUST,S0154,Infraestrutura e porte populacional,identico,sim,nao
+S0154::Posição no trabalho,FUST,S0154,Posição no trabalho,identico,sim,nao
+S0154::Renda e classe,FUST,S0154,Renda e classe,identico,sim,nao
+S0155::Infraestrutura e porte populacional,FUST,S0155,Infraestrutura e porte populacional,identico,sim,nao
+S0155::Macrorregião,FUST,S0155,Macrorregião,identico,sim,nao
+S0155::Renda e classe,FUST,S0155,Renda e classe,identico,sim,nao
+S0156::Cultura e informação,FUST,S0156,Cultura e informação,identico,sim,nao
+S0156::Infraestrutura e porte populacional,FUST,S0156,Infraestrutura e porte populacional,identico,sim,nao
+S0156::Macrorregião,FUST,S0156,Macrorregião,identico,sim,nao
+S0156::Raça e etnia,FUST,S0156,Raça e etnia,identico,sim,nao
+S0156::Urbano e rural,FUST,S0156,Urbano e rural,identico,sim,nao
+S0157::Domicílio e arranjo familiar,FUST,S0157,Domicílio e arranjo familiar,identico,sim,nao
+S0157::Escolaridade e letramento,FUST,S0157,Escolaridade e letramento,identico,sim,nao
+S0157::Infraestrutura e porte populacional,FUST,S0157,Infraestrutura e porte populacional,identico,sim,nao
+S0157::Macrorregião,FUST,S0157,Macrorregião,identico,sim,nao
+S0157::Renda e classe,FUST,S0157,Renda e classe,identico,sim,nao
+S0157::Urbano e rural,FUST,S0157,Urbano e rural,identico,sim,nao
+S0158::Idade,FUST,S0158,Idade,identico,sim,nao
+S0158::Posição no trabalho,FUST,S0158,Posição no trabalho,identico,sim,nao
+S0159::Domicílio e arranjo familiar,FUST,S0159,Domicílio e arranjo familiar,identico,sim,nao
+S0159::Educação,FUST,S0159,Educação,identico,sim,nao
+S0159::Saúde,FUST,S0159,Saúde,identico,sim,nao
+S0160::Domicílio e arranjo familiar,FUST,S0160,Domicílio e arranjo familiar,identico,sim,nao
+S0160::Educação,FUST,S0160,Educação,identico,sim,nao
+S0160::Escolaridade e letramento,FUST,S0160,Escolaridade e letramento,identico,sim,nao
+S0160::Idade,FUST,S0160,Idade,identico,sim,nao
+S0160::Posição no trabalho,FUST,S0160,Posição no trabalho,identico,sim,nao
+S0160::Renda e classe,FUST,S0160,Renda e classe,identico,sim,nao
+S0160::Urbano e rural,FUST,S0160,Urbano e rural,identico,sim,nao
+S0161::Educação,FUST,S0161,Educação,identico,sim,nao
+S0161::Escolaridade e letramento,FUST,S0161,Escolaridade e letramento,identico,sim,nao
+S0161::Posição no trabalho,FUST,S0161,Posição no trabalho,identico,sim,nao
+S0162::Domicílio e arranjo familiar,FUST,S0162,Domicílio e arranjo familiar,identico,sim,nao
+S0162::Macrorregião,FUST,S0162,Macrorregião,identico,sim,nao
+S0162::Posição no trabalho,FUST,S0162,Posição no trabalho,identico,sim,nao
+S0162::Renda e classe,FUST,S0162,Renda e classe,identico,sim,nao
+S0163::Domicílio e arranjo familiar,FUST,S0163,Domicílio e arranjo familiar,identico,sim,nao
+S0164::Macrorregião,FUST,S0164,Macrorregião,identico,sim,nao
+S0164::Urbano e rural,FUST,S0164,Urbano e rural,identico,sim,nao
+S0165::Domicílio e arranjo familiar,FUST,S0165,Domicílio e arranjo familiar,identico,sim,nao
+S0165::Educação,FUST,S0165,Educação,identico,sim,nao
+S0165::Gênero,FUST,S0165,Gênero,identico,sim,nao
+S0165::Idade,FUST,S0165,Idade,identico,sim,nao
+S0165::Macrorregião,FUST,S0165,Macrorregião,identico,sim,nao
+S0165::Posição no trabalho,FUST,S0165,Posição no trabalho,identico,sim,nao
+S0165::Renda e classe,FUST,S0165,Renda e classe,identico,sim,nao
+S0165::Saúde,FUST,S0165,Saúde,identico,sim,nao
+S0165::Território intraurbano,FUST,S0165,Território intraurbano,identico,sim,nao
+S0165::Urbano e rural,FUST,S0165,Urbano e rural,identico,sim,nao
+S0166::Macrorregião,FUST,S0166,Macrorregião,identico,sim,nao
+S0166::Urbano e rural,FUST,S0166,Urbano e rural,identico,sim,nao
+S0167::Administração pública,FUST,S0167,Administração pública,identico,sim,nao
+S0167::Domicílio e arranjo familiar,FUST,S0167,Domicílio e arranjo familiar,identico,sim,nao
+S0167::Idade,FUST,S0167,Idade,identico,sim,nao
+S0167::Posição no trabalho,FUST,S0167,Posição no trabalho,identico,sim,nao
+S0167::Renda e classe,FUST,S0167,Renda e classe,identico,sim,nao
+S0168::Macrorregião,FUST,S0168,Macrorregião,identico,sim,nao
+S0169::Administração pública,FUST,S0169,Administração pública,identico,sim,nao
+S0169::Posição no trabalho,FUST,S0169,Posição no trabalho,identico,sim,nao
+S0169::Urbano e rural,FUST,S0169,Urbano e rural,identico,sim,nao
+S0170::Infraestrutura e porte populacional,FUST,S0170,Infraestrutura e porte populacional,identico,sim,nao
+S0171::Administração pública,FUST,S0171,Administração pública,identico,sim,nao
+S0171::Escolaridade e letramento,FUST,S0171,Escolaridade e letramento,identico,sim,nao
+S0172::Macrorregião,FUST,S0172,Macrorregião,identico,sim,nao
+S0172::Renda e classe,FUST,S0172,Renda e classe,identico,sim,nao
+S0173::Administração pública,FUST,S0173,Administração pública,identico,sim,nao
+S0173::Domicílio e arranjo familiar,FUST,S0173,Domicílio e arranjo familiar,identico,sim,nao
+S0173::Idade,FUST,S0173,Idade,identico,sim,nao
+S0173::Macrorregião,FUST,S0173,Macrorregião,identico,sim,nao
+S0173::Renda e classe,FUST,S0173,Renda e classe,identico,sim,nao
+S0173::Urbano e rural,FUST,S0173,Urbano e rural,identico,sim,nao
+S0174::Domicílio e arranjo familiar,FUST,S0174,Domicílio e arranjo familiar,identico,sim,nao
+S0174::Idade,FUST,S0174,Idade,identico,sim,nao
+S0174::Posição no trabalho,FUST,S0174,Posição no trabalho,identico,sim,nao
+S0174::Renda e classe,FUST,S0174,Renda e classe,identico,sim,nao
+S0174::Território intraurbano,FUST,S0174,Território intraurbano,identico,sim,nao
+S0174::Urbano e rural,FUST,S0174,Urbano e rural,identico,sim,nao
+S0176::Administração pública,FUST,S0176,Administração pública,identico,sim,nao
+S0176::Idade,FUST,S0176,Idade,identico,sim,nao
+S0176::Renda e classe,FUST,S0176,Renda e classe,identico,sim,nao
+S0177::Domicílio e arranjo familiar,FUST,S0177,Domicílio e arranjo familiar,identico,sim,nao
+S0177::Renda e classe,FUST,S0177,Renda e classe,identico,sim,nao
+S0178::Renda e classe,FUST,S0178,Renda e classe,identico,sim,nao
+S0179::Domicílio e arranjo familiar,FUST,S0179,Domicílio e arranjo familiar,identico,sim,nao
+S0179::Educação,FUST,S0179,Educação,identico,sim,nao
+S0179::Escolaridade e letramento,FUST,S0179,Escolaridade e letramento,identico,sim,nao
+S0179::Idade,FUST,S0179,Idade,identico,sim,nao
+S0179::Macrorregião,FUST,S0179,Macrorregião,identico,sim,nao
+S0179::Posição no trabalho,FUST,S0179,Posição no trabalho,identico,sim,nao
+S0179::Renda e classe,FUST,S0179,Renda e classe,identico,sim,nao
+S0179::Urbano e rural,FUST,S0179,Urbano e rural,identico,sim,nao
+S0180::Macrorregião,FUST,S0180,Macrorregião,identico,sim,nao
+S0180::Renda e classe,FUST,S0180,Renda e classe,identico,sim,nao
+S0180::Urbano e rural,FUST,S0180,Urbano e rural,identico,sim,nao
+S0181::Administração pública,FUST,S0181,Administração pública,identico,sim,nao
+S0181::Domicílio e arranjo familiar,FUST,S0181,Domicílio e arranjo familiar,identico,sim,nao
+S0181::Educação,FUST,S0181,Educação,identico,sim,nao
+S0181::Escolaridade e letramento,FUST,S0181,Escolaridade e letramento,identico,sim,nao
+S0181::Idade,FUST,S0181,Idade,identico,sim,nao
+S0181::Infraestrutura e porte populacional,FUST,S0181,Infraestrutura e porte populacional,identico,sim,nao
+S0181::Posição no trabalho,FUST,S0181,Posição no trabalho,identico,sim,nao
+S0181::Urbano e rural,FUST,S0181,Urbano e rural,identico,sim,nao
+S0182::Renda e classe,FUST,S0182,Renda e classe,identico,sim,nao
+S0183::Escolaridade e letramento,FUST,S0183,Escolaridade e letramento,identico,sim,nao
+S0183::Gênero,FUST,S0183,Gênero,identico,sim,nao
+S0183::Idade,FUST,S0183,Idade,identico,sim,nao
+S0183::Posição no trabalho,FUST,S0183,Posição no trabalho,identico,sim,nao
+S0183::Renda e classe,FUST,S0183,Renda e classe,identico,sim,nao
+S0183::Urbano e rural,FUST,S0183,Urbano e rural,identico,sim,nao
+S0184::Administração pública,FUST,S0184,Administração pública,identico,sim,nao
+S0184::Posição no trabalho,FUST,S0184,Posição no trabalho,identico,sim,nao
+S0184::Renda e classe,FUST,S0184,Renda e classe,identico,sim,nao
+S0186::Posição no trabalho,FUST,S0186,Posição no trabalho,identico,sim,nao
+S0186::Urbano e rural,FUST,S0186,Urbano e rural,identico,sim,nao
+S0187::Domicílio e arranjo familiar,FUST,S0187,Domicílio e arranjo familiar,identico,sim,nao
+S0187::Idade,FUST,S0187,Idade,identico,sim,nao
+S0187::Macrorregião,FUST,S0187,Macrorregião,identico,sim,nao
+S0187::Posição no trabalho,FUST,S0187,Posição no trabalho,identico,sim,nao
+S0187::Renda e classe,FUST,S0187,Renda e classe,identico,sim,nao
+S0187::Urbano e rural,FUST,S0187,Urbano e rural,identico,sim,nao
+S0188::Macrorregião,FUST,S0188,Macrorregião,identico,sim,nao
+S0188::Urbano e rural,FUST,S0188,Urbano e rural,identico,sim,nao
+S0189::Domicílio e arranjo familiar,FUST,S0189,Domicílio e arranjo familiar,identico,sim,nao
+S0189::Educação,FUST,S0189,Educação,identico,sim,nao
+S0189::Gênero,FUST,S0189,Gênero,identico,sim,nao
+S0189::Idade,FUST,S0189,Idade,identico,sim,nao
+S0189::Macrorregião,FUST,S0189,Macrorregião,identico,sim,nao
+S0189::Posição no trabalho,FUST,S0189,Posição no trabalho,identico,sim,nao
+S0189::Renda e classe,FUST,S0189,Renda e classe,identico,sim,nao
+S0189::Saúde,FUST,S0189,Saúde,identico,sim,nao
+S0191::Posição no trabalho,FUST,S0191,Posição no trabalho,identico,sim,nao
+S0191::Urbano e rural,FUST,S0191,Urbano e rural,identico,sim,nao
+S0192::Macrorregião,FUST,S0192,Macrorregião,identico,sim,nao
+S0193::Renda e classe,FUST,S0193,Renda e classe,identico,sim,nao
+S0193::Urbano e rural,FUST,S0193,Urbano e rural,identico,sim,nao
+S0195::Renda e classe,FUST,S0195,Renda e classe,identico,sim,nao
+S0195::Urbano e rural,FUST,S0195,Urbano e rural,identico,sim,nao
+S0196::Administração pública,FUST,S0196,Administração pública,identico,sim,nao
+S0196::Educação,FUST,S0196,Educação,identico,sim,nao
+S0196::Infraestrutura e porte populacional,FUST,S0196,Infraestrutura e porte populacional,identico,sim,nao
+S0196::Macrorregião,FUST,S0196,Macrorregião,identico,sim,nao
+S0196::Posição no trabalho,FUST,S0196,Posição no trabalho,identico,sim,nao
+S0196::Renda e classe,FUST,S0196,Renda e classe,identico,sim,nao
+S0196::Urbano e rural,FUST,S0196,Urbano e rural,identico,sim,nao
+S0197::Domicílio e arranjo familiar,FUST,S0197,Domicílio e arranjo familiar,identico,sim,nao
+S0197::Gênero,FUST,S0197,Gênero,identico,sim,nao
+S0197::Idade,FUST,S0197,Idade,identico,sim,nao
+S0197::Macrorregião,FUST,S0197,Macrorregião,identico,sim,nao
+S0197::Renda e classe,FUST,S0197,Renda e classe,identico,sim,nao
+S0197::Urbano e rural,FUST,S0197,Urbano e rural,identico,sim,nao
+S0198::Posição no trabalho,FUST,S0198,Posição no trabalho,identico,sim,nao
+S0199::Educação,FUST,S0199,Educação,identico,sim,nao
+S0199::Escolaridade e letramento,FUST,S0199,Escolaridade e letramento,identico,sim,nao
+S0199::Macrorregião,FUST,S0199,Macrorregião,identico,sim,nao
+S0199::Posição no trabalho,FUST,S0199,Posição no trabalho,identico,sim,nao
+S0199::Renda e classe,FUST,S0199,Renda e classe,identico,sim,nao
+S0200::Administração pública,FUST,S0200,Administração pública,identico,sim,nao
+S0200::Domicílio e arranjo familiar,FUST,S0200,Domicílio e arranjo familiar,identico,sim,nao
+S0200::Educação,FUST,S0200,Educação,identico,sim,nao
+S0200::Escolaridade e letramento,FUST,S0200,Escolaridade e letramento,identico,sim,nao
+S0200::Gênero,FUST,S0200,Gênero,identico,sim,nao
+S0200::Macrorregião,FUST,S0200,Macrorregião,identico,sim,nao
+S0200::Renda e classe,FUST,S0200,Renda e classe,identico,sim,nao
+S0201::Macrorregião,FUST,S0201,Macrorregião,identico,sim,nao
+S0201::Urbano e rural,FUST,S0201,Urbano e rural,identico,sim,nao
+S0203::Domicílio e arranjo familiar,FUST,S0203,Domicílio e arranjo familiar,identico,sim,nao
+S0203::Posição no trabalho,FUST,S0203,Posição no trabalho,identico,sim,nao
+S0204::Domicílio e arranjo familiar,FUST,S0204,Domicílio e arranjo familiar,identico,sim,nao
+S0204::Posição no trabalho,FUST,S0204,Posição no trabalho,identico,sim,nao
+S0204::Renda e classe,FUST,S0204,Renda e classe,identico,sim,nao
+S0205::Educação,FUST,S0205,Educação,identico,sim,nao
+S0205::Posição no trabalho,FUST,S0205,Posição no trabalho,identico,sim,nao
+S0206::Administração pública,FUST,S0206,Administração pública,identico,sim,nao
+S0206::Domicílio e arranjo familiar,FUST,S0206,Domicílio e arranjo familiar,identico,sim,nao
+S0206::Macrorregião,FUST,S0206,Macrorregião,identico,sim,nao
+S0206::Renda e classe,FUST,S0206,Renda e classe,identico,sim,nao
+S0206::Saúde,FUST,S0206,Saúde,identico,sim,nao
+S0207::Posição no trabalho,FUST,S0207,Posição no trabalho,identico,sim,nao
+S0208::Cultura e informação,FUST,S0208,Cultura e informação,identico,sim,nao
+S0208::Domicílio e arranjo familiar,FUST,S0208,Domicílio e arranjo familiar,identico,sim,nao
+S0208::Posição no trabalho,FUST,S0208,Posição no trabalho,identico,sim,nao
+S0209::Domicílio e arranjo familiar,FUST,S0209,Domicílio e arranjo familiar,identico,sim,nao
+S0209::Idade,FUST,S0209,Idade,identico,sim,nao
+S0209::Macrorregião,FUST,S0209,Macrorregião,identico,sim,nao
+S0209::Renda e classe,FUST,S0209,Renda e classe,identico,sim,nao
+S0210::Domicílio e arranjo familiar,FUST,S0210,Domicílio e arranjo familiar,identico,sim,nao
+S0210::Educação,FUST,S0210,Educação,identico,sim,nao
+S0210::Escolaridade e letramento,FUST,S0210,Escolaridade e letramento,identico,sim,nao
+S0210::Idade,FUST,S0210,Idade,identico,sim,nao
+S0210::Posição no trabalho,FUST,S0210,Posição no trabalho,identico,sim,nao
+S0210::Renda e classe,FUST,S0210,Renda e classe,identico,sim,nao
+S0210::Saúde e deficiência,FUST,S0210,Saúde e deficiência,identico,sim,nao
+S0210::Urbano e rural,FUST,S0210,Urbano e rural,identico,sim,nao
+S0211::Domicílio e arranjo familiar,FUST,S0211,Domicílio e arranjo familiar,identico,sim,nao
+S0211::Educação,FUST,S0211,Educação,identico,sim,nao
+S0211::Escolaridade e letramento,FUST,S0211,Escolaridade e letramento,identico,sim,nao
+S0211::Idade,FUST,S0211,Idade,identico,sim,nao
+S0211::Posição no trabalho,FUST,S0211,Posição no trabalho,identico,sim,nao
+S0211::Renda e classe,FUST,S0211,Renda e classe,identico,sim,nao
+S0211::Urbano e rural,FUST,S0211,Urbano e rural,identico,sim,nao
+S0212::Domicílio e arranjo familiar,FUST,S0212,Domicílio e arranjo familiar,identico,sim,nao
+S0212::Posição no trabalho,FUST,S0212,Posição no trabalho,identico,sim,nao
+S0212::Urbano e rural,FUST,S0212,Urbano e rural,identico,sim,nao
+S0213::Domicílio e arranjo familiar,FUST,S0213,Domicílio e arranjo familiar,identico,sim,nao
+S0213::Macrorregião,FUST,S0213,Macrorregião,identico,sim,nao
+S0214::Posição no trabalho,FUST,S0214,Posição no trabalho,identico,sim,nao
+S0214::Renda e classe,FUST,S0214,Renda e classe,identico,sim,nao
+S0216::Macrorregião,FUST,S0216,Macrorregião,identico,sim,nao
+S0216::Renda e classe,FUST,S0216,Renda e classe,identico,sim,nao
+S0216::Saúde,FUST,S0216,Saúde,identico,sim,nao
+S0217::Posição no trabalho,FUST,S0217,Posição no trabalho,identico,sim,nao
+S0218::Domicílio e arranjo familiar,FUST,S0218,Domicílio e arranjo familiar,identico,sim,nao
+S0218::Idade,FUST,S0218,Idade,identico,sim,nao
+S0218::Renda e classe,FUST,S0218,Renda e classe,identico,sim,nao
+S0219::Idade,FUST,S0219,Idade,identico,sim,nao
+S0219::Posição no trabalho,FUST,S0219,Posição no trabalho,identico,sim,nao
+S0219::Raça e etnia,FUST,S0219,Raça e etnia,identico,sim,nao
+S0220::Administração pública,FUST,S0220,Administração pública,identico,sim,nao
+S0221::Cultura e informação,FUST,S0221,Cultura e informação,identico,sim,nao
+S0221::Domicílio e arranjo familiar,FUST,S0221,Domicílio e arranjo familiar,identico,sim,nao
+S0221::Educação,FUST,S0221,Educação,identico,sim,nao
+S0221::Idade,FUST,S0221,Idade,identico,sim,nao
+S0221::Infraestrutura e porte populacional,FUST,S0221,Infraestrutura e porte populacional,identico,sim,nao
+S0221::Macrorregião,FUST,S0221,Macrorregião,identico,sim,nao
+S0221::Raça e etnia,FUST,S0221,Raça e etnia,identico,sim,nao
+S0221::Renda e classe,FUST,S0221,Renda e classe,identico,sim,nao
+S0221::Território intraurbano,FUST,S0221,Território intraurbano,identico,sim,nao
+S0221::Territórios de povos e comunidades tradicionais,FUST,S0221,Territórios de povos e comunidades tradicionais,identico,sim,nao
+S0222::Macrorregião,FUST,S0222,Macrorregião,identico,sim,nao
+S0222::Posição no trabalho,FUST,S0222,Posição no trabalho,identico,sim,nao
+S0222::Renda e classe,FUST,S0222,Renda e classe,identico,sim,nao
+S0223::Macrorregião,FUST,S0223,Macrorregião,identico,sim,nao
+S0223::Posição no trabalho,FUST,S0223,Posição no trabalho,identico,sim,nao
+S0224::Domicílio e arranjo familiar,FUST,S0224,Domicílio e arranjo familiar,identico,sim,nao
+S0224::Educação,FUST,S0224,Educação,identico,sim,nao
+S0224::Renda e classe,FUST,S0224,Renda e classe,identico,sim,nao
+S0224::Urbano e rural,FUST,S0224,Urbano e rural,identico,sim,nao
+S0225::Domicílio e arranjo familiar,FUST,S0225,Domicílio e arranjo familiar,identico,sim,nao
+S0225::Educação,FUST,S0225,Educação,identico,sim,nao
+S0225::Escolaridade e letramento,FUST,S0225,Escolaridade e letramento,identico,sim,nao
+S0225::Gênero,FUST,S0225,Gênero,identico,sim,nao
+S0225::Idade,FUST,S0225,Idade,identico,sim,nao
+S0225::Macrorregião,FUST,S0225,Macrorregião,identico,sim,nao
+S0225::Posição no trabalho,FUST,S0225,Posição no trabalho,identico,sim,nao
+S0225::Renda e classe,FUST,S0225,Renda e classe,identico,sim,nao
+S0225::Saúde,FUST,S0225,Saúde,identico,sim,nao
+S0225::Território intraurbano,FUST,S0225,Território intraurbano,identico,sim,nao
+S0225::Territórios de povos e comunidades tradicionais,FUST,S0225,Territórios de povos e comunidades tradicionais,identico,sim,nao
+S0226::Macrorregião,FUST,S0226,Macrorregião,identico,sim,nao
+S0226::Urbano e rural,FUST,S0226,Urbano e rural,identico,sim,nao
+S0227::Domicílio e arranjo familiar,FUST,S0227,Domicílio e arranjo familiar,identico,sim,nao
+S0227::Educação,FUST,S0227,Educação,identico,sim,nao
+S0227::Idade,FUST,S0227,Idade,identico,sim,nao
+S0227::Renda e classe,FUST,S0227,Renda e classe,identico,sim,nao
+S0228::Domicílio e arranjo familiar,FUST,S0228,Domicílio e arranjo familiar,identico,sim,nao
+S0228::Educação,FUST,S0228,Educação,identico,sim,nao
+S0228::Idade,FUST,S0228,Idade,identico,sim,nao
+S0228::Macrorregião,FUST,S0228,Macrorregião,identico,sim,nao
+S0228::Posição no trabalho,FUST,S0228,Posição no trabalho,identico,sim,nao
+S0228::Renda e classe,FUST,S0228,Renda e classe,identico,sim,nao
+S0229::Domicílio e arranjo familiar,FUST,S0229,Domicílio e arranjo familiar,identico,sim,nao
+S0229::Educação,FUST,S0229,Educação,identico,sim,nao
+S0229::Posição no trabalho,FUST,S0229,Posição no trabalho,identico,sim,nao
+S0229::Renda e classe,FUST,S0229,Renda e classe,identico,sim,nao
+S0229::Saúde,FUST,S0229,Saúde,identico,sim,nao
+S0229::Territórios de povos e comunidades tradicionais,FUST,S0229,Territórios de povos e comunidades tradicionais,identico,sim,nao
+S0229::Urbano e rural,FUST,S0229,Urbano e rural,identico,sim,nao
+S0230::Domicílio e arranjo familiar,FUST,S0230,Domicílio e arranjo familiar,identico,sim,nao
+S0230::Macrorregião,FUST,S0230,Macrorregião,identico,sim,nao
+S0230::Posição no trabalho,FUST,S0230,Posição no trabalho,identico,sim,nao
+S0230::Raça e etnia,FUST,S0230,Raça e etnia,identico,sim,nao
+S0230::Urbano e rural,FUST,S0230,Urbano e rural,identico,sim,nao
+S0232::Administração pública,FUST,S0232,Administração pública,identico,sim,nao
+S0232::Domicílio e arranjo familiar,FUST,S0232,Domicílio e arranjo familiar,identico,sim,nao
+S0232::Escolaridade e letramento,FUST,S0232,Escolaridade e letramento,identico,sim,nao
+S0232::Idade,FUST,S0232,Idade,identico,sim,nao
+S0232::Infraestrutura e porte populacional,FUST,S0232,Infraestrutura e porte populacional,identico,sim,nao
+S0232::Urbano e rural,FUST,S0232,Urbano e rural,identico,sim,nao
+S0233::Domicílio e arranjo familiar,FUST,S0233,Domicílio e arranjo familiar,identico,sim,nao
+S0233::Educação,FUST,S0233,Educação,identico,sim,nao
+S0233::Escolaridade e letramento,FUST,S0233,Escolaridade e letramento,identico,sim,nao
+S0233::Gênero,FUST,S0233,Gênero,identico,sim,nao
+S0233::Idade,FUST,S0233,Idade,identico,sim,nao
+S0233::Macrorregião,FUST,S0233,Macrorregião,identico,sim,nao
+S0233::Urbano e rural,FUST,S0233,Urbano e rural,identico,sim,nao
+S0234::Domicílio e arranjo familiar,FUST,S0234,Domicílio e arranjo familiar,identico,sim,nao
+S0234::Gênero,FUST,S0234,Gênero,identico,sim,nao
+S0234::Idade,FUST,S0234,Idade,identico,sim,nao
+S0234::Posição no trabalho,FUST,S0234,Posição no trabalho,identico,sim,nao
+S0234::Renda e classe,FUST,S0234,Renda e classe,identico,sim,nao
+S0235::Saúde,FUST,S0235,Saúde,identico,sim,nao
+S0236::Domicílio e arranjo familiar,FUST,S0236,Domicílio e arranjo familiar,identico,sim,nao
+S0236::Educação,FUST,S0236,Educação,identico,sim,nao
+S0236::Idade,FUST,S0236,Idade,identico,sim,nao
+S0236::Macrorregião,FUST,S0236,Macrorregião,identico,sim,nao
+S0236::Posição no trabalho,FUST,S0236,Posição no trabalho,identico,sim,nao
+S0236::Renda e classe,FUST,S0236,Renda e classe,identico,sim,nao
+S0237::Escolaridade e letramento,FUST,S0237,Escolaridade e letramento,identico,sim,nao
+S0237::Idade,FUST,S0237,Idade,identico,sim,nao
+S0237::Posição no trabalho,FUST,S0237,Posição no trabalho,identico,sim,nao
+S0237::Renda e classe,FUST,S0237,Renda e classe,identico,sim,nao
+S0238::Escolaridade e letramento,FUST,S0238,Escolaridade e letramento,identico,sim,nao
+S0238::Posição no trabalho,FUST,S0238,Posição no trabalho,identico,sim,nao
+S0238::Urbano e rural,FUST,S0238,Urbano e rural,identico,sim,nao
+S0240::Domicílio e arranjo familiar,FUST,S0240,Domicílio e arranjo familiar,identico,sim,nao
+S0240::Idade,FUST,S0240,Idade,identico,sim,nao
+S0240::Infraestrutura e porte populacional,FUST,S0240,Infraestrutura e porte populacional,identico,sim,nao
+S0240::Posição no trabalho,FUST,S0240,Posição no trabalho,identico,sim,nao
+S0240::Renda e classe,FUST,S0240,Renda e classe,identico,sim,nao
+S0240::Urbano e rural,FUST,S0240,Urbano e rural,identico,sim,nao
+S0241::Educação,FUST,S0241,Educação,identico,sim,nao
+S0241::Idade,FUST,S0241,Idade,identico,sim,nao
+S0241::Macrorregião,FUST,S0241,Macrorregião,identico,sim,nao
+S0241::Posição no trabalho,FUST,S0241,Posição no trabalho,identico,sim,nao
+S0241::Saúde,FUST,S0241,Saúde,identico,sim,nao
+S0242::Macrorregião,FUST,S0242,Macrorregião,identico,sim,nao
+S0243::Escolaridade e letramento,FUST,S0243,Escolaridade e letramento,identico,sim,nao
+S0244::Administração pública,FUST,S0244,Administração pública,identico,sim,nao
+S0244::Domicílio e arranjo familiar,FUST,S0244,Domicílio e arranjo familiar,identico,sim,nao
+S0244::Macrorregião,FUST,S0244,Macrorregião,identico,sim,nao
+S0244::Posição no trabalho,FUST,S0244,Posição no trabalho,identico,sim,nao
+S0245::Posição no trabalho,FUST,S0245,Posição no trabalho,identico,sim,nao
+S0245::Urbano e rural,FUST,S0245,Urbano e rural,identico,sim,nao
+S0246::Macrorregião,FUST,S0246,Macrorregião,identico,sim,nao
+S0247::Macrorregião,FUST,S0247,Macrorregião,identico,sim,nao
+S0247::Renda e classe,FUST,S0247,Renda e classe,identico,sim,nao
+S0248::Escolaridade e letramento,FUST,S0248,Escolaridade e letramento,identico,sim,nao
+S0248::Idade,FUST,S0248,Idade,identico,sim,nao
+S0248::Posição no trabalho,FUST,S0248,Posição no trabalho,identico,sim,nao
+S0248::Raça e etnia,FUST,S0248,Raça e etnia,identico,sim,nao
+S0248::Renda e classe,FUST,S0248,Renda e classe,identico,sim,nao
+S0248::Saúde,FUST,S0248,Saúde,identico,sim,nao
+S0248::Urbano e rural,FUST,S0248,Urbano e rural,identico,sim,nao
+S0249::Administração pública,FUST,S0249,Administração pública,identico,sim,nao
+S0249::Domicílio e arranjo familiar,FUST,S0249,Domicílio e arranjo familiar,identico,sim,nao
+S0249::Escolaridade e letramento,FUST,S0249,Escolaridade e letramento,identico,sim,nao
+S0249::Infraestrutura e porte populacional,FUST,S0249,Infraestrutura e porte populacional,identico,sim,nao
+S0249::Macrorregião,FUST,S0249,Macrorregião,identico,sim,nao
+S0249::Renda e classe,FUST,S0249,Renda e classe,identico,sim,nao
+S0250::Domicílio e arranjo familiar,FUST,S0250,Domicílio e arranjo familiar,identico,sim,nao
+S0250::Idade,FUST,S0250,Idade,identico,sim,nao
+S0250::Renda e classe,FUST,S0250,Renda e classe,identico,sim,nao
+S0250::Território intraurbano,FUST,S0250,Território intraurbano,identico,sim,nao
+S0250::Urbano e rural,FUST,S0250,Urbano e rural,identico,sim,nao
+S0253::Domicílio e arranjo familiar,FUST,S0253,Domicílio e arranjo familiar,identico,sim,nao
+S0253::Educação,FUST,S0253,Educação,identico,sim,nao
+S0253::Idade,FUST,S0253,Idade,identico,sim,nao
+S0253::Macrorregião,FUST,S0253,Macrorregião,identico,sim,nao
+S0253::Posição no trabalho,FUST,S0253,Posição no trabalho,identico,sim,nao
+S0253::Renda e classe,FUST,S0253,Renda e classe,identico,sim,nao
+S0254::Administração pública,FUST,S0254,Administração pública,identico,sim,nao
+S0254::Educação,FUST,S0254,Educação,identico,sim,nao
+S0254::Escolaridade e letramento,FUST,S0254,Escolaridade e letramento,identico,sim,nao
+S0254::Idade,FUST,S0254,Idade,identico,sim,nao
+S0254::Posição no trabalho,FUST,S0254,Posição no trabalho,identico,sim,nao
+S0255::Administração pública,FUST,S0255,Administração pública,identico,sim,nao
+S0255::Macrorregião,FUST,S0255,Macrorregião,identico,sim,nao
+S0257::Domicílio e arranjo familiar,FUST,S0257,Domicílio e arranjo familiar,identico,sim,nao
+S0257::Renda e classe,FUST,S0257,Renda e classe,identico,sim,nao
+S0258::Cultura e informação,FUST,S0258,Cultura e informação,identico,sim,nao
+S0258::Educação,FUST,S0258,Educação,identico,sim,nao
+S0258::Escolaridade e letramento,FUST,S0258,Escolaridade e letramento,identico,sim,nao
+S0258::Idade,FUST,S0258,Idade,identico,sim,nao
+S0258::Renda e classe,FUST,S0258,Renda e classe,identico,sim,nao
+S0259::Posição no trabalho,FUST,S0259,Posição no trabalho,identico,sim,nao
+S0259::Renda e classe,FUST,S0259,Renda e classe,identico,sim,nao
+S0259::Urbano e rural,FUST,S0259,Urbano e rural,identico,sim,nao
+S0260::Renda e classe,FUST,S0260,Renda e classe,identico,sim,nao
+S0260::Urbano e rural,FUST,S0260,Urbano e rural,identico,sim,nao
+S0261::Macrorregião,FUST,S0261,Macrorregião,identico,sim,nao
+S0261::Urbano e rural,FUST,S0261,Urbano e rural,identico,sim,nao
+S0262::Administração pública,FUST,S0262,Administração pública,identico,sim,nao
+S0262::Domicílio e arranjo familiar,FUST,S0262,Domicílio e arranjo familiar,identico,sim,nao
+S0262::Posição no trabalho,FUST,S0262,Posição no trabalho,identico,sim,nao
+S0262::Renda e classe,FUST,S0262,Renda e classe,identico,sim,nao
+S0263::Infraestrutura e porte populacional,FUST,S0263,Infraestrutura e porte populacional,identico,sim,nao
+S0263::Macrorregião,FUST,S0263,Macrorregião,identico,sim,nao
+S0264::Domicílio e arranjo familiar,FUST,S0264,Domicílio e arranjo familiar,identico,sim,nao
+S0264::Educação,FUST,S0264,Educação,identico,sim,nao
+S0264::Idade,FUST,S0264,Idade,identico,sim,nao
+S0264::Renda e classe,FUST,S0264,Renda e classe,identico,sim,nao
+S0264::Território intraurbano,FUST,S0264,Território intraurbano,identico,sim,nao
+S0264::Urbano e rural,FUST,S0264,Urbano e rural,identico,sim,nao
+S0265::Domicílio e arranjo familiar,FUST,S0265,Domicílio e arranjo familiar,identico,sim,nao
+S0265::Idade,FUST,S0265,Idade,identico,sim,nao
+S0265::Macrorregião,FUST,S0265,Macrorregião,identico,sim,nao
+S0265::Posição no trabalho,FUST,S0265,Posição no trabalho,identico,sim,nao
+S0265::Renda e classe,FUST,S0265,Renda e classe,identico,sim,nao
+S0265::Urbano e rural,FUST,S0265,Urbano e rural,identico,sim,nao
+S0266::Domicílio e arranjo familiar,FUST,S0266,Domicílio e arranjo familiar,identico,sim,nao
+S0266::Posição no trabalho,FUST,S0266,Posição no trabalho,identico,sim,nao
+S0266::Renda e classe,FUST,S0266,Renda e classe,identico,sim,nao
+S0267::Administração pública,FUST,S0267,Administração pública,identico,sim,nao
+S0267::Idade,FUST,S0267,Idade,identico,sim,nao
+S0268::Macrorregião,FUST,S0268,Macrorregião,identico,sim,nao
+S0268::Renda e classe,FUST,S0268,Renda e classe,identico,sim,nao
+S0268::Urbano e rural,FUST,S0268,Urbano e rural,identico,sim,nao
+S0269::Macrorregião,FUST,S0269,Macrorregião,identico,sim,nao
+S0270::Domicílio e arranjo familiar,FUST,S0270,Domicílio e arranjo familiar,identico,sim,nao
+S0270::Urbano e rural,FUST,S0270,Urbano e rural,identico,sim,nao
+S0271::Domicílio e arranjo familiar,FUST,S0271,Domicílio e arranjo familiar,identico,sim,nao
+S0271::Posição no trabalho,FUST,S0271,Posição no trabalho,identico,sim,nao
+S0273::Domicílio e arranjo familiar,FUST,S0273,Domicílio e arranjo familiar,identico,sim,nao
+S0273::Idade,FUST,S0273,Idade,identico,sim,nao
+S0273::Macrorregião,FUST,S0273,Macrorregião,identico,sim,nao
+S0273::Renda e classe,FUST,S0273,Renda e classe,identico,sim,nao
+S0273::Território intraurbano,FUST,S0273,Território intraurbano,identico,sim,nao
+S0273::Territórios de povos e comunidades tradicionais,FUST,S0273,Territórios de povos e comunidades tradicionais,identico,sim,nao
+S0273::Urbano e rural,FUST,S0273,Urbano e rural,identico,sim,nao
+S0274::Administração pública,FUST,S0274,Administração pública,identico,sim,nao
+S0275::Educação,FUST,S0275,Educação,identico,sim,nao
+S0275::Posição no trabalho,FUST,S0275,Posição no trabalho,identico,sim,nao
+S0275::Saúde,FUST,S0275,Saúde,identico,sim,nao
+S0275::Urbano e rural,FUST,S0275,Urbano e rural,identico,sim,nao
+S0276::Educação,FUST,S0276,Educação,identico,sim,nao
+S0276::Escolaridade e letramento,FUST,S0276,Escolaridade e letramento,identico,sim,nao
+S0276::Idade,FUST,S0276,Idade,identico,sim,nao
+S0276::Macrorregião,FUST,S0276,Macrorregião,identico,sim,nao
+S0276::Renda e classe,FUST,S0276,Renda e classe,identico,sim,nao
+S0276::Saúde,FUST,S0276,Saúde,identico,sim,nao
+S0276::Urbano e rural,FUST,S0276,Urbano e rural,identico,sim,nao
+S0280::Domicílio e arranjo familiar,FUST,S0280,Domicílio e arranjo familiar,identico,sim,nao
+S0280::Educação,FUST,S0280,Educação,identico,sim,nao
+S0280::Escolaridade e letramento,FUST,S0280,Escolaridade e letramento,identico,sim,nao
+S0280::Idade,FUST,S0280,Idade,identico,sim,nao
+S0280::Posição no trabalho,FUST,S0280,Posição no trabalho,identico,sim,nao
+S0280::Raça e etnia,FUST,S0280,Raça e etnia,identico,sim,nao
+S0280::Renda e classe,FUST,S0280,Renda e classe,identico,sim,nao
+S0280::Território intraurbano,FUST,S0280,Território intraurbano,identico,sim,nao
+S0280::Urbano e rural,FUST,S0280,Urbano e rural,identico,sim,nao
+S0281::Posição no trabalho,FUST,S0281,Posição no trabalho,identico,sim,nao
+S0282::Infraestrutura e porte populacional,FUST,S0282,Infraestrutura e porte populacional,identico,sim,nao
+S0282::Macrorregião,FUST,S0282,Macrorregião,identico,sim,nao
+S0282::Posição no trabalho,FUST,S0282,Posição no trabalho,identico,sim,nao
+S0282::Renda e classe,FUST,S0282,Renda e classe,identico,sim,nao
+S0282::Saúde,FUST,S0282,Saúde,identico,sim,nao
+S0282::Urbano e rural,FUST,S0282,Urbano e rural,identico,sim,nao
+S0283::Domicílio e arranjo familiar,FUST,S0283,Domicílio e arranjo familiar,identico,sim,nao
+S0283::Posição no trabalho,FUST,S0283,Posição no trabalho,identico,sim,nao
+S0283::Renda e classe,FUST,S0283,Renda e classe,identico,sim,nao
+S0284::Domicílio e arranjo familiar,FUST,S0284,Domicílio e arranjo familiar,identico,sim,nao
+S0284::Educação,FUST,S0284,Educação,identico,sim,nao
+S0284::Escolaridade e letramento,FUST,S0284,Escolaridade e letramento,identico,sim,nao
+S0284::Gênero,FUST,S0284,Gênero,identico,sim,nao
+S0284::Idade,FUST,S0284,Idade,identico,sim,nao
+S0284::Macrorregião,FUST,S0284,Macrorregião,identico,sim,nao
+S0284::Raça e etnia,FUST,S0284,Raça e etnia,identico,sim,nao
+S0284::Renda e classe,FUST,S0284,Renda e classe,identico,sim,nao
+S0284::Território intraurbano,FUST,S0284,Território intraurbano,identico,sim,nao
+S0285::Escolaridade e letramento,FUST,S0285,Escolaridade e letramento,identico,sim,nao
+S0285::Gênero,FUST,S0285,Gênero,identico,sim,nao
+S0285::Macrorregião,FUST,S0285,Macrorregião,identico,sim,nao
+S0285::Posição no trabalho,FUST,S0285,Posição no trabalho,identico,sim,nao
+S0285::Raça e etnia,FUST,S0285,Raça e etnia,identico,sim,nao
+S0285::Renda e classe,FUST,S0285,Renda e classe,identico,sim,nao
+S0286::Domicílio e arranjo familiar,FUST,S0286,Domicílio e arranjo familiar,identico,sim,nao
+S0286::Infraestrutura e porte populacional,FUST,S0286,Infraestrutura e porte populacional,identico,sim,nao
+S0286::Macrorregião,FUST,S0286,Macrorregião,identico,sim,nao
+S0286::Renda e classe,FUST,S0286,Renda e classe,identico,sim,nao
+S0286::Urbano e rural,FUST,S0286,Urbano e rural,identico,sim,nao
+S0287::Macrorregião,FUST,S0287,Macrorregião,identico,sim,nao
+S0288::Administração pública,FUST,S0288,Administração pública,identico,sim,nao
+S0288::Educação,FUST,S0288,Educação,identico,sim,nao
+S0288::Escolaridade e letramento,FUST,S0288,Escolaridade e letramento,identico,sim,nao
+S0288::Idade,FUST,S0288,Idade,identico,sim,nao
+S0288::Macrorregião,FUST,S0288,Macrorregião,identico,sim,nao
+S0288::Posição no trabalho,FUST,S0288,Posição no trabalho,identico,sim,nao
+S0288::Renda e classe,FUST,S0288,Renda e classe,identico,sim,nao
+S0289::Gênero,FUST,S0289,Gênero,identico,sim,nao
+S0289::Macrorregião,FUST,S0289,Macrorregião,identico,sim,nao
+S0289::Posição no trabalho,FUST,S0289,Posição no trabalho,identico,sim,nao
+S0289::Urbano e rural,FUST,S0289,Urbano e rural,identico,sim,nao
+S0290::Domicílio e arranjo familiar,FUST,S0290,Domicílio e arranjo familiar,identico,sim,nao
+S0290::Idade,FUST,S0290,Idade,identico,sim,nao
+S0290::Raça e etnia,FUST,S0290,Raça e etnia,identico,sim,nao
+S0291::Administração pública,FUST,S0291,Administração pública,identico,sim,nao
+S0291::Domicílio e arranjo familiar,FUST,S0291,Domicílio e arranjo familiar,identico,sim,nao
+S0291::Educação,FUST,S0291,Educação,identico,sim,nao
+S0291::Escolaridade e letramento,FUST,S0291,Escolaridade e letramento,identico,sim,nao
+S0291::Idade,FUST,S0291,Idade,identico,sim,nao
+S0291::Infraestrutura e porte populacional,FUST,S0291,Infraestrutura e porte populacional,identico,sim,nao
+S0291::Posição no trabalho,FUST,S0291,Posição no trabalho,identico,sim,nao
+S0292::Domicílio e arranjo familiar,FUST,S0292,Domicílio e arranjo familiar,identico,sim,nao
+S0292::Idade,FUST,S0292,Idade,identico,sim,nao
+S0292::Posição no trabalho,FUST,S0292,Posição no trabalho,identico,sim,nao
+S0293::Domicílio e arranjo familiar,FUST,S0293,Domicílio e arranjo familiar,identico,sim,nao
+S0293::Macrorregião,FUST,S0293,Macrorregião,identico,sim,nao
+S0293::Posição no trabalho,FUST,S0293,Posição no trabalho,identico,sim,nao
+S0293::Renda e classe,FUST,S0293,Renda e classe,identico,sim,nao
+S0293::Território intraurbano,FUST,S0293,Território intraurbano,identico,sim,nao
+S0293::Urbano e rural,FUST,S0293,Urbano e rural,identico,sim,nao
+S0294::Educação,FUST,S0294,Educação,identico,sim,nao
+S0294::Escolaridade e letramento,FUST,S0294,Escolaridade e letramento,identico,sim,nao
+S0294::Idade,FUST,S0294,Idade,identico,sim,nao
+S0294::Macrorregião,FUST,S0294,Macrorregião,identico,sim,nao
+S0294::Posição no trabalho,FUST,S0294,Posição no trabalho,identico,sim,nao
+S0294::Urbano e rural,FUST,S0294,Urbano e rural,identico,sim,nao
+S0295::Posição no trabalho,FUST,S0295,Posição no trabalho,identico,sim,nao
+S0296::Domicílio e arranjo familiar,FUST,S0296,Domicílio e arranjo familiar,identico,sim,nao
+S0296::Posição no trabalho,FUST,S0296,Posição no trabalho,identico,sim,nao
+S0297::Posição no trabalho,FUST,S0297,Posição no trabalho,identico,sim,nao
+S0298::Escolaridade e letramento,FUST,S0298,Escolaridade e letramento,identico,sim,nao
+S0298::Macrorregião,FUST,S0298,Macrorregião,identico,sim,nao
+S0299::Posição no trabalho,FUST,S0299,Posição no trabalho,identico,sim,nao
+S0299::Saúde e deficiência,FUST,S0299,Saúde e deficiência,identico,sim,nao
+S0299::Urbano e rural,FUST,S0299,Urbano e rural,identico,sim,nao
+S0300::Infraestrutura e porte populacional,FUST,S0300,Infraestrutura e porte populacional,identico,sim,nao
+S0300::Macrorregião,FUST,S0300,Macrorregião,identico,sim,nao
+S0300::Urbano e rural,FUST,S0300,Urbano e rural,identico,sim,nao
+S0301::Cultura e informação,FUST,S0301,Cultura e informação,identico,sim,nao
+S0301::Renda e classe,FUST,S0301,Renda e classe,identico,sim,nao
+S0302::Posição no trabalho,FUST,S0302,Posição no trabalho,identico,sim,nao
+S0303::Domicílio e arranjo familiar,FUST,S0303,Domicílio e arranjo familiar,identico,sim,nao
+S0303::Renda e classe,FUST,S0303,Renda e classe,identico,sim,nao
+S0303::Urbano e rural,FUST,S0303,Urbano e rural,identico,sim,nao
+S0304::Macrorregião,FUST,S0304,Macrorregião,identico,sim,nao
+S0304::Urbano e rural,FUST,S0304,Urbano e rural,identico,sim,nao
+S0305::Domicílio e arranjo familiar,FUST,S0305,Domicílio e arranjo familiar,identico,sim,nao
+S0306::Educação,FUST,S0306,Educação,identico,sim,nao
+S0306::Idade,FUST,S0306,Idade,identico,sim,nao
+S0306::Posição no trabalho,FUST,S0306,Posição no trabalho,identico,sim,nao
+S0306::Renda e classe,FUST,S0306,Renda e classe,identico,sim,nao
+S0306::Urbano e rural,FUST,S0306,Urbano e rural,identico,sim,nao
+S0308::Educação,FUST,S0308,Educação,identico,sim,nao
+S0308::Idade,FUST,S0308,Idade,identico,sim,nao
+S0309::Cultura e informação,FUST,S0309,Cultura e informação,identico,sim,nao
+S0309::Domicílio e arranjo familiar,FUST,S0309,Domicílio e arranjo familiar,identico,sim,nao
+S0309::Educação,FUST,S0309,Educação,identico,sim,nao
+S0309::Escolaridade e letramento,FUST,S0309,Escolaridade e letramento,identico,sim,nao
+S0309::Idade,FUST,S0309,Idade,identico,sim,nao
+S0309::Urbano e rural,FUST,S0309,Urbano e rural,identico,sim,nao
+S0310::Domicílio e arranjo familiar,FUST,S0310,Domicílio e arranjo familiar,identico,sim,nao
+S0310::Educação,FUST,S0310,Educação,identico,sim,nao
+S0310::Idade,FUST,S0310,Idade,identico,sim,nao
+S0311::Educação,FUST,S0311,Educação,identico,sim,nao
+S0311::Escolaridade e letramento,FUST,S0311,Escolaridade e letramento,identico,sim,nao
+S0311::Urbano e rural,FUST,S0311,Urbano e rural,identico,sim,nao
+S0312::Posição no trabalho,FUST,S0312,Posição no trabalho,identico,sim,nao
+S0312::Saúde e deficiência,FUST,S0312,Saúde e deficiência,identico,sim,nao
+S0313::Domicílio e arranjo familiar,FUST,S0313,Domicílio e arranjo familiar,identico,sim,nao
+S0313::Idade,FUST,S0313,Idade,identico,sim,nao
+S0313::Infraestrutura e porte populacional,FUST,S0313,Infraestrutura e porte populacional,identico,sim,nao
+S0313::Macrorregião,FUST,S0313,Macrorregião,identico,sim,nao
+S0313::Urbano e rural,FUST,S0313,Urbano e rural,identico,sim,nao
+S0314::Domicílio e arranjo familiar,FUST,S0314,Domicílio e arranjo familiar,identico,sim,nao
+S0314::Idade,FUST,S0314,Idade,identico,sim,nao
+S0314::Infraestrutura e porte populacional,FUST,S0314,Infraestrutura e porte populacional,identico,sim,nao
+S0314::Macrorregião,FUST,S0314,Macrorregião,identico,sim,nao
+S0314::Urbano e rural,FUST,S0314,Urbano e rural,identico,sim,nao
+S0315::Educação,FUST,S0315,Educação,identico,sim,nao
+S0315::Idade,FUST,S0315,Idade,identico,sim,nao
+S0315::Posição no trabalho,FUST,S0315,Posição no trabalho,identico,sim,nao
+S0315::Renda e classe,FUST,S0315,Renda e classe,identico,sim,nao
+S0315::Urbano e rural,FUST,S0315,Urbano e rural,identico,sim,nao
+S0316::Infraestrutura e porte populacional,FUST,S0316,Infraestrutura e porte populacional,identico,sim,nao
+S0316::Raça e etnia,FUST,S0316,Raça e etnia,identico,sim,nao
+S0316::Urbano e rural,FUST,S0316,Urbano e rural,identico,sim,nao
+S0317::Domicílio e arranjo familiar,FUST,S0317,Domicílio e arranjo familiar,identico,sim,nao
+S0317::Escolaridade e letramento,FUST,S0317,Escolaridade e letramento,identico,sim,nao
+S0317::Macrorregião,FUST,S0317,Macrorregião,identico,sim,nao
+S0317::Posição no trabalho,FUST,S0317,Posição no trabalho,identico,sim,nao
+S0317::Saúde,FUST,S0317,Saúde,identico,sim,nao
+S0317::Território intraurbano,FUST,S0317,Território intraurbano,identico,sim,nao
+S0317::Urbano e rural,FUST,S0317,Urbano e rural,identico,sim,nao
+S0319::Posição no trabalho,FUST,S0319,Posição no trabalho,identico,sim,nao
+S0319::Urbano e rural,FUST,S0319,Urbano e rural,identico,sim,nao
+S0320::Raça e etnia,FUST,S0320,Raça e etnia,identico,sim,nao
+S0320::Saúde,FUST,S0320,Saúde,identico,sim,nao
+S0322::Macrorregião,FUST,S0322,Macrorregião,identico,sim,nao
+S0323::Administração pública,FUST,S0323,Administração pública,identico,sim,nao
+S0323::Domicílio e arranjo familiar,FUST,S0323,Domicílio e arranjo familiar,identico,sim,nao
+S0323::Educação,FUST,S0323,Educação,identico,sim,nao
+S0323::Idade,FUST,S0323,Idade,identico,sim,nao
+S0323::Infraestrutura e porte populacional,FUST,S0323,Infraestrutura e porte populacional,identico,sim,nao
+S0323::Raça e etnia,FUST,S0323,Raça e etnia,identico,sim,nao
+S0323::Renda e classe,FUST,S0323,Renda e classe,identico,sim,nao
+S0323::Saúde,FUST,S0323,Saúde,identico,sim,nao
+S0323::Território intraurbano,FUST,S0323,Território intraurbano,identico,sim,nao
+S0324::Administração pública,FUST,S0324,Administração pública,identico,sim,nao
+S0324::Cultura e informação,FUST,S0324,Cultura e informação,identico,sim,nao
+S0324::Domicílio e arranjo familiar,FUST,S0324,Domicílio e arranjo familiar,identico,sim,nao
+S0324::Educação,FUST,S0324,Educação,identico,sim,nao
+S0324::Escolaridade e letramento,FUST,S0324,Escolaridade e letramento,identico,sim,nao
+S0324::Idade,FUST,S0324,Idade,identico,sim,nao
+S0324::Posição no trabalho,FUST,S0324,Posição no trabalho,identico,sim,nao
+S0324::Renda e classe,FUST,S0324,Renda e classe,identico,sim,nao
+S0325::Gênero,FUST,S0325,Gênero,identico,sim,nao
+S0325::Macrorregião,FUST,S0325,Macrorregião,identico,sim,nao
+S0325::Urbano e rural,FUST,S0325,Urbano e rural,identico,sim,nao
+S0326::Escolaridade e letramento,FUST,S0326,Escolaridade e letramento,identico,sim,nao
+S0326::Gênero,FUST,S0326,Gênero,identico,sim,nao
+S0326::Idade,FUST,S0326,Idade,identico,sim,nao
+S0326::Raça e etnia,FUST,S0326,Raça e etnia,identico,sim,nao
+S0326::Urbano e rural,FUST,S0326,Urbano e rural,identico,sim,nao
+S0327::Domicílio e arranjo familiar,FUST,S0327,Domicílio e arranjo familiar,identico,sim,nao
+S0327::Macrorregião,FUST,S0327,Macrorregião,identico,sim,nao
+S0327::Posição no trabalho,FUST,S0327,Posição no trabalho,identico,sim,nao
+S0327::Raça e etnia,FUST,S0327,Raça e etnia,identico,sim,nao
+S0327::Renda e classe,FUST,S0327,Renda e classe,identico,sim,nao
+S0327::Urbano e rural,FUST,S0327,Urbano e rural,identico,sim,nao
+S0328::Educação,FUST,S0328,Educação,identico,sim,nao
+S0328::Escolaridade e letramento,FUST,S0328,Escolaridade e letramento,identico,sim,nao
+S0328::Idade,FUST,S0328,Idade,identico,sim,nao
+S0328::Posição no trabalho,FUST,S0328,Posição no trabalho,identico,sim,nao
+S0328::Renda e classe,FUST,S0328,Renda e classe,identico,sim,nao
+S0330::Macrorregião,FUST,S0330,Macrorregião,identico,sim,nao
+S0330::Urbano e rural,FUST,S0330,Urbano e rural,identico,sim,nao
+S0331::Domicílio e arranjo familiar,FUST,S0331,Domicílio e arranjo familiar,identico,sim,nao
+S0331::Infraestrutura e porte populacional,FUST,S0331,Infraestrutura e porte populacional,identico,sim,nao
+S0331::Posição no trabalho,FUST,S0331,Posição no trabalho,identico,sim,nao
+S0331::Raça e etnia,FUST,S0331,Raça e etnia,identico,sim,nao
+S0332::Domicílio e arranjo familiar,FUST,S0332,Domicílio e arranjo familiar,identico,sim,nao
+S0332::Educação,FUST,S0332,Educação,identico,sim,nao
+S0332::Escolaridade e letramento,FUST,S0332,Escolaridade e letramento,identico,sim,nao
+S0332::Idade,FUST,S0332,Idade,identico,sim,nao
+S0332::Macrorregião,FUST,S0332,Macrorregião,identico,sim,nao
+S0332::Raça e etnia,FUST,S0332,Raça e etnia,identico,sim,nao
+S0332::Renda e classe,FUST,S0332,Renda e classe,identico,sim,nao
+S0332::Urbano e rural,FUST,S0332,Urbano e rural,identico,sim,nao
+S0333::Idade,FUST,S0333,Idade,identico,sim,nao
+S0333::Macrorregião,FUST,S0333,Macrorregião,identico,sim,nao
+S0333::Renda e classe,FUST,S0333,Renda e classe,identico,sim,nao
+S0334::Domicílio e arranjo familiar,FUST,S0334,Domicílio e arranjo familiar,identico,sim,nao
+S0334::Posição no trabalho,FUST,S0334,Posição no trabalho,identico,sim,nao
+S0335::Administração pública,FUST,S0335,Administração pública,identico,sim,nao
+S0335::Cultura e informação,FUST,S0335,Cultura e informação,identico,sim,nao
+S0335::Raça e etnia,FUST,S0335,Raça e etnia,identico,sim,nao
+S0337::Posição no trabalho,FUST,S0337,Posição no trabalho,identico,sim,nao
+S0338::Escolaridade e letramento,FUST,S0338,Escolaridade e letramento,identico,sim,nao
+S0338::Raça e etnia,FUST,S0338,Raça e etnia,identico,sim,nao
+S0339::Idade,FUST,S0339,Idade,identico,sim,nao
+S0340::Administração pública,FUST,S0340,Administração pública,identico,sim,nao
+S0340::Domicílio e arranjo familiar,FUST,S0340,Domicílio e arranjo familiar,identico,sim,nao
+S0340::Renda e classe,FUST,S0340,Renda e classe,identico,sim,nao
+S0340::Saúde,FUST,S0340,Saúde,identico,sim,nao
+S0341::Idade,FUST,S0341,Idade,identico,sim,nao
+S0341::Posição no trabalho,FUST,S0341,Posição no trabalho,identico,sim,nao
+S0341::Urbano e rural,FUST,S0341,Urbano e rural,identico,sim,nao
+S0342::Macrorregião,FUST,S0342,Macrorregião,identico,sim,nao
+S0343::Escolaridade e letramento,FUST,S0343,Escolaridade e letramento,identico,sim,nao
+S0343::Idade,FUST,S0343,Idade,identico,sim,nao
+S0343::Urbano e rural,FUST,S0343,Urbano e rural,identico,sim,nao
+S0344::Posição no trabalho,FUST,S0344,Posição no trabalho,identico,sim,nao
+S0346::Domicílio e arranjo familiar,FUST,S0346,Domicílio e arranjo familiar,identico,sim,nao
+S0346::Saúde,FUST,S0346,Saúde,identico,sim,nao
+S0346::Urbano e rural,FUST,S0346,Urbano e rural,identico,sim,nao
+S0347::Domicílio e arranjo familiar,FUST,S0347,Domicílio e arranjo familiar,identico,sim,nao
+S0347::Posição no trabalho,FUST,S0347,Posição no trabalho,identico,sim,nao
+S0348::Domicílio e arranjo familiar,FUST,S0348,Domicílio e arranjo familiar,identico,sim,nao
+S0348::Idade,FUST,S0348,Idade,identico,sim,nao
+S0348::Macrorregião,FUST,S0348,Macrorregião,identico,sim,nao
+S0348::Posição no trabalho,FUST,S0348,Posição no trabalho,identico,sim,nao
+S0348::Raça e etnia,FUST,S0348,Raça e etnia,identico,sim,nao
+S0349::Administração pública,FUST,S0349,Administração pública,identico,sim,nao
+S0349::Idade,FUST,S0349,Idade,identico,sim,nao
+S0349::Macrorregião,FUST,S0349,Macrorregião,identico,sim,nao
+S0349::Território intraurbano,FUST,S0349,Território intraurbano,identico,sim,nao
+S0350::Educação,FUST,S0350,Educação,identico,sim,nao
+S0350::Escolaridade e letramento,FUST,S0350,Escolaridade e letramento,identico,sim,nao
+S0350::Idade,FUST,S0350,Idade,identico,sim,nao
+S0350::Posição no trabalho,FUST,S0350,Posição no trabalho,identico,sim,nao
+S0350::Renda e classe,FUST,S0350,Renda e classe,identico,sim,nao
+S0350::Saúde,FUST,S0350,Saúde,identico,sim,nao
+S0350::Urbano e rural,FUST,S0350,Urbano e rural,identico,sim,nao
+S0351::Administração pública,FUST,S0351,Administração pública,identico,sim,nao
+S0351::Idade,FUST,S0351,Idade,identico,sim,nao
+S0351::Macrorregião,FUST,S0351,Macrorregião,identico,sim,nao
+S0351::Território intraurbano,FUST,S0351,Território intraurbano,identico,sim,nao
+S0352::Posição no trabalho,FUST,S0352,Posição no trabalho,identico,sim,nao
+S0353::Posição no trabalho,FUST,S0353,Posição no trabalho,identico,sim,nao
+S0354::Domicílio e arranjo familiar,FUST,S0354,Domicílio e arranjo familiar,identico,sim,nao
+S0354::Idade,FUST,S0354,Idade,identico,sim,nao
+S0354::Posição no trabalho,FUST,S0354,Posição no trabalho,identico,sim,nao
+S0354::Renda e classe,FUST,S0354,Renda e classe,identico,sim,nao
+S0355::Administração pública,FUST,S0355,Administração pública,identico,sim,nao
+S0355::Domicílio e arranjo familiar,FUST,S0355,Domicílio e arranjo familiar,identico,sim,nao
+S0355::Macrorregião,FUST,S0355,Macrorregião,identico,sim,nao
+S0355::Renda e classe,FUST,S0355,Renda e classe,identico,sim,nao
+S0356::Domicílio e arranjo familiar,FUST,S0356,Domicílio e arranjo familiar,identico,sim,nao
+S0356::Escolaridade e letramento,FUST,S0356,Escolaridade e letramento,identico,sim,nao
+S0356::Idade,FUST,S0356,Idade,identico,sim,nao
+S0356::Infraestrutura e porte populacional,FUST,S0356,Infraestrutura e porte populacional,identico,sim,nao
+S0356::Macrorregião,FUST,S0356,Macrorregião,identico,sim,nao
+S0356::Renda e classe,FUST,S0356,Renda e classe,identico,sim,nao
+S0356::Território intraurbano,FUST,S0356,Território intraurbano,identico,sim,nao
+S0357::Renda e classe,FUST,S0357,Renda e classe,identico,sim,nao
+S0358::Domicílio e arranjo familiar,FUST,S0358,Domicílio e arranjo familiar,identico,sim,nao
+S0358::Macrorregião,FUST,S0358,Macrorregião,identico,sim,nao
+S0358::Posição no trabalho,FUST,S0358,Posição no trabalho,identico,sim,nao
+S0359::Domicílio e arranjo familiar,FUST,S0359,Domicílio e arranjo familiar,identico,sim,nao
+S0359::Educação,FUST,S0359,Educação,identico,sim,nao
+S0359::Idade,FUST,S0359,Idade,identico,sim,nao
+S0359::Renda e classe,FUST,S0359,Renda e classe,identico,sim,nao
+S0360::Domicílio e arranjo familiar,FUST,S0360,Domicílio e arranjo familiar,identico,sim,nao
+S0360::Educação,FUST,S0360,Educação,identico,sim,nao
+S0360::Escolaridade e letramento,FUST,S0360,Escolaridade e letramento,identico,sim,nao
+S0360::Posição no trabalho,FUST,S0360,Posição no trabalho,identico,sim,nao
+S0360::Renda e classe,FUST,S0360,Renda e classe,identico,sim,nao
+S0361::Idade,FUST,S0361,Idade,identico,sim,nao
+S0361::Raça e etnia,FUST,S0361,Raça e etnia,identico,sim,nao
+S0362::Infraestrutura e porte populacional,FUST,S0362,Infraestrutura e porte populacional,identico,sim,nao
+S0362::Posição no trabalho,FUST,S0362,Posição no trabalho,identico,sim,nao
+S0362::Urbano e rural,FUST,S0362,Urbano e rural,identico,sim,nao
+S0363::Administração pública,FUST,S0363,Administração pública,identico,sim,nao
+S0363::Posição no trabalho,FUST,S0363,Posição no trabalho,identico,sim,nao
+S0364::Administração pública,FUST,S0364,Administração pública,identico,sim,nao
+S0364::Macrorregião,FUST,S0364,Macrorregião,identico,sim,nao
+S0390::Urbano e rural,FUST,S0390,Urbano e rural,identico,sim,nao
+S0398::Domicílio e arranjo familiar,FUST,S0398,Domicílio e arranjo familiar,identico,sim,nao
+S0398::Macrorregião,FUST,S0398,Macrorregião,identico,sim,nao
+S0398::Renda e classe,FUST,S0398,Renda e classe,identico,sim,nao
+S0414::Renda e classe,FUST,S0414,Renda e classe,identico,sim,nao
+W0001::Educação,BEAD,W0001,Educação,identico,sim,nao
+W0001::Escolaridade e letramento,BEAD,W0001,Escolaridade e letramento,identico,sim,nao
+W0001::Infraestrutura e porte populacional,BEAD,W0001,Infraestrutura e porte populacional,identico,sim,nao
+W0001::Saúde,BEAD,W0001,Saúde,identico,sim,nao
+W0001::Territórios de povos e comunidades tradicionais,BEAD,W0001,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0001::Urbano e rural,BEAD,W0001,Urbano e rural,identico,sim,nao
+W0002::Domicílio e arranjo familiar,BEAD,W0002,Domicílio e arranjo familiar,identico,sim,nao
+W0002::Infraestrutura e porte populacional,BEAD,W0002,Infraestrutura e porte populacional,identico,sim,nao
+W0002::Urbano e rural,BEAD,W0002,Urbano e rural,identico,sim,nao
+W0003::Educação,BEAD,W0003,Educação,novo,nao,sim
+W0003::Idade,BEAD,W0003,Idade,novo,nao,sim
+W0003::Macrorregião,BEAD,W0003,Macrorregião,novo,nao,sim
+W0005::Domicílio e arranjo familiar,BEAD,W0005,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0005::Educação,BEAD,W0005,Educação,novo,nao,sim
+W0005::Gênero,BEAD,W0005,Gênero,identico,sim,nao
+W0005::Idade,BEAD,W0005,Idade,novo,nao,sim
+W0005::Infraestrutura e porte populacional,BEAD,W0005,Infraestrutura e porte populacional,identico,sim,nao
+W0005::Macrorregião,BEAD,W0005,Macrorregião,identico,sim,nao
+W0005::Posição no trabalho,BEAD,W0005,Posição no trabalho,identico,sim,nao
+W0005::Saúde e deficiência,BEAD,W0005,Saúde e deficiência,identico,sim,nao
+W0005::Urbano e rural,BEAD,W0005,Urbano e rural,identico,sim,nao
+W0006::Domicílio e arranjo familiar,BEAD,W0006,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0006::Escolaridade e letramento,BEAD,W0006,Escolaridade e letramento,novo,nao,sim
+W0006::Gênero,BEAD,W0006,Gênero,identico,sim,nao
+W0006::Idade,BEAD,W0006,Idade,identico,sim,nao
+W0006::Renda e classe,BEAD,W0006,Renda e classe,identico,sim,nao
+W0007::Cultura e informação,BEAD,W0007,Cultura e informação,novo,nao,sim
+W0007::Domicílio e arranjo familiar,BEAD,W0007,Domicílio e arranjo familiar,identico,sim,nao
+W0007::Gênero,BEAD,W0007,Gênero,identico,sim,nao
+W0007::Idade,BEAD,W0007,Idade,identico,sim,nao
+W0007::Macrorregião,BEAD,W0007,Macrorregião,novo,nao,sim
+W0007::Posição no trabalho,BEAD,W0007,Posição no trabalho,identico,sim,nao
+W0007::Urbano e rural,BEAD,W0007,Urbano e rural,identico,sim,nao
+W0008::Posição no trabalho,BEAD,W0008,Posição no trabalho,identico,sim,nao
+W0009::Domicílio e arranjo familiar,BEAD,W0009,Domicílio e arranjo familiar,identico,sim,nao
+W0009::Idade,BEAD,W0009,Idade,identico,sim,nao
+W0009::Macrorregião,BEAD,W0009,Macrorregião,identico,sim,nao
+W0009::Posição no trabalho,BEAD,W0009,Posição no trabalho,identico,sim,nao
+W0009::Saúde e deficiência,BEAD,W0009,Saúde e deficiência,identico,sim,nao
+W0009::Urbano e rural,BEAD,W0009,Urbano e rural,identico,sim,nao
+W0010::Educação,BEAD,W0010,Educação,novo,nao,sim
+W0010::Escolaridade e letramento,BEAD,W0010,Escolaridade e letramento,identico,sim,nao
+W0010::Infraestrutura e porte populacional,BEAD,W0010,Infraestrutura e porte populacional,identico,sim,nao
+W0010::Posição no trabalho,BEAD,W0010,Posição no trabalho,identico,sim,nao
+W0010::Renda e classe,BEAD,W0010,Renda e classe,identico,sim,nao
+W0010::Urbano e rural,BEAD,W0010,Urbano e rural,identico,sim,nao
+W0011::Idade,BEAD,W0011,Idade,novo,nao,sim
+W0011::Infraestrutura e porte populacional,BEAD,W0011,Infraestrutura e porte populacional,identico,sim,nao
+W0011::Macrorregião,BEAD,W0011,Macrorregião,novo,nao,sim
+W0011::Posição no trabalho,BEAD,W0011,Posição no trabalho,identico,sim,nao
+W0011::Renda e classe,BEAD,W0011,Renda e classe,identico,sim,nao
+W0011::Urbano e rural,BEAD,W0011,Urbano e rural,identico,sim,nao
+W0013::Educação,BEAD,W0013,Educação,janelas_mudaram,sim,sim
+W0013::Idade,BEAD,W0013,Idade,identico,sim,nao
+W0013::Urbano e rural,BEAD,W0013,Urbano e rural,identico,sim,nao
+W0014::Educação,BEAD,W0014,Educação,novo,nao,sim
+W0014::Infraestrutura e porte populacional,BEAD,W0014,Infraestrutura e porte populacional,identico,sim,nao
+W0014::Macrorregião,BEAD,W0014,Macrorregião,janelas_mudaram,sim,sim
+W0014::Posição no trabalho,BEAD,W0014,Posição no trabalho,identico,sim,nao
+W0014::Saúde e deficiência,BEAD,W0014,Saúde e deficiência,identico,sim,nao
+W0014::Urbano e rural,BEAD,W0014,Urbano e rural,identico,sim,nao
+W0015::Idade,BEAD,W0015,Idade,novo,nao,sim
+W0016::Cultura e informação,BEAD,W0016,Cultura e informação,identico,sim,nao
+W0016::Domicílio e arranjo familiar,BEAD,W0016,Domicílio e arranjo familiar,identico,sim,nao
+W0016::Educação,BEAD,W0016,Educação,novo,nao,sim
+W0016::Escolaridade e letramento,BEAD,W0016,Escolaridade e letramento,identico,sim,nao
+W0016::Gênero,BEAD,W0016,Gênero,identico,sim,nao
+W0016::Raça e etnia,BEAD,W0016,Raça e etnia,identico,sim,nao
+W0016::Renda e classe,BEAD,W0016,Renda e classe,identico,sim,nao
+W0016::Territórios de povos e comunidades tradicionais,BEAD,W0016,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0016::Urbano e rural,BEAD,W0016,Urbano e rural,identico,sim,nao
+W0017::Saúde e deficiência,BEAD,W0017,Saúde e deficiência,identico,sim,nao
+W0018::Domicílio e arranjo familiar,BEAD,W0018,Domicílio e arranjo familiar,identico,sim,nao
+W0018::Saúde,BEAD,W0018,Saúde,janelas_mudaram,sim,sim
+W0019::Domicílio e arranjo familiar,BEAD,W0019,Domicílio e arranjo familiar,identico,sim,nao
+W0019::Idade,BEAD,W0019,Idade,novo,nao,sim
+W0019::Urbano e rural,BEAD,W0019,Urbano e rural,identico,sim,nao
+W0019::Vínculo institucional,BEAD,W0019,Vínculo institucional,identico,sim,nao
+W0020::Domicílio e arranjo familiar,BEAD,W0020,Domicílio e arranjo familiar,identico,sim,nao
+W0020::Escolaridade e letramento,BEAD,W0020,Escolaridade e letramento,novo,nao,sim
+W0020::Idade,BEAD,W0020,Idade,novo,nao,sim
+W0020::Renda e classe,BEAD,W0020,Renda e classe,identico,sim,nao
+W0020::Saúde e deficiência,BEAD,W0020,Saúde e deficiência,identico,sim,nao
+W0020::Vínculo institucional,BEAD,W0020,Vínculo institucional,identico,sim,nao
+W0021::Infraestrutura e porte populacional,BEAD,W0021,Infraestrutura e porte populacional,identico,sim,nao
+W0021::Urbano e rural,BEAD,W0021,Urbano e rural,identico,sim,nao
+W0022::Domicílio e arranjo familiar,BEAD,W0022,Domicílio e arranjo familiar,identico,sim,nao
+W0022::Educação,BEAD,W0022,Educação,identico,sim,nao
+W0022::Escolaridade e letramento,BEAD,W0022,Escolaridade e letramento,identico,sim,nao
+W0022::Posição no trabalho,BEAD,W0022,Posição no trabalho,identico,sim,nao
+W0022::Renda e classe,BEAD,W0022,Renda e classe,identico,sim,nao
+W0022::Saúde,BEAD,W0022,Saúde,janelas_mudaram,sim,sim
+W0022::Urbano e rural,BEAD,W0022,Urbano e rural,identico,sim,nao
+W0022::Vínculo institucional,BEAD,W0022,Vínculo institucional,identico,sim,nao
+W0023::Domicílio e arranjo familiar,BEAD,W0023,Domicílio e arranjo familiar,novo,nao,sim
+W0023::Renda e classe,BEAD,W0023,Renda e classe,identico,sim,nao
+W0023::Saúde,BEAD,W0023,Saúde,identico,sim,nao
+W0023::Urbano e rural,BEAD,W0023,Urbano e rural,identico,sim,nao
+W0024::Domicílio e arranjo familiar,BEAD,W0024,Domicílio e arranjo familiar,identico,sim,nao
+W0024::Educação,BEAD,W0024,Educação,novo,nao,sim
+W0024::Escolaridade e letramento,BEAD,W0024,Escolaridade e letramento,identico,sim,nao
+W0024::Idade,BEAD,W0024,Idade,identico,sim,nao
+W0024::Infraestrutura e porte populacional,BEAD,W0024,Infraestrutura e porte populacional,identico,sim,nao
+W0024::Urbano e rural,BEAD,W0024,Urbano e rural,identico,sim,nao
+W0025::Domicílio e arranjo familiar,BEAD,W0025,Domicílio e arranjo familiar,identico,sim,nao
+W0025::Educação,BEAD,W0025,Educação,novo,nao,sim
+W0025::Idade,BEAD,W0025,Idade,identico,sim,nao
+W0025::Infraestrutura e porte populacional,BEAD,W0025,Infraestrutura e porte populacional,identico,sim,nao
+W0025::Macrorregião,BEAD,W0025,Macrorregião,identico,sim,nao
+W0025::Urbano e rural,BEAD,W0025,Urbano e rural,identico,sim,nao
+W0026::Domicílio e arranjo familiar,BEAD,W0026,Domicílio e arranjo familiar,identico,sim,nao
+W0026::Posição no trabalho,BEAD,W0026,Posição no trabalho,identico,sim,nao
+W0026::Urbano e rural,BEAD,W0026,Urbano e rural,identico,sim,nao
+W0027::Domicílio e arranjo familiar,BEAD,W0027,Domicílio e arranjo familiar,identico,sim,nao
+W0027::Educação,BEAD,W0027,Educação,novo,nao,sim
+W0027::Escolaridade e letramento,BEAD,W0027,Escolaridade e letramento,identico,sim,nao
+W0027::Infraestrutura e porte populacional,BEAD,W0027,Infraestrutura e porte populacional,identico,sim,nao
+W0027::Macrorregião,BEAD,W0027,Macrorregião,identico,sim,nao
+W0027::Renda e classe,BEAD,W0027,Renda e classe,identico,sim,nao
+W0027::Urbano e rural,BEAD,W0027,Urbano e rural,identico,sim,nao
+W0028::Gênero,BEAD,W0028,Gênero,identico,sim,nao
+W0028::Idade,BEAD,W0028,Idade,novo,nao,sim
+W0028::Posição no trabalho,BEAD,W0028,Posição no trabalho,identico,sim,nao
+W0028::Renda e classe,BEAD,W0028,Renda e classe,identico,sim,nao
+W0028::Saúde,BEAD,W0028,Saúde,novo,nao,sim
+W0028::Saúde e deficiência,BEAD,W0028,Saúde e deficiência,identico,sim,nao
+W0028::Territórios de povos e comunidades tradicionais,BEAD,W0028,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0028::Urbano e rural,BEAD,W0028,Urbano e rural,identico,sim,nao
+W0029::Administração pública,BEAD,W0029,Administração pública,identico,sim,nao
+W0029::Cultura e informação,BEAD,W0029,Cultura e informação,identico,sim,nao
+W0029::Domicílio e arranjo familiar,BEAD,W0029,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0029::Educação,BEAD,W0029,Educação,so_termos,sim,nao
+W0029::Escolaridade e letramento,BEAD,W0029,Escolaridade e letramento,janelas_mudaram,sim,sim
+W0029::Gênero,BEAD,W0029,Gênero,identico,sim,nao
+W0029::Infraestrutura e porte populacional,BEAD,W0029,Infraestrutura e porte populacional,identico,sim,nao
+W0029::Macrorregião,BEAD,W0029,Macrorregião,identico,sim,nao
+W0029::Posição no trabalho,BEAD,W0029,Posição no trabalho,janelas_mudaram,sim,sim
+W0029::Renda e classe,BEAD,W0029,Renda e classe,identico,sim,nao
+W0029::Saúde,BEAD,W0029,Saúde,janelas_mudaram,sim,sim
+W0029::Saúde e deficiência,BEAD,W0029,Saúde e deficiência,identico,sim,nao
+W0029::Urbano e rural,BEAD,W0029,Urbano e rural,identico,sim,nao
+W0029::Vínculo institucional,BEAD,W0029,Vínculo institucional,identico,sim,nao
+W0030::Cultura e informação,BEAD,W0030,Cultura e informação,janelas_mudaram,sim,sim
+W0030::Educação,BEAD,W0030,Educação,janelas_mudaram,sim,sim
+W0030::Escolaridade e letramento,BEAD,W0030,Escolaridade e letramento,identico,sim,nao
+W0030::Infraestrutura e porte populacional,BEAD,W0030,Infraestrutura e porte populacional,identico,sim,nao
+W0030::Raça e etnia,BEAD,W0030,Raça e etnia,identico,sim,nao
+W0030::Renda e classe,BEAD,W0030,Renda e classe,identico,sim,nao
+W0030::Saúde,BEAD,W0030,Saúde,identico,sim,nao
+W0030::Urbano e rural,BEAD,W0030,Urbano e rural,identico,sim,nao
+W0031::Administração pública,BEAD,W0031,Administração pública,identico,sim,nao
+W0031::Cultura e informação,BEAD,W0031,Cultura e informação,janelas_mudaram,sim,sim
+W0031::Domicílio e arranjo familiar,BEAD,W0031,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0031::Educação,BEAD,W0031,Educação,janelas_mudaram,sim,sim
+W0031::Infraestrutura e porte populacional,BEAD,W0031,Infraestrutura e porte populacional,identico,sim,nao
+W0031::Posição no trabalho,BEAD,W0031,Posição no trabalho,identico,sim,nao
+W0031::Renda e classe,BEAD,W0031,Renda e classe,identico,sim,nao
+W0031::Saúde,BEAD,W0031,Saúde,novo,nao,sim
+W0031::Territórios de povos e comunidades tradicionais,BEAD,W0031,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0031::Urbano e rural,BEAD,W0031,Urbano e rural,identico,sim,nao
+W0031::Vínculo institucional,BEAD,W0031,Vínculo institucional,identico,sim,nao
+W0032::Domicílio e arranjo familiar,BEAD,W0032,Domicílio e arranjo familiar,novo,nao,sim
+W0032::Educação,BEAD,W0032,Educação,janelas_mudaram,sim,sim
+W0033::Domicílio e arranjo familiar,BEAD,W0033,Domicílio e arranjo familiar,identico,sim,nao
+W0033::Idade,BEAD,W0033,Idade,identico,sim,nao
+W0033::Infraestrutura e porte populacional,BEAD,W0033,Infraestrutura e porte populacional,identico,sim,nao
+W0033::Posição no trabalho,BEAD,W0033,Posição no trabalho,identico,sim,nao
+W0033::Saúde,BEAD,W0033,Saúde,janelas_mudaram,sim,sim
+W0033::Urbano e rural,BEAD,W0033,Urbano e rural,identico,sim,nao
+W0034::Domicílio e arranjo familiar,BEAD,W0034,Domicílio e arranjo familiar,identico,sim,nao
+W0034::Educação,BEAD,W0034,Educação,janelas_mudaram,sim,sim
+W0034::Escolaridade e letramento,BEAD,W0034,Escolaridade e letramento,identico,sim,nao
+W0034::Infraestrutura e porte populacional,BEAD,W0034,Infraestrutura e porte populacional,identico,sim,nao
+W0034::Posição no trabalho,BEAD,W0034,Posição no trabalho,identico,sim,nao
+W0034::Saúde,BEAD,W0034,Saúde,novo,nao,sim
+W0034::Saúde e deficiência,BEAD,W0034,Saúde e deficiência,identico,sim,nao
+W0034::Urbano e rural,BEAD,W0034,Urbano e rural,identico,sim,nao
+W0035::Educação,BEAD,W0035,Educação,identico,sim,nao
+W0035::Saúde,BEAD,W0035,Saúde,novo,nao,sim
+W0035::Saúde e deficiência,BEAD,W0035,Saúde e deficiência,identico,sim,nao
+W0035::Urbano e rural,BEAD,W0035,Urbano e rural,identico,sim,nao
+W0036::Domicílio e arranjo familiar,BEAD,W0036,Domicílio e arranjo familiar,identico,sim,nao
+W0036::Idade,BEAD,W0036,Idade,novo,nao,sim
+W0037::Idade,BEAD,W0037,Idade,novo,nao,sim
+W0037::Infraestrutura e porte populacional,BEAD,W0037,Infraestrutura e porte populacional,identico,sim,nao
+W0038::Idade,BEAD,W0038,Idade,novo,nao,sim
+W0038::Raça e etnia,BEAD,W0038,Raça e etnia,identico,sim,nao
+W0038::Urbano e rural,BEAD,W0038,Urbano e rural,identico,sim,nao
+W0039::Domicílio e arranjo familiar,BEAD,W0039,Domicílio e arranjo familiar,novo,nao,sim
+W0039::Educação,BEAD,W0039,Educação,identico,sim,nao
+W0039::Idade,BEAD,W0039,Idade,identico,sim,nao
+W0039::Renda e classe,BEAD,W0039,Renda e classe,identico,sim,nao
+W0039::Urbano e rural,BEAD,W0039,Urbano e rural,identico,sim,nao
+W0040::Administração pública,BEAD,W0040,Administração pública,identico,sim,nao
+W0040::Domicílio e arranjo familiar,BEAD,W0040,Domicílio e arranjo familiar,identico,sim,nao
+W0040::Educação,BEAD,W0040,Educação,identico,sim,nao
+W0040::Escolaridade e letramento,BEAD,W0040,Escolaridade e letramento,identico,sim,nao
+W0040::Idade,BEAD,W0040,Idade,identico,sim,nao
+W0040::Infraestrutura e porte populacional,BEAD,W0040,Infraestrutura e porte populacional,identico,sim,nao
+W0040::Macrorregião,BEAD,W0040,Macrorregião,novo,nao,sim
+W0040::Posição no trabalho,BEAD,W0040,Posição no trabalho,identico,sim,nao
+W0040::Saúde,BEAD,W0040,Saúde,identico,sim,nao
+W0040::Urbano e rural,BEAD,W0040,Urbano e rural,identico,sim,nao
+W0041::Idade,BEAD,W0041,Idade,identico,sim,nao
+W0041::Infraestrutura e porte populacional,BEAD,W0041,Infraestrutura e porte populacional,identico,sim,nao
+W0041::Macrorregião,BEAD,W0041,Macrorregião,novo,nao,sim
+W0041::Urbano e rural,BEAD,W0041,Urbano e rural,identico,sim,nao
+W0042::Escolaridade e letramento,BEAD,W0042,Escolaridade e letramento,identico,sim,nao
+W0042::Infraestrutura e porte populacional,BEAD,W0042,Infraestrutura e porte populacional,identico,sim,nao
+W0042::Saúde,BEAD,W0042,Saúde,identico,sim,nao
+W0042::Urbano e rural,BEAD,W0042,Urbano e rural,identico,sim,nao
+W0043::Cultura e informação,BEAD,W0043,Cultura e informação,novo,nao,sim
+W0043::Infraestrutura e porte populacional,BEAD,W0043,Infraestrutura e porte populacional,identico,sim,nao
+W0043::Macrorregião,BEAD,W0043,Macrorregião,novo,nao,sim
+W0043::Urbano e rural,BEAD,W0043,Urbano e rural,identico,sim,nao
+W0044::Domicílio e arranjo familiar,BEAD,W0044,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0044::Educação,BEAD,W0044,Educação,novo,nao,sim
+W0044::Escolaridade e letramento,BEAD,W0044,Escolaridade e letramento,identico,sim,nao
+W0044::Raça e etnia,BEAD,W0044,Raça e etnia,identico,sim,nao
+W0044::Urbano e rural,BEAD,W0044,Urbano e rural,identico,sim,nao
+W0045::Domicílio e arranjo familiar,BEAD,W0045,Domicílio e arranjo familiar,novo,nao,sim
+W0045::Educação,BEAD,W0045,Educação,novo,nao,sim
+W0045::Infraestrutura e porte populacional,BEAD,W0045,Infraestrutura e porte populacional,identico,sim,nao
+W0045::Posição no trabalho,BEAD,W0045,Posição no trabalho,identico,sim,nao
+W0045::Saúde,BEAD,W0045,Saúde,janelas_mudaram,sim,sim
+W0045::Urbano e rural,BEAD,W0045,Urbano e rural,identico,sim,nao
+W0046::Domicílio e arranjo familiar,BEAD,W0046,Domicílio e arranjo familiar,identico,sim,nao
+W0046::Idade,BEAD,W0046,Idade,identico,sim,nao
+W0046::Infraestrutura e porte populacional,BEAD,W0046,Infraestrutura e porte populacional,identico,sim,nao
+W0046::Macrorregião,BEAD,W0046,Macrorregião,identico,sim,nao
+W0046::Urbano e rural,BEAD,W0046,Urbano e rural,identico,sim,nao
+W0047::Domicílio e arranjo familiar,BEAD,W0047,Domicílio e arranjo familiar,identico,sim,nao
+W0047::Educação,BEAD,W0047,Educação,janelas_mudaram,sim,sim
+W0047::Escolaridade e letramento,BEAD,W0047,Escolaridade e letramento,identico,sim,nao
+W0047::Raça e etnia,BEAD,W0047,Raça e etnia,identico,sim,nao
+W0047::Renda e classe,BEAD,W0047,Renda e classe,identico,sim,nao
+W0047::Saúde,BEAD,W0047,Saúde,janelas_mudaram,sim,sim
+W0047::Urbano e rural,BEAD,W0047,Urbano e rural,identico,sim,nao
+W0048::Domicílio e arranjo familiar,BEAD,W0048,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0048::Educação,BEAD,W0048,Educação,janelas_mudaram,sim,sim
+W0048::Escolaridade e letramento,BEAD,W0048,Escolaridade e letramento,identico,sim,nao
+W0048::Idade,BEAD,W0048,Idade,novo,nao,sim
+W0048::Infraestrutura e porte populacional,BEAD,W0048,Infraestrutura e porte populacional,identico,sim,nao
+W0048::Posição no trabalho,BEAD,W0048,Posição no trabalho,identico,sim,nao
+W0048::Urbano e rural,BEAD,W0048,Urbano e rural,identico,sim,nao
+W0049::Idade,BEAD,W0049,Idade,novo,nao,sim
+W0049::Infraestrutura e porte populacional,BEAD,W0049,Infraestrutura e porte populacional,identico,sim,nao
+W0049::Urbano e rural,BEAD,W0049,Urbano e rural,identico,sim,nao
+W0050::Urbano e rural,BEAD,W0050,Urbano e rural,identico,sim,nao
+W0051::Idade,BEAD,W0051,Idade,identico,sim,nao
+W0051::Urbano e rural,BEAD,W0051,Urbano e rural,identico,sim,nao
+W0052::Cultura e informação,BEAD,W0052,Cultura e informação,identico,sim,nao
+W0052::Domicílio e arranjo familiar,BEAD,W0052,Domicílio e arranjo familiar,identico,sim,nao
+W0052::Educação,BEAD,W0052,Educação,janelas_mudaram,sim,sim
+W0052::Escolaridade e letramento,BEAD,W0052,Escolaridade e letramento,novo,nao,sim
+W0052::Infraestrutura e porte populacional,BEAD,W0052,Infraestrutura e porte populacional,identico,sim,nao
+W0052::Renda e classe,BEAD,W0052,Renda e classe,identico,sim,nao
+W0052::Saúde,BEAD,W0052,Saúde,identico,sim,nao
+W0052::Territórios de povos e comunidades tradicionais,BEAD,W0052,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0052::Urbano e rural,BEAD,W0052,Urbano e rural,identico,sim,nao
+W0053::Domicílio e arranjo familiar,BEAD,W0053,Domicílio e arranjo familiar,identico,sim,nao
+W0053::Infraestrutura e porte populacional,BEAD,W0053,Infraestrutura e porte populacional,identico,sim,nao
+W0053::Urbano e rural,BEAD,W0053,Urbano e rural,identico,sim,nao
+W0054::Escolaridade e letramento,BEAD,W0054,Escolaridade e letramento,identico,sim,nao
+W0054::Idade,BEAD,W0054,Idade,novo,nao,sim
+W0054::Saúde,BEAD,W0054,Saúde,novo,nao,sim
+W0054::Saúde e deficiência,BEAD,W0054,Saúde e deficiência,identico,sim,nao
+W0054::Urbano e rural,BEAD,W0054,Urbano e rural,identico,sim,nao
+W0055::Domicílio e arranjo familiar,BEAD,W0055,Domicílio e arranjo familiar,identico,sim,nao
+W0055::Escolaridade e letramento,BEAD,W0055,Escolaridade e letramento,identico,sim,nao
+W0055::Idade,BEAD,W0055,Idade,novo,nao,sim
+W0055::Infraestrutura e porte populacional,BEAD,W0055,Infraestrutura e porte populacional,identico,sim,nao
+W0055::Macrorregião,BEAD,W0055,Macrorregião,identico,sim,nao
+W0055::Saúde,BEAD,W0055,Saúde,identico,sim,nao
+W0055::Urbano e rural,BEAD,W0055,Urbano e rural,identico,sim,nao
+W0056::Cultura e informação,BEAD,W0056,Cultura e informação,novo,nao,sim
+W0056::Domicílio e arranjo familiar,BEAD,W0056,Domicílio e arranjo familiar,identico,sim,nao
+W0056::Educação,BEAD,W0056,Educação,janelas_mudaram,sim,sim
+W0056::Escolaridade e letramento,BEAD,W0056,Escolaridade e letramento,identico,sim,nao
+W0056::Idade,BEAD,W0056,Idade,novo,nao,sim
+W0056::Infraestrutura e porte populacional,BEAD,W0056,Infraestrutura e porte populacional,identico,sim,nao
+W0056::Raça e etnia,BEAD,W0056,Raça e etnia,identico,sim,nao
+W0056::Saúde,BEAD,W0056,Saúde,identico,sim,nao
+W0056::Saúde e deficiência,BEAD,W0056,Saúde e deficiência,identico,sim,nao
+W0056::Territórios de povos e comunidades tradicionais,BEAD,W0056,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0056::Urbano e rural,BEAD,W0056,Urbano e rural,identico,sim,nao
+W0058::Escolaridade e letramento,BEAD,W0058,Escolaridade e letramento,identico,sim,nao
+W0058::Infraestrutura e porte populacional,BEAD,W0058,Infraestrutura e porte populacional,identico,sim,nao
+W0058::Urbano e rural,BEAD,W0058,Urbano e rural,identico,sim,nao
+W0059::Cultura e informação,BEAD,W0059,Cultura e informação,novo,nao,sim
+W0059::Domicílio e arranjo familiar,BEAD,W0059,Domicílio e arranjo familiar,novo,nao,sim
+W0059::Infraestrutura e porte populacional,BEAD,W0059,Infraestrutura e porte populacional,identico,sim,nao
+W0059::Saúde,BEAD,W0059,Saúde,identico,sim,nao
+W0059::Urbano e rural,BEAD,W0059,Urbano e rural,identico,sim,nao
+W0060::Domicílio e arranjo familiar,BEAD,W0060,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0060::Educação,BEAD,W0060,Educação,novo,nao,sim
+W0060::Escolaridade e letramento,BEAD,W0060,Escolaridade e letramento,identico,sim,nao
+W0060::Infraestrutura e porte populacional,BEAD,W0060,Infraestrutura e porte populacional,identico,sim,nao
+W0060::Posição no trabalho,BEAD,W0060,Posição no trabalho,identico,sim,nao
+W0060::Urbano e rural,BEAD,W0060,Urbano e rural,identico,sim,nao
+W0061::Urbano e rural,BEAD,W0061,Urbano e rural,identico,sim,nao
+W0062::Domicílio e arranjo familiar,BEAD,W0062,Domicílio e arranjo familiar,identico,sim,nao
+W0062::Infraestrutura e porte populacional,BEAD,W0062,Infraestrutura e porte populacional,identico,sim,nao
+W0062::Urbano e rural,BEAD,W0062,Urbano e rural,identico,sim,nao
+W0063::Domicílio e arranjo familiar,BEAD,W0063,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0063::Infraestrutura e porte populacional,BEAD,W0063,Infraestrutura e porte populacional,identico,sim,nao
+W0063::Macrorregião,BEAD,W0063,Macrorregião,novo,nao,sim
+W0063::Posição no trabalho,BEAD,W0063,Posição no trabalho,identico,sim,nao
+W0063::Urbano e rural,BEAD,W0063,Urbano e rural,identico,sim,nao
+W0064::Domicílio e arranjo familiar,BEAD,W0064,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0064::Infraestrutura e porte populacional,BEAD,W0064,Infraestrutura e porte populacional,identico,sim,nao
+W0064::Urbano e rural,BEAD,W0064,Urbano e rural,identico,sim,nao
+W0065::Cultura e informação,BEAD,W0065,Cultura e informação,identico,sim,nao
+W0065::Domicílio e arranjo familiar,BEAD,W0065,Domicílio e arranjo familiar,identico,sim,nao
+W0065::Escolaridade e letramento,BEAD,W0065,Escolaridade e letramento,identico,sim,nao
+W0065::Infraestrutura e porte populacional,BEAD,W0065,Infraestrutura e porte populacional,identico,sim,nao
+W0065::Macrorregião,BEAD,W0065,Macrorregião,identico,sim,nao
+W0065::Posição no trabalho,BEAD,W0065,Posição no trabalho,identico,sim,nao
+W0065::Raça e etnia,BEAD,W0065,Raça e etnia,identico,sim,nao
+W0065::Urbano e rural,BEAD,W0065,Urbano e rural,identico,sim,nao
+W0066::Infraestrutura e porte populacional,BEAD,W0066,Infraestrutura e porte populacional,identico,sim,nao
+W0066::Saúde,BEAD,W0066,Saúde,identico,sim,nao
+W0066::Urbano e rural,BEAD,W0066,Urbano e rural,identico,sim,nao
+W0067::Idade,BEAD,W0067,Idade,novo,nao,sim
+W0067::Urbano e rural,BEAD,W0067,Urbano e rural,identico,sim,nao
+W0068::Idade,BEAD,W0068,Idade,novo,nao,sim
+W0068::Infraestrutura e porte populacional,BEAD,W0068,Infraestrutura e porte populacional,identico,sim,nao
+W0068::Saúde,BEAD,W0068,Saúde,identico,sim,nao
+W0068::Urbano e rural,BEAD,W0068,Urbano e rural,identico,sim,nao
+W0069::Domicílio e arranjo familiar,BEAD,W0069,Domicílio e arranjo familiar,novo,nao,sim
+W0069::Urbano e rural,BEAD,W0069,Urbano e rural,identico,sim,nao
+W0070::Domicílio e arranjo familiar,BEAD,W0070,Domicílio e arranjo familiar,identico,sim,nao
+W0070::Idade,BEAD,W0070,Idade,identico,sim,nao
+W0071::Posição no trabalho,BEAD,W0071,Posição no trabalho,identico,sim,nao
+W0071::Saúde,BEAD,W0071,Saúde,janelas_mudaram,sim,sim
+W0071::Urbano e rural,BEAD,W0071,Urbano e rural,identico,sim,nao
+W0072::Educação,BEAD,W0072,Educação,janelas_mudaram,sim,sim
+W0072::Escolaridade e letramento,BEAD,W0072,Escolaridade e letramento,identico,sim,nao
+W0072::Urbano e rural,BEAD,W0072,Urbano e rural,identico,sim,nao
+W0074::Educação,BEAD,W0074,Educação,novo,nao,sim
+W0074::Infraestrutura e porte populacional,BEAD,W0074,Infraestrutura e porte populacional,identico,sim,nao
+W0074::Macrorregião,BEAD,W0074,Macrorregião,novo,nao,sim
+W0074::Urbano e rural,BEAD,W0074,Urbano e rural,identico,sim,nao
+W0075::Domicílio e arranjo familiar,BEAD,W0075,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0075::Escolaridade e letramento,BEAD,W0075,Escolaridade e letramento,identico,sim,nao
+W0075::Infraestrutura e porte populacional,BEAD,W0075,Infraestrutura e porte populacional,identico,sim,nao
+W0075::Urbano e rural,BEAD,W0075,Urbano e rural,identico,sim,nao
+W0076::Domicílio e arranjo familiar,BEAD,W0076,Domicílio e arranjo familiar,novo,nao,sim
+W0076::Educação,BEAD,W0076,Educação,janelas_mudaram,sim,sim
+W0076::Gênero,BEAD,W0076,Gênero,identico,sim,nao
+W0076::Idade,BEAD,W0076,Idade,identico,sim,nao
+W0076::Saúde e deficiência,BEAD,W0076,Saúde e deficiência,identico,sim,nao
+W0076::Urbano e rural,BEAD,W0076,Urbano e rural,identico,sim,nao
+W0077::Cultura e informação,BEAD,W0077,Cultura e informação,novo,nao,sim
+W0077::Domicílio e arranjo familiar,BEAD,W0077,Domicílio e arranjo familiar,novo,nao,sim
+W0077::Educação,BEAD,W0077,Educação,novo,nao,sim
+W0077::Escolaridade e letramento,BEAD,W0077,Escolaridade e letramento,identico,sim,nao
+W0077::Gênero,BEAD,W0077,Gênero,identico,sim,nao
+W0077::Idade,BEAD,W0077,Idade,identico,sim,nao
+W0077::Posição no trabalho,BEAD,W0077,Posição no trabalho,identico,sim,nao
+W0077::Raça e etnia,BEAD,W0077,Raça e etnia,identico,sim,nao
+W0077::Saúde,BEAD,W0077,Saúde,identico,sim,nao
+W0077::Urbano e rural,BEAD,W0077,Urbano e rural,identico,sim,nao
+W0078::Gênero,BEAD,W0078,Gênero,identico,sim,nao
+W0078::Saúde e deficiência,BEAD,W0078,Saúde e deficiência,identico,sim,nao
+W0080::Educação,BEAD,W0080,Educação,janelas_mudaram,sim,sim
+W0080::Gênero,BEAD,W0080,Gênero,identico,sim,nao
+W0080::Idade,BEAD,W0080,Idade,novo,nao,sim
+W0080::Posição no trabalho,BEAD,W0080,Posição no trabalho,identico,sim,nao
+W0080::Raça e etnia,BEAD,W0080,Raça e etnia,identico,sim,nao
+W0081::Educação,BEAD,W0081,Educação,novo,nao,sim
+W0081::Idade,BEAD,W0081,Idade,identico,sim,nao
+W0082::Domicílio e arranjo familiar,BEAD,W0082,Domicílio e arranjo familiar,novo,nao,sim
+W0082::Gênero,BEAD,W0082,Gênero,identico,sim,nao
+W0082::Vínculo institucional,BEAD,W0082,Vínculo institucional,novo,nao,sim
+W0083::Macrorregião,BEAD,W0083,Macrorregião,identico,sim,nao
+W0084::Idade,BEAD,W0084,Idade,identico,sim,nao
+W0085::Domicílio e arranjo familiar,BEAD,W0085,Domicílio e arranjo familiar,identico,sim,nao
+W0085::Escolaridade e letramento,BEAD,W0085,Escolaridade e letramento,identico,sim,nao
+W0085::Infraestrutura e porte populacional,BEAD,W0085,Infraestrutura e porte populacional,identico,sim,nao
+W0085::Territórios de povos e comunidades tradicionais,BEAD,W0085,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0085::Urbano e rural,BEAD,W0085,Urbano e rural,identico,sim,nao
+W0086::Cultura e informação,BEAD,W0086,Cultura e informação,identico,sim,nao
+W0086::Domicílio e arranjo familiar,BEAD,W0086,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0086::Educação,BEAD,W0086,Educação,identico,sim,nao
+W0086::Idade,BEAD,W0086,Idade,novo,nao,sim
+W0086::Saúde,BEAD,W0086,Saúde,identico,sim,nao
+W0086::Urbano e rural,BEAD,W0086,Urbano e rural,identico,sim,nao
+W0087::Urbano e rural,BEAD,W0087,Urbano e rural,identico,sim,nao
+W0088::Idade,BEAD,W0088,Idade,identico,sim,nao
+W0088::Posição no trabalho,BEAD,W0088,Posição no trabalho,identico,sim,nao
+W0088::Saúde e deficiência,BEAD,W0088,Saúde e deficiência,identico,sim,nao
+W0088::Urbano e rural,BEAD,W0088,Urbano e rural,identico,sim,nao
+W0088::Vínculo institucional,BEAD,W0088,Vínculo institucional,janelas_mudaram,sim,sim
+W0089::Domicílio e arranjo familiar,BEAD,W0089,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0089::Educação,BEAD,W0089,Educação,identico,sim,nao
+W0089::Escolaridade e letramento,BEAD,W0089,Escolaridade e letramento,identico,sim,nao
+W0089::Posição no trabalho,BEAD,W0089,Posição no trabalho,identico,sim,nao
+W0089::Renda e classe,BEAD,W0089,Renda e classe,identico,sim,nao
+W0089::Saúde,BEAD,W0089,Saúde,janelas_mudaram,sim,sim
+W0089::Urbano e rural,BEAD,W0089,Urbano e rural,identico,sim,nao
+W0089::Vínculo institucional,BEAD,W0089,Vínculo institucional,identico,sim,nao
+W0090::Cultura e informação,BEAD,W0090,Cultura e informação,janelas_mudaram,sim,sim
+W0090::Domicílio e arranjo familiar,BEAD,W0090,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0090::Educação,BEAD,W0090,Educação,novo,nao,sim
+W0090::Escolaridade e letramento,BEAD,W0090,Escolaridade e letramento,identico,sim,nao
+W0090::Gênero,BEAD,W0090,Gênero,identico,sim,nao
+W0090::Idade,BEAD,W0090,Idade,novo,nao,sim
+W0090::Infraestrutura e porte populacional,BEAD,W0090,Infraestrutura e porte populacional,identico,sim,nao
+W0090::Posição no trabalho,BEAD,W0090,Posição no trabalho,identico,sim,nao
+W0090::Renda e classe,BEAD,W0090,Renda e classe,identico,sim,nao
+W0090::Saúde,BEAD,W0090,Saúde,janelas_mudaram,sim,sim
+W0090::Saúde e deficiência,BEAD,W0090,Saúde e deficiência,identico,sim,nao
+W0090::Territórios de povos e comunidades tradicionais,BEAD,W0090,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0090::Urbano e rural,BEAD,W0090,Urbano e rural,identico,sim,nao
+W0091::Cultura e informação,BEAD,W0091,Cultura e informação,janelas_mudaram,sim,sim
+W0091::Domicílio e arranjo familiar,BEAD,W0091,Domicílio e arranjo familiar,identico,sim,nao
+W0091::Educação,BEAD,W0091,Educação,novo,nao,sim
+W0091::Escolaridade e letramento,BEAD,W0091,Escolaridade e letramento,janelas_mudaram,sim,sim
+W0091::Idade,BEAD,W0091,Idade,identico,sim,nao
+W0091::Posição no trabalho,BEAD,W0091,Posição no trabalho,identico,sim,nao
+W0091::Urbano e rural,BEAD,W0091,Urbano e rural,identico,sim,nao
+W0093::Gênero,BEAD,W0093,Gênero,identico,sim,nao
+W0093::Idade,BEAD,W0093,Idade,novo,nao,sim
+W0093::Infraestrutura e porte populacional,BEAD,W0093,Infraestrutura e porte populacional,identico,sim,nao
+W0093::Raça e etnia,BEAD,W0093,Raça e etnia,identico,sim,nao
+W0093::Saúde e deficiência,BEAD,W0093,Saúde e deficiência,identico,sim,nao
+W0094::Cultura e informação,BEAD,W0094,Cultura e informação,novo,nao,sim
+W0094::Domicílio e arranjo familiar,BEAD,W0094,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0094::Educação,BEAD,W0094,Educação,janelas_mudaram,sim,sim
+W0094::Escolaridade e letramento,BEAD,W0094,Escolaridade e letramento,janelas_mudaram,sim,sim
+W0094::Gênero,BEAD,W0094,Gênero,identico,sim,nao
+W0094::Posição no trabalho,BEAD,W0094,Posição no trabalho,janelas_mudaram,sim,sim
+W0094::Raça e etnia,BEAD,W0094,Raça e etnia,identico,sim,nao
+W0094::Saúde e deficiência,BEAD,W0094,Saúde e deficiência,identico,sim,nao
+W0094::Urbano e rural,BEAD,W0094,Urbano e rural,identico,sim,nao
+W0095::Domicílio e arranjo familiar,BEAD,W0095,Domicílio e arranjo familiar,novo,nao,sim
+W0095::Gênero,BEAD,W0095,Gênero,identico,sim,nao
+W0095::Idade,BEAD,W0095,Idade,janelas_mudaram,sim,sim
+W0095::Raça e etnia,BEAD,W0095,Raça e etnia,identico,sim,nao
+W0095::Vínculo institucional,BEAD,W0095,Vínculo institucional,novo,nao,sim
+W0096::Domicílio e arranjo familiar,BEAD,W0096,Domicílio e arranjo familiar,identico,sim,nao
+W0096::Gênero,BEAD,W0096,Gênero,identico,sim,nao
+W0096::Idade,BEAD,W0096,Idade,novo,nao,sim
+W0096::Raça e etnia,BEAD,W0096,Raça e etnia,identico,sim,nao
+W0097::Administração pública,BEAD,W0097,Administração pública,identico,sim,nao
+W0097::Domicílio e arranjo familiar,BEAD,W0097,Domicílio e arranjo familiar,identico,sim,nao
+W0097::Educação,BEAD,W0097,Educação,novo,nao,sim
+W0097::Escolaridade e letramento,BEAD,W0097,Escolaridade e letramento,janelas_mudaram,sim,sim
+W0097::Gênero,BEAD,W0097,Gênero,identico,sim,nao
+W0097::Infraestrutura e porte populacional,BEAD,W0097,Infraestrutura e porte populacional,identico,sim,nao
+W0097::Renda e classe,BEAD,W0097,Renda e classe,identico,sim,nao
+W0097::Urbano e rural,BEAD,W0097,Urbano e rural,identico,sim,nao
+W0098::Administração pública,BEAD,W0098,Administração pública,identico,sim,nao
+W0098::Cultura e informação,BEAD,W0098,Cultura e informação,janelas_mudaram,sim,sim
+W0098::Domicílio e arranjo familiar,BEAD,W0098,Domicílio e arranjo familiar,identico,sim,nao
+W0098::Educação,BEAD,W0098,Educação,janelas_mudaram,sim,sim
+W0098::Escolaridade e letramento,BEAD,W0098,Escolaridade e letramento,identico,sim,nao
+W0098::Posição no trabalho,BEAD,W0098,Posição no trabalho,identico,sim,nao
+W0098::Renda e classe,BEAD,W0098,Renda e classe,identico,sim,nao
+W0098::Saúde,BEAD,W0098,Saúde,janelas_mudaram,sim,sim
+W0098::Urbano e rural,BEAD,W0098,Urbano e rural,identico,sim,nao
+W0099::Cultura e informação,BEAD,W0099,Cultura e informação,novo,nao,sim
+W0099::Domicílio e arranjo familiar,BEAD,W0099,Domicílio e arranjo familiar,identico,sim,nao
+W0099::Educação,BEAD,W0099,Educação,janelas_mudaram,sim,sim
+W0099::Escolaridade e letramento,BEAD,W0099,Escolaridade e letramento,identico,sim,nao
+W0099::Idade,BEAD,W0099,Idade,identico,sim,nao
+W0099::Infraestrutura e porte populacional,BEAD,W0099,Infraestrutura e porte populacional,identico,sim,nao
+W0099::Posição no trabalho,BEAD,W0099,Posição no trabalho,identico,sim,nao
+W0099::Renda e classe,BEAD,W0099,Renda e classe,identico,sim,nao
+W0099::Saúde,BEAD,W0099,Saúde,janelas_mudaram,sim,sim
+W0099::Saúde e deficiência,BEAD,W0099,Saúde e deficiência,identico,sim,nao
+W0099::Urbano e rural,BEAD,W0099,Urbano e rural,identico,sim,nao
+W0099::Vínculo institucional,BEAD,W0099,Vínculo institucional,identico,sim,nao
+W0100::Administração pública,BEAD,W0100,Administração pública,identico,sim,nao
+W0100::Cultura e informação,BEAD,W0100,Cultura e informação,identico,sim,nao
+W0100::Domicílio e arranjo familiar,BEAD,W0100,Domicílio e arranjo familiar,identico,sim,nao
+W0100::Escolaridade e letramento,BEAD,W0100,Escolaridade e letramento,janelas_mudaram,sim,sim
+W0100::Idade,BEAD,W0100,Idade,identico,sim,nao
+W0100::Posição no trabalho,BEAD,W0100,Posição no trabalho,identico,sim,nao
+W0100::Renda e classe,BEAD,W0100,Renda e classe,identico,sim,nao
+W0100::Urbano e rural,BEAD,W0100,Urbano e rural,identico,sim,nao
+W0100::Vínculo institucional,BEAD,W0100,Vínculo institucional,identico,sim,nao
+W0101::Cultura e informação,BEAD,W0101,Cultura e informação,janelas_mudaram,sim,sim
+W0101::Domicílio e arranjo familiar,BEAD,W0101,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0101::Educação,BEAD,W0101,Educação,so_termos,sim,nao
+W0101::Escolaridade e letramento,BEAD,W0101,Escolaridade e letramento,identico,sim,nao
+W0101::Idade,BEAD,W0101,Idade,janelas_mudaram,sim,sim
+W0101::Infraestrutura e porte populacional,BEAD,W0101,Infraestrutura e porte populacional,identico,sim,nao
+W0101::Macrorregião,BEAD,W0101,Macrorregião,identico,sim,nao
+W0101::Posição no trabalho,BEAD,W0101,Posição no trabalho,identico,sim,nao
+W0101::Raça e etnia,BEAD,W0101,Raça e etnia,identico,sim,nao
+W0101::Renda e classe,BEAD,W0101,Renda e classe,identico,sim,nao
+W0101::Saúde e deficiência,BEAD,W0101,Saúde e deficiência,identico,sim,nao
+W0101::Urbano e rural,BEAD,W0101,Urbano e rural,identico,sim,nao
+W0102::Administração pública,BEAD,W0102,Administração pública,identico,sim,nao
+W0102::Educação,BEAD,W0102,Educação,novo,nao,sim
+W0102::Macrorregião,BEAD,W0102,Macrorregião,novo,nao,sim
+W0102::Saúde,BEAD,W0102,Saúde,identico,sim,nao
+W0102::Urbano e rural,BEAD,W0102,Urbano e rural,identico,sim,nao
+W0103::Administração pública,BEAD,W0103,Administração pública,identico,sim,nao
+W0103::Domicílio e arranjo familiar,BEAD,W0103,Domicílio e arranjo familiar,novo,nao,sim
+W0104::Macrorregião,BEAD,W0104,Macrorregião,identico,sim,nao
+W0104::Urbano e rural,BEAD,W0104,Urbano e rural,identico,sim,nao
+W0105::Cultura e informação,BEAD,W0105,Cultura e informação,identico,sim,nao
+W0105::Domicílio e arranjo familiar,BEAD,W0105,Domicílio e arranjo familiar,novo,nao,sim
+W0105::Educação,BEAD,W0105,Educação,novo,nao,sim
+W0105::Idade,BEAD,W0105,Idade,novo,nao,sim
+W0105::Macrorregião,BEAD,W0105,Macrorregião,identico,sim,nao
+W0105::Urbano e rural,BEAD,W0105,Urbano e rural,identico,sim,nao
+W0106::Administração pública,BEAD,W0106,Administração pública,identico,sim,nao
+W0106::Domicílio e arranjo familiar,BEAD,W0106,Domicílio e arranjo familiar,novo,nao,sim
+W0106::Macrorregião,BEAD,W0106,Macrorregião,identico,sim,nao
+W0107::Domicílio e arranjo familiar,BEAD,W0107,Domicílio e arranjo familiar,novo,nao,sim
+W0107::Gênero,BEAD,W0107,Gênero,identico,sim,nao
+W0107::Idade,BEAD,W0107,Idade,identico,sim,nao
+W0107::Raça e etnia,BEAD,W0107,Raça e etnia,identico,sim,nao
+W0107::Saúde,BEAD,W0107,Saúde,novo,nao,sim
+W0107::Territórios de povos e comunidades tradicionais,BEAD,W0107,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0107::Vínculo institucional,BEAD,W0107,Vínculo institucional,identico,sim,nao
+W0109::Domicílio e arranjo familiar,BEAD,W0109,Domicílio e arranjo familiar,identico,sim,nao
+W0109::Educação,BEAD,W0109,Educação,novo,nao,sim
+W0109::Renda e classe,BEAD,W0109,Renda e classe,identico,sim,nao
+W0109::Saúde,BEAD,W0109,Saúde,so_termos,sim,nao
+W0109::Saúde e deficiência,BEAD,W0109,Saúde e deficiência,identico,sim,nao
+W0109::Urbano e rural,BEAD,W0109,Urbano e rural,identico,sim,nao
+W0112::Domicílio e arranjo familiar,BEAD,W0112,Domicílio e arranjo familiar,identico,sim,nao
+W0112::Escolaridade e letramento,BEAD,W0112,Escolaridade e letramento,identico,sim,nao
+W0112::Idade,BEAD,W0112,Idade,identico,sim,nao
+W0112::Infraestrutura e porte populacional,BEAD,W0112,Infraestrutura e porte populacional,identico,sim,nao
+W0112::Urbano e rural,BEAD,W0112,Urbano e rural,identico,sim,nao
+W0113::Administração pública,BEAD,W0113,Administração pública,identico,sim,nao
+W0113::Domicílio e arranjo familiar,BEAD,W0113,Domicílio e arranjo familiar,novo,nao,sim
+W0113::Educação,BEAD,W0113,Educação,novo,nao,sim
+W0113::Idade,BEAD,W0113,Idade,janelas_mudaram,sim,sim
+W0113::Raça e etnia,BEAD,W0113,Raça e etnia,identico,sim,nao
+W0113::Saúde e deficiência,BEAD,W0113,Saúde e deficiência,identico,sim,nao
+W0114::Cultura e informação,BEAD,W0114,Cultura e informação,novo,nao,sim
+W0114::Domicílio e arranjo familiar,BEAD,W0114,Domicílio e arranjo familiar,identico,sim,nao
+W0114::Educação,BEAD,W0114,Educação,novo,nao,sim
+W0114::Saúde,BEAD,W0114,Saúde,novo,nao,sim
+W0114::Saúde e deficiência,BEAD,W0114,Saúde e deficiência,identico,sim,nao
+W0114::Urbano e rural,BEAD,W0114,Urbano e rural,identico,sim,nao
+W0115::Cultura e informação,BEAD,W0115,Cultura e informação,janelas_mudaram,sim,sim
+W0115::Domicílio e arranjo familiar,BEAD,W0115,Domicílio e arranjo familiar,identico,sim,nao
+W0115::Educação,BEAD,W0115,Educação,janelas_mudaram,sim,sim
+W0115::Escolaridade e letramento,BEAD,W0115,Escolaridade e letramento,identico,sim,nao
+W0115::Idade,BEAD,W0115,Idade,identico,sim,nao
+W0115::Infraestrutura e porte populacional,BEAD,W0115,Infraestrutura e porte populacional,identico,sim,nao
+W0115::Posição no trabalho,BEAD,W0115,Posição no trabalho,identico,sim,nao
+W0115::Renda e classe,BEAD,W0115,Renda e classe,identico,sim,nao
+W0115::Saúde,BEAD,W0115,Saúde,identico,sim,nao
+W0115::Saúde e deficiência,BEAD,W0115,Saúde e deficiência,identico,sim,nao
+W0115::Urbano e rural,BEAD,W0115,Urbano e rural,identico,sim,nao
+W0116::Domicílio e arranjo familiar,BEAD,W0116,Domicílio e arranjo familiar,identico,sim,nao
+W0116::Educação,BEAD,W0116,Educação,janelas_mudaram,sim,sim
+W0116::Escolaridade e letramento,BEAD,W0116,Escolaridade e letramento,identico,sim,nao
+W0116::Idade,BEAD,W0116,Idade,novo,nao,sim
+W0116::Saúde e deficiência,BEAD,W0116,Saúde e deficiência,identico,sim,nao
+W0116::Urbano e rural,BEAD,W0116,Urbano e rural,identico,sim,nao
+W0116::Vínculo institucional,BEAD,W0116,Vínculo institucional,identico,sim,nao
+W0117::Domicílio e arranjo familiar,BEAD,W0117,Domicílio e arranjo familiar,novo,nao,sim
+W0117::Educação,BEAD,W0117,Educação,identico,sim,nao
+W0117::Idade,BEAD,W0117,Idade,janelas_mudaram,sim,sim
+W0117::Saúde,BEAD,W0117,Saúde,identico,sim,nao
+W0117::Urbano e rural,BEAD,W0117,Urbano e rural,identico,sim,nao
+W0117::Vínculo institucional,BEAD,W0117,Vínculo institucional,novo,nao,sim
+W0118::Educação,BEAD,W0118,Educação,novo,nao,sim
+W0118::Idade,BEAD,W0118,Idade,janelas_mudaram,sim,sim
+W0119::Administração pública,BEAD,W0119,Administração pública,identico,sim,nao
+W0119::Gênero,BEAD,W0119,Gênero,identico,sim,nao
+W0119::Macrorregião,BEAD,W0119,Macrorregião,janelas_mudaram,sim,sim
+W0119::Posição no trabalho,BEAD,W0119,Posição no trabalho,identico,sim,nao
+W0119::Saúde,BEAD,W0119,Saúde,janelas_mudaram,sim,sim
+W0119::Urbano e rural,BEAD,W0119,Urbano e rural,identico,sim,nao
+W0120::Educação,BEAD,W0120,Educação,novo,nao,sim
+W0120::Idade,BEAD,W0120,Idade,janelas_mudaram,sim,sim
+W0120::Macrorregião,BEAD,W0120,Macrorregião,identico,sim,nao
+W0120::Posição no trabalho,BEAD,W0120,Posição no trabalho,identico,sim,nao
+W0120::Saúde,BEAD,W0120,Saúde,identico,sim,nao
+W0120::Urbano e rural,BEAD,W0120,Urbano e rural,identico,sim,nao
+W0121::Idade,BEAD,W0121,Idade,identico,sim,nao
+W0121::Macrorregião,BEAD,W0121,Macrorregião,janelas_mudaram,sim,sim
+W0121::Urbano e rural,BEAD,W0121,Urbano e rural,identico,sim,nao
+W0122::Cultura e informação,BEAD,W0122,Cultura e informação,janelas_mudaram,sim,sim
+W0122::Domicílio e arranjo familiar,BEAD,W0122,Domicílio e arranjo familiar,so_termos,sim,nao
+W0122::Educação,BEAD,W0122,Educação,janelas_mudaram,sim,sim
+W0122::Escolaridade e letramento,BEAD,W0122,Escolaridade e letramento,identico,sim,nao
+W0122::Infraestrutura e porte populacional,BEAD,W0122,Infraestrutura e porte populacional,identico,sim,nao
+W0122::Raça e etnia,BEAD,W0122,Raça e etnia,identico,sim,nao
+W0122::Renda e classe,BEAD,W0122,Renda e classe,identico,sim,nao
+W0122::Saúde,BEAD,W0122,Saúde,identico,sim,nao
+W0122::Territórios de povos e comunidades tradicionais,BEAD,W0122,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0122::Urbano e rural,BEAD,W0122,Urbano e rural,identico,sim,nao
+W0123::Administração pública,BEAD,W0123,Administração pública,identico,sim,nao
+W0123::Cultura e informação,BEAD,W0123,Cultura e informação,identico,sim,nao
+W0123::Domicílio e arranjo familiar,BEAD,W0123,Domicílio e arranjo familiar,identico,sim,nao
+W0123::Educação,BEAD,W0123,Educação,identico,sim,nao
+W0123::Infraestrutura e porte populacional,BEAD,W0123,Infraestrutura e porte populacional,identico,sim,nao
+W0123::Posição no trabalho,BEAD,W0123,Posição no trabalho,identico,sim,nao
+W0123::Raça e etnia,BEAD,W0123,Raça e etnia,identico,sim,nao
+W0123::Renda e classe,BEAD,W0123,Renda e classe,identico,sim,nao
+W0123::Saúde,BEAD,W0123,Saúde,identico,sim,nao
+W0123::Territórios de povos e comunidades tradicionais,BEAD,W0123,Territórios de povos e comunidades tradicionais,janelas_mudaram,sim,sim
+W0123::Urbano e rural,BEAD,W0123,Urbano e rural,identico,sim,nao
+W0125::Domicílio e arranjo familiar,BEAD,W0125,Domicílio e arranjo familiar,identico,sim,nao
+W0125::Educação,BEAD,W0125,Educação,novo,nao,sim
+W0125::Renda e classe,BEAD,W0125,Renda e classe,identico,sim,nao
+W0125::Territórios de povos e comunidades tradicionais,BEAD,W0125,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0125::Urbano e rural,BEAD,W0125,Urbano e rural,identico,sim,nao
+W0126::Domicílio e arranjo familiar,BEAD,W0126,Domicílio e arranjo familiar,novo,nao,sim
+W0126::Educação,BEAD,W0126,Educação,janelas_mudaram,sim,sim
+W0126::Escolaridade e letramento,BEAD,W0126,Escolaridade e letramento,janelas_mudaram,sim,sim
+W0126::Gênero,BEAD,W0126,Gênero,identico,sim,nao
+W0126::Idade,BEAD,W0126,Idade,identico,sim,nao
+W0126::Raça e etnia,BEAD,W0126,Raça e etnia,identico,sim,nao
+W0126::Saúde e deficiência,BEAD,W0126,Saúde e deficiência,identico,sim,nao
+W0127::Educação,BEAD,W0127,Educação,novo,nao,sim
+W0127::Raça e etnia,BEAD,W0127,Raça e etnia,identico,sim,nao
+W0128::Administração pública,BEAD,W0128,Administração pública,identico,sim,nao
+W0128::Domicílio e arranjo familiar,BEAD,W0128,Domicílio e arranjo familiar,novo,nao,sim
+W0128::Educação,BEAD,W0128,Educação,novo,nao,sim
+W0128::Idade,BEAD,W0128,Idade,identico,sim,nao
+W0128::Saúde,BEAD,W0128,Saúde,novo,nao,sim
+W0128::Saúde e deficiência,BEAD,W0128,Saúde e deficiência,identico,sim,nao
+W0129::Educação,BEAD,W0129,Educação,janelas_mudaram,sim,sim
+W0129::Gênero,BEAD,W0129,Gênero,identico,sim,nao
+W0129::Idade,BEAD,W0129,Idade,novo,nao,sim
+W0129::Posição no trabalho,BEAD,W0129,Posição no trabalho,identico,sim,nao
+W0129::Saúde e deficiência,BEAD,W0129,Saúde e deficiência,identico,sim,nao
+W0129::Urbano e rural,BEAD,W0129,Urbano e rural,identico,sim,nao
+W0130::Administração pública,BEAD,W0130,Administração pública,identico,sim,nao
+W0130::Domicílio e arranjo familiar,BEAD,W0130,Domicílio e arranjo familiar,identico,sim,nao
+W0130::Idade,BEAD,W0130,Idade,janelas_mudaram,sim,sim
+W0130::Infraestrutura e porte populacional,BEAD,W0130,Infraestrutura e porte populacional,identico,sim,nao
+W0130::Posição no trabalho,BEAD,W0130,Posição no trabalho,identico,sim,nao
+W0130::Raça e etnia,BEAD,W0130,Raça e etnia,identico,sim,nao
+W0130::Saúde,BEAD,W0130,Saúde,novo,nao,sim
+W0130::Urbano e rural,BEAD,W0130,Urbano e rural,identico,sim,nao
+W0131::Posição no trabalho,BEAD,W0131,Posição no trabalho,identico,sim,nao
+W0131::Urbano e rural,BEAD,W0131,Urbano e rural,identico,sim,nao
+W0132::Domicílio e arranjo familiar,BEAD,W0132,Domicílio e arranjo familiar,identico,sim,nao
+W0132::Educação,BEAD,W0132,Educação,novo,nao,sim
+W0132::Infraestrutura e porte populacional,BEAD,W0132,Infraestrutura e porte populacional,identico,sim,nao
+W0132::Raça e etnia,BEAD,W0132,Raça e etnia,identico,sim,nao
+W0132::Saúde,BEAD,W0132,Saúde,janelas_mudaram,sim,sim
+W0132::Urbano e rural,BEAD,W0132,Urbano e rural,identico,sim,nao
+W0133::Administração pública,BEAD,W0133,Administração pública,identico,sim,nao
+W0133::Domicílio e arranjo familiar,BEAD,W0133,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0133::Educação,BEAD,W0133,Educação,novo,nao,sim
+W0133::Escolaridade e letramento,BEAD,W0133,Escolaridade e letramento,identico,sim,nao
+W0133::Idade,BEAD,W0133,Idade,janelas_mudaram,sim,sim
+W0133::Infraestrutura e porte populacional,BEAD,W0133,Infraestrutura e porte populacional,identico,sim,nao
+W0133::Posição no trabalho,BEAD,W0133,Posição no trabalho,identico,sim,nao
+W0133::Renda e classe,BEAD,W0133,Renda e classe,identico,sim,nao
+W0133::Saúde,BEAD,W0133,Saúde,identico,sim,nao
+W0133::Urbano e rural,BEAD,W0133,Urbano e rural,identico,sim,nao
+W0135::Domicílio e arranjo familiar,BEAD,W0135,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0135::Posição no trabalho,BEAD,W0135,Posição no trabalho,identico,sim,nao
+W0141::Idade,BEAD,W0141,Idade,janelas_mudaram,sim,sim
+W0141::Urbano e rural,BEAD,W0141,Urbano e rural,identico,sim,nao
+W0142::Domicílio e arranjo familiar,BEAD,W0142,Domicílio e arranjo familiar,identico,sim,nao
+W0142::Educação,BEAD,W0142,Educação,novo,nao,sim
+W0142::Infraestrutura e porte populacional,BEAD,W0142,Infraestrutura e porte populacional,identico,sim,nao
+W0144::Educação,BEAD,W0144,Educação,novo,nao,sim
+W0144::Posição no trabalho,BEAD,W0144,Posição no trabalho,identico,sim,nao
+W0144::Territórios de povos e comunidades tradicionais,BEAD,W0144,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0144::Urbano e rural,BEAD,W0144,Urbano e rural,identico,sim,nao
+W0145::Infraestrutura e porte populacional,BEAD,W0145,Infraestrutura e porte populacional,identico,sim,nao
+W0145::Urbano e rural,BEAD,W0145,Urbano e rural,identico,sim,nao
+W0146::Administração pública,BEAD,W0146,Administração pública,identico,sim,nao
+W0146::Domicílio e arranjo familiar,BEAD,W0146,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0146::Educação,BEAD,W0146,Educação,janelas_mudaram,sim,sim
+W0146::Escolaridade e letramento,BEAD,W0146,Escolaridade e letramento,identico,sim,nao
+W0146::Infraestrutura e porte populacional,BEAD,W0146,Infraestrutura e porte populacional,identico,sim,nao
+W0146::Renda e classe,BEAD,W0146,Renda e classe,identico,sim,nao
+W0146::Saúde,BEAD,W0146,Saúde,identico,sim,nao
+W0146::Territórios de povos e comunidades tradicionais,BEAD,W0146,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0146::Urbano e rural,BEAD,W0146,Urbano e rural,identico,sim,nao
+W0146::Vínculo institucional,BEAD,W0146,Vínculo institucional,identico,sim,nao
+W0147::Administração pública,BEAD,W0147,Administração pública,identico,sim,nao
+W0147::Cultura e informação,BEAD,W0147,Cultura e informação,novo,nao,sim
+W0147::Domicílio e arranjo familiar,BEAD,W0147,Domicílio e arranjo familiar,so_termos,sim,nao
+W0147::Educação,BEAD,W0147,Educação,janelas_mudaram,sim,sim
+W0147::Escolaridade e letramento,BEAD,W0147,Escolaridade e letramento,janelas_mudaram,sim,sim
+W0147::Gênero,BEAD,W0147,Gênero,identico,sim,nao
+W0147::Idade,BEAD,W0147,Idade,janelas_mudaram,sim,sim
+W0147::Infraestrutura e porte populacional,BEAD,W0147,Infraestrutura e porte populacional,identico,sim,nao
+W0147::Macrorregião,BEAD,W0147,Macrorregião,janelas_mudaram,sim,sim
+W0147::Posição no trabalho,BEAD,W0147,Posição no trabalho,identico,sim,nao
+W0147::Raça e etnia,BEAD,W0147,Raça e etnia,identico,sim,nao
+W0147::Renda e classe,BEAD,W0147,Renda e classe,identico,sim,nao
+W0147::Saúde e deficiência,BEAD,W0147,Saúde e deficiência,identico,sim,nao
+W0147::Urbano e rural,BEAD,W0147,Urbano e rural,identico,sim,nao
+W0148::Administração pública,BEAD,W0148,Administração pública,identico,sim,nao
+W0148::Domicílio e arranjo familiar,BEAD,W0148,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0148::Educação,BEAD,W0148,Educação,novo,nao,sim
+W0148::Escolaridade e letramento,BEAD,W0148,Escolaridade e letramento,identico,sim,nao
+W0148::Idade,BEAD,W0148,Idade,identico,sim,nao
+W0148::Infraestrutura e porte populacional,BEAD,W0148,Infraestrutura e porte populacional,identico,sim,nao
+W0148::Macrorregião,BEAD,W0148,Macrorregião,identico,sim,nao
+W0148::Posição no trabalho,BEAD,W0148,Posição no trabalho,identico,sim,nao
+W0148::Raça e etnia,BEAD,W0148,Raça e etnia,identico,sim,nao
+W0148::Renda e classe,BEAD,W0148,Renda e classe,identico,sim,nao
+W0148::Saúde e deficiência,BEAD,W0148,Saúde e deficiência,identico,sim,nao
+W0148::Territórios de povos e comunidades tradicionais,BEAD,W0148,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0148::Urbano e rural,BEAD,W0148,Urbano e rural,identico,sim,nao
+W0149::Cultura e informação,BEAD,W0149,Cultura e informação,identico,sim,nao
+W0149::Domicílio e arranjo familiar,BEAD,W0149,Domicílio e arranjo familiar,identico,sim,nao
+W0149::Educação,BEAD,W0149,Educação,janelas_mudaram,sim,sim
+W0149::Escolaridade e letramento,BEAD,W0149,Escolaridade e letramento,identico,sim,nao
+W0149::Idade,BEAD,W0149,Idade,novo,nao,sim
+W0149::Infraestrutura e porte populacional,BEAD,W0149,Infraestrutura e porte populacional,identico,sim,nao
+W0149::Posição no trabalho,BEAD,W0149,Posição no trabalho,identico,sim,nao
+W0149::Raça e etnia,BEAD,W0149,Raça e etnia,identico,sim,nao
+W0149::Renda e classe,BEAD,W0149,Renda e classe,identico,sim,nao
+W0149::Saúde,BEAD,W0149,Saúde,identico,sim,nao
+W0149::Urbano e rural,BEAD,W0149,Urbano e rural,identico,sim,nao
+W0150::Cultura e informação,BEAD,W0150,Cultura e informação,identico,sim,nao
+W0150::Domicílio e arranjo familiar,BEAD,W0150,Domicílio e arranjo familiar,identico,sim,nao
+W0150::Educação,BEAD,W0150,Educação,janelas_mudaram,sim,sim
+W0150::Escolaridade e letramento,BEAD,W0150,Escolaridade e letramento,identico,sim,nao
+W0150::Idade,BEAD,W0150,Idade,janelas_mudaram,sim,sim
+W0150::Infraestrutura e porte populacional,BEAD,W0150,Infraestrutura e porte populacional,identico,sim,nao
+W0150::Posição no trabalho,BEAD,W0150,Posição no trabalho,identico,sim,nao
+W0150::Raça e etnia,BEAD,W0150,Raça e etnia,identico,sim,nao
+W0150::Renda e classe,BEAD,W0150,Renda e classe,identico,sim,nao
+W0150::Saúde,BEAD,W0150,Saúde,identico,sim,nao
+W0150::Saúde e deficiência,BEAD,W0150,Saúde e deficiência,identico,sim,nao
+W0150::Territórios de povos e comunidades tradicionais,BEAD,W0150,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0150::Urbano e rural,BEAD,W0150,Urbano e rural,identico,sim,nao
+W0150::Vínculo institucional,BEAD,W0150,Vínculo institucional,identico,sim,nao
+W0152::Administração pública,BEAD,W0152,Administração pública,identico,sim,nao
+W0152::Cultura e informação,BEAD,W0152,Cultura e informação,novo,nao,sim
+W0152::Educação,BEAD,W0152,Educação,janelas_mudaram,sim,sim
+W0152::Escolaridade e letramento,BEAD,W0152,Escolaridade e letramento,identico,sim,nao
+W0152::Idade,BEAD,W0152,Idade,identico,sim,nao
+W0152::Infraestrutura e porte populacional,BEAD,W0152,Infraestrutura e porte populacional,identico,sim,nao
+W0152::Posição no trabalho,BEAD,W0152,Posição no trabalho,identico,sim,nao
+W0152::Saúde,BEAD,W0152,Saúde,identico,sim,nao
+W0152::Urbano e rural,BEAD,W0152,Urbano e rural,identico,sim,nao
+W0153::Domicílio e arranjo familiar,BEAD,W0153,Domicílio e arranjo familiar,identico,sim,nao
+W0153::Escolaridade e letramento,BEAD,W0153,Escolaridade e letramento,janelas_mudaram,sim,sim
+W0153::Posição no trabalho,BEAD,W0153,Posição no trabalho,identico,sim,nao
+W0153::Saúde,BEAD,W0153,Saúde,identico,sim,nao
+W0153::Territórios de povos e comunidades tradicionais,BEAD,W0153,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0153::Urbano e rural,BEAD,W0153,Urbano e rural,identico,sim,nao
+W0153::Vínculo institucional,BEAD,W0153,Vínculo institucional,so_termos,sim,nao
+W0155::Educação,BEAD,W0155,Educação,novo,nao,sim
+W0155::Gênero,BEAD,W0155,Gênero,identico,sim,nao
+W0155::Infraestrutura e porte populacional,BEAD,W0155,Infraestrutura e porte populacional,identico,sim,nao
+W0155::Posição no trabalho,BEAD,W0155,Posição no trabalho,identico,sim,nao
+W0155::Urbano e rural,BEAD,W0155,Urbano e rural,identico,sim,nao
+W0156::Domicílio e arranjo familiar,BEAD,W0156,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0156::Educação,BEAD,W0156,Educação,novo,nao,sim
+W0156::Escolaridade e letramento,BEAD,W0156,Escolaridade e letramento,novo,nao,sim
+W0156::Infraestrutura e porte populacional,BEAD,W0156,Infraestrutura e porte populacional,identico,sim,nao
+W0156::Urbano e rural,BEAD,W0156,Urbano e rural,identico,sim,nao
+W0157::Domicílio e arranjo familiar,BEAD,W0157,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0157::Educação,BEAD,W0157,Educação,identico,sim,nao
+W0157::Escolaridade e letramento,BEAD,W0157,Escolaridade e letramento,identico,sim,nao
+W0157::Infraestrutura e porte populacional,BEAD,W0157,Infraestrutura e porte populacional,identico,sim,nao
+W0157::Urbano e rural,BEAD,W0157,Urbano e rural,identico,sim,nao
+W0159::Domicílio e arranjo familiar,BEAD,W0159,Domicílio e arranjo familiar,identico,sim,nao
+W0159::Escolaridade e letramento,BEAD,W0159,Escolaridade e letramento,identico,sim,nao
+W0159::Idade,BEAD,W0159,Idade,novo,nao,sim
+W0159::Renda e classe,BEAD,W0159,Renda e classe,identico,sim,nao
+W0159::Urbano e rural,BEAD,W0159,Urbano e rural,identico,sim,nao
+W0160::Idade,BEAD,W0160,Idade,novo,nao,sim
+W0160::Urbano e rural,BEAD,W0160,Urbano e rural,identico,sim,nao
+W0162::Cultura e informação,BEAD,W0162,Cultura e informação,identico,sim,nao
+W0162::Educação,BEAD,W0162,Educação,identico,sim,nao
+W0162::Infraestrutura e porte populacional,BEAD,W0162,Infraestrutura e porte populacional,identico,sim,nao
+W0162::Posição no trabalho,BEAD,W0162,Posição no trabalho,identico,sim,nao
+W0162::Renda e classe,BEAD,W0162,Renda e classe,identico,sim,nao
+W0162::Urbano e rural,BEAD,W0162,Urbano e rural,identico,sim,nao
+W0163::Administração pública,BEAD,W0163,Administração pública,identico,sim,nao
+W0163::Cultura e informação,BEAD,W0163,Cultura e informação,identico,sim,nao
+W0163::Educação,BEAD,W0163,Educação,janelas_mudaram,sim,sim
+W0163::Infraestrutura e porte populacional,BEAD,W0163,Infraestrutura e porte populacional,identico,sim,nao
+W0163::Macrorregião,BEAD,W0163,Macrorregião,novo,nao,sim
+W0163::Saúde,BEAD,W0163,Saúde,identico,sim,nao
+W0163::Urbano e rural,BEAD,W0163,Urbano e rural,identico,sim,nao
+W0164::Cultura e informação,BEAD,W0164,Cultura e informação,janelas_mudaram,sim,sim
+W0164::Domicílio e arranjo familiar,BEAD,W0164,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0164::Educação,BEAD,W0164,Educação,identico,sim,nao
+W0164::Infraestrutura e porte populacional,BEAD,W0164,Infraestrutura e porte populacional,identico,sim,nao
+W0164::Renda e classe,BEAD,W0164,Renda e classe,identico,sim,nao
+W0164::Saúde,BEAD,W0164,Saúde,novo,nao,sim
+W0164::Saúde e deficiência,BEAD,W0164,Saúde e deficiência,identico,sim,nao
+W0164::Urbano e rural,BEAD,W0164,Urbano e rural,identico,sim,nao
+W0164::Vínculo institucional,BEAD,W0164,Vínculo institucional,identico,sim,nao
+W0165::Administração pública,BEAD,W0165,Administração pública,identico,sim,nao
+W0165::Domicílio e arranjo familiar,BEAD,W0165,Domicílio e arranjo familiar,identico,sim,nao
+W0165::Educação,BEAD,W0165,Educação,novo,nao,sim
+W0165::Escolaridade e letramento,BEAD,W0165,Escolaridade e letramento,identico,sim,nao
+W0165::Idade,BEAD,W0165,Idade,identico,sim,nao
+W0165::Infraestrutura e porte populacional,BEAD,W0165,Infraestrutura e porte populacional,identico,sim,nao
+W0165::Posição no trabalho,BEAD,W0165,Posição no trabalho,identico,sim,nao
+W0165::Renda e classe,BEAD,W0165,Renda e classe,identico,sim,nao
+W0165::Saúde,BEAD,W0165,Saúde,identico,sim,nao
+W0165::Urbano e rural,BEAD,W0165,Urbano e rural,identico,sim,nao
+W0166::Educação,BEAD,W0166,Educação,novo,nao,sim
+W0166::Gênero,BEAD,W0166,Gênero,identico,sim,nao
+W0166::Raça e etnia,BEAD,W0166,Raça e etnia,identico,sim,nao
+W0166::Saúde,BEAD,W0166,Saúde,identico,sim,nao
+W0167::Educação,BEAD,W0167,Educação,novo,nao,sim
+W0167::Escolaridade e letramento,BEAD,W0167,Escolaridade e letramento,identico,sim,nao
+W0167::Idade,BEAD,W0167,Idade,novo,nao,sim
+W0167::Posição no trabalho,BEAD,W0167,Posição no trabalho,identico,sim,nao
+W0167::Raça e etnia,BEAD,W0167,Raça e etnia,identico,sim,nao
+W0168::Educação,BEAD,W0168,Educação,novo,nao,sim
+W0168::Gênero,BEAD,W0168,Gênero,identico,sim,nao
+W0168::Saúde e deficiência,BEAD,W0168,Saúde e deficiência,identico,sim,nao
+W0170::Idade,BEAD,W0170,Idade,identico,sim,nao
+W0173::Domicílio e arranjo familiar,BEAD,W0173,Domicílio e arranjo familiar,identico,sim,nao
+W0173::Saúde e deficiência,BEAD,W0173,Saúde e deficiência,identico,sim,nao
+W0174::Domicílio e arranjo familiar,BEAD,W0174,Domicílio e arranjo familiar,novo,nao,sim
+W0174::Gênero,BEAD,W0174,Gênero,identico,sim,nao
+W0174::Idade,BEAD,W0174,Idade,janelas_mudaram,sim,sim
+W0174::Saúde,BEAD,W0174,Saúde,janelas_mudaram,sim,sim
+W0177::Educação,BEAD,W0177,Educação,identico,sim,nao
+W0177::Gênero,BEAD,W0177,Gênero,identico,sim,nao
+W0177::Renda e classe,BEAD,W0177,Renda e classe,identico,sim,nao
+W0177::Saúde e deficiência,BEAD,W0177,Saúde e deficiência,identico,sim,nao
+W0177::Urbano e rural,BEAD,W0177,Urbano e rural,identico,sim,nao
+W0178::Domicílio e arranjo familiar,BEAD,W0178,Domicílio e arranjo familiar,identico,sim,nao
+W0178::Idade,BEAD,W0178,Idade,novo,nao,sim
+W0178::Urbano e rural,BEAD,W0178,Urbano e rural,identico,sim,nao
+W0179::Cultura e informação,BEAD,W0179,Cultura e informação,identico,sim,nao
+W0179::Domicílio e arranjo familiar,BEAD,W0179,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0179::Educação,BEAD,W0179,Educação,identico,sim,nao
+W0179::Escolaridade e letramento,BEAD,W0179,Escolaridade e letramento,novo,nao,sim
+W0179::Urbano e rural,BEAD,W0179,Urbano e rural,identico,sim,nao
+W0180::Infraestrutura e porte populacional,BEAD,W0180,Infraestrutura e porte populacional,identico,sim,nao
+W0181::Domicílio e arranjo familiar,BEAD,W0181,Domicílio e arranjo familiar,identico,sim,nao
+W0181::Educação,BEAD,W0181,Educação,novo,nao,sim
+W0181::Idade,BEAD,W0181,Idade,novo,nao,sim
+W0181::Urbano e rural,BEAD,W0181,Urbano e rural,identico,sim,nao
+W0182::Domicílio e arranjo familiar,BEAD,W0182,Domicílio e arranjo familiar,identico,sim,nao
+W0182::Educação,BEAD,W0182,Educação,novo,nao,sim
+W0182::Escolaridade e letramento,BEAD,W0182,Escolaridade e letramento,janelas_mudaram,sim,sim
+W0182::Infraestrutura e porte populacional,BEAD,W0182,Infraestrutura e porte populacional,identico,sim,nao
+W0182::Posição no trabalho,BEAD,W0182,Posição no trabalho,identico,sim,nao
+W0182::Renda e classe,BEAD,W0182,Renda e classe,identico,sim,nao
+W0182::Saúde,BEAD,W0182,Saúde,identico,sim,nao
+W0182::Territórios de povos e comunidades tradicionais,BEAD,W0182,Territórios de povos e comunidades tradicionais,identico,nao,nao
+W0182::Urbano e rural,BEAD,W0182,Urbano e rural,identico,sim,nao
+W0182::Vínculo institucional,BEAD,W0182,Vínculo institucional,identico,sim,nao
+W0183::Domicílio e arranjo familiar,BEAD,W0183,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0184::Cultura e informação,BEAD,W0184,Cultura e informação,janelas_mudaram,sim,sim
+W0184::Domicílio e arranjo familiar,BEAD,W0184,Domicílio e arranjo familiar,identico,sim,nao
+W0184::Educação,BEAD,W0184,Educação,janelas_mudaram,sim,sim
+W0184::Escolaridade e letramento,BEAD,W0184,Escolaridade e letramento,janelas_mudaram,sim,sim
+W0184::Macrorregião,BEAD,W0184,Macrorregião,novo,nao,sim
+W0184::Saúde,BEAD,W0184,Saúde,identico,sim,nao
+W0184::Territórios de povos e comunidades tradicionais,BEAD,W0184,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0184::Urbano e rural,BEAD,W0184,Urbano e rural,identico,sim,nao
+W0188::Educação,BEAD,W0188,Educação,novo,nao,sim
+W0188::Escolaridade e letramento,BEAD,W0188,Escolaridade e letramento,identico,sim,nao
+W0188::Saúde,BEAD,W0188,Saúde,novo,nao,sim
+W0190::Cultura e informação,BEAD,W0190,Cultura e informação,janelas_mudaram,sim,sim
+W0190::Domicílio e arranjo familiar,BEAD,W0190,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0190::Educação,BEAD,W0190,Educação,identico,sim,nao
+W0190::Escolaridade e letramento,BEAD,W0190,Escolaridade e letramento,identico,sim,nao
+W0190::Infraestrutura e porte populacional,BEAD,W0190,Infraestrutura e porte populacional,identico,sim,nao
+W0190::Saúde,BEAD,W0190,Saúde,identico,sim,nao
+W0190::Saúde e deficiência,BEAD,W0190,Saúde e deficiência,identico,sim,nao
+W0190::Territórios de povos e comunidades tradicionais,BEAD,W0190,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0190::Urbano e rural,BEAD,W0190,Urbano e rural,identico,sim,nao
+W0191::Administração pública,BEAD,W0191,Administração pública,identico,sim,nao
+W0191::Domicílio e arranjo familiar,BEAD,W0191,Domicílio e arranjo familiar,identico,sim,nao
+W0191::Infraestrutura e porte populacional,BEAD,W0191,Infraestrutura e porte populacional,identico,sim,nao
+W0191::Saúde,BEAD,W0191,Saúde,identico,sim,nao
+W0191::Urbano e rural,BEAD,W0191,Urbano e rural,identico,sim,nao
+W0192::Administração pública,BEAD,W0192,Administração pública,identico,sim,nao
+W0192::Domicílio e arranjo familiar,BEAD,W0192,Domicílio e arranjo familiar,identico,sim,nao
+W0192::Educação,BEAD,W0192,Educação,janelas_mudaram,sim,sim
+W0192::Infraestrutura e porte populacional,BEAD,W0192,Infraestrutura e porte populacional,identico,sim,nao
+W0192::Renda e classe,BEAD,W0192,Renda e classe,identico,sim,nao
+W0192::Territórios de povos e comunidades tradicionais,BEAD,W0192,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0192::Urbano e rural,BEAD,W0192,Urbano e rural,identico,sim,nao
+W0192::Vínculo institucional,BEAD,W0192,Vínculo institucional,identico,sim,nao
+W0193::Domicílio e arranjo familiar,BEAD,W0193,Domicílio e arranjo familiar,so_termos,sim,nao
+W0193::Educação,BEAD,W0193,Educação,novo,nao,sim
+W0193::Escolaridade e letramento,BEAD,W0193,Escolaridade e letramento,identico,sim,nao
+W0193::Idade,BEAD,W0193,Idade,janelas_mudaram,sim,sim
+W0193::Infraestrutura e porte populacional,BEAD,W0193,Infraestrutura e porte populacional,identico,sim,nao
+W0193::Urbano e rural,BEAD,W0193,Urbano e rural,identico,sim,nao
+W0194::Idade,BEAD,W0194,Idade,novo,nao,sim
+W0194::Posição no trabalho,BEAD,W0194,Posição no trabalho,identico,sim,nao
+W0194::Urbano e rural,BEAD,W0194,Urbano e rural,identico,sim,nao
+W0195::Cultura e informação,BEAD,W0195,Cultura e informação,identico,sim,nao
+W0195::Domicílio e arranjo familiar,BEAD,W0195,Domicílio e arranjo familiar,novo,nao,sim
+W0195::Educação,BEAD,W0195,Educação,identico,sim,nao
+W0195::Escolaridade e letramento,BEAD,W0195,Escolaridade e letramento,identico,sim,nao
+W0195::Idade,BEAD,W0195,Idade,novo,nao,sim
+W0195::Infraestrutura e porte populacional,BEAD,W0195,Infraestrutura e porte populacional,identico,sim,nao
+W0195::Macrorregião,BEAD,W0195,Macrorregião,novo,nao,sim
+W0195::Posição no trabalho,BEAD,W0195,Posição no trabalho,identico,sim,nao
+W0195::Raça e etnia,BEAD,W0195,Raça e etnia,identico,sim,nao
+W0195::Saúde,BEAD,W0195,Saúde,janelas_mudaram,sim,sim
+W0195::Urbano e rural,BEAD,W0195,Urbano e rural,identico,sim,nao
+W0195::Vínculo institucional,BEAD,W0195,Vínculo institucional,identico,sim,nao
+W0196::Administração pública,BEAD,W0196,Administração pública,identico,sim,nao
+W0196::Domicílio e arranjo familiar,BEAD,W0196,Domicílio e arranjo familiar,novo,nao,sim
+W0196::Educação,BEAD,W0196,Educação,identico,sim,nao
+W0196::Escolaridade e letramento,BEAD,W0196,Escolaridade e letramento,novo,nao,sim
+W0196::Idade,BEAD,W0196,Idade,janelas_mudaram,sim,sim
+W0196::Infraestrutura e porte populacional,BEAD,W0196,Infraestrutura e porte populacional,identico,sim,nao
+W0196::Macrorregião,BEAD,W0196,Macrorregião,janelas_mudaram,sim,sim
+W0196::Posição no trabalho,BEAD,W0196,Posição no trabalho,identico,sim,nao
+W0196::Raça e etnia,BEAD,W0196,Raça e etnia,identico,sim,nao
+W0196::Renda e classe,BEAD,W0196,Renda e classe,identico,sim,nao
+W0196::Territórios de povos e comunidades tradicionais,BEAD,W0196,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0196::Urbano e rural,BEAD,W0196,Urbano e rural,identico,sim,nao
+W0197::Domicílio e arranjo familiar,BEAD,W0197,Domicílio e arranjo familiar,identico,sim,nao
+W0197::Educação,BEAD,W0197,Educação,novo,nao,sim
+W0197::Infraestrutura e porte populacional,BEAD,W0197,Infraestrutura e porte populacional,identico,sim,nao
+W0197::Macrorregião,BEAD,W0197,Macrorregião,novo,nao,sim
+W0197::Posição no trabalho,BEAD,W0197,Posição no trabalho,identico,sim,nao
+W0197::Renda e classe,BEAD,W0197,Renda e classe,identico,sim,nao
+W0197::Saúde,BEAD,W0197,Saúde,janelas_mudaram,sim,sim
+W0197::Saúde e deficiência,BEAD,W0197,Saúde e deficiência,identico,sim,nao
+W0197::Urbano e rural,BEAD,W0197,Urbano e rural,identico,sim,nao
+W0198::Domicílio e arranjo familiar,BEAD,W0198,Domicílio e arranjo familiar,novo,nao,sim
+W0198::Macrorregião,BEAD,W0198,Macrorregião,identico,sim,nao
+W0198::Raça e etnia,BEAD,W0198,Raça e etnia,identico,sim,nao
+W0198::Urbano e rural,BEAD,W0198,Urbano e rural,identico,sim,nao
+W0199::Posição no trabalho,BEAD,W0199,Posição no trabalho,identico,sim,nao
+W0200::Domicílio e arranjo familiar,BEAD,W0200,Domicílio e arranjo familiar,identico,sim,nao
+W0200::Educação,BEAD,W0200,Educação,novo,nao,sim
+W0200::Escolaridade e letramento,BEAD,W0200,Escolaridade e letramento,identico,sim,nao
+W0200::Gênero,BEAD,W0200,Gênero,identico,sim,nao
+W0200::Idade,BEAD,W0200,Idade,identico,sim,nao
+W0200::Raça e etnia,BEAD,W0200,Raça e etnia,identico,sim,nao
+W0200::Saúde,BEAD,W0200,Saúde,identico,sim,nao
+W0200::Territórios de povos e comunidades tradicionais,BEAD,W0200,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0200::Urbano e rural,BEAD,W0200,Urbano e rural,identico,sim,nao
+W0201::Domicílio e arranjo familiar,BEAD,W0201,Domicílio e arranjo familiar,identico,sim,nao
+W0202::Domicílio e arranjo familiar,BEAD,W0202,Domicílio e arranjo familiar,identico,sim,nao
+W0202::Infraestrutura e porte populacional,BEAD,W0202,Infraestrutura e porte populacional,identico,sim,nao
+W0202::Urbano e rural,BEAD,W0202,Urbano e rural,identico,sim,nao
+W0202::Vínculo institucional,BEAD,W0202,Vínculo institucional,identico,sim,nao
+W0203::Domicílio e arranjo familiar,BEAD,W0203,Domicílio e arranjo familiar,identico,sim,nao
+W0203::Escolaridade e letramento,BEAD,W0203,Escolaridade e letramento,identico,sim,nao
+W0203::Idade,BEAD,W0203,Idade,identico,sim,nao
+W0203::Infraestrutura e porte populacional,BEAD,W0203,Infraestrutura e porte populacional,identico,sim,nao
+W0203::Macrorregião,BEAD,W0203,Macrorregião,identico,sim,nao
+W0203::Posição no trabalho,BEAD,W0203,Posição no trabalho,identico,sim,nao
+W0203::Saúde,BEAD,W0203,Saúde,identico,sim,nao
+W0203::Urbano e rural,BEAD,W0203,Urbano e rural,identico,sim,nao
+W0204::Domicílio e arranjo familiar,BEAD,W0204,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0204::Educação,BEAD,W0204,Educação,janelas_mudaram,sim,sim
+W0204::Escolaridade e letramento,BEAD,W0204,Escolaridade e letramento,janelas_mudaram,sim,sim
+W0204::Gênero,BEAD,W0204,Gênero,identico,sim,nao
+W0204::Infraestrutura e porte populacional,BEAD,W0204,Infraestrutura e porte populacional,identico,sim,nao
+W0204::Renda e classe,BEAD,W0204,Renda e classe,identico,sim,nao
+W0204::Urbano e rural,BEAD,W0204,Urbano e rural,identico,sim,nao
+W0205::Domicílio e arranjo familiar,BEAD,W0205,Domicílio e arranjo familiar,identico,sim,nao
+W0205::Educação,BEAD,W0205,Educação,novo,nao,sim
+W0205::Escolaridade e letramento,BEAD,W0205,Escolaridade e letramento,identico,sim,nao
+W0205::Infraestrutura e porte populacional,BEAD,W0205,Infraestrutura e porte populacional,identico,sim,nao
+W0205::Renda e classe,BEAD,W0205,Renda e classe,identico,sim,nao
+W0205::Saúde e deficiência,BEAD,W0205,Saúde e deficiência,identico,sim,nao
+W0205::Territórios de povos e comunidades tradicionais,BEAD,W0205,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0205::Urbano e rural,BEAD,W0205,Urbano e rural,identico,sim,nao
+W0206::Administração pública,BEAD,W0206,Administração pública,identico,sim,nao
+W0206::Cultura e informação,BEAD,W0206,Cultura e informação,janelas_mudaram,sim,sim
+W0206::Domicílio e arranjo familiar,BEAD,W0206,Domicílio e arranjo familiar,identico,sim,nao
+W0206::Educação,BEAD,W0206,Educação,janelas_mudaram,sim,sim
+W0206::Escolaridade e letramento,BEAD,W0206,Escolaridade e letramento,identico,sim,nao
+W0206::Infraestrutura e porte populacional,BEAD,W0206,Infraestrutura e porte populacional,identico,sim,nao
+W0206::Territórios de povos e comunidades tradicionais,BEAD,W0206,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0206::Urbano e rural,BEAD,W0206,Urbano e rural,identico,sim,nao
+W0207::Urbano e rural,BEAD,W0207,Urbano e rural,identico,sim,nao
+W0208::Escolaridade e letramento,BEAD,W0208,Escolaridade e letramento,novo,nao,sim
+W0208::Idade,BEAD,W0208,Idade,novo,nao,sim
+W0208::Infraestrutura e porte populacional,BEAD,W0208,Infraestrutura e porte populacional,identico,sim,nao
+W0208::Urbano e rural,BEAD,W0208,Urbano e rural,identico,sim,nao
+W0209::Domicílio e arranjo familiar,BEAD,W0209,Domicílio e arranjo familiar,identico,sim,nao
+W0209::Educação,BEAD,W0209,Educação,identico,sim,nao
+W0209::Infraestrutura e porte populacional,BEAD,W0209,Infraestrutura e porte populacional,identico,sim,nao
+W0209::Saúde,BEAD,W0209,Saúde,identico,sim,nao
+W0209::Urbano e rural,BEAD,W0209,Urbano e rural,identico,sim,nao
+W0210::Domicílio e arranjo familiar,BEAD,W0210,Domicílio e arranjo familiar,identico,sim,nao
+W0210::Urbano e rural,BEAD,W0210,Urbano e rural,identico,sim,nao
+W0213::Infraestrutura e porte populacional,BEAD,W0213,Infraestrutura e porte populacional,identico,sim,nao
+W0213::Macrorregião,BEAD,W0213,Macrorregião,novo,nao,sim
+W0214::Urbano e rural,BEAD,W0214,Urbano e rural,identico,sim,nao
+W0218::Urbano e rural,BEAD,W0218,Urbano e rural,identico,sim,nao
+W0220::Domicílio e arranjo familiar,BEAD,W0220,Domicílio e arranjo familiar,identico,sim,nao
+W0220::Educação,BEAD,W0220,Educação,novo,nao,sim
+W0220::Renda e classe,BEAD,W0220,Renda e classe,identico,sim,nao
+W0220::Urbano e rural,BEAD,W0220,Urbano e rural,identico,sim,nao
+W0221::Domicílio e arranjo familiar,BEAD,W0221,Domicílio e arranjo familiar,identico,sim,nao
+W0221::Educação,BEAD,W0221,Educação,janelas_mudaram,sim,sim
+W0221::Posição no trabalho,BEAD,W0221,Posição no trabalho,identico,sim,nao
+W0221::Urbano e rural,BEAD,W0221,Urbano e rural,identico,sim,nao
+W0222::Educação,BEAD,W0222,Educação,novo,nao,sim
+W0222::Renda e classe,BEAD,W0222,Renda e classe,identico,sim,nao
+W0224::Gênero,BEAD,W0224,Gênero,identico,sim,nao
+W0226::Domicílio e arranjo familiar,BEAD,W0226,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0226::Idade,BEAD,W0226,Idade,novo,nao,sim
+W0226::Macrorregião,BEAD,W0226,Macrorregião,identico,sim,nao
+W0226::Posição no trabalho,BEAD,W0226,Posição no trabalho,identico,sim,nao
+W0227::Domicílio e arranjo familiar,BEAD,W0227,Domicílio e arranjo familiar,novo,nao,sim
+W0227::Educação,BEAD,W0227,Educação,janelas_mudaram,sim,sim
+W0227::Posição no trabalho,BEAD,W0227,Posição no trabalho,identico,sim,nao
+W0227::Saúde e deficiência,BEAD,W0227,Saúde e deficiência,identico,sim,nao
+W0227::Urbano e rural,BEAD,W0227,Urbano e rural,identico,sim,nao
+W0231::Administração pública,BEAD,W0231,Administração pública,identico,sim,nao
+W0231::Cultura e informação,BEAD,W0231,Cultura e informação,identico,sim,nao
+W0231::Domicílio e arranjo familiar,BEAD,W0231,Domicílio e arranjo familiar,identico,sim,nao
+W0231::Educação,BEAD,W0231,Educação,janelas_mudaram,sim,sim
+W0231::Idade,BEAD,W0231,Idade,novo,nao,sim
+W0231::Infraestrutura e porte populacional,BEAD,W0231,Infraestrutura e porte populacional,identico,sim,nao
+W0231::Macrorregião,BEAD,W0231,Macrorregião,novo,nao,sim
+W0231::Posição no trabalho,BEAD,W0231,Posição no trabalho,identico,sim,nao
+W0231::Renda e classe,BEAD,W0231,Renda e classe,identico,sim,nao
+W0231::Saúde,BEAD,W0231,Saúde,identico,sim,nao
+W0231::Saúde e deficiência,BEAD,W0231,Saúde e deficiência,identico,sim,nao
+W0231::Urbano e rural,BEAD,W0231,Urbano e rural,identico,sim,nao
+W0233::Domicílio e arranjo familiar,BEAD,W0233,Domicílio e arranjo familiar,novo,nao,sim
+W0233::Educação,BEAD,W0233,Educação,identico,sim,nao
+W0233::Infraestrutura e porte populacional,BEAD,W0233,Infraestrutura e porte populacional,identico,sim,nao
+W0233::Posição no trabalho,BEAD,W0233,Posição no trabalho,identico,sim,nao
+W0233::Urbano e rural,BEAD,W0233,Urbano e rural,identico,sim,nao
+W0234::Administração pública,BEAD,W0234,Administração pública,identico,sim,nao
+W0234::Cultura e informação,BEAD,W0234,Cultura e informação,novo,nao,sim
+W0234::Gênero,BEAD,W0234,Gênero,identico,sim,nao
+W0234::Idade,BEAD,W0234,Idade,novo,nao,sim
+W0234::Infraestrutura e porte populacional,BEAD,W0234,Infraestrutura e porte populacional,identico,sim,nao
+W0234::Posição no trabalho,BEAD,W0234,Posição no trabalho,identico,sim,nao
+W0234::Urbano e rural,BEAD,W0234,Urbano e rural,identico,sim,nao
+W0235::Domicílio e arranjo familiar,BEAD,W0235,Domicílio e arranjo familiar,identico,sim,nao
+W0235::Infraestrutura e porte populacional,BEAD,W0235,Infraestrutura e porte populacional,identico,sim,nao
+W0235::Urbano e rural,BEAD,W0235,Urbano e rural,identico,sim,nao
+W0236::Educação,BEAD,W0236,Educação,janelas_mudaram,sim,sim
+W0236::Infraestrutura e porte populacional,BEAD,W0236,Infraestrutura e porte populacional,identico,sim,nao
+W0236::Macrorregião,BEAD,W0236,Macrorregião,janelas_mudaram,sim,sim
+W0236::Raça e etnia,BEAD,W0236,Raça e etnia,identico,sim,nao
+W0236::Saúde,BEAD,W0236,Saúde,identico,sim,nao
+W0236::Saúde e deficiência,BEAD,W0236,Saúde e deficiência,identico,sim,nao
+W0236::Territórios de povos e comunidades tradicionais,BEAD,W0236,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0238::Educação,BEAD,W0238,Educação,identico,sim,nao
+W0238::Idade,BEAD,W0238,Idade,identico,sim,nao
+W0238::Infraestrutura e porte populacional,BEAD,W0238,Infraestrutura e porte populacional,identico,sim,nao
+W0238::Raça e etnia,BEAD,W0238,Raça e etnia,identico,sim,nao
+W0238::Saúde e deficiência,BEAD,W0238,Saúde e deficiência,identico,sim,nao
+W0238::Urbano e rural,BEAD,W0238,Urbano e rural,identico,sim,nao
+W0239::Posição no trabalho,BEAD,W0239,Posição no trabalho,identico,sim,nao
+W0240::Administração pública,BEAD,W0240,Administração pública,identico,sim,nao
+W0240::Domicílio e arranjo familiar,BEAD,W0240,Domicílio e arranjo familiar,identico,sim,nao
+W0240::Educação,BEAD,W0240,Educação,identico,sim,nao
+W0240::Escolaridade e letramento,BEAD,W0240,Escolaridade e letramento,identico,sim,nao
+W0240::Infraestrutura e porte populacional,BEAD,W0240,Infraestrutura e porte populacional,identico,sim,nao
+W0240::Posição no trabalho,BEAD,W0240,Posição no trabalho,identico,sim,nao
+W0240::Urbano e rural,BEAD,W0240,Urbano e rural,identico,sim,nao
+W0241::Domicílio e arranjo familiar,BEAD,W0241,Domicílio e arranjo familiar,identico,sim,nao
+W0241::Saúde,BEAD,W0241,Saúde,identico,sim,nao
+W0241::Urbano e rural,BEAD,W0241,Urbano e rural,identico,sim,nao
+W0242::Domicílio e arranjo familiar,BEAD,W0242,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0242::Escolaridade e letramento,BEAD,W0242,Escolaridade e letramento,novo,nao,sim
+W0242::Macrorregião,BEAD,W0242,Macrorregião,janelas_mudaram,sim,sim
+W0242::Saúde e deficiência,BEAD,W0242,Saúde e deficiência,identico,sim,nao
+W0244::Domicílio e arranjo familiar,BEAD,W0244,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0244::Educação,BEAD,W0244,Educação,novo,nao,sim
+W0244::Gênero,BEAD,W0244,Gênero,identico,sim,nao
+W0244::Saúde,BEAD,W0244,Saúde,novo,nao,sim
+W0244::Urbano e rural,BEAD,W0244,Urbano e rural,identico,sim,nao
+W0245::Administração pública,BEAD,W0245,Administração pública,identico,sim,nao
+W0245::Cultura e informação,BEAD,W0245,Cultura e informação,identico,sim,nao
+W0245::Domicílio e arranjo familiar,BEAD,W0245,Domicílio e arranjo familiar,identico,sim,nao
+W0245::Educação,BEAD,W0245,Educação,novo,nao,sim
+W0245::Infraestrutura e porte populacional,BEAD,W0245,Infraestrutura e porte populacional,identico,sim,nao
+W0245::Macrorregião,BEAD,W0245,Macrorregião,janelas_mudaram,sim,sim
+W0245::Renda e classe,BEAD,W0245,Renda e classe,identico,sim,nao
+W0245::Urbano e rural,BEAD,W0245,Urbano e rural,identico,sim,nao
+W0246::Domicílio e arranjo familiar,BEAD,W0246,Domicílio e arranjo familiar,identico,sim,nao
+W0246::Infraestrutura e porte populacional,BEAD,W0246,Infraestrutura e porte populacional,identico,sim,nao
+W0246::Urbano e rural,BEAD,W0246,Urbano e rural,identico,sim,nao
+W0247::Infraestrutura e porte populacional,BEAD,W0247,Infraestrutura e porte populacional,identico,sim,nao
+W0247::Urbano e rural,BEAD,W0247,Urbano e rural,identico,sim,nao
+W0248::Domicílio e arranjo familiar,BEAD,W0248,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0248::Educação,BEAD,W0248,Educação,janelas_mudaram,sim,sim
+W0248::Infraestrutura e porte populacional,BEAD,W0248,Infraestrutura e porte populacional,identico,sim,nao
+W0248::Macrorregião,BEAD,W0248,Macrorregião,identico,sim,nao
+W0248::Saúde,BEAD,W0248,Saúde,janelas_mudaram,sim,sim
+W0248::Urbano e rural,BEAD,W0248,Urbano e rural,identico,sim,nao
+W0248::Vínculo institucional,BEAD,W0248,Vínculo institucional,janelas_mudaram,sim,sim
+W0249::Cultura e informação,BEAD,W0249,Cultura e informação,novo,nao,sim
+W0249::Domicílio e arranjo familiar,BEAD,W0249,Domicílio e arranjo familiar,identico,sim,nao
+W0249::Infraestrutura e porte populacional,BEAD,W0249,Infraestrutura e porte populacional,identico,sim,nao
+W0249::Macrorregião,BEAD,W0249,Macrorregião,identico,sim,nao
+W0249::Urbano e rural,BEAD,W0249,Urbano e rural,identico,sim,nao
+W0250::Domicílio e arranjo familiar,BEAD,W0250,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0250::Educação,BEAD,W0250,Educação,novo,nao,sim
+W0250::Escolaridade e letramento,BEAD,W0250,Escolaridade e letramento,novo,nao,sim
+W0250::Gênero,BEAD,W0250,Gênero,identico,sim,nao
+W0250::Idade,BEAD,W0250,Idade,identico,sim,nao
+W0250::Infraestrutura e porte populacional,BEAD,W0250,Infraestrutura e porte populacional,identico,sim,nao
+W0250::Raça e etnia,BEAD,W0250,Raça e etnia,identico,sim,nao
+W0250::Saúde,BEAD,W0250,Saúde,janelas_mudaram,sim,sim
+W0250::Saúde e deficiência,BEAD,W0250,Saúde e deficiência,identico,sim,nao
+W0250::Vínculo institucional,BEAD,W0250,Vínculo institucional,identico,sim,nao
+W0252::Domicílio e arranjo familiar,BEAD,W0252,Domicílio e arranjo familiar,identico,sim,nao
+W0252::Idade,BEAD,W0252,Idade,identico,sim,nao
+W0252::Urbano e rural,BEAD,W0252,Urbano e rural,identico,sim,nao
+W0253::Idade,BEAD,W0253,Idade,novo,nao,sim
+W0254::Cultura e informação,BEAD,W0254,Cultura e informação,identico,sim,nao
+W0254::Domicílio e arranjo familiar,BEAD,W0254,Domicílio e arranjo familiar,identico,sim,nao
+W0254::Educação,BEAD,W0254,Educação,identico,sim,nao
+W0254::Idade,BEAD,W0254,Idade,novo,nao,sim
+W0254::Infraestrutura e porte populacional,BEAD,W0254,Infraestrutura e porte populacional,identico,sim,nao
+W0254::Renda e classe,BEAD,W0254,Renda e classe,identico,sim,nao
+W0254::Saúde,BEAD,W0254,Saúde,identico,sim,nao
+W0254::Urbano e rural,BEAD,W0254,Urbano e rural,identico,sim,nao
+W0255::Administração pública,BEAD,W0255,Administração pública,identico,sim,nao
+W0255::Domicílio e arranjo familiar,BEAD,W0255,Domicílio e arranjo familiar,identico,sim,nao
+W0255::Infraestrutura e porte populacional,BEAD,W0255,Infraestrutura e porte populacional,identico,sim,nao
+W0255::Posição no trabalho,BEAD,W0255,Posição no trabalho,identico,sim,nao
+W0255::Renda e classe,BEAD,W0255,Renda e classe,identico,sim,nao
+W0255::Urbano e rural,BEAD,W0255,Urbano e rural,identico,sim,nao
+W0256::Cultura e informação,BEAD,W0256,Cultura e informação,identico,sim,nao
+W0256::Domicílio e arranjo familiar,BEAD,W0256,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0256::Educação,BEAD,W0256,Educação,identico,sim,nao
+W0256::Escolaridade e letramento,BEAD,W0256,Escolaridade e letramento,identico,sim,nao
+W0256::Idade,BEAD,W0256,Idade,novo,nao,sim
+W0256::Renda e classe,BEAD,W0256,Renda e classe,identico,sim,nao
+W0256::Urbano e rural,BEAD,W0256,Urbano e rural,identico,sim,nao
+W0257::Administração pública,BEAD,W0257,Administração pública,identico,sim,nao
+W0257::Cultura e informação,BEAD,W0257,Cultura e informação,novo,nao,sim
+W0257::Domicílio e arranjo familiar,BEAD,W0257,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0257::Educação,BEAD,W0257,Educação,novo,nao,sim
+W0257::Escolaridade e letramento,BEAD,W0257,Escolaridade e letramento,identico,sim,nao
+W0257::Idade,BEAD,W0257,Idade,novo,nao,sim
+W0257::Infraestrutura e porte populacional,BEAD,W0257,Infraestrutura e porte populacional,identico,sim,nao
+W0257::Renda e classe,BEAD,W0257,Renda e classe,identico,sim,nao
+W0257::Urbano e rural,BEAD,W0257,Urbano e rural,identico,sim,nao
+W0259::Domicílio e arranjo familiar,BEAD,W0259,Domicílio e arranjo familiar,identico,sim,nao
+W0260::Educação,BEAD,W0260,Educação,novo,nao,sim
+W0260::Posição no trabalho,BEAD,W0260,Posição no trabalho,identico,sim,nao
+W0261::Escolaridade e letramento,BEAD,W0261,Escolaridade e letramento,identico,sim,nao
+W0261::Infraestrutura e porte populacional,BEAD,W0261,Infraestrutura e porte populacional,identico,sim,nao
+W0261::Urbano e rural,BEAD,W0261,Urbano e rural,identico,sim,nao
+W0262::Domicílio e arranjo familiar,BEAD,W0262,Domicílio e arranjo familiar,identico,sim,nao
+W0262::Educação,BEAD,W0262,Educação,novo,nao,sim
+W0262::Escolaridade e letramento,BEAD,W0262,Escolaridade e letramento,identico,sim,nao
+W0262::Urbano e rural,BEAD,W0262,Urbano e rural,identico,sim,nao
+W0263::Domicílio e arranjo familiar,BEAD,W0263,Domicílio e arranjo familiar,identico,sim,nao
+W0263::Urbano e rural,BEAD,W0263,Urbano e rural,identico,sim,nao
+W0264::Domicílio e arranjo familiar,BEAD,W0264,Domicílio e arranjo familiar,identico,sim,nao
+W0264::Posição no trabalho,BEAD,W0264,Posição no trabalho,identico,sim,nao
+W0264::Saúde,BEAD,W0264,Saúde,identico,sim,nao
+W0264::Urbano e rural,BEAD,W0264,Urbano e rural,identico,sim,nao
+W0266::Educação,BEAD,W0266,Educação,novo,nao,sim
+W0266::Escolaridade e letramento,BEAD,W0266,Escolaridade e letramento,novo,nao,sim
+W0267::Domicílio e arranjo familiar,BEAD,W0267,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0267::Macrorregião,BEAD,W0267,Macrorregião,janelas_mudaram,sim,sim
+W0267::Posição no trabalho,BEAD,W0267,Posição no trabalho,identico,sim,nao
+W0267::Raça e etnia,BEAD,W0267,Raça e etnia,identico,sim,nao
+W0267::Urbano e rural,BEAD,W0267,Urbano e rural,identico,sim,nao
+W0268::Cultura e informação,BEAD,W0268,Cultura e informação,novo,nao,sim
+W0268::Domicílio e arranjo familiar,BEAD,W0268,Domicílio e arranjo familiar,novo,nao,sim
+W0268::Educação,BEAD,W0268,Educação,novo,nao,sim
+W0268::Posição no trabalho,BEAD,W0268,Posição no trabalho,identico,sim,nao
+W0268::Saúde,BEAD,W0268,Saúde,novo,nao,sim
+W0269::Cultura e informação,BEAD,W0269,Cultura e informação,identico,sim,nao
+W0269::Educação,BEAD,W0269,Educação,janelas_mudaram,sim,sim
+W0269::Idade,BEAD,W0269,Idade,novo,nao,sim
+W0270::Cultura e informação,BEAD,W0270,Cultura e informação,identico,sim,nao
+W0270::Domicílio e arranjo familiar,BEAD,W0270,Domicílio e arranjo familiar,novo,nao,sim
+W0270::Educação,BEAD,W0270,Educação,janelas_mudaram,sim,sim
+W0270::Escolaridade e letramento,BEAD,W0270,Escolaridade e letramento,identico,sim,nao
+W0270::Posição no trabalho,BEAD,W0270,Posição no trabalho,identico,sim,nao
+W0270::Urbano e rural,BEAD,W0270,Urbano e rural,identico,sim,nao
+W0272::Infraestrutura e porte populacional,BEAD,W0272,Infraestrutura e porte populacional,identico,sim,nao
+W0273::Urbano e rural,BEAD,W0273,Urbano e rural,identico,sim,nao
+W0274::Idade,BEAD,W0274,Idade,janelas_mudaram,sim,sim
+W0275::Posição no trabalho,BEAD,W0275,Posição no trabalho,identico,sim,nao
+W0276::Domicílio e arranjo familiar,BEAD,W0276,Domicílio e arranjo familiar,identico,sim,nao
+W0276::Gênero,BEAD,W0276,Gênero,identico,sim,nao
+W0278::Educação,BEAD,W0278,Educação,identico,sim,nao
+W0279::Domicílio e arranjo familiar,BEAD,W0279,Domicílio e arranjo familiar,identico,sim,nao
+W0279::Infraestrutura e porte populacional,BEAD,W0279,Infraestrutura e porte populacional,identico,sim,nao
+W0279::Macrorregião,BEAD,W0279,Macrorregião,janelas_mudaram,sim,sim
+W0280::Saúde,BEAD,W0280,Saúde,identico,sim,nao
+W0281::Posição no trabalho,BEAD,W0281,Posição no trabalho,identico,sim,nao
+W0281::Saúde,BEAD,W0281,Saúde,identico,sim,nao
+W0281::Saúde e deficiência,BEAD,W0281,Saúde e deficiência,identico,sim,nao
+W0283::Domicílio e arranjo familiar,BEAD,W0283,Domicílio e arranjo familiar,identico,sim,nao
+W0283::Educação,BEAD,W0283,Educação,novo,nao,sim
+W0283::Idade,BEAD,W0283,Idade,janelas_mudaram,sim,sim
+W0284::Cultura e informação,BEAD,W0284,Cultura e informação,identico,sim,nao
+W0284::Domicílio e arranjo familiar,BEAD,W0284,Domicílio e arranjo familiar,identico,sim,nao
+W0284::Educação,BEAD,W0284,Educação,janelas_mudaram,sim,sim
+W0284::Gênero,BEAD,W0284,Gênero,identico,sim,nao
+W0284::Saúde,BEAD,W0284,Saúde,identico,sim,nao
+W0285::Cultura e informação,BEAD,W0285,Cultura e informação,identico,sim,nao
+W0285::Educação,BEAD,W0285,Educação,novo,nao,sim
+W0286::Cultura e informação,BEAD,W0286,Cultura e informação,identico,sim,nao
+W0286::Educação,BEAD,W0286,Educação,novo,nao,sim
+W0286::Posição no trabalho,BEAD,W0286,Posição no trabalho,identico,sim,nao
+W0286::Urbano e rural,BEAD,W0286,Urbano e rural,identico,sim,nao
+W0287::Administração pública,BEAD,W0287,Administração pública,identico,sim,nao
+W0287::Cultura e informação,BEAD,W0287,Cultura e informação,identico,sim,nao
+W0287::Domicílio e arranjo familiar,BEAD,W0287,Domicílio e arranjo familiar,identico,sim,nao
+W0287::Educação,BEAD,W0287,Educação,janelas_mudaram,sim,sim
+W0287::Escolaridade e letramento,BEAD,W0287,Escolaridade e letramento,identico,sim,nao
+W0287::Infraestrutura e porte populacional,BEAD,W0287,Infraestrutura e porte populacional,identico,sim,nao
+W0287::Posição no trabalho,BEAD,W0287,Posição no trabalho,janelas_mudaram,sim,sim
+W0287::Raça e etnia,BEAD,W0287,Raça e etnia,identico,sim,nao
+W0287::Renda e classe,BEAD,W0287,Renda e classe,identico,sim,nao
+W0287::Territórios de povos e comunidades tradicionais,BEAD,W0287,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0287::Urbano e rural,BEAD,W0287,Urbano e rural,identico,sim,nao
+W0288::Domicílio e arranjo familiar,BEAD,W0288,Domicílio e arranjo familiar,novo,nao,sim
+W0288::Urbano e rural,BEAD,W0288,Urbano e rural,identico,sim,nao
+W0289::Administração pública,BEAD,W0289,Administração pública,identico,sim,nao
+W0289::Domicílio e arranjo familiar,BEAD,W0289,Domicílio e arranjo familiar,identico,sim,nao
+W0289::Infraestrutura e porte populacional,BEAD,W0289,Infraestrutura e porte populacional,identico,sim,nao
+W0289::Posição no trabalho,BEAD,W0289,Posição no trabalho,identico,sim,nao
+W0289::Renda e classe,BEAD,W0289,Renda e classe,identico,sim,nao
+W0289::Urbano e rural,BEAD,W0289,Urbano e rural,identico,sim,nao
+W0290::Domicílio e arranjo familiar,BEAD,W0290,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0290::Escolaridade e letramento,BEAD,W0290,Escolaridade e letramento,identico,sim,nao
+W0290::Gênero,BEAD,W0290,Gênero,identico,sim,nao
+W0290::Idade,BEAD,W0290,Idade,identico,sim,nao
+W0290::Infraestrutura e porte populacional,BEAD,W0290,Infraestrutura e porte populacional,identico,sim,nao
+W0290::Macrorregião,BEAD,W0290,Macrorregião,identico,sim,nao
+W0290::Raça e etnia,BEAD,W0290,Raça e etnia,identico,sim,nao
+W0290::Urbano e rural,BEAD,W0290,Urbano e rural,identico,sim,nao
+W0291::Domicílio e arranjo familiar,BEAD,W0291,Domicílio e arranjo familiar,identico,sim,nao
+W0291::Educação,BEAD,W0291,Educação,novo,nao,sim
+W0291::Saúde,BEAD,W0291,Saúde,novo,nao,sim
+W0291::Saúde e deficiência,BEAD,W0291,Saúde e deficiência,identico,sim,nao
+W0291::Urbano e rural,BEAD,W0291,Urbano e rural,identico,sim,nao
+W0292::Cultura e informação,BEAD,W0292,Cultura e informação,identico,sim,nao
+W0294::Domicílio e arranjo familiar,BEAD,W0294,Domicílio e arranjo familiar,novo,nao,sim
+W0294::Infraestrutura e porte populacional,BEAD,W0294,Infraestrutura e porte populacional,identico,sim,nao
+W0294::Urbano e rural,BEAD,W0294,Urbano e rural,identico,sim,nao
+W0295::Domicílio e arranjo familiar,BEAD,W0295,Domicílio e arranjo familiar,novo,nao,sim
+W0295::Idade,BEAD,W0295,Idade,novo,nao,sim
+W0295::Macrorregião,BEAD,W0295,Macrorregião,janelas_mudaram,sim,sim
+W0295::Saúde e deficiência,BEAD,W0295,Saúde e deficiência,identico,sim,nao
+W0295::Vínculo institucional,BEAD,W0295,Vínculo institucional,identico,sim,nao
+W0297::Educação,BEAD,W0297,Educação,janelas_mudaram,sim,sim
+W0297::Escolaridade e letramento,BEAD,W0297,Escolaridade e letramento,identico,sim,nao
+W0297::Saúde e deficiência,BEAD,W0297,Saúde e deficiência,identico,sim,nao
+W0297::Territórios de povos e comunidades tradicionais,BEAD,W0297,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0297::Vínculo institucional,BEAD,W0297,Vínculo institucional,identico,sim,nao
+W0298::Domicílio e arranjo familiar,BEAD,W0298,Domicílio e arranjo familiar,identico,sim,nao
+W0298::Saúde e deficiência,BEAD,W0298,Saúde e deficiência,identico,sim,nao
+W0298::Urbano e rural,BEAD,W0298,Urbano e rural,identico,sim,nao
+W0300::Domicílio e arranjo familiar,BEAD,W0300,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0300::Educação,BEAD,W0300,Educação,novo,nao,sim
+W0300::Urbano e rural,BEAD,W0300,Urbano e rural,identico,sim,nao
+W0300::Vínculo institucional,BEAD,W0300,Vínculo institucional,janelas_mudaram,sim,sim
+W0301::Cultura e informação,BEAD,W0301,Cultura e informação,janelas_mudaram,sim,sim
+W0301::Domicílio e arranjo familiar,BEAD,W0301,Domicílio e arranjo familiar,identico,sim,nao
+W0301::Educação,BEAD,W0301,Educação,identico,sim,nao
+W0301::Infraestrutura e porte populacional,BEAD,W0301,Infraestrutura e porte populacional,identico,sim,nao
+W0301::Urbano e rural,BEAD,W0301,Urbano e rural,identico,sim,nao
+W0303::Cultura e informação,BEAD,W0303,Cultura e informação,novo,nao,sim
+W0303::Domicílio e arranjo familiar,BEAD,W0303,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0303::Educação,BEAD,W0303,Educação,novo,nao,sim
+W0303::Escolaridade e letramento,BEAD,W0303,Escolaridade e letramento,novo,nao,sim
+W0303::Gênero,BEAD,W0303,Gênero,identico,sim,nao
+W0303::Saúde e deficiência,BEAD,W0303,Saúde e deficiência,identico,sim,nao
+W0303::Urbano e rural,BEAD,W0303,Urbano e rural,identico,sim,nao
+W0304::Saúde e deficiência,BEAD,W0304,Saúde e deficiência,identico,sim,nao
+W0305::Domicílio e arranjo familiar,BEAD,W0305,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0305::Escolaridade e letramento,BEAD,W0305,Escolaridade e letramento,identico,sim,nao
+W0305::Infraestrutura e porte populacional,BEAD,W0305,Infraestrutura e porte populacional,identico,sim,nao
+W0305::Vínculo institucional,BEAD,W0305,Vínculo institucional,novo,nao,sim
+W0306::Domicílio e arranjo familiar,BEAD,W0306,Domicílio e arranjo familiar,identico,sim,nao
+W0306::Idade,BEAD,W0306,Idade,novo,nao,sim
+W0306::Infraestrutura e porte populacional,BEAD,W0306,Infraestrutura e porte populacional,identico,sim,nao
+W0306::Macrorregião,BEAD,W0306,Macrorregião,identico,sim,nao
+W0306::Posição no trabalho,BEAD,W0306,Posição no trabalho,identico,sim,nao
+W0306::Renda e classe,BEAD,W0306,Renda e classe,identico,sim,nao
+W0306::Urbano e rural,BEAD,W0306,Urbano e rural,identico,sim,nao
+W0307::Escolaridade e letramento,BEAD,W0307,Escolaridade e letramento,identico,sim,nao
+W0307::Infraestrutura e porte populacional,BEAD,W0307,Infraestrutura e porte populacional,identico,sim,nao
+W0307::Macrorregião,BEAD,W0307,Macrorregião,identico,sim,nao
+W0307::Urbano e rural,BEAD,W0307,Urbano e rural,identico,sim,nao
+W0308::Educação,BEAD,W0308,Educação,novo,nao,sim
+W0308::Infraestrutura e porte populacional,BEAD,W0308,Infraestrutura e porte populacional,identico,sim,nao
+W0308::Macrorregião,BEAD,W0308,Macrorregião,janelas_mudaram,sim,sim
+W0308::Renda e classe,BEAD,W0308,Renda e classe,identico,sim,nao
+W0308::Urbano e rural,BEAD,W0308,Urbano e rural,identico,sim,nao
+W0309::Idade,BEAD,W0309,Idade,novo,nao,sim
+W0310::Idade,BEAD,W0310,Idade,identico,sim,nao
+W0310::Infraestrutura e porte populacional,BEAD,W0310,Infraestrutura e porte populacional,identico,sim,nao
+W0310::Urbano e rural,BEAD,W0310,Urbano e rural,identico,sim,nao
+W0311::Educação,BEAD,W0311,Educação,novo,nao,sim
+W0311::Idade,BEAD,W0311,Idade,janelas_mudaram,sim,sim
+W0311::Posição no trabalho,BEAD,W0311,Posição no trabalho,identico,sim,nao
+W0312::Educação,BEAD,W0312,Educação,identico,sim,nao
+W0313::Educação,BEAD,W0313,Educação,identico,sim,nao
+W0313::Infraestrutura e porte populacional,BEAD,W0313,Infraestrutura e porte populacional,identico,sim,nao
+W0313::Posição no trabalho,BEAD,W0313,Posição no trabalho,identico,sim,nao
+W0314::Administração pública,BEAD,W0314,Administração pública,identico,sim,nao
+W0314::Domicílio e arranjo familiar,BEAD,W0314,Domicílio e arranjo familiar,identico,sim,nao
+W0314::Educação,BEAD,W0314,Educação,janelas_mudaram,sim,sim
+W0314::Escolaridade e letramento,BEAD,W0314,Escolaridade e letramento,janelas_mudaram,sim,sim
+W0314::Gênero,BEAD,W0314,Gênero,identico,sim,nao
+W0314::Idade,BEAD,W0314,Idade,novo,nao,sim
+W0314::Infraestrutura e porte populacional,BEAD,W0314,Infraestrutura e porte populacional,identico,sim,nao
+W0314::Posição no trabalho,BEAD,W0314,Posição no trabalho,identico,sim,nao
+W0314::Renda e classe,BEAD,W0314,Renda e classe,identico,sim,nao
+W0314::Saúde,BEAD,W0314,Saúde,janelas_mudaram,sim,sim
+W0314::Urbano e rural,BEAD,W0314,Urbano e rural,identico,sim,nao
+W0314::Vínculo institucional,BEAD,W0314,Vínculo institucional,janelas_mudaram,sim,sim
+W0315::Cultura e informação,BEAD,W0315,Cultura e informação,novo,nao,sim
+W0315::Domicílio e arranjo familiar,BEAD,W0315,Domicílio e arranjo familiar,identico,sim,nao
+W0315::Educação,BEAD,W0315,Educação,novo,nao,sim
+W0315::Escolaridade e letramento,BEAD,W0315,Escolaridade e letramento,identico,sim,nao
+W0315::Idade,BEAD,W0315,Idade,identico,sim,nao
+W0315::Infraestrutura e porte populacional,BEAD,W0315,Infraestrutura e porte populacional,identico,sim,nao
+W0315::Renda e classe,BEAD,W0315,Renda e classe,identico,sim,nao
+W0315::Territórios de povos e comunidades tradicionais,BEAD,W0315,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0315::Urbano e rural,BEAD,W0315,Urbano e rural,identico,sim,nao
+W0315::Vínculo institucional,BEAD,W0315,Vínculo institucional,identico,sim,nao
+W0316::Administração pública,BEAD,W0316,Administração pública,identico,sim,nao
+W0316::Domicílio e arranjo familiar,BEAD,W0316,Domicílio e arranjo familiar,identico,sim,nao
+W0316::Gênero,BEAD,W0316,Gênero,identico,sim,nao
+W0316::Infraestrutura e porte populacional,BEAD,W0316,Infraestrutura e porte populacional,identico,sim,nao
+W0316::Macrorregião,BEAD,W0316,Macrorregião,identico,sim,nao
+W0316::Posição no trabalho,BEAD,W0316,Posição no trabalho,identico,sim,nao
+W0316::Renda e classe,BEAD,W0316,Renda e classe,identico,sim,nao
+W0316::Urbano e rural,BEAD,W0316,Urbano e rural,identico,sim,nao
+W0316::Vínculo institucional,BEAD,W0316,Vínculo institucional,identico,sim,nao
+W0317::Cultura e informação,BEAD,W0317,Cultura e informação,identico,sim,nao
+W0317::Domicílio e arranjo familiar,BEAD,W0317,Domicílio e arranjo familiar,identico,sim,nao
+W0317::Escolaridade e letramento,BEAD,W0317,Escolaridade e letramento,identico,sim,nao
+W0317::Idade,BEAD,W0317,Idade,identico,sim,nao
+W0317::Posição no trabalho,BEAD,W0317,Posição no trabalho,identico,sim,nao
+W0317::Renda e classe,BEAD,W0317,Renda e classe,identico,sim,nao
+W0317::Saúde,BEAD,W0317,Saúde,identico,sim,nao
+W0317::Urbano e rural,BEAD,W0317,Urbano e rural,identico,sim,nao
+W0317::Vínculo institucional,BEAD,W0317,Vínculo institucional,identico,sim,nao
+W0319::Administração pública,BEAD,W0319,Administração pública,identico,sim,nao
+W0319::Infraestrutura e porte populacional,BEAD,W0319,Infraestrutura e porte populacional,identico,sim,nao
+W0319::Territórios de povos e comunidades tradicionais,BEAD,W0319,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0319::Urbano e rural,BEAD,W0319,Urbano e rural,identico,sim,nao
+W0321::Cultura e informação,BEAD,W0321,Cultura e informação,identico,sim,nao
+W0321::Educação,BEAD,W0321,Educação,janelas_mudaram,sim,sim
+W0321::Saúde,BEAD,W0321,Saúde,identico,sim,nao
+W0321::Urbano e rural,BEAD,W0321,Urbano e rural,identico,sim,nao
+W0322::Administração pública,BEAD,W0322,Administração pública,identico,sim,nao
+W0322::Domicílio e arranjo familiar,BEAD,W0322,Domicílio e arranjo familiar,identico,sim,nao
+W0322::Infraestrutura e porte populacional,BEAD,W0322,Infraestrutura e porte populacional,identico,sim,nao
+W0322::Macrorregião,BEAD,W0322,Macrorregião,identico,sim,nao
+W0322::Renda e classe,BEAD,W0322,Renda e classe,identico,sim,nao
+W0322::Urbano e rural,BEAD,W0322,Urbano e rural,identico,sim,nao
+W0323::Cultura e informação,BEAD,W0323,Cultura e informação,identico,sim,nao
+W0323::Educação,BEAD,W0323,Educação,identico,sim,nao
+W0323::Escolaridade e letramento,BEAD,W0323,Escolaridade e letramento,identico,sim,nao
+W0323::Infraestrutura e porte populacional,BEAD,W0323,Infraestrutura e porte populacional,identico,sim,nao
+W0323::Posição no trabalho,BEAD,W0323,Posição no trabalho,identico,sim,nao
+W0323::Renda e classe,BEAD,W0323,Renda e classe,identico,sim,nao
+W0323::Saúde,BEAD,W0323,Saúde,identico,sim,nao
+W0323::Urbano e rural,BEAD,W0323,Urbano e rural,identico,sim,nao
+W0324::Cultura e informação,BEAD,W0324,Cultura e informação,identico,sim,nao
+W0324::Domicílio e arranjo familiar,BEAD,W0324,Domicílio e arranjo familiar,identico,sim,nao
+W0324::Escolaridade e letramento,BEAD,W0324,Escolaridade e letramento,identico,sim,nao
+W0324::Idade,BEAD,W0324,Idade,janelas_mudaram,sim,sim
+W0324::Infraestrutura e porte populacional,BEAD,W0324,Infraestrutura e porte populacional,identico,sim,nao
+W0324::Macrorregião,BEAD,W0324,Macrorregião,identico,sim,nao
+W0324::Posição no trabalho,BEAD,W0324,Posição no trabalho,identico,sim,nao
+W0324::Saúde,BEAD,W0324,Saúde,identico,sim,nao
+W0324::Urbano e rural,BEAD,W0324,Urbano e rural,identico,sim,nao
+W0324::Vínculo institucional,BEAD,W0324,Vínculo institucional,identico,sim,nao
+W0325::Infraestrutura e porte populacional,BEAD,W0325,Infraestrutura e porte populacional,identico,sim,nao
+W0325::Posição no trabalho,BEAD,W0325,Posição no trabalho,identico,sim,nao
+W0325::Territórios de povos e comunidades tradicionais,BEAD,W0325,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0325::Urbano e rural,BEAD,W0325,Urbano e rural,identico,sim,nao
+W0327::Educação,BEAD,W0327,Educação,novo,nao,sim
+W0327::Idade,BEAD,W0327,Idade,novo,nao,sim
+W0327::Posição no trabalho,BEAD,W0327,Posição no trabalho,identico,sim,nao
+W0328::Infraestrutura e porte populacional,BEAD,W0328,Infraestrutura e porte populacional,identico,sim,nao
+W0328::Urbano e rural,BEAD,W0328,Urbano e rural,identico,sim,nao
+W0330::Escolaridade e letramento,BEAD,W0330,Escolaridade e letramento,novo,nao,sim
+W0330::Posição no trabalho,BEAD,W0330,Posição no trabalho,identico,sim,nao
+W0330::Urbano e rural,BEAD,W0330,Urbano e rural,identico,sim,nao
+W0331::Escolaridade e letramento,BEAD,W0331,Escolaridade e letramento,identico,sim,nao
+W0331::Infraestrutura e porte populacional,BEAD,W0331,Infraestrutura e porte populacional,identico,sim,nao
+W0331::Posição no trabalho,BEAD,W0331,Posição no trabalho,identico,sim,nao
+W0331::Urbano e rural,BEAD,W0331,Urbano e rural,identico,sim,nao
+W0332::Cultura e informação,BEAD,W0332,Cultura e informação,novo,nao,sim
+W0333::Idade,BEAD,W0333,Idade,novo,nao,sim
+W0333::Macrorregião,BEAD,W0333,Macrorregião,identico,sim,nao
+W0335::Domicílio e arranjo familiar,BEAD,W0335,Domicílio e arranjo familiar,novo,nao,sim
+W0335::Infraestrutura e porte populacional,BEAD,W0335,Infraestrutura e porte populacional,identico,sim,nao
+W0335::Posição no trabalho,BEAD,W0335,Posição no trabalho,identico,sim,nao
+W0335::Saúde,BEAD,W0335,Saúde,identico,sim,nao
+W0335::Urbano e rural,BEAD,W0335,Urbano e rural,identico,sim,nao
+W0335::Vínculo institucional,BEAD,W0335,Vínculo institucional,novo,nao,sim
+W0336::Cultura e informação,BEAD,W0336,Cultura e informação,identico,sim,nao
+W0336::Domicílio e arranjo familiar,BEAD,W0336,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0336::Educação,BEAD,W0336,Educação,janelas_mudaram,sim,sim
+W0336::Escolaridade e letramento,BEAD,W0336,Escolaridade e letramento,identico,sim,nao
+W0336::Infraestrutura e porte populacional,BEAD,W0336,Infraestrutura e porte populacional,identico,sim,nao
+W0336::Macrorregião,BEAD,W0336,Macrorregião,novo,nao,sim
+W0336::Renda e classe,BEAD,W0336,Renda e classe,identico,sim,nao
+W0336::Saúde,BEAD,W0336,Saúde,identico,sim,nao
+W0336::Urbano e rural,BEAD,W0336,Urbano e rural,identico,sim,nao
+W0338::Administração pública,BEAD,W0338,Administração pública,identico,sim,nao
+W0338::Educação,BEAD,W0338,Educação,novo,nao,sim
+W0338::Idade,BEAD,W0338,Idade,novo,nao,sim
+W0338::Macrorregião,BEAD,W0338,Macrorregião,identico,sim,nao
+W0338::Territórios de povos e comunidades tradicionais,BEAD,W0338,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0339::Educação,BEAD,W0339,Educação,novo,nao,sim
+W0339::Infraestrutura e porte populacional,BEAD,W0339,Infraestrutura e porte populacional,identico,sim,nao
+W0339::Urbano e rural,BEAD,W0339,Urbano e rural,identico,sim,nao
+W0340::Educação,BEAD,W0340,Educação,novo,nao,sim
+W0340::Macrorregião,BEAD,W0340,Macrorregião,janelas_mudaram,sim,sim
+W0340::Saúde e deficiência,BEAD,W0340,Saúde e deficiência,identico,sim,nao
+W0340::Urbano e rural,BEAD,W0340,Urbano e rural,identico,sim,nao
+W0341::Macrorregião,BEAD,W0341,Macrorregião,identico,sim,nao
+W0341::Saúde,BEAD,W0341,Saúde,identico,sim,nao
+W0342::Domicílio e arranjo familiar,BEAD,W0342,Domicílio e arranjo familiar,identico,sim,nao
+W0342::Infraestrutura e porte populacional,BEAD,W0342,Infraestrutura e porte populacional,identico,sim,nao
+W0342::Macrorregião,BEAD,W0342,Macrorregião,identico,sim,nao
+W0342::Posição no trabalho,BEAD,W0342,Posição no trabalho,identico,sim,nao
+W0342::Renda e classe,BEAD,W0342,Renda e classe,identico,sim,nao
+W0342::Saúde,BEAD,W0342,Saúde,identico,sim,nao
+W0342::Urbano e rural,BEAD,W0342,Urbano e rural,identico,sim,nao
+W0343::Escolaridade e letramento,BEAD,W0343,Escolaridade e letramento,novo,nao,sim
+W0343::Posição no trabalho,BEAD,W0343,Posição no trabalho,identico,sim,nao
+W0343::Urbano e rural,BEAD,W0343,Urbano e rural,identico,sim,nao
+W0344::Administração pública,BEAD,W0344,Administração pública,identico,sim,nao
+W0344::Domicílio e arranjo familiar,BEAD,W0344,Domicílio e arranjo familiar,identico,sim,nao
+W0344::Educação,BEAD,W0344,Educação,novo,nao,sim
+W0344::Gênero,BEAD,W0344,Gênero,identico,sim,nao
+W0344::Infraestrutura e porte populacional,BEAD,W0344,Infraestrutura e porte populacional,identico,sim,nao
+W0344::Posição no trabalho,BEAD,W0344,Posição no trabalho,identico,sim,nao
+W0344::Saúde,BEAD,W0344,Saúde,janelas_mudaram,sim,sim
+W0344::Urbano e rural,BEAD,W0344,Urbano e rural,identico,sim,nao
+W0345::Administração pública,BEAD,W0345,Administração pública,identico,sim,nao
+W0345::Domicílio e arranjo familiar,BEAD,W0345,Domicílio e arranjo familiar,identico,sim,nao
+W0345::Idade,BEAD,W0345,Idade,novo,nao,sim
+W0345::Territórios de povos e comunidades tradicionais,BEAD,W0345,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0346::Posição no trabalho,BEAD,W0346,Posição no trabalho,identico,sim,nao
+W0346::Urbano e rural,BEAD,W0346,Urbano e rural,identico,sim,nao
+W0347::Domicílio e arranjo familiar,BEAD,W0347,Domicílio e arranjo familiar,novo,nao,sim
+W0347::Educação,BEAD,W0347,Educação,identico,sim,nao
+W0347::Infraestrutura e porte populacional,BEAD,W0347,Infraestrutura e porte populacional,identico,sim,nao
+W0347::Posição no trabalho,BEAD,W0347,Posição no trabalho,identico,sim,nao
+W0347::Urbano e rural,BEAD,W0347,Urbano e rural,identico,sim,nao
+W0348::Domicílio e arranjo familiar,BEAD,W0348,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0348::Idade,BEAD,W0348,Idade,novo,nao,sim
+W0350::Cultura e informação,BEAD,W0350,Cultura e informação,identico,sim,nao
+W0350::Domicílio e arranjo familiar,BEAD,W0350,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0350::Idade,BEAD,W0350,Idade,identico,sim,nao
+W0350::Urbano e rural,BEAD,W0350,Urbano e rural,identico,sim,nao
+W0352::Administração pública,BEAD,W0352,Administração pública,identico,sim,nao
+W0352::Domicílio e arranjo familiar,BEAD,W0352,Domicílio e arranjo familiar,novo,nao,sim
+W0353::Educação,BEAD,W0353,Educação,identico,sim,nao
+W0353::Escolaridade e letramento,BEAD,W0353,Escolaridade e letramento,janelas_mudaram,sim,sim
+W0353::Idade,BEAD,W0353,Idade,novo,nao,sim
+W0354::Idade,BEAD,W0354,Idade,novo,nao,sim
+W0354::Urbano e rural,BEAD,W0354,Urbano e rural,identico,sim,nao
+W0355::Cultura e informação,BEAD,W0355,Cultura e informação,novo,nao,sim
+W0355::Urbano e rural,BEAD,W0355,Urbano e rural,identico,sim,nao
+W0356::Domicílio e arranjo familiar,BEAD,W0356,Domicílio e arranjo familiar,identico,sim,nao
+W0356::Urbano e rural,BEAD,W0356,Urbano e rural,identico,sim,nao
+W0357::Domicílio e arranjo familiar,BEAD,W0357,Domicílio e arranjo familiar,identico,sim,nao
+W0357::Idade,BEAD,W0357,Idade,identico,sim,nao
+W0357::Infraestrutura e porte populacional,BEAD,W0357,Infraestrutura e porte populacional,identico,sim,nao
+W0357::Posição no trabalho,BEAD,W0357,Posição no trabalho,identico,sim,nao
+W0357::Urbano e rural,BEAD,W0357,Urbano e rural,identico,sim,nao
+W0360::Domicílio e arranjo familiar,BEAD,W0360,Domicílio e arranjo familiar,identico,sim,nao
+W0360::Infraestrutura e porte populacional,BEAD,W0360,Infraestrutura e porte populacional,identico,sim,nao
+W0360::Macrorregião,BEAD,W0360,Macrorregião,identico,sim,nao
+W0360::Posição no trabalho,BEAD,W0360,Posição no trabalho,identico,sim,nao
+W0360::Territórios de povos e comunidades tradicionais,BEAD,W0360,Territórios de povos e comunidades tradicionais,identico,nao,nao
+W0360::Urbano e rural,BEAD,W0360,Urbano e rural,identico,sim,nao
+W0360::Vínculo institucional,BEAD,W0360,Vínculo institucional,identico,sim,nao
+W0361::Macrorregião,BEAD,W0361,Macrorregião,identico,sim,nao
+W0361::Territórios de povos e comunidades tradicionais,BEAD,W0361,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0361::Urbano e rural,BEAD,W0361,Urbano e rural,identico,sim,nao
+W0364::Idade,BEAD,W0364,Idade,novo,nao,sim
+W0365::Educação,BEAD,W0365,Educação,novo,nao,sim
+W0365::Idade,BEAD,W0365,Idade,novo,nao,sim
+W0365::Infraestrutura e porte populacional,BEAD,W0365,Infraestrutura e porte populacional,identico,sim,nao
+W0366::Administração pública,BEAD,W0366,Administração pública,identico,sim,nao
+W0366::Domicílio e arranjo familiar,BEAD,W0366,Domicílio e arranjo familiar,identico,sim,nao
+W0366::Idade,BEAD,W0366,Idade,novo,nao,sim
+W0366::Urbano e rural,BEAD,W0366,Urbano e rural,identico,sim,nao
+W0367::Domicílio e arranjo familiar,BEAD,W0367,Domicílio e arranjo familiar,identico,sim,nao
+W0367::Idade,BEAD,W0367,Idade,identico,sim,nao
+W0367::Saúde e deficiência,BEAD,W0367,Saúde e deficiência,identico,sim,nao
+W0369::Administração pública,BEAD,W0369,Administração pública,identico,sim,nao
+W0369::Idade,BEAD,W0369,Idade,janelas_mudaram,sim,sim
+W0369::Raça e etnia,BEAD,W0369,Raça e etnia,identico,sim,nao
+W0369::Saúde e deficiência,BEAD,W0369,Saúde e deficiência,identico,sim,nao
+W0371::Idade,BEAD,W0371,Idade,identico,sim,nao
+W0372::Infraestrutura e porte populacional,BEAD,W0372,Infraestrutura e porte populacional,identico,sim,nao
+W0372::Urbano e rural,BEAD,W0372,Urbano e rural,identico,sim,nao
+W0374::Idade,BEAD,W0374,Idade,novo,nao,sim
+W0374::Vínculo institucional,BEAD,W0374,Vínculo institucional,novo,nao,sim
+W0376::Cultura e informação,BEAD,W0376,Cultura e informação,novo,nao,sim
+W0376::Domicílio e arranjo familiar,BEAD,W0376,Domicílio e arranjo familiar,novo,nao,sim
+W0376::Saúde e deficiência,BEAD,W0376,Saúde e deficiência,identico,sim,nao
+W0376::Urbano e rural,BEAD,W0376,Urbano e rural,identico,sim,nao
+W0377::Domicílio e arranjo familiar,BEAD,W0377,Domicílio e arranjo familiar,novo,nao,sim
+W0378::Domicílio e arranjo familiar,BEAD,W0378,Domicílio e arranjo familiar,identico,sim,nao
+W0378::Educação,BEAD,W0378,Educação,janelas_mudaram,sim,sim
+W0378::Escolaridade e letramento,BEAD,W0378,Escolaridade e letramento,janelas_mudaram,sim,sim
+W0378::Macrorregião,BEAD,W0378,Macrorregião,identico,sim,nao
+W0378::Territórios de povos e comunidades tradicionais,BEAD,W0378,Territórios de povos e comunidades tradicionais,identico,sim,nao
+W0380::Domicílio e arranjo familiar,BEAD,W0380,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0380::Idade,BEAD,W0380,Idade,janelas_mudaram,sim,sim
+W0380::Saúde,BEAD,W0380,Saúde,novo,nao,sim
+W0380::Vínculo institucional,BEAD,W0380,Vínculo institucional,identico,sim,nao
+W0381::Posição no trabalho,BEAD,W0381,Posição no trabalho,identico,sim,nao
+W0382::Domicílio e arranjo familiar,BEAD,W0382,Domicílio e arranjo familiar,identico,sim,nao
+W0382::Escolaridade e letramento,BEAD,W0382,Escolaridade e letramento,identico,sim,nao
+W0382::Posição no trabalho,BEAD,W0382,Posição no trabalho,identico,sim,nao
+W0382::Saúde,BEAD,W0382,Saúde,novo,nao,sim
+W0383::Cultura e informação,BEAD,W0383,Cultura e informação,novo,nao,sim
+W0383::Idade,BEAD,W0383,Idade,novo,nao,sim
+W0383::Macrorregião,BEAD,W0383,Macrorregião,novo,nao,sim
+W0384::Educação,BEAD,W0384,Educação,novo,nao,sim
+W0384::Escolaridade e letramento,BEAD,W0384,Escolaridade e letramento,identico,sim,nao
+W0384::Posição no trabalho,BEAD,W0384,Posição no trabalho,identico,sim,nao
+W0385::Domicílio e arranjo familiar,BEAD,W0385,Domicílio e arranjo familiar,identico,sim,nao
+W0385::Urbano e rural,BEAD,W0385,Urbano e rural,identico,sim,nao
+W0387::Idade,BEAD,W0387,Idade,identico,sim,nao
+W0387::Posição no trabalho,BEAD,W0387,Posição no trabalho,novo,nao,sim
+W0388::Idade,BEAD,W0388,Idade,identico,sim,nao
+W0389::Idade,BEAD,W0389,Idade,novo,nao,sim
+W0389::Posição no trabalho,BEAD,W0389,Posição no trabalho,identico,sim,nao
+W0389::Saúde e deficiência,BEAD,W0389,Saúde e deficiência,identico,sim,nao
+W0391::Domicílio e arranjo familiar,BEAD,W0391,Domicílio e arranjo familiar,janelas_mudaram,sim,sim
+W0391::Educação,BEAD,W0391,Educação,novo,nao,sim
+W0391::Posição no trabalho,BEAD,W0391,Posição no trabalho,identico,sim,nao
+W0391::Saúde e deficiência,BEAD,W0391,Saúde e deficiência,identico,sim,nao

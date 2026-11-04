@@ -1,0 +1,861 @@
+{
+ "caso": "BEAD",
+ "lote": 58,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0259::Domicílio e arranjo familiar",
+   "unit_id": "W0259",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Sameh Yamany",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2344,
+     "fim_corpo": 3174,
+     "trecho": "Similarly, it means we can preventatively identify underperforming and faulty network components, maximizing the utility of the connectivity we rely on in good times and bad. III. Using AI to Help Consumers’ Networks Stand Up to Disasters VIAVI’s AI-driven systems are a critical part of fortifying networks against the threat of natural disaster. Using our AI models, VIAVI can predict how natural disasters might disrupt communications. Using this data, network operators can both design more resilient networks and are prepared to automatically adjust the network during disasters to maintain critical communications. This proactive approach ensures that emergency services remain operational, and families stay connected during crises, exemplifying how AI can help ensure we all have a lifeline in our most challenging times."
+    },
+    {
+     "inicio_corpo": 3344,
+     "fim_corpo": 4250,
+     "trecho": "The AI-powered network monitoring and root cause analysis functions we offer can be instrumental in speeding repairs and reducing the need for extensive manual 3 labor when restoring critical services. We can provide specific guidance about which particular parts of the networks should be fixed – and in what order – to restore connectivity as quickly as possible. This capability can be essential in preserving human lives and mitigating the repercussions of disasters on businesses and the environment. IV. Using AI to Help Consumers’ Networks Withstand Stresses on the Network Disasters aren’t the only stressors on our nation’s networks. Sporting events, celebrations, and other mass gatherings can easily overwhelm a network—potentially cutting off the communications needed to reunite families in a large crowd, provide medical services, or just share that special moment with friends."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0260::Educação",
+   "unit_id": "W0260",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Sam Rubin",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13017,
+     "fim_corpo": 13643,
+     "trecho": "PeopleandPartnerships WithAIandautomationcentraltomoderncyberdefenses,wemusteducateandtrainthecyberworkforcewiththeadvancedskillsrequiredformeaningfuljobsthatcomplementtechnologicalinnovation.Thisisessentialtostayingaheadofallcyberthreats.Tothatend,wehavebeenencouragedtoseetheimpactofseveralinitiativesaimedatbroadeningaccesstocybersecurityeducation,includingthePaloAltoNetworksCybersecurityAcademy, whichoffersfreeandaccessiblecurriculaandhands-onlabstoacademicinstitutionsfrommiddleschoolthroughcollege.Hands-onexperienceswithcyberandAIbenefittheentireecosystemastheyhelptoupskillourownworkforceaswellasthatofourcustomers."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0260::Posição no trabalho",
+   "unit_id": "W0260",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Sam Rubin",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "job training",
+     "forma_encontrada": "jobtraining",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12580,
+     "fim_corpo": 13643,
+     "trecho": "8 RecognizeandPromoteCybersecurityasaPrivacyEnabler PaloAltoNetworksbelievesthatAI-poweredcybersecurityisagreatenablerofdataprivacy.Companiesshouldbeencouragedtoprotectdatabyimplementingrobustnetworkandinformationsecuritypracticesthathelppreventcyberincidentsanddatabreachesfromoccurringinthefirstplace.Allowingdatatobecollected,processed,andtransferredforcybersecuritypurposesultimatelysupportsbothprivacyandnationalsecurityobjectives. PeopleandPartnerships WithAIandautomationcentraltomoderncyberdefenses,wemusteducateandtrainthecyberworkforcewiththeadvancedskillsrequiredformeaningfuljobsthatcomplementtechnologicalinnovation.Thisisessentialtostayingaheadofallcyberthreats.Tothatend,wehavebeenencouragedtoseetheimpactofseveralinitiativesaimedatbroadeningaccesstocybersecurityeducation,includingthePaloAltoNetworksCybersecurityAcademy, whichoffersfreeandaccessiblecurriculaandhands-onlabstoacademicinstitutionsfrommiddleschoolthroughcollege.Hands-onexperienceswithcyberandAIbenefittheentireecosystemastheyhelptoupskillourownworkforceaswellasthatofourcustomers."
+    },
+    {
+     "inicio_corpo": 13017,
+     "fim_corpo": 13643,
+     "trecho": "PeopleandPartnerships WithAIandautomationcentraltomoderncyberdefenses,wemusteducateandtrainthecyberworkforcewiththeadvancedskillsrequiredformeaningfuljobsthatcomplementtechnologicalinnovation.Thisisessentialtostayingaheadofallcyberthreats.Tothatend,wehavebeenencouragedtoseetheimpactofseveralinitiativesaimedatbroadeningaccesstocybersecurityeducation,includingthePaloAltoNetworksCybersecurityAcademy, whichoffersfreeandaccessiblecurriculaandhands-onlabstoacademicinstitutionsfrommiddleschoolthroughcollege.Hands-onexperienceswithcyberandAIbenefittheentireecosystemastheyhelptoupskillourownworkforceaswellasthatofourcustomers."
+    },
+    {
+     "inicio_corpo": 13017,
+     "fim_corpo": 13760,
+     "trecho": "PeopleandPartnerships WithAIandautomationcentraltomoderncyberdefenses,wemusteducateandtrainthecyberworkforcewiththeadvancedskillsrequiredformeaningfuljobsthatcomplementtechnologicalinnovation.Thisisessentialtostayingaheadofallcyberthreats.Tothatend,wehavebeenencouragedtoseetheimpactofseveralinitiativesaimedatbroadeningaccesstocybersecurityeducation,includingthePaloAltoNetworksCybersecurityAcademy, whichoffersfreeandaccessiblecurriculaandhands-onlabstoacademicinstitutionsfrommiddleschoolthroughcollege.Hands-onexperienceswithcyberandAIbenefittheentireecosystemastheyhelptoupskillourownworkforceaswellasthatofourcustomers. PaloAltoNetworksalsooffersseveralacceleratedonboardingprogramstohelpdiversifyourworkforce,includingtheUnit42Academy."
+    },
+    {
+     "inicio_corpo": 13643,
+     "fim_corpo": 14042,
+     "trecho": "PaloAltoNetworksalsooffersseveralacceleratedonboardingprogramstohelpdiversifyourworkforce,includingtheUnit42Academy. Asfull-timemembersofourincidentresponseandcyberriskmanagementteams,early-careerprofessionalswithbothuniversityandmilitarybackgroundsspend15monthsdevelopingskillsthroughspecialized,instructor-ledcourses,on-the-jobtraining,andmentorship.Weareproudtoreportthatour2023classis80%female."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0261::Escolaridade e letramento",
+   "unit_id": "W0261",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Courtney Lang",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "digital literacy",
+     "forma_encontrada": "digital literacy",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 31024,
+     "fim_corpo": 31909,
+     "trecho": "Congress should therefore avoid creating rigid regulations that mandate the use of one technique over another, as techniques for AI content authentication are still evolving. While there are several promising methods of content authentication, additional R&D is needed before definitive recommendations can be made as to which one is most effective; it may be that multiple techniques are appropriate for a given AI output. Consistent with our AI Transparency Policy Principles, we believe that consumer awareness of AI-generated content is important, but it is equally important that they are equipped with an understanding of the tools available for verification. Congress should therefore work with industry and other stakeholders to support consumer education initiatives to enhance consumer digital literacy and allow the public to better determine when content is AI-generated."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0261::Infraestrutura e porte populacional",
+   "unit_id": "W0261",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Courtney Lang",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1226,
+     "fim_corpo": 1968,
+     "trecho": "ITI is the premier advocate and thought leader in the United States and around the world for the information and communications technology (ICT) industry. We represent leading companies from across the ICT sector, including hardware, software, digital services, semiconductor, network equipment, cybersecurity, Internet companies, and other organizations using data and technology to evolve their businesses. Our members stand at the forefront in developing and deploying consumer-facing, business-to-business, and government-focused solutions, including AI technologies that enable cybersecurity professionals to detect adversarial cyber threats and telecommunication operators to efficiently map broadband networks to unserved rural areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0261::Urbano e rural",
+   "unit_id": "W0261",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Courtney Lang",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1226,
+     "fim_corpo": 1968,
+     "trecho": "ITI is the premier advocate and thought leader in the United States and around the world for the information and communications technology (ICT) industry. We represent leading companies from across the ICT sector, including hardware, software, digital services, semiconductor, network equipment, cybersecurity, Internet companies, and other organizations using data and technology to evolve their businesses. Our members stand at the forefront in developing and deploying consumer-facing, business-to-business, and government-focused solutions, including AI technologies that enable cybersecurity professionals to detect adversarial cyber threats and telecommunication operators to efficiently map broadband networks to unserved rural areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0262::Domicílio e arranjo familiar",
+   "unit_id": "W0262",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Anna M. Gomez",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 702,
+     "fim_corpo": 1629,
+     "trecho": "It has been a pleasure getting to know the Commissioners and the bureau staff and learning about the important work they do for the agency. I have been working in telecommunications for close to 30 years, more than half of that time serving in government in various capacities at the FCC, the National Telecommunications and Information Administration, briefly, the Senate Commerce Committee, the Department of State, and the White House. Public service is a special calling. A desire to give back and serve my community was instilled in me at a young age. My father is an immigrant. My mother, who passed away over twenty years ago, was a dentist. My brother is a computer programmer. Growing up, we moved frequently for my dad’s job. But after he was laid off and tried to start something on his own, we lost everything. We 2 struggled, like so many families, to stretch the dollar and cut where we could."
+    },
+    {
+     "inicio_corpo": 3060,
+     "fim_corpo": 4158,
+     "trecho": "I believe the FCC does best when its work honors the needs of the people it serves. That means connecting everyone everywhere to affordable, reliable, high-speed broadband. My experience engaging with the public over the past two months as a Commissioner has demonstrated to me the ever-increasing importance of the Commission’s work. All stakeholders, 3 from individuals, to industry, to civil rights and public interest groups – each one has underscored the centrality of broadband to our lives. The path to success for the next generation without access to reliable broadband is a treacherous road as compared to those with access. I saw this clearly when I recently visited several grade school classes and met with an Affordable Connectivity Program outreach grantee. They stressed the importance of the FCC’s pandemic connectivity programs to helping students and families get connected and continue to learn and to work during the pandemic, and the role the Affordable Connectivity Program has played in supporting and expanding access for those who cannot afford it."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0262::Educação",
+   "unit_id": "W0262",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Anna M. Gomez",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1150,
+     "fim_corpo": 1754,
+     "trecho": "Public service is a special calling. A desire to give back and serve my community was instilled in me at a young age. My father is an immigrant. My mother, who passed away over twenty years ago, was a dentist. My brother is a computer programmer. Growing up, we moved frequently for my dad’s job. But after he was laid off and tried to start something on his own, we lost everything. We 2 struggled, like so many families, to stretch the dollar and cut where we could. We did not have money to afford my college tuition, so I worked, borrowed, and paid my way through college and law school."
+    },
+    {
+     "inicio_corpo": 2908,
+     "fim_corpo": 3853,
+     "trecho": "It also can create unbounded opportunity for those who have access to it while at the same time, be a locked door to the futures of those who do not. I believe the FCC does best when its work honors the needs of the people it serves. That means connecting everyone everywhere to affordable, reliable, high-speed broadband. My experience engaging with the public over the past two months as a Commissioner has demonstrated to me the ever-increasing importance of the Commission’s work. All stakeholders, 3 from individuals, to industry, to civil rights and public interest groups – each one has underscored the centrality of broadband to our lives. The path to success for the next generation without access to reliable broadband is a treacherous road as compared to those with access. I saw this clearly when I recently visited several grade school classes and met with an Affordable Connectivity Program outreach grantee."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0262::Escolaridade e letramento",
+   "unit_id": "W0262",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Anna M. Gomez",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3060,
+     "fim_corpo": 4158,
+     "trecho": "I believe the FCC does best when its work honors the needs of the people it serves. That means connecting everyone everywhere to affordable, reliable, high-speed broadband. My experience engaging with the public over the past two months as a Commissioner has demonstrated to me the ever-increasing importance of the Commission’s work. All stakeholders, 3 from individuals, to industry, to civil rights and public interest groups – each one has underscored the centrality of broadband to our lives. The path to success for the next generation without access to reliable broadband is a treacherous road as compared to those with access. I saw this clearly when I recently visited several grade school classes and met with an Affordable Connectivity Program outreach grantee. They stressed the importance of the FCC’s pandemic connectivity programs to helping students and families get connected and continue to learn and to work during the pandemic, and the role the Affordable Connectivity Program has played in supporting and expanding access for those who cannot afford it."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0262::Urbano e rural",
+   "unit_id": "W0262",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Anna M. Gomez",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3572,
+     "fim_corpo": 4515,
+     "trecho": "The path to success for the next generation without access to reliable broadband is a treacherous road as compared to those with access. I saw this clearly when I recently visited several grade school classes and met with an Affordable Connectivity Program outreach grantee. They stressed the importance of the FCC’s pandemic connectivity programs to helping students and families get connected and continue to learn and to work during the pandemic, and the role the Affordable Connectivity Program has played in supporting and expanding access for those who cannot afford it. The Commission, charged with administering these programs, has helped ensure that people across the country have access to affordable, reliable broadband internet access. We must continue to work towards this mission. Ensuring that everyone in rural, tribal, suburban, and urban communities can get and stay connected is critical to success for us all."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0263::Domicílio e arranjo familiar",
+   "unit_id": "W0263",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10268,
+     "fim_corpo": 11215,
+     "trecho": "We’re now told that Title II is necessary because COVID-19 demonstrated the importance of connectivity. But this takes the lessons learned from the pandemic and turns them on their heads. COVID-19 exposed the error of applying Title II-like utility regulations to the Internet as the European Union has long done. As I detailed in a statement last month,5 when online traffic spiked during COVID-19, EU officials asked Netflix and other streamers to ration their service to keep the continent’s slow, fragile networks from breaking. The U.S. had no need to ration service—our network speeds exceeded theirs by 83%. This is because our Title I regulatory approach encouraged investment and buildout. America’s networks are not only faster than those in Europe, they are more competitive, cover a much higher percentage of households, and benefit from levels of per household investment that are 3 times higher than in Europe."
+    },
+    {
+     "inicio_corpo": 10268,
+     "fim_corpo": 11215,
+     "trecho": "We’re now told that Title II is necessary because COVID-19 demonstrated the importance of connectivity. But this takes the lessons learned from the pandemic and turns them on their heads. COVID-19 exposed the error of applying Title II-like utility regulations to the Internet as the European Union has long done. As I detailed in a statement last month,5 when online traffic spiked during COVID-19, EU officials asked Netflix and other streamers to ration their service to keep the continent’s slow, fragile networks from breaking. The U.S. had no need to ration service—our network speeds exceeded theirs by 83%. This is because our Title I regulatory approach encouraged investment and buildout. America’s networks are not only faster than those in Europe, they are more competitive, cover a much higher percentage of households, and benefit from levels of per household investment that are 3 times higher than in Europe."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0263::Urbano e rural",
+   "unit_id": "W0263",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13283,
+     "fim_corpo": 14117,
+     "trecho": "For another, Title II would strip the nation’s lead consumer protection agency—the Federal Trade Commission—of 100% of its authority over broadband. That includes exempting ISPs from the FTC’s privacy rules. What’s more, federal law now prohibits the FCC from reimposing its old broadband privacy rules on ISPs. For still another, Title II will hit Americans in their pocketbook. In fact, prices for utility regulated services like electricity, water, and gas have been increasing over two times faster than the prices for Internet services. Monopoly regulation invariably leads to monopoly prices. For yet another, Title II targets free data plans and pro-consumer zero rating offerings. So if you like your plan, you may not be able to keep your plan. Title II will also slow down America’s rural ISPs."
+    },
+    {
+     "inicio_corpo": 13283,
+     "fim_corpo": 14313,
+     "trecho": "For another, Title II would strip the nation’s lead consumer protection agency—the Federal Trade Commission—of 100% of its authority over broadband. That includes exempting ISPs from the FTC’s privacy rules. What’s more, federal law now prohibits the FCC from reimposing its old broadband privacy rules on ISPs. For still another, Title II will hit Americans in their pocketbook. In fact, prices for utility regulated services like electricity, water, and gas have been increasing over two times faster than the prices for Internet services. Monopoly regulation invariably leads to monopoly prices. For yet another, Title II targets free data plans and pro-consumer zero rating offerings. So if you like your plan, you may not be able to keep your plan. Title II will also slow down America’s rural ISPs. Small and rural providers are already facing significant headwinds due to inflation, supply chain delays, labor shortages and the Administration’s failure to streamline the permitting process."
+    },
+    {
+     "inicio_corpo": 13843,
+     "fim_corpo": 14675,
+     "trecho": "Monopoly regulation invariably leads to monopoly prices. For yet another, Title II targets free data plans and pro-consumer zero rating offerings. So if you like your plan, you may not be able to keep your plan. Title II will also slow down America’s rural ISPs. Small and rural providers are already facing significant headwinds due to inflation, supply chain delays, labor shortages and the Administration’s failure to streamline the permitting process. The last thing that these broadband builders, many of whom are small businesses, need right now is a regulatory onslaught from Washington. Yet that is precisely what Title II utility-style regulation entails. As the FCC determined in 2017, the agency’s 2015 experiment with Title II regulation negatively impacted small ISPs that serve rural communities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0264::Domicílio e arranjo familiar",
+   "unit_id": "W0264",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 978,
+     "trecho": "STATEMENT OF COMMISSIONER GEOFFREY STARKS FEDERAL COMMUNICATIONS COMMISSION BEFORE THE SUBCOMMITTEE ON COMMUNICATIONS & TECHNOLOGY COMMITTEE ON ENERGY & COMMERCE UNITED STATES HOUSE OF REPRESENTATIVES NOVEMBER 30, 2023 Chairman Latta, Ranking Member Matsui, Chairwoman McMorris Rodgers, and Ranking Member Pallone, and members of the Committee, thank you for the opportunity to appear before you today. As a Commissioner, I am committed to ensuring that every American, no matter who they are or where they live, shares in the benefits of connectivity. I am proud of the FCC’s leadership in working to make broadband universally accessible and affordable, aligning with Congressional goals. The Affordable Connectivity Program’s (ACP) success is evident, with substantial enrollment nationwide. Over 22 million households in rural, urban, and tribal communities have access to connectivity that supports employment, education, telehealth, and more."
+    },
+    {
+     "inicio_corpo": 422,
+     "fim_corpo": 1206,
+     "trecho": "As a Commissioner, I am committed to ensuring that every American, no matter who they are or where they live, shares in the benefits of connectivity. I am proud of the FCC’s leadership in working to make broadband universally accessible and affordable, aligning with Congressional goals. The Affordable Connectivity Program’s (ACP) success is evident, with substantial enrollment nationwide. Over 22 million households in rural, urban, and tribal communities have access to connectivity that supports employment, education, telehealth, and more. This includes more than 100,000 households enrolled in 40 states, 15,000 households in all 50 states, at least 5,905 zip codes with more than 1,000 households enrolled, and thousands of rural zip codes with ACP participants."
+    },
+    {
+     "inicio_corpo": 422,
+     "fim_corpo": 1206,
+     "trecho": "As a Commissioner, I am committed to ensuring that every American, no matter who they are or where they live, shares in the benefits of connectivity. I am proud of the FCC’s leadership in working to make broadband universally accessible and affordable, aligning with Congressional goals. The Affordable Connectivity Program’s (ACP) success is evident, with substantial enrollment nationwide. Over 22 million households in rural, urban, and tribal communities have access to connectivity that supports employment, education, telehealth, and more. This includes more than 100,000 households enrolled in 40 states, 15,000 households in all 50 states, at least 5,905 zip codes with more than 1,000 households enrolled, and thousands of rural zip codes with ACP participants."
+    },
+    {
+     "inicio_corpo": 422,
+     "fim_corpo": 1206,
+     "trecho": "As a Commissioner, I am committed to ensuring that every American, no matter who they are or where they live, shares in the benefits of connectivity. I am proud of the FCC’s leadership in working to make broadband universally accessible and affordable, aligning with Congressional goals. The Affordable Connectivity Program’s (ACP) success is evident, with substantial enrollment nationwide. Over 22 million households in rural, urban, and tribal communities have access to connectivity that supports employment, education, telehealth, and more. This includes more than 100,000 households enrolled in 40 states, 15,000 households in all 50 states, at least 5,905 zip codes with more than 1,000 households enrolled, and thousands of rural zip codes with ACP participants."
+    },
+    {
+     "inicio_corpo": 715,
+     "fim_corpo": 1653,
+     "trecho": "The Affordable Connectivity Program’s (ACP) success is evident, with substantial enrollment nationwide. Over 22 million households in rural, urban, and tribal communities have access to connectivity that supports employment, education, telehealth, and more. This includes more than 100,000 households enrolled in 40 states, 15,000 households in all 50 states, at least 5,905 zip codes with more than 1,000 households enrolled, and thousands of rural zip codes with ACP participants. One place where I have prioritized my efforts is in helping to increase awareness and enrollment among those who live in public housing, including “Queen Bea” from the Yesler Terrace in Seattle, Washington who told me that “it was a blessing to have the internet.” I agree. The ACP’s funding is running out, and it is vital that we work together to keep these households connected so the benefits of broadband can continue to flow to all."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0264::Posição no trabalho",
+   "unit_id": "W0264",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1653,
+     "fim_corpo": 2741,
+     "trecho": "In recent months, we’ve taken historic steps towards ensuring the fundamental fairness of the internet. We commenced a proceeding to revive longstanding principles against blocking and throttling of legal content, and paid prioritization that can compromise innovation. These efforts can protect consumers in their access to broadband, an essential service, while also enhancing our security and aligning broadband policy with national consensus. We also implemented the Bipartisan Infrastructure Investment and Jobs Act’s directive that we set forth rules to prevent and eliminate digital discrimination. Stopping digital discrimination anywhere will empower individuals everywhere. At the ongoing ITU World Radiocommunication Conference in Dubai, our discussions are shaping the future of global spectrum management . I am confident that American workers and innovators will build a bright future for wireless and satellite networks, and note that our ability to lead—abroad and here at home —is premised on an extension of the FCC’s spectrum auction authority."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0264::Saúde",
+   "unit_id": "W0264",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 422,
+     "fim_corpo": 978,
+     "trecho": "As a Commissioner, I am committed to ensuring that every American, no matter who they are or where they live, shares in the benefits of connectivity. I am proud of the FCC’s leadership in working to make broadband universally accessible and affordable, aligning with Congressional goals. The Affordable Connectivity Program’s (ACP) success is evident, with substantial enrollment nationwide. Over 22 million households in rural, urban, and tribal communities have access to connectivity that supports employment, education, telehealth, and more."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0264::Urbano e rural",
+   "unit_id": "W0264",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 978,
+     "trecho": "STATEMENT OF COMMISSIONER GEOFFREY STARKS FEDERAL COMMUNICATIONS COMMISSION BEFORE THE SUBCOMMITTEE ON COMMUNICATIONS & TECHNOLOGY COMMITTEE ON ENERGY & COMMERCE UNITED STATES HOUSE OF REPRESENTATIVES NOVEMBER 30, 2023 Chairman Latta, Ranking Member Matsui, Chairwoman McMorris Rodgers, and Ranking Member Pallone, and members of the Committee, thank you for the opportunity to appear before you today. As a Commissioner, I am committed to ensuring that every American, no matter who they are or where they live, shares in the benefits of connectivity. I am proud of the FCC’s leadership in working to make broadband universally accessible and affordable, aligning with Congressional goals. The Affordable Connectivity Program’s (ACP) success is evident, with substantial enrollment nationwide. Over 22 million households in rural, urban, and tribal communities have access to connectivity that supports employment, education, telehealth, and more."
+    },
+    {
+     "inicio_corpo": 422,
+     "fim_corpo": 1206,
+     "trecho": "As a Commissioner, I am committed to ensuring that every American, no matter who they are or where they live, shares in the benefits of connectivity. I am proud of the FCC’s leadership in working to make broadband universally accessible and affordable, aligning with Congressional goals. The Affordable Connectivity Program’s (ACP) success is evident, with substantial enrollment nationwide. Over 22 million households in rural, urban, and tribal communities have access to connectivity that supports employment, education, telehealth, and more. This includes more than 100,000 households enrolled in 40 states, 15,000 households in all 50 states, at least 5,905 zip codes with more than 1,000 households enrolled, and thousands of rural zip codes with ACP participants."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0266::Educação",
+   "unit_id": "W0266",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Nathan Simington",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2080,
+     "fim_corpo": 2951,
+     "trecho": "Unfortunately in the short time that we have had a full Commission, there has been an expected—though no less disappointing—shift in focus to implementation of partisan, unnecessary and burdensome policy frameworks, like the 2015 Title II broadband and digital discrimination regulatory regimes. I implore Congress to pass legislation to create an updated legislative framework for the modern internet ecosystem that would end the continued 3 whipsawing of industry over the Title II fight and create clear rules of the road for all companies in the internet ecosystem—from e-commerce and social media platforms to network operators alike. The FCC has also recently engaged in the wasteful extension of the FCC’s currently overstrained USF programs to provide redundant service subsidies like Wi-Fi on school buses, and hot spots for every student."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0266::Escolaridade e letramento",
+   "unit_id": "W0266",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Nathan Simington",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "student",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2080,
+     "fim_corpo": 2951,
+     "trecho": "Unfortunately in the short time that we have had a full Commission, there has been an expected—though no less disappointing—shift in focus to implementation of partisan, unnecessary and burdensome policy frameworks, like the 2015 Title II broadband and digital discrimination regulatory regimes. I implore Congress to pass legislation to create an updated legislative framework for the modern internet ecosystem that would end the continued 3 whipsawing of industry over the Title II fight and create clear rules of the road for all companies in the internet ecosystem—from e-commerce and social media platforms to network operators alike. The FCC has also recently engaged in the wasteful extension of the FCC’s currently overstrained USF programs to provide redundant service subsidies like Wi-Fi on school buses, and hot spots for every student."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0267::Domicílio e arranjo familiar",
+   "unit_id": "W0267",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Alan Davidson",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4448,
+     "fim_corpo": 5354,
+     "trecho": "• We have awarded all programmatic funds in our Broadband Infrastructure Program and the Connecting Minority Communities Pilot Program. As projects funded by these important programs break ground across the country, NTIA is closely monitoring and evaluating their progress to ensure that dollars are being used wisely and consistent with program rules and goals. • Finally, NTIA is developing Notices of Funding Opportunity for our Digital Equity Capacity Building and Competitive Grant programs after soliciting public comment. We expect every state and territory will have a Digital Equity plan in place next year. 3 Affordability is a key goal across our Internet for All programs, and it is a goal that Congress can help us achieve. The ACP has helped more than 22 million households subscribe to free or discounted Internet service—more than 1 in 6 households across the country."
+    },
+    {
+     "inicio_corpo": 4448,
+     "fim_corpo": 5354,
+     "trecho": "• We have awarded all programmatic funds in our Broadband Infrastructure Program and the Connecting Minority Communities Pilot Program. As projects funded by these important programs break ground across the country, NTIA is closely monitoring and evaluating their progress to ensure that dollars are being used wisely and consistent with program rules and goals. • Finally, NTIA is developing Notices of Funding Opportunity for our Digital Equity Capacity Building and Competitive Grant programs after soliciting public comment. We expect every state and territory will have a Digital Equity plan in place next year. 3 Affordability is a key goal across our Internet for All programs, and it is a goal that Congress can help us achieve. The ACP has helped more than 22 million households subscribe to free or discounted Internet service—more than 1 in 6 households across the country."
+    },
+    {
+     "inicio_corpo": 4818,
+     "fim_corpo": 5529,
+     "trecho": "• Finally, NTIA is developing Notices of Funding Opportunity for our Digital Equity Capacity Building and Competitive Grant programs after soliciting public comment. We expect every state and territory will have a Digital Equity plan in place next year. 3 Affordability is a key goal across our Internet for All programs, and it is a goal that Congress can help us achieve. The ACP has helped more than 22 million households subscribe to free or discounted Internet service—more than 1 in 6 households across the country. The ACP will play an important role in the success of the Internet for All deployment programs. We know that a connection does not mean much if a family cannot afford it."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0267::Macrorregião",
+   "unit_id": "W0267",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Alan Davidson",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1065,
+     "fim_corpo": 2057,
+     "trecho": "Maintaining American leadership in wireless innovation by developing a national spectrum strategy, a spectrum pipeline, and data-driven processes for long-term spectrum planning; and 3. Developing policies that will make for a better Internet – one that offers privacy, security, openness, and trust. Affordability is a critical component in the Administration’s effort to connect all Americans to high-speed Internet service, and Congress can help by acting now to address the President’s supplemental funding request for the Affordable Connectivity Program (ACP) to ensure that millions of Americans can continue to afford to be connected. Internet for All NTIA continues its effort to connect the unconnected throughout America, including rural and other hard-to-reach parts of the country. In June, we told every state and territory how much of the $42.45 billion Broadband Equity, Access, and Deployment—or BEAD—state grant program funding they will be allocated."
+    },
+    {
+     "inicio_corpo": 1257,
+     "fim_corpo": 2172,
+     "trecho": "Developing policies that will make for a better Internet – one that offers privacy, security, openness, and trust. Affordability is a critical component in the Administration’s effort to connect all Americans to high-speed Internet service, and Congress can help by acting now to address the President’s supplemental funding request for the Affordable Connectivity Program (ACP) to ensure that millions of Americans can continue to afford to be connected. Internet for All NTIA continues its effort to connect the unconnected throughout America, including rural and other hard-to-reach parts of the country. In June, we told every state and territory how much of the $42.45 billion Broadband Equity, Access, and Deployment—or BEAD—state grant program funding they will be allocated. The next major milestone is submission of Initial Proposals for how states and territories will use those funds."
+    },
+    {
+     "inicio_corpo": 1373,
+     "fim_corpo": 2316,
+     "trecho": "Affordability is a critical component in the Administration’s effort to connect all Americans to high-speed Internet service, and Congress can help by acting now to address the President’s supplemental funding request for the Affordable Connectivity Program (ACP) to ensure that millions of Americans can continue to afford to be connected. Internet for All NTIA continues its effort to connect the unconnected throughout America, including rural and other hard-to-reach parts of the country. In June, we told every state and territory how much of the $42.45 billion Broadband Equity, Access, and Deployment—or BEAD—state grant program funding they will be allocated. The next major milestone is submission of Initial Proposals for how states and territories will use those funds. NTIA has been working closely with states and territories to ensure that they submit 2 strong proposals by the December 27, 2023, deadline."
+    },
+    {
+     "inicio_corpo": 1720,
+     "fim_corpo": 2438,
+     "trecho": "Internet for All NTIA continues its effort to connect the unconnected throughout America, including rural and other hard-to-reach parts of the country. In June, we told every state and territory how much of the $42.45 billion Broadband Equity, Access, and Deployment—or BEAD—state grant program funding they will be allocated. The next major milestone is submission of Initial Proposals for how states and territories will use those funds. NTIA has been working closely with states and territories to ensure that they submit 2 strong proposals by the December 27, 2023, deadline. To date, all 56 states and territories have put their proposals out for public comment and begun to submit them to NTIA."
+    },
+    {
+     "inicio_corpo": 1720,
+     "fim_corpo": 2554,
+     "trecho": "Internet for All NTIA continues its effort to connect the unconnected throughout America, including rural and other hard-to-reach parts of the country. In June, we told every state and territory how much of the $42.45 billion Broadband Equity, Access, and Deployment—or BEAD—state grant program funding they will be allocated. The next major milestone is submission of Initial Proposals for how states and territories will use those funds. NTIA has been working closely with states and territories to ensure that they submit 2 strong proposals by the December 27, 2023, deadline. To date, all 56 states and territories have put their proposals out for public comment and begun to submit them to NTIA. NTIA is also engaging with stakeholders to ensure that our program sets states and territories up for success."
+    },
+    {
+     "inicio_corpo": 3091,
+     "fim_corpo": 4085,
+     "trecho": "As President Biden said in his State of the Union address, “when we do these projects, we’re going to Buy American.” Under NTIA’s proposed approach to the Build America, Buy America provision of the Infrastructure Investment and Jobs Act, we expect that the vast majority of BEAD funding spent on equipment will flow to companies manufacturing that equipment here in the United States. Industry is responding. We have already seen multiple companies announce that they are reshoring the manufacturing of fiber optic cable and electronic equipment, creating thousands of jobs across the country. Other Internet for All Programs While the BEAD program enters its next phase, NTIA is moving forward to implement our other Internet for All programs. • Since May, NTIA announced approximately $980 million in awards across 40 states and territories in our Middle Mile program, which invests in projects building regional networks that connect to national Internet networks."
+    }
+   ]
+  }
+ ]
+}

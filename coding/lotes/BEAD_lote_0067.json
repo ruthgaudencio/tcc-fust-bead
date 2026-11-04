@@ -1,0 +1,1181 @@
+{
+ "caso": "BEAD",
+ "lote": 67,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0315::Renda e classe",
+   "unit_id": "W0315",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Jennifer Case Nevarez",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 14864,
+     "fim_corpo": 15790,
+     "trecho": "Terminating now would be wasteful, the robust eligibility verification and enrollment work would be lost, and starting over would demand so much more time, energy, and money. Meanwhile, ACP use is widespread and directly impacts constituents. Community members in more than 23 million households across the nation, including urban, suburban, and rural communities rely on ACP to pay for the high-speed Internet service they need for school, work, health care, essential services, and more. As a matter of fact, four of the seven states with the highest ACP enrollment are represented by members of the Senate Committee on Commerce, Science and Transportation, to which this subcommittee reports (Source: USAC, Feb. 2024). Most importantly, we all lose when ACP ends. Households and families lose. Students lose. Covered populations including seniors, veterans, low-income, and rural community members lose."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0315::Territórios de povos e comunidades tradicionais",
+   "unit_id": "W0315",
+   "subcategoria": "Territórios de povos e comunidades tradicionais",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.5",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Jennifer Case Nevarez",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "tribal lands",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "Tribal lands",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 917,
+     "fim_corpo": 1790,
+     "trecho": "A Dine' Navajo elder I work with who lives on a fixed income on a farm in rural New Mexico, with the end of ACP and broadband access and affordability out of reach for many rural residents, she and many others like her will go without Internet connectivity at home. And in her case, will do what she has done before to get online: drive 52 miles to check her e-mail at the public library. With the end of ACP, more than 23 million households are now at risk of losing their Internet connectivity. Nearly half are military families. And 10 million are over the age of 50, with seniors reporting that they rely heavily on the Internet to coordinate and track medical services, overcome isolation, and deal with the fact that they may no longer be able to drive. 320,000 are households on tribal lands, where high-speed Internet is generally more expensive."
+    },
+    {
+     "inicio_corpo": 8358,
+     "fim_corpo": 9268,
+     "trecho": "A Dine' (Navajo) elder I worked with lives on fixed income on a farm in rural New Mexico. With the end of ACP and broadband access and affordability out of reach for many rural residents, she, and many others like her, will go without Internet connectivity at home, and in her case, will do what she has done before to get online . . . drive 52 miles to check her e-mail at the public library (but only once in a while, since gas is expensive, too). As of April 30, 2024, just two days ago, more than 23 million households are now at risk of losing their Internet connectivity with the end of ACP. Nearly half are military families and 10 million are over the age of 50 (with Seniors reporting that they rely heavily on the Internet to coordinate and track medical services and overcome isolation). 320,000 are households on Tribal lands, where high-speed Internet is generally more expensive."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0315::Urbano e rural",
+   "unit_id": "W0315",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Jennifer Case Nevarez",
+   "n_ocorrencias_no_par": 11,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 5,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 282,
+     "fim_corpo": 1188,
+     "trecho": "Nevarez. My name is Jennifer Nevarez. I live in Santa Fe, New Mexico. As Director of Community Learning Network, an educational non-profit dedicated to building stronger communities through real-life learning, and a member of the Broadband and Digital Equity Support Team for the New Mexico Office of Broadband, I have traversed the state, met with hundreds of constituents-- and I'm here today to share community concerns and to highlight the urgent need for Congress to act now to extend ACP before it lapses completely. Though many think the Internet is all about technology, it is actually about connecting people. A Dine' Navajo elder I work with who lives on a fixed income on a farm in rural New Mexico, with the end of ACP and broadband access and affordability out of reach for many rural residents, she and many others like her will go without Internet connectivity at home."
+    },
+    {
+     "inicio_corpo": 282,
+     "fim_corpo": 1188,
+     "trecho": "Nevarez. My name is Jennifer Nevarez. I live in Santa Fe, New Mexico. As Director of Community Learning Network, an educational non-profit dedicated to building stronger communities through real-life learning, and a member of the Broadband and Digital Equity Support Team for the New Mexico Office of Broadband, I have traversed the state, met with hundreds of constituents-- and I'm here today to share community concerns and to highlight the urgent need for Congress to act now to extend ACP before it lapses completely. Though many think the Internet is all about technology, it is actually about connecting people. A Dine' Navajo elder I work with who lives on a fixed income on a farm in rural New Mexico, with the end of ACP and broadband access and affordability out of reach for many rural residents, she and many others like her will go without Internet connectivity at home."
+    },
+    {
+     "inicio_corpo": 1694,
+     "fim_corpo": 2564,
+     "trecho": "320,000 are households on tribal lands, where high-speed Internet is generally more expensive. In New Mexico, more than 184,000 households face losing their ability to pay bills, purchase goods, check health portals, run small businesses, and do work or schoolwork online. In Congressional District 2, 28 percent of all households are enrolled in ACP, so one of every four households are now at risk of losing connectivity. This is a terrible blow to the local economy, and a terrible setback for local families and the counties where they live. With families facing hard decisions about what to cut, finding an affordable alternative is not easy, especially in rural areas where there may only be one provider, where costs can be much higher, and where low- cost options may be unreliable or inadequate for whole families working or learning from home."
+    },
+    {
+     "inicio_corpo": 2128,
+     "fim_corpo": 3200,
+     "trecho": "This is a terrible blow to the local economy, and a terrible setback for local families and the counties where they live. With families facing hard decisions about what to cut, finding an affordable alternative is not easy, especially in rural areas where there may only be one provider, where costs can be much higher, and where low- cost options may be unreliable or inadequate for whole families working or learning from home. As the fifth-largest state and the sixth-lowest in population density, deploying fiber in New Mexico is extra costly. Subscriber pools are smaller and more scattered, and networks are difficult to maintain. For us in New Mexico, for our economy, for our health, for the well-being of our families, our communities, and our Internet service providers, every subscriber counts. Subscribers are especially critical for our small, tribal, and rural communities who have leveraged investments and built networks and companies to provide valuable Internet service in hard-to-reach areas where they are often the only option."
+    },
+    {
+     "inicio_corpo": 4648,
+     "fim_corpo": 5591,
+     "trecho": "Mayors and Governors, both Republicans and Democrats, have publicly prioritized ACP and made it a part of their plan to close the digital divide. Affordable, reliable Internet is more than a bipartisan issue. It is a people issue with a real-world impact on health and wealth for Americans. Moreover, it is rare but inspiring when government, community, and industry align. So why align? As aptly noted by one of our leaders in the community, broadband is everybody's business. Broadband is an essential service for everyone. ACP was established and to address the critical needs to connect everyone, and 23 million enrollment was a monumental feat, and a success we should not waste. Meanwhile, ACP use is widespread and directly impacts our constituents. Urban, suburban, and rural communities rely on ACP to pay for the high-speed Internet service they need for school, work, health care, essential services, and more."
+    },
+    {
+     "inicio_corpo": 7694,
+     "fim_corpo": 8449,
+     "trecho": "As a member of the Broadband and Digital Equity Support Team for New Mexico and the Office of Broadband Access and Expansion (OBAE), I have traversed the state, met with hundreds of constituents, and been deeply involved in stakeholder engagement. I am here today to speak to broadband affordability, to share community concerns about the end of the Affordable Connectivity Program (ACP), and to highlight the need for Congress to take action now to extend ACP before it lapses completely and permanently. First, I would like to start with the reminder that many think the Internet is all about technology, but it is actually about connecting people. A Dine' (Navajo) elder I worked with lives on fixed income on a farm in rural New Mexico."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0315::Vínculo institucional",
+   "unit_id": "W0315",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Jennifer Case Nevarez",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "veterans",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 14864,
+     "fim_corpo": 15790,
+     "trecho": "Terminating now would be wasteful, the robust eligibility verification and enrollment work would be lost, and starting over would demand so much more time, energy, and money. Meanwhile, ACP use is widespread and directly impacts constituents. Community members in more than 23 million households across the nation, including urban, suburban, and rural communities rely on ACP to pay for the high-speed Internet service they need for school, work, health care, essential services, and more. As a matter of fact, four of the seven states with the highest ACP enrollment are represented by members of the Senate Committee on Commerce, Science and Transportation, to which this subcommittee reports (Source: USAC, Feb. 2024). Most importantly, we all lose when ACP ends. Households and families lose. Students lose. Covered populations including seniors, veterans, low-income, and rural community members lose."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0316::Administração pública",
+   "unit_id": "W0316",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Kathryn de Wit",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "local government",
+     "forma_encontrada": "local government",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 20059,
+     "fim_corpo": 20816,
+     "trecho": "Another analysis could focus on how programs focused on low-income households can save money through the provision of digital services. Studying ACP, particularly paired with upcoming BEAD and the Digital Equity Act programs, will enable lawmakers to continue refining program requirements and estimating cost over time. Life Without the ACP--Threat to Federal Broadband Deployment Efforts ACP's lapse will call these gains into question. Failure to fund the program would undercut the success of other significant Federal programs, including the $14.2 billion previously spent on ACP and $66 million in outreach grants to nonprofits, state, and local government, and other entities to establish trust in the program and encourage signups."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0316::Domicílio e arranjo familiar",
+   "unit_id": "W0316",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Kathryn de Wit",
+   "n_ocorrencias_no_par": 34,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 28,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 350,
+     "fim_corpo": 1236,
+     "trecho": "My name is Kathryn de Wit, and I am the Project Director for the Broadband Access Initiative at The Pew Charitable Trusts. Pew is a non-profit, non-partisan, evidence-based organization, and for more than 75 years we have used data to make a difference. My team works directly with broadband offices from 36 states and territories to help them navigate this unprecedented moment: the largest Federal investment in affordable broadband access in our Nation's history. The Affordable Connectivity Program, also known as ACP, is essential to this work. Achieving universal broadband requires two things. First are supply side solutions, steps that reduce the cost of building networks and delivering service to American homes. Second are demand-side interventions that reduce the cost of broadband for consumers, particularly low-income and vulnerable households."
+    },
+    {
+     "inicio_corpo": 916,
+     "fim_corpo": 1798,
+     "trecho": "Achieving universal broadband requires two things. First are supply side solutions, steps that reduce the cost of building networks and delivering service to American homes. Second are demand-side interventions that reduce the cost of broadband for consumers, particularly low-income and vulnerable households. We tried ``If you build it, they will come,'' but COVID-- but the COVID-19 pandemic demonstrated why that approach will not get us to the finish line. We witnessed in real time how tens of millions of Americans struggled--struggled to work, learn, and access health care because they did not have reliable or high-quality Internet. Why? For some, it was too expensive. For others, it was simply unavailable. Congress took swift action to address this, including dedicating funding to immediately bring vulnerable households online, and it worked."
+    },
+    {
+     "inicio_corpo": 971,
+     "fim_corpo": 1979,
+     "trecho": "First are supply side solutions, steps that reduce the cost of building networks and delivering service to American homes. Second are demand-side interventions that reduce the cost of broadband for consumers, particularly low-income and vulnerable households. We tried ``If you build it, they will come,'' but COVID-- but the COVID-19 pandemic demonstrated why that approach will not get us to the finish line. We witnessed in real time how tens of millions of Americans struggled--struggled to work, learn, and access health care because they did not have reliable or high-quality Internet. Why? For some, it was too expensive. For others, it was simply unavailable. Congress took swift action to address this, including dedicating funding to immediately bring vulnerable households online, and it worked. Twenty-three million households participate in the ACP today, including almost half--and almost half of those families are military families, and 19 percent are 65 and older."
+    },
+    {
+     "inicio_corpo": 1096,
+     "fim_corpo": 1979,
+     "trecho": "Second are demand-side interventions that reduce the cost of broadband for consumers, particularly low-income and vulnerable households. We tried ``If you build it, they will come,'' but COVID-- but the COVID-19 pandemic demonstrated why that approach will not get us to the finish line. We witnessed in real time how tens of millions of Americans struggled--struggled to work, learn, and access health care because they did not have reliable or high-quality Internet. Why? For some, it was too expensive. For others, it was simply unavailable. Congress took swift action to address this, including dedicating funding to immediately bring vulnerable households online, and it worked. Twenty-three million households participate in the ACP today, including almost half--and almost half of those families are military families, and 19 percent are 65 and older."
+    },
+    {
+     "inicio_corpo": 1096,
+     "fim_corpo": 1979,
+     "trecho": "Second are demand-side interventions that reduce the cost of broadband for consumers, particularly low-income and vulnerable households. We tried ``If you build it, they will come,'' but COVID-- but the COVID-19 pandemic demonstrated why that approach will not get us to the finish line. We witnessed in real time how tens of millions of Americans struggled--struggled to work, learn, and access health care because they did not have reliable or high-quality Internet. Why? For some, it was too expensive. For others, it was simply unavailable. Congress took swift action to address this, including dedicating funding to immediately bring vulnerable households online, and it worked. Twenty-three million households participate in the ACP today, including almost half--and almost half of those families are military families, and 19 percent are 65 and older."
+    },
+    {
+     "inicio_corpo": 1236,
+     "fim_corpo": 2045,
+     "trecho": "We tried ``If you build it, they will come,'' but COVID-- but the COVID-19 pandemic demonstrated why that approach will not get us to the finish line. We witnessed in real time how tens of millions of Americans struggled--struggled to work, learn, and access health care because they did not have reliable or high-quality Internet. Why? For some, it was too expensive. For others, it was simply unavailable. Congress took swift action to address this, including dedicating funding to immediately bring vulnerable households online, and it worked. Twenty-three million households participate in the ACP today, including almost half--and almost half of those families are military families, and 19 percent are 65 and older. In Texas alone, 1.7 million households benefit from the program."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0316::Gênero",
+   "unit_id": "W0316",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Kathryn de Wit",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "gender",
+     "forma_encontrada": "gender",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8285,
+     "fim_corpo": 9239,
+     "trecho": "This means, as rational economic actors, private Internet service providers (ISPs) tend to focus on areas with denser and higher- income populations. In addition to the economic challenges associated with broadband in rural areas, the cost of broadband negatively impacts the demand for broadband by low-income Americans. Last year, Pew Research Center found that, despite 87 percent of U.S. adults with annual household incomes of $30,000 or less saying they used the internet, just 57 percent of that same cohort had broadband at home. Comparatively, 98 percent of U.S. adults with annual household incomes of over $70,000 use the internet, 88 percent of which report having broadband at home. Further, although the research center found differences in broadband adoption by gender, race and ethnicity, and community type (urban, suburban, and rural), income is the only category for which this difference is statistically significant."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0316::Infraestrutura e porte populacional",
+   "unit_id": "W0316",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Kathryn de Wit",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6432,
+     "fim_corpo": 7287,
+     "trecho": "Research is clear that achieving universal access requires interventions to address the high capital costs of deployment and the long-term cost of network operations, and the cost of broadband for low-income households, aging Americans living on a fixed income, veterans, and others. Closing the digital divide requires addressing these supply and demand side barriers simultaneously, thus decreasing risk for private sector investment and increasing consumer confidence in the service. The Affordable Connectivity Program (ACP) is the best tool we have to make broadband more accessible and affordable to all Americans. A lapse in funding would harm the 23 million households currently enrolled in the program and threaten the Federal deployment programs currently underway that will connect millions more unserved households and businesses."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0316::Macrorregião",
+   "unit_id": "W0316",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Kathryn de Wit",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 832,
+     "trecho": "STATEMENT OF KATHRYN de WIT, PROJECT DIRECTOR, BROADBAND ACCESS INITIATIVE, PEW CHARITABLE TRUSTS Ms. de Wit. Ranking Member Cruz, Chairman Lujan, and Ranking Member Thune, as well as members of the Subcommittee, thank you very much for inviting me to testify in today's hearing. Also, a very happy birthday to Senator Welch. My name is Kathryn de Wit, and I am the Project Director for the Broadband Access Initiative at The Pew Charitable Trusts. Pew is a non-profit, non-partisan, evidence-based organization, and for more than 75 years we have used data to make a difference. My team works directly with broadband offices from 36 states and territories to help them navigate this unprecedented moment: the largest Federal investment in affordable broadband access in our Nation's history."
+    },
+    {
+     "inicio_corpo": 5378,
+     "fim_corpo": 6313,
+     "trecho": "Pew is a nonprofit, nonpartisan, evidence-based organization. For more than 75 years, we have used data to make a difference--addressing the challenges of a changing world by illuminating issues, creating common ground, and advancing ambitious policies that lead to tangible progress. Pew's broadband access initiative was established in 2017, and we partner with state and Federal policymakers, researchers, industry, community organizations, and other stakeholders from across the broadband landscape to accelerate the Nation's progress toward universal, affordable high-speed Internet service. In addition to providing research, informing state and Federal policy, and educating stakeholders, my team is working directly with the broadband offices from 36 states and territories to help them navigate this unprecedented moment: the largest Federal investment in affordable broadband access in our Nation's history."
+    },
+    {
+     "inicio_corpo": 20510,
+     "fim_corpo": 21549,
+     "trecho": "Failure to fund the program would undercut the success of other significant Federal programs, including the $14.2 billion previously spent on ACP and $66 million in outreach grants to nonprofits, state, and local government, and other entities to establish trust in the program and encourage signups. Not to mention the approximately $52 billion committed to CPF and BEAD, where providers of different sizes, service delivery, and technologies have expressed hesitation about participating in those programs if ACP goes away. These numbers do not account for the investments in marketing and outreach from nonprofit organizations and for-profit companies inside and outside the telecommunications community. In fact, more than 400 organizations, representing a range of political, social, and industry interests, called on Congress to fund the ACP. All 56 states and territories have incorporated ACP or a similar success program into their deployment strategies for BEAD and their plans for Digital Equity Act funding."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0316::Posição no trabalho",
+   "unit_id": "W0316",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Kathryn de Wit",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2618,
+     "fim_corpo": 3511,
+     "trecho": "In other words, Congress took steps to ensure that $52 billion in taxpayer funds would support networks that would be available and affordable to consumers, whether they were rural, veterans, or aging Americans living on a fixed income. ACP is currently the best tool we have to bridge the digital divide, because it alleviates cost burden on households and increases certainty for the providers that we need to connect every American. In fact, all 50 states have incorporated ACP into their deployment strategies for capital projects and BEAD. States are actively administering these programs right now. But ACP's potential end is introducing risk to states, providers, and consumers at a critical moment in implementation. We all know that broadband is complicated. States have expressed concerns about a range of challenges, from permitting to workforce shortages."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0316::Renda e classe",
+   "unit_id": "W0316",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Kathryn de Wit",
+   "n_ocorrencias_no_par": 11,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 5,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 304,
+     "fim_corpo": 1236,
+     "trecho": "Also, a very happy birthday to Senator Welch. My name is Kathryn de Wit, and I am the Project Director for the Broadband Access Initiative at The Pew Charitable Trusts. Pew is a non-profit, non-partisan, evidence-based organization, and for more than 75 years we have used data to make a difference. My team works directly with broadband offices from 36 states and territories to help them navigate this unprecedented moment: the largest Federal investment in affordable broadband access in our Nation's history. The Affordable Connectivity Program, also known as ACP, is essential to this work. Achieving universal broadband requires two things. First are supply side solutions, steps that reduce the cost of building networks and delivering service to American homes. Second are demand-side interventions that reduce the cost of broadband for consumers, particularly low-income and vulnerable households."
+    },
+    {
+     "inicio_corpo": 3065,
+     "fim_corpo": 3965,
+     "trecho": "In fact, all 50 states have incorporated ACP into their deployment strategies for capital projects and BEAD. States are actively administering these programs right now. But ACP's potential end is introducing risk to states, providers, and consumers at a critical moment in implementation. We all know that broadband is complicated. States have expressed concerns about a range of challenges, from permitting to workforce shortages. But for more than a year, state broadband offices have raised alarms about the end of ACP, and providers of all types have expressed hesitation about participating in BEAD if ACP goes away. That is why we ask Congress to act quickly and decisively to keep ACP funded. Ohio's digital equity plan notes that the end of ACP will abruptly disrupt access to affordable Internet that low-income Ohioans rely on for education, work, and health care."
+    },
+    {
+     "inicio_corpo": 5987,
+     "fim_corpo": 6720,
+     "trecho": "In addition to providing research, informing state and Federal policy, and educating stakeholders, my team is working directly with the broadband offices from 36 states and territories to help them navigate this unprecedented moment: the largest Federal investment in affordable broadband access in our Nation's history. These investments may finally put affordable, high-speed Internet within reach of every American in this country. Research is clear that achieving universal access requires interventions to address the high capital costs of deployment and the long-term cost of network operations, and the cost of broadband for low-income households, aging Americans living on a fixed income, veterans, and others."
+    },
+    {
+     "inicio_corpo": 7829,
+     "fim_corpo": 8614,
+     "trecho": "The challenges of deploying broadband network infrastructure in rural locations, particularly those with low population density and difficult terrain, create high costs and low returns on investment that discourage providers from expanding into those areas. Moreover, broadband deployment in the U.S. has been market-driven, with private-sector telephone and cable companies investing in infrastructure in areas that provide higher rates of return. This means, as rational economic actors, private Internet service providers (ISPs) tend to focus on areas with denser and higher- income populations. In addition to the economic challenges associated with broadband in rural areas, the cost of broadband negatively impacts the demand for broadband by low-income Americans."
+    },
+    {
+     "inicio_corpo": 8868,
+     "fim_corpo": 9763,
+     "trecho": "adults with annual household incomes of over $70,000 use the internet, 88 percent of which report having broadband at home. Further, although the research center found differences in broadband adoption by gender, race and ethnicity, and community type (urban, suburban, and rural), income is the only category for which this difference is statistically significant. Pew Research Center also found that 45 percent of U.S. adults cite the high monthly cost of a connection as the reason they do not have broadband, and researchers at the R Street Institute have argued increased availability of service does not necessarily result in increased adoption. Price matters. Given the influence of cost on customer demand and the high capital costs of deploying broadband, internet service providers have little reason to upgrade existing networks or build new ones in low-income areas."
+    },
+    {
+     "inicio_corpo": 9763,
+     "fim_corpo": 10636,
+     "trecho": "That investment decision may also impact customers who can pay full price for a subscription. Although public funds such as loans or grants can help offset the cost of capital expenses, ISPs require additional funding to keep these high-cost communities online. Additionally, the prevailing argument for lack of expansion has been that most non-adopters do not perceive the Internet to be ``relevant'' to their lives and therefore will not purchase service. Yet the data shows us that broadband is still too expensive for households, even though they report it being relevant to their lives. Broadband Affordability and Deployment Investment Go Hand-in-Hand Many combine the two challenges of making broadband more affordable for all consumers and cost as a barrier to adoption for low-income Americans into one conversation about broadband affordability."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0316::Urbano e rural",
+   "unit_id": "W0316",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Kathryn de Wit",
+   "n_ocorrencias_no_par": 11,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 5,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1979,
+     "fim_corpo": 2862,
+     "trecho": "In Texas alone, 1.7 million households benefit from the program. In Michigan, more than 410,000 households are enrolled. These numbers are a remarkable testament to the response from Internet service providers, the public sector, and community partners across the country. Second, Congress established two important deployment initiatives: the Capital Projects Fund, and the Broadband Equity Access and Deployment Program, also known as BEAD. But for the first time, Congress addressed those supply-and-demand barriers together, by conditioning eligibility for deployment grants on participation in an affordability program. In other words, Congress took steps to ensure that $52 billion in taxpayer funds would support networks that would be available and affordable to consumers, whether they were rural, veterans, or aging Americans living on a fixed income."
+    },
+    {
+     "inicio_corpo": 6926,
+     "fim_corpo": 7829,
+     "trecho": "The Affordable Connectivity Program (ACP) is the best tool we have to make broadband more accessible and affordable to all Americans. A lapse in funding would harm the 23 million households currently enrolled in the program and threaten the Federal deployment programs currently underway that will connect millions more unserved households and businesses. I implore Congress to act quickly and identify a short-term funding solution to save the ACP. I am grateful for the opportunity to share insights and learnings from our years of work on affordable broadband access, including state broadband programs. Like others, including private sector Internet service providers, we have concluded that millions of people across the country still lack sufficient access to broadband service, largely because they live in rural communities, which are the most difficult and expensive to serve."
+    },
+    {
+     "inicio_corpo": 7062,
+     "fim_corpo": 8091,
+     "trecho": "A lapse in funding would harm the 23 million households currently enrolled in the program and threaten the Federal deployment programs currently underway that will connect millions more unserved households and businesses. I implore Congress to act quickly and identify a short-term funding solution to save the ACP. I am grateful for the opportunity to share insights and learnings from our years of work on affordable broadband access, including state broadband programs. Like others, including private sector Internet service providers, we have concluded that millions of people across the country still lack sufficient access to broadband service, largely because they live in rural communities, which are the most difficult and expensive to serve. The challenges of deploying broadband network infrastructure in rural locations, particularly those with low population density and difficult terrain, create high costs and low returns on investment that discourage providers from expanding into those areas."
+    },
+    {
+     "inicio_corpo": 7829,
+     "fim_corpo": 8614,
+     "trecho": "The challenges of deploying broadband network infrastructure in rural locations, particularly those with low population density and difficult terrain, create high costs and low returns on investment that discourage providers from expanding into those areas. Moreover, broadband deployment in the U.S. has been market-driven, with private-sector telephone and cable companies investing in infrastructure in areas that provide higher rates of return. This means, as rational economic actors, private Internet service providers (ISPs) tend to focus on areas with denser and higher- income populations. In addition to the economic challenges associated with broadband in rural areas, the cost of broadband negatively impacts the demand for broadband by low-income Americans."
+    },
+    {
+     "inicio_corpo": 8285,
+     "fim_corpo": 9239,
+     "trecho": "This means, as rational economic actors, private Internet service providers (ISPs) tend to focus on areas with denser and higher- income populations. In addition to the economic challenges associated with broadband in rural areas, the cost of broadband negatively impacts the demand for broadband by low-income Americans. Last year, Pew Research Center found that, despite 87 percent of U.S. adults with annual household incomes of $30,000 or less saying they used the internet, just 57 percent of that same cohort had broadband at home. Comparatively, 98 percent of U.S. adults with annual household incomes of over $70,000 use the internet, 88 percent of which report having broadband at home. Further, although the research center found differences in broadband adoption by gender, race and ethnicity, and community type (urban, suburban, and rural), income is the only category for which this difference is statistically significant."
+    },
+    {
+     "inicio_corpo": 11008,
+     "fim_corpo": 11869,
+     "trecho": "But these will not fully address the challenge of affordability as a barrier to adoption for low-income households. Doing so requires demand-side policy interventions that remove cost as a barrier, such as policies and programs that help cover the cost of both connections and devices, as well as efforts to help connect households with those programs. Those realities are reflected in a series of programs Congress authorized in response to the COVID-19 pandemic and ongoing efforts to invest in our Nation's infrastructure: the American Rescue Plan Act's Capital Project Fund (CPF), the Investment Infrastructure and Jobs Act's (IIJA), and the Broadband Equity Access and Deployment (BEAD) program. Specifically, these programs are designed to defray the capital costs of deployment to higher-cost areas like rural and low- income communities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0316::Vínculo institucional",
+   "unit_id": "W0316",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Kathryn de Wit",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "veterans",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "veterans",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "veterans",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "veterans",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1979,
+     "fim_corpo": 2862,
+     "trecho": "In Texas alone, 1.7 million households benefit from the program. In Michigan, more than 410,000 households are enrolled. These numbers are a remarkable testament to the response from Internet service providers, the public sector, and community partners across the country. Second, Congress established two important deployment initiatives: the Capital Projects Fund, and the Broadband Equity Access and Deployment Program, also known as BEAD. But for the first time, Congress addressed those supply-and-demand barriers together, by conditioning eligibility for deployment grants on participation in an affordability program. In other words, Congress took steps to ensure that $52 billion in taxpayer funds would support networks that would be available and affordable to consumers, whether they were rural, veterans, or aging Americans living on a fixed income."
+    },
+    {
+     "inicio_corpo": 5987,
+     "fim_corpo": 6720,
+     "trecho": "In addition to providing research, informing state and Federal policy, and educating stakeholders, my team is working directly with the broadband offices from 36 states and territories to help them navigate this unprecedented moment: the largest Federal investment in affordable broadband access in our Nation's history. These investments may finally put affordable, high-speed Internet within reach of every American in this country. Research is clear that achieving universal access requires interventions to address the high capital costs of deployment and the long-term cost of network operations, and the cost of broadband for low-income households, aging Americans living on a fixed income, veterans, and others."
+    },
+    {
+     "inicio_corpo": 11366,
+     "fim_corpo": 12110,
+     "trecho": "Those realities are reflected in a series of programs Congress authorized in response to the COVID-19 pandemic and ongoing efforts to invest in our Nation's infrastructure: the American Rescue Plan Act's Capital Project Fund (CPF), the Investment Infrastructure and Jobs Act's (IIJA), and the Broadband Equity Access and Deployment (BEAD) program. Specifically, these programs are designed to defray the capital costs of deployment to higher-cost areas like rural and low- income communities. However, unlike past grant programs, recipients must participate in a subsidy program targeted at vulnerable populations that may be unable to pay for regular service, including low-income households, veterans, and Pell Grant recipients."
+    },
+    {
+     "inicio_corpo": 12110,
+     "fim_corpo": 12854,
+     "trecho": "This requirement should expand the customer base for Internet service providers by increasing the number of customers who can afford and maintain subscriptions and decreasing turnover of those customers, defraying the cost for ISPs. The Affordable Connectivity Program currently helps ISPs meet this requirement. High Enrollment and Support for the ACP The ACP has been a success, demonstrating high rates of enrollment, a positive effect on individuals and networks, and assumed impact on the Nation's GDP. More than 23 million households are currently enrolled, far exceeding participation in programs like Lifeline. Of these participating households, approximately half are Americans over 50 and military families or veterans."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0317::Cultura e informação",
+   "unit_id": "W0317",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Paul Winfree",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "community anchor institutions",
+     "forma_encontrada": "community anchor institutions",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 25463,
+     "fim_corpo": 26230,
+     "trecho": "When a small local provider in a rural area in New Mexico goes bankrupt, what happens to their customer base? And can--can they just find a new provider? Ms. Nevarez. Actually, it depends, but generally, the customers lose service. And in rural New Mexico, finding an alternate provider is very difficult. Actually, these networks didn't exist. If they were easy, we would have built them already. So when a small rural community builds a network, there's often no competition, or little to no competition. So for those small providers, if they go bankrupt or fail, those customers lose service. And oftentimes, the small government offices, the local regional government offices, and community anchor institutions that also use that network fail."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0317::Domicílio e arranjo familiar",
+   "unit_id": "W0317",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Paul Winfree",
+   "n_ocorrencias_no_par": 30,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 24,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1845,
+     "fim_corpo": 2780,
+     "trecho": "But in 2016, the FCC enacted a rule requiring consumers to opt in. Congress nullified this rule using the Congressional Review Act process. The results created more options at different price points for consumers. The 2020 Economic Report of the President found that the CRA reduced wireless prices by more than 10 percent and wired prices by as much as 2 percent. At the same time, subsidizing demand can increase prices, especially when the unemployment rate is high and the underlying inflation rate is high as well--or excuse me, unemployment rate is low and the interval--and inflation rate is high. There are several ways that the Federal Government subsidizes the demand for broadband. One such program is the Affordable Connectivity Program, or ACP, which provides a monthly subsidy of $30 to low-income households, as well as a $100 one-time subsidy to buy a tablet, laptop, or desktop computer."
+    },
+    {
+     "inicio_corpo": 2471,
+     "fim_corpo": 3298,
+     "trecho": "There are several ways that the Federal Government subsidizes the demand for broadband. One such program is the Affordable Connectivity Program, or ACP, which provides a monthly subsidy of $30 to low-income households, as well as a $100 one-time subsidy to buy a tablet, laptop, or desktop computer. Economic theory, as Senator Cruz mentioned earlier, would predict that a demand subsidy can act as a price floor, especially in a market where the demand and supply of a product remain relatively fixed. In this environment, the producer, in this case the ISPs, will caption a portion, if not all, of the subsidy. In a recent paper, I found that there is a positive relationship between the percentage of households receiving ACP subsidies and the increase in the average total monthly price for broadband."
+    },
+    {
+     "inicio_corpo": 2564,
+     "fim_corpo": 3556,
+     "trecho": "One such program is the Affordable Connectivity Program, or ACP, which provides a monthly subsidy of $30 to low-income households, as well as a $100 one-time subsidy to buy a tablet, laptop, or desktop computer. Economic theory, as Senator Cruz mentioned earlier, would predict that a demand subsidy can act as a price floor, especially in a market where the demand and supply of a product remain relatively fixed. In this environment, the producer, in this case the ISPs, will caption a portion, if not all, of the subsidy. In a recent paper, I found that there is a positive relationship between the percentage of households receiving ACP subsidies and the increase in the average total monthly price for broadband. Importantly, I do not find any statistically meaningful association between ACP subsidies and prices when the level of households receiving subsidies is under 7 percent, but today about 15 percent of households across the country receive an ACP subsidy."
+    },
+    {
+     "inicio_corpo": 2780,
+     "fim_corpo": 3556,
+     "trecho": "Economic theory, as Senator Cruz mentioned earlier, would predict that a demand subsidy can act as a price floor, especially in a market where the demand and supply of a product remain relatively fixed. In this environment, the producer, in this case the ISPs, will caption a portion, if not all, of the subsidy. In a recent paper, I found that there is a positive relationship between the percentage of households receiving ACP subsidies and the increase in the average total monthly price for broadband. Importantly, I do not find any statistically meaningful association between ACP subsidies and prices when the level of households receiving subsidies is under 7 percent, but today about 15 percent of households across the country receive an ACP subsidy."
+    },
+    {
+     "inicio_corpo": 3098,
+     "fim_corpo": 4147,
+     "trecho": "In a recent paper, I found that there is a positive relationship between the percentage of households receiving ACP subsidies and the increase in the average total monthly price for broadband. Importantly, I do not find any statistically meaningful association between ACP subsidies and prices when the level of households receiving subsidies is under 7 percent, but today about 15 percent of households across the country receive an ACP subsidy. That corresponds with an average increase of about 7 percent in the total cost of a monthly broadband subscription. These estimates do not change, even when factoring in the market concentration of ISPs. Based on the estimates in this paper, the average cost of broadband is about $5.48 per month higher because of ACP, implying that ISPs are capturing about 18 percent of the total subsidy. If 40 percent of households were enrolled in ACP, as would be the case under the Biden administration's enrollment proposal, the average change in prices for plans would be about $9.39."
+    },
+    {
+     "inicio_corpo": 7722,
+     "fim_corpo": 8688,
+     "trecho": "The FCC enacted a rule in 2016 that required ``opt-in'' to a data- sharing model. However, Congress used the Congressional Review Act (CRA) process to cancel this rule in 2017. The 2020 Economic Report of the President, written by the White House's Council of Economic Advisers, found that the CRA overturning the FCC's rule requiring consumers to ``opt-in'' to data sharing reduced wireless prices by more than 10 percent and wired prices by as much as 2 percent (see Figure 3- 4 above from the 2020 ERP). Subsidizing Demand Can Increase Prices for High-Speed Internet In December 2020, Congress passed the Consolidated Appropriations Act of 2021 (P.L. 116-260) that established the Emergency Broadband Benefit Program (EBB). EBB was a temporary subsidy of up to $50 per month. EBB was intended to help low-income households afford broadband Internet services amid the COVID-19 pandemic when most students were still engaged in remote learning."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0317::Escolaridade e letramento",
+   "unit_id": "W0317",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Paul Winfree",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7810,
+     "fim_corpo": 8688,
+     "trecho": "However, Congress used the Congressional Review Act (CRA) process to cancel this rule in 2017. The 2020 Economic Report of the President, written by the White House's Council of Economic Advisers, found that the CRA overturning the FCC's rule requiring consumers to ``opt-in'' to data sharing reduced wireless prices by more than 10 percent and wired prices by as much as 2 percent (see Figure 3- 4 above from the 2020 ERP). Subsidizing Demand Can Increase Prices for High-Speed Internet In December 2020, Congress passed the Consolidated Appropriations Act of 2021 (P.L. 116-260) that established the Emergency Broadband Benefit Program (EBB). EBB was a temporary subsidy of up to $50 per month. EBB was intended to help low-income households afford broadband Internet services amid the COVID-19 pandemic when most students were still engaged in remote learning."
+    },
+    {
+     "inicio_corpo": 20894,
+     "fim_corpo": 21704,
+     "trecho": "Focusing on deregulation and competition avoids the costs associated with ACP which can raise prices for all consumers without meaningfully closing the digital divide. Deregulation and competition can also avoid the hidden costs of subsidizing demand with additional inflation fueled by deficit spending. Senator Lujan. Thank you, Dr. Winfree. I'm now going to recognize myself for five minutes of questions, and Ms. Nevarez, I'm going to begin with you. Again, thank you for traveling from New Mexico to be with us today, and for your work over many years to connect every New Mexican to broadband. Now Ms. Nevarez, yes or no, from what you have seen and who you have worked with on the ground, would students be negatively impacted by a lapse in the Affordable connectivity program?"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0317::Idade",
+   "unit_id": "W0317",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Paul Winfree",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "seniors",
+     "forma_encontrada": "seniors",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "seniors",
+     "forma_encontrada": "seniors",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 21065,
+     "fim_corpo": 21981,
+     "trecho": "Deregulation and competition can also avoid the hidden costs of subsidizing demand with additional inflation fueled by deficit spending. Senator Lujan. Thank you, Dr. Winfree. I'm now going to recognize myself for five minutes of questions, and Ms. Nevarez, I'm going to begin with you. Again, thank you for traveling from New Mexico to be with us today, and for your work over many years to connect every New Mexican to broadband. Now Ms. Nevarez, yes or no, from what you have seen and who you have worked with on the ground, would students be negatively impacted by a lapse in the Affordable connectivity program? Ms. Nevarez. Absolutely, yes. I'll add in all capital letters. Senator Lujan. Would---- Ms. Nevarez. Being a teacher at heart. Senator Lujan. Would veterans be negatively impacted? Ms. Nevarez. Yes. Senator Lujan. Would seniors be negatively impacted?"
+    },
+    {
+     "inicio_corpo": 21704,
+     "fim_corpo": 22536,
+     "trecho": "Ms. Nevarez. Absolutely, yes. I'll add in all capital letters. Senator Lujan. Would---- Ms. Nevarez. Being a teacher at heart. Senator Lujan. Would veterans be negatively impacted? Ms. Nevarez. Yes. Senator Lujan. Would seniors be negatively impacted? Ms. Nevarez. Yes. Senator Lujan. Would those who live in our tribal communities be negatively impacted? Ms. Nevarez. Yes. Senator Lujan. Would those who live in rural areas be negatively impacted? Ms. Nevarez. Yes. Senator Lujan. I appreciate those responses. Now Ms. de Wit, can you please briefly provide a perspective from your research on which populations will be the most affected? Ms. de Wit. At this point, the--at this point, we know that nearly one-fifth of ACP households include seniors age 65 and older."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0317::Posição no trabalho",
+   "unit_id": "W0317",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Paul Winfree",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "job training",
+     "forma_encontrada": "job training",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 24132,
+     "fim_corpo": 25093,
+     "trecho": "And if it's not true today, it's going to be true sometime in the very near future. What we saw immediately in the wake of the pandemic was that health care started accelerating its movement to telehealth. I believe in February 2020, one percent of Medicare care visits were over telehealth. In April, it was like 70 percent. That was inevitable, but it started to accelerate, and then efficiencies grow in. So it's almost inevitable that if not today, at some time in the near future, Internet access can actually save money for those programs. Senator Lujan. So on that same note, do you believe that between health care, employment, and education, investing in the Affordable Connectivity Program may actually result in a cost savings, a net cost savings to the government? Mr. Levin. Yes. And for example, in the job training and job placement, we find that people who have Internet access get jobs faster, as you would expect."
+    },
+    {
+     "inicio_corpo": 25574,
+     "fim_corpo": 27213,
+     "trecho": "And can--can they just find a new provider? Ms. Nevarez. Actually, it depends, but generally, the customers lose service. And in rural New Mexico, finding an alternate provider is very difficult. Actually, these networks didn't exist. If they were easy, we would have built them already. So when a small rural community builds a network, there's often no competition, or little to no competition. So for those small providers, if they go bankrupt or fail, those customers lose service. And oftentimes, the small government offices, the local regional government offices, and community anchor institutions that also use that network fail. And I would add as well, in New Mexico, we have 22 tribes that are building their own networks. Not only do they build them, they are running them. And they have trained local community members. So the local workforce also loses out. Because those community members who've been trained as fiber technicians, those jobs go away, and those community members either have to find an alternate job, and rural New Mexico, it's not always easy. They have to travel further or move to the city. Just a shout-out, our state has been tenaciously working on that. And we're proud to report over 200 fiber optic technicians, with 80 percent of them being Native or Hispanic, have been trained in the last 2 years to run their own networks. 70 percent of those had some college but no college degree. It's very exciting. Senator Lujan. I appreciate that. Next, we will hear from Senator Vance. Senator Vance, you're recognized for five minutes for your questions."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0317::Renda e classe",
+   "unit_id": "W0317",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Paul Winfree",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "poverty level",
+     "forma_encontrada": "poverty level",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1845,
+     "fim_corpo": 2780,
+     "trecho": "But in 2016, the FCC enacted a rule requiring consumers to opt in. Congress nullified this rule using the Congressional Review Act process. The results created more options at different price points for consumers. The 2020 Economic Report of the President found that the CRA reduced wireless prices by more than 10 percent and wired prices by as much as 2 percent. At the same time, subsidizing demand can increase prices, especially when the unemployment rate is high and the underlying inflation rate is high as well--or excuse me, unemployment rate is low and the interval--and inflation rate is high. There are several ways that the Federal Government subsidizes the demand for broadband. One such program is the Affordable Connectivity Program, or ACP, which provides a monthly subsidy of $30 to low-income households, as well as a $100 one-time subsidy to buy a tablet, laptop, or desktop computer."
+    },
+    {
+     "inicio_corpo": 7722,
+     "fim_corpo": 8688,
+     "trecho": "The FCC enacted a rule in 2016 that required ``opt-in'' to a data- sharing model. However, Congress used the Congressional Review Act (CRA) process to cancel this rule in 2017. The 2020 Economic Report of the President, written by the White House's Council of Economic Advisers, found that the CRA overturning the FCC's rule requiring consumers to ``opt-in'' to data sharing reduced wireless prices by more than 10 percent and wired prices by as much as 2 percent (see Figure 3- 4 above from the 2020 ERP). Subsidizing Demand Can Increase Prices for High-Speed Internet In December 2020, Congress passed the Consolidated Appropriations Act of 2021 (P.L. 116-260) that established the Emergency Broadband Benefit Program (EBB). EBB was a temporary subsidy of up to $50 per month. EBB was intended to help low-income households afford broadband Internet services amid the COVID-19 pandemic when most students were still engaged in remote learning."
+    },
+    {
+     "inicio_corpo": 8392,
+     "fim_corpo": 9276,
+     "trecho": "116-260) that established the Emergency Broadband Benefit Program (EBB). EBB was a temporary subsidy of up to $50 per month. EBB was intended to help low-income households afford broadband Internet services amid the COVID-19 pandemic when most students were still engaged in remote learning. The initial appropriation for the program was $3.2 billion. In November 2021, the Infrastructure Investment and Jobs Act (IIJA or P.L. 117-58) made three significant changes to EBB. First, it eliminated the sunset of the program, which was set to coincide with the expiration of the COVID-19 pandemic. Second, it provided another $14.2 billion for the program. Third, it renamed EBB as the Affordable Connectivity Program (ACP). Like its predecessor, ACP provides a monthly subsidy of $30 per month to low-income households that purchase services from participating ISPs."
+    },
+    {
+     "inicio_corpo": 9529,
+     "fim_corpo": 10354,
+     "trecho": "receive a subsidy. --------------------------------------------------------------------------- \\1\\ Federal Communications Commission, ``Affordable Connectivity Program Enrollment and Claims Tracker,'' https://www.usac.org/about/ affordable-connectivity-program/acp-enrollment-and-claims-tracker/, (accessed January 3, 2024). --------------------------------------------------------------------------- Why Might Have ACP Increased Prices? Economic theory would predict that a demand subsidy can act as a price floor, especially in a market where the demand and supply of a product remain relatively fixed. In this environment, the producer (in this case, ISPs) will capture a portion (or even all) of the subsidy. The FCC has said that a goal of ACP is to close the digital divide for low-income consumers."
+    },
+    {
+     "inicio_corpo": 12021,
+     "fim_corpo": 12982,
+     "trecho": "29, 2024, https:// www.fcc.gov/sites/default/files/ACP-Survey-Results.pdf --------------------------------------------------------------------------- The 77 percent referenced by FCC is derived by adding two responses together including the 29.3 percent of respondents who said that they would choose a different service and the 47.6 percent who said that they would choose a lower cost service. Only 15.7 percent said that they would drop their service with no alternative. This 15.7 percent that would lose coverage in the absence of ACP is very similar to the rate of new take-up in Internet service after the adoption of ACP based on other FCC data. One reason why it may not have increased demand is that the program is duplicative of other programs. For example, the FCC's Universal Service Fund Lifeline Program already provided a subsidy to low-income consumers for broadband services (i.e., the Lifeline subsidy is $9.25 per month)."
+    },
+    {
+     "inicio_corpo": 19508,
+     "fim_corpo": 20553,
+     "trecho": "\\10\\ Ibid. --------------------------------------------------------------------------- There are also much better ways to subsidize demand than to provide payments through ACP which go directly to ISPs. For example, subsidies could be provided directly to households to be used on Internet service or other household items. Also, policymakers could look to the tax code. Some provisions are scheduled to expire at the end of 2025. These expiring provisions reduce the cost of capital (and increase domestic investment) and allowing the expirations to take effect would raise the tax liability for the average household qualifying for ACP by more than three times the amount of the ACP subsidy.\\11\\ --------------------------------------------------------------------------- \\11\\ Author's calculations based on population making less than 200 percent of the Federal poverty level using the Tax Foundation's 2026 Tax Reform Calculator, found here: https://taxfoundation.org/data/all/ federal/tax-calculator-tcja-expiration/."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0317::Saúde",
+   "unit_id": "W0317",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Paul Winfree",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 23487,
+     "fim_corpo": 24345,
+     "trecho": "Many of the most vulnerable populations who utilize the Affordable Connectivity Program are also participants in Medicare or Medicaid, or are veterans who receive their health care through the VA. So that 23 percent savings is a significant cost savings for the government. Mr. Levin, from your research, from what you've seen, is it possible that the economic benefit of the Affordable Connectivity Program to the health care system are greater than the cost of the government--of administering to the government, than administering the program? Mr. Levin. I'm not a health care economist, but I believe the answer to be yes. And if it's not true today, it's going to be true sometime in the very near future. What we saw immediately in the wake of the pandemic was that health care started accelerating its movement to telehealth."
+    },
+    {
+     "inicio_corpo": 23688,
+     "fim_corpo": 24432,
+     "trecho": "So that 23 percent savings is a significant cost savings for the government. Mr. Levin, from your research, from what you've seen, is it possible that the economic benefit of the Affordable Connectivity Program to the health care system are greater than the cost of the government--of administering to the government, than administering the program? Mr. Levin. I'm not a health care economist, but I believe the answer to be yes. And if it's not true today, it's going to be true sometime in the very near future. What we saw immediately in the wake of the pandemic was that health care started accelerating its movement to telehealth. I believe in February 2020, one percent of Medicare care visits were over telehealth."
+    }
+   ]
+  }
+ ]
+}

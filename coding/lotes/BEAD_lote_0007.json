@@ -1,0 +1,1158 @@
+{
+ "caso": "BEAD",
+ "lote": 7,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0028::Gênero",
+   "unit_id": "W0028",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. John Auerbach",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11671,
+     "fim_corpo": 12612,
+     "trecho": "The LIFT America Act proposal would prioritize funding for states with a higher burden of preventable disease and disability as well as infrastructure gaps, helping to close the gap between states and regions. The Importance of Public Health Data Infrastructure We are also very supportive of the proposal to invest in public health data system transformation at CDC and state, local, tribal and territorial public health departments. Public health surveillance is supposed to be a multidirectional, interoperable system of public health working with healthcare providers and laboratories to detect disease outbreaks and trends in disease patterns. Data truly is the lifeblood of public health – we need to know when the opioid epidemic shifted from a prescription drug problem to a heroin problem; we need to know that black women are dying in childbirth at alarming rates; we need to know when an Ebola case shows up at a U.S."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0028::Idade",
+   "unit_id": "W0028",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. John Auerbach",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1025,
+     "fim_corpo": 2132,
+     "trecho": "I will focus my testimony on provisions related to building public health infrastructure. That means that the Centers for Disease Control and Prevention (CDC) as well state, local, Tribal and territorial health departments and community partners have the necessary tools to prevent and respond to major public health threats in order to protect the American public. That infrastructure includes the facilities and equipment – such as governmental laboratories; up-to-date data and information systems – such as those needed to identify cases early to prevent spread; and a highly skilled and qualified workforce - including those who are the front lines when a deadly infectious disease or dangerous environmental hazard needs to be contained.1 Over my 30-year career, I have held senior positions in public health at the federal, state and local levels, including as Associate Director of the Office for State, Tribal, Local and Territorial Support (OSTLTS) at CDC and Commissioner of Public Health for Massachusetts and Boston’s director of public health during the 9/11 emergency response."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0028::Posição no trabalho",
+   "unit_id": "W0028",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. John Auerbach",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "Workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 802,
+     "fim_corpo": 2132,
+     "trecho": "Thank you for the opportunity to testify today on the proposal to invest in the nation’s public health infrastructure through several provisions in the Leading Infrastructure for Tomorrow’s America (LIFT America Act). I will focus my testimony on provisions related to building public health infrastructure. That means that the Centers for Disease Control and Prevention (CDC) as well state, local, Tribal and territorial health departments and community partners have the necessary tools to prevent and respond to major public health threats in order to protect the American public. That infrastructure includes the facilities and equipment – such as governmental laboratories; up-to-date data and information systems – such as those needed to identify cases early to prevent spread; and a highly skilled and qualified workforce - including those who are the front lines when a deadly infectious disease or dangerous environmental hazard needs to be contained.1 Over my 30-year career, I have held senior positions in public health at the federal, state and local levels, including as Associate Director of the Office for State, Tribal, Local and Territorial Support (OSTLTS) at CDC and Commissioner of Public Health for Massachusetts and Boston’s director of public health during the 9/11 emergency response."
+    },
+    {
+     "inicio_corpo": 2331,
+     "fim_corpo": 3207,
+     "trecho": "But all too often, health departments are under-resourced and under-staffed.2 Public health funding is usually allocated with scores of line items, each one representing a distinct disease or condition. But some resources are needed that extend beyond a single health issue. That is where infrastructure funding is so critical. An investment in core public health infrastructure gives public health the foundation needed to tackle a wide range of health issues. In fact, investing in public health is cost effective. Public health systems and program spending have been shown to have a positive return on 1 Healthy People 2020, Public Health Infrastructure. https://www.healthypeople.gov/2020/topics- objectives/topic/public-health-infrastructure 2 Public Health Workforce Interests and Needs Survey."
+    },
+    {
+     "inicio_corpo": 2612,
+     "fim_corpo": 3692,
+     "trecho": "That is where infrastructure funding is so critical. An investment in core public health infrastructure gives public health the foundation needed to tackle a wide range of health issues. In fact, investing in public health is cost effective. Public health systems and program spending have been shown to have a positive return on 1 Healthy People 2020, Public Health Infrastructure. https://www.healthypeople.gov/2020/topics- objectives/topic/public-health-infrastructure 2 Public Health Workforce Interests and Needs Survey. de Beaumont Foundation, 2018. http://www.debeaumont.org/ph-wins/ 2 investment and improvement in health outcomes – including reducing preventable deaths.3, 4, 5 These investments just make sense. They are investments not just in health but in our economic security – ensuring our workforce is healthy and reducing healthcare costs and unemployment rates– and in national security, as public health has a vital role to protecting communities from natural and manmade threats."
+    },
+    {
+     "inicio_corpo": 5310,
+     "fim_corpo": 6126,
+     "trecho": "During the Zika outbreak, health departments in most states were not able to conduct a confirmatory laboratory test, so the samples would have to be flown by commercial airlines to the CDC in Atlanta. And even CDC could not keep up with the volume of requests due to their own limited laboratory equipment and skilled staff. In addition, the technology for using and storing Advanced Molecular Detection and other sophisticated laboratory equipment is constantly evolving and improving. Without continued investment, these tools become outdated. As we prepare for the next big outbreak – whether pandemic influenza or a drug-resistant superbug or a new virus – public health needs modern tools from highly functioning public health laboratory systems to trained workforce to health information systems."
+    },
+    {
+     "inicio_corpo": 6545,
+     "fim_corpo": 7413,
+     "trecho": "Academy Health, 2018. https://www.academyhealth.org/sites/default/files/roi_public_health_spending_june2018.pdf 4 Mays, Glen P. and Sharla A Smith. Evidence Links Increases in Public Health Spending to Declines in Preventable Deaths. Health Affairs, Vol 30, No. 8, 2011. https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2011.0196 5 Masters, R et al. Return on investment of public health interventions: a systematic review. J Epidemiol Community Health 71(8):827-34, 2017. https://jech.bmj.com/content/71/8/827 6 Centers for Disease Control and Prevention. Life Expectancy. 2018. https://www.cdc.gov/nchs/fastats/life- expectancy.htm 3 services to isolated areas where transportation is a challenge. From these vehicles public health workers can offer vaccinations, in-person WIC services, screening for diseases and harm reduction services."
+    },
+    {
+     "inicio_corpo": 12328,
+     "fim_corpo": 13100,
+     "trecho": "Data truly is the lifeblood of public health – we need to know when the opioid epidemic shifted from a prescription drug problem to a heroin problem; we need to know that black women are dying in childbirth at alarming rates; we need to know when an Ebola case shows up at a U.S. hospital. The success of public health relies upon accurate and timely data, but it is shocking to continue to hear stories of hand-written notes, faxes, screenshots and phone calls as ways that health departments and clinicians are reporting public health data and communicating between agencies [See ADDENDUM].13 Public health information systems remain archaic – depending on outdated technology, systems that do not talk to each other, and lack of adequately trained workforce."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0028::Renda e classe",
+   "unit_id": "W0028",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. John Auerbach",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10949,
+     "fim_corpo": 11671,
+     "trecho": "Our recent report found that CDC funding to states range from a low of $17.09 per person in the Chairman’s home state of New Jersey to a high of $63.28 per person in Alaska.11 Although per capita funding does not tell the full story of the funding gap in each state, it is an illustration of the variation we are seeing. Another analysis found that only about half of the U.S. population is served by a comprehensive public health delivery system, and in some states, that number is closer to zero.12 Targeting infrastructure investment in areas of greatest need can help strengthen health departments that have traditionally lacked resources, especially those with large rural and/or low-income populations."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0028::Saúde",
+   "unit_id": "W0028",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. John Auerbach",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4120,
+     "fim_corpo": 5094,
+     "trecho": "life expectancy had declined for the third year in a row, the longest sustained decline in expected life span since 1918.6 This startling statistic should be a wakeup call that we can no longer neglect the country’s public health system. The challenges currently being faced by public health are growing: • Public health departments are on the ground working across sectors to prevent, detect, contain and respond to outbreaks. What do Zika, Ebola, and measles have in common? None of these disease outbreaks was anticipated. And when they hit, there were dangerous delays in responding due to the weakness of the public health infrastructure. States often lacked the state laboratory capacity to conduct testing for such diseases, instead relying on sending specimens to CDC in Atlanta. That delayed the test results for days. Imagine patients who go to the emergency room of a hospital with strange and potentially deadly symptoms of an unknown cause."
+    },
+    {
+     "inicio_corpo": 11883,
+     "fim_corpo": 12622,
+     "trecho": "The Importance of Public Health Data Infrastructure We are also very supportive of the proposal to invest in public health data system transformation at CDC and state, local, tribal and territorial public health departments. Public health surveillance is supposed to be a multidirectional, interoperable system of public health working with healthcare providers and laboratories to detect disease outbreaks and trends in disease patterns. Data truly is the lifeblood of public health – we need to know when the opioid epidemic shifted from a prescription drug problem to a heroin problem; we need to know that black women are dying in childbirth at alarming rates; we need to know when an Ebola case shows up at a U.S. hospital."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0028::Saúde e deficiência",
+   "unit_id": "W0028",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. John Auerbach",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "disability",
+     "forma_encontrada": "disability",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10949,
+     "fim_corpo": 11883,
+     "trecho": "Our recent report found that CDC funding to states range from a low of $17.09 per person in the Chairman’s home state of New Jersey to a high of $63.28 per person in Alaska.11 Although per capita funding does not tell the full story of the funding gap in each state, it is an illustration of the variation we are seeing. Another analysis found that only about half of the U.S. population is served by a comprehensive public health delivery system, and in some states, that number is closer to zero.12 Targeting infrastructure investment in areas of greatest need can help strengthen health departments that have traditionally lacked resources, especially those with large rural and/or low-income populations. The LIFT America Act proposal would prioritize funding for states with a higher burden of preventable disease and disability as well as infrastructure gaps, helping to close the gap between states and regions."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0028::Territórios de povos e comunidades tradicionais",
+   "unit_id": "W0028",
+   "subcategoria": "Territórios de povos e comunidades tradicionais",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. John Auerbach",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Tribal government",
+     "forma_encontrada": "tribal government",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9946,
+     "fim_corpo": 10949,
+     "trecho": "U.S. Department of Health & Human Services Office of the Assistant Secretary for Preparedness and Response. https://www.phe.gov/emergency/news/healthactions/phe/Pages/default.aspx 8 The Nation’s Health Dollar ($3.5 Trillion), Calendar Year 2017, Where It Went . Centers for Medicare and Medicaid Services, 2018. https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and- Reports/NationalHealthExpendData/Downloads/PieChartSourcesExpenditures.pdf 9 Mamaril et al. Estimating the Cost of Providing Foundational Public Health Services . Academy Health PHSR Interest Group Meeting, June 25, 2016. http://www.publichealthsystems.org/sites/default/files/presentations/NCCIntramural_Research/cbm%20po ster_a cademyhealth_25Jun16.pdf 4 Health Infrastructure Fund for state, territorial, local and tribal governmental public health to address the gaps in sustainable financing.10 There are also wide disparities in public health infrastructure between geographic regions."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0028::Urbano e rural",
+   "unit_id": "W0028",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. John Auerbach",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5513,
+     "fim_corpo": 6278,
+     "trecho": "And even CDC could not keep up with the volume of requests due to their own limited laboratory equipment and skilled staff. In addition, the technology for using and storing Advanced Molecular Detection and other sophisticated laboratory equipment is constantly evolving and improving. Without continued investment, these tools become outdated. As we prepare for the next big outbreak – whether pandemic influenza or a drug-resistant superbug or a new virus – public health needs modern tools from highly functioning public health laboratory systems to trained workforce to health information systems. • Public health departments often face geographic barriers to assisting the residents of the nation, such as those in frontier states or rural areas."
+    },
+    {
+     "inicio_corpo": 10949,
+     "fim_corpo": 11671,
+     "trecho": "Our recent report found that CDC funding to states range from a low of $17.09 per person in the Chairman’s home state of New Jersey to a high of $63.28 per person in Alaska.11 Although per capita funding does not tell the full story of the funding gap in each state, it is an illustration of the variation we are seeing. Another analysis found that only about half of the U.S. population is served by a comprehensive public health delivery system, and in some states, that number is closer to zero.12 Targeting infrastructure investment in areas of greatest need can help strengthen health departments that have traditionally lacked resources, especially those with large rural and/or low-income populations."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0029::Administração pública",
+   "unit_id": "W0029",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jessica Eckdish",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 49073,
+     "fim_corpo": 50180,
+     "trecho": "Legislative Requests: 1. Provide $40 billion over five years to deploy secure and resilient broadband: • Three-quarters of this funding will be used to deploy broadband in unserved areas; the remaining funds will be given to states to distribute through state-wide reverse auctions. • If there are no unserved areas in a state, the state may use the funding to deploy broadband in underserved areas, to deploy broadband or connective technology, to schools and libraries, or to fund the deployment of Next Generation 9-1-1. • Include provisions that require grant recipients to respect collective bargaining agreements and workers’ organizing rights. SECTOR: BROADBAND POLICY PRIORITIES | Investing in America’s Infrastructure to Create High-Quality Jobs and Protect the Environment 12 2. Restore the ability of local governments to regulate deployment of small cells in order to meet the needs of their communities: • In 2018, the FCC limited local governments’ authority to set access fees and other criteria for wireless providers’ deployment of small cell equipment in public rights of way."
+    },
+    {
+     "inicio_corpo": 49357,
+     "fim_corpo": 50180,
+     "trecho": "• If there are no unserved areas in a state, the state may use the funding to deploy broadband in underserved areas, to deploy broadband or connective technology, to schools and libraries, or to fund the deployment of Next Generation 9-1-1. • Include provisions that require grant recipients to respect collective bargaining agreements and workers’ organizing rights. SECTOR: BROADBAND POLICY PRIORITIES | Investing in America’s Infrastructure to Create High-Quality Jobs and Protect the Environment 12 2. Restore the ability of local governments to regulate deployment of small cells in order to meet the needs of their communities: • In 2018, the FCC limited local governments’ authority to set access fees and other criteria for wireless providers’ deployment of small cell equipment in public rights of way."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0029::Cultura e informação",
+   "unit_id": "W0029",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jessica Eckdish",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "libraries",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 48699,
+     "fim_corpo": 49601,
+     "trecho": "Smart cities and communities will create a large spectrum of benefits for citizens, and support the well-being of a city’s infrastructure. A fully formed 5G network will also provide the reliable, far-reaching high-speed network connections needed to transform and strengthen our vast system of infrastructure, which can reduce emissions and spur economic development. Legislative Requests: 1. Provide $40 billion over five years to deploy secure and resilient broadband: • Three-quarters of this funding will be used to deploy broadband in unserved areas; the remaining funds will be given to states to distribute through state-wide reverse auctions. • If there are no unserved areas in a state, the state may use the funding to deploy broadband in underserved areas, to deploy broadband or connective technology, to schools and libraries, or to fund the deployment of Next Generation 9-1-1."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0029::Domicílio e arranjo familiar",
+   "unit_id": "W0029",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jessica Eckdish",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5600,
+     "fim_corpo": 6688,
+     "trecho": "It must also include respect for collective bargaining agreements and workers’ organizing rights such as neutrality, majority sign-up, and first contract arbitration. Lastly, it means maintaining and growing jobs in the public sector necessary to effectively maintain and operate assets, ensure project quality, protect worker and environmental safety and health, and deliver continued cost-effective operation in the public interest. 2) Deliver Climate Benefits and Reduce Pollution Second, an infrastructure package must deliver climate benefits and reduce pollution. Targeted investments could deliver significant greenhouse gas emissions reductions. Take drinking water investments: 6 billion gallons of clean water is leaked daily from public drinking water systems—enough for 15 million households—which has significant associated greenhouse gas (GHG) impacts.v A 5 percent reduction in leaks reduces climate change pollution by an equivalent of 225,000 metric tons of carbon dioxide.vi Similarly, full implementation of a nationwide smart grid could reduce U.S."
+    },
+    {
+     "inicio_corpo": 12429,
+     "fim_corpo": 13334,
+     "trecho": "While the bill also includes necessary conditions to ensure domestic content, prevailing wage, and other benefits for workers and communities, there are opportunities to expand these provisions across the bill. We look forward to working with the committee and identifying opportunities to strengthen and advance this important effort moving forward. Repairing America’s infrastructure systems is both urgently needed and an enormous opportunity; it should be a bipartisan legislative priority in the 116th Congress. In closing, I want to reiterate that tackling the crisis of our aging infrastructure—if done right—is a significant opportunity to increase U.S. global competitiveness, create quality, family-sustaining jobs across the country, significantly reduce greenhouse gas emissions and other pollution, and make our children healthier and our communities more more resilient."
+    },
+    {
+     "inicio_corpo": 18381,
+     "fim_corpo": 20184,
+     "trecho": "and Students POLICY PRIORITIES | Investing in America’s Infrastructure to Create High-Quality Jobs and Protect the Environment 2 Priority 10: Invest in the Energy Efficiency of MUSH (Municipal, University, School, Hospitals) Buildings Sector: Broadband Priority 11: Deploy High-Speed Broadband Internet to Close the Digital Divide, Reduce Emissions, and Spur Economic Development Sector: Natural Infrastructure, Reclamation, and Climate Resilience Priority 12: Restore Our Public Lands Priority 13: Reclaim Abandoned Mine Lands and Clean Up Hazardous Waste and Brownfield Sites Priority 14: Plan, Manage, and Build for Climate Resilience Overarching Recommendations: Ensure High-Road Standards Apply to All Infrastructure Legislation T o ensure we maximize the benefits of our infrastructure investments for communities, the environment, and workers, any infrastructure package must: Create family-sustaining jobs: • Ensure all projects built with public resources are subject to Buy America standards that maximize the return to taxpayers and the American economy; • Enforce Davis-Bacon provisions that ensure workers are paid prevailing wages; • Utilize project labor agreements (PLAs), community benefit agreements, local hire, and other provisions and practices that prioritize improving training, working conditions, and project benefits, including respect for collective bargaining agreements and workers’ organizing rights such as neutrality, majority sign-up, and first contract arbitration; • Ensure these requirements and benefits extend across infrastructure projects and to manufacturing of infrastructure related equipment and technology; and • Maintain and grow jobs in the public sector necessary to maintain and operate assets, and ensure compliance and project quality."
+    },
+    {
+     "inicio_corpo": 28286,
+     "fim_corpo": 29159,
+     "trecho": "Additionally, these investments will curtail the release of methane into the atmosphere, reducing contributions to climate change. Methane is more than 87 times as potent as carbon dioxide at trapping planetary heat in the near-term. Legislative Requests: 1. Accelerate the repair and replacement of distribution pipelines: • Create a state revolving loan fund for natural gas distribution pipeline repair and replacement to provide additional tools to states and utilities to address old, leaking distribution pipelines. • As recommended in the DOE’s Quadrennial Energy Review, establish a program that provides financial assistance to states to incentivize reducing emissions in the gas distribution system. This can be achieved through targeted funding to offset costs to low income households and funding for enhanced directed inspection and maintenance programs."
+    },
+    {
+     "inicio_corpo": 40756,
+     "fim_corpo": 41565,
+     "trecho": "Climate change, shifting demographics and business activities, the need for water treatment methods that address multiple contaminants, and environmental constraints all demand a more integrated, holistic approach to water services. Legislative Requests: 1. Create a clean water trust fund that dedicates $35 billion a year to our nation’s critical water infrastructure projects, prioritizing investments to communities most in need, ensuring that all communities can begin making a feasible plan to update their water and wastewater systems. 2. Triple funds for the Clean Water and Drinking Water State Revolving Funds (SRFs) and permanently extend the Buy America provision for the Drinking Water SRF. 3. Create grant programs at the EPA to assist low-income households with water and sewer services."
+    },
+    {
+     "inicio_corpo": 44440,
+     "fim_corpo": 45246,
+     "trecho": "Many of these schools also have child care facilities. There are not just issues with the permanent buildings—outdoor facilities like parking or playgrounds also require repairs and are too often sited on or next to environmental hazards. Many of these facilities have maintenance issues—such as mold and asbestos or lead in drinking water and paint—that seriously affect student performance and may have lasting negative health impacts to occupants. Legislative Requests: 1. Direct funds to address critical school infrastructure: • Pass the Rebuild America’s Schools Act, which dedicates federal funding to school infrastructure to improve the safety and health of our students, enhance our communities, and reduce greenhouse gases, while creating quality, family-sustaining jobs at the same time."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0029::Educação",
+   "unit_id": "W0029",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jessica Eckdish",
+   "n_ocorrencias_no_par": 19,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 13,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "Schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "Schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 882,
+     "fim_corpo": 1851,
+     "trecho": "Our partnership is firm in its belief that Americans don’t have to choose between a good job and a clean environment—we can and must have both. Inv esting in repairing and modernizing our nation’s infrastructure—the topic of today’s hearing—is a clear example of this principle. If done right, a federal infrastructure package will boost our economy and create millions of jobs, while simultaneously reducing pollution, combating climate change, and strengthening our communities. A merican infrastructure systems today are in dire need of repair and modernization. The American Society of Civil Engineers (ASCE)’s latest 2017 Report Card for America’s Infrastructure gave the nation’s infrastructure a grade of “D+.”i This is not just a grade on paper, it means real threats to our communities, from failing bridges and contaminated drinking water to inefficient and unhealthy schools, power outages, and dangerous and leaky gas pipes under our cities."
+    },
+    {
+     "inicio_corpo": 2609,
+     "fim_corpo": 3427,
+     "trecho": "I t is past time for Congress to move forward a plan to meet this challenge. BlueGreen Alliance research has found that investing an estimated $2.2 trillion in a variety of infrastructure sectors to improve them from a “D+” grade overall to a “B” grade has the potential to support or create an additional 14.5 million job-years across the U.S. economy, add a cumulative $1.66 trillion to Gross Domestic Product (GDP) over 10 years, and reduce greenhouse gas and toxic chemical pollution—versus a business-as-usual approach. iii L ast week, we released a set of fourteen infrastructure policy priorities in key sectors, including energy transmission, distribution and storage, transportation, water, schools and other buildings, broadband, natural infrastructure and climate resilience, and manufacturing."
+    },
+    {
+     "inicio_corpo": 7714,
+     "fim_corpo": 8490,
+     "trecho": "3) Increase Community Resilience Third, this package must make our infrastructure and communities more resilient. This means driving forward-looking planning and investments that build for the future, not the past, and that make our infrastructure systems and communities more resilient to the impacts of climate change, like extreme weather events and rising sea level. It means prioritizing investments in natural infrastructure solutions, like restoring the nation’s forests, wetlands, floodplains, grasslands, and coastlines—all of which make communities safer and serve as carbon sinks. It also includes building efficient, safe, and connected schools, hospitals, and public buildings that provide critical community services daily and in extreme weather."
+    },
+    {
+     "inicio_corpo": 9431,
+     "fim_corpo": 10258,
+     "trecho": "It means enhancing and enforcing hiring and procurement policies that spur local job creation and benefit low-income communities, people of color, and women. It means prioritizing investments in communities impacted by historic inequities, disinvestment, and deindustrialization. Policies like these can help ensure our infrastructure investments provide economic opportunities for communities and local workers across the United States. 5) Ensure Robust, Public Investment Finally, any infrastructure package must begin with a robust, public investment and tackle the broad array of our infrastructure needs—from repairing our failing roads and bridges, water systems, and natural gas distribution pipelines, to modernizing our schools, buildings and electric grid, and transforming our transportation systems."
+    },
+    {
+     "inicio_corpo": 11910,
+     "fim_corpo": 12429,
+     "trecho": "-- The LIFT America Act embodies these five principles and takes a significant step towards addressing our country’s infrastructure challenge. We are particularly pleased to see efforts included in the bill to create or expand programs and increase funding for drinking water infrastructure, electric grid resiliency and modernization, building energy efficiency—including schools— reducing methane emissions from natural gas distribution pipelines, expanding broadband access, and brownfield redevelopment."
+    },
+    {
+     "inicio_corpo": 17518,
+     "fim_corpo": 19245,
+     "trecho": "Sector: Energy Transmission, Distribution, and Storage Priority 1: Finance, Plan for, and Build High-Voltage Transmission Lines Priority 2: Increase Funding for Energy Storage and Grid Resiliency Research, Development, and Deployment Priority 3: Reduce Methane Leaks from Natural Gas Distribution Pipelines Sector: Transportation Priority 4: Modernize Transit and Enhance Public and Jobs Benefits Priority 5: Deploy Innovative and Electric Transportation Infrastructure Sector: Manufacturing Priority 6: Support Clean T echnology Manufacturing Leadership, Industrial Energy Efficiency, and Advanced Manufacturing Sector: Water Priority 7: Increase, Improve, and Expand Funding for Water Infrastructure Priority 8: Support Green Stormwater Infrastructure Sector: Buildings Priority 9: Improve the Energy Efficiency of Schools and Health and Safety for T eachers and Students POLICY PRIORITIES | Investing in America’s Infrastructure to Create High-Quality Jobs and Protect the Environment 2 Priority 10: Invest in the Energy Efficiency of MUSH (Municipal, University, School, Hospitals) Buildings Sector: Broadband Priority 11: Deploy High-Speed Broadband Internet to Close the Digital Divide, Reduce Emissions, and Spur Economic Development Sector: Natural Infrastructure, Reclamation, and Climate Resilience Priority 12: Restore Our Public Lands Priority 13: Reclaim Abandoned Mine Lands and Clean Up Hazardous Waste and Brownfield Sites Priority 14: Plan, Manage, and Build for Climate Resilience Overarching Recommendations: Ensure High-Road Standards Apply to All Infrastructure Legislation T o ensure we maximize the benefits of our infrastructure investments for communities, the environment, and workers, any"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0029::Escolaridade e letramento",
+   "unit_id": "W0029",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jessica Eckdish",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "Students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "Students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "student",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 17518,
+     "fim_corpo": 19294,
+     "trecho": "Sector: Energy Transmission, Distribution, and Storage Priority 1: Finance, Plan for, and Build High-Voltage Transmission Lines Priority 2: Increase Funding for Energy Storage and Grid Resiliency Research, Development, and Deployment Priority 3: Reduce Methane Leaks from Natural Gas Distribution Pipelines Sector: Transportation Priority 4: Modernize Transit and Enhance Public and Jobs Benefits Priority 5: Deploy Innovative and Electric Transportation Infrastructure Sector: Manufacturing Priority 6: Support Clean T echnology Manufacturing Leadership, Industrial Energy Efficiency, and Advanced Manufacturing Sector: Water Priority 7: Increase, Improve, and Expand Funding for Water Infrastructure Priority 8: Support Green Stormwater Infrastructure Sector: Buildings Priority 9: Improve the Energy Efficiency of Schools and Health and Safety for T eachers and Students POLICY PRIORITIES | Investing in America’s Infrastructure to Create High-Quality Jobs and Protect the Environment 2 Priority 10: Invest in the Energy Efficiency of MUSH (Municipal, University, School, Hospitals) Buildings Sector: Broadband Priority 11: Deploy High-Speed Broadband Internet to Close the Digital Divide, Reduce Emissions, and Spur Economic Development Sector: Natural Infrastructure, Reclamation, and Climate Resilience Priority 12: Restore Our Public Lands Priority 13: Reclaim Abandoned Mine Lands and Clean Up Hazardous Waste and Brownfield Sites Priority 14: Plan, Manage, and Build for Climate Resilience Overarching Recommendations: Ensure High-Road Standards Apply to All Infrastructure Legislation T o ensure we maximize the benefits of our infrastructure investments for communities, the environment, and workers, any infrastructure package must: Create family-sustai"
+    },
+    {
+     "inicio_corpo": 43289,
+     "fim_corpo": 44440,
+     "trecho": "3. Support grants for water quality protection projects for centralized and decentralized wastewater treatment (including replacement of combined sewer/stormwater systems), nonpoint source pollution control, and watershed and estuary management. Relevant Legislation S. 1137 – Clean Safe Reliable Water Infrastructure Act (Cardin) (115th) H.R. 3906/S. 1695 – Innovative Stormwater Infrastructure Act (Heck/Udall) (115th) POLICY PRIORITIES | Investing in America’s Infrastructure to Create High-Quality Jobs and Protect the Environment 10 H.R. 3275 – Water and Energy Sustainability through Technology Act (McNerney) (115th) H.R. 6944 – Clean Water through Green Infrastructure Act (Heck) (115th) H.R. 5596 – Water Infrastructure Resiliency and Sustainability Act (Carbajal) (115th) Priority 9: Improve the Energy Efficiency of Schools and Health and Safety for T eachers and Students Need: More than half of America’s school buildings were built before 1970, which means repairs, renovations, and modernizations are needed to ensure these buildings save energy, reduce emissions, and provide a healthy environment for students and teachers today."
+    },
+    {
+     "inicio_corpo": 43537,
+     "fim_corpo": 44440,
+     "trecho": "Relevant Legislation S. 1137 – Clean Safe Reliable Water Infrastructure Act (Cardin) (115th) H.R. 3906/S. 1695 – Innovative Stormwater Infrastructure Act (Heck/Udall) (115th) POLICY PRIORITIES | Investing in America’s Infrastructure to Create High-Quality Jobs and Protect the Environment 10 H.R. 3275 – Water and Energy Sustainability through Technology Act (McNerney) (115th) H.R. 6944 – Clean Water through Green Infrastructure Act (Heck) (115th) H.R. 5596 – Water Infrastructure Resiliency and Sustainability Act (Carbajal) (115th) Priority 9: Improve the Energy Efficiency of Schools and Health and Safety for T eachers and Students Need: More than half of America’s school buildings were built before 1970, which means repairs, renovations, and modernizations are needed to ensure these buildings save energy, reduce emissions, and provide a healthy environment for students and teachers today."
+    },
+    {
+     "inicio_corpo": 43920,
+     "fim_corpo": 44895,
+     "trecho": "6944 – Clean Water through Green Infrastructure Act (Heck) (115th) H.R. 5596 – Water Infrastructure Resiliency and Sustainability Act (Carbajal) (115th) Priority 9: Improve the Energy Efficiency of Schools and Health and Safety for T eachers and Students Need: More than half of America’s school buildings were built before 1970, which means repairs, renovations, and modernizations are needed to ensure these buildings save energy, reduce emissions, and provide a healthy environment for students and teachers today. Many of these schools also have child care facilities. There are not just issues with the permanent buildings—outdoor facilities like parking or playgrounds also require repairs and are too often sited on or next to environmental hazards. Many of these facilities have maintenance issues—such as mold and asbestos or lead in drinking water and paint—that seriously affect student performance and may have lasting negative health impacts to occupants."
+    },
+    {
+     "inicio_corpo": 44440,
+     "fim_corpo": 45246,
+     "trecho": "Many of these schools also have child care facilities. There are not just issues with the permanent buildings—outdoor facilities like parking or playgrounds also require repairs and are too often sited on or next to environmental hazards. Many of these facilities have maintenance issues—such as mold and asbestos or lead in drinking water and paint—that seriously affect student performance and may have lasting negative health impacts to occupants. Legislative Requests: 1. Direct funds to address critical school infrastructure: • Pass the Rebuild America’s Schools Act, which dedicates federal funding to school infrastructure to improve the safety and health of our students, enhance our communities, and reduce greenhouse gases, while creating quality, family-sustaining jobs at the same time."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0029::Gênero",
+   "unit_id": "W0029",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jessica Eckdish",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9070,
+     "fim_corpo": 9591,
+     "trecho": "4) Maximize Benefits to Workers and Communities Fourth, an infrastructure package must maximize benefits to workers and communities—especially those most in need. This can be done by enhancing workforce training and registered apprenticeship programs to expand the number of skilled workers in new and existing industries and in the public sector. It means enhancing and enforcing hiring and procurement policies that spur local job creation and benefit low-income communities, people of color, and women."
+    },
+    {
+     "inicio_corpo": 20184,
+     "fim_corpo": 21030,
+     "trecho": "Reduce pollution and make our communities more resilient: • Drive forward-looking planning and investments that meet environmental standards and build resilient infrastructure systems and communities; and • Ensure that we Buy Clean and prioritize use of the most efficient, resilient, and cleanest materials and products with the lowest carbon and toxicity footprints. Maximize benefits to our workers and communities, especially those most in need: • Enhance and enforce workforce training and development programs to expand the number of skilled workers in new and existing industries; • Enhance and enforce hiring and procurement policies that benefit low-income communities, people of color, and women; and • Increase economic opportunities for communities and local workers, especially for people of color and low- income communities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0029::Infraestrutura e porte populacional",
+   "unit_id": "W0029",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jessica Eckdish",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "under-served",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 26264,
+     "fim_corpo": 27232,
+     "trecho": "Legislative Request 1. Increase funding to DOE for storage and grid resiliency research: • Increase funding for the Energy Storage program and Smart Grid Research and Development program in the DOE’s Office of Electricity Delivery, building on its successful track record partnering with the private sector and increasing emphasis on collaboration with utilities. 2. Pursue more energy storage and smart grid demonstration projects: • The federal government should pursue more demonstration projects in the field, utilizing states and communities as laboratories of innovation. 3. Accelerate storage deployment: • Build on the success of the Energy Storage T echnology Advancement Partnership by providing funding of $50 million annually over 10 years for competitive grants to communities for the installation of energy storage technologies—prioritizing disadvantaged or underserved communities and at critical facilities—such as hospitals and fire stations."
+    },
+    {
+     "inicio_corpo": 34628,
+     "fim_corpo": 35590,
+     "trecho": "Facilitating the deployment of cutting-edge charging infrastructure is critical to advanced vehicle deployment while also creating jobs in construction and accelerating our move to a smart grid–the kind of investment we need to put people to work, revitalize our economy, and ensure America is competitive in the 21st century economy. The transportation sector is currently the largest emitter of CO2 in the U.S., largely due to vehicle combustion engines. Legislative Requests: 1. Facilitate expansion of electric vehicle charging infrastructure: POLICY PRIORITIES | Investing in America’s Infrastructure to Create High-Quality Jobs and Protect the Environment 7 • Authorize and fund the DOE’s Vehicles T echnologies Office to provide competitive grants to states or utilities to ramp up financing for electric vehicle charging infrastructure, especially in typically under-served markets such as low-income communities and government-supported housing."
+    },
+    {
+     "inicio_corpo": 48406,
+     "fim_corpo": 49357,
+     "trecho": "Our systems cannot keep pace with technology and combat their current state of deterioration without a reliable internet connection. The Federal Communications Commission (FCC) states that over 21 million Americans lack fixed broadband at 25/3 Mbps), 19 million of which are in rural areas. Smart cities and communities will create a large spectrum of benefits for citizens, and support the well-being of a city’s infrastructure. A fully formed 5G network will also provide the reliable, far-reaching high-speed network connections needed to transform and strengthen our vast system of infrastructure, which can reduce emissions and spur economic development. Legislative Requests: 1. Provide $40 billion over five years to deploy secure and resilient broadband: • Three-quarters of this funding will be used to deploy broadband in unserved areas; the remaining funds will be given to states to distribute through state-wide reverse auctions."
+    },
+    {
+     "inicio_corpo": 48540,
+     "fim_corpo": 49601,
+     "trecho": "The Federal Communications Commission (FCC) states that over 21 million Americans lack fixed broadband at 25/3 Mbps), 19 million of which are in rural areas. Smart cities and communities will create a large spectrum of benefits for citizens, and support the well-being of a city’s infrastructure. A fully formed 5G network will also provide the reliable, far-reaching high-speed network connections needed to transform and strengthen our vast system of infrastructure, which can reduce emissions and spur economic development. Legislative Requests: 1. Provide $40 billion over five years to deploy secure and resilient broadband: • Three-quarters of this funding will be used to deploy broadband in unserved areas; the remaining funds will be given to states to distribute through state-wide reverse auctions. • If there are no unserved areas in a state, the state may use the funding to deploy broadband in underserved areas, to deploy broadband or connective technology, to schools and libraries, or to fund the deployment of Next Generation 9-1-1."
+    },
+    {
+     "inicio_corpo": 48699,
+     "fim_corpo": 49601,
+     "trecho": "Smart cities and communities will create a large spectrum of benefits for citizens, and support the well-being of a city’s infrastructure. A fully formed 5G network will also provide the reliable, far-reaching high-speed network connections needed to transform and strengthen our vast system of infrastructure, which can reduce emissions and spur economic development. Legislative Requests: 1. Provide $40 billion over five years to deploy secure and resilient broadband: • Three-quarters of this funding will be used to deploy broadband in unserved areas; the remaining funds will be given to states to distribute through state-wide reverse auctions. • If there are no unserved areas in a state, the state may use the funding to deploy broadband in underserved areas, to deploy broadband or connective technology, to schools and libraries, or to fund the deployment of Next Generation 9-1-1."
+    },
+    {
+     "inicio_corpo": 50598,
+     "fim_corpo": 51439,
+     "trecho": "America’s public lands also act as critical environmental regulators. Despite the role that public lands play in our nation’s economic and environmental well-being, governing agencies at all levels are challenged to support these resources. Across the country, cities and localities have increasingly been faced with declining state and federal funding for parks. For over 50 years the Land and Water Conservation Fund (LWCF) has generated funding to protect some of these public lands. Legislative Requests: 1. Address public lands maintenance backlog: • Establish a public lands maintenance fund to reduce the maintenance backlog by allocating from existing revenues. • Create a guaranteed source of funding for projects that expand outdoor recreational opportunities in cities across the country, particularly in underserved areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0029::Macrorregião",
+   "unit_id": "W0029",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jessica Eckdish",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Puerto Rico",
+     "forma_encontrada": "Puerto Rico",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1166,
+     "fim_corpo": 1965,
+     "trecho": "If done right, a federal infrastructure package will boost our economy and create millions of jobs, while simultaneously reducing pollution, combating climate change, and strengthening our communities. A merican infrastructure systems today are in dire need of repair and modernization. The American Society of Civil Engineers (ASCE)’s latest 2017 Report Card for America’s Infrastructure gave the nation’s infrastructure a grade of “D+.”i This is not just a grade on paper, it means real threats to our communities, from failing bridges and contaminated drinking water to inefficient and unhealthy schools, power outages, and dangerous and leaky gas pipes under our cities. T hese problems are only getting worse. The 2017 historic hurricane season laid waste to Puerto Rico, the U.S."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0029::Posição no trabalho",
+   "unit_id": "W0029",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jessica Eckdish",
+   "n_ocorrencias_no_par": 23,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 17,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "worker",
+     "forma_encontrada": "worker",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "Workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3427,
+     "fim_corpo": 4277,
+     "trecho": "iv Our full list of priorities is included as an attachment with this testimony. Making these smart investments has the potential to deliver millions of good jobs. They will also pay dividends for our environment and communities by reducing air and water pollution—including the emissions driving climate change—reducing the use of materials and chemicals that are hazardous to human health, and making our communities more resilient to the impacts of climate change. However, we will accrue these benefits only if we tackle this challenge the right way. To ensure we maximize the benefits of our infrastructure investments for communities, the environment, and workers, any federal infrastructure package must deliver in five key ways: 1) Create Good-Paying Jobs First, any infrastructure package must create good-paying jobs."
+    },
+    {
+     "inicio_corpo": 3596,
+     "fim_corpo": 4510,
+     "trecho": "They will also pay dividends for our environment and communities by reducing air and water pollution—including the emissions driving climate change—reducing the use of materials and chemicals that are hazardous to human health, and making our communities more resilient to the impacts of climate change. However, we will accrue these benefits only if we tackle this challenge the right way. To ensure we maximize the benefits of our infrastructure investments for communities, the environment, and workers, any federal infrastructure package must deliver in five key ways: 1) Create Good-Paying Jobs First, any infrastructure package must create good-paying jobs. The people who build and rebuild our infrastructure projects should be well-trained, make a decent living, and work in a safe environment. This means enforcing Davis- Bacon provisions that ensure workers are paid prevailing wages."
+    },
+    {
+     "inicio_corpo": 4859,
+     "fim_corpo": 5770,
+     "trecho": "Investing in infrastructure not only creates jobs at projects themselves, but can lead a revival in the U.S. manufacturing sector, with the expansion of good job opportunities at all levels of the domestic supply chain, and increased cost savings and competitiveness among manufacturers that reduce their energy waste through energy efficiency. Effective procurement policies— both long standing measures, and new, innovative approaches—can help infrastructure projects achieve these objectives. First and foremost, any infrastructure package must ensure all projects built with public resources are subject to Buy America and Buy American standards that maximize the return to taxpayers and bolster American manufacturing. It must also include respect for collective bargaining agreements and workers’ organizing rights such as neutrality, majority sign-up, and first contract arbitration."
+    },
+    {
+     "inicio_corpo": 5212,
+     "fim_corpo": 6041,
+     "trecho": "Effective procurement policies— both long standing measures, and new, innovative approaches—can help infrastructure projects achieve these objectives. First and foremost, any infrastructure package must ensure all projects built with public resources are subject to Buy America and Buy American standards that maximize the return to taxpayers and bolster American manufacturing. It must also include respect for collective bargaining agreements and workers’ organizing rights such as neutrality, majority sign-up, and first contract arbitration. Lastly, it means maintaining and growing jobs in the public sector necessary to effectively maintain and operate assets, ensure project quality, protect worker and environmental safety and health, and deliver continued cost-effective operation in the public interest."
+    },
+    {
+     "inicio_corpo": 7107,
+     "fim_corpo": 7714,
+     "trecho": "Ensuring that we “Buy Clean” and prioritize use of the most efficient, resilient, and cleanest materials and products with the lowest carbon and toxicity footprints can also significantly reduce emissions while rewarding manufacturing companies that invest in reducing their carbon footprints. Any infrastructure package should also follow processes that ensure effective environmental review and public participation in infrastructure decisions while also prioritizing the resources needed to ensure these projects move forward quickly and deliver benefits to communities and workers quickly."
+    },
+    {
+     "inicio_corpo": 7835,
+     "fim_corpo": 9070,
+     "trecho": "This means driving forward-looking planning and investments that build for the future, not the past, and that make our infrastructure systems and communities more resilient to the impacts of climate change, like extreme weather events and rising sea level. It means prioritizing investments in natural infrastructure solutions, like restoring the nation’s forests, wetlands, floodplains, grasslands, and coastlines—all of which make communities safer and serve as carbon sinks. It also includes building efficient, safe, and connected schools, hospitals, and public buildings that provide critical community services daily and in extreme weather. Building infrastructure with future conditions in mind is also smarter and more cost-effective than rebuilding systems that have proven to be vulnerable. Strategic investments in climate-resilient infrastructure—and a workforce that is well trained to ensure the work is done right to maximize the efficiency benefits and build in climate resilience, as well as trained to aid in emergency response—can make sure that our communities are prepared for these impacts and come out stronger, more sustainable, and more resilient to meet the challenges of the next century."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0029::Renda e classe",
+   "unit_id": "W0029",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jessica Eckdish",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low income",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "Low-Income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8649,
+     "fim_corpo": 9591,
+     "trecho": "Strategic investments in climate-resilient infrastructure—and a workforce that is well trained to ensure the work is done right to maximize the efficiency benefits and build in climate resilience, as well as trained to aid in emergency response—can make sure that our communities are prepared for these impacts and come out stronger, more sustainable, and more resilient to meet the challenges of the next century. 4) Maximize Benefits to Workers and Communities Fourth, an infrastructure package must maximize benefits to workers and communities—especially those most in need. This can be done by enhancing workforce training and registered apprenticeship programs to expand the number of skilled workers in new and existing industries and in the public sector. It means enhancing and enforcing hiring and procurement policies that spur local job creation and benefit low-income communities, people of color, and women."
+    },
+    {
+     "inicio_corpo": 20184,
+     "fim_corpo": 21030,
+     "trecho": "Reduce pollution and make our communities more resilient: • Drive forward-looking planning and investments that meet environmental standards and build resilient infrastructure systems and communities; and • Ensure that we Buy Clean and prioritize use of the most efficient, resilient, and cleanest materials and products with the lowest carbon and toxicity footprints. Maximize benefits to our workers and communities, especially those most in need: • Enhance and enforce workforce training and development programs to expand the number of skilled workers in new and existing industries; • Enhance and enforce hiring and procurement policies that benefit low-income communities, people of color, and women; and • Increase economic opportunities for communities and local workers, especially for people of color and low- income communities."
+    },
+    {
+     "inicio_corpo": 28286,
+     "fim_corpo": 29159,
+     "trecho": "Additionally, these investments will curtail the release of methane into the atmosphere, reducing contributions to climate change. Methane is more than 87 times as potent as carbon dioxide at trapping planetary heat in the near-term. Legislative Requests: 1. Accelerate the repair and replacement of distribution pipelines: • Create a state revolving loan fund for natural gas distribution pipeline repair and replacement to provide additional tools to states and utilities to address old, leaking distribution pipelines. • As recommended in the DOE’s Quadrennial Energy Review, establish a program that provides financial assistance to states to incentivize reducing emissions in the gas distribution system. This can be achieved through targeted funding to offset costs to low income households and funding for enhanced directed inspection and maintenance programs."
+    },
+    {
+     "inicio_corpo": 34966,
+     "fim_corpo": 35590,
+     "trecho": "The transportation sector is currently the largest emitter of CO2 in the U.S., largely due to vehicle combustion engines. Legislative Requests: 1. Facilitate expansion of electric vehicle charging infrastructure: POLICY PRIORITIES | Investing in America’s Infrastructure to Create High-Quality Jobs and Protect the Environment 7 • Authorize and fund the DOE’s Vehicles T echnologies Office to provide competitive grants to states or utilities to ramp up financing for electric vehicle charging infrastructure, especially in typically under-served markets such as low-income communities and government-supported housing."
+    },
+    {
+     "inicio_corpo": 38700,
+     "fim_corpo": 39398,
+     "trecho": "2. Expand and adapt clean technology manufacturing loan and grant programs such as DOE’s Advanced T echnology Vehicles Manufacturing Loan Program and the Sec. 132 Domestic Manufacturing Conversion Grants program. 3. Renew the advanced energy manufacturing tax credit (48C) to once again support manufacturers as they expand into the clean economy. 4. Establish a revolving loan fund to provide loans to manufacturers for producing clean energy, transportation, and infrastructure technology and energy efficient products and for reducing greenhouse gas emissions from manufacturing facilities—with criteria for domestic, high-quality job creation, particularly in low-income communities."
+    },
+    {
+     "inicio_corpo": 38863,
+     "fim_corpo": 39717,
+     "trecho": "132 Domestic Manufacturing Conversion Grants program. 3. Renew the advanced energy manufacturing tax credit (48C) to once again support manufacturers as they expand into the clean economy. 4. Establish a revolving loan fund to provide loans to manufacturers for producing clean energy, transportation, and infrastructure technology and energy efficient products and for reducing greenhouse gas emissions from manufacturing facilities—with criteria for domestic, high-quality job creation, particularly in low-income communities. 5. Enact “Buy Clean” procurement standards requiring the federal government to buy goods in key industrial sectors from clean manufacturing firms that meet limits for local and climate pollution, and to prioritize manufacturing firms that uphold strong labor standards and create good jobs in low-income communities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0029::Saúde",
+   "unit_id": "W0029",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jessica Eckdish",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "Hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "Hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "Hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7714,
+     "fim_corpo": 8490,
+     "trecho": "3) Increase Community Resilience Third, this package must make our infrastructure and communities more resilient. This means driving forward-looking planning and investments that build for the future, not the past, and that make our infrastructure systems and communities more resilient to the impacts of climate change, like extreme weather events and rising sea level. It means prioritizing investments in natural infrastructure solutions, like restoring the nation’s forests, wetlands, floodplains, grasslands, and coastlines—all of which make communities safer and serve as carbon sinks. It also includes building efficient, safe, and connected schools, hospitals, and public buildings that provide critical community services daily and in extreme weather."
+    },
+    {
+     "inicio_corpo": 17697,
+     "fim_corpo": 19506,
+     "trecho": "d Grid Resiliency Research, Development, and Deployment Priority 3: Reduce Methane Leaks from Natural Gas Distribution Pipelines Sector: Transportation Priority 4: Modernize Transit and Enhance Public and Jobs Benefits Priority 5: Deploy Innovative and Electric Transportation Infrastructure Sector: Manufacturing Priority 6: Support Clean T echnology Manufacturing Leadership, Industrial Energy Efficiency, and Advanced Manufacturing Sector: Water Priority 7: Increase, Improve, and Expand Funding for Water Infrastructure Priority 8: Support Green Stormwater Infrastructure Sector: Buildings Priority 9: Improve the Energy Efficiency of Schools and Health and Safety for T eachers and Students POLICY PRIORITIES | Investing in America’s Infrastructure to Create High-Quality Jobs and Protect the Environment 2 Priority 10: Invest in the Energy Efficiency of MUSH (Municipal, University, School, Hospitals) Buildings Sector: Broadband Priority 11: Deploy High-Speed Broadband Internet to Close the Digital Divide, Reduce Emissions, and Spur Economic Development Sector: Natural Infrastructure, Reclamation, and Climate Resilience Priority 12: Restore Our Public Lands Priority 13: Reclaim Abandoned Mine Lands and Clean Up Hazardous Waste and Brownfield Sites Priority 14: Plan, Manage, and Build for Climate Resilience Overarching Recommendations: Ensure High-Road Standards Apply to All Infrastructure Legislation T o ensure we maximize the benefits of our infrastructure investments for communities, the environment, and workers, any infrastructure package must: Create family-sustaining jobs: • Ensure all projects built with public resources are subject to Buy America standards that maximize the return to taxpayers and the American economy; • Enforce Davis-Bacon provisions that ensure work"
+    },
+    {
+     "inicio_corpo": 26630,
+     "fim_corpo": 27232,
+     "trecho": "2. Pursue more energy storage and smart grid demonstration projects: • The federal government should pursue more demonstration projects in the field, utilizing states and communities as laboratories of innovation. 3. Accelerate storage deployment: • Build on the success of the Energy Storage T echnology Advancement Partnership by providing funding of $50 million annually over 10 years for competitive grants to communities for the installation of energy storage technologies—prioritizing disadvantaged or underserved communities and at critical facilities—such as hospitals and fire stations."
+    },
+    {
+     "inicio_corpo": 44681,
+     "fim_corpo": 45661,
+     "trecho": "Many of these facilities have maintenance issues—such as mold and asbestos or lead in drinking water and paint—that seriously affect student performance and may have lasting negative health impacts to occupants. Legislative Requests: 1. Direct funds to address critical school infrastructure: • Pass the Rebuild America’s Schools Act, which dedicates federal funding to school infrastructure to improve the safety and health of our students, enhance our communities, and reduce greenhouse gases, while creating quality, family-sustaining jobs at the same time. 2. Reduce lead in schools, especially those with child care operations. Relevant Legislation H.R. 865 / S. 266 – Rebuild America’s Schools Act of 2019 (Scott / Reed) (116th) Priority 10: Invest in the Energy Efficiency of MUSH (Municipal, University, School, Hospital) Buildings Need: Building efficiency is a key part of any strategy to reduce pollution and GHG emissions, cut energy bills, and create good jobs."
+    },
+    {
+     "inicio_corpo": 44895,
+     "fim_corpo": 45771,
+     "trecho": "Legislative Requests: 1. Direct funds to address critical school infrastructure: • Pass the Rebuild America’s Schools Act, which dedicates federal funding to school infrastructure to improve the safety and health of our students, enhance our communities, and reduce greenhouse gases, while creating quality, family-sustaining jobs at the same time. 2. Reduce lead in schools, especially those with child care operations. Relevant Legislation H.R. 865 / S. 266 – Rebuild America’s Schools Act of 2019 (Scott / Reed) (116th) Priority 10: Invest in the Energy Efficiency of MUSH (Municipal, University, School, Hospital) Buildings Need: Building efficiency is a key part of any strategy to reduce pollution and GHG emissions, cut energy bills, and create good jobs. A major part of this potential is in upgrading MUSH (Municipal, University, School, and Hospital) buildings."
+    },
+    {
+     "inicio_corpo": 46071,
+     "fim_corpo": 47118,
+     "trecho": "Energy efficiency investments in MUSH buildings could lay the groundwork for a much broader investment in upgrading and retrofitting America’s buildings. Beyond the direct impacts of GHG reductions and financial savings from energy efficiency on buildings in the MUSH sector, there is an opportunity to drive job growth through the use of energy efficient products. Investment in building efficiency will also create thousands of jobs in construction and building operations, providing opportunities for building owners to create good-paying, quality jobs in the community. SECTOR: BUILDINGS POLICY PRIORITIES | Investing in America’s Infrastructure to Create High-Quality Jobs and Protect the Environment 11 Legislative Requests: 1. Reauthorize the Hill-Burton Act: • Reauthorization will provide $2 billion over five years for hospital infrastructure, including targeted assistance to speed recovery from extreme weather events, install energy efficiency retrofits, energy storage, and implement microgrid systems to improve resilience."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0029::Saúde e deficiência",
+   "unit_id": "W0029",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jessica Eckdish",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "deaf",
+     "forma_encontrada": "de a f",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 54305,
+     "fim_corpo": 54933,
+     "trecho": "2. Update flood maps: • Ensure that flood maps are updated, with community consultation, to include property level data and future projections of flood risk attributable to extreme weather events and sea-level rise. • FEMA should create Advisory Flood Maps for coastal communities impacted by the recent hurricanes that account for future conditions that exacerbate flood risk. • For impacted coastal communities with flood maps that are at least five years out of date, FEMA should issue Advisory Flood Maps that include a future conditions information layer and provide an updated assessment with community consultation."
+    }
+   ]
+  }
+ ]
+}

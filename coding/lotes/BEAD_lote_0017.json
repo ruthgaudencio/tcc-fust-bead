@@ -1,0 +1,1260 @@
+{
+ "caso": "BEAD",
+ "lote": 17,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0066::Infraestrutura e porte populacional",
+   "unit_id": "W0066",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Shirley Bloomfield",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2125,
+     "fim_corpo": 2925,
+     "trecho": "Fixed and mobile broadband, video, and voice are among the many services that rural Americans can access thanks to our industry’s commitment to serving sparsely populated areas. The rural telecom industry has always been innovative – leading the way in converting to digital switched systems, deploying creative technological solutions to their hardest to reach customers, enabling distance learning and tele-health applications, and ultimately deploying future-proof fiber-based systems. But there is more to do. The job is far from done. Even as we have successes to celebrate and roadmaps to look to for proven track records of success, we as a nation have much more to do both to reach unserved areas and to sustain robust and affordable rural broadband where it is available today."
+    },
+    {
+     "inicio_corpo": 4472,
+     "fim_corpo": 5267,
+     "trecho": "In fact, we find it is not unusual for “conditions on the ground” to look very different from those depicted on national maps. It has been well recognized for some time that the current FCC maps miss the mark because they show an entire census block as served when even just one location in that block is served – meaning that a census block becomes ineligible for support funding. In other words, perhaps the most significant problem to date has been granularity. This problem, unfortunately, has been persistent and frustrating for all involved. It creates “false positives” in the form of claimed coverage where none exists, especially in rural areas where large census blocks can mean a single customer served can result in unserved customers miles away looking “served” on maps."
+    },
+    {
+     "inicio_corpo": 14942,
+     "fim_corpo": 15744,
+     "trecho": "Second, timing considerations warrant the use of a challenge process before the maps are used to decide where funding should or should not go. For example, as of September 2019, the most current data publicly available for broadband coverage is from reports reflecting services as of December 2017. Thus, the current maps do not reflect buildouts completed since that time or right now in progress, including those that may be occurring pursuant to governmental initiatives like the FCC’s own Universal Service Fund or United States Department of Agriculture Rural Utilities Service lending/grant programs. This means that, without some check, there is a risk of “false negatives” appearing in the maps, with areas that look unserved actually having become served in the intervening period."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0066::Saúde",
+   "unit_id": "W0066",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Shirley Bloomfield",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "tele-health",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1646,
+     "fim_corpo": 2620,
+     "trecho": "The distances to cover and the low population densities present unique challenges, and underscore the critical importance of these small telecom providers that connect rural Americans with the world. Even in the face of such challenges, however, these small, hometown businesses make every effort to deploy advanced networks that respond to consumer and business demands for cutting- edge services that position rural communities for success in a rapidly-changing world. Fixed and mobile broadband, video, and voice are among the many services that rural Americans can access thanks to our industry’s commitment to serving sparsely populated areas. The rural telecom industry has always been innovative – leading the way in converting to digital switched systems, deploying creative technological solutions to their hardest to reach customers, enabling distance learning and tele-health applications, and ultimately deploying future-proof fiber-based systems."
+    },
+    {
+     "inicio_corpo": 16649,
+     "fim_corpo": 17476,
+     "trecho": "To be clear, a balance must be struck between reports that are burdensome and unwieldy and those that contain sufficient information to make a meaningful determination about broadband availability. NTCA submits that, in addition to speed, the FCC should require providers to report specifically on the latency and usage limits applicable to their broadband services, subject to the same kinds of technical standard specification that would apply to reporting on speed so that Testimony of Shirley Bloomfield September 11, 2019 Page 6 these accurately capture the user experience in the area where coverage is claimed. Policymakers rightly tend to cite distance learning, overcoming the “homework gap,” and enabling connected care and telehealth as public policy reasons why broadband access is so important."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0066::Urbano e rural",
+   "unit_id": "W0066",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Shirley Bloomfield",
+   "n_ocorrencias_no_par": 22,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 16,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 671,
+     "trecho": "Statement by Shirley Bloomfield Chief Executive Officer NTCA–The Rural Broadband Association Arlington, VA Before the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology Legislating to Connect America: Improving the Nation’s Broadband Maps September 11, 2019 Testimony of Shirley Bloomfield September 11, 2019 Page 1 INTRODUCTION AND BACKGROUND Chairman Doyle, Ranking Member Latta, and members of the Subcommittee, thank you for the opportunity to testify today to discuss broadband mapping legislation being considered by your subcommittee."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 940,
+     "trecho": "Statement by Shirley Bloomfield Chief Executive Officer NTCA–The Rural Broadband Association Arlington, VA Before the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology Legislating to Connect America: Improving the Nation’s Broadband Maps September 11, 2019 Testimony of Shirley Bloomfield September 11, 2019 Page 1 INTRODUCTION AND BACKGROUND Chairman Doyle, Ranking Member Latta, and members of the Subcommittee, thank you for the opportunity to testify today to discuss broadband mapping legislation being considered by your subcommittee. I am Shirley Bloomfield, Chief Executive Officer of NTCA–The Rural Broadband Association, which represents nearly 850 rural community-based carriers in 46 states that offer advanced communications services throughout the most sparsely-populated areas of the nation."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 940,
+     "trecho": "Statement by Shirley Bloomfield Chief Executive Officer NTCA–The Rural Broadband Association Arlington, VA Before the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology Legislating to Connect America: Improving the Nation’s Broadband Maps September 11, 2019 Testimony of Shirley Bloomfield September 11, 2019 Page 1 INTRODUCTION AND BACKGROUND Chairman Doyle, Ranking Member Latta, and members of the Subcommittee, thank you for the opportunity to testify today to discuss broadband mapping legislation being considered by your subcommittee. I am Shirley Bloomfield, Chief Executive Officer of NTCA–The Rural Broadband Association, which represents nearly 850 rural community-based carriers in 46 states that offer advanced communications services throughout the most sparsely-populated areas of the nation."
+    },
+    {
+     "inicio_corpo": 671,
+     "fim_corpo": 1199,
+     "trecho": "I am Shirley Bloomfield, Chief Executive Officer of NTCA–The Rural Broadband Association, which represents nearly 850 rural community-based carriers in 46 states that offer advanced communications services throughout the most sparsely-populated areas of the nation. Small, hometown-based rural telecom providers like those in NTCA’s membership connect rural Americans with the world – making every effort to deploy advanced networks that respond to consumer and business demands for cutting-edge, innovative services."
+    },
+    {
+     "inicio_corpo": 671,
+     "fim_corpo": 1199,
+     "trecho": "I am Shirley Bloomfield, Chief Executive Officer of NTCA–The Rural Broadband Association, which represents nearly 850 rural community-based carriers in 46 states that offer advanced communications services throughout the most sparsely-populated areas of the nation. Small, hometown-based rural telecom providers like those in NTCA’s membership connect rural Americans with the world – making every effort to deploy advanced networks that respond to consumer and business demands for cutting-edge, innovative services."
+    },
+    {
+     "inicio_corpo": 671,
+     "fim_corpo": 1367,
+     "trecho": "I am Shirley Bloomfield, Chief Executive Officer of NTCA–The Rural Broadband Association, which represents nearly 850 rural community-based carriers in 46 states that offer advanced communications services throughout the most sparsely-populated areas of the nation. Small, hometown-based rural telecom providers like those in NTCA’s membership connect rural Americans with the world – making every effort to deploy advanced networks that respond to consumer and business demands for cutting-edge, innovative services. These cooperatives and small, locally-owned companies serve the most rural parts of the United States, reaching areas that contain less than five percent of the U.S."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0067::Idade",
+   "unit_id": "W0067",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Dean Brenner",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 710,
+     "trecho": "Before the United States House of Representatives Subcommittee on Communications & Technology Hearing on “Legislating to Secure America’s Wireless Future” Testimony of Dean R. Brenner Senior Vice President, Spectrum Strategy & Tech Policy Qualcomm Incorporated September 27, 2019 2 Chairman Doyle, Ranking Member Latta, and Members of the Subcommittee, my name is Dean Brenner, and I’m here today on behalf of Qualcomm, which was founded in a San Diego living room, but is now the world’s leading supplier of chips—an entire modem -RF system—for smartphones and other wireless devices, and the world’s leading inventor and licensor of new wireless technologies."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0067::Urbano e rural",
+   "unit_id": "W0067",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Dean Brenner",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1487,
+     "fim_corpo": 2326,
+     "trecho": "Qualcomm’s chips are in more than 150 5G devices which have been, or soon will be, launched—including phones, hotspots, and fixed wireless devices . Our chips support both sub-7 GHz and millimeter wave bands, and the US was the first country to launch 5G in both sub-7 GHz and millimeter wave. 5G is delivering far better mobile broadband at a much lower cost per bit. Let me explain several 5G game-changers, which will launch soon and accelerate the 5G rollout: • Dynamic Spectrum Sharing (DSS) enables an operator to run 5G in spectrum already in use for 4G. Instead of having to empty a 4G spectrum band before launching 5G—which could take ten years or more—DSS will enable a band to be used simultaneously for both 4G and 5G. • Enhanced millimeter wave will enable 5G fixed wireless to be used for rural broadband."
+    },
+    {
+     "inicio_corpo": 1639,
+     "fim_corpo": 2511,
+     "trecho": "Our chips support both sub-7 GHz and millimeter wave bands, and the US was the first country to launch 5G in both sub-7 GHz and millimeter wave. 5G is delivering far better mobile broadband at a much lower cost per bit. Let me explain several 5G game-changers, which will launch soon and accelerate the 5G rollout: • Dynamic Spectrum Sharing (DSS) enables an operator to run 5G in spectrum already in use for 4G. Instead of having to empty a 4G spectrum band before launching 5G—which could take ten years or more—DSS will enable a band to be used simultaneously for both 4G and 5G. • Enhanced millimeter wave will enable 5G fixed wireless to be used for rural broadband. Qualcomm has developed new antenna modules which enable 5G fixed wireless service one mile away from a rural base station, covering a much larger area than anyone thought possible."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0068::Idade",
+   "unit_id": "W0068",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Harold Feld",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 92,
+     "trecho": "Testimony of Harold Feld Senior Vice President Public Knowledge Before the U.S."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 537,
+     "trecho": "Testimony of Harold Feld Senior Vice President Public Knowledge Before the U.S. House of Representatives Committee on Energy & Commerce Subcommittee on Communications & Technology “Legislating to Secure America’s Wireless Future” Washington, DC September 27, 2019 1 HEARING ON “LEGISLATING TO SECURE AMERICA’S WIRELESS FUTURE” Harold Feld, Senior Vice President Public Knowledge Chairman Doyle, Ranking Member Latta, thank you for inviting me to testify here today."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0068::Infraestrutura e porte populacional",
+   "unit_id": "W0068",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Harold Feld",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11026,
+     "fim_corpo": 11827,
+     "trecho": "Nevertheless, incumbent licensees have strenuously resisted efforts to incorporate use or share into license rules. 4 Technically, the “General Authorized Access” (GAA) is licensed by rule under 47 U.S.C. §307(e). As a practical matter, however, it functions for users in the same way as unlicensed access. 5 Kendra Chamberlain, “CBRS RAN Market Investment to Surpass $1B by 2023: Dell’Oro Report,” Fierce Wireless (March 22, 2019). Available at: https://www.fiercewireless.com/wireless/cbrs-ran-market-investments-to-surpass-1b-by- 2023-dell-oro-report (Last visited on September 24, 2019). 7 The CBRS deployment will prove the technical feasibility of use or share, and its value to both unserved communities and to licensees."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0068::Saúde",
+   "unit_id": "W0068",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Harold Feld",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 23302,
+     "fim_corpo": 24284,
+     "trecho": "Without a review, it is likely that the E-FRONTIER Act will create needless 11 Aaron Pressman, “Forget Rural Internet – This Was the Real Agenda at Trump’s 5G Wireless Event,” Fortune (April 12, 2019). Available at: https://fortune.com/2019/04/12/trump-ajit-pai-5g-wireless-auction-rural-internet/ (Last accessed September 25, 2019). 12 Harper Neidig, “FCC Chair Opposes Nationalizing 5G Network,” The Hill (January 29, 2018). Available at: https://thehill.com/policy/technology/371184-fcc-chair-comes- out-against-nationalizing-5g-network (Last accessed September 25, 2019). 13 confusion. For example, if the Department of Housing and Urban Development funds broadband in federal housing, would such a program violate the E-Frontier Act? Would operation of a network designed to bring service to rural hospitals, or to military housing outside a military base, constitute a “wholesale” or “retail” network?"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0068::Urbano e rural",
+   "unit_id": "W0068",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Harold Feld",
+   "n_ocorrencias_no_par": 10,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 4,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2384,
+     "fim_corpo": 3201,
+     "trecho": "We also believe that reimbursement should not be limited to equipment purchased before August 2018 – especially if new providers are added to the covered list. We take no position on the “Secure 5G and Beyond Act of 2019,” in our testimony. Finally, we oppose the E-FRONTIER Act as unnecessary and a potential source of negative unintended consequences. The Federal Government cannot build a new network without an appropriation from Congress. This provides more than adequate protection in the event that a future administration should ever seek to move beyond consideration of a national network. On the other hand, the federal government has numerous communications assets – such as spectrum and fiber – which may be of great value if made accessible to the public in emergencies or for rural broadband."
+    },
+    {
+     "inicio_corpo": 9623,
+     "fim_corpo": 10660,
+     "trecho": "6 bands on a dynamic basis.4 Although the FCC finalized rules for the band in 2015. The determination of the current FCC to conduct a new rulemaking and make substantive changes to the rules for allocating the Priority Access Licenses (PALs) created considerable, unnecessary delay. Nevertheless, the approval by the FCC last week of 5 spectrum access system (SAS) providers has now opened the door to a projected billion dollars in investment by 2023.5 The early success of CBRS – despite significant initial resistance and a two-year delay imposed by the current FCC – highlights the importance of studying it as a model for future spectrum sharing. In particular, CBRS has empowered users to access spectrum reserved for licensed users until the licensees actually activate their systems – a function called “use or share.” For over a decade, wireless experts and rural advocates have explained that “use or share” technology holds great promise in bringing wireless broadband to rural areas neglected by licensees."
+    },
+    {
+     "inicio_corpo": 9915,
+     "fim_corpo": 10660,
+     "trecho": "Nevertheless, the approval by the FCC last week of 5 spectrum access system (SAS) providers has now opened the door to a projected billion dollars in investment by 2023.5 The early success of CBRS – despite significant initial resistance and a two-year delay imposed by the current FCC – highlights the importance of studying it as a model for future spectrum sharing. In particular, CBRS has empowered users to access spectrum reserved for licensed users until the licensees actually activate their systems – a function called “use or share.” For over a decade, wireless experts and rural advocates have explained that “use or share” technology holds great promise in bringing wireless broadband to rural areas neglected by licensees."
+    },
+    {
+     "inicio_corpo": 11292,
+     "fim_corpo": 12293,
+     "trecho": "§307(e). As a practical matter, however, it functions for users in the same way as unlicensed access. 5 Kendra Chamberlain, “CBRS RAN Market Investment to Surpass $1B by 2023: Dell’Oro Report,” Fierce Wireless (March 22, 2019). Available at: https://www.fiercewireless.com/wireless/cbrs-ran-market-investments-to-surpass-1b-by- 2023-dell-oro-report (Last visited on September 24, 2019). 7 The CBRS deployment will prove the technical feasibility of use or share, and its value to both unserved communities and to licensees. In the event the licensee wishes to deploy in the area, the existing users will default back to the available GAA, so that no existing network will lose access. Crowded urban areas will provide valuable data on the usefulness and feasibility of use or share in areas where licensed deployment can be expected to be swift and intense, while rural areas will demonstrate the value of keeping spectrum in productive use despite the absence of licensee investment."
+    },
+    {
+     "inicio_corpo": 21417,
+     "fim_corpo": 22188,
+     "trecho": "Recent case law suggests that security measures such as this against companies that are at least partially owned or controlled by a foreign power may not constitute a Bill of Attainder but a reasonable security measure. See Kapersky Lab, Inc. v. DHS, 311 F. Supp. 3d 187 (D.D.C. 2018). Because this lies outside the scope of our expertise, Public Knowledge expresses no opinion on the matter. 12 determinations. It makes no sense to prohibit future injured parties from applying for reimbursement for expenses they could not predict would be problematic. Securing our nation’s critical infrastructure is our common responsibility. We should not ask small providers that are dependent on federal grants to provide service to rural America to bear the cost."
+    },
+    {
+     "inicio_corpo": 22615,
+     "fim_corpo": 23563,
+     "trecho": "This proposal has been roundly repudiated by the Trump Administration – most notably at a public event on 5G networks where he shared the podium with FCC Chairman Ajit Pai.11 The FCC’s Democratic Commissioners have likewise dismissed the proposed national network as misguided.12 Nor could any Administration, now or in the future, build such a network without an appropriation from Congress. Like the hypothetical network the statute would prohibit, the E-Frontier Act is a solution in search of a problem. Unfortunately, passing legislation is not merely a symbolic act. It has real, unintended consequences. The federal government provides numerous loans and grant programs. Without a review, it is likely that the E-FRONTIER Act will create needless 11 Aaron Pressman, “Forget Rural Internet – This Was the Real Agenda at Trump’s 5G Wireless Event,” Fortune (April 12, 2019)."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0069::Domicílio e arranjo familiar",
+   "unit_id": "W0069",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. John Nettles",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 781,
+     "trecho": "Legislating to Secure America’s Wireless Future Testimony of John Nettles President Pine Belt Communications, Inc. Before the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology September 27, 2019 1 Chairman Doyle, Ranking Member Latta, and Members of the Subcommittee, thank you for the opportunity to testify about how to secure communications networks while ensuring that wireless services are not cut off in rural America, a result that would be a step backwards on our nation’s goal to close the digital divide. I am John Nettles, the President and CEO of Pine Belt Communications. We are a family owned and operated company with deep roots in rural Alabama."
+    },
+    {
+     "inicio_corpo": 628,
+     "fim_corpo": 1441,
+     "trecho": "I am John Nettles, the President and CEO of Pine Belt Communications. We are a family owned and operated company with deep roots in rural Alabama. My father established the landline arm of the company in late 1950’s shortly after returning to his birthplace of Arlington to establish his medical practice. With no viable telephone system serving the area at that time, he realized that the place was behind times and could greatly benefit from modern telecom services. After a couple of years of trial and error, he launched commercial operations in 1958 filing the organizing documents on October 28th, just 22 days after I was born. Over the course of the following 60 years, we have worked hard to maintain our localized management and operating structure by keeping the company in the family."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0069::Urbano e rural",
+   "unit_id": "W0069",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. John Nettles",
+   "n_ocorrencias_no_par": 14,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 8,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 628,
+     "trecho": "Legislating to Secure America’s Wireless Future Testimony of John Nettles President Pine Belt Communications, Inc. Before the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology September 27, 2019 1 Chairman Doyle, Ranking Member Latta, and Members of the Subcommittee, thank you for the opportunity to testify about how to secure communications networks while ensuring that wireless services are not cut off in rural America, a result that would be a step backwards on our nation’s goal to close the digital divide."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 781,
+     "trecho": "Legislating to Secure America’s Wireless Future Testimony of John Nettles President Pine Belt Communications, Inc. Before the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology September 27, 2019 1 Chairman Doyle, Ranking Member Latta, and Members of the Subcommittee, thank you for the opportunity to testify about how to secure communications networks while ensuring that wireless services are not cut off in rural America, a result that would be a step backwards on our nation’s goal to close the digital divide. I am John Nettles, the President and CEO of Pine Belt Communications. We are a family owned and operated company with deep roots in rural Alabama."
+    },
+    {
+     "inicio_corpo": 2237,
+     "fim_corpo": 3267,
+     "trecho": "The area is completely void of any Federal Interstate road mileage and has only a relatively small amount of four lane US Highways. The population density of our current service area is approximately one-fourth that of both Alabama and the 2 United States of America. Yet, modern, state-of-the-art coverage is without doubt just as important to the area we serve as it is those areas with above average population densities. This is evidenced by the reality that not only do our retail customers depend on our wireless services, but also by the fact that, on any given day, we will provide connectivity, including access to 9-1-1 emergency services, to as many 30,000 unique visitors, most of which are just passing through. We have been able to remain relevant to the local telecom landscape, despite our rural footprint, by leveraging assets and private capital from debt markets and availing ourselves to the various federal grant, loan, and support programs when the opportunities presented themselves."
+    },
+    {
+     "inicio_corpo": 4112,
+     "fim_corpo": 4989,
+     "trecho": "In that respect, we greatly appreciate this Subcommittee’s work to provide certainty to all carriers regarding what equipment can and cannot be used and, of equal importance, to provide desperately needed resources to allow carriers like Pine Belt to take the steps necessary to secure our networks. It is imperative that all carriers have access to equipment that is secure. And as in Pine Belt’s case, when it is determined that equipment previously purchased with government assistance, for the purpose of meeting established public policy objectives using mandated lowest possible cost methodologies, must be removed and replaced for national security reasons due to certain vulnerabilities unknown at the time 3 of purchase, additional assistance is both in order and necessary, particularly for smaller and rural carriers that lack economies of scale."
+    },
+    {
+     "inicio_corpo": 5123,
+     "fim_corpo": 5945,
+     "trecho": "How We Got Here Pine Belt has significant interest in legislation before the Committee today, as well as proceedings before the Federal Communications Commission (“FCC”) regarding supply chain security along with the Executive Order on Securing the Information and Communications Technology and Services Supply Chain issued by the President earlier this year. This is because our current wireless network was rebuilt in 2014 through 2017 with equipment from ZTE. Prior to our ZTE deployment we were operating a 2G network built with Lucent equipment originally installed in 1999. We relied on this equipment well past its manufacturer supported life keeping it in operation during a time in which there was little emphasis on making cost effective capital available to pure rural market operators such as us."
+    },
+    {
+     "inicio_corpo": 8216,
+     "fim_corpo": 9205,
+     "trecho": "As we approached project completion, we were significantly delayed in our ability to turn on LTE at the site due to uncertainty resulting from several Federal sanctions levied on ZTE for things of which we had no prior knowledge and absolutely zero involvement. Another more significant situation concerns our efforts to turn-up VoLTE service. That aspect of our 4G upgrades has essentially come to a complete stand still. A third and even larger example involves the numerous questions we have as to how we will put to use the 600 MHz spectrum we purchased in the FCC Auction 1002 and the millimeter wave licenses we purchased this year in Auction 101 given the fate of our network vendor. So, one could say, much like many other small carriers providing service in rural areas, absent steps from Congress and other Federal agencies, our network strategies are frozen at a time when they should instead be focused on expansion and upgrades to the next generation services."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0070::Domicílio e arranjo familiar",
+   "unit_id": "W0070",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Bobbie Stempfley",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 867,
+     "fim_corpo": 1771,
+     "trecho": "As a leader in cybersecurity, the CERT Division partners with government, industry, non-governmental organizations, and academia to improve the security and resilience of computer systems and networks. Role of Telecommunication Companies in Security Today and in the Future The telecommunications sector is a global system, made up of companies, suppliers, and users, that make communication possible. The infrastructure created by the telecoms touches all of us and allows the transmission of data, whether it is video through the airwaves or cables, audio through the phone or Internet, or voice through wires or wireless transmission. Because the telecom industry is responsible for the flow of information, it is inextricably linked to how we work, play, and live. Communication plays a central role in the fundamental operations of a society— from business to government to families."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0070::Idade",
+   "unit_id": "W0070",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Bobbie Stempfley",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6548,
+     "fim_corpo": 7399,
+     "trecho": "● Service supply chain: Responsible for providing services to acquirers. In a defense context, these include services that vary as widely as data processing and hosting, logistics services, and support for administrative functions. ● Software supply chain: Responsible for producing the software that runs on vital systems. What Happens Without Supply Chain Security? Our ICT assets are under constant attack, yet thwarting the active attacker is not something most designers, engineers, developers, or project managers normally consider or have been trained to address. Moreover, most fail to acknowledge the dangers of integrating third-party supplies that may already contain malicious software or hardware. Consequently, no matter how secure you think your systems might be, if your suppliers are not secure, your systems are at risk."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0071::Posição no trabalho",
+   "unit_id": "W0071",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Cliff Belden",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 815,
+     "trecho": "1 Clifford J. Belden, MD, MS Chief Medical Officer Columbia Memorial Hospital 71 Prospect Avenue Hudson, NY 12565 October 1, 2019 Testimony to The Committee on Small Business, “Closing the Digital Divide: Connecting Rural Americans to Reliable Internet Service.” My name is Clifford Belden, and I am a physician and the Chief Medical Officer at Columbia Memorial Hospital, located in Hudson, NY. My testimony today will be focused on the impact that broadband internet access, or the lack thereof, has on the delivery of healthcare in rural areas. There are 3 broad areas where the impact of broadband is felt in the delivery of health care – it impacts the patient, the location and types of services available in a facility and has a sometimes -unrecognized effect on our workforce."
+    },
+    {
+     "inicio_corpo": 4291,
+     "fim_corpo": 4967,
+     "trecho": "Two of our outlying facilities rely on broadband using nearby microwave towers. Placement of an orthopedic office, urgent care center or facility that provides x -ray or ultrasound services is nearly impossible in a location that does not have commercial grade broadband access. Ideally, broadband networks are redundant to ensure near 100% uptime for healthcare facilities. In areas with poor broadband penetration , redundancy is lacking. Typically, there is a single fiber backbone even if there is more than one broadband provider, which can lead to more frequent outages. Finally, access to broadband at home is a requirement for many healthcare workers."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0071::Saúde",
+   "unit_id": "W0071",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Cliff Belden",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "Hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "Hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "Hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "Hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "health care facilities",
+     "forma_encontrada": "healthcare facilities",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "Hospital’s",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 416,
+     "trecho": "1 Clifford J. Belden, MD, MS Chief Medical Officer Columbia Memorial Hospital 71 Prospect Avenue Hudson, NY 12565 October 1, 2019 Testimony to The Committee on Small Business, “Closing the Digital Divide: Connecting Rural Americans to Reliable Internet Service.” My name is Clifford Belden, and I am a physician and the Chief Medical Officer at Columbia Memorial Hospital, located in Hudson, NY."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 416,
+     "trecho": "1 Clifford J. Belden, MD, MS Chief Medical Officer Columbia Memorial Hospital 71 Prospect Avenue Hudson, NY 12565 October 1, 2019 Testimony to The Committee on Small Business, “Closing the Digital Divide: Connecting Rural Americans to Reliable Internet Service.” My name is Clifford Belden, and I am a physician and the Chief Medical Officer at Columbia Memorial Hospital, located in Hudson, NY."
+    },
+    {
+     "inicio_corpo": 19,
+     "fim_corpo": 946,
+     "trecho": "Belden, MD, MS Chief Medical Officer Columbia Memorial Hospital 71 Prospect Avenue Hudson, NY 12565 October 1, 2019 Testimony to The Committee on Small Business, “Closing the Digital Divide: Connecting Rural Americans to Reliable Internet Service.” My name is Clifford Belden, and I am a physician and the Chief Medical Officer at Columbia Memorial Hospital, located in Hudson, NY. My testimony today will be focused on the impact that broadband internet access, or the lack thereof, has on the delivery of healthcare in rural areas. There are 3 broad areas where the impact of broadband is felt in the delivery of health care – it impacts the patient, the location and types of services available in a facility and has a sometimes -unrecognized effect on our workforce. First, the patient. The patient is the center of why organizations like Columbia Memorial Hospital exist in rural counties."
+    },
+    {
+     "inicio_corpo": 2182,
+     "fim_corpo": 3029,
+     "trecho": "When broadband has a high penetrance in a community, its citizens learn to use and trust the technology, which leads to acceptance and adoption of these new tools and technologies. In communities with low broadband penetrance, there are fewer potential users of the technology, and those end -users are slower to adopt the techno logy, resulting in a challenge for health care organizations to make large investments in developing patient facing programs centered around telemedicine. 2 Remote monitoring of patients with medical conditions such as congestive heart failure (CHF) and chronic respiratory illnesses ( such as COPD and emphysema) can have a dramatic impact for a patient. For patients with CHF, remote telemonitoring decreased hospital admissions and readmissions, mortality, and improves overall quality of life ."
+    },
+    {
+     "inicio_corpo": 2366,
+     "fim_corpo": 3267,
+     "trecho": "In communities with low broadband penetrance, there are fewer potential users of the technology, and those end -users are slower to adopt the techno logy, resulting in a challenge for health care organizations to make large investments in developing patient facing programs centered around telemedicine. 2 Remote monitoring of patients with medical conditions such as congestive heart failure (CHF) and chronic respiratory illnesses ( such as COPD and emphysema) can have a dramatic impact for a patient. For patients with CHF, remote telemonitoring decreased hospital admissions and readmissions, mortality, and improves overall quality of life . Similarly, treatment costs, readmissions and admissions are lower for patients with COPD when remote monitoring devices are employed. At Columbia Memorial Hospital, we have begun to use remote telemonitoring for some of our patients."
+    },
+    {
+     "inicio_corpo": 3887,
+     "fim_corpo": 4675,
+     "trecho": "Reliable broadband internet access is critical to the provision of medical services in 2019. Our organization has one office remaining that does not have reliable commercial broadband access, and simple tasks such as viewing an x -ray are challenging , a nd two do not have dedicated point-to-point connections, necessitating the use of a virtual private network (VPN) , which is less efficient. Two of our outlying facilities rely on broadband using nearby microwave towers. Placement of an orthopedic office, urgent care center or facility that provides x -ray or ultrasound services is nearly impossible in a location that does not have commercial grade broadband access. Ideally, broadband networks are redundant to ensure near 100% uptime for healthcare facilities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0071::Urbano e rural",
+   "unit_id": "W0071",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Cliff Belden",
+   "n_ocorrencias_no_par": 10,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 4,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 416,
+     "trecho": "1 Clifford J. Belden, MD, MS Chief Medical Officer Columbia Memorial Hospital 71 Prospect Avenue Hudson, NY 12565 October 1, 2019 Testimony to The Committee on Small Business, “Closing the Digital Divide: Connecting Rural Americans to Reliable Internet Service.” My name is Clifford Belden, and I am a physician and the Chief Medical Officer at Columbia Memorial Hospital, located in Hudson, NY."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 571,
+     "trecho": "1 Clifford J. Belden, MD, MS Chief Medical Officer Columbia Memorial Hospital 71 Prospect Avenue Hudson, NY 12565 October 1, 2019 Testimony to The Committee on Small Business, “Closing the Digital Divide: Connecting Rural Americans to Reliable Internet Service.” My name is Clifford Belden, and I am a physician and the Chief Medical Officer at Columbia Memorial Hospital, located in Hudson, NY. My testimony today will be focused on the impact that broadband internet access, or the lack thereof, has on the delivery of healthcare in rural areas."
+    },
+    {
+     "inicio_corpo": 416,
+     "fim_corpo": 946,
+     "trecho": "My testimony today will be focused on the impact that broadband internet access, or the lack thereof, has on the delivery of healthcare in rural areas. There are 3 broad areas where the impact of broadband is felt in the delivery of health care – it impacts the patient, the location and types of services available in a facility and has a sometimes -unrecognized effect on our workforce. First, the patient. The patient is the center of why organizations like Columbia Memorial Hospital exist in rural counties."
+    },
+    {
+     "inicio_corpo": 416,
+     "fim_corpo": 1174,
+     "trecho": "My testimony today will be focused on the impact that broadband internet access, or the lack thereof, has on the delivery of healthcare in rural areas. There are 3 broad areas where the impact of broadband is felt in the delivery of health care – it impacts the patient, the location and types of services available in a facility and has a sometimes -unrecognized effect on our workforce. First, the patient. The patient is the center of why organizations like Columbia Memorial Hospital exist in rural counties. Twenty five percent of the population of the United States lives in rural counties, yet only 10% of physicians live in the same rural counties, creating a significant mismatch between the need and availability of physicians."
+    },
+    {
+     "inicio_corpo": 416,
+     "fim_corpo": 1174,
+     "trecho": "My testimony today will be focused on the impact that broadband internet access, or the lack thereof, has on the delivery of healthcare in rural areas. There are 3 broad areas where the impact of broadband is felt in the delivery of health care – it impacts the patient, the location and types of services available in a facility and has a sometimes -unrecognized effect on our workforce. First, the patient. The patient is the center of why organizations like Columbia Memorial Hospital exist in rural counties. Twenty five percent of the population of the United States lives in rural counties, yet only 10% of physicians live in the same rural counties, creating a significant mismatch between the need and availability of physicians."
+    },
+    {
+     "inicio_corpo": 571,
+     "fim_corpo": 1492,
+     "trecho": "There are 3 broad areas where the impact of broadband is felt in the delivery of health care – it impacts the patient, the location and types of services available in a facility and has a sometimes -unrecognized effect on our workforce. First, the patient. The patient is the center of why organizations like Columbia Memorial Hospital exist in rural counties. Twenty five percent of the population of the United States lives in rural counties, yet only 10% of physicians live in the same rural counties, creating a significant mismatch between the need and availability of physicians. The mismatch is even greater in subspecialties , particularly for those in which there is a nationwide shortage, such as obstetrics, dermatology and child psychiatry. Telemedicine has been championed to improve care and help bring the input and expertise of specialists to rural communities and their patients."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0072::Educação",
+   "unit_id": "W0072",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Brian Dunn",
+   "n_ocorrencias_no_par": 11,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 5,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "SCHOOL",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "Schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "Schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 90,
+     "trecho": "MIDDLEBURGH CENTRAL SCHOOL DISTRICT Office of the Superintendent 291 Main Street – P.O."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 383,
+     "trecho": "MIDDLEBURGH CENTRAL SCHOOL DISTRICT Office of the Superintendent 291 Main Street – P.O. Box 606 Middleburgh, New York 12122 (518) 827-3625 October 2, 2019 As a Superintendent of a rural school district, I am sure it is not surprising that I am going to state that having affordable and reliable broadband access is important and critical in today’s learning environment."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 647,
+     "trecho": "MIDDLEBURGH CENTRAL SCHOOL DISTRICT Office of the Superintendent 291 Main Street – P.O. Box 606 Middleburgh, New York 12122 (518) 827-3625 October 2, 2019 As a Superintendent of a rural school district, I am sure it is not surprising that I am going to state that having affordable and reliable broadband access is important and critical in today’s learning environment. As a Superintendent of a rural school district it is even more important and critical to close the achievement gap, break cycles of poverty and make sure that all students have equitable access to high quality learning opportunities with integrated technology."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 828,
+     "trecho": "MIDDLEBURGH CENTRAL SCHOOL DISTRICT Office of the Superintendent 291 Main Street – P.O. Box 606 Middleburgh, New York 12122 (518) 827-3625 October 2, 2019 As a Superintendent of a rural school district, I am sure it is not surprising that I am going to state that having affordable and reliable broadband access is important and critical in today’s learning environment. As a Superintendent of a rural school district it is even more important and critical to close the achievement gap, break cycles of poverty and make sure that all students have equitable access to high quality learning opportunities with integrated technology. As I am sure you know, classroom instruction now relies heavily on Internet and Broadband access. It is deeply integrated in every aspect teaching and learning in our schools."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1063,
+     "trecho": "MIDDLEBURGH CENTRAL SCHOOL DISTRICT Office of the Superintendent 291 Main Street – P.O. Box 606 Middleburgh, New York 12122 (518) 827-3625 October 2, 2019 As a Superintendent of a rural school district, I am sure it is not surprising that I am going to state that having affordable and reliable broadband access is important and critical in today’s learning environment. As a Superintendent of a rural school district it is even more important and critical to close the achievement gap, break cycles of poverty and make sure that all students have equitable access to high quality learning opportunities with integrated technology. As I am sure you know, classroom instruction now relies heavily on Internet and Broadband access. It is deeply integrated in every aspect teaching and learning in our schools. Yet, students in rural school districts are still having issues getting broadband into their homes and often have to travel to get to a usable (sometimes not even reliable) broadband source to complete their homework and research."
+    },
+    {
+     "inicio_corpo": 383,
+     "fim_corpo": 1430,
+     "trecho": "As a Superintendent of a rural school district it is even more important and critical to close the achievement gap, break cycles of poverty and make sure that all students have equitable access to high quality learning opportunities with integrated technology. As I am sure you know, classroom instruction now relies heavily on Internet and Broadband access. It is deeply integrated in every aspect teaching and learning in our schools. Yet, students in rural school districts are still having issues getting broadband into their homes and often have to travel to get to a usable (sometimes not even reliable) broadband source to complete their homework and research. They are at a disadvantage, not only with their own classmates but also with students in the more populated and well -resourced parts of the State and country. We have been fortunate in the Middleburgh Central School District that MIDTEL has had DSL service and now Fiber to the Home service to nearly all of our students (in a district of 181 square miles)."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0072::Escolaridade e letramento",
+   "unit_id": "W0072",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Brian Dunn",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 647,
+     "trecho": "MIDDLEBURGH CENTRAL SCHOOL DISTRICT Office of the Superintendent 291 Main Street – P.O. Box 606 Middleburgh, New York 12122 (518) 827-3625 October 2, 2019 As a Superintendent of a rural school district, I am sure it is not surprising that I am going to state that having affordable and reliable broadband access is important and critical in today’s learning environment. As a Superintendent of a rural school district it is even more important and critical to close the achievement gap, break cycles of poverty and make sure that all students have equitable access to high quality learning opportunities with integrated technology."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1063,
+     "trecho": "MIDDLEBURGH CENTRAL SCHOOL DISTRICT Office of the Superintendent 291 Main Street – P.O. Box 606 Middleburgh, New York 12122 (518) 827-3625 October 2, 2019 As a Superintendent of a rural school district, I am sure it is not surprising that I am going to state that having affordable and reliable broadband access is important and critical in today’s learning environment. As a Superintendent of a rural school district it is even more important and critical to close the achievement gap, break cycles of poverty and make sure that all students have equitable access to high quality learning opportunities with integrated technology. As I am sure you know, classroom instruction now relies heavily on Internet and Broadband access. It is deeply integrated in every aspect teaching and learning in our schools. Yet, students in rural school districts are still having issues getting broadband into their homes and often have to travel to get to a usable (sometimes not even reliable) broadband source to complete their homework and research."
+    },
+    {
+     "inicio_corpo": 383,
+     "fim_corpo": 1226,
+     "trecho": "As a Superintendent of a rural school district it is even more important and critical to close the achievement gap, break cycles of poverty and make sure that all students have equitable access to high quality learning opportunities with integrated technology. As I am sure you know, classroom instruction now relies heavily on Internet and Broadband access. It is deeply integrated in every aspect teaching and learning in our schools. Yet, students in rural school districts are still having issues getting broadband into their homes and often have to travel to get to a usable (sometimes not even reliable) broadband source to complete their homework and research. They are at a disadvantage, not only with their own classmates but also with students in the more populated and well -resourced parts of the State and country."
+    },
+    {
+     "inicio_corpo": 647,
+     "fim_corpo": 1430,
+     "trecho": "As I am sure you know, classroom instruction now relies heavily on Internet and Broadband access. It is deeply integrated in every aspect teaching and learning in our schools. Yet, students in rural school districts are still having issues getting broadband into their homes and often have to travel to get to a usable (sometimes not even reliable) broadband source to complete their homework and research. They are at a disadvantage, not only with their own classmates but also with students in the more populated and well -resourced parts of the State and country. We have been fortunate in the Middleburgh Central School District that MIDTEL has had DSL service and now Fiber to the Home service to nearly all of our students (in a district of 181 square miles)."
+    },
+    {
+     "inicio_corpo": 828,
+     "fim_corpo": 2538,
+     "trecho": "Yet, students in rural school districts are still having issues getting broadband into their homes and often have to travel to get to a usable (sometimes not even reliable) broadband source to complete their homework and research. They are at a disadvantage, not only with their own classmates but also with students in the more populated and well -resourced parts of the State and country. We have been fortunate in the Middleburgh Central School District that MIDTEL has had DSL service and now Fiber to the Home service to nearly all of our students (in a district of 181 square miles). It has helped us begin to meet our goals of general academic improvement and state/federal accountability designations, but our work has just really begun. Our vision in Middleburgh-is to utilize our soon to be awarded 1 million dollars in Smart Schools aide to provide all of our students with access to university caliber technology and technology integration. All of our 7-12 students will have their own laptops to take home with them to continue their studies, research and projects. All of our homes need internet connectivity is to realize the promise of this initiative. In closing, reliable and affordable broadband is critical to the success and advancement of students in rural school districts. Without it the digital divide will continue to widen and the viability of our rural school districts are in danger. Thank you for inviting me to speak and allowing me to share my thoughts on rural broadband and its importance to rural school districts. I welcome any questions you may have. Sincerely, Brian P. Dunn Superintendent of Schools"
+    },
+    {
+     "inicio_corpo": 1063,
+     "fim_corpo": 2538,
+     "trecho": "They are at a disadvantage, not only with their own classmates but also with students in the more populated and well -resourced parts of the State and country. We have been fortunate in the Middleburgh Central School District that MIDTEL has had DSL service and now Fiber to the Home service to nearly all of our students (in a district of 181 square miles). It has helped us begin to meet our goals of general academic improvement and state/federal accountability designations, but our work has just really begun. Our vision in Middleburgh-is to utilize our soon to be awarded 1 million dollars in Smart Schools aide to provide all of our students with access to university caliber technology and technology integration. All of our 7-12 students will have their own laptops to take home with them to continue their studies, research and projects. All of our homes need internet connectivity is to realize the promise of this initiative. In closing, reliable and affordable broadband is critical to the success and advancement of students in rural school districts. Without it the digital divide will continue to widen and the viability of our rural school districts are in danger. Thank you for inviting me to speak and allowing me to share my thoughts on rural broadband and its importance to rural school districts. I welcome any questions you may have. Sincerely, Brian P. Dunn Superintendent of Schools"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0072::Urbano e rural",
+   "unit_id": "W0072",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Brian Dunn",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 383,
+     "trecho": "MIDDLEBURGH CENTRAL SCHOOL DISTRICT Office of the Superintendent 291 Main Street – P.O. Box 606 Middleburgh, New York 12122 (518) 827-3625 October 2, 2019 As a Superintendent of a rural school district, I am sure it is not surprising that I am going to state that having affordable and reliable broadband access is important and critical in today’s learning environment."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 647,
+     "trecho": "MIDDLEBURGH CENTRAL SCHOOL DISTRICT Office of the Superintendent 291 Main Street – P.O. Box 606 Middleburgh, New York 12122 (518) 827-3625 October 2, 2019 As a Superintendent of a rural school district, I am sure it is not surprising that I am going to state that having affordable and reliable broadband access is important and critical in today’s learning environment. As a Superintendent of a rural school district it is even more important and critical to close the achievement gap, break cycles of poverty and make sure that all students have equitable access to high quality learning opportunities with integrated technology."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1063,
+     "trecho": "MIDDLEBURGH CENTRAL SCHOOL DISTRICT Office of the Superintendent 291 Main Street – P.O. Box 606 Middleburgh, New York 12122 (518) 827-3625 October 2, 2019 As a Superintendent of a rural school district, I am sure it is not surprising that I am going to state that having affordable and reliable broadband access is important and critical in today’s learning environment. As a Superintendent of a rural school district it is even more important and critical to close the achievement gap, break cycles of poverty and make sure that all students have equitable access to high quality learning opportunities with integrated technology. As I am sure you know, classroom instruction now relies heavily on Internet and Broadband access. It is deeply integrated in every aspect teaching and learning in our schools. Yet, students in rural school districts are still having issues getting broadband into their homes and often have to travel to get to a usable (sometimes not even reliable) broadband source to complete their homework and research."
+    },
+    {
+     "inicio_corpo": 1226,
+     "fim_corpo": 2538,
+     "trecho": "We have been fortunate in the Middleburgh Central School District that MIDTEL has had DSL service and now Fiber to the Home service to nearly all of our students (in a district of 181 square miles). It has helped us begin to meet our goals of general academic improvement and state/federal accountability designations, but our work has just really begun. Our vision in Middleburgh-is to utilize our soon to be awarded 1 million dollars in Smart Schools aide to provide all of our students with access to university caliber technology and technology integration. All of our 7-12 students will have their own laptops to take home with them to continue their studies, research and projects. All of our homes need internet connectivity is to realize the promise of this initiative. In closing, reliable and affordable broadband is critical to the success and advancement of students in rural school districts. Without it the digital divide will continue to widen and the viability of our rural school districts are in danger. Thank you for inviting me to speak and allowing me to share my thoughts on rural broadband and its importance to rural school districts. I welcome any questions you may have. Sincerely, Brian P. Dunn Superintendent of Schools"
+    },
+    {
+     "inicio_corpo": 1430,
+     "fim_corpo": 2538,
+     "trecho": "It has helped us begin to meet our goals of general academic improvement and state/federal accountability designations, but our work has just really begun. Our vision in Middleburgh-is to utilize our soon to be awarded 1 million dollars in Smart Schools aide to provide all of our students with access to university caliber technology and technology integration. All of our 7-12 students will have their own laptops to take home with them to continue their studies, research and projects. All of our homes need internet connectivity is to realize the promise of this initiative. In closing, reliable and affordable broadband is critical to the success and advancement of students in rural school districts. Without it the digital divide will continue to widen and the viability of our rural school districts are in danger. Thank you for inviting me to speak and allowing me to share my thoughts on rural broadband and its importance to rural school districts. I welcome any questions you may have. Sincerely, Brian P. Dunn Superintendent of Schools"
+    },
+    {
+     "inicio_corpo": 1588,
+     "fim_corpo": 2538,
+     "trecho": "Our vision in Middleburgh-is to utilize our soon to be awarded 1 million dollars in Smart Schools aide to provide all of our students with access to university caliber technology and technology integration. All of our 7-12 students will have their own laptops to take home with them to continue their studies, research and projects. All of our homes need internet connectivity is to realize the promise of this initiative. In closing, reliable and affordable broadband is critical to the success and advancement of students in rural school districts. Without it the digital divide will continue to widen and the viability of our rural school districts are in danger. Thank you for inviting me to speak and allowing me to share my thoughts on rural broadband and its importance to rural school districts. I welcome any questions you may have. Sincerely, Brian P. Dunn Superintendent of Schools"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0074::Educação",
+   "unit_id": "W0074",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jason Miller",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6789,
+     "fim_corpo": 7706,
+     "trecho": "One study found that doctors in rural emergency rooms are more likely to alter their diagnosis and their patient’s course of treatment after consulting with a specialist via a live, 1 Job Creation From Rural Broadband Companies, Roberto Gallardo and Indraneel Kumar, Purdue University (August 2019). 2 Ibid. 3 U.S. Chamber Technology Engagement Center (2019). 4 Broadband’s Contribution to Economic Health in Rural Areas, Community & Regional Development Institute, Cornell University (February 2015). Testimony of Jason Miller October 4, 2019 Page 3 interactive videoconference. Other benefits accrue in the form of distance learning. A shortage of teachers in parts of rural America means public school districts rely on high-speed connectivity to deliver interactive video instruction for foreign language, science, and music classes."
+    }
+   ]
+  }
+ ]
+}

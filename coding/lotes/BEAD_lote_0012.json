@@ -1,0 +1,1187 @@
+{
+ "caso": "BEAD",
+ "lote": 12,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0045::Domicílio e arranjo familiar",
+   "unit_id": "W0045",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. David Hess",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "Family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11339,
+     "fim_corpo": 12282,
+     "trecho": "A better informed , professional IT manager can set-up restrictions on network use to prioritize clinical applications. While internet connectivity is adequate for most of the rural hospitals, it is not adequate to provide telehealth consults to patients in homes and at small clinic sites in rural areas . Telehealth is able to reinvent “doctor house calls” and is moving to monitoring and consulting with the patient in their home. In addition to physicians, much of this monitoring will be done by nurses and advanced practice pr oviders. Lack of access to physicians is a problem in many parts of rural Georgia. According to the Georgia Board for Physician Workforce (https://gbpw.georgia.gov/), there are 8 Georgia counties without any physicians, 11 counties without a Family Medicine Physician, 63 counties without a Pediatrician, 75 counties without an Obstetrician -Gynecologist and 78 counties without a general surgeon."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0045::Educação",
+   "unit_id": "W0045",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. David Hess",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 367,
+     "fim_corpo": 1081,
+     "trecho": "First, I would like to thank the Chairman, the ranking member, and all the members of the subcommittee for the opportunity to testify today. I am Dr. David C. Hess, Dean of the Medical College of Georgia and Presidential Distinguished Chair of Neurology at the Medical College of Georgia at Augusta University. I am here to recount my experiences as a physician providing telestroke services, a form of telemedicine, to stroke patients presenting at hospitals in the rural Southeastern United States. Georgia is situated in the “Stroke Belt”, a region of high stroke incidence in the southeastern U.S. I work at the Medical College of G eorgia, the only public medical school in the state of Georgia."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0045::Infraestrutura e porte populacional",
+   "unit_id": "W0045",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. David Hess",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12561,
+     "fim_corpo": 13467,
+     "trecho": "One of the best ways to address these geographic disparities is through the use of telemedicine-to the patient’s home and to health clinics. There is also another need for stroke care where there is insufficient broadband -that is the poor connectivity to ambulances in rural areas. There is increasing interest in providing telestroke ser vices in the ambulances transporting patients to the hospitals. This is presently not feasible in many rural areas. Thank you again for the opportunity to testify before the Committee. I am ava ilable to answer any questions you may have. References 1. Kleindorfer D, Xu Y, Moomaw CJ, Khatri P, Adeoye O, Hornung R. US geographic distribution of rt-PA utilization by hospital for acute ischemic stroke. Stroke 2009;40:3580-4. 2. Hess DC, Wang S, Gross H, Nichols FT, Hall CE, Adams RJ. Telestroke: extending stroke expertise into underserved areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0045::Posição no trabalho",
+   "unit_id": "W0045",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. David Hess",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "Workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11190,
+     "fim_corpo": 12282,
+     "trecho": "The common example is the hospital guest network being allowed to us e the same internet connection (un -throttled) as the clinical applications. A better informed , professional IT manager can set-up restrictions on network use to prioritize clinical applications. While internet connectivity is adequate for most of the rural hospitals, it is not adequate to provide telehealth consults to patients in homes and at small clinic sites in rural areas . Telehealth is able to reinvent “doctor house calls” and is moving to monitoring and consulting with the patient in their home. In addition to physicians, much of this monitoring will be done by nurses and advanced practice pr oviders. Lack of access to physicians is a problem in many parts of rural Georgia. According to the Georgia Board for Physician Workforce (https://gbpw.georgia.gov/), there are 8 Georgia counties without any physicians, 11 counties without a Family Medicine Physician, 63 counties without a Pediatrician, 75 counties without an Obstetrician -Gynecologist and 78 counties without a general surgeon."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0045::Saúde",
+   "unit_id": "W0045",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. David Hess",
+   "n_ocorrencias_no_par": 36,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 30,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 876,
+     "trecho": "Testimony of Dr. David Hess, M.D., Executive Vice President, Medical Affairs & Dean, Medical College of Georgia, Augusta University Before the House Committee on Agriculture’s Subcommittee on Commodity Exchanges, Energy, and Credit Hearing: Building Opportunity in Rural America through Affordable, Reliable and High-Speed Broadband June 11, 2019 Good morning. First, I would like to thank the Chairman, the ranking member, and all the members of the subcommittee for the opportunity to testify today. I am Dr. David C. Hess, Dean of the Medical College of Georgia and Presidential Distinguished Chair of Neurology at the Medical College of Georgia at Augusta University. I am here to recount my experiences as a physician providing telestroke services, a form of telemedicine, to stroke patients presenting at hospitals in the rural Southeastern United States."
+    },
+    {
+     "inicio_corpo": 1434,
+     "fim_corpo": 2324,
+     "trecho": "For background, there are two types of stroke –ischemic stroke is caused by a blockage of blood flow to the brain and hemorrhagic stroke caused by bleeding into the brain. T PA is effective for ischemic st rokes but can be harmful if given for hemorrhagic strokes. The only way for a physician to tell the difference is to perform and review a CT scan of the brain. While TPA is very effective for ischemic stroke, in about 3% of patients it can cause bleeding into the brain which can be fatal. This complication caused many Emergency Medicine physicians to be r eluctant to use TPA and they required stroke specialists (Neurologists) to assist them in making the decision. After TPA was approved by the FDA, only about 2% of stroke patien ts were receiving TPA. Nationwide, 64% of US hospitals were not using TPA and most of them were small hospitals in the rural South."
+    },
+    {
+     "inicio_corpo": 1434,
+     "fim_corpo": 2324,
+     "trecho": "For background, there are two types of stroke –ischemic stroke is caused by a blockage of blood flow to the brain and hemorrhagic stroke caused by bleeding into the brain. T PA is effective for ischemic st rokes but can be harmful if given for hemorrhagic strokes. The only way for a physician to tell the difference is to perform and review a CT scan of the brain. While TPA is very effective for ischemic stroke, in about 3% of patients it can cause bleeding into the brain which can be fatal. This complication caused many Emergency Medicine physicians to be r eluctant to use TPA and they required stroke specialists (Neurologists) to assist them in making the decision. After TPA was approved by the FDA, only about 2% of stroke patien ts were receiving TPA. Nationwide, 64% of US hospitals were not using TPA and most of them were small hospitals in the rural South."
+    },
+    {
+     "inicio_corpo": 1610,
+     "fim_corpo": 2530,
+     "trecho": "T PA is effective for ischemic st rokes but can be harmful if given for hemorrhagic strokes. The only way for a physician to tell the difference is to perform and review a CT scan of the brain. While TPA is very effective for ischemic stroke, in about 3% of patients it can cause bleeding into the brain which can be fatal. This complication caused many Emergency Medicine physicians to be r eluctant to use TPA and they required stroke specialists (Neurologists) to assist them in making the decision. After TPA was approved by the FDA, only about 2% of stroke patien ts were receiving TPA. Nationwide, 64% of US hospitals were not using TPA and most of them were small hospitals in the rural South. 1 There was a geographic penalty for stroke care -rural patients in small hospitals in the South that were not receiving TPA, the only drug that could reduce their chance of being disabled from a stroke."
+    },
+    {
+     "inicio_corpo": 1807,
+     "fim_corpo": 2712,
+     "trecho": "While TPA is very effective for ischemic stroke, in about 3% of patients it can cause bleeding into the brain which can be fatal. This complication caused many Emergency Medicine physicians to be r eluctant to use TPA and they required stroke specialists (Neurologists) to assist them in making the decision. After TPA was approved by the FDA, only about 2% of stroke patien ts were receiving TPA. Nationwide, 64% of US hospitals were not using TPA and most of them were small hospitals in the rural South. 1 There was a geographic penalty for stroke care -rural patients in small hospitals in the South that were not receiving TPA, the only drug that could reduce their chance of being disabled from a stroke. One of the problems that led to low usage of TPA was the lack of neurologists and stroke specialists in the smaller hospitals to consult and help with th e treatment decisions."
+    },
+    {
+     "inicio_corpo": 2530,
+     "fim_corpo": 3273,
+     "trecho": "One of the problems that led to low usage of TPA was the lack of neurologists and stroke specialists in the smaller hospitals to consult and help with th e treatment decisions. Neurologists and stroke specialists tend to work in larger cities like Augusta and Atlanta and there were none in rural Georgia. Moreover, the time to treatment with T PA is a major determin ant of how well the patient does; shorter time to treatment equates to better outcomes. Stroke is a “time sensitive disease” and it is estimated that during a stroke, 32,000 brain cells die per second so every se cond and minute delay matters when administering T PA. Ther e i s no time for the physician to get in their car and drive to a rural hospital ."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0045::Urbano e rural",
+   "unit_id": "W0045",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. David Hess",
+   "n_ocorrencias_no_par": 30,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 24,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 367,
+     "trecho": "Testimony of Dr. David Hess, M.D., Executive Vice President, Medical Affairs & Dean, Medical College of Georgia, Augusta University Before the House Committee on Agriculture’s Subcommittee on Commodity Exchanges, Energy, and Credit Hearing: Building Opportunity in Rural America through Affordable, Reliable and High-Speed Broadband June 11, 2019 Good morning."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 876,
+     "trecho": "Testimony of Dr. David Hess, M.D., Executive Vice President, Medical Affairs & Dean, Medical College of Georgia, Augusta University Before the House Committee on Agriculture’s Subcommittee on Commodity Exchanges, Energy, and Credit Hearing: Building Opportunity in Rural America through Affordable, Reliable and High-Speed Broadband June 11, 2019 Good morning. First, I would like to thank the Chairman, the ranking member, and all the members of the subcommittee for the opportunity to testify today. I am Dr. David C. Hess, Dean of the Medical College of Georgia and Presidential Distinguished Chair of Neurology at the Medical College of Georgia at Augusta University. I am here to recount my experiences as a physician providing telestroke services, a form of telemedicine, to stroke patients presenting at hospitals in the rural Southeastern United States."
+    },
+    {
+     "inicio_corpo": 367,
+     "fim_corpo": 1282,
+     "trecho": "First, I would like to thank the Chairman, the ranking member, and all the members of the subcommittee for the opportunity to testify today. I am Dr. David C. Hess, Dean of the Medical College of Georgia and Presidential Distinguished Chair of Neurology at the Medical College of Georgia at Augusta University. I am here to recount my experiences as a physician providing telestroke services, a form of telemedicine, to stroke patients presenting at hospitals in the rural Southeastern United States. Georgia is situated in the “Stroke Belt”, a region of high stroke incidence in the southeastern U.S. I work at the Medical College of G eorgia, the only public medical school in the state of Georgia. We are the Joint Commission certified Advanced Comprehensive Stroke Center that serves patients in rural southeastern Georgia and South Carolina, areas that are in the “buckle of the Stroke Belt”."
+    },
+    {
+     "inicio_corpo": 1434,
+     "fim_corpo": 2324,
+     "trecho": "For background, there are two types of stroke –ischemic stroke is caused by a blockage of blood flow to the brain and hemorrhagic stroke caused by bleeding into the brain. T PA is effective for ischemic st rokes but can be harmful if given for hemorrhagic strokes. The only way for a physician to tell the difference is to perform and review a CT scan of the brain. While TPA is very effective for ischemic stroke, in about 3% of patients it can cause bleeding into the brain which can be fatal. This complication caused many Emergency Medicine physicians to be r eluctant to use TPA and they required stroke specialists (Neurologists) to assist them in making the decision. After TPA was approved by the FDA, only about 2% of stroke patien ts were receiving TPA. Nationwide, 64% of US hospitals were not using TPA and most of them were small hospitals in the rural South."
+    },
+    {
+     "inicio_corpo": 1610,
+     "fim_corpo": 2530,
+     "trecho": "T PA is effective for ischemic st rokes but can be harmful if given for hemorrhagic strokes. The only way for a physician to tell the difference is to perform and review a CT scan of the brain. While TPA is very effective for ischemic stroke, in about 3% of patients it can cause bleeding into the brain which can be fatal. This complication caused many Emergency Medicine physicians to be r eluctant to use TPA and they required stroke specialists (Neurologists) to assist them in making the decision. After TPA was approved by the FDA, only about 2% of stroke patien ts were receiving TPA. Nationwide, 64% of US hospitals were not using TPA and most of them were small hospitals in the rural South. 1 There was a geographic penalty for stroke care -rural patients in small hospitals in the South that were not receiving TPA, the only drug that could reduce their chance of being disabled from a stroke."
+    },
+    {
+     "inicio_corpo": 1939,
+     "fim_corpo": 2843,
+     "trecho": "This complication caused many Emergency Medicine physicians to be r eluctant to use TPA and they required stroke specialists (Neurologists) to assist them in making the decision. After TPA was approved by the FDA, only about 2% of stroke patien ts were receiving TPA. Nationwide, 64% of US hospitals were not using TPA and most of them were small hospitals in the rural South. 1 There was a geographic penalty for stroke care -rural patients in small hospitals in the South that were not receiving TPA, the only drug that could reduce their chance of being disabled from a stroke. One of the problems that led to low usage of TPA was the lack of neurologists and stroke specialists in the smaller hospitals to consult and help with th e treatment decisions. Neurologists and stroke specialists tend to work in larger cities like Augusta and Atlanta and there were none in rural Georgia."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0046::Domicílio e arranjo familiar",
+   "unit_id": "W0046",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Blake Hurst",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 514,
+     "fim_corpo": 1213,
+     "trecho": "My name is Blake Hurst, and I am a corn, soybean, and greenhouse farmer from Atchison County, Missouri. I serve as President of Missouri Farm Bureau and sit on the Board of Directors for the American Farm Bureau Federation, whom I am representing here today. Farm Bureau appreciates the opportunity to provide input on the necessity of broadband technology on America’s farms, ranches, and in our agribusinesses. A. Introduction The American Farm Bureau Federation (Farm Bureau) is the nation’s largest general farm organization, with nearly 6 million-member families, representing agricultural producers of nearly every type of crop and livestock across all 50 states and Puerto Rico."
+    },
+    {
+     "inicio_corpo": 7883,
+     "fim_corpo": 8901,
+     "trecho": "For many rural communities, access can only be gained by using broadband services and sophisticated technologies that require high-speed connections. There are Farm Bureau members who need to take their kids to the parking lot of the nearest fast food restaurant to do research papers and complete their homework because their house does not have access to broadband. This is unacceptable. As more and more primary care physicians and specialists leave rural communities, telemedicine has become a necessity to provide critical healthcare to our parents and kids. I’m concerned for the well-being of my 84-year-old father, who still is a full-time farmer. I've listed business, health, and educational reasons for broadband’s importance, but it’s also important to rural Americans because we deserve the ability to be part of the larger society as well. Many families live across town, in another state or possibly another country and broadband allow families to connect, even when they are miles apart."
+    },
+    {
+     "inicio_corpo": 8034,
+     "fim_corpo": 8901,
+     "trecho": "There are Farm Bureau members who need to take their kids to the parking lot of the nearest fast food restaurant to do research papers and complete their homework because their house does not have access to broadband. This is unacceptable. As more and more primary care physicians and specialists leave rural communities, telemedicine has become a necessity to provide critical healthcare to our parents and kids. I’m concerned for the well-being of my 84-year-old father, who still is a full-time farmer. I've listed business, health, and educational reasons for broadband’s importance, but it’s also important to rural Americans because we deserve the ability to be part of the larger society as well. Many families live across town, in another state or possibly another country and broadband allow families to connect, even when they are miles apart."
+    },
+    {
+     "inicio_corpo": 8901,
+     "fim_corpo": 9874,
+     "trecho": "Broadband allows grandparents to connect with their grandchildren through FaceTime and Skype. Streaming videos, using social media and participating in popular culture is important for social interactions. Rural Americans should have access to the same media as our urban neighbors. Current and future generations of rural Americans will be left behind their fellow citizens if they are without affordable high-speed broadband service that enables them to tap into health care and education services, government agencies, and create new business opportunities. C. 2018 Farm Bill Modifications In the last few years, Farm Bureau members have elevated the priority of broadband access and affordability because of its impact on their daily lives. Farm Bureau has included rural broadband deployment as one of its strategic action issues for 2019 because many of our farm families are frustrated with the lack of services available in rural America."
+    },
+    {
+     "inicio_corpo": 13787,
+     "fim_corpo": 14801,
+     "trecho": "Farm Bureau looks forward to participating in the nomination process. D. Importance of Broadband Mapping to Agriculture As efforts to improve access to broadband in rural areas continue, the ability of the FCC and all other relevant agencies to utilize accurate coverage maps is the highest priority. With limited funding to address an estimated $45-65 billion issue and an overabundance of need, more granular and accurate maps are critical to successfully target and distribute federal broadband programs. Currently, the FCC’s National Broadband Map relies on census block data to determine which areas are served, underserved, and unserved across the country. Census blocks are too large in rural and remote areas to accurately target broadband investments. If even one household in a given census block is reported by a provider as being served, then the entire block is considered served and is therefore likely excluded from eligibility to receive federal funds for rural broadband buildout."
+    },
+    {
+     "inicio_corpo": 17233,
+     "fim_corpo": 18114,
+     "trecho": "Appendix A Unleashing Broadband on Rural American Leads to Nearly $65 Billion in Economic Benefits Annually By: Megan Nelson, Economic Analyst According to USDA’s “A Case for Rural Broadband,” if access to broadband and adoption of digital agricultural technologies matched producer demand, U.S. agriculture would realize benefits amounting to nearly 18% of total U.S. market production, or $64.5 billion annually, based on 2017 levels. The report, published by the American Broadband Initiative, analyzes the possible economic benefits of bringing e-connectivity to the heartland and, more importantly, what needs to be done to make it happen. From the way producers store and ship commodities to the way consumers purchase their food, the introduction and widespread usage of the household refrigerator has irrevocably changed the food supply chain system."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0046::Idade",
+   "unit_id": "W0046",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Blake Hurst",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9475,
+     "fim_corpo": 10268,
+     "trecho": "C. 2018 Farm Bill Modifications In the last few years, Farm Bureau members have elevated the priority of broadband access and affordability because of its impact on their daily lives. Farm Bureau has included rural broadband deployment as one of its strategic action issues for 2019 because many of our farm families are frustrated with the lack of services available in rural America. Many of our state Farm Bureaus have engaged with their state legislatures to expand rural broadband deployment and have been conducting research on the impact of broadband deployment for rural communities. Let me walk you through some of the research that the Missouri Farm Bureau conducted concerning the deficits in current broadband programs provided at the state and federal level."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0046::Infraestrutura e porte populacional",
+   "unit_id": "W0046",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Blake Hurst",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13547,
+     "fim_corpo": 14462,
+     "trecho": "The legislation is an important step in changing the way the FCC and other agencies think about rural broadband as we strive to build the information infrastructure that modern production agriculture increasingly needs to be successful. Farm Bureau looks forward to participating in the nomination process. D. Importance of Broadband Mapping to Agriculture As efforts to improve access to broadband in rural areas continue, the ability of the FCC and all other relevant agencies to utilize accurate coverage maps is the highest priority. With limited funding to address an estimated $45-65 billion issue and an overabundance of need, more granular and accurate maps are critical to successfully target and distribute federal broadband programs. Currently, the FCC’s National Broadband Map relies on census block data to determine which areas are served, underserved, and unserved across the country."
+    },
+    {
+     "inicio_corpo": 13547,
+     "fim_corpo": 14462,
+     "trecho": "The legislation is an important step in changing the way the FCC and other agencies think about rural broadband as we strive to build the information infrastructure that modern production agriculture increasingly needs to be successful. Farm Bureau looks forward to participating in the nomination process. D. Importance of Broadband Mapping to Agriculture As efforts to improve access to broadband in rural areas continue, the ability of the FCC and all other relevant agencies to utilize accurate coverage maps is the highest priority. With limited funding to address an estimated $45-65 billion issue and an overabundance of need, more granular and accurate maps are critical to successfully target and distribute federal broadband programs. Currently, the FCC’s National Broadband Map relies on census block data to determine which areas are served, underserved, and unserved across the country."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0046::Macrorregião",
+   "unit_id": "W0046",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Blake Hurst",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Puerto Rico",
+     "forma_encontrada": "Puerto Rico",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 514,
+     "fim_corpo": 1213,
+     "trecho": "My name is Blake Hurst, and I am a corn, soybean, and greenhouse farmer from Atchison County, Missouri. I serve as President of Missouri Farm Bureau and sit on the Board of Directors for the American Farm Bureau Federation, whom I am representing here today. Farm Bureau appreciates the opportunity to provide input on the necessity of broadband technology on America’s farms, ranches, and in our agribusinesses. A. Introduction The American Farm Bureau Federation (Farm Bureau) is the nation’s largest general farm organization, with nearly 6 million-member families, representing agricultural producers of nearly every type of crop and livestock across all 50 states and Puerto Rico."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0046::Urbano e rural",
+   "unit_id": "W0046",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Blake Hurst",
+   "n_ocorrencias_no_par": 38,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 32,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 514,
+     "trecho": "Statement of Blake Hurst President, Missouri Farm Bureau Federation On Behalf of The American Farm Bureau Federation House Agriculture Committee Subcommittee on Commodity Exchanges, Energy and Credit For the Hearing On Building Opportunity in Rural America Through Affordable, Reliable, and High-Speed Broadband July 11, 2019 Good morning Chairman Scott (D-Ga.), Ranking Member Scott (R-Ga.) and members of the House Agriculture Subcommittee on Commodity Exchanges, Energy, and Credit."
+    },
+    {
+     "inicio_corpo": 514,
+     "fim_corpo": 1429,
+     "trecho": "My name is Blake Hurst, and I am a corn, soybean, and greenhouse farmer from Atchison County, Missouri. I serve as President of Missouri Farm Bureau and sit on the Board of Directors for the American Farm Bureau Federation, whom I am representing here today. Farm Bureau appreciates the opportunity to provide input on the necessity of broadband technology on America’s farms, ranches, and in our agribusinesses. A. Introduction The American Farm Bureau Federation (Farm Bureau) is the nation’s largest general farm organization, with nearly 6 million-member families, representing agricultural producers of nearly every type of crop and livestock across all 50 states and Puerto Rico. Broadband is no longer a luxury, it’s a necessity. Rural broadband (fixed and mobile) is essential to modern agriculture, the farmers and ranchers who grow our food and the quality of life for rural Americans."
+    },
+    {
+     "inicio_corpo": 514,
+     "fim_corpo": 1429,
+     "trecho": "My name is Blake Hurst, and I am a corn, soybean, and greenhouse farmer from Atchison County, Missouri. I serve as President of Missouri Farm Bureau and sit on the Board of Directors for the American Farm Bureau Federation, whom I am representing here today. Farm Bureau appreciates the opportunity to provide input on the necessity of broadband technology on America’s farms, ranches, and in our agribusinesses. A. Introduction The American Farm Bureau Federation (Farm Bureau) is the nation’s largest general farm organization, with nearly 6 million-member families, representing agricultural producers of nearly every type of crop and livestock across all 50 states and Puerto Rico. Broadband is no longer a luxury, it’s a necessity. Rural broadband (fixed and mobile) is essential to modern agriculture, the farmers and ranchers who grow our food and the quality of life for rural Americans."
+    },
+    {
+     "inicio_corpo": 2669,
+     "fim_corpo": 3774,
+     "trecho": "My friends in the livestock industry use broadband-based programs to monitor the development of each animal they raise, analyze markets, and make data-driven management decisions for their animals. From monitoring feed usage and rations to scheduling delivery of animals, livestock farmers use broadband daily to improve the efficiency of their operations and ensure the health of their herds. Many veterinarians communicate lab results through e-mail with livestock farmers to get them information on animal health as quickly as possible. All the data collected can be compiled into production reports which help farmers make more informed decisions about their farm and ranch. While most Americans take broadband for granted, 26.4 percent of rural Americans lack access to broadband.1 This is alarming, particularly when compared to the only 1.7 percent of urban Americans who lack such access.2 However, an asterisk must be used alongside these figures because the current data and maps used to collect broadband coverage is flawed and fails to accurately determine broadband access."
+    },
+    {
+     "inicio_corpo": 3218,
+     "fim_corpo": 4284,
+     "trecho": "All the data collected can be compiled into production reports which help farmers make more informed decisions about their farm and ranch. While most Americans take broadband for granted, 26.4 percent of rural Americans lack access to broadband.1 This is alarming, particularly when compared to the only 1.7 percent of urban Americans who lack such access.2 However, an asterisk must be used alongside these figures because the current data and maps used to collect broadband coverage is flawed and fails to accurately determine broadband access. Farmers and ranchers, who already have seen a drastic 50 percent decline in net farm income in the last four years, must have access to fixed and mobile broadband to be more efficient, economical and responsive to environmental needs. B. Improvements to Rural Prosperity Precision Agriculture and Farming Business Farmers and ranchers depend on broadband (fixed and mobile) just as they rely on highways, railways and waterways to ship food, fuel and fiber across the country and around the world."
+    },
+    {
+     "inicio_corpo": 4459,
+     "fim_corpo": 5380,
+     "trecho": "However, 29 percent of U.S. farms have no access to the Internet according to the USDA report, “Farm Computer Usage and Ownership, 2017.” America’s farmers and ranchers embrace technology that allows their farming businesses to be more efficient, economical and environmentally sensitive. Today’s farmers and ranchers are using precision agricultural techniques to make decisions that impact the amount of fertilizer a farmer needs to purchase and apply to the field, the amount of water needed to sustain the crop, and the amount and type of herbicides or pesticides the farmer may need to apply. These are only a few examples of the reasons farmers use broadband connectivity to achieve optimal yield, lower environmental impact and maximize profits. According to USDA’s “A Case for Rural Broadband,” if access to broadband and adoption of digital agricultural technologies matched producer demand, U.S."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0047::Domicílio e arranjo familiar",
+   "unit_id": "W0047",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. David Hengel",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "Households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10893,
+     "fim_corpo": 11729,
+     "trecho": "Paul Bunyan Communications received NTCA’s Smart Rural Community Showcase award in 2015 for its work in Bemidji. RURAL ECONOMIC DEVELOPMENT SUCCESSES In rural areas, as discussed earlier, broadband connectivity presents a unique challenge due to geographical barriers – barriers that broadband can help break down and overcome. Indeed, in rural and urban areas alike, broadband availability and adoption strongly correlates with increased economic opportunity and prosperity. A 2016 government study found that just 41 percent of adults with household incomes less than $20,000 had home broadband access, while 90 percent of adults with household income higher than $100,000 had access.1 Other studies reveal that the availability of broadband services, regardless of adoption, added as much as 1.4 percent to the U.S."
+    },
+    {
+     "inicio_corpo": 10893,
+     "fim_corpo": 11729,
+     "trecho": "Paul Bunyan Communications received NTCA’s Smart Rural Community Showcase award in 2015 for its work in Bemidji. RURAL ECONOMIC DEVELOPMENT SUCCESSES In rural areas, as discussed earlier, broadband connectivity presents a unique challenge due to geographical barriers – barriers that broadband can help break down and overcome. Indeed, in rural and urban areas alike, broadband availability and adoption strongly correlates with increased economic opportunity and prosperity. A 2016 government study found that just 41 percent of adults with household incomes less than $20,000 had home broadband access, while 90 percent of adults with household income higher than $100,000 had access.1 Other studies reveal that the availability of broadband services, regardless of adoption, added as much as 1.4 percent to the U.S."
+    },
+    {
+     "inicio_corpo": 11381,
+     "fim_corpo": 12313,
+     "trecho": "A 2016 government study found that just 41 percent of adults with household incomes less than $20,000 had home broadband access, while 90 percent of adults with household income higher than $100,000 had access.1 Other studies reveal that the availability of broadband services, regardless of adoption, added as much as 1.4 percent to the U.S. employment growth rate.2 Investing in rural broadband has far-reaching effects for both urban and rural America, creating efficiencies in healthcare, education, agriculture, energy, and commerce, and enhancing the quality of life for citizens across the country. A report released in 2016 by the Hudson Institute in conjunction with the Foundation for Rural Service underscores the nationwide benefits that arise 1 Digital Inequality and Low-Income Households, HUD Office of Policy Development and Research (2016)."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0047::Educação",
+   "unit_id": "W0047",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. David Hengel",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "Schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13364,
+     "fim_corpo": 13983,
+     "trecho": "Rural America needs broadband not only to help farmers efficiently produce the crops that are sold around the world, but to help rural small businesses participate in the global economy and help all rural citizens experience the potentially life-changing healthcare, educational, and employment benefits of broadband. A major benefit of rural broadband, for example, comes in the form of distance learning. With a shortage of teachers in many areas of rural America, many schools must rely on high-speed connectivity to deliver interactive-video instruction for foreign language, science, and music classes."
+    },
+    {
+     "inicio_corpo": 13364,
+     "fim_corpo": 14143,
+     "trecho": "Rural America needs broadband not only to help farmers efficiently produce the crops that are sold around the world, but to help rural small businesses participate in the global economy and help all rural citizens experience the potentially life-changing healthcare, educational, and employment benefits of broadband. A major benefit of rural broadband, for example, comes in the form of distance learning. With a shortage of teachers in many areas of rural America, many schools must rely on high-speed connectivity to deliver interactive-video instruction for foreign language, science, and music classes. For example, one rural South Dakotan teaches Level 1 and 2 Spanish to over 100 students in over a dozen high schools from a small office located on her farm."
+    },
+    {
+     "inicio_corpo": 13686,
+     "fim_corpo": 14420,
+     "trecho": "A major benefit of rural broadband, for example, comes in the form of distance learning. With a shortage of teachers in many areas of rural America, many schools must rely on high-speed connectivity to deliver interactive-video instruction for foreign language, science, and music classes. For example, one rural South Dakotan teaches Level 1 and 2 Spanish to over 100 students in over a dozen high schools from a small office located on her farm. Her broadband connection enables her to instruct hundreds of students who otherwise would not have the opportunity to learn Spanish. In Minnesota, Fergus Falls Public Schools use a high-capacity connection between the various school buildings located throughout the city."
+    },
+    {
+     "inicio_corpo": 13686,
+     "fim_corpo": 14420,
+     "trecho": "A major benefit of rural broadband, for example, comes in the form of distance learning. With a shortage of teachers in many areas of rural America, many schools must rely on high-speed connectivity to deliver interactive-video instruction for foreign language, science, and music classes. For example, one rural South Dakotan teaches Level 1 and 2 Spanish to over 100 students in over a dozen high schools from a small office located on her farm. Her broadband connection enables her to instruct hundreds of students who otherwise would not have the opportunity to learn Spanish. In Minnesota, Fergus Falls Public Schools use a high-capacity connection between the various school buildings located throughout the city."
+    },
+    {
+     "inicio_corpo": 13686,
+     "fim_corpo": 14714,
+     "trecho": "A major benefit of rural broadband, for example, comes in the form of distance learning. With a shortage of teachers in many areas of rural America, many schools must rely on high-speed connectivity to deliver interactive-video instruction for foreign language, science, and music classes. For example, one rural South Dakotan teaches Level 1 and 2 Spanish to over 100 students in over a dozen high schools from a small office located on her farm. Her broadband connection enables her to instruct hundreds of students who otherwise would not have the opportunity to learn Spanish. In Minnesota, Fergus Falls Public Schools use a high-capacity connection between the various school buildings located throughout the city. This broadband connection enables staff to access and share files seamlessly across the network, and supports iQ Academy Minnesota, an accredited public-school program offering Minnesota students in grades K-12 an innovative, high- quality alternative to the traditional learning experience."
+    },
+    {
+     "inicio_corpo": 14420,
+     "fim_corpo": 15325,
+     "trecho": "This broadband connection enables staff to access and share files seamlessly across the network, and supports iQ Academy Minnesota, an accredited public-school program offering Minnesota students in grades K-12 an innovative, high- quality alternative to the traditional learning experience. Access to healthcare is a critical issue for rural areas, where the lack of physicians, specialists, and diagnostic tools normally found in urban medical centers creates challenges for both patients and medical staff. Telemedicine applications help bridge the divide in rural America, enabling real- time patient consultations and remote monitoring, as well as specialized services such as tele- psychiatry. A small broadband provider in Georgia partnered with the county public school system to deploy telehealth equipment to connect the school nurses’ offices with physicians at a regional hospital."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0047::Escolaridade e letramento",
+   "unit_id": "W0047",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. David Hengel",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13364,
+     "fim_corpo": 14143,
+     "trecho": "Rural America needs broadband not only to help farmers efficiently produce the crops that are sold around the world, but to help rural small businesses participate in the global economy and help all rural citizens experience the potentially life-changing healthcare, educational, and employment benefits of broadband. A major benefit of rural broadband, for example, comes in the form of distance learning. With a shortage of teachers in many areas of rural America, many schools must rely on high-speed connectivity to deliver interactive-video instruction for foreign language, science, and music classes. For example, one rural South Dakotan teaches Level 1 and 2 Spanish to over 100 students in over a dozen high schools from a small office located on her farm."
+    },
+    {
+     "inicio_corpo": 13364,
+     "fim_corpo": 14279,
+     "trecho": "Rural America needs broadband not only to help farmers efficiently produce the crops that are sold around the world, but to help rural small businesses participate in the global economy and help all rural citizens experience the potentially life-changing healthcare, educational, and employment benefits of broadband. A major benefit of rural broadband, for example, comes in the form of distance learning. With a shortage of teachers in many areas of rural America, many schools must rely on high-speed connectivity to deliver interactive-video instruction for foreign language, science, and music classes. For example, one rural South Dakotan teaches Level 1 and 2 Spanish to over 100 students in over a dozen high schools from a small office located on her farm. Her broadband connection enables her to instruct hundreds of students who otherwise would not have the opportunity to learn Spanish."
+    },
+    {
+     "inicio_corpo": 13778,
+     "fim_corpo": 14714,
+     "trecho": "With a shortage of teachers in many areas of rural America, many schools must rely on high-speed connectivity to deliver interactive-video instruction for foreign language, science, and music classes. For example, one rural South Dakotan teaches Level 1 and 2 Spanish to over 100 students in over a dozen high schools from a small office located on her farm. Her broadband connection enables her to instruct hundreds of students who otherwise would not have the opportunity to learn Spanish. In Minnesota, Fergus Falls Public Schools use a high-capacity connection between the various school buildings located throughout the city. This broadband connection enables staff to access and share files seamlessly across the network, and supports iQ Academy Minnesota, an accredited public-school program offering Minnesota students in grades K-12 an innovative, high- quality alternative to the traditional learning experience."
+    },
+    {
+     "inicio_corpo": 14714,
+     "fim_corpo": 15597,
+     "trecho": "Access to healthcare is a critical issue for rural areas, where the lack of physicians, specialists, and diagnostic tools normally found in urban medical centers creates challenges for both patients and medical staff. Telemedicine applications help bridge the divide in rural America, enabling real- time patient consultations and remote monitoring, as well as specialized services such as tele- psychiatry. A small broadband provider in Georgia partnered with the county public school system to deploy telehealth equipment to connect the school nurses’ offices with physicians at a regional hospital. Through this partnership, the hospital, the school system, and the rural broadband provider facilitate better healthcare for students who might not otherwise see a physician in an area where parents can ill afford to miss a half or full day of work for a doctor visit."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0047::Raça e etnia",
+   "unit_id": "W0047",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. David Hengel",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Native American",
+     "forma_encontrada": "Native American",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 660,
+     "fim_corpo": 1455,
+     "trecho": "I am David Hengel, Executive Director of Greater Bemidji in Bemidji, MN – a public-private partnership created to drive development and promote prosperity in the greater Bemidji region. Greater Bemidji has three staff and an annual operating budget of $300,000 – a majority of which is provided by 70-plus businesses in our region. I just completed my 30th year in economic development—first at a regional level at the Headwaters Regional Development Commission, and now as the Executive Director of Greater Bemidji. Bemidji is the regional center for the lakes and pines country of north-central Minnesota. Surrounded by three Native American reservations, our economy is dominated by health care, retail sales and services, and tourism – with a very modest manufacturing base."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0047::Renda e classe",
+   "unit_id": "W0047",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. David Hengel",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "Low-Income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11381,
+     "fim_corpo": 12313,
+     "trecho": "A 2016 government study found that just 41 percent of adults with household incomes less than $20,000 had home broadband access, while 90 percent of adults with household income higher than $100,000 had access.1 Other studies reveal that the availability of broadband services, regardless of adoption, added as much as 1.4 percent to the U.S. employment growth rate.2 Investing in rural broadband has far-reaching effects for both urban and rural America, creating efficiencies in healthcare, education, agriculture, energy, and commerce, and enhancing the quality of life for citizens across the country. A report released in 2016 by the Hudson Institute in conjunction with the Foundation for Rural Service underscores the nationwide benefits that arise 1 Digital Inequality and Low-Income Households, HUD Office of Policy Development and Research (2016)."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0047::Saúde",
+   "unit_id": "W0047",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. David Hengel",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 14420,
+     "fim_corpo": 15325,
+     "trecho": "This broadband connection enables staff to access and share files seamlessly across the network, and supports iQ Academy Minnesota, an accredited public-school program offering Minnesota students in grades K-12 an innovative, high- quality alternative to the traditional learning experience. Access to healthcare is a critical issue for rural areas, where the lack of physicians, specialists, and diagnostic tools normally found in urban medical centers creates challenges for both patients and medical staff. Telemedicine applications help bridge the divide in rural America, enabling real- time patient consultations and remote monitoring, as well as specialized services such as tele- psychiatry. A small broadband provider in Georgia partnered with the county public school system to deploy telehealth equipment to connect the school nurses’ offices with physicians at a regional hospital."
+    },
+    {
+     "inicio_corpo": 14420,
+     "fim_corpo": 15325,
+     "trecho": "This broadband connection enables staff to access and share files seamlessly across the network, and supports iQ Academy Minnesota, an accredited public-school program offering Minnesota students in grades K-12 an innovative, high- quality alternative to the traditional learning experience. Access to healthcare is a critical issue for rural areas, where the lack of physicians, specialists, and diagnostic tools normally found in urban medical centers creates challenges for both patients and medical staff. Telemedicine applications help bridge the divide in rural America, enabling real- time patient consultations and remote monitoring, as well as specialized services such as tele- psychiatry. A small broadband provider in Georgia partnered with the county public school system to deploy telehealth equipment to connect the school nurses’ offices with physicians at a regional hospital."
+    },
+    {
+     "inicio_corpo": 14714,
+     "fim_corpo": 15597,
+     "trecho": "Access to healthcare is a critical issue for rural areas, where the lack of physicians, specialists, and diagnostic tools normally found in urban medical centers creates challenges for both patients and medical staff. Telemedicine applications help bridge the divide in rural America, enabling real- time patient consultations and remote monitoring, as well as specialized services such as tele- psychiatry. A small broadband provider in Georgia partnered with the county public school system to deploy telehealth equipment to connect the school nurses’ offices with physicians at a regional hospital. Through this partnership, the hospital, the school system, and the rural broadband provider facilitate better healthcare for students who might not otherwise see a physician in an area where parents can ill afford to miss a half or full day of work for a doctor visit."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0047::Urbano e rural",
+   "unit_id": "W0047",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. David Hengel",
+   "n_ocorrencias_no_par": 55,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 49,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural area",
+     "forma_encontrada": "rural area",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 660,
+     "trecho": "Statement by David Hengel Executive Director Greater Bemidji Bemidji, MN Before the United States House of Representatives Committee on Agriculture Subcommittee on Commodity Exchanges, Energy, and Credit Building Opportunity in Rural America through Affordable, Reliable and High-Speed Broadband Washington, DC July 11, 2019 Dave Hengel, Greater Bemidji July 11, 2019 Page 1 of 6 INTRODUCTION AND BACKGROUND Chairman Scott, Ranking Member Scott, and members of the Subcommittee, thank you for this opportunity to testify today on the essential role of high-speed broadband in fostering rural economic development."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 660,
+     "trecho": "Statement by David Hengel Executive Director Greater Bemidji Bemidji, MN Before the United States House of Representatives Committee on Agriculture Subcommittee on Commodity Exchanges, Energy, and Credit Building Opportunity in Rural America through Affordable, Reliable and High-Speed Broadband Washington, DC July 11, 2019 Dave Hengel, Greater Bemidji July 11, 2019 Page 1 of 6 INTRODUCTION AND BACKGROUND Chairman Scott, Ranking Member Scott, and members of the Subcommittee, thank you for this opportunity to testify today on the essential role of high-speed broadband in fostering rural economic development."
+    },
+    {
+     "inicio_corpo": 2512,
+     "fim_corpo": 3430,
+     "trecho": "In only four years, the initiative has trained well over 1,000 job seekers, 80% of whom have been placed in good jobs in our region. Another successful economic development innovation was the creation of Greater Bemidji’s LaunchPad. The LaunchPad is a one-stop-shop for entrepreneurs, providing the co-working space, technical support, financial support, business planning, peer-to-peer mentoring and one-on-one mentoring they need to start their businesses. In its three-year existence, the LaunchPad has spun off 51 new companies. BROADBAND HAS BEEN A CRITICAL COMPONENT OF OUR ECONOMIC DEVELOPMENT The world of economic development has changed dramatically in the last five years. Technology, and more specifically broadband, has been an essential part of our strategy and our success. Broadband has the potential to level the playing field between urban and rural as never before in history."
+    },
+    {
+     "inicio_corpo": 2647,
+     "fim_corpo": 3693,
+     "trecho": "Another successful economic development innovation was the creation of Greater Bemidji’s LaunchPad. The LaunchPad is a one-stop-shop for entrepreneurs, providing the co-working space, technical support, financial support, business planning, peer-to-peer mentoring and one-on-one mentoring they need to start their businesses. In its three-year existence, the LaunchPad has spun off 51 new companies. BROADBAND HAS BEEN A CRITICAL COMPONENT OF OUR ECONOMIC DEVELOPMENT The world of economic development has changed dramatically in the last five years. Technology, and more specifically broadband, has been an essential part of our strategy and our success. Broadband has the potential to level the playing field between urban and rural as never before in history. One could even say that there are two kinds of rural regions in the US – those that have the Dave Hengel, Greater Bemidji July 11, 2019 Page 2 of 6 broadband infrastructure to compete in our new information and innovation economy, and those that do not."
+    },
+    {
+     "inicio_corpo": 2979,
+     "fim_corpo": 3897,
+     "trecho": "In its three-year existence, the LaunchPad has spun off 51 new companies. BROADBAND HAS BEEN A CRITICAL COMPONENT OF OUR ECONOMIC DEVELOPMENT The world of economic development has changed dramatically in the last five years. Technology, and more specifically broadband, has been an essential part of our strategy and our success. Broadband has the potential to level the playing field between urban and rural as never before in history. One could even say that there are two kinds of rural regions in the US – those that have the Dave Hengel, Greater Bemidji July 11, 2019 Page 2 of 6 broadband infrastructure to compete in our new information and innovation economy, and those that do not. In the past, our nation has made bold decisions to ensure our nation’s rural areas are competitive – from ensuring everyone has access to telephone services to building the interstate highway system."
+    },
+    {
+     "inicio_corpo": 3213,
+     "fim_corpo": 4071,
+     "trecho": "Technology, and more specifically broadband, has been an essential part of our strategy and our success. Broadband has the potential to level the playing field between urban and rural as never before in history. One could even say that there are two kinds of rural regions in the US – those that have the Dave Hengel, Greater Bemidji July 11, 2019 Page 2 of 6 broadband infrastructure to compete in our new information and innovation economy, and those that do not. In the past, our nation has made bold decisions to ensure our nation’s rural areas are competitive – from ensuring everyone has access to telephone services to building the interstate highway system. Based on my experience, broadband is the “interstate highway system” of our generation. Without a strong, fiber backbone, rural communities will no doubt be left behind."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0048::Domicílio e arranjo familiar",
+   "unit_id": "W0048",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Neela Mollgaard",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "Family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3060,
+     "fim_corpo": 4003,
+     "trecho": "Red Wing Ignite also received a grant from the Blandin Foundation to focus on broadband adoption. Blandin supports Red Wing with strategic consulting and seed money for broadband-fueled programs. The Blandin Foundation introduced us to the Intelligent Community Forum (ICF) model. The model measures community competitiveness in the broadband economy based on four indicators: ensuring broadband infrastructure, developing a knowledge-based workforce, supporting innovation, redressing the digital divide, and effectively using marketing and advocacy to tell the community’s technology story. Two years ago, Blandin released a report on 5 Minnesota broadband success stories - including Red Wing and Goodhue County. They found that broadband had increased residents’ economic benefit more than $32 million per year (Or $1,850 annual benefit per household with broadband.) Real Estate values had also increased by more than $100 million."
+    },
+    {
+     "inicio_corpo": 6946,
+     "fim_corpo": 7780,
+     "trecho": "We have seen this locally with people choosing to leave urban areas for the benefits of small town living. In response Ignite has created a co-working space, makerspace, business incubator and other resources to meet this need. The strongest network we have - even in the world of fiber is that human network. How We Got Here People ask - how did we get here. I have one word, collaboration. Red Wing Ignite forges partnerships with government, academia, corporate partners and individuals to grow our innovative ecosystem to advance entrepreneurs, businesses and students. I’d like to highlight partners that believe in this work: US Ignite, Blandin Foundation, City of Red Wing, Goodhue County, MN DEED, MN State College SE, Xcel Energy, Red Wing Shoes, Jones Family Foundation, and Southern MN Initiative Foundation."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0048::Educação",
+   "unit_id": "W0048",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Neela Mollgaard",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 305,
+     "fim_corpo": 1061,
+     "trecho": "Introduction I am Neela Mollgaard, the Executive Director of Red Wing Ignite, a hub and facilitator of community innovation located in the small town of Red Wing, Minnesota. Red Wing is nestled along the Bluffs of the Mississippi River only 50 miles from Minneapolis/St.Paul. Red Wing supports a diverse economy of advanced manufacturing, agriculture and tourism. Downtown preservation efforts have resulted in Red Wing being identified as one of the top 25 historic towns to visit in the U.S.A. We have cold winters, lots of eagles, people who work hard and want the best for their kids. Through Ignite, I get to help keep our community competitive. We have built partnerships and initiatives with schools, government, businesses and nonprofits."
+    },
+    {
+     "inicio_corpo": 4206,
+     "fim_corpo": 5163,
+     "trecho": "Broadband is essential but so is an organization like Ignite - bringing opportunity, access and exposure to the skills required in the 21st Century economy. Growing the Talent Pipeline We plant the seed to grow future innovators - the employers of tomorrow. We provide: ● Leadership to create a K-12 career pathways on STEM learning with aligned curriculum and worksite learning to be prepared for future careers. The flight paths focus on four areas: advanced manufacturing, health sciences, business/entrepreneurship and human services. ● College tech internships, that matches college students from the region with businesses needed technology help to advance their business. ● A coder dojo site, is a free, volunteer-led, community-based computer programming clubs for students. ● A collaboration with school districts, our college and manufacturers to provide work site learning and a certification through our local college."
+    },
+    {
+     "inicio_corpo": 4364,
+     "fim_corpo": 5341,
+     "trecho": "Growing the Talent Pipeline We plant the seed to grow future innovators - the employers of tomorrow. We provide: ● Leadership to create a K-12 career pathways on STEM learning with aligned curriculum and worksite learning to be prepared for future careers. The flight paths focus on four areas: advanced manufacturing, health sciences, business/entrepreneurship and human services. ● College tech internships, that matches college students from the region with businesses needed technology help to advance their business. ● A coder dojo site, is a free, volunteer-led, community-based computer programming clubs for students. ● A collaboration with school districts, our college and manufacturers to provide work site learning and a certification through our local college. Tony, a high school senior, participated in our tech entrepreneur class where students solve problems using technology culminating with the opportunity to pitch to investors."
+    }
+   ]
+  }
+ ]
+}

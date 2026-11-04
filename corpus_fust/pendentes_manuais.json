@@ -1,0 +1,24 @@
+[
+  {
+    "url": "http://legis.senado.leg.br/sdleg-getter/documento?dm=3914102",
+    "descricao": "Senado / processo",
+    "motivo": "desafio anti-bot (sdleg-getter)"
+  },
+  {
+    "url": "http://legis.senado.leg.br/sdleg-getter/documento?dm=3914102",
+    "descricao": "Senado / documento",
+    "motivo": "desafio anti-bot (sdleg-getter)"
+  },
+  {
+    "url": "http://legis.senado.leg.br/diarios/BuscaDiario?tipDiario=1&datDiario=28/06/2000&paginaDireta=13935",
+    "descricao": "DSF da sessão de 2000-06-27 (leitura do Parecer 712/2000-CI)",
+    "motivo": "BuscaDiario não resolveu codDiario (404 ou corpo sem o bloco 'var diario'; pode ser edição/suplemento que esse endpoint de busca por página não indexa -- ver achado da pág. 13935/27-06)",
+    "tentativas_2026-10-07": "Hipotese testada: conteudo de 27/06 sairia no Diario publicado em 28/06 (armadilha 21). Falsa ao testar -- o DSF publicado em 28/06 que ja temos (DSF-107-55, codigo=7007) cobre a SESSAO de 28/06 (publicada em 29/06), nao a sessao de 27/06. As paginas reais dos pronunciamentos de 27/06 (13826-13935) ficam ABAIXO da faixa do DSF-107 (13999-14145) -- e um Diario diferente e anterior (provavelmente DSF 106/2000). Tentei resolver via BuscaDiario com as 14 paginas conhecidas dessa sessao, datDiario=28/06/2000: as 14 deram 404. Resolucao desse Diario especifico continua em aberto."
+  },
+  {
+    "url": "<sem URL componível> DOFC 2000-08-18 pág. [1, 18]",
+    "descricao": "Diário DOFC de 2000-08-18",
+    "motivo": "série DOFC não segue o padrão de nome da Câmara; baixar à mão pela Imprensa Nacional",
+    "tentativas_2026-10-07": "DOU: tentado o portal in.gov.br (leiturajornal + busca), responde (200, HTML real da Imprensa Nacional), mas busca por 18-08-2000 devolve jsonArray vazio (provavel lacuna de digitalizacao pra esse periodo no portal atual) e o endpoint Hydra documentado (/o/api/doc) foi rejeitado por protecao de bot. MSG 1109/2000: tentado congressonacional.leg.br/materias/vetos, sem nenhuma entrada de 2000 (provavelmente so lista vetos recentes). Nenhuma das duas rotas resolveu; continua manual."
+  }
+]

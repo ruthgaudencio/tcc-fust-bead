@@ -1,0 +1,1114 @@
+{
+ "caso": "BEAD",
+ "lote": 46,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0195::Raça e etnia",
+   "unit_id": "W0195",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Denny Law",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "minority",
+     "forma_encontrada": "Minority",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 36751,
+     "fim_corpo": 37723,
+     "trecho": "A concerted effort by industry and government will likely be needed to develop a skilled workforce able to deploy next generation wired and wireless networks. To develop the telecommunications jobs needed, Congress could help by bolstering the capabilities of institutions of higher education and other institutions and providing support for employers to expand registered apprenticeships and associated technical instruction and certification costs. Several legislative proposals, including Senator Thune's Telecommunications Skilled Workforce Act, which would establish an interagency working group to develop telecommunications industry workforce solutions, or Senators Wicker and Sinema's Improving Minority Participation and Careers in Telecommunications Act to address this need by awarding grants to Historically Black Colleges and Universities and Tribal Colleges and Universities for workforce training, could go a long way in achieving this goal."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0195::Saúde",
+   "unit_id": "W0195",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Denny Law",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 831,
+     "trecho": "STATEMENT OF DENNY LAW, CHIEF EXECUTIVE OFFICER, GOLDEN WEST TELECOMMUNICATIONS COOPERATIVE, INC. Mr. Law. Thank you, Chairman Lujan, Ranking Member Thune, members of the Subcommittee. Thank you for this opportunity to participate in today's hearing on network resiliency. For over a century, Golden West has provided communications services to rural South Dakota. Today, we have more than 30,000 accounts, located across a geographic area, the size of Maryland, New Jersey, Connecticut, and Delaware combined. That is fewer than 2 customers per square mile. In addition to robust service for consumers and businesses within our territory, we serve several Tribal reservations, numerous anchor institutions, including schools and hospitals, VA facilities, and five Public Safety Answering Points."
+    },
+    {
+     "inicio_corpo": 5192,
+     "fim_corpo": 6134,
+     "trecho": "I am Denny Law, Chief Executive Officer of Golden West Telecommunications Cooperative, Inc. in Wall, South Dakota. For over a century, Golden West and its subsidiaries have provided communications services to rural South Dakota, starting in 1916 with the stringing of a telephone line along fence posts. Today, Golden West has more than 30,000 accounts, including 29,000 broadband subscribers and nearly 9,000 cable television customers. Our customers are located across 24,500 square miles--an area approximately the size of Maryland, New Jersey, Connecticut, and Delaware combined--which equates to fewer than 2 customers per square mile. In addition to robust service for consumers and businesses within our territory, we serve numerous anchor institutions, including 73 K-12 schools, 62 health clinics and hospitals, 20 libraries, five Veterans Administration facilities, and five Public Safety Answering Points (PSAPs)."
+    },
+    {
+     "inicio_corpo": 10117,
+     "fim_corpo": 11112,
+     "trecho": "Network Resiliency Starts with Smart Network Investment As an initial matter, networks must address the rising demand of consumers' bandwidth needs and be easily scalable to meet that demand. The COVID-19 pandemic has underscored the essential nature of high- speed download and upload connectivity for every American, whether at work or at home. For years, small rural community-based providers like Golden West have seen that high-speed broadband facilitates so much more than just downstream applications like streaming video entertainment, and the value of these other uses (and a network capable of supporting them) have been recognized and realized more widely now during the pandemic. Indeed, many Americans now realize the importance of robust broadband in connecting with a doctor without traveling to the medical office or hospital and for students to continue their education even when the classroom is hundreds of miles away or just right down the street but closed."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0195::Urbano e rural",
+   "unit_id": "W0195",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Denny Law",
+   "n_ocorrencias_no_par": 57,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 51,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 392,
+     "trecho": "STATEMENT OF DENNY LAW, CHIEF EXECUTIVE OFFICER, GOLDEN WEST TELECOMMUNICATIONS COOPERATIVE, INC. Mr. Law. Thank you, Chairman Lujan, Ranking Member Thune, members of the Subcommittee. Thank you for this opportunity to participate in today's hearing on network resiliency. For over a century, Golden West has provided communications services to rural South Dakota."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1071,
+     "trecho": "STATEMENT OF DENNY LAW, CHIEF EXECUTIVE OFFICER, GOLDEN WEST TELECOMMUNICATIONS COOPERATIVE, INC. Mr. Law. Thank you, Chairman Lujan, Ranking Member Thune, members of the Subcommittee. Thank you for this opportunity to participate in today's hearing on network resiliency. For over a century, Golden West has provided communications services to rural South Dakota. Today, we have more than 30,000 accounts, located across a geographic area, the size of Maryland, New Jersey, Connecticut, and Delaware combined. That is fewer than 2 customers per square mile. In addition to robust service for consumers and businesses within our territory, we serve several Tribal reservations, numerous anchor institutions, including schools and hospitals, VA facilities, and five Public Safety Answering Points. Golden 111--The Rural Broadband Association, which represents approximately 850 rural, community-based carriers like Golden West that offer advanced communications services throughout the most sparsely populated areas of the Nation."
+    },
+    {
+     "inicio_corpo": 113,
+     "fim_corpo": 1071,
+     "trecho": "Mr. Law. Thank you, Chairman Lujan, Ranking Member Thune, members of the Subcommittee. Thank you for this opportunity to participate in today's hearing on network resiliency. For over a century, Golden West has provided communications services to rural South Dakota. Today, we have more than 30,000 accounts, located across a geographic area, the size of Maryland, New Jersey, Connecticut, and Delaware combined. That is fewer than 2 customers per square mile. In addition to robust service for consumers and businesses within our territory, we serve several Tribal reservations, numerous anchor institutions, including schools and hospitals, VA facilities, and five Public Safety Answering Points. Golden 111--The Rural Broadband Association, which represents approximately 850 rural, community-based carriers like Golden West that offer advanced communications services throughout the most sparsely populated areas of the Nation."
+    },
+    {
+     "inicio_corpo": 206,
+     "fim_corpo": 1272,
+     "trecho": "Thank you for this opportunity to participate in today's hearing on network resiliency. For over a century, Golden West has provided communications services to rural South Dakota. Today, we have more than 30,000 accounts, located across a geographic area, the size of Maryland, New Jersey, Connecticut, and Delaware combined. That is fewer than 2 customers per square mile. In addition to robust service for consumers and businesses within our territory, we serve several Tribal reservations, numerous anchor institutions, including schools and hospitals, VA facilities, and five Public Safety Answering Points. Golden 111--The Rural Broadband Association, which represents approximately 850 rural, community-based carriers like Golden West that offer advanced communications services throughout the most sparsely populated areas of the Nation. We operate in deeply rural markets where the cost of deploying and operating networks is high and a tailored approach to managing risk and resiliency, as necessary, to create sustainable networks."
+    },
+    {
+     "inicio_corpo": 1669,
+     "fim_corpo": 2428,
+     "trecho": "Golden West has also invested in physically diverse fiber routes, connecting to each of our network offices, coupled with redundant electronics with multiple connections to prevent large numbers of customers from being isolated from Golden West's local networks. We have also established connections to statewide fiber networks that provide middle mile transport and added redundant connections to separate Internet points of presence where possible. To mitigate the cost of purchasing this capacity from larger regional or national carriers, SDN Communications--an entity owned by Golden West--and a number of other small community-based providers in South Dakota enables connectivity between rural South Dakota and the rest of the world."
+    },
+    {
+     "inicio_corpo": 1669,
+     "fim_corpo": 2527,
+     "trecho": "Golden West has also invested in physically diverse fiber routes, connecting to each of our network offices, coupled with redundant electronics with multiple connections to prevent large numbers of customers from being isolated from Golden West's local networks. We have also established connections to statewide fiber networks that provide middle mile transport and added redundant connections to separate Internet points of presence where possible. To mitigate the cost of purchasing this capacity from larger regional or national carriers, SDN Communications--an entity owned by Golden West--and a number of other small community-based providers in South Dakota enables connectivity between rural South Dakota and the rest of the world. SDN was created 30 years ago to connect rural markets to better long distance telephone service."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0195::Vínculo institucional",
+   "unit_id": "W0195",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Denny Law",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "Veterans",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5192,
+     "fim_corpo": 6134,
+     "trecho": "I am Denny Law, Chief Executive Officer of Golden West Telecommunications Cooperative, Inc. in Wall, South Dakota. For over a century, Golden West and its subsidiaries have provided communications services to rural South Dakota, starting in 1916 with the stringing of a telephone line along fence posts. Today, Golden West has more than 30,000 accounts, including 29,000 broadband subscribers and nearly 9,000 cable television customers. Our customers are located across 24,500 square miles--an area approximately the size of Maryland, New Jersey, Connecticut, and Delaware combined--which equates to fewer than 2 customers per square mile. In addition to robust service for consumers and businesses within our territory, we serve numerous anchor institutions, including 73 K-12 schools, 62 health clinics and hospitals, 20 libraries, five Veterans Administration facilities, and five Public Safety Answering Points (PSAPs)."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0196::Administração pública",
+   "unit_id": "W0196",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Harold Feld",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11730,
+     "fim_corpo": 12641,
+     "trecho": "As we saw in the aftermath of Hurricane Maria, restoring service to islands presents a set of challenges not shared by mainland communities. This includes reliance on undersea cables, which may be damaged in a disaster, and the high cost of transporting equipment and supplies to the impacted area. Extreme temperatures in desert Tribal lands can range in excess of 59 degrees in a day.\\8\\ The stress these temperature swings put on networks creates challenges for maintaining connectivity and requires additional hardening to withstand these ranges. Additionally, challenges exist in communities where terrain such as mountains or forests may hamper post-disaster restoration efforts, or in sparsely populated rural areas. In urban areas, it is imperative that providers and local governments invest equally in traditionally marginalized communities such as minority and low-income neighborhoods."
+    },
+    {
+     "inicio_corpo": 45376,
+     "fim_corpo": 46397,
+     "trecho": "Make Federal and state assets available in disaster recovery. Permit and encourage the Federal government and state governments to make available in an emergency communications resources such as fiber, spectrum, operating government networks, or other assets to communications providers to restore communications to the general public. 6. Fund network upgrades that promote reliability. Provide Federal money to pay for necessary upgrades to communications networks to enhance reliability. In particular, provide funding to replace aging copper networks with modern fiber networks built to modern resiliency standards. Where legacy carriers wish to retire their copper networks without replacement, create incentives to sell these networks to alternative providers (including state or local governments, community anchor institutions, and cooperatives) willing to provide wireline service."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0196::Domicílio e arranjo familiar",
+   "unit_id": "W0196",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Harold Feld",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 455,
+     "trecho": "STATEMENT OF HAROLD FELD, SENIOR VICE PRESIDENT, PUBLIC KNOWLEDGE Mr. Feld. Thank you, Chairman Lujan, Ranking Member Thune. Thank you for inviting me to testify today on this important subject. As our economy and society have gone digital, our dependence on our communications networks has increased exponentially. Some of us may remember a time growing up, when the whole family shared a single telephone line."
+    },
+    {
+     "inicio_corpo": 230,
+     "fim_corpo": 1276,
+     "trecho": "As our economy and society have gone digital, our dependence on our communications networks has increased exponentially. Some of us may remember a time growing up, when the whole family shared a single telephone line. Today, nearly all of us have cell phones, sometimes more than one. And our digital communication does not stop there. At any given time, parents may be working remotely, while their children attend different virtual classrooms. Even our houses and devices may depend on constant connection with the Internet to function properly. But as our dependence on constant connectivity has grown, our networks have become more fragile. Those who grew up with the one telephone line to the home, will remember that it worked regularly and reliably, every time you called someone. Even in a blackout, as long as the copper lines remained connected, you could call family to make sure everyone was all right, call 911 if you had an emergency, and call the power company to ask how long until the power came back on."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0196::Educação",
+   "unit_id": "W0196",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Harold Feld",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 25946,
+     "fim_corpo": 26734,
+     "trecho": "Today, however, mobile networks and IP-based networks have long displaced traditional copper as the primary communications networks for the majority of the public.\\16\\ Indeed, it has become our national policy to sunset the traditional PSTN and transition to an all IP-based communications network. Additionally, the services that used to be considered secondary to voice, such as video communications and data transmission, have now become critically important. In 2002, when a peering dispute between Cogent and America Online caused a severe slowdown of Internet traffic in the D.C. region, it was an inconvenience.\\17\\ Today, a comparable slowdown of Internet traffic to the D.C. region would result in severe impacts on schools, businesses, and government operations."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0196::Escolaridade e letramento",
+   "unit_id": "W0196",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Harold Feld",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "student",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5927,
+     "fim_corpo": 6876,
+     "trecho": "In disasters, the ability of first responders to communicate instantly with the public and with each other can mean the difference between life and death.\\1\\ In theory, upgrading our Nation's communications networks to Internet protocol (IP) should enhance resiliency because the protocol allows information to be broken up into packets, transmitted across multiple networks using different physical media (such as fiber and wireless), and reassembled at the endpoint. The protocol also establishes and confirms that packets are sent and received, and provides mechanisms for adjusting to congestion. --------------------------------------------------------------------------- \\1\\ Lisa Krieger, 911 Failure During California Wildfire Prompt Changes, The Mercury News, June 2019 (``When lives are at risk, communication is critical, said Christina Taft, 25, a business student at CSU Chico who lost her mother, Victoria, in the fire."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0196::Idade",
+   "unit_id": "W0196",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Harold Feld",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "SENIOR",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 103,
+     "trecho": "STATEMENT OF HAROLD FELD, SENIOR VICE PRESIDENT, PUBLIC KNOWLEDGE Mr."
+    },
+    {
+     "inicio_corpo": 4481,
+     "fim_corpo": 5447,
+     "trecho": "Prioritize restoration of communications networks and establish agreed upon metrics to measure reliability. Fund network upgrades to improve reliability and permit governments to make communications assets, such as fiber inspection available to avert outages and to assist network recovery. To conclude, network resilience does not happen on its own. When something is everyone's general responsibility, it is no one's actual responsibility. We must upgrade our rules as we upgrade our networks to provide to all Americans, communications networks that will be there whenever we need them, whatever the emergency. Thank you and I am happy to take any questions, at this time. [The prepared statement of Mr. Feld follows:] [...] Prepared Statement of Harold Feld, Senior Vice President, Public Knowledge Chairman Lujan, Ranking Member Thune: Thank you for inviting me to testify on this important topic."
+    },
+    {
+     "inicio_corpo": 4591,
+     "fim_corpo": 5735,
+     "trecho": "Fund network upgrades to improve reliability and permit governments to make communications assets, such as fiber inspection available to avert outages and to assist network recovery. To conclude, network resilience does not happen on its own. When something is everyone's general responsibility, it is no one's actual responsibility. We must upgrade our rules as we upgrade our networks to provide to all Americans, communications networks that will be there whenever we need them, whatever the emergency. Thank you and I am happy to take any questions, at this time. [The prepared statement of Mr. Feld follows:] [...] Prepared Statement of Harold Feld, Senior Vice President, Public Knowledge Chairman Lujan, Ranking Member Thune: Thank you for inviting me to testify on this important topic. My name is Harold Feld and I am the Senior Vice President of Public Knowledge, an organization that is celebrating its 20th anniversary this year, and is dedicated to promoting freedom of expression, an open internet, and access to affordable communications tools and creative works."
+    },
+    {
+     "inicio_corpo": 23100,
+     "fim_corpo": 24319,
+     "trecho": "As networks evolved, new companies emerged capable of managing PSAPs on multiple networks. Packet switching allowed carriers to employ multiple routes for the same transmission instead of relying on and using a single circuit for each call. It also allowed them to outsource routing to specialized companies that could find the most efficient and least expensive routes. New services, such as video and geolocation, were easy and cheap to support when compared to the traditional regulated public switched telephone network (PSTN). Best efforts allowed these technologies to grow and proliferate. These advantages also gave rise to significant issues. First, packet-switched technologies and mobile technologies are not self- powered. When the power goes out, communications stop. But as recently as 2019, the Senior Director of Emergency Preparedness for California's electric utility PG&E advised people to use landlines to communicate during power blackouts without any apparent awareness that modern landlines are not self-powered.\\14\\ Networks have grown so complex that even the companies themselves cannot predict how a failure in one part of the network impacts another part of the network."
+    },
+    {
+     "inicio_corpo": 23895,
+     "fim_corpo": 24915,
+     "trecho": "But as recently as 2019, the Senior Director of Emergency Preparedness for California's electric utility PG&E advised people to use landlines to communicate during power blackouts without any apparent awareness that modern landlines are not self-powered.\\14\\ Networks have grown so complex that even the companies themselves cannot predict how a failure in one part of the network impacts another part of the network. Nor is it clear whether a service is being provided by the carrier itself or by a contractor. This can make it difficult to trace the source of an outage, or take the needed steps to resolve the outage.\\15\\ --------------------------------------------------------------------------- \\14\\ Jonathan J. Cooper and Julliet Williams, Anger Grows as Utility Struggles to Get Its Blackouts Right, Associated Press (Oct. 31, 2019) (quoting PG&E Senior Vice President for Disaster Recovery as urging people to get blackout information ``the old fashioned way, through calling on a landline'')."
+    },
+    {
+     "inicio_corpo": 51142,
+     "fim_corpo": 52156,
+     "trecho": "And certainly, I agree with the statement that many energy grids are in desperate need of maintenance and repair. However, effective disaster response requires redundancy. It is important to anticipate failures and prepare accordingly. Do you believe the FCC states should regularly--I am sorry. Do you believe the FCC and states should regularly evaluate whether essential telecommunication networks are sufficiently resilient, to continue providing essential communication services during catastrophic events? Mr. Adelstein. Yes, I think it is very important that the regulators keep a close eye on the resiliency and redundancy networks. When it comes to redundancy, more network deployment leads to more resiliency, to your earlier question. That is what the BDAC actually concluded at the FCC. I think it is important that, when you think about, you know, resilient networks that, you know, in the case of wireless networks, if one node goes out, it can be rerouted traffic to another."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0196::Infraestrutura e porte populacional",
+   "unit_id": "W0196",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Harold Feld",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 49641,
+     "fim_corpo": 50476,
+     "trecho": "The second item is its scalability. And so, we still use fiber that was--was deployed in the 1990s, in the early 2000s to 2010s. Throughout all of that, fiber has proven to be a very resilient medium to deploy, upgrade, and scale throughout those times and we have not needed to replace it, in some cases going on 30+ years. So, fiber has been a great benefit for rural customers, such as those served by Golden West. Senator Lujan. Can Congress support providers like yours in constructing future-proof networks that meet the highest standards of resiliency by passing an infrastructure package that would allow more investment in these areas? Mr. Law. I think, certainly, an infrastructure package would be a great start, in terms of continuing to expand and deploy broadband into rural and underserved areas."
+    },
+    {
+     "inicio_corpo": 62387,
+     "fim_corpo": 63395,
+     "trecho": "Great, but staggering amounts. There has to be follow up. The FCC is equipped to do that. I do not believe there are other Federal agencies that are adequately equipped, in the broadband field, to have that capability. Mr. Adelstein. And I would certainly agree that, if we are going to have multiple agencies having funding, you have got to make sure you avoid overbuilding. You have to have some kind of--if Congress is going to provide funding to multiple agencies, that there by some kind of a coordinating mechanism that is made within the legislation itself, to ensure that there is proper coordination and that there is not any overbuilding, particularly over other fellow programs, but certainly over existing networks. Limited resources need to go to truly unserved areas and there have to be good maps in place to get that done. Senator Thune. Thank you. Thank you, Mr. Chairman. Senator Lujan. Thank you, Mr. Thune. Senator Klobuchar, you are recognized for five minutes."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0196::Macrorregião",
+   "unit_id": "W0196",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Harold Feld",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Puerto Rico",
+     "forma_encontrada": "Puerto Rico",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13409,
+     "fim_corpo": 14357,
+     "trecho": "Widespread deregulation of IP-based services at the state level and by the Federal Communications Commission (FCC) has had the unintended consequence of muddying the overall authority of the agency and the states to ensure network reliability as they traditionally did for the analog phone network. Additionally, post-disaster restoration of modern communications networks requires coordination across multiple industries, Federal agencies, and local authorities, further diluting the ability of a single agency such as the FCC to address these resiliency problems without new Congressional authority. A GAO report released this month found that the failure of the Department of Homeland Security (DHS) to clarify the FCC's role in network restoration post-disaster significantly impeded the restoration of communications networks in Puerto Rico.\\9\\ Disaster relief has not traditionally prioritized restoration of communications."
+    },
+    {
+     "inicio_corpo": 55566,
+     "fim_corpo": 56572,
+     "trecho": "However, the USF contribution factor is now above 30 percent for the first time, which puts at risk the ability of the USF to ensure predictable and sufficient support, as required by law. It is for that reason that I introduced the Rural Connectivity Advancement Program Act, which would help strengthen connectivity in rural areas by providing funding for both the build out of networks, and to support the sustainability of those networks. Can you speak to the importance of the USF continuing to provide reliable support for companies, like Golden West, over the long run? And if that funding went away, what effect would that have on your customers? Mr. Law. Thank you, Ranking Member Thune. Absolutely. Universal Service Funding has been foundational to the broadband build out in much of rural America. I can specifically speak for the entirety of Golden West service territory, which I mentioned is about the size of Maryland, New Jersey, Connecticut, and Delaware combined."
+    },
+    {
+     "inicio_corpo": 56235,
+     "fim_corpo": 57310,
+     "trecho": "Mr. Law. Thank you, Ranking Member Thune. Absolutely. Universal Service Funding has been foundational to the broadband build out in much of rural America. I can specifically speak for the entirety of Golden West service territory, which I mentioned is about the size of Maryland, New Jersey, Connecticut, and Delaware combined. Quite frankly, we could not have built out the broadband network that we have to date, and will continue to build, without the support of Universal Service funding, now and in the future. Both in terms of affordability, but as well as sustainability for networks. I applaud your efforts, as it relates to putting the Universal Service Funding on a sound financial footing, because that is in question. When you start seeing contribution to rates to fund something in the 30 percent territory, I think your draft legislation would do a lot, in terms of providing additional funding that would, perhaps, take the pressure off of the primary funding over periods of time, depending on the needs of the Universal Service Fund."
+    },
+    {
+     "inicio_corpo": 60182,
+     "fim_corpo": 61069,
+     "trecho": "I would echo my colleague Mr. Adelstein's comments. I also would strongly urge there be a streamlining of the permitting process for access of Federal lands, both in terms of the processing, the forms, and also, I will tell you, in terms of the visibility into the process. I will tell you, Golden West has several projects ongoing, across various Federal lands this year. And when you make those applications for rights of way, each agency, A, handles them differently, B, there is no way for a provider to have any idea, short of repeated phone calls or e-mails that may or may not get answered, about what is the status of our application. In South Dakota, for example, with a 5-month construction window, if we do not have an answer in a April-May-June territory, receiving an answer that we can do it in November does us no good, nor will it do customers any good."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0196::Posição no trabalho",
+   "unit_id": "W0196",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Harold Feld",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 58375,
+     "fim_corpo": 59218,
+     "trecho": "And those areas require these networks for emergency response. I mean, you have fires. You know, we see what is happening right now and what happened in Black Hills recently. We have got to have access to those lands and the FCC--I chaired a working group that came up with an entire report. For many years we have been trying to get these things implemented. Administration after administration, we have not been able to get it done. So, I think, you know, it is time for legislation to require Federal agencies to, basically, treat wireless on Federal lands like they would, you know, in the--like we would in the private sector, where we can get long term leases, where we can get access, where we can get these things expedited. Because it not only protects the public, but it protects Federal--Federal workers, as well."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0196::Raça e etnia",
+   "unit_id": "W0196",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Harold Feld",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "minority",
+     "forma_encontrada": "minority",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11730,
+     "fim_corpo": 12641,
+     "trecho": "As we saw in the aftermath of Hurricane Maria, restoring service to islands presents a set of challenges not shared by mainland communities. This includes reliance on undersea cables, which may be damaged in a disaster, and the high cost of transporting equipment and supplies to the impacted area. Extreme temperatures in desert Tribal lands can range in excess of 59 degrees in a day.\\8\\ The stress these temperature swings put on networks creates challenges for maintaining connectivity and requires additional hardening to withstand these ranges. Additionally, challenges exist in communities where terrain such as mountains or forests may hamper post-disaster restoration efforts, or in sparsely populated rural areas. In urban areas, it is imperative that providers and local governments invest equally in traditionally marginalized communities such as minority and low-income neighborhoods."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0196::Renda e classe",
+   "unit_id": "W0196",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Harold Feld",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11730,
+     "fim_corpo": 12641,
+     "trecho": "As we saw in the aftermath of Hurricane Maria, restoring service to islands presents a set of challenges not shared by mainland communities. This includes reliance on undersea cables, which may be damaged in a disaster, and the high cost of transporting equipment and supplies to the impacted area. Extreme temperatures in desert Tribal lands can range in excess of 59 degrees in a day.\\8\\ The stress these temperature swings put on networks creates challenges for maintaining connectivity and requires additional hardening to withstand these ranges. Additionally, challenges exist in communities where terrain such as mountains or forests may hamper post-disaster restoration efforts, or in sparsely populated rural areas. In urban areas, it is imperative that providers and local governments invest equally in traditionally marginalized communities such as minority and low-income neighborhoods."
+    },
+    {
+     "inicio_corpo": 45934,
+     "fim_corpo": 46883,
+     "trecho": "In particular, provide funding to replace aging copper networks with modern fiber networks built to modern resiliency standards. Where legacy carriers wish to retire their copper networks without replacement, create incentives to sell these networks to alternative providers (including state or local governments, community anchor institutions, and cooperatives) willing to provide wireline service. Additionally, Federal grant programs that fund deployment should include mandatory reliability metrics. 7. FCC studies that address the specialized needs of specific communities. Require the FCC to report to Congress on the special needs of island communities, geographically isolated communities, Tribal lands, low-income and traditionally marginalized communities of color, and communities in environmentally sensitive areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0196::Territórios de povos e comunidades tradicionais",
+   "unit_id": "W0196",
+   "subcategoria": "Territórios de povos e comunidades tradicionais",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.5",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Harold Feld",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Tribal governments",
+     "forma_encontrada": "Tribal governments",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "Tribal lands",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "Tribal lands",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "Tribal lands",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "Tribal lands",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3487,
+     "fim_corpo": 4481,
+     "trecho": "Legacy carriers are retiring their copper networks. Wireless providers are shutting off their 3G networks and deploying 5G. States and Congress are currently debating how to close the digital divide and bring affordable high-speed broadband to all Americans. Legislation providing the necessary reliability framework and resources can ensure that these new networks will be resilient, reliable, redundant, and sustainable. My written testimony includes multiple recommendations for Congressional action. To highlight the most important here-- first, require the FCC to make outage data publicly available and to publish report after every major outage. Both markets and policymakers need information and, right now, there is a dearth of that in the market. Clearly empower and require the FCC, State governments, and Tribal governments to make rules and set standards for communications network reliability, including onsite power backup, and backup power in the home."
+    },
+    {
+     "inicio_corpo": 10904,
+     "fim_corpo": 11730,
+     "trecho": "23, 2020. \\7\\ Kristina Panos, DSL is Hanging on the Line as Telcos Stop Selling New Service, Hackaday, Oct. 29, 2020. In re Technology Transitions, Policies and Rules Governing Retirement of Copper Loops by Incumbent Local Exchange Carriers, Special Access for Price Cap Local Exchange Carriers AT&T Corporation Petition for Rulemaking to Reform Regulation of Incumbent Local Exchange Carrier Rates for Interstate Special Access Services, WC Docket No. 05-25, GN Docket No. 13-5 RM- 11358 RM-10593, Report and Order, Further Notice of Proposed Rulemaking, and Order on Reconsideration, 30 FCC Rcd 9372 (2015) at 90-92. --------------------------------------------------------------------------- In addition to these nationwide problems, specific geographic areas and Tribal lands may face unique challenges."
+    },
+    {
+     "inicio_corpo": 11367,
+     "fim_corpo": 12289,
+     "trecho": "05-25, GN Docket No. 13-5 RM- 11358 RM-10593, Report and Order, Further Notice of Proposed Rulemaking, and Order on Reconsideration, 30 FCC Rcd 9372 (2015) at 90-92. --------------------------------------------------------------------------- In addition to these nationwide problems, specific geographic areas and Tribal lands may face unique challenges. As we saw in the aftermath of Hurricane Maria, restoring service to islands presents a set of challenges not shared by mainland communities. This includes reliance on undersea cables, which may be damaged in a disaster, and the high cost of transporting equipment and supplies to the impacted area. Extreme temperatures in desert Tribal lands can range in excess of 59 degrees in a day.\\8\\ The stress these temperature swings put on networks creates challenges for maintaining connectivity and requires additional hardening to withstand these ranges."
+    },
+    {
+     "inicio_corpo": 11873,
+     "fim_corpo": 12804,
+     "trecho": "This includes reliance on undersea cables, which may be damaged in a disaster, and the high cost of transporting equipment and supplies to the impacted area. Extreme temperatures in desert Tribal lands can range in excess of 59 degrees in a day.\\8\\ The stress these temperature swings put on networks creates challenges for maintaining connectivity and requires additional hardening to withstand these ranges. Additionally, challenges exist in communities where terrain such as mountains or forests may hamper post-disaster restoration efforts, or in sparsely populated rural areas. In urban areas, it is imperative that providers and local governments invest equally in traditionally marginalized communities such as minority and low-income neighborhoods. Tribal authorities need to be empowered and resourced to restore communications on Tribal lands and to coordinate as equals with state and Federal authorities."
+    },
+    {
+     "inicio_corpo": 45934,
+     "fim_corpo": 46883,
+     "trecho": "In particular, provide funding to replace aging copper networks with modern fiber networks built to modern resiliency standards. Where legacy carriers wish to retire their copper networks without replacement, create incentives to sell these networks to alternative providers (including state or local governments, community anchor institutions, and cooperatives) willing to provide wireline service. Additionally, Federal grant programs that fund deployment should include mandatory reliability metrics. 7. FCC studies that address the specialized needs of specific communities. Require the FCC to report to Congress on the special needs of island communities, geographically isolated communities, Tribal lands, low-income and traditionally marginalized communities of color, and communities in environmentally sensitive areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0196::Urbano e rural",
+   "unit_id": "W0196",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Harold Feld",
+   "n_ocorrencias_no_par": 15,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 9,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2232,
+     "fim_corpo": 3255,
+     "trecho": "The FCC has systemically divested itself of its authority to take the necessary leadership role by refusing to clarify the regulatory status of interconnected voiceover IP carriers, and by reclassifying broadband as a Title I information service. The FCC has rolled back its cybersecurity initiatives, at times claiming that it lacks authority to even consider cybersecurity. As a GAO report published last April 29 found, the FCC's role in restoring telecommunications networks remains unclear. This can create confusion in post-disaster situations over how to allocate resources, such as generators and fuel. Congress alone can resolve this confusion by creating clear priorities and clear lines of authority. None of this means returning to the days of monopoly network. To the contrary, competition among networks creates much needed redundancy. In small and rural markets that cannot support competition, we should be willing to invest public money to create the needed level of redundancy."
+    },
+    {
+     "inicio_corpo": 8615,
+     "fim_corpo": 9437,
+     "trecho": "at 10. See also Mariah Timms, AT&T Outage: Internet, 911 Disrupted, Planes Grounded, After Nashville Explosion, Nashville Tennessean (January 5, 2021). --------------------------------------------------------------------------- Unfortunately, outages can occur as a consequence of technical issues and carrier neglect, as well as from external events. In 2014, a ``preventable coding error'' in a single router in Washington State resulted in a 911 failure covering more than 11 million people.\\5\\ In 2020, a server failure in Georgia resulted in a multi-state blackout of T-Mobile's network.\\6\\ In other places, carriers have allowed legacy infrastructure to rot.\\7\\ In too many rural areas and small towns in America, people cannot reliably reach 911 on a good day, let alone in the wake of a catastrophe."
+    },
+    {
+     "inicio_corpo": 11730,
+     "fim_corpo": 12465,
+     "trecho": "As we saw in the aftermath of Hurricane Maria, restoring service to islands presents a set of challenges not shared by mainland communities. This includes reliance on undersea cables, which may be damaged in a disaster, and the high cost of transporting equipment and supplies to the impacted area. Extreme temperatures in desert Tribal lands can range in excess of 59 degrees in a day.\\8\\ The stress these temperature swings put on networks creates challenges for maintaining connectivity and requires additional hardening to withstand these ranges. Additionally, challenges exist in communities where terrain such as mountains or forests may hamper post-disaster restoration efforts, or in sparsely populated rural areas."
+    },
+    {
+     "inicio_corpo": 31534,
+     "fim_corpo": 32599,
+     "trecho": "--------------------------------------------------------------------------- \\24\\ Accelerating Wireline Broadband Deployment by Removing Barriers to Infrastructure Investment, Report and Order, Declaratory Ruling, and Further Notice of Rulemaking, WC Docket. No. 17-84, 32 FCC Rcd 11128 (2017); Accelerating Wireline Broadband Deployment by Removing Barriers to Infrastructure Investment, Second Report and Order, WC Docket No. 17-84, 33 FCC Rcd 5660 (2018). --------------------------------------------------------------------------- Unfortunately, the FCC is not alone in deregulating even the legacy telephone network. The majority of the states have broadly deregulated their legacy telephone networks as well as IP-based networks. Those states that have investigated after deregulation have found that legacy networks have fallen into widespread disrepair--particularly in rural areas.\\25\\ Many of these rural areas lack cable systems or wireless networks; when the legacy copper stops working, communications in these regions simply stops."
+    },
+    {
+     "inicio_corpo": 31798,
+     "fim_corpo": 32599,
+     "trecho": "No. 17-84, 32 FCC Rcd 11128 (2017); Accelerating Wireline Broadband Deployment by Removing Barriers to Infrastructure Investment, Second Report and Order, WC Docket No. 17-84, 33 FCC Rcd 5660 (2018). --------------------------------------------------------------------------- Unfortunately, the FCC is not alone in deregulating even the legacy telephone network. The majority of the states have broadly deregulated their legacy telephone networks as well as IP-based networks. Those states that have investigated after deregulation have found that legacy networks have fallen into widespread disrepair--particularly in rural areas.\\25\\ Many of these rural areas lack cable systems or wireless networks; when the legacy copper stops working, communications in these regions simply stops."
+    },
+    {
+     "inicio_corpo": 37367,
+     "fim_corpo": 38181,
+     "trecho": "The humor of this delightful irony will, alas, be of small comfort in the event our communications infrastructure is subverted by state-sponsored hackers or criminals seeking ransomware. II. Unregulated Markets Are Not Capable of Adequately Protecting Resiliency Carriers and proponents of deregulation have justified the risk to public safety by arguing that carrier's have sufficient financial incentive to invest in resilience and reliability.\\30\\ There are several problems with this. First, empirical evidence clearly contradicts this hypothesis. As noted above, the number of outages and the length of outages have both increased with deregulation--not decreased. Rural communities have seen legacy networks degrade and disappear without replacement by the promised advanced networks."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0197::Domicílio e arranjo familiar",
+   "unit_id": "W0197",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Jonathan Adelstein",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11598,
+     "fim_corpo": 12491,
+     "trecho": "The wireless infrastructure industry is committed to making next- generation communications technology widely available to every corner of America. The importance of connectivity is dramatically underscored by the increased reliance on broadband during this unprecedented COVID- 19 pandemic. WIA and our members are grateful for the leadership of your Subcommittee in promoting our shared goal of closing the digital divide with ubiquitous, reliable, resilient, and redundant broadband networks. The Importance of Resilient and Redundant Networks During Pandemic The focus of this hearing is on building resilient and redundant broadband networks. COVID-19 brought forth new challenges and new opportunities for broadband deployment. The pandemic created an even deeper recognition of how essential reliable broadband connectivity is to every household and to every business."
+    },
+    {
+     "inicio_corpo": 23401,
+     "fim_corpo": 24302,
+     "trecho": "Yet, each is subject--in differing degrees--to the lack of a reliable electric grid. Fiber-to-the-premise (FTTP) networks face the more intractable problem of loss of power to the premise in addition to the network. Most in- home fiber includes a battery backup that lasts twenty-four hours.\\17\\ After those twenty-four hours, services including telephone and 9-1-1 services are lost. Power is often lost in rural areas for weeks even in regularly occurring ice storms and even longer in the wake of disasters. Restoring electrical service to all the homes in the wide areas often affected by these larger natural disasters is a lengthy process. Wireless connectivity requires the difficult, but far less onerous, challenge of providing power only to the transmission site such as a tower to serve all the households in the service area regardless of if they have power on their premises."
+    },
+    {
+     "inicio_corpo": 58164,
+     "fim_corpo": 59370,
+     "trecho": "For children doing homework on hour-long bus rides in rural areas, for example, waiting until they get back home to go online is not a good option. In terms of a priority, you might ask your rural constituents what they value more: greater broadband mobility on the road and across their farm fields--or upload speeds at home. For those like me who have lived in rural America, I expect you can guess the answer. Speed of deployment, infrastructure siting and workforce needs: Fiber can take months to years to deploy even in easy geography, but more complex deployments can take many years. Wireless broadband links can be installed and ready for operation in a matter of days in a variety of scenarios.\\47\\ According to a study by the Fiber Broadband Association, it would take 10 years and an additional $70 billion to pass 90 percent of U.S. households--before even reaching the last 10 percent which are of greatest concern for rural access.\\48\\ To connect that 90 percent would require an additional $15 billion.\\49\\ --------------------------------------------------------------------------- \\47\\ Dori Erann, Fiber VS Wireless-The Greatest Debate of the Decade, Ceragon (Mar."
+    },
+    {
+     "inicio_corpo": 65256,
+     "fim_corpo": 65978,
+     "trecho": "\\51\\ Andrew Perrin, Mobile Technology and Home Broadband 2021, Pew Research Ctr. (June 3, 2021), https://www.pewresearch.org/internet/ 2021/06/03/mobile-technology-and-home-broadband-2021/ (providing a demographic breakdown of smartphone only users). \\52\\ Id. --------------------------------------------------------------------------- Congress should build on steps it has taken in the Consolidated Appropriations Act of 2021 that established an Emergency Broadband Connectivity Fund of $3.2 billion to help Americans afford Internet service during the pandemic. It should fund a permanent affordability support program with sufficient subsidies to ensure low-income families obtain quality broadband."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0197::Educação",
+   "unit_id": "W0197",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Jonathan Adelstein",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 38262,
+     "fim_corpo": 39155,
+     "trecho": "These technologies alone could cut carbon emissions 15 percent by 2030.\\35\\ Smart energy grids also employ 5G. The Pacific Northwest National Laboratory found that it could directly reduce energy usage and carbon impact by 12 percent and indirectly by 6 percent.\\36\\ Having resilient electrical grids has become increasingly important during destructive wildfire seasons. As electrical grid operators aim to enhance their networks for greater reliability and resiliency, sensors and analytics enabled by 5G applications are increasingly critical, ``allowing for timely diagnosis, prediction, and prescription of all system variables and assets during normal and extreme-event conditions.'' \\37\\ --------------------------------------------------------------------------- \\35\\ Renee Cho, The Coming 5G Revolution: How Will it Affect the Environment?, Colum. Climate School (Aug."
+    },
+    {
+     "inicio_corpo": 63763,
+     "fim_corpo": 64634,
+     "trecho": "This ensures that networks can be deployed expeditiously while recipients are held accountable for outcomes. Affordability: As the technological capabilities of mobile devices continue to grow to rival traditional computers, many users have decided to prioritize their mobile connections over fixed.\\50\\ This choice is most clear among rural and low-income Americans, the majority of individuals who identify as ``smartphone only users.'' \\51\\ In rural America, nearly one in five residents has decided to rely solely on their wireless devices for broadband, while over one in four Americans who make less than thirty thousand dollars a year have made the switch to smartphone only; the same is true for those that have a high school degree or less.\\52\\ All of these groups, and all Americans, would benefit from an upgrade to 5G to support their choice."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0197::Infraestrutura e porte populacional",
+   "unit_id": "W0197",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Jonathan Adelstein",
+   "n_ocorrencias_no_par": 20,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 14,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4892,
+     "fim_corpo": 5775,
+     "trecho": "One in five Americans, many in our state of South Dakota, are smartphone only. Many are low-income, rural residents who will not give up their phone, their smartphone. But funding only wireline solutions means they have to purchase a costly new fiber service. So, inviting multiple technologies is the best way to attract qualified applicants in every service area, give agencies the flexibility to consider providers for each location. Otherwise, the hardest to reach areas by phone disrepair never get service. Congress has valued all these, many priorities. You do not have to choose one at the expense of the others. If rigid eligibility requirements are locked in statute, like symmetrical speeds that most consumers do not use, it precludes the technological flexibility to address other priorities, like resiliency and it can leave many people unserved."
+    },
+    {
+     "inicio_corpo": 7017,
+     "fim_corpo": 7933,
+     "trecho": "Applicants that provide resilient solutions are rewarded with priority consideration. Higher download and upload speeds: Download and upload speeds are valued by consumers. Faster offerings deserve priority. In terms of symmetrical speeds, data show consumers use over ten times the downstream bandwidth compared to upstream. To make the primary gating criteria for eligibility a service most consumers do not require would foreclose providers from even applying that could better address many Congressional priorities and more urgent rural consumer needs. Mobility: If wireless broadband is excluded, Congress could inadvertently grow a rural mobility digital divide. Many unserved residents would be tethered to accessing the Internet through a wired connection at the home or farmhouse."
+    },
+    {
+     "inicio_corpo": 8366,
+     "fim_corpo": 9228,
+     "trecho": "Don't make consumers wait for many years by limiting the range of eligible providers. Future proof should not mean deployed far in the future. Public safety and first responders: First responders rely on mobile networks as they go into harm's way to protect the public. Service to those who serve us all should be a priority goal. Battling climate change: Congress can set as a priority factor for agencies the degree to which proposed projects will contribute to the reduction of carbon emissions. If only one technology is allowed, Congress would eliminate options like 5G that can best achieve this clear priority. Let the best technology win. Targeting unserved areas: Congress should target funds to truly unserved areas."
+    },
+    {
+     "inicio_corpo": 8366,
+     "fim_corpo": 9228,
+     "trecho": "Don't make consumers wait for many years by limiting the range of eligible providers. Future proof should not mean deployed far in the future. Public safety and first responders: First responders rely on mobile networks as they go into harm's way to protect the public. Service to those who serve us all should be a priority goal. Battling climate change: Congress can set as a priority factor for agencies the degree to which proposed projects will contribute to the reduction of carbon emissions. If only one technology is allowed, Congress would eliminate options like 5G that can best achieve this clear priority. Let the best technology win. Targeting unserved areas: Congress should target funds to truly unserved areas."
+    },
+    {
+     "inicio_corpo": 8366,
+     "fim_corpo": 9333,
+     "trecho": "Don't make consumers wait for many years by limiting the range of eligible providers. Future proof should not mean deployed far in the future. Public safety and first responders: First responders rely on mobile networks as they go into harm's way to protect the public. Service to those who serve us all should be a priority goal. Battling climate change: Congress can set as a priority factor for agencies the degree to which proposed projects will contribute to the reduction of carbon emissions. If only one technology is allowed, Congress would eliminate options like 5G that can best achieve this clear priority. Let the best technology win. Targeting unserved areas: Congress should target funds to truly unserved areas. Define ``unserved'' areas as those lacking service through either wired or wireless technology."
+    },
+    {
+     "inicio_corpo": 8536,
+     "fim_corpo": 9463,
+     "trecho": "Public safety and first responders: First responders rely on mobile networks as they go into harm's way to protect the public. Service to those who serve us all should be a priority goal. Battling climate change: Congress can set as a priority factor for agencies the degree to which proposed projects will contribute to the reduction of carbon emissions. If only one technology is allowed, Congress would eliminate options like 5G that can best achieve this clear priority. Let the best technology win. Targeting unserved areas: Congress should target funds to truly unserved areas. Define ``unserved'' areas as those lacking service through either wired or wireless technology. Accurate maps are needed to identify truly unserved areas with already committed build plans to target support."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0197::Macrorregião",
+   "unit_id": "W0197",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Jonathan Adelstein",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 51322,
+     "fim_corpo": 52203,
+     "trecho": "Moreover, FTTH is dependent on electrical service at the home, which is often disrupted for long stretches. Whether one agrees with this analysis or not, Congress should not tie agencies' hands to one technology that may be more exposed to risk. It can charge funding agencies with considering resiliency as a factor in ``future-proofing'' funding choices. Agencies can ask applicants to identify the level of resiliency for its proposed broadband delivery mechanism--and make them prove their capability to meet their promises, both technically and financially. They can ask: how vulnerable is your technology to outages? What steps are you taking to ensure resiliency? How long will it take to restore service and what will it cost? Is your network financially sustainable considering those costs and the likelihood of disruptions in the proposed service territory?"
+    }
+   ]
+  }
+ ]
+}

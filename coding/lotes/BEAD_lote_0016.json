@@ -1,0 +1,1485 @@
+{
+ "caso": "BEAD",
+ "lote": 16,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0061::Urbano e rural",
+   "unit_id": "W0061",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Grant Spellmeyer",
+   "n_ocorrencias_no_par": 17,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 11,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 451,
+     "fim_corpo": 1233,
+     "trecho": "Spellmeyer, and I am the Vice President - Federal Affairs and Public Policy at United States Cellular Corporation. Thank you for the opportunity to discuss your legislative efforts to improve the nation’s broadband mapping. As discussed below, U.S. Cellular fully supports legislation to improve mapping, including the bills before this Committee today. I. ​Introduction U.S. Cellular is the 5th largest wireless carrier and provides mobile wireless telephone and broadband services across 21 states, located in regional clusters across the country. We serve overwhelmingly rural areas in many states represented on this subcommittee, such as Iowa, California, New Hampshire, Vermont, Oregon, Washington, Illinois, Missouri, Virginia, West Virginia, North Carolina, and Texas."
+    },
+    {
+     "inicio_corpo": 566,
+     "fim_corpo": 1571,
+     "trecho": "Thank you for the opportunity to discuss your legislative efforts to improve the nation’s broadband mapping. As discussed below, U.S. Cellular fully supports legislation to improve mapping, including the bills before this Committee today. I. ​Introduction U.S. Cellular is the 5th largest wireless carrier and provides mobile wireless telephone and broadband services across 21 states, located in regional clusters across the country. We serve overwhelmingly rural areas in many states represented on this subcommittee, such as Iowa, California, New Hampshire, Vermont, Oregon, Washington, Illinois, Missouri, Virginia, West Virginia, North Carolina, and Texas. U.S. Cellular is a member of the Competitive Carriers Association, and like many CCA members, much of our business involves finding ways to build towers and provide service in small towns and on rural roads, areas where population density, income levels, and commercial development are often well below those in our nation’s urban areas."
+    },
+    {
+     "inicio_corpo": 1005,
+     "fim_corpo": 1884,
+     "trecho": "We serve overwhelmingly rural areas in many states represented on this subcommittee, such as Iowa, California, New Hampshire, Vermont, Oregon, Washington, Illinois, Missouri, Virginia, West Virginia, North Carolina, and Texas. U.S. Cellular is a member of the Competitive Carriers Association, and like many CCA members, much of our business involves finding ways to build towers and provide service in small towns and on rural roads, areas where population density, income levels, and commercial development are often well below those in our nation’s urban areas. Consequently, we are constantly thinking about ways to address the economics of providing vital services to areas that present financial challenges to build, maintain, and upgrade service. In order to accelerate our investments in rural areas, we participated in the FCC’s Mobility Fund Phase I auction process."
+    },
+    {
+     "inicio_corpo": 1761,
+     "fim_corpo": 2578,
+     "trecho": "In order to accelerate our investments in rural areas, we participated in the FCC’s Mobility Fund Phase I auction process. U.S. Cellular and its subsidiary companies succeeded in winning approximately $40 million in support, which we have leveraged with our own funds to build new towers and upgrade 4G LTE networks serving places we could never make a business case to construct on our own. Today, consumers in these areas have access to 4G LTE mobile broadband that they would not have but for the FCC’s universal service fund mechanism. For them, the program is a huge success. Recently, we have participated actively in the development of the FCC’s Mobility Fund II (“Phase II”) program in which the FCC pledges to distribute $4.5 billion over a 10 year period for further rural wireless broadband deployment."
+    },
+    {
+     "inicio_corpo": 2748,
+     "fim_corpo": 3657,
+     "trecho": "Foremost is the strong belief that scarce public funds must be accurately targeted to the areas most in need. To accomplish this, we need reliable broadband maps, which makes today’s hearing and accompanying legislation vitally important. II. ​The State of Broadband Mapping for Mobile Services Accurately mapping mobile broadband coverage is difficult because many different technical and environmental factors, such as terrain, foliage, power levels, and equipment, affect how a radio signal travels and what signal quality a consumer may experience. That said, today’s broadband coverage maps are woefully inaccurate and, unfortunately, skew policies used to direct scarce funds. Accordingly, today’s action by this Committee is extremely important because improving maps will help both federal and state policymakers recalibrate policies that impact investments in our nation’s rural infrastructure."
+    },
+    {
+     "inicio_corpo": 3305,
+     "fim_corpo": 4157,
+     "trecho": "That said, today’s broadband coverage maps are woefully inaccurate and, unfortunately, skew policies used to direct scarce funds. Accordingly, today’s action by this Committee is extremely important because improving maps will help both federal and state policymakers recalibrate policies that impact investments in our nation’s rural infrastructure. A bit of history will illuminate why your attention to this problem is necessary. The FCC’s historically flawed Form 477 process for mapping mobile broadband contained very broad standards for reporting signal coverage. Without consistent reporting standards, the service availability data submitted on FCC Form 477 can vary significantly from the actual coverage that rural consumers experience on the ground as well as from carrier to carrier, who may report Form 477 using different parameters."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0062::Domicílio e arranjo familiar",
+   "unit_id": "W0062",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. James Assey",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 812,
+     "fim_corpo": 1660,
+     "trecho": "economy.1/ Our members include the nation’s largest providers of high-speed broadband Internet access as well as small ISPs that serve the most rural areas of the country. We welcome this important hearing on the Broadband Deployment Accuracy and Technological Availability Act (the “Broadband DATA Act”) and other important broadband mapping legislation, as the Committee considers how best to bring broadband to all of America, and I am pleased to be here today to discuss how improvements to current broadband maps can play a key part in achieving that goal. Over the last twenty years, we have witnessed the rapid expansion of broadband networks. The cable industry has invested over $290 billion to deploy networks reaching roughly 93% of American households with broadband infrastructure and networks over the last twenty years."
+    },
+    {
+     "inicio_corpo": 7487,
+     "fim_corpo": 8490,
+     "trecho": "Under this “crowdsourcing” approach, the public will be able to submit data about whether service is, in fact, available in the areas identified on the shapefiles submitted by a provider as “served.” This data will supplement and fine-tune the deployment data submitted by providers. As this new crowdsourcing approach is incorporated into the mapping process to further refine the map, it will be important to set up evidence-based standards and processes that ensure that any data relied on in creating its map is both relevant and accurate. There are 5 certain issues associated with the deployment of broadband that should be considered in order to create a meaningful process that minimizes administrative burdens. For example, an address might not currently have broadband service because no one has requested it, but a line could easily be extended to that household from the existing network without delays or extra fees if there were an actual consumer request for service."
+    },
+    {
+     "inicio_corpo": 7776,
+     "fim_corpo": 8826,
+     "trecho": "As this new crowdsourcing approach is incorporated into the mapping process to further refine the map, it will be important to set up evidence-based standards and processes that ensure that any data relied on in creating its map is both relevant and accurate. There are 5 certain issues associated with the deployment of broadband that should be considered in order to create a meaningful process that minimizes administrative burdens. For example, an address might not currently have broadband service because no one has requested it, but a line could easily be extended to that household from the existing network without delays or extra fees if there were an actual consumer request for service. For purposes of mapping, that household would be – and should be – considered “served.” Similarly, a consumer (or a state or local agency) might submit data gathered from online speed tests purporting to show that an area is not served because the customer is not receiving speeds at the level reported by the provider to the FCC."
+    },
+    {
+     "inicio_corpo": 9745,
+     "fim_corpo": 10419,
+     "trecho": "Additionally, before awarding scarce broadband deployment subsidies based on the map, there should be a means of challenging a provider’s submission of deployment data, an opportunity for the provider to respond to the challenge, and a forum for resolution by the FCC 6 if the parties do not reach agreement. This ensures that funding is directed to truly unserved areas instead of overbuilding areas already served though other subsidies or private investment. Importantly, there should also be a means of ensuring that frivolous complaints are weeded out, so that providers are not flooded with household-by-household complaints each time they submit data."
+    },
+    {
+     "inicio_corpo": 9745,
+     "fim_corpo": 10419,
+     "trecho": "Additionally, before awarding scarce broadband deployment subsidies based on the map, there should be a means of challenging a provider’s submission of deployment data, an opportunity for the provider to respond to the challenge, and a forum for resolution by the FCC 6 if the parties do not reach agreement. This ensures that funding is directed to truly unserved areas instead of overbuilding areas already served though other subsidies or private investment. Importantly, there should also be a means of ensuring that frivolous complaints are weeded out, so that providers are not flooded with household-by-household complaints each time they submit data."
+    },
+    {
+     "inicio_corpo": 10938,
+     "fim_corpo": 11888,
+     "trecho": "In considering the Broadband DATA Act and the related legislation before you, we encourage the Committee to maintain the approach of building on what the FCC has done, and refraining from taking any steps that might delay its implementation. The Broadband Data Improvement Act, for example, would make a constructive improvement to the shapefile approach by adding a three-pronged data validation process. We also commend this legislation’s appropriate focus on identifying where broadband is and is not, and its recognition that the Map should be used by all Federal agencies to identify areas that remain unserved and track where awarded funds have improved availability. 7 Important Considerations for Broadband Mapping Legislation As you consider legislation aimed at improving broadband maps and extending service to unserved households, there are a few lessons learned from the FCC process that could be useful to you."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0062::Infraestrutura e porte populacional",
+   "unit_id": "W0062",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. James Assey",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved locations",
+     "forma_encontrada": "unserved locations",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2979,
+     "fim_corpo": 3957,
+     "trecho": "The data from Form 477 also enable the FCC to fulfill its statutory responsibilities, including assessing whether broadband deployment is increasing throughout the country in a timely fashion. Over the years, the FCC has continued to refine the Form 477 data collection to obtain better information to meet changing policy goals. In 2013, it began requiring providers to report deployment data at a census block level, which was a far more granular level of data than had ever before been collected. The ability to identify which census blocks had broadband service – and then translate that data onto a map – gave the FCC a good picture of how broadband deployment was spreading throughout the country, which areas of the country had broadband competition, and the speeds that were being offered in various areas. It also enabled the FCC to identify unserved census blocks that should be eligible to receive new government subsidies for broadband deployment."
+    },
+    {
+     "inicio_corpo": 4675,
+     "fim_corpo": 5394,
+     "trecho": "Today, it is time for providers to report their deployment data in a more targeted fashion, to identify the remaining pockets of the country – often within census blocks – where broadband service is truly lacking. But the purpose of having a National Broadband Map has not changed. At its core, a National Broadband Map is not an end to itself, but a tool to identify where broadband service is available at a given point in time, and to aid policymakers in focusing scarce government resources where they are needed most – areas where broadband service is not available. Having this clear understanding is key to ensuring that broadband funding efforts are directed at the unserved areas that need it most."
+    },
+    {
+     "inicio_corpo": 9448,
+     "fim_corpo": 10219,
+     "trecho": "Unless the speed tests are performed on a platform that controls for each of these factors, such as the Measuring Broadband America (or “SamKnows”) platform used by the FCC, they cannot be considered dispositive of whether the provider makes service available at the relevant speed threshold. Additionally, before awarding scarce broadband deployment subsidies based on the map, there should be a means of challenging a provider’s submission of deployment data, an opportunity for the provider to respond to the challenge, and a forum for resolution by the FCC 6 if the parties do not reach agreement. This ensures that funding is directed to truly unserved areas instead of overbuilding areas already served though other subsidies or private investment."
+    },
+    {
+     "inicio_corpo": 10938,
+     "fim_corpo": 11622,
+     "trecho": "In considering the Broadband DATA Act and the related legislation before you, we encourage the Committee to maintain the approach of building on what the FCC has done, and refraining from taking any steps that might delay its implementation. The Broadband Data Improvement Act, for example, would make a constructive improvement to the shapefile approach by adding a three-pronged data validation process. We also commend this legislation’s appropriate focus on identifying where broadband is and is not, and its recognition that the Map should be used by all Federal agencies to identify areas that remain unserved and track where awarded funds have improved availability."
+    },
+    {
+     "inicio_corpo": 10938,
+     "fim_corpo": 11888,
+     "trecho": "In considering the Broadband DATA Act and the related legislation before you, we encourage the Committee to maintain the approach of building on what the FCC has done, and refraining from taking any steps that might delay its implementation. The Broadband Data Improvement Act, for example, would make a constructive improvement to the shapefile approach by adding a three-pronged data validation process. We also commend this legislation’s appropriate focus on identifying where broadband is and is not, and its recognition that the Map should be used by all Federal agencies to identify areas that remain unserved and track where awarded funds have improved availability. 7 Important Considerations for Broadband Mapping Legislation As you consider legislation aimed at improving broadband maps and extending service to unserved households, there are a few lessons learned from the FCC process that could be useful to you."
+    },
+    {
+     "inicio_corpo": 12775,
+     "fim_corpo": 13601,
+     "trecho": "In that regard, recent experiments conducted by telecom providers in select states should have the benefit of public examination, and the FCC has appropriately teed up a number of questions associated with this effort in a pending proceeding. Importantly, public examination of this proposal should evaluate the costs and burdens associated with creating and maintaining such a tool to guard against costs that are significant and that might fail to produce substantially more benefits than are already available through the improved process that has already been put in place in conjunction with existing mapping tools. Tough questions should be asked -- How would such data be generated so as to ensure that it focuses on unserved locations and does not slow progress or add new burdens in served 8 areas?"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0062::Urbano e rural",
+   "unit_id": "W0062",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. James Assey",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 342,
+     "fim_corpo": 987,
+     "trecho": "September 11, 2019 Good afternoon, Mr. Chairman and Members of the Subcommittee. My name is James Assey and I am the Executive Vice President of NCTA – the Internet and Television Association. NCTA is the principal trade association for the U.S. cable industry, which supports 3 million jobs all over America – over 300 people in every congressional district in the United States – and has an estimated economic contribution of $450 billion to the U.S. economy.1/ Our members include the nation’s largest providers of high-speed broadband Internet access as well as small ISPs that serve the most rural areas of the country."
+    },
+    {
+     "inicio_corpo": 3809,
+     "fim_corpo": 4675,
+     "trecho": "It also enabled the FCC to identify unserved census blocks that should be eligible to receive new government subsidies for broadband deployment. The FCC’s current Broadband Map remains the product of data collected by the FCC from the Form 477 reports – and a refinement of the original NTIA National Broadband Map. As in 2013, providers indicate whether broadband service is available in any part of a particular 3 census block or not. The result is that a census block may be reported as “served” even if broadband is only available in a small portion of the area, and some areas that may have benefitted from broadband funding support are not eligible because they are considered “served.” This has caused a particular concern in rural areas, where census blocks can be quite large and broadband service may only be available in limited areas."
+    },
+    {
+     "inicio_corpo": 13871,
+     "fim_corpo": 14963,
+     "trecho": "The Broadband DATA Act appropriately recognizes that the FCC, with its contractor, should be responsible for creating and maintaining this dataset as opposed to providers. Any attempt to create a location-by-location map, however, should have to take into account not only the overwhelming initial burden to create and compile such data, but also the constant updating that would be required to take into account the hundreds of thousands of new homes built each year, as well as all the homes lost to wildfires, hurricanes, flooding, and other disasters. It could be nearly impossible to keep up with such a task, or for other providers or the public to ensure that locations are properly identified and validated. The government could easily spend many millions of dollars to create a tool that fairly quickly proves unworkable. Especially in non-rural areas, this effort could be a waste of limited resources, because existing mapping tools, plus shapefiles and crowdsourcing data, will reliably show the requisite deployment information in most cities and suburban areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0063::Domicílio e arranjo familiar",
+   "unit_id": "W0063",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. James Stegeman",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "hous eholds",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "Family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 20787,
+     "fim_corpo": 21741,
+     "trecho": "Under current rules, a provider can indicate a census block is covered if coverage is or can be made available in a reasonable timeframe to any location in the census block. In short, even if the provider only can service one location in a census block, the entire census block is reported as served—the “one served, all served” —issue you may have heard about. It is this one served, all served approach that is the crux of the issue of who really has access to broadband service. To date, no one definitively knows how many unserved locations reside in census blocks that have been reported as served. I have only seen studies, by experts in the field, which estimate the size of the issue. One recent study 4 by Dr. George Ford of the Ph oenix Center estimated the number of unserved households in census blocks filed in Form 477 as served at 3.45%, or in terms of additional unserved households, about 4 million nationally."
+    },
+    {
+     "inicio_corpo": 20965,
+     "fim_corpo": 21741,
+     "trecho": "In short, even if the provider only can service one location in a census block, the entire census block is reported as served—the “one served, all served” —issue you may have heard about. It is this one served, all served approach that is the crux of the issue of who really has access to broadband service. To date, no one definitively knows how many unserved locations reside in census blocks that have been reported as served. I have only seen studies, by experts in the field, which estimate the size of the issue. One recent study 4 by Dr. George Ford of the Ph oenix Center estimated the number of unserved households in census blocks filed in Form 477 as served at 3.45%, or in terms of additional unserved households, about 4 million nationally."
+    },
+    {
+     "inicio_corpo": 23579,
+     "fim_corpo": 24467,
+     "trecho": "For current reference, sample images of the Congressional District Dashboard are provided in Appendix B. The dashboards provided do not count unserved locations in Census block s reported as served. Rather, they depict a view of the latest 477 terrestrial coverage data by density and by speed availability that only captures those Census Blocks not reported as served. In addition to the current coverage information, the dashboard also provides an estimate of the cost to build a fiber to the location network from scratch to the homes and businesses within the specific row. These cost estimates are consistent with the Connect America Cost model values. As you can see in the A ppendix, the coverage data currently shows that 8.5 million housing units are unserved. So even Dr. Fords estimate of 4 million additional unserved hous eholds 7 is significant."
+    },
+    {
+     "inicio_corpo": 26016,
+     "fim_corpo": 26830,
+     "trecho": "I will discuss in more detail in the next section how this data was linked and why it is only now possible. The carriers’ data played an important role to validate the importance of granular data and the need for the National Fabric. Each carrier submitted either shapefiles or address data of locations they have served, are currently serving , or are capable of serving . For those carriers that provided addres ses, they also indicated for each address : the source of the address, latitude and longitude, and whether the address would have been filed in the 477. Once the address data was received, CQA validated their data and began 6 See https://www.costquest.com/state-broadband-dashboard 7 A housing unit is a place where a person can or could live. A household is an occupied housing unit."
+    },
+    {
+     "inicio_corpo": 39811,
+     "fim_corpo": 40668,
+     "trecho": "Stegeman Testimony to House Committee Energy and Commerce, Subcommittee Communications and Technology Sept. 11, 2019 Figure 5: The Fabric reveals the extent of served and unserved below the Census Block geography. Lessons Learned and Areas of Improvement In building the foundational layers of the Fabric it was clear that weaving together the multiple sources of data makes all the data better. It is also clear that some threads of this Fabric can be made stronger. A large part of our work was related to the deep investigation of these various threads of data at a very granular level. In that process we found the following: 1. Land Use Data is incomplete and lacking consistent standards . County assessors typically record the land use of a property, such as “Residential Single Family”, “Business”, “Industrial”, and “Vacant Land”."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0063::Infraestrutura e porte populacional",
+   "unit_id": "W0063",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. James Stegeman",
+   "n_ocorrencias_no_par": 69,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 63,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved locations",
+     "forma_encontrada": "Unserved Locations",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "Unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "Unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "Unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "Unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "Unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "unserved locations",
+     "forma_encontrada": "unserved locations",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved locations",
+     "forma_encontrada": "unserved locations",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1196,
+     "fim_corpo": 2185,
+     "trecho": "6 Overview of the Proof of Concept ................................................................................................................. 7 The Fabric—How the Broadband Serviceable Location Fabric is Created ..................................................... 8 Findings: What the Proof of Concept Revealed and How the Fabric Can be Used ........................................ 9 Baseline Assumptions ................................................................................................................................ 9 Rural Location Counts ............................................................................................................................. 10 Rural Distance Differences ...................................................................................................................... 10 The Fabric in Action to Reveal Unserved Locations ....................................................................................."
+    },
+    {
+     "inicio_corpo": 2488,
+     "fim_corpo": 3509,
+     "trecho": "15 Creating the National Fabric .................................................................................................................... 15 Using the National Fabric ........................................................................................................................ 16 Conclusion ................................................................................................................................................... 17 APPENDIX A: The Broadband Mapping Initiative Report ............................................................................. 19 APPENDIX B: Current state of Broadband Coverage ................................................................................... 20 Congressional District Dashboard Samples: ............................................................................................ 22 APPENDIX C: Unserved Summary ................................................................................................................"
+    },
+    {
+     "inicio_corpo": 3818,
+     "fim_corpo": 4705,
+     "trecho": "42 The Broadband Mapping Initiative and the Broadband Serviceable Location Fabric 2 James W. Stegeman Testimony to House Committee Energy and Commerce, Subcommittee Communications and Technology Sept. 11, 2019 Table of Figures: Figure 1: Key pilot study findings ................................................................................................................... 9 Figure 2: Pre-fabric Census Block based coverage polygon ........................................................................ 11 Figure 3: Carrier coverage polygon based on geocoded addresses ............................................................ 12 Figure 4: Geocode address polygons versus associated Fabric points ........................................................ 13 Figure 5: The Fabric reveals the extent of served and unserved below the Census Block geography."
+    },
+    {
+     "inicio_corpo": 8243,
+     "fim_corpo": 9241,
+     "trecho": "33 Figure 31: Oregon U.S. Congressional District 5 .......................................................................................... 34 Figure 32: Texas U.S. Congressional District 17 ........................................................................................... 34 Figure 33: Texas U.S. Congressional District 22 ........................................................................................... 35 Figure 34: Texas U.S. Congressional District 33 ........................................................................................... 35 Figure 35: Virginia U.S. Congressional District 4 .......................................................................................... 36 Figure 36: Vermont U.S. Congressional District 0 ........................................................................................ 36 Figure 37: MO Unserved Summary, all Census Blocks ................................................................................."
+    },
+    {
+     "inicio_corpo": 8386,
+     "fim_corpo": 9370,
+     "trecho": "34 Figure 32: Texas U.S. Congressional District 17 ........................................................................................... 34 Figure 33: Texas U.S. Congressional District 22 ........................................................................................... 35 Figure 34: Texas U.S. Congressional District 33 ........................................................................................... 35 Figure 35: Virginia U.S. Congressional District 4 .......................................................................................... 36 Figure 36: Vermont U.S. Congressional District 0 ........................................................................................ 36 Figure 37: MO Unserved Summary, all Census Blocks ................................................................................. 37 Figure 38: MO Unserved Summary, non-Cable Census Blocks ...................................................................."
+    },
+    {
+     "inicio_corpo": 8530,
+     "fim_corpo": 9507,
+     "trecho": "34 Figure 33: Texas U.S. Congressional District 22 ........................................................................................... 35 Figure 34: Texas U.S. Congressional District 33 ........................................................................................... 35 Figure 35: Virginia U.S. Congressional District 4 .......................................................................................... 36 Figure 36: Vermont U.S. Congressional District 0 ........................................................................................ 36 Figure 37: MO Unserved Summary, all Census Blocks ................................................................................. 37 Figure 38: MO Unserved Summary, non-Cable Census Blocks .................................................................... 38 Figure 39: VA Unserved Summary, all Census Blocks .................................................................................."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0063::Macrorregião",
+   "unit_id": "W0063",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. James Stegeman",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 43521,
+     "fim_corpo": 44372,
+     "trecho": "However, if the Fabric is to provide the critical foundation for these efforts, it will need to be made available across the U.S. and used as part of the new Broadband Mapping effort conceived in the Digital Opportunity Data Collection Order ( “DODC”). The order has specifically called out the potential need for a National Fabric, and programs like the forthcoming Rural Digital Opportunities Fund (RDOF) will clearly benefit from the improved targeting of funds as a result of its use. Creating the National Fabric Building the National Fabric is a clear possibility that is on the immediate horizon . The Pilot has provided the blueprint to getting it built. Completing the Fabric will require the following: 1. Data Collection. Data needs to be collected, for all sources contributing to the Fabric, for each State and territory."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0063::Posição no trabalho",
+   "unit_id": "W0063",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. James Stegeman",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 29035,
+     "fim_corpo": 29889,
+     "trecho": "Once a good link between assessor data and parcels has been established, other datasets including building footprints, addresses, and roads are brought in through a variety of geospatial processes. The resulting combination forms the basis of a statistical model that is calibrated and validated by human reviewers. Using the result of the statistical model, building footprint locations on each parcel of land are then able to be identified as likely or unlikely to be broadband serviceable. In the case that the model presents an inconclusive result for a parcel, a crowdsourced visual verification approach was employed working with our partner firm CrowdReason , who is a recognized leader in effective use of on-demand labor solutions. In this effort, a trained crowd workforce visually reviewed over 140,000 records across MO and VA."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0063::Urbano e rural",
+   "unit_id": "W0063",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. James Stegeman",
+   "n_ocorrencias_no_par": 19,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 13,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 905,
+     "fim_corpo": 1895,
+     "trecho": "4 Key Findings ............................................................................................................................................... 5 The Issue—The Current State of Broadband Coverage Data......................................................................... 6 Overview of the Proof of Concept ................................................................................................................. 7 The Fabric—How the Broadband Serviceable Location Fabric is Created ..................................................... 8 Findings: What the Proof of Concept Revealed and How the Fabric Can be Used ........................................ 9 Baseline Assumptions ................................................................................................................................ 9 Rural Location Counts ............................................................................................................................."
+    },
+    {
+     "inicio_corpo": 1065,
+     "fim_corpo": 2045,
+     "trecho": "5 The Issue—The Current State of Broadband Coverage Data......................................................................... 6 Overview of the Proof of Concept ................................................................................................................. 7 The Fabric—How the Broadband Serviceable Location Fabric is Created ..................................................... 8 Findings: What the Proof of Concept Revealed and How the Fabric Can be Used ........................................ 9 Baseline Assumptions ................................................................................................................................ 9 Rural Location Counts ............................................................................................................................. 10 Rural Distance Differences ......................................................................................................................"
+    },
+    {
+     "inicio_corpo": 15417,
+     "fim_corpo": 16319,
+     "trecho": "The resulting dataset is referred to as the Broadband Serviceable Location Fabric (Fabric or, BSLF). This Fabric of broadband serviceable structures makes it possible to precisely map and understand where broadband is available and more importantly, where it isn’t. The Pilot, managed by my team at CQA, is a collaboration between USTelecom, ITTA, WISPA, AT&T, CenturyLink, Chariton Valley, Consolidated, Frontier, Riverstreet, TDS, Verizon, and Windstream. The Broadband Mapping Initiative and the Broadband Serviceable Location Fabric 5 James W. Stegeman Testimony to House Committee Energy and Commerce, Subcommittee Communications and Technology Sept. 11, 2019 The Pilot shows , based on the carriers participating, as many as 38% 1 of additional rural locations are unserved in census blocks that would have been reported as served in today’s FCC Form 477 reporting approach."
+    },
+    {
+     "inicio_corpo": 17208,
+     "fim_corpo": 18213,
+     "trecho": "Using innovative methods and a combination of public and commercial datasets, we have shown that it is now possible to identify and precisely locate virtually every structure in a geographic area that is a candidate for broadband service. Developing the Fabric for two states shows it is possible to do so for the entire country. The core methodology we developed works and the results of the pilot , while informative, can be improved upon with greater carrier participation. • Pinpointing Service Availability. Creating the Fabric revealed that in just two states , over 445,000 homes and businesses were not reported as served by participating providers in Census Blocks that would be counted as served under current 477 reporting2. • The Counts Count. We measured broadband availability by locations in a census block. The Fabric revealed that 48% of the location counts in rural census blocks are different from current estimates used by the FCC, in many cases significantly different."
+    },
+    {
+     "inicio_corpo": 18213,
+     "fim_corpo": 19118,
+     "trecho": "• Timely and Cost Effective. A nationally developed dataset of all broadband serviceable locations consistent with the approach demonstrated in the Pilot should take no more than 5 -8 months to stand up an initial national fabric for most counties and states, that could be used for testing, and 12-15 months to fully complete. The cost to do so will vary depending on the mix of open source or proprietary data sources, but a national Fabric could potentially be developed for between $8.5– $11 million in upfront costs and $3–4 million in annual updates. • Location, Location, Location. Broadband availability is about connections, but providers must know where a structure is in order to provide that link. In our pilot, the provider submitted locations for 61% of rural homes and businesses were off by over 7.6m (25 feet) and 25% are off by over 100m (328 feet), more than a football field!"
+    },
+    {
+     "inicio_corpo": 21157,
+     "fim_corpo": 22160,
+     "trecho": "It is this one served, all served approach that is the crux of the issue of who really has access to broadband service. To date, no one definitively knows how many unserved locations reside in census blocks that have been reported as served. I have only seen studies, by experts in the field, which estimate the size of the issue. One recent study 4 by Dr. George Ford of the Ph oenix Center estimated the number of unserved households in census blocks filed in Form 477 as served at 3.45%, or in terms of additional unserved households, about 4 million nationally. While relatively small compared to the overall served count , if I look at it from the unserved perspective, we are undercounting the unserved locations in the country by almost 50%5. Another study that I am aware of estimated that the amount of unserved locations in census blocks, in more rural parts of the state in which the study was conducted, reported as served was over 30%, over 8 times higher than Dr."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0064::Domicílio e arranjo familiar",
+   "unit_id": "W0064",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Spalter",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 643,
+     "trecho": "Testimony of Jonathan Spalter President and CEO, USTelecom before the House Energy & Commerce Committee’s Communication & Technology Subcommittee “Legislating to Connect America: Improving the Nation’s Broadband Maps” September 11, 2019 Chairman Doyle, Ranking Member Latta, and distinguished Members of the Committee, thank you for the opportunity to testify at this important hearing. My name is Jonathan Spalter, and I am the President and CEO of USTelecom – The Broadband Association. USTelecom proudly represents innovative broadband providers and suppliers connecting our families, communities and enterprises to the future."
+    },
+    {
+     "inicio_corpo": 10551,
+     "fim_corpo": 11536,
+     "trecho": "For instance, the location fabric can be the foundational mapping tool for the FCC as it undertakes a rulemaking to develop the next phase of Universal Service Fund support, called the Rural Digital Opportunities Fund (RDOF). We are pleased to see the FCC has proposed adopting a broadband- 4 serviceable location tool as part of its Digital Opportunity Data Collection and we look forward to working with it as well to see that become a reality. If Congress or the FCC acts expeditiously, the nationwide location fabric data can be readily available as a resource to government policy makers and the carriers seeking to bid in the RDOF auctions. Together, we can ensure no unserved American community, family, or enterprise will be left out of new broadband support programs because of misguided reliance on mapping methodologies-and reporting processes-that are insufficiently granular and accurate in pinpointing where broadband is available, and where it is not."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0064::Infraestrutura e porte populacional",
+   "unit_id": "W0064",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Spalter",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved locations",
+     "forma_encontrada": "unserved locations",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1600,
+     "fim_corpo": 2323,
+     "trecho": "As a result, over the past decade, broadband access to rural homes has risen 71 percent. This hearing also is timely in light of the Federal Communication Commission’s (FCC) open rulemaking to reform the process it uses to collect data on broadband availability, and related proceedings underway, that will be critical to broadband deployment in rural America for at least the next decade, if not longer. One such rulemaking is focused on enhancing broadband availability reporting mechanisms by improving the Form 477 reporting requirements to make them more granular and efficient. Another proposes to allocate over $20 billion to connect the remaining Americans unserved by broadband over the next ten years."
+    },
+    {
+     "inicio_corpo": 8151,
+     "fim_corpo": 9034,
+     "trecho": "We were confident this project would be a truly unique and eye-opening approach to identifying locations and providing the underlying dataset, on top of which providers would report. We succeeded. Working in Missouri and Virginia with our vendor CostQuest, within a four-month period we developed a comprehensive database of all broadband serviceable locations—and a roadmap for a collaborative government-led effort to expand the system nationwide. We were able to utilize new digital resources (both open source and proprietary), including satellite imagery and digitized parcel and land attribute data. These datasets were combined and organized by conforming addresses, removing duplicates, and using managed crowdsourcing to review records for accuracy. The results of the project reveal pockets of unserved locations that previous efforts failed to identify."
+    },
+    {
+     "inicio_corpo": 9642,
+     "fim_corpo": 10551,
+     "trecho": "This is extremely important as one misidentified location can leave an entire census block ineligible for funding. We now have irrefutable evidence that this mapping methodology is scalable and achievable in a timely and cost-effective manner nationwide. We are ready to hand it off to our government partners to ensure agencies, policymakers and providers are empowered with the specific data needed to connect our entire nation to the power and promise of broadband. With this data, every single dollar of federal broadband support can be accurately targeted and effectively deployed to close any remaining coverage gaps. We believe a broadband serviceable location fabric like the one we created in Missouri and Virginia can underpin a contemporary, tailored and updatable broadband map that can serve as the foundation for all future broadband spending decisions that pinpoint the unserved."
+    },
+    {
+     "inicio_corpo": 10551,
+     "fim_corpo": 11536,
+     "trecho": "For instance, the location fabric can be the foundational mapping tool for the FCC as it undertakes a rulemaking to develop the next phase of Universal Service Fund support, called the Rural Digital Opportunities Fund (RDOF). We are pleased to see the FCC has proposed adopting a broadband- 4 serviceable location tool as part of its Digital Opportunity Data Collection and we look forward to working with it as well to see that become a reality. If Congress or the FCC acts expeditiously, the nationwide location fabric data can be readily available as a resource to government policy makers and the carriers seeking to bid in the RDOF auctions. Together, we can ensure no unserved American community, family, or enterprise will be left out of new broadband support programs because of misguided reliance on mapping methodologies-and reporting processes-that are insufficiently granular and accurate in pinpointing where broadband is available, and where it is not."
+    },
+    {
+     "inicio_corpo": 11536,
+     "fim_corpo": 12376,
+     "trecho": "Congressional Action USTelecom and our members are pleased Congress is demonstrating a committed interest in the importance of creating a nationwide broadband map. The legislation before us today proves the desire to solve this problem is as bipartisan as it is significant. Multiple Members of Congress have introduced various legislative proposals aimed at producing meaningful improvements to information collected by government agencies and how that information is applied to spur deployment and achieve real results. We are most supportive and enthused by the principles contained within the bipartisan H.R. 4229 “Broadband DATA Act” and H.R. 4227 MAPS Act. Together, they would wisely combine multiple datasets to produce a granular-level fabric of data that can be used to pinpoint the location of the unserved."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0064::Urbano e rural",
+   "unit_id": "W0064",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Spalter",
+   "n_ocorrencias_no_par": 11,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 5,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 916,
+     "trecho": "Testimony of Jonathan Spalter President and CEO, USTelecom before the House Energy & Commerce Committee’s Communication & Technology Subcommittee “Legislating to Connect America: Improving the Nation’s Broadband Maps” September 11, 2019 Chairman Doyle, Ranking Member Latta, and distinguished Members of the Committee, thank you for the opportunity to testify at this important hearing. My name is Jonathan Spalter, and I am the President and CEO of USTelecom – The Broadband Association. USTelecom proudly represents innovative broadband providers and suppliers connecting our families, communities and enterprises to the future. Our diverse membership ranges from large publicly traded global communications providers, manufacturers, and technology enterprises, to smaller companies, cooperatives and entrepreneurs–all providing advanced services to markets, urban, rural and everywhere in between."
+    },
+    {
+     "inicio_corpo": 916,
+     "fim_corpo": 1690,
+     "trecho": "Today’s hearing presents a timely opportunity to discuss why accurate broadband mapping is integral to accelerating the deployment of broadband infrastructure to all Americans. Broadband service is no longer a luxury; it is an essential component of our national infrastructure and economic success, as well as the health, well-being, safety, and prosperity of every American. Ensuring that all communities are connected to broadband is a deeply shared, bipartisan American objective which is why the nation’s broadband companies have invested $1.7 trillion of their own capital since 1996-$80 billion in 2018 alone–to upgrade and expand the nation’s digital infrastructure. As a result, over the past decade, broadband access to rural homes has risen 71 percent."
+    },
+    {
+     "inicio_corpo": 1096,
+     "fim_corpo": 2012,
+     "trecho": "Broadband service is no longer a luxury; it is an essential component of our national infrastructure and economic success, as well as the health, well-being, safety, and prosperity of every American. Ensuring that all communities are connected to broadband is a deeply shared, bipartisan American objective which is why the nation’s broadband companies have invested $1.7 trillion of their own capital since 1996-$80 billion in 2018 alone–to upgrade and expand the nation’s digital infrastructure. As a result, over the past decade, broadband access to rural homes has risen 71 percent. This hearing also is timely in light of the Federal Communication Commission’s (FCC) open rulemaking to reform the process it uses to collect data on broadband availability, and related proceedings underway, that will be critical to broadband deployment in rural America for at least the next decade, if not longer."
+    },
+    {
+     "inicio_corpo": 1600,
+     "fim_corpo": 2444,
+     "trecho": "As a result, over the past decade, broadband access to rural homes has risen 71 percent. This hearing also is timely in light of the Federal Communication Commission’s (FCC) open rulemaking to reform the process it uses to collect data on broadband availability, and related proceedings underway, that will be critical to broadband deployment in rural America for at least the next decade, if not longer. One such rulemaking is focused on enhancing broadband availability reporting mechanisms by improving the Form 477 reporting requirements to make them more granular and efficient. Another proposes to allocate over $20 billion to connect the remaining Americans unserved by broadband over the next ten years. These rulemakings will significantly impact the future of connectivity and prosperity for rural communities in America."
+    },
+    {
+     "inicio_corpo": 2012,
+     "fim_corpo": 2819,
+     "trecho": "One such rulemaking is focused on enhancing broadband availability reporting mechanisms by improving the Form 477 reporting requirements to make them more granular and efficient. Another proposes to allocate over $20 billion to connect the remaining Americans unserved by broadband over the next ten years. These rulemakings will significantly impact the future of connectivity and prosperity for rural communities in America. USTelecom’s members have enjoyed a strong partnership with government through the FCC’s current Connect America Fund (CAF) programs which have helped deploy broadband to the nation’s hardest to reach communities. Some of our members began working on CAF II in 2015 to bring broadband to over 3.6 million rural locations—or more than 9 million Americans over six years."
+    },
+    {
+     "inicio_corpo": 2193,
+     "fim_corpo": 3018,
+     "trecho": "Another proposes to allocate over $20 billion to connect the remaining Americans unserved by broadband over the next ten years. These rulemakings will significantly impact the future of connectivity and prosperity for rural communities in America. USTelecom’s members have enjoyed a strong partnership with government through the FCC’s current Connect America Fund (CAF) programs which have helped deploy broadband to the nation’s hardest to reach communities. Some of our members began working on CAF II in 2015 to bring broadband to over 3.6 million rural locations—or more than 9 million Americans over six years. As of March 1, 2019, these CAF II participants are in aggregate 10 percent ahead of schedule for deployment and, as a result, over 5.7 million more rural Americans have an on-ramp to the internet."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0065::Cultura e informação",
+   "unit_id": "W0065",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Dana Floberg",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "libraries",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 26392,
+     "fim_corpo": 27435,
+     "trecho": "Lower income quintiles are far more likely than higher income quintiles to cite their inability to afford broadband as a primary reason for not adopting, with nearly 25 percent of non- adopting households making less than $20,000 annually specifying lack of affordability as the most important reason.20 Black and Hispanic households (at 29 percent and 26 percent respectively) are more likely than those in white households (19 percent) to say they would subscribe to broadband 20 November 2017 CPS. 15 if it were available at a lower price, and also to seek out broadband service outside the home, for example in libraries and community spaces.21 Taken together, there is strong evidence that lack of affordability, lack of competition, and racial discrimination (that manifests not only as income inequality, but in other types of systemic discrimination too such as credit scoring, housing, and employment) each contribute to the digital divide keeping people offline."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0065::Domicílio e arranjo familiar",
+   "unit_id": "W0065",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Dana Floberg",
+   "n_ocorrencias_no_par": 22,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 16,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2252,
+     "fim_corpo": 3021,
+     "trecho": "Dortch, Secretary, Federal Communications Commision, from USTelecom, ITTA, and WISPA (together, the “Broadband Mapping Consortium”) Ex Parte, WC Docket Nos. 19-195, 19-126, 11-10, 10-90 (filed Aug. 20, 2019); see also Broadband Mappin g Initiative: Proof of Concept Report, submitted as an attachment thereto (“Proof of Concept Report”). 2 that would have been reported as ‘served’ in today’s FCC Form 477 reporting approach.”2 Though USTA did not disclose the total number of locations in their pilot, the FCC’s Form 477 data projects that as of year-end 2017 there were a total of 6.31 million housing units (and 5.6 million households) in these two states combined.3 Thus, the pilot suggests an error rate for the Form 477 data of approximately 7 percent."
+    },
+    {
+     "inicio_corpo": 3021,
+     "fim_corpo": 3724,
+     "trecho": "However as the Consortium notes, not all ISPs participated in the pilot project. 4 What’s more, the Census data showing 6.31 million total housing units in these two states does not include business locations, so the percentage of locations counted as served in Form 477 but not served according to the pilot may in fact be lower than what USTA reported. Regardless, the error rate is still significant, indicating (if that rate were to hold nationally) that there could be potentially 7 million additional unserved rural households nationwide currently not identified as unserved in the Form 477 data.5 That is certainly an issue worth fixing, but the number is far fewer than some may expect."
+    },
+    {
+     "inicio_corpo": 3380,
+     "fim_corpo": 4310,
+     "trecho": "Regardless, the error rate is still significant, indicating (if that rate were to hold nationally) that there could be potentially 7 million additional unserved rural households nationwide currently not identified as unserved in the Form 477 data.5 That is certainly an issue worth fixing, but the number is far fewer than some may expect. It’s worth clearing up any misunderstandings of what the Form 477 data is, and what it does and does not show. Certain parties have cited disparities between the Form 477 deployment data and those parties’ studies on broadband speeds and performance, and wrongly concluded that 2 Proof of Concept Report at 3. 3 We provide data on “households” and on “housing units” because the Census defines these two things differently and it is not clear which one the Consortium used as the denominator in the Proof of Concept Report."
+    },
+    {
+     "inicio_corpo": 3724,
+     "fim_corpo": 4680,
+     "trecho": "It’s worth clearing up any misunderstandings of what the Form 477 data is, and what it does and does not show. Certain parties have cited disparities between the Form 477 deployment data and those parties’ studies on broadband speeds and performance, and wrongly concluded that 2 Proof of Concept Report at 3. 3 We provide data on “households” and on “housing units” because the Census defines these two things differently and it is not clear which one the Consortium used as the denominator in the Proof of Concept Report. The FCC’s block-level housing and population estimates also report a total of 1.87 million rural housing units (1.57 million rural households) in these two states combined, with 1.28 million rural housing units (1.1 million rural households) reported as being located in census blocks with one or more fixed terrestrial ISP offering a 25 Mbps/3 Mbps minimum service."
+    },
+    {
+     "inicio_corpo": 3724,
+     "fim_corpo": 4680,
+     "trecho": "It’s worth clearing up any misunderstandings of what the Form 477 data is, and what it does and does not show. Certain parties have cited disparities between the Form 477 deployment data and those parties’ studies on broadband speeds and performance, and wrongly concluded that 2 Proof of Concept Report at 3. 3 We provide data on “households” and on “housing units” because the Census defines these two things differently and it is not clear which one the Consortium used as the denominator in the Proof of Concept Report. The FCC’s block-level housing and population estimates also report a total of 1.87 million rural housing units (1.57 million rural households) in these two states combined, with 1.28 million rural housing units (1.1 million rural households) reported as being located in census blocks with one or more fixed terrestrial ISP offering a 25 Mbps/3 Mbps minimum service."
+    },
+    {
+     "inicio_corpo": 4310,
+     "fim_corpo": 5181,
+     "trecho": "The FCC’s block-level housing and population estimates also report a total of 1.87 million rural housing units (1.57 million rural households) in these two states combined, with 1.28 million rural housing units (1.1 million rural households) reported as being located in census blocks with one or more fixed terrestrial ISP offering a 25 Mbps/3 Mbps minimum service. 4 Proof of Concept Report at 4. 5 We note that this 7 million estimate nationwide is consistent with the Proof of Concept Report’s finding that “as many as 38% of additional rural locations are unserved in census blocks that would have been reported as ‘served’ in today’s FCC Form 477 reporting approach.” Id. at 3. The total number of households located in rural census blocks is 25 million, with 18.5 million reported as served at 25 Mbps/3 Mbps in the most recent Form 477 deployment data."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0065::Escolaridade e letramento",
+   "unit_id": "W0065",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Dana Floberg",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 23212,
+     "fim_corpo": 24268,
+     "trecho": "12 option exists for wired home internet outside of discount programs only available to a limited selection of qualifying households. For example, in many markets Charter Communication’s entry-level tier offers 200 Mbps downstream speeds for 70 dollars per month after introductory rates expire, a price that many low -income households will find out of their reach. Without resellers serving this overlooked section of the demand curve by offering lower rates for Charter’s excess capacity, price-sensitive households have extremely limited choices if any for affordable wired broadband. When families are forced to forgo other necessities like diapers and food so they can afford to keep paying their internet bill, when students are forced to research and write essays on mobile phones because their parents can’t afford a fixed connection, when unemployed individuals are forced to hunt for jobs without the aid of broadband that’s available right outside their door because the price is simply too high, we have an affordability problem."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0065::Infraestrutura e porte populacional",
+   "unit_id": "W0065",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Dana Floberg",
+   "n_ocorrencias_no_par": 13,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 7,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserve d",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1246,
+     "fim_corpo": 2252,
+     "trecho": "Form 477 Data Is Not As Inaccurate As Many Fear, But Could Still Be Improved. In an ongoing effort to promote universal broadband internet access service in this country, federal policymakers on both sides of the aisle have focused on potential errors and overstatements in the Federal Communications Commission’s National Broadband Map and the underlying data collection for that map known as Form 477. There are indeed opportunities to improve the granularity and accuracy of the Commission’s Form 477 data, though the issues may be significantly smaller than some stakeholders fear, at least with regards to fixed broadband deployment. During the Broadband Mapping Consortium’s pilot project managed by CostQuest Associates in Virginia and Missouri, 1 the creation of a broadband serviceable location fabric suggested that for these two states “38% of additional rural locations are unserved in census blocks 1 See Letter to Marlene H."
+    },
+    {
+     "inicio_corpo": 3021,
+     "fim_corpo": 3724,
+     "trecho": "However as the Consortium notes, not all ISPs participated in the pilot project. 4 What’s more, the Census data showing 6.31 million total housing units in these two states does not include business locations, so the percentage of locations counted as served in Form 477 but not served according to the pilot may in fact be lower than what USTA reported. Regardless, the error rate is still significant, indicating (if that rate were to hold nationally) that there could be potentially 7 million additional unserved rural households nationwide currently not identified as unserved in the Form 477 data.5 That is certainly an issue worth fixing, but the number is far fewer than some may expect."
+    },
+    {
+     "inicio_corpo": 3021,
+     "fim_corpo": 3724,
+     "trecho": "However as the Consortium notes, not all ISPs participated in the pilot project. 4 What’s more, the Census data showing 6.31 million total housing units in these two states does not include business locations, so the percentage of locations counted as served in Form 477 but not served according to the pilot may in fact be lower than what USTA reported. Regardless, the error rate is still significant, indicating (if that rate were to hold nationally) that there could be potentially 7 million additional unserved rural households nationwide currently not identified as unserved in the Form 477 data.5 That is certainly an issue worth fixing, but the number is far fewer than some may expect."
+    },
+    {
+     "inicio_corpo": 4094,
+     "fim_corpo": 4997,
+     "trecho": "3 We provide data on “households” and on “housing units” because the Census defines these two things differently and it is not clear which one the Consortium used as the denominator in the Proof of Concept Report. The FCC’s block-level housing and population estimates also report a total of 1.87 million rural housing units (1.57 million rural households) in these two states combined, with 1.28 million rural housing units (1.1 million rural households) reported as being located in census blocks with one or more fixed terrestrial ISP offering a 25 Mbps/3 Mbps minimum service. 4 Proof of Concept Report at 4. 5 We note that this 7 million estimate nationwide is consistent with the Proof of Concept Report’s finding that “as many as 38% of additional rural locations are unserved in census blocks that would have been reported as ‘served’ in today’s FCC Form 477 reporting approach.” Id."
+    },
+    {
+     "inicio_corpo": 4680,
+     "fim_corpo": 5371,
+     "trecho": "4 Proof of Concept Report at 4. 5 We note that this 7 million estimate nationwide is consistent with the Proof of Concept Report’s finding that “as many as 38% of additional rural locations are unserved in census blocks that would have been reported as ‘served’ in today’s FCC Form 477 reporting approach.” Id. at 3. The total number of households located in rural census blocks is 25 million, with 18.5 million reported as served at 25 Mbps/3 Mbps in the most recent Form 477 deployment data. If an additional 38 percent of those 18.5 million are in fact unserve d the total number of households reported as incorrectly served in Form 477 data would be approximately 14.8 million."
+    },
+    {
+     "inicio_corpo": 4680,
+     "fim_corpo": 5521,
+     "trecho": "4 Proof of Concept Report at 4. 5 We note that this 7 million estimate nationwide is consistent with the Proof of Concept Report’s finding that “as many as 38% of additional rural locations are unserved in census blocks that would have been reported as ‘served’ in today’s FCC Form 477 reporting approach.” Id. at 3. The total number of households located in rural census blocks is 25 million, with 18.5 million reported as served at 25 Mbps/3 Mbps in the most recent Form 477 deployment data. If an additional 38 percent of those 18.5 million are in fact unserve d the total number of households reported as incorrectly served in Form 477 data would be approximately 14.8 million. This would correspond to approximately 12 percent of the U.S. population being unserved by a fixed terrestrial ISP offering 25 Mbps/3 Mbps service."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0065::Macrorregião",
+   "unit_id": "W0065",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Dana Floberg",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Puerto Rico",
+     "forma_encontrada": "Puerto Rico",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "insular areas",
+     "forma_encontrada": "insular areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 713,
+     "trecho": "Written Testimony of Dana J. Floberg Policy Manager Free Press and Free Press Action Fund Before the Congress of the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology Regarding “Legislating to Connect America: Improving the Nation’s Broadband Maps” September 11, 2019 1 Chairman Doyle, Ranking Member Latta, Chairman Pallone, Ranking Member Walden and esteemed members of the subcommittee, thank you for inviting me to testify. I’m here today as Policy Manager for Free Press and Free Press Action, on behalf of our 1.4 million members in all fifty states, the District of Columbia and Puerto Rico."
+    },
+    {
+     "inicio_corpo": 17766,
+     "fim_corpo": 18637,
+     "trecho": "live in an area where no fixed broadband option is available at the 25/3 Mbps speed tier. While this proportion may in fact be larger, given the admitted potential for overstatement in the current deployment data collection process, as discussed above there is little to no evidence suggesting that any such overstatement in the number of served locations is enough to surpass the sizable 36 percent who reportedly do have access to 25/3 Mbps fixed broadband and either choose to subscribe to a slower tier or no service at all (see Figure 1 below). 9 Figure 1. Percentage of People Subscribing to Broadband by Level of Deployment Regardless of the exact proportion, it is undeniable based on Form 477 data that at least 7 percent do not have 25/3 Mbps fixed broadband deployed where they live, and many of those are in more rural or insular areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0065::Posição no trabalho",
+   "unit_id": "W0065",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Dana Floberg",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unemployed",
+     "forma_encontrada": "unemployed",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 23212,
+     "fim_corpo": 24268,
+     "trecho": "12 option exists for wired home internet outside of discount programs only available to a limited selection of qualifying households. For example, in many markets Charter Communication’s entry-level tier offers 200 Mbps downstream speeds for 70 dollars per month after introductory rates expire, a price that many low -income households will find out of their reach. Without resellers serving this overlooked section of the demand curve by offering lower rates for Charter’s excess capacity, price-sensitive households have extremely limited choices if any for affordable wired broadband. When families are forced to forgo other necessities like diapers and food so they can afford to keep paying their internet bill, when students are forced to research and write essays on mobile phones because their parents can’t afford a fixed connection, when unemployed individuals are forced to hunt for jobs without the aid of broadband that’s available right outside their door because the price is simply too high, we have an affordability problem."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0065::Raça e etnia",
+   "unit_id": "W0065",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Dana Floberg",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "American Indian",
+     "forma_encontrada": "American Indian",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Alaska Natives",
+     "forma_encontrada": "Alaska Natives",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "American Indian",
+     "forma_encontrada": "American Indian",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Alaska Native",
+     "forma_encontrada": "Alaska Native",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "American Indian",
+     "forma_encontrada": "American Indian",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Alaska Natives",
+     "forma_encontrada": "Alaska Natives",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Native Hawaiian",
+     "forma_encontrada": "Native Hawaiian",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 18637,
+     "fim_corpo": 19637,
+     "trecho": "Much has been written about the economic and engineering challenges of offering broadband service in rural areas where the population is less dense, making the potential subscriber base smaller, an d topographical features may present unique barriers to 10 deployment. Free Press research suggests that for some rural communities, getting broadband deployed may be even harder than it is for others. Our report Digital Denied found that members of marginalized racial and ethnic groups are more likely than their white counterparts to have no wired ISPs serving their homes, a disparity that is particularly acute in rural areas. While 20 percent of the rural white population has no available wired provider even at downstream speeds of just 3 Mbps, 32 percent of the rural Census-identified Hispanic population, 22 percent of the rural Black population, and 43 percent of rural American Indian/Alaska Natives are completely unserved by any wired ISP even at that relatively low speed."
+    },
+    {
+     "inicio_corpo": 18911,
+     "fim_corpo": 19637,
+     "trecho": "Free Press research suggests that for some rural communities, getting broadband deployed may be even harder than it is for others. Our report Digital Denied found that members of marginalized racial and ethnic groups are more likely than their white counterparts to have no wired ISPs serving their homes, a disparity that is particularly acute in rural areas. While 20 percent of the rural white population has no available wired provider even at downstream speeds of just 3 Mbps, 32 percent of the rural Census-identified Hispanic population, 22 percent of the rural Black population, and 43 percent of rural American Indian/Alaska Natives are completely unserved by any wired ISP even at that relatively low speed."
+    },
+    {
+     "inicio_corpo": 19043,
+     "fim_corpo": 20298,
+     "trecho": "Our report Digital Denied found that members of marginalized racial and ethnic groups are more likely than their white counterparts to have no wired ISPs serving their homes, a disparity that is particularly acute in rural areas. While 20 percent of the rural white population has no available wired provider even at downstream speeds of just 3 Mbps, 32 percent of the rural Census-identified Hispanic population, 22 percent of the rural Black population, and 43 percent of rural American Indian/Alaska Natives are completely unserved by any wired ISP even at that relatively low speed. 13 At downstream speeds of 25 Mbps and higher, 40 percent of the rural white population is unserved by a wired provider, compared to 52 percent of the rural Hispanic population, 45 percent of the rural Black population, and 67 percent of the rural American Indian/Alaska Native population.14 Such small but significant racial differences in rural deployment hold true even when we account for differences in income.15 Industry rightly views accurate and granular broadband maps as a tool for more efficiently targeting additional USF support, including Mobility Fund and Rural Digital Opportunity Fund spending, to these completely unserved communities."
+    },
+    {
+     "inicio_corpo": 19043,
+     "fim_corpo": 20298,
+     "trecho": "Our report Digital Denied found that members of marginalized racial and ethnic groups are more likely than their white counterparts to have no wired ISPs serving their homes, a disparity that is particularly acute in rural areas. While 20 percent of the rural white population has no available wired provider even at downstream speeds of just 3 Mbps, 32 percent of the rural Census-identified Hispanic population, 22 percent of the rural Black population, and 43 percent of rural American Indian/Alaska Natives are completely unserved by any wired ISP even at that relatively low speed. 13 At downstream speeds of 25 Mbps and higher, 40 percent of the rural white population is unserved by a wired provider, compared to 52 percent of the rural Hispanic population, 45 percent of the rural Black population, and 67 percent of the rural American Indian/Alaska Native population.14 Such small but significant racial differences in rural deployment hold true even when we account for differences in income.15 Industry rightly views accurate and granular broadband maps as a tool for more efficiently targeting additional USF support, including Mobility Fund and Rural Digital Opportunity Fund spending, to these completely unserved communities."
+    },
+    {
+     "inicio_corpo": 24676,
+     "fim_corpo": 25349,
+     "trecho": "Internet -adopting households in the bottom -income quintile are more than 3 times as likely as those in the top quintile to live in a home with only mobile internet access. Income inequality is not the only barrier to universal broadband adoption, however. People of color generally lag behind their white counterparts in terms of broadband adoption, with 84 percent of white people adopting home internet, compared to only 79 percent of Hispanic people, 17 November 2017 CPS. 13 76 percent of Black people, 70 percent of American Indian/Alaska Natives, and 81 percent of Native Hawaiian/Pacific Islanders."
+    },
+    {
+     "inicio_corpo": 24676,
+     "fim_corpo": 25349,
+     "trecho": "Internet -adopting households in the bottom -income quintile are more than 3 times as likely as those in the top quintile to live in a home with only mobile internet access. Income inequality is not the only barrier to universal broadband adoption, however. People of color generally lag behind their white counterparts in terms of broadband adoption, with 84 percent of white people adopting home internet, compared to only 79 percent of Hispanic people, 17 November 2017 CPS. 13 76 percent of Black people, 70 percent of American Indian/Alaska Natives, and 81 percent of Native Hawaiian/Pacific Islanders."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0065::Urbano e rural",
+   "unit_id": "W0065",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Dana Floberg",
+   "n_ocorrencias_no_par": 28,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 22,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1246,
+     "fim_corpo": 2252,
+     "trecho": "Form 477 Data Is Not As Inaccurate As Many Fear, But Could Still Be Improved. In an ongoing effort to promote universal broadband internet access service in this country, federal policymakers on both sides of the aisle have focused on potential errors and overstatements in the Federal Communications Commission’s National Broadband Map and the underlying data collection for that map known as Form 477. There are indeed opportunities to improve the granularity and accuracy of the Commission’s Form 477 data, though the issues may be significantly smaller than some stakeholders fear, at least with regards to fixed broadband deployment. During the Broadband Mapping Consortium’s pilot project managed by CostQuest Associates in Virginia and Missouri, 1 the creation of a broadband serviceable location fabric suggested that for these two states “38% of additional rural locations are unserved in census blocks 1 See Letter to Marlene H."
+    },
+    {
+     "inicio_corpo": 3021,
+     "fim_corpo": 3724,
+     "trecho": "However as the Consortium notes, not all ISPs participated in the pilot project. 4 What’s more, the Census data showing 6.31 million total housing units in these two states does not include business locations, so the percentage of locations counted as served in Form 477 but not served according to the pilot may in fact be lower than what USTA reported. Regardless, the error rate is still significant, indicating (if that rate were to hold nationally) that there could be potentially 7 million additional unserved rural households nationwide currently not identified as unserved in the Form 477 data.5 That is certainly an issue worth fixing, but the number is far fewer than some may expect."
+    },
+    {
+     "inicio_corpo": 3724,
+     "fim_corpo": 4680,
+     "trecho": "It’s worth clearing up any misunderstandings of what the Form 477 data is, and what it does and does not show. Certain parties have cited disparities between the Form 477 deployment data and those parties’ studies on broadband speeds and performance, and wrongly concluded that 2 Proof of Concept Report at 3. 3 We provide data on “households” and on “housing units” because the Census defines these two things differently and it is not clear which one the Consortium used as the denominator in the Proof of Concept Report. The FCC’s block-level housing and population estimates also report a total of 1.87 million rural housing units (1.57 million rural households) in these two states combined, with 1.28 million rural housing units (1.1 million rural households) reported as being located in census blocks with one or more fixed terrestrial ISP offering a 25 Mbps/3 Mbps minimum service."
+    },
+    {
+     "inicio_corpo": 3724,
+     "fim_corpo": 4680,
+     "trecho": "It’s worth clearing up any misunderstandings of what the Form 477 data is, and what it does and does not show. Certain parties have cited disparities between the Form 477 deployment data and those parties’ studies on broadband speeds and performance, and wrongly concluded that 2 Proof of Concept Report at 3. 3 We provide data on “households” and on “housing units” because the Census defines these two things differently and it is not clear which one the Consortium used as the denominator in the Proof of Concept Report. The FCC’s block-level housing and population estimates also report a total of 1.87 million rural housing units (1.57 million rural households) in these two states combined, with 1.28 million rural housing units (1.1 million rural households) reported as being located in census blocks with one or more fixed terrestrial ISP offering a 25 Mbps/3 Mbps minimum service."
+    },
+    {
+     "inicio_corpo": 3724,
+     "fim_corpo": 4680,
+     "trecho": "It’s worth clearing up any misunderstandings of what the Form 477 data is, and what it does and does not show. Certain parties have cited disparities between the Form 477 deployment data and those parties’ studies on broadband speeds and performance, and wrongly concluded that 2 Proof of Concept Report at 3. 3 We provide data on “households” and on “housing units” because the Census defines these two things differently and it is not clear which one the Consortium used as the denominator in the Proof of Concept Report. The FCC’s block-level housing and population estimates also report a total of 1.87 million rural housing units (1.57 million rural households) in these two states combined, with 1.28 million rural housing units (1.1 million rural households) reported as being located in census blocks with one or more fixed terrestrial ISP offering a 25 Mbps/3 Mbps minimum service."
+    },
+    {
+     "inicio_corpo": 3724,
+     "fim_corpo": 4680,
+     "trecho": "It’s worth clearing up any misunderstandings of what the Form 477 data is, and what it does and does not show. Certain parties have cited disparities between the Form 477 deployment data and those parties’ studies on broadband speeds and performance, and wrongly concluded that 2 Proof of Concept Report at 3. 3 We provide data on “households” and on “housing units” because the Census defines these two things differently and it is not clear which one the Consortium used as the denominator in the Proof of Concept Report. The FCC’s block-level housing and population estimates also report a total of 1.87 million rural housing units (1.57 million rural households) in these two states combined, with 1.28 million rural housing units (1.1 million rural households) reported as being located in census blocks with one or more fixed terrestrial ISP offering a 25 Mbps/3 Mbps minimum service."
+    }
+   ]
+  }
+ ]
+}

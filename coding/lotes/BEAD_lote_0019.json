@@ -1,0 +1,897 @@
+{
+ "caso": "BEAD",
+ "lote": 19,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0077::Raça e etnia",
+   "unit_id": "W0077",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Corynne McSherry",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "minorities",
+     "forma_encontrada": "minorities",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "minority",
+     "forma_encontrada": "Minority",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 30483,
+     "fim_corpo": 30929,
+     "trecho": "While there’s some sense to such policies—people should know what their elected representatives are saying—they necessarily privilege the powerful. 47 Given this background, we worry that the users most likely to be harmed by a weakened Section 230 are the people who most rely on online communities to safely gather and share information : racial and religious minorities, members of the LGBTQ community, and other marginalized groups."
+    },
+    {
+     "inicio_corpo": 31310,
+     "fim_corpo": 32174,
+     "trecho": "For rural Americans, online communities often serve as our most important connection to likeminded friends. For people of color, members of the LGBTQ community, and other marginalized South Dakotans, online communities are our lifelines.48 Online platforms can give power to the most vulnerable members of society. As EFF Chief Program Officer Rainey Reitman put it, “Online communities let women make decisions from the safety of our homes about whom we can trust. When we’re forced to make those decisions on the 44 Malachy Browne, YouTube Removes Videos Showing Atrocities in Syria, New York Times (Aug. 22, 2017), https://www.nytimes.com/2017/08/22/world/middleeast/syria-youtube-videos- isis.html. 45 Facebook Bans Rohingya group’s Posts as Minority Faces ‘Ethnic Cleansing,’ The Guardian (Sept."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0077::Saúde",
+   "unit_id": "W0077",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Corynne McSherry",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 34180,
+     "fim_corpo": 34936,
+     "trecho": "In Syria, human rights defenders have found the openness of the YouTube platform to be a major benefit to their efforts to document the conflict. Syrian activists have relied on both YouTube and Facebook to generate more hours of content than the le ngth of the conflict itself , some of which has been collected for use in war crimes tribunals. But YouTube’s automated filters have taken down thousands of Syrian channels that depicted human rights violations. Our joint investigation with Syrian Archive and Witness estimates that at least 206,077 videos, including 381 videos documenting airstrikes targeting hospitals and medical facilities, have been removed from the platform between 2011 and 2019.52 Political c riticism also suffers ."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0077::Urbano e rural",
+   "unit_id": "W0077",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Corynne McSherry",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 30483,
+     "fim_corpo": 31420,
+     "trecho": "While there’s some sense to such policies—people should know what their elected representatives are saying—they necessarily privilege the powerful. 47 Given this background, we worry that the users most likely to be harmed by a weakened Section 230 are the people who most rely on online communities to safely gather and share information : racial and religious minorities, members of the LGBTQ community, and other marginalized groups. For some of those groups, online platforms provide safety and resources that aren’t available anywhere else. As a group of South Dakota activists wrote in a letter to Senator John Thune: [Section 230’s] protections are uniquely important to South Dakotans: we rely on online communities to share our thoughts and ideas with friends across the country and around the world. For rural Americans, online communities often serve as our most important connection to likeminded friends."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0078::Gênero",
+   "unit_id": "W0078",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Hany Farid",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1039,
+     "trecho": "House Committee on Energy and Commerce Fostering a Healthier Internet to Protect Consumers Hany Farid, Ph.D. Testimony Background Technology and the internet have had a remarkable impact on our lives and society. Many educa- tional, entertaining, and inspiring things have emerged from the past two decades in innovation. At the same time, many horriﬁc things have emerged: a massive proliferation of child sexual abuse material [5], the spread and radicalization of domestic and international terrorists [2], the distri- bution of illegal and deadly drugs [10], the proliferation of mis- and dis-information campaigns designed to sow civil unrest, incite violence, and disrupt democratic elections [1], the proliferation of dangerous, hateful, and deadly conspiracy theories [9], the routine harassment of women and under-represented groups in the form of threats of sexual violence and revenge and non-consensual pornography [3], small- to large-scale fraud [12], and spectacular failures to protect our personal and sensitive data [4]."
+    },
+    {
+     "inicio_corpo": 15016,
+     "fim_corpo": 15970,
+     "trecho": "It is asking to be allowed to view content when a lawful warrant has been issued, as it can in your living room. And lastly, is the EFF really comfortable referring to 45 million pieces of child sexual abuse material reported to NCMEC last year as “a few child predators?” Conclusions We can and we must do better when it comes to contending with some of the most violent, harmful, dangerous, and hateful content online. I reject the naysayers that argue that it is too diﬃcult or impossible, or those that say that reasonable and responsible content moderation will lead to the stiﬂing of an open exchange of ideas. References [1] S. Bradshaw and P. Howard. The global disinformation order. Computational Propaganda Research Project, Sep 2019. [2] M. Fisher and A. Taub. How everyday social media users become real-world extremists. New York Times , Apr 2018. [3] S. Haynes. ’A toxic place for women.’ a new study reveals the scale of abuse on Twitter."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0078::Saúde e deficiência",
+   "unit_id": "W0078",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Hany Farid",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "blind",
+     "forma_encontrada": "Blind",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7679,
+     "fim_corpo": 8663,
+     "trecho": "In announcing the decision, Mr. Zuckerberg conceded that it came at a cost: “At the same time, there are real safety concerns to address before we can implement end-to-end encryption across all of our messaging services,” he wrote. “Encryption is a powerful tool for privacy, but that includes the privacy of people doing bad things. When billions of people use a service to connect, some of them are going to misuse it for truly terrible things like child exploitation, terrorism, and extortion.” The adoption of end-to-end encryption would signiﬁcantly hamper the eﬃcacy of programs like photoDNA. This is particularly troubling given that the majority of the millions of yearly reports to NCMEC’s CyberTipline originate on Facebook’s Messaging services. Blindly implementing end- to-end encryption will signiﬁcantly increase the risk and harm to children around the world, not to mention the inability to contend with other illegal and dangerous activities on Facebook’s services."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0080::Educação",
+   "unit_id": "W0080",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Danielle Citron",
+   "n_ocorrencias_no_par": 10,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 4,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "School’s",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "School’s",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 283,
+     "trecho": "PREPARED WRITTEN TESTIMONY AND STATEMENT FOR THE RECORD FOR Danielle Keats Citron, Professor of Law, Boston University School of Law HEARING ON “Fostering a Healthier Internet to Protect Consumers” BEFORE THE House Committee on Energy and Commerce October 16, 2019 John D."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 633,
+     "trecho": "PREPARED WRITTEN TESTIMONY AND STATEMENT FOR THE RECORD FOR Danielle Keats Citron, Professor of Law, Boston University School of Law HEARING ON “Fostering a Healthier Internet to Protect Consumers” BEFORE THE House Committee on Energy and Commerce October 16, 2019 John D. Dingell Room, 2123, Rayburn House Office Building Washington, D.C. INTRODUCTION Thank you for inviting me to appear before you to testify about corporate responsibility for online activity and fostering a healthy internet to protect consumers. My name is Danielle Keats Citron. I am a Professor of Law at the Boston University School of Law."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 936,
+     "trecho": "PREPARED WRITTEN TESTIMONY AND STATEMENT FOR THE RECORD FOR Danielle Keats Citron, Professor of Law, Boston University School of Law HEARING ON “Fostering a Healthier Internet to Protect Consumers” BEFORE THE House Committee on Energy and Commerce October 16, 2019 John D. Dingell Room, 2123, Rayburn House Office Building Washington, D.C. INTRODUCTION Thank you for inviting me to appear before you to testify about corporate responsibility for online activity and fostering a healthy internet to protect consumers. My name is Danielle Keats Citron. I am a Professor of Law at the Boston University School of Law. In addition to my home institution, I am an Affiliate Faculty at the Berkman Klein Center at Harvard Law School, Affiliate Scholar at Stanford Law School’s Center on Internet & Society, Affiliate Fellow at Yale Law School’s Information Society Project, and Tech Fellow at NYU Law’s Policing Project."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 936,
+     "trecho": "PREPARED WRITTEN TESTIMONY AND STATEMENT FOR THE RECORD FOR Danielle Keats Citron, Professor of Law, Boston University School of Law HEARING ON “Fostering a Healthier Internet to Protect Consumers” BEFORE THE House Committee on Energy and Commerce October 16, 2019 John D. Dingell Room, 2123, Rayburn House Office Building Washington, D.C. INTRODUCTION Thank you for inviting me to appear before you to testify about corporate responsibility for online activity and fostering a healthy internet to protect consumers. My name is Danielle Keats Citron. I am a Professor of Law at the Boston University School of Law. In addition to my home institution, I am an Affiliate Faculty at the Berkman Klein Center at Harvard Law School, Affiliate Scholar at Stanford Law School’s Center on Internet & Society, Affiliate Fellow at Yale Law School’s Information Society Project, and Tech Fellow at NYU Law’s Policing Project."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 936,
+     "trecho": "PREPARED WRITTEN TESTIMONY AND STATEMENT FOR THE RECORD FOR Danielle Keats Citron, Professor of Law, Boston University School of Law HEARING ON “Fostering a Healthier Internet to Protect Consumers” BEFORE THE House Committee on Energy and Commerce October 16, 2019 John D. Dingell Room, 2123, Rayburn House Office Building Washington, D.C. INTRODUCTION Thank you for inviting me to appear before you to testify about corporate responsibility for online activity and fostering a healthy internet to protect consumers. My name is Danielle Keats Citron. I am a Professor of Law at the Boston University School of Law. In addition to my home institution, I am an Affiliate Faculty at the Berkman Klein Center at Harvard Law School, Affiliate Scholar at Stanford Law School’s Center on Internet & Society, Affiliate Fellow at Yale Law School’s Information Society Project, and Tech Fellow at NYU Law’s Policing Project."
+    },
+    {
+     "inicio_corpo": 27054,
+     "fim_corpo": 27871,
+     "trecho": "On the other hand, social networks that have safety and speech policies that are transparent and reasonably executed at scale should enjoy the immunity from liability as the drafters of Section 230 intended. To return to Rebecca Tushnet’s framing, with power comes responsibility. Law should change to ensure that such power is wielded re sponsibly. With Section 230, Congress sought to provide incentives for “Good Samaritans” engaged in efforts to moderate content. Their goal was laudable. Section 230 should be amended to condition the immunity on reasonable moderation practices rather than the free pass that exists today. Market pressures and morals are not always enough, and they should not have to be. BIOGRAPHY Danielle Citron is a Professor of Law at the Boston University School of Law."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0080::Gênero",
+   "unit_id": "W0080",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Danielle Citron",
+   "n_ocorrencias_no_par": 10,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 4,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "gender",
+     "forma_encontrada": "Gender",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "Women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "gender",
+     "forma_encontrada": "gender",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "Women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "Women",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2603,
+     "fim_corpo": 3478,
+     "trecho": "REV. 747 (2016); Spying Inc., 72 WASH. & LEE L. REV. 1243 (2015); Criminalizing Revenge Porn, 49 WAKE FOREST L. REV. 345 (2014) (with Mary Anne Franks); The Scored Society, 89 WASH. L. REV. 1 (2014) (with Frank Pasquale); The Right to Quantitative Privacy, 98 MINN. L. REV. 62 (2013) (with David Gray); Intermediaries and Hate Speech: Fostering Digital Citizenship for the Information Age , 91 B.U. L REV. 1435 (2011) (with Helen Norton); Network Accountability for the Domestic Intelligence Apparatus, 62 HASTINGS L.J. 1441 (2011) (with Frank Pasquale); Mainstreaming Privacy Torts, 99 CAL. L. REV. 1805 (2010); Government Speech 2.0 , 87 DENVER U. L. REV. 899 (2010) (with Helen Norton); Fulfilling Government 2.0’s Promise with Robust Privacy Protections , 78 GEO. WASH. L. REV. 822 (2010); Law’s Expressive V alue in Combating Cyber Gender Harassment, 108 MICH."
+    },
+    {
+     "inicio_corpo": 5397,
+     "fim_corpo": 6136,
+     "trecho": "But it has not been a clear win for civil rights and civil liberties. I ts overbroad interpretation in the courts has undermined the statute’s purpose and exacted significant costs to free speech and equal opportunity. Platforms not only have been shielded from liability when their moderation efforts have filtered or block ed too much or too little “offensive” or illegal activity , as lawmakers intended. But t hey also have been shielded from responsibility even then they solicit illegal activities, deliberately leave up unambiguously illegal content that causes harm , and sell dangerous products. The costs to free expression and equality have been considerable, especially for women, nonwhites, and LGBTQ individuals ."
+    },
+    {
+     "inicio_corpo": 18245,
+     "fim_corpo": 19025,
+     "trecho": "44 Id. 45 See, e.g., Erna Besic Psycho Mom of Two!, THEDIRTY (Oct. 9, 2019, 10:02 AM), https://thedirty.com/#post-2374229. This laissez-faire approach has been costly to individuals, groups, and society. As more than ten years of research have shown, cybermobs and individual harassers target individuals with sexually threatening and sexually humiliating online abuse.46 According to a 2017 Pew Research Center study, one in five U.S. adults have experienced online harassment that includes stalking, threats of violence, or cyber sexual harassment. 47 More often, t argeted individuals are women, women of color, lesbian and trans women, and other sexual minorities.48 They do not feel safe on- or offline .49 They experience anxiety and severe emotional distress."
+    },
+    {
+     "inicio_corpo": 18245,
+     "fim_corpo": 19025,
+     "trecho": "44 Id. 45 See, e.g., Erna Besic Psycho Mom of Two!, THEDIRTY (Oct. 9, 2019, 10:02 AM), https://thedirty.com/#post-2374229. This laissez-faire approach has been costly to individuals, groups, and society. As more than ten years of research have shown, cybermobs and individual harassers target individuals with sexually threatening and sexually humiliating online abuse.46 According to a 2017 Pew Research Center study, one in five U.S. adults have experienced online harassment that includes stalking, threats of violence, or cyber sexual harassment. 47 More often, t argeted individuals are women, women of color, lesbian and trans women, and other sexual minorities.48 They do not feel safe on- or offline .49 They experience anxiety and severe emotional distress."
+    },
+    {
+     "inicio_corpo": 18245,
+     "fim_corpo": 19025,
+     "trecho": "44 Id. 45 See, e.g., Erna Besic Psycho Mom of Two!, THEDIRTY (Oct. 9, 2019, 10:02 AM), https://thedirty.com/#post-2374229. This laissez-faire approach has been costly to individuals, groups, and society. As more than ten years of research have shown, cybermobs and individual harassers target individuals with sexually threatening and sexually humiliating online abuse.46 According to a 2017 Pew Research Center study, one in five U.S. adults have experienced online harassment that includes stalking, threats of violence, or cyber sexual harassment. 47 More often, t argeted individuals are women, women of color, lesbian and trans women, and other sexual minorities.48 They do not feel safe on- or offline .49 They experience anxiety and severe emotional distress."
+    },
+    {
+     "inicio_corpo": 19674,
+     "fim_corpo": 20495,
+     "trecho": "Potential Statutory Responses Reforming Section 230 is long overdue. Before discussing possible options, it is worth noting that efforts are underway to impose Section 230’s provisions as part of trade agreement with Mexico and Canada. It is unwise for the Administration to inscribe Section 230 into trade agreements at the same time that efforts are underway in Congress to reform the law.56 46 See generally CITRON, HATE CRIMES IN CYBERSPACE, supra note. The 2017 Pew study found that one in four Black individuals say they have been subject to online harassment due to their race as have one in ten Hispanic individuals. For white individuals, the share is lower —three percent. Women are twice as likely as me n to say they have been targeted online due to their gender (11 percent versus 5 percent)."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0080::Idade",
+   "unit_id": "W0080",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Danielle Citron",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 30047,
+     "fim_corpo": 30950,
+     "trecho": "She is a technology contributor for Forbes and served as a member of the now-defunct Concurring Opinions blog (2008-2019). Professor Citron’s work has been recognized at home and abroad. In 2015, the United Kingdom’s Prospect Magazine named Professor Citron one of the “Top 50 World Thinkers.” The Maryland Daily Record named her one of the “Top 50 Most Influential Marylanders.” In 2011, Professor Citron testified about misogynistic cyber hate speech before the Inter -Parliamentary Committee on Anti-Semitism at the House of Commons. Professor Citron is an active member o f the cyber law community. She is an Affiliate Scholar at the Stanford Center on Internet and Society, Affiliate Fellow at the Yale Information Society Project, Senior Fellow at Future of Privacy, Affiliate Faculty at the Berkman Klein Center at Harvard Law School, and a Tech Fellow at the NYU Policing Project."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0080::Posição no trabalho",
+   "unit_id": "W0080",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Danielle Citron",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11116,
+     "fim_corpo": 12281,
+     "trecho": "2009). words, the law [wa]s intended to promote the values of privacy, security and liberty alongside the values of open discourse.21 Section 230’s liability shield has been extended to shield activity that has little to do with free speech, including the sale of dangerous products .22 Consider Armslist.com, the self -described “firearms marketplace.”23 Unlicensed sellers use the site to sell guns to people who cannot pass background checks.24 Armslist.com is where Radcliffe Haughton illegally purchased a gun, which he used to murder his estranged wife who had a restraining order against him. 25 The Wisconsin court’s restraining order banned Haughton from legally purchasing a firearm.26 On Armslist.com, Haughton found a gun seller that did not require a background check.27 He used the gun that he illegally purchased to murder his estranged wife and two co-workers.28 The Wisconsin Supreme Court held that Armslist was immune from liability based on Section 230.29 Extending the immunity from liability to platforms that deliberately encourage , facilitate, or refuse to remove illegal activity would seem absurd to the CDA’s drafters."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0080::Raça e etnia",
+   "unit_id": "W0080",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Danielle Citron",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "minorities",
+     "forma_encontrada": "minorities",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "minorities",
+     "forma_encontrada": "minorities",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 18245,
+     "fim_corpo": 19025,
+     "trecho": "44 Id. 45 See, e.g., Erna Besic Psycho Mom of Two!, THEDIRTY (Oct. 9, 2019, 10:02 AM), https://thedirty.com/#post-2374229. This laissez-faire approach has been costly to individuals, groups, and society. As more than ten years of research have shown, cybermobs and individual harassers target individuals with sexually threatening and sexually humiliating online abuse.46 According to a 2017 Pew Research Center study, one in five U.S. adults have experienced online harassment that includes stalking, threats of violence, or cyber sexual harassment. 47 More often, t argeted individuals are women, women of color, lesbian and trans women, and other sexual minorities.48 They do not feel safe on- or offline .49 They experience anxiety and severe emotional distress."
+    },
+    {
+     "inicio_corpo": 20913,
+     "fim_corpo": 21858,
+     "trecho": "47 Maeve Duggan, Online Harassment 2017 Study, Pew Research Center (July 11, 2017). 48 CITRON, HATE CRIMES IN CYBERSPACE, supra note. 49 Id. 50 Jonathon W. Penney, Chilling Effects: Online Surveillance and Wikipedia Use, 31 BERKELEY TECH. L.J. 117, 125–26 (2016); see also Jonathon W. Penney, Internet Surveillance, Regulation, and Chilling Effects Online: A Comparative Case Study , 6 INTERNET POL’Y REV., May 26, 2017, at 1, 3. See generally CITRON, HATE CRIMES IN CYBERSPACE, supra note, at; Danielle Keats Citron, Civil Rights In Our Information Age , in THE OFFENSIVE INTERNET (Saul Levmore & Martha C. Nussbaum, eds. 2010); Citron & Richards, supra note, at 1365 (“[N]ot everyone can freely engage online. This is especially true for women, minorities, and political dissenters who are more often the targets of cyber mobs and individual harassers.”); Citron & Franks, supra note, at 385; Citron, Cyber Civil Rights, supra note."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0081::Educação",
+   "unit_id": "W0081",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Gretchen Peters",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9368,
+     "fim_corpo": 10711,
+     "trecho": "David Roberts and Julio Hernandez-Castro, “Bycatch and illegal wildlife trade on the dark web,” Published online by Cambridge University Press: 14 June 2017. National Whistleblower’s Center, “Help Stop Wildlife Trafficking on Facebook,” April 2018. See also: WIRED (June 2018): How Facebook Groups Became a Bizarre Bazaar for Elephant Tusks Bloomberg (July 2019): A black market in wildlife trafficking thrives on Facebook and Instagram Human Remains Dr. Shawn Graham and Dr. Damien Huffer, “The Insta-Dead: The rhetoric of the human remains trade on Instagram.” Internet Archaeology 45, 2018. See also: Vice (July 2018): These Popular Instagram Accounts Are Selling Human Remains Media and Other Published Reports Narcotics: Ahmed Al-Rawi, “The fentanyl crisis & the dark side of social media,” School of Communication, Faculty of Communication, Art and Technology, Simon Fraser University, 8888 University Drive, British Columbia V5A 1S6, Canada Sarah Frier, “Facebook’s Crisis Management Algorithm Runs on Outrage,” Bloomberg, March 2019. Romance Scams Jack Nicas, “Facebook Connected Her to a Tattooed Soldier in Iraq. Or So She Thought.” New York Times, 28 July 2019. Child Abuse Michael Keller and Gabriel Dance, “The Internet Is Overrun with Images of Child Sexual Abuse. What Went Wrong?”"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0081::Idade",
+   "unit_id": "W0081",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Gretchen Peters",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2273,
+     "fim_corpo": 3081,
+     "trecho": "In 2014, I received funding from State Department to map wildlife supply chains. T hat’s when my team discovered that the largest retail markets for endangered species are on social media platforms like Facebook and WeChat. Founding the Alliance to Counter Crime Online has taught me the incredible range and scale of illicit activity happening online. It is far worse than even I ever imagined. Distinguished members of the committee : The Internet is the new frontier for organized crime and terror groups. We MUST get this under control. Illicit groups have weaponized social media for years now, taking advantage of a market infrastructure that is global, encrypted and highly lucrative. The tech industry will try and convince you that illegal activity is confined to the dark web."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0082::Domicílio e arranjo familiar",
+   "unit_id": "W0082",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Katherine Oyama",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10423,
+     "fim_corpo": 11320,
+     "trecho": "These approaches range from clear policies and community guidelines, with mechanisms to report content that violates them, to increasingly 5 effective artificial intelligence (AI) and machine learning that can facilitate removal of harmful content before a single human user has been able to access it. We also now have over 10,000 people across Google working on content moderation and removal on our platforms and have invested hundreds of millions of dollars in these efforts. YouTube Around 2 billion people come to YouTube every month and over 500 hours of video are uploaded every minute — making it one of the largest living collections of cultural content ever assembled in one place. The vast majority of this content is positive, ranging from “how-to” tutorials, family videos, journalism, and entertainment to educational and artistic content and more."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0082::Gênero",
+   "unit_id": "W0082",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Katherine Oyama",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "gender",
+     "forma_encontrada": "gender",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 14956,
+     "fim_corpo": 15784,
+     "trecho": "Between April and June 2019, we removed 1,152,263 videos thanks to Trusted Flaggers and users, which helped us to identify and take action against content that does not meet our community guidelines. Our efforts do not end there, as we are constantly adapting to new challenges and looking for ways to improve our policies. We work closely with experts on an ongoing basis as we review our policies and, in 2018 alone, we made more than 30 updates. For example, in June 2019 we updated our existing community guidelines for hate speech to make it clear that our rules specifically prohibit videos alleging that one group of people is superior in order to justify discrimination, segregation, or exclusion based on qualities like age, gender, race, caste, religion, sexual orientation, or veteran status."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0082::Vínculo institucional",
+   "unit_id": "W0082",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Katherine Oyama",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veteran",
+     "forma_encontrada": "veteran",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 14956,
+     "fim_corpo": 15784,
+     "trecho": "Between April and June 2019, we removed 1,152,263 videos thanks to Trusted Flaggers and users, which helped us to identify and take action against content that does not meet our community guidelines. Our efforts do not end there, as we are constantly adapting to new challenges and looking for ways to improve our policies. We work closely with experts on an ongoing basis as we review our policies and, in 2018 alone, we made more than 30 updates. For example, in June 2019 we updated our existing community guidelines for hate speech to make it clear that our rules specifically prohibit videos alleging that one group of people is superior in order to justify discrimination, segregation, or exclusion based on qualities like age, gender, race, caste, religion, sexual orientation, or veteran status."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0083::Macrorregião",
+   "unit_id": "W0083",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. James Frownfelter",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Puerto Rico",
+     "forma_encontrada": "Puerto Rico",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2573,
+     "fim_corpo": 3426,
+     "trecho": "Our newest, ABS-3A, provided us with the missing link to complete our global network needed to compete against the two big players in our business, Intelsat and SES—U.S. coverage. ABS-3A was built by Boeing, launched by SpaceX, and received FCC approval to serve the United States in 2017—just a few months before the Commission proposed to repurpose this spectrum. The satellite is basically brand new, and is expected to remain in orbit and in service until 2042. Hispasat operates 11 satellites, primarily in Europe and the Americas, including Amazonas-3. Like ABS-3A, Amazonas-3 is a newer satellite, and should continue in orbit and in service until 2031. Hispasat built Amazonas-3 to cover the entire continental United States in C-band and it is currently transmitting from Puerto Rico to earth stations across the United States."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0084::Idade",
+   "unit_id": "W0084",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jeff Campbell",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1810,
+     "fim_corpo": 2683,
+     "trecho": "But a less obvious reason is that national economic interests are at stake, to the level of potentially impacting GDP. Unlike previous mobile technologies, 5G technology for the first time makes possible a ubiquitously available set of wireless capabilities that can make our economy work better, by facilitating operations that are data driven and more efficient. In some cases, it enables a wireless solution where one does not exist, while in others, it makes a wireless solution easy to utilize relative to existing solutions. For example, today you can automate the timing of traffic signals and change the timing from a central control room. But without having data on the density and speed of traffic, how do you make informed decisions about how to set the timers? There is no wireless technology available today that would give you that data."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0085::Domicílio e arranjo familiar",
+   "unit_id": "W0085",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Phillip Berenbroick",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 18140,
+     "fim_corpo": 19547,
+     "trecho": "Second, a public auction would ensure transparency, prevent anti-competitive conduct, reduce risk of a failed auction, and make certain the auction serves the public interest. Revenues generated from the auction of the C-Band licenses would be returned to the Treasury. Congress should then allocate those revenues for the deployment of future-proof, high-speed, fixed broadband infrastructure in unserved and underserved communities, along with funding digital inclusion and digital literacy initiatives like those in the Digital Equity Act (H.R. 4486 and S. 1167). The fixed broadband infrastructure funded by revenues generated from the C-Band public auction would provide substantial economic benefits to the residents of those communities. Permitting P2MP fixed wireless use of the C-Band would deliver high-speed fixed wireless broadband to millions of unserved and underserved households, helping to close the digital divide. Third, the existence of high-speed fixed broadband infrastructure would make it more likely that 5G and future generations of wireless networks are deployed 12 more quickly to these previously unserved areas, leading to even greater potential economic benefits for those communities. Again, thank you for the opportunity to testify today on how to best repurpose the C-Band to benefit all Americans. I am prepared to answer any questions you may have."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0085::Escolaridade e letramento",
+   "unit_id": "W0085",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Phillip Berenbroick",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "digital literacy",
+     "forma_encontrada": "digital literacy",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 17950,
+     "fim_corpo": 18696,
+     "trecho": "First, modifying and repurposing spectrum in the lower C-Band and publicly auctioning that spectrum would ensure spectrum is allocated for 5G mobile broadband use quickly and efficiently. Second, a public auction would ensure transparency, prevent anti-competitive conduct, reduce risk of a failed auction, and make certain the auction serves the public interest. Revenues generated from the auction of the C-Band licenses would be returned to the Treasury. Congress should then allocate those revenues for the deployment of future-proof, high-speed, fixed broadband infrastructure in unserved and underserved communities, along with funding digital inclusion and digital literacy initiatives like those in the Digital Equity Act (H.R."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0085::Infraestrutura e porte populacional",
+   "unit_id": "W0085",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Phillip Berenbroick",
+   "n_ocorrencias_no_par": 14,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 8,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "Unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1298,
+     "fim_corpo": 2178,
+     "trecho": "Public Knowledge is a member of the broad-based Public Interest Spectrum Coalition that includes national consumer, civil rights, education, rural broadband, and social justice organizations. The benefits of any reallocation of the public’s airwaves in the C-Band must flow to the public. Repurposing portions of the C-Band for wireless broadband use presents the unique opportunity for policymakers to: 1) unleash hundreds of megahertz of mid- band spectrum for next-generation mobile broadband networks, 2) dramatically upgrade efficient use of the C-Band in ways that spur more widespread availability of high-speed fixed wireless broadband in rural and other unserved and underserved areas, and 3) 3 recoup tens of billions of dollars for the Treasury that could then be allocated to provide substantial benefits to the public, such as closing the digital divide."
+    },
+    {
+     "inicio_corpo": 1298,
+     "fim_corpo": 2178,
+     "trecho": "Public Knowledge is a member of the broad-based Public Interest Spectrum Coalition that includes national consumer, civil rights, education, rural broadband, and social justice organizations. The benefits of any reallocation of the public’s airwaves in the C-Band must flow to the public. Repurposing portions of the C-Band for wireless broadband use presents the unique opportunity for policymakers to: 1) unleash hundreds of megahertz of mid- band spectrum for next-generation mobile broadband networks, 2) dramatically upgrade efficient use of the C-Band in ways that spur more widespread availability of high-speed fixed wireless broadband in rural and other unserved and underserved areas, and 3) 3 recoup tens of billions of dollars for the Treasury that could then be allocated to provide substantial benefits to the public, such as closing the digital divide."
+    },
+    {
+     "inicio_corpo": 5458,
+     "fim_corpo": 6296,
+     "trecho": "lack access to the internet at broadband speeds. OSPPA concluded that increasing access to ninety-eight percent of residential and business locations with fiber to the premises would cost $40 billion, and reaching the final two 5 percent – those locations in the most remote areas and those with the most challenging terrain – would cost an additional $40 billion.2 Further, earlier this year, Chairman Pallone, Chairman Doyle, and numerous Members of the Energy & Commerce Committee introduced the Leading Infrastructure for Tomorrow’s America, or LIFT America Act (H.R. 2741). The LIFT America Act proposed to allocate $40 billion for broadband infrastructure investments to connect unserved and underserved communities.3 Analysts estimate that an auction of C-Band spectrum licenses could generate upwards of $50 billion."
+    },
+    {
+     "inicio_corpo": 5458,
+     "fim_corpo": 6296,
+     "trecho": "lack access to the internet at broadband speeds. OSPPA concluded that increasing access to ninety-eight percent of residential and business locations with fiber to the premises would cost $40 billion, and reaching the final two 5 percent – those locations in the most remote areas and those with the most challenging terrain – would cost an additional $40 billion.2 Further, earlier this year, Chairman Pallone, Chairman Doyle, and numerous Members of the Energy & Commerce Committee introduced the Leading Infrastructure for Tomorrow’s America, or LIFT America Act (H.R. 2741). The LIFT America Act proposed to allocate $40 billion for broadband infrastructure investments to connect unserved and underserved communities.3 Analysts estimate that an auction of C-Band spectrum licenses could generate upwards of $50 billion."
+    },
+    {
+     "inicio_corpo": 9555,
+     "fim_corpo": 10503,
+     "trecho": "Inefficient users of valuable airwaves will demand they receive windfall profits to improve their efficiency and free up spectrum. This precedent would encourage hold outs, delaying repurposing of spectrum for new uses, 7 and diverting revenues that customarily have flowed back to the Treasury to benefit the public. The fastest, most straightforward, legally sound way to repurpose C-Band spectrum for mobile broadband use is for the Commission to hold a traditional forward auction, repack incumbent satellite users into the upper portion of the band, and require auction winners to reimburse incumbents for eligible and reasonable costs. Authorizing Point-to-Multipoint Fixed Wireless Service in the C-Band Would Bring High-Speed Broadband to Rural, Tribal, and Other Unserved Areas Public Knowledge also strongly supports opening unused frequencies in the C- Band for point-to-multipoint (“P2MP”) fixed wireless service."
+    },
+    {
+     "inicio_corpo": 9880,
+     "fim_corpo": 10802,
+     "trecho": "The fastest, most straightforward, legally sound way to repurpose C-Band spectrum for mobile broadband use is for the Commission to hold a traditional forward auction, repack incumbent satellite users into the upper portion of the band, and require auction winners to reimburse incumbents for eligible and reasonable costs. Authorizing Point-to-Multipoint Fixed Wireless Service in the C-Band Would Bring High-Speed Broadband to Rural, Tribal, and Other Unserved Areas Public Knowledge also strongly supports opening unused frequencies in the C- Band for point-to-multipoint (“P2MP”) fixed wireless service. Allowing P2MP use of the band would put finite public spectrum resources to more efficient use, and help close the digital divide by allowing fixed wireless broadband providers to extend high-speed broadband to rural and tribal areas, small towns, and other unserved or underserved communities."
+    }
+   ]
+  }
+ ]
+}

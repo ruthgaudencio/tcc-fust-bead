@@ -1,0 +1,386 @@
+# W0284 | Dr. Mary Franks | George Washington University Law School
+# 118th Congress | House | 2024-04-11
+# Where Are We Now: Section 230 of the Communications Decency Act of 1996
+# source: https://www.congress.gov/118/meeting/house/117099/witnesses/HHRG-118-IF16-Wstate-FranksM-20240411.pdf
+
+1 
+ 
+ 
+U.S. House of Representatives Committee on Energy and Commerce 
+ Subcommittee on Communications and Technology  
+Hearing: “Where Are We Now: Section 230 of the Communications Decency Act of 1996.” 
+ 
+Written Testimony of Dr. Mary Anne Franks 
+Eugene L. and Barbara A. Bernard Professor in Intellectual Property, Technology, and Civil 
+Rights Law, George Washington Law School 
+President and Legislative & Tech Policy Director, Cyber Civil Rights Initiative 
+ 
+Submitted April 9, 2023 
+  
+ 2 
+Summary 
+Section 230 was enacted as a “Good Samaritan” law for the Internet, that is, a law that seeks to 
+encourage pro-social behavior by providing legal protection for voluntary, good faith efforts to 
+assist others. It was originally conceived to reward online intermediaries who take affirmative 
+steps to restrict harmful content on their platforms with immunity from liability for those actions. 
+For nearly thirty years, however, courts have instead interpreted the law to preemptively absolve 
+online intermediaries of liability for harms facilitated by their sites and services, even when they 
+could easily have chosen to prevent them and even when they solicit, amplify, or profit from 
+them. Such unqualified immunity not only erases the incentive to help that Section 230 was 
+intended to provide, but creates an incentive to harm. Doing nothing is always cheaper than 
+helping, and harmful content can be very profitable. As long as tech platforms are allowed to 
+enjoy the benefits of doing business without any of the burdens, they will have little incentive to 
+take care and every incentive to be reckless in their pursuit of profit. There is no justification for 
+exempting the tech industry from the liability that virtually all individuals and industries face 
+when they contribute to harm, especially an industry with such outsized capacity to inflict or 
+accelerate wide-scale and irreparable harm, including sexual exploitation, self-harm, violent 
+radicalization, and democracy-destroying disruptions to the information ecosystem. For too long, 
+Section 230 has been allowed to shut the courtroom door on individuals who have experienced 
+grievous injury, giving the tech industry an unearned competitive advantage over other 
+industries, displacing massive amounts of settled law, and keeping the public in the dark about 
+practices that affect the health, education, and safety of us all.   
+ 
+ 
+ 3 
+I. The Origins of Section 230 as a Good Samaritan Law for the Internet 
+ 
+In the Biblical parable of the Good Samaritan, a traveler is beaten by robbers and left half 
+dead by the side of the road. A priest sees him but passes by without stopping; a Levite later does 
+the same. Finally, a man from Samaria comes upon the injured traveler. Even though he was in 
+no way responsible for the traveler’s plight, the Good Samaritan stops, tends to the man’s 
+wounds, and takes him to an inn to receive further care. 
+In the United States, a bystander generally has no duty to be a “good Samaritan,” that is, to 
+assist an injured person even if one could easily do so. See Restatement (Second) of Torts § 314. 
+The duty to assist an imperiled person arises only in specific circumstances, such as the existence 
+of a special relationship between the parties or where the rescuer is responsible for creating the 
+initial danger. Id. §§ 314A, 314B, 321, 322. Under common law, choosing to be a good 
+Samaritan comes at a cost: a person who voluntarily undertakes to rescue or render aid to a 
+stranger assumes a duty, which makes that person liable for harm that might result from this 
+effort. Id. §§ 323, 324. “The result of all this is that the good Samaritan who tries to help may 
+find himself mulcted in damages, while the priest and the Levite who pass by on the other side 
+go on their cheerful way rejoicing.” William L. Prosser & W. Page Keeton, Law of Torts § 56, at 
+340 (4th ed.1971).  
+In an attempt to eliminate the disincentive to help created by these common law rules, all 
+states have enacted some form of “Good Samaritan” legislation to protect individuals from civil 
+liability for any negligent acts or omissions committed while voluntarily providing emergency 
+aid or assistance.  See Benjamin C. Zipursky, Online Defamation, Legal Concepts, and the Good 
+ 4 
+Samaritan, 51 Val. U.L. Rev. 1, 31–32 (2016); Annotation, Construction and application of 
+“Good Samaritan” statutes, 68 A.L.R.4th 294 (1989). 
+In 1996, Congress passed a “Good Samaritan” law for the internet: Section 230 of the 
+Communications Decency Act. The operative provision of Section 230 is titled “Protection for 
+‘Good Samaritan’ blocking and screening of offensive material,” The heart of Section 230 is 
+subsection (c)(2), which offers immunity from civil liability to providers and users of interactive 
+computer services (such as search engines, social media platforms, and other online 
+intermediaries) for actions “voluntarily taken in good faith to restrict access to or availability of” 
+harmful content. 
+Congress was prompted to enact Section 230 to address a seeming tension between a pair 
+of defamation cases decided in the early days of the commercial Internet. The first was Cubby, 
+Inc. v. CompuServe, Inc., 776 F. Supp. 135 (S.D.N.Y . 1991), where a federal district court held 
+that CompuServe, an early internet service provider, could not be liable for defamatory content 
+posted on one of its forums because it had no notice of its unlawful nature. Because CompuServe 
+made no effort to screen content, the federal court found that the service had no notice and 
+therefore no liability. The second was Stratton Oakmont, Inc. v. Prodigy Servs. Co., No. 
+31063/94, 1995 WL 323710 (N.Y . Sup. Ct. May 24, 1995), where a state trial court held that 
+another early internet service provider, Prodigy Services Co., was liable for defamatory content 
+on its platform because the site had made attempts to screen content for offensiveness. Id. at *4. 
+The state court characterized this screening as “editorial control,” rendering Prodigy a 
+“publisher” for purposes of defamation law. Id.  
+Taken together, the rulings seemed to indicate that online intermediaries risked publisher 
+liability if they attempted to screen or block certain content, but could avoid publisher liability if 
+ 5 
+they did not. Then-Congressman Chris Cox, one of the co-sponsors of Section 230, criticized the 
+Prodigy ruling as “backward,” maintaining that internet service providers should be encouraged, 
+not discouraged, from “do[ing] everything possible for us, the customer, to help us control, at the 
+portals of our computer, at the front door of our house, what comes in and what our children 
+see.” 141 Cong. Rec. H8460-01 at 8469 (Aug. 4, 1995). 
+Section 230 was intended to do just that: enable and incentivize online intermediaries to 
+engage in moderation and other content-management practices to protect users from harmful 
+content.  As the House Committee Report on the law explained:   
+[Section 230] provides “Good Samaritan” protections from civil liability for providers 
+or users of an interactive computer service for actions to restrict or to enable restriction 
+of access to objectionable online material. One of the specific purposes of this section 
+is to overrule Stratton-Oakmont v. Prodigy and any other similar decisions which have 
+treated such providers and users as publishers or speakers of content that is not their 
+own because they have restricted access to objectionable material.
+  
+H.R. Conf. Rep. No. 104–458, at 194 (1996) (emphases added). 
+These overarching goals of encouraging online intermediaries to take affirmative, voluntary 
+steps to remove harmful material were also codified in the law itself. Section 230 states that it is 
+“the policy of the United States” to “encourage the development of technologies which 
+maximize user control over what information is received by individuals, families, and schools 
+who use the Internet and other interactive computer services,” and to “remove disincentives for 
+the development and utilization of blocking and filtering technologies that empower parents to 
+restrict their children’s access to objectionable or inappropriate online material.” 47 U.S.C. 
+§ 230(b). 
+ 6 
+Section 230(c)(2) is “a parallel to state Good Samaritan statutes that protect those who 
+voluntarily provide emergency aid. Its aim is to shield (from tort liability) those who voluntarily 
+protect individuals from Internet speech that would harm them; removing such speech or 
+filtering will not generate civil liability; courts will not be allowed to convert an online 
+intermediary’s affirmative undertaking into a basis for liability.” Zipursky, 51 Val. U.L. Rev. at 
+33. As with other Good Samaritan statutes, the immunity provided by Section 230(c)(2) is not 
+unlimited. First, it does not apply when an online intermediary is already under an existing duty 
+to act—i.e., where its action to restrict access to objectionable third-party content is not 
+“voluntary.” 47 U.S.C. §˜230(c)(2). In addition, Section 230(c)(2) does not provide immunity to 
+online intermediaries that do nothing to address harm or that contribute to or profit from harm. 
+See id. (requiring, as a condition of immunity for an online intermediary, that there be “action . . . 
+taken” and that it is done in “good faith”).  
+Section 230’s other main provision, (c)(1), states that “[n]o provider or user of an interactive 
+computer service shall be treated as the publisher or speaker of any information provided by 
+another information content provider.” This provision makes no reference to immunity, but 
+impliedly limits the kinds of actions that can be brought against online intermediaries on the 
+basis of third-party content. The choice of the terms “publisher” and “speaker” indicate that this 
+limitation applies only to speech-related causes of action (i.e., common-law defamation and 
+comparable claims), and more specifically to what is known as “republication liability” in 
+defamation law. 
+At common law, defamation liability extended not only to the original speaker of a 
+defamatory statement, but also to any “publisher” of the statement. See Restatement (Second) of 
+Torts § 578 (1977) (“[O]ne who repeats or otherwise republishes defamatory matter is subject to 
+ 7 
+liability as if he had originally published it.”). Liability of this nature extended to publishers such 
+as newspapers, magazines, and book publishers, see id., cmt. b, as well as to televisions and 
+radio broadcasters, see id. § 581(b). Furthermore, other speech- or information-based “torts at 
+common law follow this mold, imposing liability on publishers for the improper nature of their 
+disseminated content.” Henderson, 53 F.4th at 122 n.15. (identifying as examples claims based 
+on false-light invasion of privacy and publicity given to private life). 
+However, “[d]efamation at common law distinguished between publisher and distributor 
+liability.” Id. at 121 n.12 (emphases added). While a publisher was strictly liable for carrying 
+defamatory matter, a distributor who only “delivers or transmits defamatory matter published by 
+a third person is subject to liability if, but only if, he knows or has reason to know of its 
+defamatory character.” Restatement (Second) of Torts § 581. This sort of distributor-based 
+liability extended to anyone “transferring or circulating” material they knew or had reason to 
+know was defamatory, including news dealers, bookstores, libraries, and telegraph operators. See 
+id., cmts. d–f.  
+The meaning and scope of Section 230(c)(1) is clear when viewed through the lens of these 
+common-law antecedents. Subsection (c)(1) operates solely to prevent publisher-based liability 
+from attaching in a speech claim where the online intermediaries has done nothing more than 
+provide access to third-party content. The fact that Congress chose to use the word “publisher” 
+indicates that this protection does not extend beyond the kinds of speech claims where 
+“publisher” status has relevance. Moreover, even in the context of such speech claims, Congress 
+made clear that an online intermediary may still face distributor-based liability, based on third-
+party content an online intermediary knew or should have known was harmful. This result 
+follows from the presumption that the omission of the term “distributor” was a deliberate choice 
+ 8 
+on the part of Congress in decided the scope of protection online intermediaries should enjoy for 
+speech claims based on third-party content.  
+ 
+II. Section 230 Has Become a Bad Samaritan Law 
+For nearly thirty years, however, most courts have ignored the text and history of Section 230 
+and instead interpreted this online Good Samaritan law to protect not only Internet sites and 
+services that attempt to restrict harmful content, but also those that make no effort to restrict 
+access to harmful content. Worse still, some courts have even interpreted the law to protect those 
+who solicit harmful content, amplify it, and even profit from it. Section 230 has been used to 
+protect online classifieds sites from facing liability for sex trafficking ads,
+1 online firearms 
+sellers from facing liability for facilitating unlawful gun sales to domestic abusers who went on 
+to murder their estranged partners,
+2 online message boards from facing liability for livestreaming 
+massacres and spreading terrorist propaganda, 3 and online marketplaces from facing liability for 
+putting defective products into the stream of commerce.4 In this upside-down version of the 
+Good Samaritan parable, not only indifferent priests and Levites, but also enterprising passersby 
+directing crowds to the bloody spectacle for a price, are granted the same protections as the Good 
+ 
+1 See, e.g., Jane Doe No. 1 v. Backpage.com, LLC, 817 F.3d 12 (1st Cir. 2016). 
+2 See, e.g., Daniel v. Armslist, LLC, 2019 WI 47, 386 Wis. 2d 449 N.W.2d 710, cert. denied, No. 
+19-153, 2019 WL 6257416 (U.S. Nov. 25, 2019). 
+3 Matt Laslo, The Fight Over Section 230—and the Internet as We Know It, Wired (Aug. 13, 
+2019) https://www.wired.com/story/fight-over-section-230-internet-as-we-know-it/. 
+4 See, e.g., Oberdorf v. Amazon.com, Inc., 295 F. Supp. 3d 496 (M.D. Pa. 2017), affirmed in part, 
+vacated in part, 930 F.3d 136 (3d Cir. 2019), vacated en banc, 936 F.3d 182 (3d Cir. 2019). 
+ 9 
+Samaritan. In other words, courts have treated Section 230 not as the Good Samaritan law that 
+Congress enacted, but as a Bad Samaritan law that rewards reckless, unaccountable, and 
+destructive online behavior.  
+“Notwithstanding what seems to be a direct message from Congress in the very naming 
+of the statute, it turns out to have been difficult for courts and commentators alike to grasp its 
+main point.” Zipursky, 51 Val. U.L. Rev. at 2. Instead, “courts have extended the immunity in 
+[Section] 230 far beyond anything that plausibly could have been intended by Congress.” 
+Rodney Smolla, 1 Law of Defamation § 4:86, at 4–380 (2d ed. 2019). “Nothing in the text, 
+structure, or history of [Section] 230 indicates that it should provide blanket immunity to service 
+providers that do nothing to respond” to harmful content. Danielle Keats Citron, Cyber Civil 
+Rights, 89 B.U. L. Rev. 61, 116 n.377 (2009).  The unconditional-immunity view is “hard to 
+square with a plain reading of the statute,” which clearly indicates that the “operative reasons for 
+immunity” are screening and limiting access to objectionable content. Olivier Sylvain, 
+Intermediary Design Duties, 50 Conn. L. Rev. 203, 239 (2018). 
+Beginning with the Fourth Circuit in Zeran v. America Online, Inc., 129 F.3d 327, 330 
+(4th Cir. 1997), most courts have interpreted Section 230 as giving online intermediaries 
+essentially unconditional immunity in cases involving third-party content. This interpretation of 
+Section 230 contravenes the text, history, and purpose of the law as providing “Good Samaritan” 
+protection. Put simply, a law cannot incentivize the rendering of aid if that law is interpreted to 
+confer the same benefit upon those who render aid and those who do not. Interpreting Section 
+230 to shield online intermediaries from liability even when they are indifferent to or benefit 
+from harm actively undermines Good Samaritan behavior and flouts the policy decision made by 
+Congress.  
+ 10 
+This “unconditional-immunity” interpretation of Section 230 is a complete inversion of 
+the law’s purpose of enabling and incentivizing “Good Samaritan” conduct. As Judge Frank 
+Easterbrook noted in one lower court decision, this approach to Section 230 immunity makes 
+online intermediaries “indifferent to the content of information they host or transmit [because] 
+whether they do (subsection (c)(2)) or do not (subsection (c)(1)) take precautions, there is no 
+liability under either state or federal law.” Doe v. GTE Corp., 347 F.3d 655 (7th Cir. 2003). Given 
+that “precautions are costly, not only in direct outlay but also in lost revenue from the filtered 
+customers,” it follows that online intermediaries “may be expected to take the do-nothing option 
+and enjoy immunity under [Section] 230(c)(1).” Id. at 660. Worse yet, decisions adopting a 
+“outlandishly broad” interpretation of Section 230 “have served to immunize platforms dedicated 
+to abuse and others that deliberately host users’ illegal activities.” Danielle Keats Citron & 
+Benjamin Wittes, The Internet Will Not Break: Denying Bad Samaritans § 230 Immunity, 86 
+Fordham L. Rev. 401, 403 (2017). This reading of Section 230 gives indifferent and 
+unscrupulous online intermediaries a competitive advantage over responsible online 
+intermediaries dedicating costly resources to safety and harm prevention. 
+It also gives the tech industry generally a competitive advantage over virtually every 
+other industry and over most private individuals. Most people, most of the time, can be held 
+liable of for causing harm. This is true even if they cause it indirectly and unintentionally, and 
+especially if they benefit in some way from the harm. As Justice Elena Kagan asked during oral 
+argument in Gonzalez v. Google, 598 U. S. ____ (2023), “every other industry has to internalize 
+the costs of its conduct. Why is it that the tech industry gets a pass?” Auto manufacturers can 
+face liability for making engines that catch fire. Hospitals can be sued for botched surgeries. 
+ 11 
+Grocery stores can be held responsible for failing to maintain safe premises. Employers can be 
+held liable for failing to respond to reports of discrimination.  
+Removing the potential for liability from an industry that thrives on risky behavior 
+creates what economists call a moral hazard5: the increased willingness to take risks when one is 
+protected from the consequences.  If a tech company knows that it will not have to absorb the 
+negative impact of potentially dangerous but lucrative product or service, there is little incentive 
+for it to ensure that it is safe before unleashing it on the public. An industry moves fast and 
+breaks things when it does not have to pick up the pieces.  
+Perpetuating this kind of Bad Samaritan immunity is especially egregious considering 
+how Internet and social media platforms can exacerbate and magnify the harms of abuse and 
+harassment. The anonymity provided by many social media platforms allows the perpetrators of 
+abuse to avoid detection. The reach and amplification of social media allow abuse to be 
+crowdsourced and broadcast to a wide audience. And the permanence of online content means 
+that harmful content or private information can be nearly impossible to remove from public view. 
+All of this contributes to the virtual captivity in which online abuse permeates every aspect of the 
+victim’s life, and opportunities to escape from the global reach of technology are extremely 
+limited. It is therefore no wonder that online abuse has serious consequences for victims’ 
+freedom of expression, professional and educational opportunities, civic participation, and 
+mental health. Given that the costs of online injuries so often fall disproportionately on 
+marginalized populations, the ability to hold online intermediaries responsible is also key to 
+ 
+5 See Mary Anne Franks, Moral Hazard on Stilts:‘Zeran’ s’ Legacy, The Recorder (Nov. 10, 
+2017). 
+ 12 
+protecting “cyber civil rights,”6 a phrase coined by Professor Danielle Keats Citron in 2009.7 
+Abundant empirical evidence demonstrates that online abuse further chills the intimate, artistic, 
+and professional expression of individuals whose rights were already under assault offline.8  
+In denying those injured by reckless tech practices access to the courts, Section 230 
+impinges on a right “conservative of all other rights, and lies at the foundation of orderly 
+government. It is one of the highest and most essential privileges of citizenship …” Chambers v. 
+Baltimore & Ohio Railroad Co., 207 U.S. 142, 28.  Tort law, John Goldberg and Benjamin 
+Zipursky write in their book Recognizing Wrongs, “is a mechanism of accountability” that 
+provides victims of wrongdoing a direct path to redress, not contingent on “the solicitude of 
+those who injure them or on the beneficence of charitable organizations or government benefits 
+programs.”  But Section 230 preempts plaintiffs from ever bringing suit in many cases, and 
+ 
+6 Danielle Citron and Mary Anne Franks, “Cyber Civil Rights in the Time of COVID-19,” 
+Harvard Law Review (blog), Harvard Law Review, May 14, 2020, 
+https://blog.harvardlawreview.org/cyber-civil-rights-in-the-time-of-covid-19. 
+7 Danielle K. Citron, “Cyber Civil Rights,” Boston University Law Review, (February 2009), 
+https://scholarship.law.bu.edu/faculty_scholarship/617. 
+8 Jonathon Penney, “Whose Speech Is Chilled by Surveillance?,” Slate, Jul. 7, 2017,  
+https://slate.com/technology/2017/07/women-young-people-experience-the-chilling-effects-of-
+surveillance-at-higher-rates.html; Caitlin Ring Carlson & Haley Witt, “Online harassment of 
+U.S. women journalists and its impact on press freedom,” First Monday, 25, November 11, 2020, 
+https://firstmonday.org/ojs/index.php/fm/article/download/11071/9995; Lucina Di Meco & 
+Saskia Brechenmacher, “Tackling Online Abuse and Disinformation Targeting Women in 
+Politics,” Carnegie Endowment for International Peace, November 30, 2020, 
+https://carnegieendowment.org/2020/11/30/tackling-online-abuse-and-disinformation-targeting-
+women-in-politics-pub-83331 
+ 13 
+ensures that those suits which are brought will rarely survive a motion to dismiss on Section 230 
+grounds. 
+Litigation is valuable in ways that are not contingent on or reducible to whether the claim 
+is vindicated in the end. “Even when a plaintiff's case fails on the merits, judicial engagement 
+with the details of her claim helps to frame her suffering as a legible subject of public attention 
+and governance.” Douglas A. Kyar, “The Public Life of Private Law: Tort Law as a Risk 
+Regulation Mechanism,” European Journal of Risk Regulation, 9, No. 1 (2018): 48–50. 
+Moreover, in many cases, the discovery process will provide significant value not just to the 
+plaintiff in the case at hand, but to legislators, regulators, future plaintiffs, and the public.   
+Prolonged discovery … will enable plaintiffs to uncover more information about 
+the nature, nexus, and extent of prior crimes and torts on websites. Plaintiffs could 
+use the locomotive of discovery to unearth aggravating factors, such as whether 
+the ISP profited by being too closely connected to fraudulent schemes that injured 
+consumers. Discovery in these cases might even result in ISPs or websites being 
+stripped of their immunity as primary publishers because of a close connection to 
+the creators of illegal content.  
+Michael L. Rustad & Thomas H. Koenig, “Rebooting Cybertort Law,” 382. 
+ 
+III. Response to Defenses of the Section 230 Status Quo  
+Defenders of the Section 230 status quo sometimes suggest that restriction of its protections 
+would render online intermediaries legally responsible for everything users post on their 
+platforms. But the withdrawal of immunity is not the same thing as the imposition of liability. 
+ 14 
+The bystander who fails to help a robbery victim does not enjoy the benefit of Good Samaritan 
+immunity, but this does not mean the bystander is legally responsible for the robbery. It is only 
+when and if that bystander not only fails to help, but actively causes harm—for example, by 
+taking photos of the victim to distribute for profit—that they could and should face potential 
+liability for that harm.  
+Another common claim is that Section 230 exceptionalism is justified because the tech 
+industry is a speech industry, and speech deserves special protection under the First Amendment. 
+Any risk of liability – the mere possibility of being sued – will force tech companies to take 
+down any third-party content that could be controversial, resulting in the loss of valuable, First 
+Amendment-protected expression.  
+  It is first important to note that the way that Section 230 is currently interpreted shields 
+far more than speech protected by the First Amendment – everything from defamation to credit 
+card transactions to sales of illegal firearms. People use the Internet for a vast array of activities 
+that are not “speech” in any First Amendment sense: paying bills, selling stolen goods, shopping 
+for dog leashes, booking hotel rooms, renewing driver’s licenses. The fact that Section 230 uses 
+the term “information” rather than “speech” has helped tech platforms invoke the law to absolve 
+themselves of responsibility for virtually everything individuals do online – a protection that 
+goes far beyond anything the First Amendment would or should protect. 
+Second, the tech industry is not the only speech-focused industry. Colleges and 
+universities are very much in the business of speech, but they can be sued for discrimination and 
+harassment. So can book publishers and book distributors, radio stations, newspapers, and 
+television companies. The New York Times and Fox News have no special, sweeping immunity 
+from liability the way the tech industry does. The newspaper and television industries have not 
+ 15 
+collapsed under the weight of potential liability, nor can it plausibly be argued that the potential 
+for liability has constrained them to publishing and broadcasting only anodyne, non-controversial 
+speech.  
+Of course, some calls for tech industry liability do indeed threaten free speech. Some of 
+the most pernicious attacks on free speech and the First Amendment in recent years have come in 
+the guise of Section 230 reform. Social media platforms are private entities with their own First 
+Amendment rights of speech and association. It is vitally important to respect those rights and to 
+reject any attempt by government actors to force social media platforms to carry certain speech 
+or demand that they provide access to certain speakers.  Respecting free speech and the First 
+Amendment means respecting tech companies’ right to fact-check, label, remove, ban, and make 
+other interventions as they see fit about the content on their sites. Providing additional or 
+alternative information to false or misleading posts is classic “counterspeech,” a treasured First 
+Amendment value. The First Amendment also protects the right to refuse to host content 
+altogether, as the right to free speech includes both the right to speak and the right not to speak. 
+As the Supreme Court held in West Virginia State Board of Education v. Barnette, “If there is any 
+fixed star in our constitutional constellation, it is that no official, high or petty, can prescribe 
+what shall be orthodox in politics, nationalism, religion, or other matters of opinion, or force 
+citizens to confess by word or act their faith therein.” The First Amendment also protects the 
+right of association, including the right of private actors to choose with whom they wish to 
+associate. NAACP v. Alabama ex rel. Patterson, 357 U.S. 449 (1958). And the Supreme Court 
+has long recognized that private-property owners generally have the right to exclude individuals 
+from their property as they see fit.
+ PruneYard Shopping Ctr. v. Robins, 447 U.S. 74, 82 (1980). 
+ 16 
+But allowing tech companies to enjoy unqualified immunity for everything they promote and 
+profit from inflicts economic, physical, psychological and free speech harms. Those targeted for 
+abuse shut down social media profiles and withdraw from public discourse. Those with political 
+ambitions are deterred from running for office. Journalists refrain from reporting on controversial 
+topics. While the current model shielding the tech industry from liability may ensure free speech 
+for the privileged few, protecting free speech for all requires legal reform.  
+IV. Recommendations for Reform 
+Given that the Supreme Court in Gonzalez passed on the opportunity to correct the 
+misreading of Section 230 that has plagued courts for decades, Congress should take up the 
+responsibility of amending Section 230 to clarify its purpose and foreclose interpretations that 
+render the statute incoherent. At a minimum, this means two specific changes: one, amending the 
+statute to make clear that interactive computer service providers that demonstrate deliberate 
+indifference to harmful content are ineligible for immunity; and two, making clear that the law’s 
+protections apply only to speech.  
+To accomplish the first change, Section 230 (c)(1) should be amended to state that providers 
+or users of interactive computer services cannot be treated as the publisher or speaker of speech 
+wholly provided by another information content provider, unless such provider or user 
+intentionally encourages, solicits, or generates revenue from the speech, or exhibits deliberate 
+indifference to harm caused by that speech.  
+To accomplish the second change, the word “information” in Section 230 (c)(1) should be 
+replaced with the word “speech.” This revision would put all parties in a Section 230 case on 
+notice that the classification of the content at issue as protected speech cannot be assumed, but 
+ 17 
+instead must be demonstrated. If a platform cannot make a showing that the content or 
+information at issue is speech, then it should not be able to take advantage of Section 230 
+immunity.

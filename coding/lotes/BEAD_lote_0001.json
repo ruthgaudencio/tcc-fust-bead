@@ -1,0 +1,836 @@
+{
+ "caso": "BEAD",
+ "lote": 1,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0001::Educação",
+   "unit_id": "W0001",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Joseph Franell",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1434,
+     "fim_corpo": 2315,
+     "trecho": "I also served in various roles as an officer in the United States Army, where I held an SCI – Top Secret security clearance. The Telecommunications Act of 1996: The following quote is directly from the FCC’s website: “The Telecommunications Act of 1996 was the first major overhaul of telecommunications law in almost 62 years. The goal of this new law was to let anyone enter any communications business -- to let any communications business compete in any market against any other. The Telecommunications Act of 1996 has the potential to change the way we work, live and learn. It will affect telephone service -- local and long distance, cable programming and other video services, broadcast services and services provided to schools.” Internet service was deemed an “Information Service”, and so not subject to Title II regulation like voice services."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0001::Escolaridade e letramento",
+   "unit_id": "W0001",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Joseph Franell",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "Students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9786,
+     "fim_corpo": 10828,
+     "trecho": "Large trucks are most often subject to lower speed limits than smaller vehicles. Some electric utilities charge more for electricity during peak usage times. Even the airline that transports me from the West Coast to Washington, D.C. treats their passengers differently based on how much they were willing and able to pay for their ticket. 4 In fact, I think we would all agree that as most forms of information, voice, data, video, etc. are now being moved via internet protocol (IP), some are clearly more important than others. Here are some of my own examples: • A long-distance call to 911 should take priority over a regular call. • If my daughter was in a car wreck and had a head injury late one night, I would want the digital imaging that needed to be analyzed remotely by a radiologist or surgeon to take priority over someone’s online gaming tournament. • Students participating in distance education or online standardized testing should get priority over those streaming on-line movies for entertainment."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0001::Infraestrutura e porte populacional",
+   "unit_id": "W0001",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Joseph Franell",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7664,
+     "fim_corpo": 8272,
+     "trecho": "Yes, I believe that Title II had begun to harm the Internet in the U.S. and a reapplication of it has the very real possibility of resulting in unforeseen and irrevocable damage in the future. I applaud your interest in having an objective conversation about the subject in this hearing today. Since the repeal of Net Neutrality, investors have been much more willing and perhaps eager to invest in rural telecommunications. Additionally, my company has been able to focus on continuing to provide exceptional telecommunications and is currently expanding into other markets that are underserved."
+    },
+    {
+     "inicio_corpo": 7664,
+     "fim_corpo": 8576,
+     "trecho": "Yes, I believe that Title II had begun to harm the Internet in the U.S. and a reapplication of it has the very real possibility of resulting in unforeseen and irrevocable damage in the future. I applaud your interest in having an objective conversation about the subject in this hearing today. Since the repeal of Net Neutrality, investors have been much more willing and perhaps eager to invest in rural telecommunications. Additionally, my company has been able to focus on continuing to provide exceptional telecommunications and is currently expanding into other markets that are underserved. We do this with confidence because we don’t have to concern ourselves with unnecessary regulatory interference and the draining cost of reporting and compliance. We also have plans in years 2019/20 to significantly expand our infrastructure, serving many more underserved communities in our region."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0001::Saúde",
+   "unit_id": "W0001",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Joseph Franell",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "tele-health",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 528,
+     "fim_corpo": 1434,
+     "trecho": "Witness background: I am the Chief Executive Officer of Eastern Oregon Telecom (EOT), a rural competitive telephone company and Internet service provider serving residents and businesses in Umatilla and Morrow counties, primarily in Northeast Oregon. EOT is currently providing residential and commercial gigabit services in four of the communities in its service area. In 2009, I was appointed by the governor of Oregon to the Oregon Broadband Advisory Council (OBAC) representing rural broadband interests in Oregon. I have been serving as the chairman of the council since 2010. The OBAC’s mandate is to advise the legislature and governor’s office on matters pertaining to broadband in the state, and to specifically promote the adoption and utilization of broadband for economic development, e-government, tele-health/tele-medicine, education, public safety, and tribal lands."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0001::Territórios de povos e comunidades tradicionais",
+   "unit_id": "W0001",
+   "subcategoria": "Territórios de povos e comunidades tradicionais",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Joseph Franell",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "tribal lands",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 528,
+     "fim_corpo": 1434,
+     "trecho": "Witness background: I am the Chief Executive Officer of Eastern Oregon Telecom (EOT), a rural competitive telephone company and Internet service provider serving residents and businesses in Umatilla and Morrow counties, primarily in Northeast Oregon. EOT is currently providing residential and commercial gigabit services in four of the communities in its service area. In 2009, I was appointed by the governor of Oregon to the Oregon Broadband Advisory Council (OBAC) representing rural broadband interests in Oregon. I have been serving as the chairman of the council since 2010. The OBAC’s mandate is to advise the legislature and governor’s office on matters pertaining to broadband in the state, and to specifically promote the adoption and utilization of broadband for economic development, e-government, tele-health/tele-medicine, education, public safety, and tribal lands."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0001::Urbano e rural",
+   "unit_id": "W0001",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Joseph Franell",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 788,
+     "trecho": "1 United States House Committee on Energy and Commerce Subcommittee on Communications and Technology Testimony of Joseph Franell Chief Executive Officer Eastern Oregon Telecom, LLC February 7, 2019 Good morning Chairmen Pallone and Doyle, Vice Chair Matsui, and Republican Leaders Walden and Latta, and Members of the subcommittee: Thank you for the opportunity to appear before you today. It is an honor to be here and speak about Net Neutrality and the consequences of applying Title II to the Internet. Witness background: I am the Chief Executive Officer of Eastern Oregon Telecom (EOT), a rural competitive telephone company and Internet service provider serving residents and businesses in Umatilla and Morrow counties, primarily in Northeast Oregon."
+    },
+    {
+     "inicio_corpo": 410,
+     "fim_corpo": 1065,
+     "trecho": "It is an honor to be here and speak about Net Neutrality and the consequences of applying Title II to the Internet. Witness background: I am the Chief Executive Officer of Eastern Oregon Telecom (EOT), a rural competitive telephone company and Internet service provider serving residents and businesses in Umatilla and Morrow counties, primarily in Northeast Oregon. EOT is currently providing residential and commercial gigabit services in four of the communities in its service area. In 2009, I was appointed by the governor of Oregon to the Oregon Broadband Advisory Council (OBAC) representing rural broadband interests in Oregon."
+    },
+    {
+     "inicio_corpo": 5657,
+     "fim_corpo": 6646,
+     "trecho": "Section 208 states: “No complaint shall at any time be dismissed because of the absence of direct damage to the complainant.” This section permits anyone to complain about the activities of a carrier to the Commission without any need of having actually been harmed. None of the above would keep the Internet free, nor would they address the reason Title II was applied to the Internet in the first place. I am confident that you all remember the public outrage when it was discovered that some providers had incentives to give preference to their own content delivery over the delivery of content that they did not own. It was this that sparked the discussion that ultimately led to application of Title II to the Internet. 3 Repeal of Net Neutrality – the Impact: The application of Title II as part of Net Neutrality had a dramatic chilling effect on rural telecom in the Pacific Northwest and I suspect the same could be said about the rest of the country."
+    },
+    {
+     "inicio_corpo": 7341,
+     "fim_corpo": 8097,
+     "trecho": "All of this took place without the ability to have an objective discussion about the scope of the problem and how to address it without harming the Internet, all because of the fear-mongering by those who didn’t fully understand the subject or had other reasons for advancing Title II application to the Internet. Yes, I believe that Title II had begun to harm the Internet in the U.S. and a reapplication of it has the very real possibility of resulting in unforeseen and irrevocable damage in the future. I applaud your interest in having an objective conversation about the subject in this hearing today. Since the repeal of Net Neutrality, investors have been much more willing and perhaps eager to invest in rural telecommunications."
+    },
+    {
+     "inicio_corpo": 8272,
+     "fim_corpo": 9036,
+     "trecho": "We do this with confidence because we don’t have to concern ourselves with unnecessary regulatory interference and the draining cost of reporting and compliance. We also have plans in years 2019/20 to significantly expand our infrastructure, serving many more underserved communities in our region. I believe that Title II does not have to be, nor should it be, part of the solution to the problem of bad behavior by a few internet service providers. Such application of Title II would not just be damaging but also unnecessary. When I say “unnecessary”, I say so because my company does not participate in the bad behavior that started the Net Neutrality debate in the first place. In fact, I don’t know of any rural providers in Oregon who do."
+    },
+    {
+     "inicio_corpo": 10441,
+     "fim_corpo": 11359,
+     "trecho": "• If my daughter was in a car wreck and had a head injury late one night, I would want the digital imaging that needed to be analyzed remotely by a radiologist or surgeon to take priority over someone’s online gaming tournament. • Students participating in distance education or online standardized testing should get priority over those streaming on-line movies for entertainment. Prioritization of traffic becomes a problem only when it is anti-competitive in nature, when it is done to harm/eliminate the competition. And, there are consumer protection laws in place that target this type of behavior. Adding additional layers of regulatory burden is not the answer. In conclusion, it is important for me to convey that every dollar I spend reporting to regulatory agencies is a dollar I don’t have available to invest in new infrastructure to serve rural Eastern Oregon and Southeast Washington."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0002::Domicílio e arranjo familiar",
+   "unit_id": "W0002",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Michael Powell",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9294,
+     "fim_corpo": 10040,
+     "trecho": "This is precisely what the literature would predict, given the extensive historical evidence of the harms resulting from efforts to impose public-utility-style regulation on dynamic industries. As Congress diagnoses net neutrality and considers a remedy, it should be guided by Greek physician Hippocrates who famously counseled, “first, do no harm.” Even a cursory examination of the internet marketplace raises serious doubts about the wisdom of prescribing a high dose of pain medication to a relatively healthy patient. The internet is the fastest deploying technology in the history of the world. The industry that built it has invested over $1.6 trillion dollars to bring internet services to 94 percent of American households."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0002::Infraestrutura e porte populacional",
+   "unit_id": "W0002",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Michael Powell",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10861,
+     "fim_corpo": 11720,
+     "trecho": "Equally as impressive, the cable industry has just deployed 1Gbps (Gigabits per second) speeds to 80 percent of American homes, up from just 4 percent two years ago. And, we recently announced our 10G initiative, a dramatic leap in broadband that will bring 10Gbps speeds to American homes—10 times what is available today. These bold initiatives are certainly not going to be advanced by new Title II regulation, and the risk that they will be impeded is significant. The effect will be to undermine American global technology leadership. The idea of travelling back in time and invoking Title II raises countless questions. Will regulating the internet business under the heavy authority of Title II actually improve upon the results we have seen so far? Will Title II get more broadband to more people in rural and underserved communities?"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0002::Urbano e rural",
+   "unit_id": "W0002",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Michael Powell",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10861,
+     "fim_corpo": 11720,
+     "trecho": "Equally as impressive, the cable industry has just deployed 1Gbps (Gigabits per second) speeds to 80 percent of American homes, up from just 4 percent two years ago. And, we recently announced our 10G initiative, a dramatic leap in broadband that will bring 10Gbps speeds to American homes—10 times what is available today. These bold initiatives are certainly not going to be advanced by new Title II regulation, and the risk that they will be impeded is significant. The effect will be to undermine American global technology leadership. The idea of travelling back in time and invoking Title II raises countless questions. Will regulating the internet business under the heavy authority of Title II actually improve upon the results we have seen so far? Will Title II get more broadband to more people in rural and underserved communities?"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0003::Educação",
+   "unit_id": "W0003",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tom Wheeler",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 278,
+     "trecho": "Page | 1 Statement of Tom Wheeler Visiting Fellow, Brookings Institution – Senior Research Fellow, Harvard Kennedy School Before Subcommittee on Communications and Technology United States House of Representatives February 7, 2019 Mr."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0003::Idade",
+   "unit_id": "W0003",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tom Wheeler",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 278,
+     "trecho": "Page | 1 Statement of Tom Wheeler Visiting Fellow, Brookings Institution – Senior Research Fellow, Harvard Kennedy School Before Subcommittee on Communications and Technology United States House of Representatives February 7, 2019 Mr."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0003::Macrorregião",
+   "unit_id": "W0003",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tom Wheeler",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 774,
+     "fim_corpo": 1633,
+     "trecho": "I have represented the industries whose activities the Open Internet Order regulates. As Chairman, I sought to advance the public interest, under the Communications Act adopted by Congress, by ensuring that American consumers and businesses would have access to a fast, fair and open internet. I respect the challenge the digital era presents to the members of this committee. The early digital era’s “permissionless innovation” was made possible by an absence of gatekeepers. The policy challenge today is the rise of digital gatekeepers – both telecommunications networks and the information services that ride on them. Today, however, we focus on the behavior of the networks as the sine qua non of the 21stc century. Throughout history the charting of new territory has resulted in the pioneer making the early rules for the new territory."
+    },
+    {
+     "inicio_corpo": 774,
+     "fim_corpo": 1633,
+     "trecho": "I have represented the industries whose activities the Open Internet Order regulates. As Chairman, I sought to advance the public interest, under the Communications Act adopted by Congress, by ensuring that American consumers and businesses would have access to a fast, fair and open internet. I respect the challenge the digital era presents to the members of this committee. The early digital era’s “permissionless innovation” was made possible by an absence of gatekeepers. The policy challenge today is the rise of digital gatekeepers – both telecommunications networks and the information services that ride on them. Today, however, we focus on the behavior of the networks as the sine qua non of the 21stc century. Throughout history the charting of new territory has resulted in the pioneer making the early rules for the new territory."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0005::Domicílio e arranjo familiar",
+   "unit_id": "W0005",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jessica González",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 873,
+     "fim_corpo": 1248,
+     "trecho": "That includes the return of the FCC’s authority to protect us from current and future Internet Service Provider (“ISP”) discrimination and abuse, as well as the FCC’s authority to promote broadband choice, affordability, and privacy. I’m also here today as a Mexican -American woman who grew up in a working class family and became a first generation college graduate."
+    },
+    {
+     "inicio_corpo": 873,
+     "fim_corpo": 1667,
+     "trecho": "That includes the return of the FCC’s authority to protect us from current and future Internet Service Provider (“ISP”) discrimination and abuse, as well as the FCC’s authority to promote broadband choice, affordability, and privacy. I’m also here today as a Mexican -American woman who grew up in a working class family and became a first generation college graduate. I understand that millions of people who came before me, including members of this House past and present, have fought against discrimination, and struggled for better public school education, workers’ rights, a soci al safety net and other causes that enabled me to be here today. My father grew up in Redondo Beach, California, where, at the time, it was illegal for his family to live based on their ethnicity."
+    },
+    {
+     "inicio_corpo": 5340,
+     "fim_corpo": 6085,
+     "trecho": "6 People of color were among some of the most vocal critics of the repeal, and for good reason: we have more to lose. Never before in history have barriers to entry been lower for people of color to reach a large audience with our own stories in our own words; to start small businesses; to organize for change. We are unwilling to yield our newfound access. This hits really close to home for me as a racial justice activist, but also because my best friend, Vanessa Martínez Bell, is a blogger, small business owner, and cultural curator of multiracial motherhood. While she was pregnant, and in the midst of the Great Recession, Vanessa was laid off from her job at a non- profit in Las Vegas serving at -risk children and families."
+    },
+    {
+     "inicio_corpo": 7799,
+     "fim_corpo": 8596,
+     "trecho": "Being of mixed race and bicultural parents, the journey of personal identity for our children will be unlike our own . . . . In addition to raising empowered multiracial children, I feel purposed in the core mission of De Su Mama to build a community of like minded mothers who yearn to fully support the various layers of identity that make up our beautiful mixed kids. Today it is clear that Vanessa is serving an important niche with relevant and timely analysis and information. I only wish such a resource existed when I wa s growing up. DeSuMama.com has a loyal following, and is shifting culture and building bridges and understanding across cultures. It is also a successful business that has helped Vanessa supplement the family income while being at home with her children."
+    },
+    {
+     "inicio_corpo": 7920,
+     "fim_corpo": 8860,
+     "trecho": ". . . In addition to raising empowered multiracial children, I feel purposed in the core mission of De Su Mama to build a community of like minded mothers who yearn to fully support the various layers of identity that make up our beautiful mixed kids. Today it is clear that Vanessa is serving an important niche with relevant and timely analysis and information. I only wish such a resource existed when I wa s growing up. DeSuMama.com has a loyal following, and is shifting culture and building bridges and understanding across cultures. It is also a successful business that has helped Vanessa supplement the family income while being at home with her children. N otably, it has accomplished all of this at Vanessa’s own website, not by relying solely on Facebook or other social media platforms to distribute all of her content. De Su Mama helped support her family’s return to Los Angeles, and their purchase of a home ."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0005::Educação",
+   "unit_id": "W0005",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jessica González",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 873,
+     "fim_corpo": 1533,
+     "trecho": "That includes the return of the FCC’s authority to protect us from current and future Internet Service Provider (“ISP”) discrimination and abuse, as well as the FCC’s authority to promote broadband choice, affordability, and privacy. I’m also here today as a Mexican -American woman who grew up in a working class family and became a first generation college graduate. I understand that millions of people who came before me, including members of this House past and present, have fought against discrimination, and struggled for better public school education, workers’ rights, a soci al safety net and other causes that enabled me to be here today."
+    },
+    {
+     "inicio_corpo": 5914,
+     "fim_corpo": 6846,
+     "trecho": "While she was pregnant, and in the midst of the Great Recession, Vanessa was laid off from her job at a non- profit in Las Vegas serving at -risk children and families. With a passion for learning and a penchant for deep research and exploration, Vanessa began blogging from her Las Vegas apartment following the birth of her daughter in 2010. Her blog was a labor of love: her intention was to fill the void of content designed for and by parents raising multiracial children. Vanessa, a Los Angeles native, is the daughter of Cuban immigrants. She is married to the son of a Black Baptist preacher. Upon the birth of her daughter she noticed that there was a dearth of news, analysis and information geared towards Black and 5 University of Maryland, School for Public Policy, “Overwhelming Bipartisan Public Opposition to Repealing Net Neutrality Persists” (Apr."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0005::Gênero",
+   "unit_id": "W0005",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jessica González",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6846,
+     "fim_corpo": 7532,
+     "trecho": "18, 2018), http://www.publicconsultation.org /united - states/overwhelming-bipartisan-public-opposition-to-repealing-net-neutrality-persists/ . 6 The Senate passed the CRA on a bipartisan basis, but the measure died in the House o f Representatives upon adjournment of the 115th Congress because then- Speaker Paul Ryan refused to bring up the bill for a floor vote. 5 Latinx parents, and even less for mothers raising multiracial children. She began writing love letters to her daughter to guide her as she explores and stands in her identity, and to ensure that she sees the beauty and power in Black and Brown women, even in a world that tries subjugate us at every turn."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0005::Idade",
+   "unit_id": "W0005",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jessica González",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 873,
+     "trecho": "Written Testimony of Jessica J. González Vice President of Strategy and Senior Counsel Free Press and Free Press Action Fund Before the Congress of the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology Regarding “Preserving an Open Internet for Consumers, Small Businesses, and Free Speech” February 7, 2019 2 Chairman Doyle, Ranking Member Latta, and esteemed members of the subcommittee, thank you for inviting me to testify.1 I’m here today as Vice President of Strategy and Senior Counsel for Free Press and Free Press Action, on behalf of our 1.4 m illion members across the United States, in all 50 states, the District of Columbia and Puerto Rico, who are calling for reinstatement of the FCC’s 2015 Net Neutrality rules and legal framework."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 873,
+     "trecho": "Written Testimony of Jessica J. González Vice President of Strategy and Senior Counsel Free Press and Free Press Action Fund Before the Congress of the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology Regarding “Preserving an Open Internet for Consumers, Small Businesses, and Free Speech” February 7, 2019 2 Chairman Doyle, Ranking Member Latta, and esteemed members of the subcommittee, thank you for inviting me to testify.1 I’m here today as Vice President of Strategy and Senior Counsel for Free Press and Free Press Action, on behalf of our 1.4 m illion members across the United States, in all 50 states, the District of Columbia and Puerto Rico, who are calling for reinstatement of the FCC’s 2015 Net Neutrality rules and legal framework."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0005::Infraestrutura e porte populacional",
+   "unit_id": "W0005",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jessica González",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "high-cost areas",
+     "forma_encontrada": "high-cost areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 44421,
+     "fim_corpo": 45396,
+     "trecho": "population lived in a Census Block served by one or more wired home ISPs offering downstream speeds at or above 100 Mbps. By the end of 2016, this increased to 83.6 percent of the population. ■ At the end of 2014, only 10.6 percent of the U.S. population lived in a Census Block served by one or more wired home ISPs offering downstream speeds at or above 300 Mbps. By the end of 2016, this increased to 48.9 percent of the population. ● The number of Census Blocks with available home broadband services increased substantially following the FCC’s February 2015 restoration of Title II and adoption of Net Neutrality rules, particularly those at higher speed thresholds. ○ The number of Census Blocks with one or more wired ISP grew by nearly 300,000 between the end of 2014 and the end of 2016, a 4.2 percent increase. Much of this activity occurred in previously unserved rural areas, due in part to the FCC increasing the amount of USF deployment funding."
+    },
+    {
+     "inicio_corpo": 45396,
+     "fim_corpo": 46301,
+     "trecho": "○ Deployment of faster services continued at a h igh rate following the 2015 order. ■ At the end of 2014, there were 5.6 million Census Blocks served by one or more wired home ISPs offering 25 Mbps or higher downstream speeds. By the end of 2016, two years after the FCC’s adoption of strong Net Neutrality rules, this increased to 6.1 million Census Blocks, a near 8 percent increase. ■ At the end of 2014, there were fewer than 500,000 Census Blocks served by one or more wired home ISPs offering 300 Mbps or 24 higher downstream speeds. By the end of 2016, two years after the FCC’s adoption of strong Net Neutrality rules, this increased to 2.7 million Census Blocks, a more than 470 percent increase. ● The data reflects substantial growth in deployment of higher -speed broadband services in previously underserved areas ( i.e., areas with just one high -speed option previously)."
+    },
+    {
+     "inicio_corpo": 45789,
+     "fim_corpo": 46586,
+     "trecho": "■ At the end of 2014, there were fewer than 500,000 Census Blocks served by one or more wired home ISPs offering 300 Mbps or 24 higher downstream speeds. By the end of 2016, two years after the FCC’s adoption of strong Net Neutrality rules, this increased to 2.7 million Census Blocks, a more than 470 percent increase. ● The data reflects substantial growth in deployment of higher -speed broadband services in previously underserved areas ( i.e., areas with just one high -speed option previously). This is an important indicator of firms’ confidence in the market and lack of concern about regulatory costs (because if Title II really did deter investment, this would deter ISP entry into already -served areas where the potential market shares are lower than in unserved areas)."
+    },
+    {
+     "inicio_corpo": 49490,
+     "fim_corpo": 50216,
+     "trecho": "These results are irrefutable evidence that the broadband industry’s progress continued unhindered by the restoration of Title II authority and the adoption of strong rules – even though, quite obviously, the types of speed and coverage increases docu mented above have continued since 2017 as well. Those improvements will likely continue looking forward, yet not due to the Pai FCC’s repeal and abdication of its authority. And the fact that these continuing upgrades have not yet ensured that broadband is fast enough or that coverage is ubiquitous in every rural market or within each local market is no reason to believe that repealing the rules will change the fundamental economics of serving high-cost areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0005::Macrorregião",
+   "unit_id": "W0005",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jessica González",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Puerto Rico",
+     "forma_encontrada": "Puerto Rico",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 873,
+     "trecho": "Written Testimony of Jessica J. González Vice President of Strategy and Senior Counsel Free Press and Free Press Action Fund Before the Congress of the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology Regarding “Preserving an Open Internet for Consumers, Small Businesses, and Free Speech” February 7, 2019 2 Chairman Doyle, Ranking Member Latta, and esteemed members of the subcommittee, thank you for inviting me to testify.1 I’m here today as Vice President of Strategy and Senior Counsel for Free Press and Free Press Action, on behalf of our 1.4 m illion members across the United States, in all 50 states, the District of Columbia and Puerto Rico, who are calling for reinstatement of the FCC’s 2015 Net Neutrality rules and legal framework."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0005::Posição no trabalho",
+   "unit_id": "W0005",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jessica González",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforces",
+     "forma_encontrada": "workforces",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 873,
+     "fim_corpo": 1533,
+     "trecho": "That includes the return of the FCC’s authority to protect us from current and future Internet Service Provider (“ISP”) discrimination and abuse, as well as the FCC’s authority to promote broadband choice, affordability, and privacy. I’m also here today as a Mexican -American woman who grew up in a working class family and became a first generation college graduate. I understand that millions of people who came before me, including members of this House past and present, have fought against discrimination, and struggled for better public school education, workers’ rights, a soci al safety net and other causes that enabled me to be here today."
+    },
+    {
+     "inicio_corpo": 23333,
+     "fim_corpo": 24244,
+     "trecho": "No matter which of those periods we examine, one thing is clear: individual broadband providers’ capital expenditures have not uniformly skyrocketed since the FCC’s repeal of Net Neutrality rules in December 2017, even coupled (as that repeal unfortunately was) with massive corporate tax cuts and giveaways made law that same month by the 115th Congress and the Trump White House. 32 In fact, many of the largest ISPs have now reported to investors that their capital expenditures fell in 2018, decreasing year -over-year from 2017 – the last full year before the Pai repeal and the Trump tax cuts were both voted on and approved. In other words, even “freed” from the basic obligation not to discriminate unreasonably against their customers and simultaneously awash in cash from sweeping tax “reform,” many of the largest ISPs invested less (and even slashed their workforces at the same time)."
+    },
+    {
+     "inicio_corpo": 34852,
+     "fim_corpo": 35684,
+     "trecho": "Instead, we’ve seen ISPs cut spending, cut jobs, and pocket the tax savings. During just the last few weeks, as major ISPs began reporting their 2018 revenues and investment numbers, Verizon reported total company capital expenditures down by 39 See, e.g., S. Derek Turner, “Don’t Fall for AT&T’s Billion-Dollar Swindle,” Free Press (Nov. 14, 2017), https://www.freepress.net/our-response/expert-analysis/insights-opinions/dont-fall-atts-billion-dollar- swindle. 19 half a billion dollars, or about 3.4 percent in 2018 when compared to 2017. 40 AT&T reported that its 2018 capital expenditures dropped 1.4 percent compared to 2017, 41 all while revealing that instead of the tax -cut fueled job gr owth it had promised AT&T instead would be laying off workers."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0005::Saúde e deficiência",
+   "unit_id": "W0005",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jessica González",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "disability",
+     "forma_encontrada": "Disability",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "disability",
+     "forma_encontrada": "disability",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12012,
+     "fim_corpo": 12837,
+     "trecho": "For now, it suffices to say that while restoring the three bright- line rules against ISP blocking, throttling, and paid prioritization is essential, that alone would not be enough to safeguard Net Neutrality itself, let alone to restore all of these other rights lost when the FCC abdicated its statutory mandate. 15 Id. 16 Brian Fung, “Net neutrality activists, state officials are taking the FCC to court. Here’s how they’ll argue the case.,” Wash. Post, (Aug. 21, Apr. 2018), https://www.washingtonpost.com/technology/ 2018/08/21/net-neutrality-activists-state-officials-are-taking-fcc-court-heres-how-theyll-argue- case/?utm_term=.184f35c2b0b4.. 17 Alice Wong, “Net Neutrality, Accessibility, and the Disability Community,” Center for Media Justice (Nov."
+    },
+    {
+     "inicio_corpo": 12330,
+     "fim_corpo": 12956,
+     "trecho": "15 Id. 16 Brian Fung, “Net neutrality activists, state officials are taking the FCC to court. Here’s how they’ll argue the case.,” Wash. Post, (Aug. 21, Apr. 2018), https://www.washingtonpost.com/technology/ 2018/08/21/net-neutrality-activists-state-officials-are-taking-fcc-court-heres-how-theyll-argue- case/?utm_term=.184f35c2b0b4.. 17 Alice Wong, “Net Neutrality, Accessibility, and the Disability Community,” Center for Media Justice (Nov. 22, 2017), https://centerformediajustice.org/2017/1 1/22/net-neutrality-accessibility-and-the- disability-community/."
+    }
+   ]
+  }
+ ]
+}

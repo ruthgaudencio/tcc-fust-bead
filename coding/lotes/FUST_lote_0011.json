@@ -1,0 +1,837 @@
+{
+ "caso": "FUST",
+ "lote": 11,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0046::Renda e classe",
+   "unit_id": "S0046",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "José Eduardo Dutra",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 983,
+     "fim_corpo": 1920,
+     "trecho": "Relevantes todas são, porque parto do princípio de que toda matéria objeto de debate no Senado Federal, no Congresso Nacional e na Câmara dos Deputados tem sua relevância. Se ela foi proposta por um Parlamentar ou pelo Governo, deve-se reconhecer a sua importância. Veremos se há urgência que justifique uma convocação extraordinária no caso específico do Senado. Citarei as matérias que estão na pauta. Há uma PEC de autoria do Senador Esperidião Amin que limita os gastos com as Câmaras Municipais. Aprovada, ela foi à Câmara dos Deputados; foi modificada e voltou agora ao Senado. Se essa matéria for votada em janeiro, fevereiro, março ou outubro, não tem nenhuma diferença, porque ela só vai surtir efeito a partir do Orçamento de 2001. Então, nesse caso, não há nada que justificaria uma convocação extraordinária do Senado. Há duas PECs relativas ao fundo de erradicação da pobreza, as quais espero que o Senado vote."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0047::Domicílio e arranjo familiar",
+   "unit_id": "S0047",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Moreira Mendes",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4518,
+     "fim_corpo": 6265,
+     "trecho": "Bianco o fez e, certamente, daqui a três ou quatro meses, haverá de colher os frutos dessa sua determinação. Disse, ainda, o Governador, por ocasião do seu discurso, ao comemorar os 18 anos do Estado de Rondônia, que o seu Governo não vai mais olhar para si mesmo, mas para a sociedade; que não se submeterá aos objetivos de indivíduos ou grupos, mas da coletividade. S. Exª salientou também: Vamos reorientar o Governo para o cidadão. Vamos devolver o Estado para o seu legítimo dono, que é o povo. E vamos fazer isso adotando novas medidas, todas as que forem necessárias, inclusive a demissão de funcionários, para recuperar a capacidade de investimento no setor público, para que o Estado possa, novamente e de forma ascendente, aplicar recursos na promoção social, econômica e cultural dos rondonienses. Para que possamos resgatar da miséria e do abandono milhares de famílias. Para que possamos assistir melhor à nossa infância. Para que possamos dar trabalho aos nossos jovens. Para que possamos empreender um salto de qualidade no desenvolvimento de Rondônia. Para que tenhamos futuro. Sr. Presidente, ao encerrar, enfaticamente registro o aniversário do Estado de Rondônia e a determinação do Governador José Bianco em colocar aquele Estado nos trilhos do desenvolvimento. Era o que tinha a dizer. ***************************************************************************** SEGUE, NA ÍNTEGRA, DOCUMENTO A QUE SE REFERE O SR. SENADOR MOREIRA MENDES EM SEU PRONUNCIAMENTO. (Discurso do Governador do Estado de Rondônia, José Bianco, proferido durante as comemorações de aniversário daquele Estado.) ********************************************************************************** s ³"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0047::Idade",
+   "unit_id": "S0047",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Moreira Mendes",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4627,
+     "fim_corpo": 6265,
+     "trecho": "Disse, ainda, o Governador, por ocasião do seu discurso, ao comemorar os 18 anos do Estado de Rondônia, que o seu Governo não vai mais olhar para si mesmo, mas para a sociedade; que não se submeterá aos objetivos de indivíduos ou grupos, mas da coletividade. S. Exª salientou também: Vamos reorientar o Governo para o cidadão. Vamos devolver o Estado para o seu legítimo dono, que é o povo. E vamos fazer isso adotando novas medidas, todas as que forem necessárias, inclusive a demissão de funcionários, para recuperar a capacidade de investimento no setor público, para que o Estado possa, novamente e de forma ascendente, aplicar recursos na promoção social, econômica e cultural dos rondonienses. Para que possamos resgatar da miséria e do abandono milhares de famílias. Para que possamos assistir melhor à nossa infância. Para que possamos dar trabalho aos nossos jovens. Para que possamos empreender um salto de qualidade no desenvolvimento de Rondônia. Para que tenhamos futuro. Sr. Presidente, ao encerrar, enfaticamente registro o aniversário do Estado de Rondônia e a determinação do Governador José Bianco em colocar aquele Estado nos trilhos do desenvolvimento. Era o que tinha a dizer. ***************************************************************************** SEGUE, NA ÍNTEGRA, DOCUMENTO A QUE SE REFERE O SR. SENADOR MOREIRA MENDES EM SEU PRONUNCIAMENTO. (Discurso do Governador do Estado de Rondônia, José Bianco, proferido durante as comemorações de aniversário daquele Estado.) ********************************************************************************** s ³"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0047::Infraestrutura e porte populacional",
+   "unit_id": "S0047",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Moreira Mendes",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "fronteira",
+     "forma_encontrada": "fronteira",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 645,
+     "trecho": "O SR. MOREIRA MENDES (PFL - RO. Pronuncia o seguinte discurso. Sem revisão do orador) – Sr. Presidente, Srªs e Srs. Senadores, de volta Senado para atender à convocação extraordinária do Congresso feita pelo Excelentíssimo Senhor Presidente da República, ocupo a tribuna depois de aproximadamente vinte dias visitando o interior do meu Estado, onde pude ver a extraordinária riqueza daquela nova fronteira agrícola deste País, sua pujança, a força e a determinação de seu povo que, seguramente, se sobrepõe ao pior dos administradores, como o que José Bianco, o atual Governador, antecedeu, conseguem sobrepor-se a tudo e levar avante o Estado."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0047::Raça e etnia",
+   "unit_id": "S0047",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Moreira Mendes",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "negro",
+     "forma_encontrada": "Negro",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 972,
+     "fim_corpo": 2228,
+     "trecho": "Visitei também o Município de Cacoal, onde fui levar a confirmação de convênios da Fundação Nacional de Saúde, liberados por interferência minha, no valor aproximado de R$600 mil, para a execução de esgotamento sanitário e expansão de rede de água. Visitei também Nova Brasilândia d’Oeste, onde representei o Governador na instalação da Comarca daquela localidade, antiga aspiração daquela população, cujo prédio do fórum há mais de dez anos está construído. Escrevemos, portanto, mais uma página da história não só do Estado mas sobretudo daquele município. Visitei também o Município de Espigão d’Oeste, onde entregamos equipamentos financiados pela Suframa; visitamos o Município de Urupá, onde, juntamente com o Superintendente do Incra em Rondônia, entregamos o título definitivo da área física da cidade de Urupá. Igualmente, estivemos no Município de Monte Negro, onde participamos de reuniões com vereadores e lideranças daquela localidade, assim como visitamos talvez o mais pujante município do Estado, o Município de Buritis onde, em menos de dez anos, houve uma explosão demográfica extraordinária; também estivemos em Campo Novo e ainda nos Distritos de Nova Califórnia e de Extrema, na região conhecida como Ponta do Abunã."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0047::Urbano e rural",
+   "unit_id": "S0047",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Moreira Mendes",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "Campo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 867,
+     "trecho": "O SR. MOREIRA MENDES (PFL - RO. Pronuncia o seguinte discurso. Sem revisão do orador) – Sr. Presidente, Srªs e Srs. Senadores, de volta Senado para atender à convocação extraordinária do Congresso feita pelo Excelentíssimo Senhor Presidente da República, ocupo a tribuna depois de aproximadamente vinte dias visitando o interior do meu Estado, onde pude ver a extraordinária riqueza daquela nova fronteira agrícola deste País, sua pujança, a força e a determinação de seu povo que, seguramente, se sobrepõe ao pior dos administradores, como o que José Bianco, o atual Governador, antecedeu, conseguem sobrepor-se a tudo e levar avante o Estado. Visitei o Município de Ji-Paraná onde acompanhei aquele que talvez, seja o maior campeonato de futebol rural do País, com cerca de 140 agremiações representando as mais diversas e longínquas localidades do interior."
+    },
+    {
+     "inicio_corpo": 1227,
+     "fim_corpo": 2228,
+     "trecho": "Visitei também Nova Brasilândia d’Oeste, onde representei o Governador na instalação da Comarca daquela localidade, antiga aspiração daquela população, cujo prédio do fórum há mais de dez anos está construído. Escrevemos, portanto, mais uma página da história não só do Estado mas sobretudo daquele município. Visitei também o Município de Espigão d’Oeste, onde entregamos equipamentos financiados pela Suframa; visitamos o Município de Urupá, onde, juntamente com o Superintendente do Incra em Rondônia, entregamos o título definitivo da área física da cidade de Urupá. Igualmente, estivemos no Município de Monte Negro, onde participamos de reuniões com vereadores e lideranças daquela localidade, assim como visitamos talvez o mais pujante município do Estado, o Município de Buritis onde, em menos de dez anos, houve uma explosão demográfica extraordinária; também estivemos em Campo Novo e ainda nos Distritos de Nova Califórnia e de Extrema, na região conhecida como Ponta do Abunã."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0048::Domicílio e arranjo familiar",
+   "unit_id": "S0048",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Edison Lobão",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 265,
+     "trecho": "O SR. EDISON LOBÃO (PFL - MA. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Sr as e Srs. Senadores, em 30 de dezembro passado, assumiu a Presidência do Tribunal de Justiça do Estado do Maranhão o Desembargador Jorge Rachid Mubarak Maluf."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 613,
+     "trecho": "O SR. EDISON LOBÃO (PFL - MA. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Sr as e Srs. Senadores, em 30 de dezembro passado, assumiu a Presidência do Tribunal de Justiça do Estado do Maranhão o Desembargador Jorge Rachid Mubarak Maluf. Na mesma festiva solenidade, os ilustres desembargadores Milson de Souza Coutinho e Etelvina Ribeiro Gonçalves tomaram posse, respectivamente, na Vice-Presidência do Tribunal e na Corregedoria Geral da Justiça, cabendo ao eminente Desembargador Jamil de Miranda Gedeon Neto a responsabilidade de presidir o Tribunal Regional Eleitoral do Maranhão."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0051::Domicílio e arranjo familiar",
+   "unit_id": "S0051",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Eduardo Siqueira Campos",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "domicílio",
+     "forma_encontrada": "Domicílio",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2567,
+     "fim_corpo": 3706,
+     "trecho": "Sem qualquer dúvida, Sr. Presidente, as Comissões de Inquérito sobre o Judiciário e o Sistema Financeiro, deixarão o Brasil diferente se adotadas as medidas decorrentes das investigações e das conclusões apontadas. A Comissão Especial de combate à pobreza a par das medidas que deverá originar como a criação do Fundo Constitucional, despertou uma nova consciência no parlamento na área governamental e na sociedade brasileira sobre esta verdadeira iniquidade que caracteriza o Brasil, das extremas desigualdades sociais e regionais. Creio que esta nova consciência está empurrando o Brasil a considerar cada vez mais, com maior responsabilidade, a questão do estancamento do processo contínuo de exclusão que empurra à situação de pobreza ou de miséria extrema, mais de 30% da população brasileira. Confirmando conclusões daquela Comissão, a pesquisa por Amostras a Domicílio, acabou por revelar aos brasileiros que a parcela mais rica da população – a classe média, ainda que empobrecida, e a classe alta constituída dos 10% mais ricos, detém 86% da riqueza nacional, sobrando apenas 14% para os 50% mais pobres."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0051::Idade",
+   "unit_id": "S0051",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Eduardo Siqueira Campos",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 832,
+     "trecho": "O SR. EDUARDO SIQUEIRA CAMPOS (PFL – TO.) – Sr. Presidente, Srªs e Srs. Senadores, neste início dos nossos trabalhos legislativos, desejo tecer algumas considerações em torno dos trabalhos desenvolvidos durante o ano passado, que seguramente, honraram esta Casa. Estava a ler, Sr. Presidente, a magnífica Edição feita pelo Senado, referente aos grandes momentos do Parlamento brasileiro, quando me deparei com um discurso do Deputado, então líder da UDN, Adauto Lúcio Cardoso, discurso pronunciado em 1963, nos agitados dias do Presidente João Goulart, que antecederam a Revolução de 1964. Neste discurso, o então líder da oposição lamentava o desencanto dos jovens parlamentares com a ação do Congresso, pouco eficaz, pouco objetivo na solução dos problemas do povo e na realização dos sonhos dos que amavam este país."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 993,
+     "trecho": "O SR. EDUARDO SIQUEIRA CAMPOS (PFL – TO.) – Sr. Presidente, Srªs e Srs. Senadores, neste início dos nossos trabalhos legislativos, desejo tecer algumas considerações em torno dos trabalhos desenvolvidos durante o ano passado, que seguramente, honraram esta Casa. Estava a ler, Sr. Presidente, a magnífica Edição feita pelo Senado, referente aos grandes momentos do Parlamento brasileiro, quando me deparei com um discurso do Deputado, então líder da UDN, Adauto Lúcio Cardoso, discurso pronunciado em 1963, nos agitados dias do Presidente João Goulart, que antecederam a Revolução de 1964. Neste discurso, o então líder da oposição lamentava o desencanto dos jovens parlamentares com a ação do Congresso, pouco eficaz, pouco objetivo na solução dos problemas do povo e na realização dos sonhos dos que amavam este país. Creio que não é o caso dos jovens parlamentares, e eu me incluo entre eles, que chegaram a esta mais alta Casa da República no ano que acabou de encerrar."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0051::Posição no trabalho",
+   "unit_id": "S0051",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Eduardo Siqueira Campos",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3975,
+     "fim_corpo": 4839,
+     "trecho": "Se, no passado, os índices de crescimento do PIB ou da riqueza nacional a qualquer custo, como forma de tornar o país competitivo na era da globalização, gerou esta imensa dívida social hoje, graças a esta nova consciência, assumida por esta Casa, em primeira linha, deve-se dizer que os aspectos distributivos, a questão do emprego e da renda, está começando a pesar como elemento essencial na formulação das estratégias de desenvolvimento, e nas preocupações de ingresso do país no primeiro mundo, ou na economia globalizada. Assim é que, com a aprovação do projeto referente a proibição de automação dos postos de gasolina, que poderia determinar o desemprego de centenas de milhares de frentistas, o Senado deu uma demonstração cabal de que o fator humano, as políticas sociais passam a pesar sobre as decisões referentes aos interesses nacionais."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0051::Renda e classe",
+   "unit_id": "S0051",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Eduardo Siqueira Campos",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobre",
+     "forma_encontrada": "pobre",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobre",
+     "forma_encontrada": "pobre",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2214,
+     "fim_corpo": 3113,
+     "trecho": "Assim é que, além de promover o expurgo no próprio Parlamento, o Congresso e o Senado da República, tem atuado no Executivo e no Judiciário, dentro de suas atribuições constitucionais, inquirindo, denunciando, respondendo à delegação que lhe foi dada pelo povo, não só de legislar, mas de zelar pelo bem público e pela dignidade de representação. Sem qualquer dúvida, Sr. Presidente, as Comissões de Inquérito sobre o Judiciário e o Sistema Financeiro, deixarão o Brasil diferente se adotadas as medidas decorrentes das investigações e das conclusões apontadas. A Comissão Especial de combate à pobreza a par das medidas que deverá originar como a criação do Fundo Constitucional, despertou uma nova consciência no parlamento na área governamental e na sociedade brasileira sobre esta verdadeira iniquidade que caracteriza o Brasil, das extremas desigualdades sociais e regionais."
+    },
+    {
+     "inicio_corpo": 2567,
+     "fim_corpo": 3385,
+     "trecho": "Sem qualquer dúvida, Sr. Presidente, as Comissões de Inquérito sobre o Judiciário e o Sistema Financeiro, deixarão o Brasil diferente se adotadas as medidas decorrentes das investigações e das conclusões apontadas. A Comissão Especial de combate à pobreza a par das medidas que deverá originar como a criação do Fundo Constitucional, despertou uma nova consciência no parlamento na área governamental e na sociedade brasileira sobre esta verdadeira iniquidade que caracteriza o Brasil, das extremas desigualdades sociais e regionais. Creio que esta nova consciência está empurrando o Brasil a considerar cada vez mais, com maior responsabilidade, a questão do estancamento do processo contínuo de exclusão que empurra à situação de pobreza ou de miséria extrema, mais de 30% da população brasileira."
+    },
+    {
+     "inicio_corpo": 2788,
+     "fim_corpo": 3706,
+     "trecho": "A Comissão Especial de combate à pobreza a par das medidas que deverá originar como a criação do Fundo Constitucional, despertou uma nova consciência no parlamento na área governamental e na sociedade brasileira sobre esta verdadeira iniquidade que caracteriza o Brasil, das extremas desigualdades sociais e regionais. Creio que esta nova consciência está empurrando o Brasil a considerar cada vez mais, com maior responsabilidade, a questão do estancamento do processo contínuo de exclusão que empurra à situação de pobreza ou de miséria extrema, mais de 30% da população brasileira. Confirmando conclusões daquela Comissão, a pesquisa por Amostras a Domicílio, acabou por revelar aos brasileiros que a parcela mais rica da população – a classe média, ainda que empobrecida, e a classe alta constituída dos 10% mais ricos, detém 86% da riqueza nacional, sobrando apenas 14% para os 50% mais pobres."
+    },
+    {
+     "inicio_corpo": 3113,
+     "fim_corpo": 3706,
+     "trecho": "Creio que esta nova consciência está empurrando o Brasil a considerar cada vez mais, com maior responsabilidade, a questão do estancamento do processo contínuo de exclusão que empurra à situação de pobreza ou de miséria extrema, mais de 30% da população brasileira. Confirmando conclusões daquela Comissão, a pesquisa por Amostras a Domicílio, acabou por revelar aos brasileiros que a parcela mais rica da população – a classe média, ainda que empobrecida, e a classe alta constituída dos 10% mais ricos, detém 86% da riqueza nacional, sobrando apenas 14% para os 50% mais pobres."
+    },
+    {
+     "inicio_corpo": 3113,
+     "fim_corpo": 3975,
+     "trecho": "Creio que esta nova consciência está empurrando o Brasil a considerar cada vez mais, com maior responsabilidade, a questão do estancamento do processo contínuo de exclusão que empurra à situação de pobreza ou de miséria extrema, mais de 30% da população brasileira. Confirmando conclusões daquela Comissão, a pesquisa por Amostras a Domicílio, acabou por revelar aos brasileiros que a parcela mais rica da população – a classe média, ainda que empobrecida, e a classe alta constituída dos 10% mais ricos, detém 86% da riqueza nacional, sobrando apenas 14% para os 50% mais pobres. A distância que vai entre a média de renda desses 10% mais ricos e a faixa mais pobre já ultrapassa a marca de 300 vezes, situação que o Relatório da ONU sobre o Desenvolvimento Humano deixa de caracterizar como iníqua para considerá-la verdadeiramente desumana."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0051::Urbano e rural",
+   "unit_id": "S0051",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Eduardo Siqueira Campos",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "CAMPOS",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 48,
+     "trecho": "O SR. EDUARDO SIQUEIRA CAMPOS (PFL – TO.) – Sr."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0052::Domicílio e arranjo familiar",
+   "unit_id": "S0052",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Mozarildo Cavalcanti",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 917,
+     "fim_corpo": 1596,
+     "trecho": "São inúmeros projetos dotados de caráter inteiramente sócio-pedagógico, que se diluem na hora de um julgamento indiscutivelmente precipitado. Por isso mesmo, os próprios organizadores desse primeiro dossiê já anunciaram a continuidade da publicação para cada aniversário da emissora. Sr. Presidente, em primeiro lugar, destacamos o sucesso de que se cobriu o projeto Criança Esperança, desde sua inauguração em 1983, que se traduziu, na prática, em cerca de mil horas de campanha transmitida. Como se sabe, o projeto visa à ampliação da consciência da população brasileira sobre os direitos da criança, a paternidade responsável e, antes de tudo, a importância da família."
+    },
+    {
+     "inicio_corpo": 1596,
+     "fim_corpo": 2476,
+     "trecho": "Só contabilizando 98, os telespectadores da Globo efetivaram doações em torno de 4 milhões de reais. O valor é inteiramente transferido para as contas do Unicef, que o aplica no fundo de pesquisas e projetos para a melhoria da educação infantil. Durante o exercício de 98, o Unicef desenvolveu nada menos que 12 projetos, além de prestar assistência a 78 escolas. De resto, um projeto do qual o País só tem de orgulhar-se. No mesmo rastro de sucesso, o projeto Criança Viva, que funciona desde 95, tem sido coroado de êxito. Nesse caso, o Unicef transfere parte dos recursos arrecadados para a Pastoral da Criança, cujo trabalho, mérito e competência na área da assistência infantil é objeto de incontestável unanimidade no Brasil e no mundo. Em 98, mais de 180 mil crianças menores de 6 anos foram assistidas, além de mais de 120 mil famílias atendidas pelo projeto."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0052::Educação",
+   "unit_id": "S0052",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Mozarildo Cavalcanti",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1059,
+     "fim_corpo": 1966,
+     "trecho": "Por isso mesmo, os próprios organizadores desse primeiro dossiê já anunciaram a continuidade da publicação para cada aniversário da emissora. Sr. Presidente, em primeiro lugar, destacamos o sucesso de que se cobriu o projeto Criança Esperança, desde sua inauguração em 1983, que se traduziu, na prática, em cerca de mil horas de campanha transmitida. Como se sabe, o projeto visa à ampliação da consciência da população brasileira sobre os direitos da criança, a paternidade responsável e, antes de tudo, a importância da família. Só contabilizando 98, os telespectadores da Globo efetivaram doações em torno de 4 milhões de reais. O valor é inteiramente transferido para as contas do Unicef, que o aplica no fundo de pesquisas e projetos para a melhoria da educação infantil. Durante o exercício de 98, o Unicef desenvolveu nada menos que 12 projetos, além de prestar assistência a 78 escolas."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0052::Idade",
+   "unit_id": "S0052",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Mozarildo Cavalcanti",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "Criança",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "criança",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "Criança",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "Criança",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "Criança",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "criança",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "Criança",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 415,
+     "fim_corpo": 1416,
+     "trecho": "Aliás, é graças a tão nobres compromissos que a emissora consegue manter índices de audiência tão expressivos em todos os cantos do País. Nesse dossiê, tomamos consciência de quão densas e extensas são suas ações a serviço da comunidade. Apesar de sermos todos telespectadores assíduos da Globo, poucas vezes somos convocados para uma reflexão menos preconceituosa sobre o papel de educadora social, na frente da qual se projetam as transmissões de centenas de produções televisivas da emissora. São inúmeros projetos dotados de caráter inteiramente sócio-pedagógico, que se diluem na hora de um julgamento indiscutivelmente precipitado. Por isso mesmo, os próprios organizadores desse primeiro dossiê já anunciaram a continuidade da publicação para cada aniversário da emissora. Sr. Presidente, em primeiro lugar, destacamos o sucesso de que se cobriu o projeto Criança Esperança, desde sua inauguração em 1983, que se traduziu, na prática, em cerca de mil horas de campanha transmitida."
+    },
+    {
+     "inicio_corpo": 659,
+     "fim_corpo": 1596,
+     "trecho": "Apesar de sermos todos telespectadores assíduos da Globo, poucas vezes somos convocados para uma reflexão menos preconceituosa sobre o papel de educadora social, na frente da qual se projetam as transmissões de centenas de produções televisivas da emissora. São inúmeros projetos dotados de caráter inteiramente sócio-pedagógico, que se diluem na hora de um julgamento indiscutivelmente precipitado. Por isso mesmo, os próprios organizadores desse primeiro dossiê já anunciaram a continuidade da publicação para cada aniversário da emissora. Sr. Presidente, em primeiro lugar, destacamos o sucesso de que se cobriu o projeto Criança Esperança, desde sua inauguração em 1983, que se traduziu, na prática, em cerca de mil horas de campanha transmitida. Como se sabe, o projeto visa à ampliação da consciência da população brasileira sobre os direitos da criança, a paternidade responsável e, antes de tudo, a importância da família."
+    },
+    {
+     "inicio_corpo": 1201,
+     "fim_corpo": 2133,
+     "trecho": "Sr. Presidente, em primeiro lugar, destacamos o sucesso de que se cobriu o projeto Criança Esperança, desde sua inauguração em 1983, que se traduziu, na prática, em cerca de mil horas de campanha transmitida. Como se sabe, o projeto visa à ampliação da consciência da população brasileira sobre os direitos da criança, a paternidade responsável e, antes de tudo, a importância da família. Só contabilizando 98, os telespectadores da Globo efetivaram doações em torno de 4 milhões de reais. O valor é inteiramente transferido para as contas do Unicef, que o aplica no fundo de pesquisas e projetos para a melhoria da educação infantil. Durante o exercício de 98, o Unicef desenvolveu nada menos que 12 projetos, além de prestar assistência a 78 escolas. De resto, um projeto do qual o País só tem de orgulhar-se. No mesmo rastro de sucesso, o projeto Criança Viva, que funciona desde 95, tem sido coroado de êxito."
+    },
+    {
+     "inicio_corpo": 1416,
+     "fim_corpo": 2351,
+     "trecho": "Como se sabe, o projeto visa à ampliação da consciência da população brasileira sobre os direitos da criança, a paternidade responsável e, antes de tudo, a importância da família. Só contabilizando 98, os telespectadores da Globo efetivaram doações em torno de 4 milhões de reais. O valor é inteiramente transferido para as contas do Unicef, que o aplica no fundo de pesquisas e projetos para a melhoria da educação infantil. Durante o exercício de 98, o Unicef desenvolveu nada menos que 12 projetos, além de prestar assistência a 78 escolas. De resto, um projeto do qual o País só tem de orgulhar-se. No mesmo rastro de sucesso, o projeto Criança Viva, que funciona desde 95, tem sido coroado de êxito. Nesse caso, o Unicef transfere parte dos recursos arrecadados para a Pastoral da Criança, cujo trabalho, mérito e competência na área da assistência infantil é objeto de incontestável unanimidade no Brasil e no mundo."
+    },
+    {
+     "inicio_corpo": 1596,
+     "fim_corpo": 2476,
+     "trecho": "Só contabilizando 98, os telespectadores da Globo efetivaram doações em torno de 4 milhões de reais. O valor é inteiramente transferido para as contas do Unicef, que o aplica no fundo de pesquisas e projetos para a melhoria da educação infantil. Durante o exercício de 98, o Unicef desenvolveu nada menos que 12 projetos, além de prestar assistência a 78 escolas. De resto, um projeto do qual o País só tem de orgulhar-se. No mesmo rastro de sucesso, o projeto Criança Viva, que funciona desde 95, tem sido coroado de êxito. Nesse caso, o Unicef transfere parte dos recursos arrecadados para a Pastoral da Criança, cujo trabalho, mérito e competência na área da assistência infantil é objeto de incontestável unanimidade no Brasil e no mundo. Em 98, mais de 180 mil crianças menores de 6 anos foram assistidas, além de mais de 120 mil famílias atendidas pelo projeto."
+    },
+    {
+     "inicio_corpo": 1703,
+     "fim_corpo": 2672,
+     "trecho": "O valor é inteiramente transferido para as contas do Unicef, que o aplica no fundo de pesquisas e projetos para a melhoria da educação infantil. Durante o exercício de 98, o Unicef desenvolveu nada menos que 12 projetos, além de prestar assistência a 78 escolas. De resto, um projeto do qual o País só tem de orgulhar-se. No mesmo rastro de sucesso, o projeto Criança Viva, que funciona desde 95, tem sido coroado de êxito. Nesse caso, o Unicef transfere parte dos recursos arrecadados para a Pastoral da Criança, cujo trabalho, mérito e competência na área da assistência infantil é objeto de incontestável unanimidade no Brasil e no mundo. Em 98, mais de 180 mil crianças menores de 6 anos foram assistidas, além de mais de 120 mil famílias atendidas pelo projeto. Ademais, refletindo seu compromisso de atuação junto aos bolsões de miséria do País, o Criança Viva conseguiu estender sua ação a 245 municípios, atendendo em média quase 8 mil gestantes por mês."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0052::Infraestrutura e porte populacional",
+   "unit_id": "S0052",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Mozarildo Cavalcanti",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "fronteiras",
+     "forma_encontrada": "fronteiras",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4969,
+     "fim_corpo": 5855,
+     "trecho": "Nesse grupo, vale destacar algumas campanhas de inestimável mérito socioeducacional veiculadas em 98, tais como \"Associação Parceria contra as Drogas\", \"Cidadania contra a Fome e a Miséria\", \"Prevenção contra a AIDS\" e \"Síndrome de Down\". Na mesma linha de preocupação social, a Globo se engajou em diversos projetos especiais pelo Brasil inteiro. Organizou, em 97, o seminário \"São Paulo sem Medo\", em parceria com o Núcleo de Estudos da Violência, da USP. Como resultado, em 98, criou-se o Instituto São Paulo contra a Violência, reunindo as principais entidades da classe empresarial do estado, além de ter ensejado a publicação do livro São Paulo sem Medo, uma coletânea de todas as palestras e sugestões do seminário. Sr. Presidente, aliás, não é somente dentro do Brasil que o trabalho educacional da Globo é reconhecido, mas sobretudo para além de nossas fronteiras."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0052::Urbano e rural",
+   "unit_id": "S0052",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Mozarildo Cavalcanti",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6004,
+     "fim_corpo": 6875,
+     "trecho": "Nos tópicos abordados nas novelas, o Fantástico e o Jornal Nacional não raramente se inspiraram para a realização de campanhas nacionais. Por conta disso, em 94, a Population Communication International conferiu à Rede Globo honrado prêmio, como exemplo pela qualidade e quantidade de mensagens educativas e de utilidade pública inseridas, naturalmente, nas tramas das novelas. Os principais temas abordados nas novelas exibidas em 98 consistiram, preponderantemente, no combate às drogas, no combate à exploração do trabalho de menores, no direito dos soropositivos e na igualdade de direitos entre raças e sexos, entre outros. Para ser mais preciso e justo, a Globo dispensa mais de 6 horas de sua programação diária a programas educativos. Isso tudo sem levar em consideração os documentários semanais, como Globo Rural, Globo Repórter e Globo Comunidade."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0053::Domicílio e arranjo familiar",
+   "unit_id": "S0053",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Mauro Miranda",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 668,
+     "trecho": "O SR. MAURO MIRANDA (PMDB – GO.) – Sr. Presidente, Srªs e Srs. Senadores, familiares, amigos e expressiva parte da população do nosso Estado e da Capital do País choram, ainda, a perda irreparável da Professora Íris Luzia Roriz Solano, de 52 anos, irmã mais nova do Governador Joaquim Roriz, do Distrito Federal, falecida no dia primeiro deste mês, vítima de cruel acidente. Consternados, todos tomaram conhecimento de que, ao desembarcar de curta viagem num helicóptero, a fim de continuar participando de celebração religiosa na residência oficial do Governador, a Professora Íris foi violentamente atingida pelo rotor do aparelho, falecendo instantaneamente."
+    },
+    {
+     "inicio_corpo": 375,
+     "fim_corpo": 1033,
+     "trecho": "Consternados, todos tomaram conhecimento de que, ao desembarcar de curta viagem num helicóptero, a fim de continuar participando de celebração religiosa na residência oficial do Governador, a Professora Íris foi violentamente atingida pelo rotor do aparelho, falecendo instantaneamente. Festejava-se a chegada do novo ano e o primeiro aniversário da Administração do Governador Joaquim Roriz, quando foi observada a falta de uma pequena Nossa Senhora de Fátima. Dona Íris, prestativa como sempre, de imediato prontificou-se a buscar a imagem que de hábito os acompanhava, nessas ocasiões especiais, desde quando a família a trouxera de Portugal."
+    },
+    {
+     "inicio_corpo": 375,
+     "fim_corpo": 1235,
+     "trecho": "Consternados, todos tomaram conhecimento de que, ao desembarcar de curta viagem num helicóptero, a fim de continuar participando de celebração religiosa na residência oficial do Governador, a Professora Íris foi violentamente atingida pelo rotor do aparelho, falecendo instantaneamente. Festejava-se a chegada do novo ano e o primeiro aniversário da Administração do Governador Joaquim Roriz, quando foi observada a falta de uma pequena Nossa Senhora de Fátima. Dona Íris, prestativa como sempre, de imediato prontificou-se a buscar a imagem que de hábito os acompanhava, nessas ocasiões especiais, desde quando a família a trouxera de Portugal. A Professora Íris Luzia Roriz Solano, além de exercer, com zelo e competência, o cargo de Conselheira de Administração da Companhia de Eletricidade de Brasília – CEB, foi exemplar mãe de família."
+    },
+    {
+     "inicio_corpo": 1235,
+     "fim_corpo": 2279,
+     "trecho": "Dedicada praticante da religião católica, envolveu-se, de modo especial, nas tarefas que objetivavam a garantia de amparo permanente aos necessitados, mantidas pela igreja de sua predileção, onde esteve nos momentos que antecederem o fatal acidente. Segundo estimativas, à missa de corpo presente e ao velório compareceram, além de outras autoridades, lideranças políticas e empresariais, familiares e amigos, cerca de duzentas pessoas, entre as quais se incluíam o Presidente Lourival Dantas, da Federação das Indústrias de Brasília – FIBRA; os Secretários de Estado Odilon Aires, Manoel de Andrade, Tadeu Fillipelli e Carin Nabut; o Presidente Michel Temer, da Câmara Federal; e os ex-Governadores de Goiás Íris Rezende e Henrique Santillo. Dona Íris foi, sem nenhuma dúvida, uma pessoa que, mercê de extremada dedicação à família e de sempre bondosa assistência aos mais pobres, poderia ser apontada como feliz, conforme a definição de Dom Helder Câmara, como toda aquela que \"passa pela vida tendo mil razões para viver\"."
+    },
+    {
+     "inicio_corpo": 1990,
+     "fim_corpo": 3059,
+     "trecho": "Dona Íris foi, sem nenhuma dúvida, uma pessoa que, mercê de extremada dedicação à família e de sempre bondosa assistência aos mais pobres, poderia ser apontada como feliz, conforme a definição de Dom Helder Câmara, como toda aquela que \"passa pela vida tendo mil razões para viver\". Por isso, certamente, também o grande Santuário de Nossa Senhora de Fátima, desta Capital, tenha parecido pequeno para acolher tão imenso número de participantes, quando da celebração, às 19 horas e 30 minutos do último dia 7 de janeiro, da Missa de sétimo dia do seu falecimento. Com esta breve intervenção, Senhor Presidente, desejamos endereçar à família enlutada, especialmente ao Jornalista Luiz Solano, esposo; aos jovens Humberto, Andréia e André, filhos; ao Governador Joaquim Roriz e aos demais membros dessa tradicional e respeitada família do Estado que representamos nesta Casa, a expressão do nosso sentimento de profundo pesar pelo prematuro e doloroso desaparecimento de dona Íris Luzia Roriz Solano. Era o que tínhamos a dizer. ¿ æ #"
+    },
+    {
+     "inicio_corpo": 1990,
+     "fim_corpo": 3059,
+     "trecho": "Dona Íris foi, sem nenhuma dúvida, uma pessoa que, mercê de extremada dedicação à família e de sempre bondosa assistência aos mais pobres, poderia ser apontada como feliz, conforme a definição de Dom Helder Câmara, como toda aquela que \"passa pela vida tendo mil razões para viver\". Por isso, certamente, também o grande Santuário de Nossa Senhora de Fátima, desta Capital, tenha parecido pequeno para acolher tão imenso número de participantes, quando da celebração, às 19 horas e 30 minutos do último dia 7 de janeiro, da Missa de sétimo dia do seu falecimento. Com esta breve intervenção, Senhor Presidente, desejamos endereçar à família enlutada, especialmente ao Jornalista Luiz Solano, esposo; aos jovens Humberto, Andréia e André, filhos; ao Governador Joaquim Roriz e aos demais membros dessa tradicional e respeitada família do Estado que representamos nesta Casa, a expressão do nosso sentimento de profundo pesar pelo prematuro e doloroso desaparecimento de dona Íris Luzia Roriz Solano. Era o que tínhamos a dizer. ¿ æ #"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0053::Idade",
+   "unit_id": "S0053",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Mauro Miranda",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1990,
+     "fim_corpo": 3059,
+     "trecho": "Dona Íris foi, sem nenhuma dúvida, uma pessoa que, mercê de extremada dedicação à família e de sempre bondosa assistência aos mais pobres, poderia ser apontada como feliz, conforme a definição de Dom Helder Câmara, como toda aquela que \"passa pela vida tendo mil razões para viver\". Por isso, certamente, também o grande Santuário de Nossa Senhora de Fátima, desta Capital, tenha parecido pequeno para acolher tão imenso número de participantes, quando da celebração, às 19 horas e 30 minutos do último dia 7 de janeiro, da Missa de sétimo dia do seu falecimento. Com esta breve intervenção, Senhor Presidente, desejamos endereçar à família enlutada, especialmente ao Jornalista Luiz Solano, esposo; aos jovens Humberto, Andréia e André, filhos; ao Governador Joaquim Roriz e aos demais membros dessa tradicional e respeitada família do Estado que representamos nesta Casa, a expressão do nosso sentimento de profundo pesar pelo prematuro e doloroso desaparecimento de dona Íris Luzia Roriz Solano. Era o que tínhamos a dizer. ¿ æ #"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0053::Renda e classe",
+   "unit_id": "S0053",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-10",
+   "orador": "Mauro Miranda",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1235,
+     "fim_corpo": 2279,
+     "trecho": "Dedicada praticante da religião católica, envolveu-se, de modo especial, nas tarefas que objetivavam a garantia de amparo permanente aos necessitados, mantidas pela igreja de sua predileção, onde esteve nos momentos que antecederem o fatal acidente. Segundo estimativas, à missa de corpo presente e ao velório compareceram, além de outras autoridades, lideranças políticas e empresariais, familiares e amigos, cerca de duzentas pessoas, entre as quais se incluíam o Presidente Lourival Dantas, da Federação das Indústrias de Brasília – FIBRA; os Secretários de Estado Odilon Aires, Manoel de Andrade, Tadeu Fillipelli e Carin Nabut; o Presidente Michel Temer, da Câmara Federal; e os ex-Governadores de Goiás Íris Rezende e Henrique Santillo. Dona Íris foi, sem nenhuma dúvida, uma pessoa que, mercê de extremada dedicação à família e de sempre bondosa assistência aos mais pobres, poderia ser apontada como feliz, conforme a definição de Dom Helder Câmara, como toda aquela que \"passa pela vida tendo mil razões para viver\"."
+    }
+   ]
+  }
+ ]
+}

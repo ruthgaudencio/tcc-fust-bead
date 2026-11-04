@@ -1,0 +1,958 @@
+{
+ "caso": "BEAD",
+ "lote": 14,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0053::Domicílio e arranjo familiar",
+   "unit_id": "W0053",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Peter Pitsch",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4211,
+     "fim_corpo": 4935,
+     "trecho": "3 Lower frequency spectrum, by contrast, can travel great distances , but it cannot carry as much data. Mid-band spectrum is the “Goldilocks” band for 5G, with the right balance of coverage and capacity to facilitate 5G adoption throughout urban, suburban, and rural America. In particular, the 3.7-4.2 GHz band—known as the C-band—can deliver the high-throughput, low- latency performance that next-generation mobile networks demand. The C-band, in other words, is ideally suited for 5G. Two problems, however, complicate repurposing a portion of the C-band for 5G. First, the C-band forms the backbone for the delivery of video and radio programming that reaches nearly 120 million U.S. households ."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0053::Infraestrutura e porte populacional",
+   "unit_id": "W0053",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Peter Pitsch",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4211,
+     "fim_corpo": 5161,
+     "trecho": "3 Lower frequency spectrum, by contrast, can travel great distances , but it cannot carry as much data. Mid-band spectrum is the “Goldilocks” band for 5G, with the right balance of coverage and capacity to facilitate 5G adoption throughout urban, suburban, and rural America. In particular, the 3.7-4.2 GHz band—known as the C-band—can deliver the high-throughput, low- latency performance that next-generation mobile networks demand. The C-band, in other words, is ideally suited for 5G. Two problems, however, complicate repurposing a portion of the C-band for 5G. First, the C-band forms the backbone for the delivery of video and radio programming that reaches nearly 120 million U.S. households . The C -band also supports government and public safety operations, provides critical links to remote and underserved areas, and ensures communications systems’ availability during disasters when terrestrial services fail."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0053::Urbano e rural",
+   "unit_id": "W0053",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Peter Pitsch",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2302,
+     "fim_corpo": 3242,
+     "trecho": "5G promises speeds up to twenty times faster than 4G, and it is expected to bring an incremental $500 billion to the U.S. GDP by 2027. Dubbed the “network of networks,” 5G will enable smart technologies and the Internet of Things (I oT) that will result in new levels of automation and create entirely new industries. Autonomous cars, smart communities, the industrial Internet of Things, immersive education, telemedicine, and other cutting-edge innovations will be possible with 5G. As the number of IoT devices continues to grow, potentially totaling 31 billion connected devices worldwide by 2020, the limits to what IoT technology can do may be defined not by the devices, and certainly not by engineers’ imaginations, but by the network that supports them and the bandwidth available. Meanwhile, 5G promises to close the digital divide by giving rural communities a meaningful alternative to fixed broadband services."
+    },
+    {
+     "inicio_corpo": 3651,
+     "fim_corpo": 4497,
+     "trecho": "If we are late to the party, companies in other nations will establish the technology and therefore the standards for devices and applications that run on 5G. This time advantage will be the determining factor for 5G winners and losers. The Mid-Band Opportunity Wireless spectrum bands have different characteristics depending on the frequency used. Higher frequency spectrum can carry more da ta, but it travels shorter distances, requires more antennas, and is more susceptible to interference from rain, foliage, and other physical barriers. 3 Lower frequency spectrum, by contrast, can travel great distances , but it cannot carry as much data. Mid-band spectrum is the “Goldilocks” band for 5G, with the right balance of coverage and capacity to facilitate 5G adoption throughout urban, suburban, and rural America."
+    },
+    {
+     "inicio_corpo": 10192,
+     "fim_corpo": 11006,
+     "trecho": "For example, some commentators with no experience distributing nationwide content have argued that fiber could be a suitable replacement for C-band spectrum. Not so. In reality, transitioning all C-band operations to fiber would be enormously complex and lack the reliability of C -band satellite distribution. And most importantly, most informed stakeholders in this proceeding understand that there is almost no possibility that the move to fiber could be completed in a 18-36 month timeframe. The time it will take to design a fiber network, obtain local permits, procure broadcast-quality architecture, mount the fiber, and install the components required to interconnect the fiber with 13,500 earth stations, 60 percent of which are rural, will take many years, if not an entire decade ."
+    },
+    {
+     "inicio_corpo": 13615,
+     "fim_corpo": 14535,
+     "trecho": "This brings the satellite operators under one um brella, thereby creating an integrated entity with the ability and incentives to maximize efficiency and value creation for itself, and as a side benefit maximize efficiency and value creation for society. The Benefits of a CBA Auction The FCC has expressed a desire to clear the C -band for mobile services as quickly as possible. To ensure a speedy transition, the CBA proposes a commercial auction using globally 8 recognized concepts and procedures to allow bidders to acquire cleared segments of the C -band. This auction design will ensure that 5G bidders can access spectrum within 18 to 36 months of a final FCC order, making it by far the fastest way to enable the rollout of 5G in both urban and rural areas, while protecting essential television and radio ser vices—including religious programming and live sports programming— enjoyed by U.S."
+    },
+    {
+     "inicio_corpo": 15900,
+     "fim_corpo": 16710,
+     "trecho": "The CBA’s auction process provides the following benefits: 1. Fast – The auction process will allow the C BA to announce winning bidders within 2- 4 weeks. Every suggested alternative to the CBA approach —most notably, government - 9 run auctions—would lead to years of additional delay in the transition to 5G, costing the U.S. jobs, GDP growth, and endangering national security. 2. Efficient – The CBA auction puts spectrum to use at the earliest possible date, reduces bid preparation time, minimizes bidding errors, and avoids the possibility of strategic bidding that could skew the auction results. 3. Flexible – The CBA a uction is designed to allow successful participation by entities of every size, from large national bidders to mid -sized regional bidders to small rural bidders."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0054::Escolaridade e letramento",
+   "unit_id": "W0054",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Scott Bergmann",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5318,
+     "fim_corpo": 6170,
+     "trecho": "9 Dr. Shafiq Rab of Rush Hospital has said, “ [w]e strongly believe 5G is a game -changing technology that when fully implemented will help us … provide the highest quality patient and staff experience.”10 5 Qwake Technologies has been working to develop and test augmented reality products to help firefighters see in smoke- filled, zero -visibility, hazardous environments. 11 The low latency that 5G offers has made such virtual reality possible, resulting in 267 percent faster navigation and 300 percent greater consistency by firefighters that tested the equip ment in dark, smoky buildings.12 As 59 percent of survey ed Generation Z students report that video is their preferred educational tool, the reduced latency, increased capacity, and faster speeds for 5G will be ideal for the first generation of 21st century students."
+    },
+    {
+     "inicio_corpo": 5318,
+     "fim_corpo": 6170,
+     "trecho": "9 Dr. Shafiq Rab of Rush Hospital has said, “ [w]e strongly believe 5G is a game -changing technology that when fully implemented will help us … provide the highest quality patient and staff experience.”10 5 Qwake Technologies has been working to develop and test augmented reality products to help firefighters see in smoke- filled, zero -visibility, hazardous environments. 11 The low latency that 5G offers has made such virtual reality possible, resulting in 267 percent faster navigation and 300 percent greater consistency by firefighters that tested the equip ment in dark, smoky buildings.12 As 59 percent of survey ed Generation Z students report that video is their preferred educational tool, the reduced latency, increased capacity, and faster speeds for 5G will be ideal for the first generation of 21st century students."
+    },
+    {
+     "inicio_corpo": 5703,
+     "fim_corpo": 6479,
+     "trecho": "11 The low latency that 5G offers has made such virtual reality possible, resulting in 267 percent faster navigation and 300 percent greater consistency by firefighters that tested the equip ment in dark, smoky buildings.12 As 59 percent of survey ed Generation Z students report that video is their preferred educational tool, the reduced latency, increased capacity, and faster speeds for 5G will be ideal for the first generation of 21st century students. 13 Further, the Verizon Foundation recently announced that 10 teams will harness 5G, $1 million , and Verizon engineers to engage students, including students with dis abilities, and prepare teachers using AR and VR experiences, machine learning, Artificial Intelligence , and mixed reality solutions."
+    },
+    {
+     "inicio_corpo": 5703,
+     "fim_corpo": 6479,
+     "trecho": "11 The low latency that 5G offers has made such virtual reality possible, resulting in 267 percent faster navigation and 300 percent greater consistency by firefighters that tested the equip ment in dark, smoky buildings.12 As 59 percent of survey ed Generation Z students report that video is their preferred educational tool, the reduced latency, increased capacity, and faster speeds for 5G will be ideal for the first generation of 21st century students. 13 Further, the Verizon Foundation recently announced that 10 teams will harness 5G, $1 million , and Verizon engineers to engage students, including students with dis abilities, and prepare teachers using AR and VR experiences, machine learning, Artificial Intelligence , and mixed reality solutions."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0054::Idade",
+   "unit_id": "W0054",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Scott Bergmann",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 179,
+     "trecho": "Testimony of Scott Bergmann Senior Vice President, Regulatory Affairs CTIA on Our Wireless Future: Building A Comprehensive Approach to Spectrum Policy before the U.S."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0054::Saúde",
+   "unit_id": "W0054",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Scott Bergmann",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "Hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "Hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4265,
+     "fim_corpo": 5318,
+     "trecho": "5G Will Usher in Massive Innovation for Consumers and Across Industries With the right spectrum resources, 5G will unlock innovation, unleash economic growth, create jobs, and foster the industries of the future. By identifying and repurposing key low-, mid- and high-band spectrum at regular intervals in the coming years , this Committee can put in place a spectrum foundation to add nearly $400 billion to the U.S. economy and create more than 1.8 million new jobs.8 Of course, t he full societal and economic impact will be even greater as U.S. entrepreneurs leverage new 5G platform s to lead the world in tomorrow’s advancements across health care, public safety, transportation, robotics, and every other key economic sector. Let me share with you a few examples: Rush University Medical Center in Chicago is creating the first 5G -enabled hospital in the U.S, where 5G will support telemedicine, smart scheduling, and enhanced patient care through artificial intelligence and augmented reality training sessions for doctors."
+    },
+    {
+     "inicio_corpo": 4483,
+     "fim_corpo": 5703,
+     "trecho": "By identifying and repurposing key low-, mid- and high-band spectrum at regular intervals in the coming years , this Committee can put in place a spectrum foundation to add nearly $400 billion to the U.S. economy and create more than 1.8 million new jobs.8 Of course, t he full societal and economic impact will be even greater as U.S. entrepreneurs leverage new 5G platform s to lead the world in tomorrow’s advancements across health care, public safety, transportation, robotics, and every other key economic sector. Let me share with you a few examples: Rush University Medical Center in Chicago is creating the first 5G -enabled hospital in the U.S, where 5G will support telemedicine, smart scheduling, and enhanced patient care through artificial intelligence and augmented reality training sessions for doctors. 9 Dr. Shafiq Rab of Rush Hospital has said, “ [w]e strongly believe 5G is a game -changing technology that when fully implemented will help us … provide the highest quality patient and staff experience.”10 5 Qwake Technologies has been working to develop and test augmented reality products to help firefighters see in smoke- filled, zero -visibility, hazardous environments."
+    },
+    {
+     "inicio_corpo": 18565,
+     "fim_corpo": 19318,
+     "trecho": "Sosa & Greg Rafert, The Economic Impacts of Reallocating Mid -Band Spectrum to 5G in the United States, ANALYSIS GROUP (Apr. 2019); David W. Sosa & Greg Rafert, The Economic Impacts of Reallocating Low -Band Spectrum to 5G in the United States, ANALYSIS GROUP, at 1 (Apr. 2019), https://api.ctia.org/wp-content/uploads/2019/03/The-Economic- Impacts-of-Reallocating-Low-Band-Spectrum-to-5G.pdf; David W. Sosa & Greg Rafert, The Economic Impacts of Reallocating High-Band Spectrum to 5G in the United States, ANALYSIS GROUP, at 1 (Apr. 2019), https://api.ctia.org/wp-content/uploads/2019/03/The-Economic-Impacts-of-Reallocating-High-Band-Spectrum- to-5G.pdf. 9 News Release, Rush University System for Health, Rush Aims to Be First Hospital in U.S."
+    },
+    {
+     "inicio_corpo": 18565,
+     "fim_corpo": 19458,
+     "trecho": "Sosa & Greg Rafert, The Economic Impacts of Reallocating Mid -Band Spectrum to 5G in the United States, ANALYSIS GROUP (Apr. 2019); David W. Sosa & Greg Rafert, The Economic Impacts of Reallocating Low -Band Spectrum to 5G in the United States, ANALYSIS GROUP, at 1 (Apr. 2019), https://api.ctia.org/wp-content/uploads/2019/03/The-Economic- Impacts-of-Reallocating-Low-Band-Spectrum-to-5G.pdf; David W. Sosa & Greg Rafert, The Economic Impacts of Reallocating High-Band Spectrum to 5G in the United States, ANALYSIS GROUP, at 1 (Apr. 2019), https://api.ctia.org/wp-content/uploads/2019/03/The-Economic-Impacts-of-Reallocating-High-Band-Spectrum- to-5G.pdf. 9 News Release, Rush University System for Health, Rush Aims to Be First Hospital in U.S. to Use Standards- Based 5G (Jan. 8, 2019), https://www.rush.edu/news/press-releases/rush-aims-be-first-hospital-us-use- standards-based-5g."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0054::Saúde e deficiência",
+   "unit_id": "W0054",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Scott Bergmann",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "disabilities",
+     "forma_encontrada": "dis abilities",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5703,
+     "fim_corpo": 6479,
+     "trecho": "11 The low latency that 5G offers has made such virtual reality possible, resulting in 267 percent faster navigation and 300 percent greater consistency by firefighters that tested the equip ment in dark, smoky buildings.12 As 59 percent of survey ed Generation Z students report that video is their preferred educational tool, the reduced latency, increased capacity, and faster speeds for 5G will be ideal for the first generation of 21st century students. 13 Further, the Verizon Foundation recently announced that 10 teams will harness 5G, $1 million , and Verizon engineers to engage students, including students with dis abilities, and prepare teachers using AR and VR experiences, machine learning, Artificial Intelligence , and mixed reality solutions."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0054::Urbano e rural",
+   "unit_id": "W0054",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Scott Bergmann",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11022,
+     "fim_corpo": 11848,
+     "trecho": "Congress directed the FCC to identify 30 megahertz of low-band spectrum for wireless services by 2022.22 Wireless providers are busy building out existing low-band 5G right now , and we encourage Congress to consider the need for additional low-band spectrum as part of its overall spectrum efforts. In order to maintain our 5G leadership, and as alluded to above, mid -band spectrum will be a key ingredient, and we need to make quick progress in the near term. Mid -band spectrum is important because it will be a workhorse band for 5G —it represents the “sweet spot” of spectrum innovation. That’s because it leverages both capacity and coverage opportunities—meaning it can handle the increased traffic that 5G will bring, and it can tr avel distances, which is helpful in more rural and suburban settings."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0055::Domicílio e arranjo familiar",
+   "unit_id": "W0055",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tim Donovan",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 588,
+     "fim_corpo": 1438,
+     "trecho": "I am testifying on behalf of Competitive Carriers Association (“CCA”), the nation’s leading association for competitive wireless providers. CCA represents carrier members ranging from small, rural providers serving fewer than 5,000 customers to regional and nationwide providers serving millions of customers, as well as vendors and suppliers that provide products and services throughout the wireless communications ecosystem. On the dawn of a technological evolution to next-generation technologies, it is increasingly clear that while fiber is critical to capacity and speed, consumers believe our future is wireless-centric. There are now more wireless connections than people in the United States. Just last week, the National Center for Health Statistics reported that 56.7 percent of adults live in wireless-only households."
+    },
+    {
+     "inicio_corpo": 12386,
+     "fim_corpo": 13241,
+     "trecho": "The FCC would then assign the C-band for terrestrial use and award the resulting terrestrial licenses through a transparent system of competitive bidding that satisfies the requirements of the Communications Act. 7 In addition to allocating more spectrum for wireless use, our proposal has other important benefits not found in alternative proposals. Through the FCC-led auction, proceeds will flow to purposes as directed by Congress and the U.S. Treasury, rather than to shareholders of foreign corporations. Further, our consensus proposal would push fiber deeper into areas not currently served by fiber, particularly in rural areas. These broadband services will be available for household and commercial use, including as backhaul for LTE and 5G wireless services, in addition to providing the connection to deliver programming."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0055::Escolaridade e letramento",
+   "unit_id": "W0055",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tim Donovan",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1307,
+     "fim_corpo": 2282,
+     "trecho": "Just last week, the National Center for Health Statistics reported that 56.7 percent of adults live in wireless-only households. What’s more, the share of United States’ adults that primarily rely on a smartphone to access the Internet has nearly doubled since 2013. While Americans continue to cut the cord and move away from landline telephones, today’s wireless services power so much more than voice calls. Mobile connections are revolutionizing entire industries and improving consumers’ quality of life across the United States. For example, wireless technologies enable telemedicine services and remote patient monitoring, which increases patients’ access to medical care, particularly in rural areas. Precision agriculture enables farmers to increase yields while conserving resources. Distance learning puts the latest lessons and training programs at students’ fingertips, allowing them to access educational opportunities previously unimaginable."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0055::Idade",
+   "unit_id": "W0055",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tim Donovan",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 37147,
+     "fim_corpo": 37943,
+     "trecho": "We recommend that the incentive auction be national, and satellite operators be invited to tender their national shares of in-orbit satellite capacity at progressively declining prices (a reverse auction). A satellite operator willing to tender satellite capacity for refarming at a certain price would have to lease capacity on its satellites to an operator not willing to surrender satellite capacity at that price, as necessary to preserve the latter operator’s total satellite capacity. No capacity would be cleared unless enough capacity is relinquished to allow the refarming of at least 370 megahertz. 5 See Letter from Elizabeth Andrion, Senior Vice President, Regulatory Affairs, Charter Communications, Inc., to Marlene H."
+    },
+    {
+     "inicio_corpo": 41190,
+     "fim_corpo": 42087,
+     "trecho": "The result would be an extensive span of C-band dead zones in the continental United States leading to a vastly suboptimal 5G deployment due to the significant coverage gaps. These outcomes are unacceptable. Given the substantial adverse impact on 5G use of the C-band from the CBA’s proposed OOBE limits, we agree with AT&T that the Commission should promptly seek further information regarding key technical engineering matters relevant to the policy and legal issues raised in this proceeding, including the appropriate UE OOBE limits.8 The CBA should be required to 8 See Letter from Raquel Noriega, Director, Federal Regulatory, AT&T Services, Inc., to Marlene H. Dortch, Secretary, FCC, GN Docket No. 18-122 (June 6, 2019); Letter from Elizabeth Andrion, Senior Vice President, Regulatory Affairs, Charter Communications, Inc."
+    },
+    {
+     "inicio_corpo": 44840,
+     "fim_corpo": 46123,
+     "trecho": "eds., 2018), https://books.google.com/books?id =2_RZDwAAQBAJ&lpg=PA253&ots=hAnjS-u6jC&dq=Katz%20%20Callorda%20broadband%2021.6&pg= PA253#v=onepage&q=Katz%20%20Callorda%20broadband%2021.6&f=false and in Comments of Corning Inc., WC Docket No. 17-84, at 3 (June 15, 2017). Marlene H. Dortch July 2, 2019 Page 9 of 9 II. CONCLUSION The joint proposal is a win-win for all stakeholders and the American public. It provides a seamless transition mechanism that will make both earth station and satellite operators whole through a transparent process led by the FCC, will incentivize current users, and will result in billions of dollars flowing to the U.S. Treasury—all through a transparent process overseen by the FCC. Respectfully submitted, /s Alexi Maltas Senior Vice President & General Counsel COMPETITIVE CARRIERS ASSOCIATION 601 New Jersey Avenue NW Suite 820 Washington, DC 20001 (202) 747-0711 Ross Lieberman Senior Vice President, Government Affairs ACA CONNECTS – AMERICA’S COMMUNICATIONS ASSOCIATION 2415 39th Pl NW Washington, DC 20007 (202) 494-5661 Elizabeth Andrion Senior Vice President, Regulatory Affairs CHARTER COMMUNICATIONS, INC. 601 Massachusetts Avenue NW Suite 400W Washington, DC 20001 (202) 621-1900"
+    },
+    {
+     "inicio_corpo": 45083,
+     "fim_corpo": 46123,
+     "trecho": "17-84, at 3 (June 15, 2017). Marlene H. Dortch July 2, 2019 Page 9 of 9 II. CONCLUSION The joint proposal is a win-win for all stakeholders and the American public. It provides a seamless transition mechanism that will make both earth station and satellite operators whole through a transparent process led by the FCC, will incentivize current users, and will result in billions of dollars flowing to the U.S. Treasury—all through a transparent process overseen by the FCC. Respectfully submitted, /s Alexi Maltas Senior Vice President & General Counsel COMPETITIVE CARRIERS ASSOCIATION 601 New Jersey Avenue NW Suite 820 Washington, DC 20001 (202) 747-0711 Ross Lieberman Senior Vice President, Government Affairs ACA CONNECTS – AMERICA’S COMMUNICATIONS ASSOCIATION 2415 39th Pl NW Washington, DC 20007 (202) 494-5661 Elizabeth Andrion Senior Vice President, Regulatory Affairs CHARTER COMMUNICATIONS, INC. 601 Massachusetts Avenue NW Suite 400W Washington, DC 20001 (202) 621-1900"
+    },
+    {
+     "inicio_corpo": 45083,
+     "fim_corpo": 46123,
+     "trecho": "17-84, at 3 (June 15, 2017). Marlene H. Dortch July 2, 2019 Page 9 of 9 II. CONCLUSION The joint proposal is a win-win for all stakeholders and the American public. It provides a seamless transition mechanism that will make both earth station and satellite operators whole through a transparent process led by the FCC, will incentivize current users, and will result in billions of dollars flowing to the U.S. Treasury—all through a transparent process overseen by the FCC. Respectfully submitted, /s Alexi Maltas Senior Vice President & General Counsel COMPETITIVE CARRIERS ASSOCIATION 601 New Jersey Avenue NW Suite 820 Washington, DC 20001 (202) 747-0711 Ross Lieberman Senior Vice President, Government Affairs ACA CONNECTS – AMERICA’S COMMUNICATIONS ASSOCIATION 2415 39th Pl NW Washington, DC 20007 (202) 494-5661 Elizabeth Andrion Senior Vice President, Regulatory Affairs CHARTER COMMUNICATIONS, INC. 601 Massachusetts Avenue NW Suite 400W Washington, DC 20001 (202) 621-1900"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0055::Infraestrutura e porte populacional",
+   "unit_id": "W0055",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tim Donovan",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7586,
+     "fim_corpo": 8610,
+     "trecho": "Indeed, spectrum licenses could end up sold to the largest carriers at a discount if competitors are discouraged from participating in an auction. And auction designs must be intelligible. They should avoid complex implementations that create strategic openings for some bidders to get more while paying less than their rivals. The FCC therefore should continue to utilize, and Congress should continue to support, auction designs and programs that ensure an even playing field that encourages participation in auctions by a diverse group of stakeholders. Auction designs should avoid complex and unpredictable processes. Auctions should also include continued use of bidding credits and other incentives for small entities or to provide service in rural and tribal areas. These incentives also should be implemented with the goal of expanding service in underserved markets without discouraging partnerships or disqualifying entities from participation due to factors unrelated to the spectrum acquisition."
+    },
+    {
+     "inicio_corpo": 20758,
+     "fim_corpo": 21889,
+     "trecho": "Dortch: The transition to 5G wireless services promises to bring about reinvigorated investment in the U.S. telecommunications infrastructure, faster mobile broadband, an explosion in the number of interconnected devices, and a cornucopia of ripple effect benefits that may change how we work and live. Mid-band spectrum will play an important role in this transition, and the C-band at 3.7- 4.2 GHz represents a critical opportunity to unleash mid-band spectrum for next generation wireless services. We are a diverse group of incumbent and prospective users. We have come together with a proposal that would free up a large amount of spectrum—at least 370 megahertz—for 5G services, while also concurrently making all existing users of the spectrum whole; provide those users with incentives to forego their rights to the C-band frequencies; endow the entire nation, including unserved rural areas, with fiber connectivity; reserve for the American public a significant portion of the proceeds from the refarming of the spectrum; and ensure the disinfectant of sunlight—a public process free of backroom deals."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0055::Macrorregião",
+   "unit_id": "W0055",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tim Donovan",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Puerto Rico",
+     "forma_encontrada": "Puerto Rico",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 16905,
+     "fim_corpo": 17753,
+     "trecho": "The Commission adopted procedures to ensure a smooth post-auction transition for the television stations affected by the reconfiguration. The transition must be completed by July 3, 2020. 9 In a recent report, the FCC announced that the transition “is ahead of schedule both in terms of the number of stations that have already vacated their pre-auction channels and the amount of 600 MHz spectrum that has been cleared and therefore made available for use by wireless auction winners.” Wireless operations relying on 600 MHz spectrum have begun in markets across the country, bringing new competition and opportunities for 5G expansion. T-Mobile, for example, won the most licenses in the incentive auction and has already deployed LTE service to 3,500 cities and towns in 44 states and Puerto Rico using its 600 MHz spectrum."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0055::Saúde",
+   "unit_id": "W0055",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tim Donovan",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2115,
+     "fim_corpo": 3152,
+     "trecho": "Distance learning puts the latest lessons and training programs at students’ fingertips, allowing them to access educational opportunities previously unimaginable. Today’s wireless services also enhance public safety, energy efficiency, economic growth, and opportunities for all Americans. 2 These and other services rely on a tremendous amount of wireless data. The average consumer in the United States has over 100 apps on their smartphone and, in 2018, spent nearly three hours a day using mobile apps. Mobile data use shows no signs of slowing down—on the contrary, a recent study estimates that by 2022 there will be 258 billion mobile application downloads worldwide. This data consumption represents a whopping 45 percent increase from 2017. As impressive as existing wireless networks can be, 5G will supercharge existing services like telehealth and precision agriculture and enable new services, such as augmented and virtual reality, autonomous vehicles, and other innovations not yet invented."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0055::Urbano e rural",
+   "unit_id": "W0055",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tim Donovan",
+   "n_ocorrencias_no_par": 21,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 15,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1025,
+     "trecho": "Our Wireless Future: Building A Comprehensive Approach to Spectrum Policy Testimony of Tim Donovan SVP, Legislative Affairs Competitive Carriers Association Before the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology July 16, 2019 1 Chairman Doyle, Ranking Member Latta, and Members of the Subcommittee, thank you for the opportunity to testify about how to best use finite, taxpayer-owned spectrum resources to support ubiquitous wireless services across the United States. I am testifying on behalf of Competitive Carriers Association (“CCA”), the nation’s leading association for competitive wireless providers. CCA represents carrier members ranging from small, rural providers serving fewer than 5,000 customers to regional and nationwide providers serving millions of customers, as well as vendors and suppliers that provide products and services throughout the wireless communications ecosystem."
+    },
+    {
+     "inicio_corpo": 1231,
+     "fim_corpo": 2028,
+     "trecho": "There are now more wireless connections than people in the United States. Just last week, the National Center for Health Statistics reported that 56.7 percent of adults live in wireless-only households. What’s more, the share of United States’ adults that primarily rely on a smartphone to access the Internet has nearly doubled since 2013. While Americans continue to cut the cord and move away from landline telephones, today’s wireless services power so much more than voice calls. Mobile connections are revolutionizing entire industries and improving consumers’ quality of life across the United States. For example, wireless technologies enable telemedicine services and remote patient monitoring, which increases patients’ access to medical care, particularly in rural areas."
+    },
+    {
+     "inicio_corpo": 2642,
+     "fim_corpo": 3585,
+     "trecho": "Mobile data use shows no signs of slowing down—on the contrary, a recent study estimates that by 2022 there will be 258 billion mobile application downloads worldwide. This data consumption represents a whopping 45 percent increase from 2017. As impressive as existing wireless networks can be, 5G will supercharge existing services like telehealth and precision agriculture and enable new services, such as augmented and virtual reality, autonomous vehicles, and other innovations not yet invented. Providers must therefore have the tools necessary to power these technologies. All of these technologies rely on sufficient access to spectrum. Spectrum is the invisible infrastructure that powers wireless networks. And while the potential of 5G services is exciting, without the right spectrum policies in place to make spectrum available for competitive carriers to serve rural areas, rural America will be left behind."
+    },
+    {
+     "inicio_corpo": 2812,
+     "fim_corpo": 3585,
+     "trecho": "This data consumption represents a whopping 45 percent increase from 2017. As impressive as existing wireless networks can be, 5G will supercharge existing services like telehealth and precision agriculture and enable new services, such as augmented and virtual reality, autonomous vehicles, and other innovations not yet invented. Providers must therefore have the tools necessary to power these technologies. All of these technologies rely on sufficient access to spectrum. Spectrum is the invisible infrastructure that powers wireless networks. And while the potential of 5G services is exciting, without the right spectrum policies in place to make spectrum available for competitive carriers to serve rural areas, rural America will be left behind."
+    },
+    {
+     "inicio_corpo": 3375,
+     "fim_corpo": 4229,
+     "trecho": "And while the potential of 5G services is exciting, without the right spectrum policies in place to make spectrum available for competitive carriers to serve rural areas, rural America will be left behind. To keep up with consumers’ insatiable demand for wireless data, all carriers must have exclusive access to low-, mid-, and high-band spectrum. Fortunately, Congress, the Federal Communications Commission (“FCC”), and the Administration have taken steps to identify and reallocate the spectrum resources necessary to support our wireless future. CCA commends these actions and urges policymakers to ensure that additional spectrum is made available to continue to meet demand. And as spectrum is brought to market, all carriers must have a meaningful opportunity to access additional spectrum resources, particularly in rural areas."
+    },
+    {
+     "inicio_corpo": 3730,
+     "fim_corpo": 4539,
+     "trecho": "Fortunately, Congress, the Federal Communications Commission (“FCC”), and the Administration have taken steps to identify and reallocate the spectrum resources necessary to support our wireless future. CCA commends these actions and urges policymakers to ensure that additional spectrum is made available to continue to meet demand. And as spectrum is brought to market, all carriers must have a meaningful opportunity to access additional spectrum resources, particularly in rural areas. Spectrum Must Be Made Available for All Carriers Policymakers should support smart policies to ensure that providers have access to a myriad array of spectrum resources to deploy the latest wireless technologies to not only Americans in urban 3 areas but also to those in rural and remote areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0056::Cultura e informação",
+   "unit_id": "W0056",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Mariel Triggs",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "library",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8322,
+     "fim_corpo": 9309,
+     "trecho": "In November 2017, our lawyers applied for an emergency Special Temporary Authorization from the FCC to use the A channels of the EBS spectrum . What we thought would be a routine 6 application review that would take two weeks instead took four months. The wait was excruciating. Within a few days of being granted spectrum access, the Havasupai Tribe made their first end-to-end high-speed Internet connection using the LTE network they built. It took half a day of labor to deploy the base station on the rim of the Grand Canyon. It provided signal to the whole town, with the village center reaching speeds up to 32 Mbps. A week after the FCC STA was granted, twelve homes and the Early Head Start building were connected to the Internet and students could pursue their studies at home. Now they have a library system such that students that wish to study for the GRE or SAT can check out a CPE (small device similar to a router) from the tribal council office."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0056::Domicílio e arranjo familiar",
+   "unit_id": "W0056",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Mariel Triggs",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1316,
+     "fim_corpo": 2252,
+     "trecho": "We support a year-long outreach and application window with rolling automatic approvals for tribal governments so that buildouts can happen quickly, thus serving as an example to neighboring tribal communities of what is possible and inspiring them to do the same. MuralNet MuralNet was founded in February of 2017 by Martin Casado and Brian Shih, after they had a conversation about the homework gap on tribal lands. As schools increase their connectivity, teachers assign more online homework. In order to meet academic expectations, students with no access to sufficient Internet at home have to go to extreme measures such as working out of McDonald’s parking lots to pick up free WiFi or traveling to the highest point near town to catch a cell phone signal, often hitting data caps a week into their billing period. According to the FCC, in 2017 98.4% of Urban, non-tribal households had broadband (25/3 Mbps) access."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0056::Educação",
+   "unit_id": "W0056",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Mariel Triggs",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 905,
+     "fim_corpo": 1819,
+     "trecho": "Last week, the FCC approved a tribal priority window for unlicensed Educational Broadband Service (EBS) spectrum before it goes to auction. While this was a groundbreaking measure that will connect many people on tribal lands, a 90-day outreach period followed by a 60-day application window is too short and expecting tribal nations to build out networks twice as fast as major telecoms is unjustifiable. We support a year-long outreach and application window with rolling automatic approvals for tribal governments so that buildouts can happen quickly, thus serving as an example to neighboring tribal communities of what is possible and inspiring them to do the same. MuralNet MuralNet was founded in February of 2017 by Martin Casado and Brian Shih, after they had a conversation about the homework gap on tribal lands. As schools increase their connectivity, teachers assign more online homework."
+    },
+    {
+     "inicio_corpo": 2149,
+     "fim_corpo": 2992,
+     "trecho": "According to the FCC, in 2017 98.4% of Urban, non-tribal households had broadband (25/3 Mbps) access. That number drops to 3 58.4% for rural non-tribal areas. For rural tribal areas that number is halved to 28.9%.1 And that is based on data that overstate actual coverage on tribal lands.2,3 Martin grew up in Flagstaff, AZ, and wanted to give back to the greater Northern Arizona community by helping to bridge the digital divide on tribal lands. Brian had deployed rural Internet networks around the world and was an expert in E-rate policy. On the back of a napkin, they came up with a game plan to bring broadband to under- connected people on a grand scale and connect rural tribal lands in the United States. Most anchor institutions such as schools, hospitals, chapter houses, etc, already had access to broadband."
+    },
+    {
+     "inicio_corpo": 4612,
+     "fim_corpo": 5476,
+     "trecho": "FCC, tribal stakeholders, and providers have noted that this approach leads to overstatements of broadband availability., See GAO, Broadband Internet: FCC’s Data Overstate Access on Tribal Lands , GAO 18-630, https://www.gao.gov/assets/700/694386.pdf (Sept, 2018). 4 infrastructure such as poles, rooftops, and water towers. And we had access to free open source systems with user-friendly, cloud-based interface operations portals. However, a wireless solution requires spectrum. EBS spectrum is the perfect band for starting a rural wireless Internet network. A signal in this range has great propagation and penetration characteristics throughput. Since licenses are required, the networks have a guarantee of reliable operations without worry of interference that unlicensed spectrum has. And licenses are free for schools and nonprofits."
+    },
+    {
+     "inicio_corpo": 6061,
+     "fim_corpo": 6909,
+     "trecho": "In the Spring of 2017, we were ready to build a pilot and reached out to Dr. Chad Hamill, the Vice President of Native American Initiatives at Northern Arizona University. The Havasupai Tribe These are the words of Councilwoman Ophelia Watahomigie-Corliss of The Havasupai Tribe. “Education is important. We live in a canyon, but we also live in the bigger world. Our children deserve the same chance to learn and earn the same education as anyone else.” The village of Supai is home to about 400 members and is located at the bottom of the Grand Canyon. Travel there requires a helicopter or an 8-mile hike through 5 difficult terrain. The extreme remoteness of the town greatly limits educational and economic opportunities. Havasupai Elementary struggles with staffing shortages that close the school for weeks at a time."
+    },
+    {
+     "inicio_corpo": 15625,
+     "fim_corpo": 16347,
+     "trecho": "Havasupai Network Expansion and Continued Spectrum Issues The success of our pilot project with MuralNet has motivated the Tribe to devote a part of its resources to upgrading the LTE Internet network. Currently, only seven homes in the center of the village with a direct line of sight to the tower have had broadband speeds while homes on the outskirts of the community have some connection issues. The planned network expansion would bring broadband coverage to the whole village, increase backhaul from fifty Mbps to one Gbps, provide emergency communications throughout the Canyon, connect an online charter high school, and allow for telemedicine in the new clinic, which will begin construction next year."
+    },
+    {
+     "inicio_corpo": 16761,
+     "fim_corpo": 17690,
+     "trecho": "MuralNet won private grants so that each structure in the village can get broadband. We are finding funding to increase backhaul and bring high-speed Internet to the campgrounds. We are so confident that we can make The Havasupai Tribe’s vision of a broadband network throughout the canyon that Niles Radio Communications applied for the spectrum licenses in the 6GHz band. This would allow us to increase the microwave backhaul to 1Gbps. However, their application may be rejected because, in 2015 another company expressed interest in the frequencies through the prior coordination notification (PCN) process.7 Even though this other company did not apply for a license until Niles Radio made their interest public, their application had seniority. If Niles Radio’s objection is rejected, we must wait eighteen months to try again. That is a year and a half of schooling, telemedicine and economic development lost."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0056::Escolaridade e letramento",
+   "unit_id": "W0056",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Mariel Triggs",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1047,
+     "fim_corpo": 2149,
+     "trecho": "While this was a groundbreaking measure that will connect many people on tribal lands, a 90-day outreach period followed by a 60-day application window is too short and expecting tribal nations to build out networks twice as fast as major telecoms is unjustifiable. We support a year-long outreach and application window with rolling automatic approvals for tribal governments so that buildouts can happen quickly, thus serving as an example to neighboring tribal communities of what is possible and inspiring them to do the same. MuralNet MuralNet was founded in February of 2017 by Martin Casado and Brian Shih, after they had a conversation about the homework gap on tribal lands. As schools increase their connectivity, teachers assign more online homework. In order to meet academic expectations, students with no access to sufficient Internet at home have to go to extreme measures such as working out of McDonald’s parking lots to pick up free WiFi or traveling to the highest point near town to catch a cell phone signal, often hitting data caps a week into their billing period."
+    },
+    {
+     "inicio_corpo": 8240,
+     "fim_corpo": 9132,
+     "trecho": "Spectrum Application Hurdles Supai needed access to spectrum for their network. In November 2017, our lawyers applied for an emergency Special Temporary Authorization from the FCC to use the A channels of the EBS spectrum . What we thought would be a routine 6 application review that would take two weeks instead took four months. The wait was excruciating. Within a few days of being granted spectrum access, the Havasupai Tribe made their first end-to-end high-speed Internet connection using the LTE network they built. It took half a day of labor to deploy the base station on the rim of the Grand Canyon. It provided signal to the whole town, with the village center reaching speeds up to 32 Mbps. A week after the FCC STA was granted, twelve homes and the Early Head Start building were connected to the Internet and students could pursue their studies at home."
+    },
+    {
+     "inicio_corpo": 8322,
+     "fim_corpo": 9309,
+     "trecho": "In November 2017, our lawyers applied for an emergency Special Temporary Authorization from the FCC to use the A channels of the EBS spectrum . What we thought would be a routine 6 application review that would take two weeks instead took four months. The wait was excruciating. Within a few days of being granted spectrum access, the Havasupai Tribe made their first end-to-end high-speed Internet connection using the LTE network they built. It took half a day of labor to deploy the base station on the rim of the Grand Canyon. It provided signal to the whole town, with the village center reaching speeds up to 32 Mbps. A week after the FCC STA was granted, twelve homes and the Early Head Start building were connected to the Internet and students could pursue their studies at home. Now they have a library system such that students that wish to study for the GRE or SAT can check out a CPE (small device similar to a router) from the tribal council office."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0056::Idade",
+   "unit_id": "W0056",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Mariel Triggs",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "senior",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 16649,
+     "fim_corpo": 17521,
+     "trecho": "There is no financial return on investment to motivate outsiders to connect a community this small and remote. MuralNet won private grants so that each structure in the village can get broadband. We are finding funding to increase backhaul and bring high-speed Internet to the campgrounds. We are so confident that we can make The Havasupai Tribe’s vision of a broadband network throughout the canyon that Niles Radio Communications applied for the spectrum licenses in the 6GHz band. This would allow us to increase the microwave backhaul to 1Gbps. However, their application may be rejected because, in 2015 another company expressed interest in the frequencies through the prior coordination notification (PCN) process.7 Even though this other company did not apply for a license until Niles Radio made their interest public, their application had seniority."
+    }
+   ]
+  }
+ ]
+}

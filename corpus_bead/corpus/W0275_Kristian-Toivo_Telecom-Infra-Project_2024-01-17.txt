@@ -1,0 +1,158 @@
+# W0275 | Kristian Toivo | Telecom Infra Project
+# 118th Congress | House | 2024-01-17
+# Strengthening American Communications Leadership with Open Radio Access Networks
+# source: https://www.congress.gov/118/meeting/house/116743/witnesses/HMTG-118-IF16-Wstate-ToivoK-20240117.pdf
+
+1 
+ 
+ 
+ 
+Written Statement  
+of 
+Kristian Toivo 
+Executive Director, Telecom Infra Project 
+ 
+ 
+Prepared for the 
+ 
+ 
+U.S. House of Representatives  
+Committee on Energy and Commerce  
+Subcommittee on Communications and Technology 
+ 
+ 
+Hearing Titled 
+ 
+ 
+Strengthening American Communications Leadership  
+with Open Radio Access Networks 
+ 
+January 17, 2024 
+
+2 
+ 
+ 
+Introduction: Who is TIP? 
+Chairman Latta, Ranking Member Matsui, Chairwoman McMorris Rodgers, Ranking 
+Member Pallone, and all Members, thank you for giving me the opportunity to testify on the 
+promise of Open Radio Access Networks.  I especially appreciate your leadership on this 
+particular issue, from enacting and overseeing the Wireless Innovation Fund to holding this 
+hearing today.
+  I also want to commend my friends Diane Rinaldo, Jeff Blum, and John Baker for 
+their leadership.  They are not just my fellow panelists; they lead organizations – the Open RAN 
+Policy Coalition, DISH Networks, and Mavenir – that are our partners in achieving the 
+breakthroughs the Committee seeks. 
+My name is Kristian Toivo, and I am the Executive Director of TIP, the Telecom Infra 
+Project.  TIP is a U.S.-based nonprofit organization comprised of a wide diversity of hundreds of 
+companies and organizations from across the globe.  We convene industry to accelerate the 
+development and deployment of open, disaggregated, and standards-based technology 
+solutions and deliver the high-quality connectivity that the world needs.  Our activities are 
+industry-led and membership-driven on behalf of 600+ organizations, reflecting the demands of 
+a large cross-section of the telecom industry.   
+Since early 2016, TIP has convened telecom stakeholders, including carriers, vendors, 
+systems integrators, and policymakers, to drive the transformation of equipment supply chains 
+in a way that facilitates the implementation of disaggregated, multi-vendor networks based on 
+open interfaces.  TIP acts as a neutral non-profit industry facilitator, bringing stakeholders 
+together to collaborate on product roadmaps, testing of solutions against common 
+3 
+ 
+requirements, and sharing of knowledge and information among demand- and supply-side 
+market participants. Our testing activities are lab-agnostic, managed within TIP Project Groups 
+and governed by TIP’s Test & Validation Committee and Board.  We also facilitate knowledge 
+sharing between testing facilitators in order to reduce duplication of efforts and facilitate 
+validation and deployment solutions more quickly among the ecosystem.  
+The State of Open RAN and the Importance of the Wireless Innovation Fund 
+Based on decades of experience in this industry, I think the establishment of NTIA’s 
+Wireless Innovation Fund is a profound investment in network infrastructure that is poised to 
+pay dividends for generations to come.  The Fund has the capability to accelerate the 
+development and adoption of open, interoperable, and standards-based networks to drive 
+wireless innovation, foster competition, upskill the engineering workforce, and strengthen 
+supply chain resilience.  We thank Congress for explicitly recognizing TIP’s leadership in the 
+statute that created the Fund. 
+We are at a critical inflection point  for Open RAN technology.  Several wireless carriers 
+have successfully deployed the technology in the United States and elsewhere, and others 
+across Europe have signed an MOU indicating joint support for Open RAN adoption.   
+Still, although carriers today are eager to adopt and deploy Open RAN networks, several 
+market factors have continued to impede progress, including: 
+● Pressure on revenues and investments stemming from increased competition and a 
+rising demand curve in the post-pandemic environment; 
+4 
+ 
+● The need for significant efforts to integrate individual RAN components from different 
+vendors into an Open RAN system, and testing of that system to meet operator quality 
+demands;  
+● A heightened focus on security and resilience in the current conflict environment, 
+increasing operator costs and limiting risk tolerance; and 
+● Concentrated equipment supply chains that limit the possibility of new Open RAN 
+vendors to achieve competitive prices when volumes are still low.       
+The migration to 5G has also proven challenging for wireless carriers, especially as 
+business cases are still emerging.  For Open RAN technology to succeed at scale, an ecosystem 
+of companies must address the challenges associated with building and running large-scale 
+reliable radio networks.  This is achievable. 
+In the coming months, we have the opportunity to fundamentally change the global 
+market for Open RAN, thereby promoting diversity, competition, and trust in the telecom 
+supplier market. To explain why this is the case, I want to highlight the crucial distinction 
+between two indispensable concepts in Open RAN: 
+● First, component-level interoperability, which is the primary focus of the O-RAN 
+Alliance’s technical specifications.  For instance, ensuring that the radio antenna at the 
+top of the cell tower interoperates with the base station computing functions on the 
+ground below the tower. 
+● Second, holistic system-level functionality and performance, which is TIP’s primary 
+focus.  Here, the issue is whether the whole collection of interoperable components 
+work together as a complex and highly functional carrier-grade RAN system.    
+5 
+ 
+Here is the basic distinction:  Just as consumers purchase whole roadworthy 
+automobiles, wireless carriers like AT&T and Verizon purchase whole RAN systems.  No  
+consumer would purchase a collection of individual components for a car, and likewise for 
+carriers purchasing RAN.  The way Ford and GM build the “systems” (i.e. cars) that they sell to 
+consumers is very similar to the pre-Open RAN model for incumbent RAN vendors selling RAN 
+systems to carriers – fully proprietary systems whose inner workings are largely “closed” to 
+outside vendors.  Open RAN disaggregates this proprietary approach, which requires 
+interoperability testing and evaluation at component interoperability level and also validating       
+the whole system for its functionality and performance.   
+In short, O-RAN Alliance specification ensures that the individual parts that make up the 
+RAN system are interoperable, and TIP’s system-level testing/certification ensures that the 
+whole RAN system functions as it is supposed to.  We have largely achieved component 
+interoperability, but system functionality and confidence in its performance are the market-
+changing breakthroughs that are needed.  Relatively modest public funding toward this end can 
+make this happen. 
+The Need for Systems Certification  
+In an Open RAN deployment, multiple different vendors of radio hardware and 
+software, chipsets, compute platforms and cloud orchestration software are partners to the 
+carrier, and it can be difficult for carriers to integrate potentially dozens of vendors into a 
+deployable carrier-grade RAN system, even if the individual components are interoperable.   
+System-level certification is crucial for wireless carriers to leverage integrated, tested 
+system designs over and over in an efficient and cost-effective manner.  This challenge does not 
+6 
+ 
+exist in closed proprietary RAN systems since each vendor designs, builds, tests, integrates, 
+deploys, and supports their own solutions.  However, for Open RAN to flourish, we must 
+establish a trusted, neutral, non-profit, and global systems-level certification regime. Industry 
+has repeatedly underscored the need for an industry-led systems validation and certification 
+process.  In fact, many companies have urged NTIA to use Wireless Innovation Fund grants to 
+establish an independent entity to perform this function, with some citing the Wi-Fi Alliance as 
+a useful model for the systems certification regime.  
+TIP is seeking to leverage its experience and technical relationships to further cultivate 
+this capability for the Open RAN industry globally.  Individual carriers or individual vendors 
+cannot perform this function because companies will not seek certified solutions from their 
+competitors or from company-specific labs.  Thus, a neutral non-profit entity with a global 
+reach is needed to work with multiple lab partners throughout the world for a trusted systems-
+certification regime that can serve the global telecom market. 
+While TIP has made great progress in recent years through various Open RAN testing 
+events and field trials, the Open RAN industry still lacks a deployment-ready “finish line” that 
+establishes operator confidence.  System certification is the critical missing link to accelerate 
+Open RAN’s market readiness by providing carriers with Open RAN solutions ready for their 
+own further carrier-specific acceptance testing.  There remains a window of opportunity for 
+deployments within the remaining 5G build cycle, including in the growing domain of private 
+networks, but industry and government must act together now.  Given the long cycles of RAN 
+development and deployment where extensive live trials and smaller scale deployments must 
+7 
+ 
+precede a large-scale roll-out, the need for establishing an Open RAN system certification 
+capability is at a critical juncture.   
+Conclusion 
+The Wireless Innovation Fund is poised to seize this moment with targeted investments.   
+As the industry continues to mature, public investment is necessary to fully realize the systems 
+certification model and to realize the promise of U.S. and allied trusted suppliers. I look forward 
+to your questions as we discuss this opportunity.

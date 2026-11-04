@@ -1,0 +1,943 @@
+{
+ "caso": "FUST",
+ "lote": 33,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0200::Administração pública",
+   "unit_id": "S0200",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-04",
+   "orador": "Luiz Pontes",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "prefeitura",
+     "forma_encontrada": "prefeitura",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeitura",
+     "forma_encontrada": "prefeitura",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeituras",
+     "forma_encontrada": "prefeituras",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4079,
+     "fim_corpo": 5206,
+     "trecho": "É preciso combater isso. V. Ex.ª, evidentemente, está propondo algumas reformas, mas devo registrar que, depois de seis meses de estudo, de longo estudo sobre a matéria, apresentei um projeto de lei nesse sentido. Entendo que só há uma forma de corrigir essas distorções, esses desvios de recursos do Fundef: fazer a comunidade ter poder de fiscalizar e fazer com que o Prefeito seja obrigado a constituir, dentro do seu Município, o Conselho de Acompanhamento e Fiscalização. Este Conselho teria o poder não só de definir as políticas direcionadas à educação, mas também o de fiscalizar a aplicação dos recursos a ela destinados. O meu projeto de lei propõe, inclusive, a ampliação desse Conselho, para que um representante de cada Casa legislativa faça parte dele e para que os Tribunais de Contas dos Municípios só aceitem as prestações de conta da prefeitura acompanhadas de relatório do Conselho de Fiscalização e de acompanhamento de Educação; sem isso, a prestação de contas não teria validade, além de obrigar todos os municípios do País a constituir o Conselho de Acompanhamento e Fiscalização dos Recursos do Fundef."
+    },
+    {
+     "inicio_corpo": 5206,
+     "fim_corpo": 6117,
+     "trecho": "A comunidade é quem pode combater o desvio e a corrupção, somente ela tem poderes para conseguir fazer com que os prefeitos deixem de roubar e desviar os recursos do Fundef. O meu projeto de lei está em tramitação e hoje foi matéria no Jornal do Senado. Espero que esta Casa dê a ele a prioridade de que necessita. A lei que criou o Fundef foi perfeita, mas deixou essa falha da não-fiscalização, da permissão concedida aos prefeitos para usar como quisessem esse recurso. A nossa proposta surgiu de estudo, de oito meses, sobre a matéria. Ouvimos entidades, vários envolvidos com a educação, e chegamos a esse projeto que aperfeiçoou o Fundef, inclusive quanto à correção do valor atribuído por aluno. Hoje, a distribuição é feita baseada em dados do início do ano anterior. No fim de 2000, a prefeitura de determinado município estará recebendo recursos baseada no aluno matriculado no início do ano de 1999."
+    },
+    {
+     "inicio_corpo": 12273,
+     "fim_corpo": 12846,
+     "trecho": "Tenho procurado dar a minha contribuição ao processo de aperfeiçoamento da fiscalização dos recursos do Fundef. Tramita nesta Casa projeto de lei de minha iniciativa que torna obrigatória, para os municípios, a contratação de instituições de nível superior reconhecidas pelo Ministério da Educação para ministrarem cursos de habilitação de professores leigos do ensino fundamental. É uma medida para evitar o desvio de dinheiro através de cursos pagos pelas prefeituras a empresas que sequer tinham ou têm registro junto aos Conselhos Federal e Regional de Educação."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0200::Domicílio e arranjo familiar",
+   "unit_id": "S0200",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-04",
+   "orador": "Luiz Pontes",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13138,
+     "fim_corpo": 13951,
+     "trecho": "Hoje, o Ministério da Educação repassa os recursos do Fundef para uma conta específica do município. É importante, porém, a criação de uma conta destinada exclusivamente à movimentação dos 60% para pagamento dos professores. Essa medida representa um controle maior sobre a administração desses recursos, facilitando também a fiscalização exercida pelos Tribunais de Contas. O projeto torna obrigatória a prestação de contas trimestralmente, facilitando a fiscalização da aplicação do dinheiro público da área de educação. Outra medida indispensável para maior transparência na aplicação e fiscalização das verbas do ensino fundamental é a proibição da escolha do prefeito ou do gestor do Fundo para a Presidência do Conselho Municipal responsável pelo acompanhamento das despesas com o dinheiro do Fundef."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0200::Educação",
+   "unit_id": "S0200",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-04",
+   "orador": "Luiz Pontes",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10407,
+     "fim_corpo": 11775,
+     "trecho": "Devemos salvaguardar os interesses da população e a eficácia da Administração Pública, norteada pelos princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência. O Estado deve fortalecer os seus órgãos e mecanismos de fiscalização seja junto aos Tribunais de Contas, Ministério Público, Poder Legislativo, seja junto ao Poder Judiciário. Em nome do seu povo, deve usar de prudência, para não inibir essa fiscalização e se posicionar involuntariamente ao lado daqueles que não prestaram contas regularmente junto às Câmaras Municipais ou junto ao TCM; não aplicaram o percentual mínimo de 60% dos recursos do Fundef destinados à remuneração dos profissionais do magistério; desviaram verbas em cursos ora inexistentes ou não reconhecidos pelo Conselho de Educação, não realizaram licitações quando da contratação de assessorias e de transporte escolar; superfaturaram na construção de salas de aula e escolas; utilizaram materiais de péssima categoria; atrasaram o pagamento de professores; realizaram farra de compras com despesas não previstas na LDB; permitiram descontrole contábil e financeiro dos recursos do Fundef; assinaram cheques em branco; superfaturaram em desapropriação de imóveis pagos com recursos destinados à Educação; contrataram bandas de música, bufês; superfaturaram compra de automóveis, aluguéis de carros, caminhões."
+    },
+    {
+     "inicio_corpo": 10589,
+     "fim_corpo": 11775,
+     "trecho": "O Estado deve fortalecer os seus órgãos e mecanismos de fiscalização seja junto aos Tribunais de Contas, Ministério Público, Poder Legislativo, seja junto ao Poder Judiciário. Em nome do seu povo, deve usar de prudência, para não inibir essa fiscalização e se posicionar involuntariamente ao lado daqueles que não prestaram contas regularmente junto às Câmaras Municipais ou junto ao TCM; não aplicaram o percentual mínimo de 60% dos recursos do Fundef destinados à remuneração dos profissionais do magistério; desviaram verbas em cursos ora inexistentes ou não reconhecidos pelo Conselho de Educação, não realizaram licitações quando da contratação de assessorias e de transporte escolar; superfaturaram na construção de salas de aula e escolas; utilizaram materiais de péssima categoria; atrasaram o pagamento de professores; realizaram farra de compras com despesas não previstas na LDB; permitiram descontrole contábil e financeiro dos recursos do Fundef; assinaram cheques em branco; superfaturaram em desapropriação de imóveis pagos com recursos destinados à Educação; contrataram bandas de música, bufês; superfaturaram compra de automóveis, aluguéis de carros, caminhões."
+    },
+    {
+     "inicio_corpo": 13951,
+     "fim_corpo": 14796,
+     "trecho": "O projeto de lei veta, ainda, a indicação de parentes do prefeito até terceiro grau para o Conselho Municipal do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério. É uma proposta para evitar o nepotismo e garantir, ao mesmo tempo, lisura, efetiva transparência e isenção na atuação do Conselho Municipal. Faz-se necessária, Sr. Presidente, Sr as e Sr s Senadores, a correção de falhas nos critérios de distribuição dos recursos desse importante programa para os municípios. Hoje, os recursos são enviados aos municípios com base no número de estudantes matriculados no ensino fundamental. Há, contudo, o que considero uma distorção: hoje não há inclusão, para efeito de repasse de verbas, das pessoas matriculadas nas escolas do ensino fundamental e que estão fora da faixa etária (7 aos 14 anos)."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0200::Escolaridade e letramento",
+   "unit_id": "S0200",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-04",
+   "orador": "Luiz Pontes",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "aluno",
+     "forma_encontrada": "aluno",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "aluno",
+     "forma_encontrada": "aluno",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "aluno",
+     "forma_encontrada": "aluno",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "estudantes",
+     "forma_encontrada": "estudantes",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2912,
+     "fim_corpo": 3861,
+     "trecho": "Esses administradores impedem o acesso da comunidade à educação e, por fim, acobertam-se com o manto da impunidade. É necessário que se promova a responsabilidade civil e criminal desses maus gestores, que insistem em vilipendiar os direitos fundamentais da população, tais qual o direito à educação. Assusta-nos a informação fornecida com base nos primeiros levantamentos da auditoria realizada pelo Tribunal de Contas da União, TCU, de que mais de R$3 bilhões foram desviados do Fundef. O Sr. Ademir Andrade (PSB – PA) – Concede-me V. Ex.ª um aparte? O SR. LUIZ PONTES (PSDB – CE) – Com o maior prazer, Senador Ademir Andrade. O Sr. Ademir Andrade (PSB – PA) – Senador, V. Ex.ª retrata uma realidade: o Fundef foi uma das melhores coisas que se fez no País, nos últimos tempos, para melhorar a educação. Graças a ele, hoje em dia, os Prefeitos vivem à caça de alunos – quanto mais alunos, mais recursos o Município recebe."
+    },
+    {
+     "inicio_corpo": 3028,
+     "fim_corpo": 3861,
+     "trecho": "É necessário que se promova a responsabilidade civil e criminal desses maus gestores, que insistem em vilipendiar os direitos fundamentais da população, tais qual o direito à educação. Assusta-nos a informação fornecida com base nos primeiros levantamentos da auditoria realizada pelo Tribunal de Contas da União, TCU, de que mais de R$3 bilhões foram desviados do Fundef. O Sr. Ademir Andrade (PSB – PA) – Concede-me V. Ex.ª um aparte? O SR. LUIZ PONTES (PSDB – CE) – Com o maior prazer, Senador Ademir Andrade. O Sr. Ademir Andrade (PSB – PA) – Senador, V. Ex.ª retrata uma realidade: o Fundef foi uma das melhores coisas que se fez no País, nos últimos tempos, para melhorar a educação. Graças a ele, hoje em dia, os Prefeitos vivem à caça de alunos – quanto mais alunos, mais recursos o Município recebe."
+    },
+    {
+     "inicio_corpo": 5206,
+     "fim_corpo": 5909,
+     "trecho": "A comunidade é quem pode combater o desvio e a corrupção, somente ela tem poderes para conseguir fazer com que os prefeitos deixem de roubar e desviar os recursos do Fundef. O meu projeto de lei está em tramitação e hoje foi matéria no Jornal do Senado. Espero que esta Casa dê a ele a prioridade de que necessita. A lei que criou o Fundef foi perfeita, mas deixou essa falha da não-fiscalização, da permissão concedida aos prefeitos para usar como quisessem esse recurso. A nossa proposta surgiu de estudo, de oito meses, sobre a matéria. Ouvimos entidades, vários envolvidos com a educação, e chegamos a esse projeto que aperfeiçoou o Fundef, inclusive quanto à correção do valor atribuído por aluno."
+    },
+    {
+     "inicio_corpo": 5206,
+     "fim_corpo": 6117,
+     "trecho": "A comunidade é quem pode combater o desvio e a corrupção, somente ela tem poderes para conseguir fazer com que os prefeitos deixem de roubar e desviar os recursos do Fundef. O meu projeto de lei está em tramitação e hoje foi matéria no Jornal do Senado. Espero que esta Casa dê a ele a prioridade de que necessita. A lei que criou o Fundef foi perfeita, mas deixou essa falha da não-fiscalização, da permissão concedida aos prefeitos para usar como quisessem esse recurso. A nossa proposta surgiu de estudo, de oito meses, sobre a matéria. Ouvimos entidades, vários envolvidos com a educação, e chegamos a esse projeto que aperfeiçoou o Fundef, inclusive quanto à correção do valor atribuído por aluno. Hoje, a distribuição é feita baseada em dados do início do ano anterior. No fim de 2000, a prefeitura de determinado município estará recebendo recursos baseada no aluno matriculado no início do ano de 1999."
+    },
+    {
+     "inicio_corpo": 5460,
+     "fim_corpo": 6368,
+     "trecho": "Espero que esta Casa dê a ele a prioridade de que necessita. A lei que criou o Fundef foi perfeita, mas deixou essa falha da não-fiscalização, da permissão concedida aos prefeitos para usar como quisessem esse recurso. A nossa proposta surgiu de estudo, de oito meses, sobre a matéria. Ouvimos entidades, vários envolvidos com a educação, e chegamos a esse projeto que aperfeiçoou o Fundef, inclusive quanto à correção do valor atribuído por aluno. Hoje, a distribuição é feita baseada em dados do início do ano anterior. No fim de 2000, a prefeitura de determinado município estará recebendo recursos baseada no aluno matriculado no início do ano de 1999. Portanto, há uma defasagem de quase dois anos. A lei que apresentamos também modifica esse procedimento; estabelece um levantamento, no meio do ano, que permita a imediata e real distribuição do recurso, de acordo com o número de alunos do município."
+    },
+    {
+     "inicio_corpo": 6499,
+     "fim_corpo": 7339,
+     "trecho": "Parabenizo V. Exª pelo discurso. Muito obrigado. O SR. LUIZ PONTES (PSDB - CE) – Agradeço o aparte de V. Exª. Senador Ademir Andrade, tive oportunidade de ler o projeto de V. Exª. Também temos projeto tramitando na Casa. Quando V. Exª fala na questão do Conselho, lembra a gravidade do problema. Hoje, muitos dos conselhos criados por prefeitos são geridos pelos próprios, ou pelo Secretário de Educação, ou o prefeito é o presidente. Se formos verificar, ali estão a mulher do prefeito, a nora do prefeito, a sobrinha do prefeito, fiscalizando o gestor: o prefeito. No nosso projeto, o prefeito, uma vez gestor, não poderia fazer parte do conselho. Como V. Exª falou, quanto à questão da Situação e da Oposição e também do Ministério Público, proporíamos uma eleição, pelos funcionários do colégio, pais de alunos."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0200::Gênero",
+   "unit_id": "S0200",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-04",
+   "orador": "Luiz Pontes",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "mulher",
+     "forma_encontrada": "mulher",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6117,
+     "fim_corpo": 7084,
+     "trecho": "Portanto, há uma defasagem de quase dois anos. A lei que apresentamos também modifica esse procedimento; estabelece um levantamento, no meio do ano, que permita a imediata e real distribuição do recurso, de acordo com o número de alunos do município. Espero que o Senado dê atenção ao projeto que apresentamos, visando aperfeiçoar e corrigir a lei que criou o Fundef no nosso País. Parabenizo V. Exª pelo discurso. Muito obrigado. O SR. LUIZ PONTES (PSDB - CE) – Agradeço o aparte de V. Exª. Senador Ademir Andrade, tive oportunidade de ler o projeto de V. Exª. Também temos projeto tramitando na Casa. Quando V. Exª fala na questão do Conselho, lembra a gravidade do problema. Hoje, muitos dos conselhos criados por prefeitos são geridos pelos próprios, ou pelo Secretário de Educação, ou o prefeito é o presidente. Se formos verificar, ali estão a mulher do prefeito, a nora do prefeito, a sobrinha do prefeito, fiscalizando o gestor: o prefeito."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0200::Macrorregião",
+   "unit_id": "S0200",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-04",
+   "orador": "Luiz Pontes",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "norte",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9826,
+     "fim_corpo": 10589,
+     "trecho": "São inúmeros os benefícios proporcionados pelo Fundef aos municípios mais pobres. Além de garantir acesso ao ensino fundamental, o Fundef valorizou, com salários dignos, milhares de profissionais do magistério. Enalteceu a condição de professor, e estes passaram a almejar melhor qualificação. Enalteceu o status do aluno que, de simples beneficiário, passou a sujeito de direitos. Repito, não podemos, nobres Colegas, permitir que o processo de Educação seja golpeado pela vilania de administradores corruptos, que não merecem receber o nome de agentes políticos. Devemos salvaguardar os interesses da população e a eficácia da Administração Pública, norteada pelos princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0200::Renda e classe",
+   "unit_id": "S0200",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-04",
+   "orador": "Luiz Pontes",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9042,
+     "fim_corpo": 9914,
+     "trecho": "Inibe-se a cidadania. Não podemos jamais punir o ente da Federação e sua população pelos desmandos, enriquecimento ilícito ou improbidade administrativa do gestor do Fundo, na maioria das vezes o próprio prefeito. Que ele responda pelos danos causados, que a Justiça o faça restituir cada centavo roubado, que a população o repudie no voto. Jamais poderemos punir novamente a população. A população é a vítima, não pode sofrer sanções de corte de verbas ou incentivos federais, ou ainda suspensão de projetos em face do comportamento de certos prefeitos que, perversamente, usurparam da população o acesso à Educação e desvirtuaram uma das metas mais relevantes do atual Governo Federal: a valorização do magistério e a garantia do efetivo ensino fundamental a todo brasileiro. São inúmeros os benefícios proporcionados pelo Fundef aos municípios mais pobres."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0201::Macrorregião",
+   "unit_id": "S0201",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-04",
+   "orador": "Jonas Pinheiro",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1207,
+     "fim_corpo": 2105,
+     "trecho": "Por esse motivo, apelamos ao Governo – na quinta-feira, inclusive, teremos um encontro com o Ministro Pedro Parente e seus assessores e logo depois o mesmo ocorrerá no Ministério da Fazenda –, para encerrarmos esse assunto. No Congresso Nacional, Câmara dos Deputados e Senado Federal, os Parlamentares que fazem parte da comissão já têm entendimento fechado a respeito do projeto de conversão relatado pelo Deputado Francisco Garcia, do PFL do Amazonas. Já há um bom entendimento com o Ministério da Integração Nacional, que está envolvido no processo. Portanto, só faltam os ministérios da área política e os da área econômica para que fechemos o processo. Estamos negociando alguns pontos. Por exemplo, a medida provisória já traz no seu bojo o que sempre desejamos: juros fixos para aplicação dos créditos financiados pelos fundos constitucionais do Norte, Nordeste e Centro-Oeste."
+    },
+    {
+     "inicio_corpo": 1207,
+     "fim_corpo": 2105,
+     "trecho": "Por esse motivo, apelamos ao Governo – na quinta-feira, inclusive, teremos um encontro com o Ministro Pedro Parente e seus assessores e logo depois o mesmo ocorrerá no Ministério da Fazenda –, para encerrarmos esse assunto. No Congresso Nacional, Câmara dos Deputados e Senado Federal, os Parlamentares que fazem parte da comissão já têm entendimento fechado a respeito do projeto de conversão relatado pelo Deputado Francisco Garcia, do PFL do Amazonas. Já há um bom entendimento com o Ministério da Integração Nacional, que está envolvido no processo. Portanto, só faltam os ministérios da área política e os da área econômica para que fechemos o processo. Estamos negociando alguns pontos. Por exemplo, a medida provisória já traz no seu bojo o que sempre desejamos: juros fixos para aplicação dos créditos financiados pelos fundos constitucionais do Norte, Nordeste e Centro-Oeste."
+    },
+    {
+     "inicio_corpo": 3441,
+     "fim_corpo": 4581,
+     "trecho": "Estamos propondo a ampliação para oito anos, tendo como limite, desde o início do contrato, vinte anos. Além disso, Sr. Presidente, estamos solicitando um dispositivo que defina como móvel o prazo para as providências de renegociação da dívida. Hoje, as medidas provisórias saem com data estabelecida. Queremos que entre em vigor noventa dias a partir do dia em que a lei for promulgada e não que se estabeleça uma data até determinado prazo. E se não for promulgada a lei em tempo hábil? Enfim, estamos com uma série de providências já tomadas para o entendimento final, a fim de que os fundos constitucionais, tão necessários para as Regiões Norte, Nordeste e Centro-Oeste, sejam aprovados o mais celeremente possível no Congresso Nacional. O apelo que fazemos para o Senado Federal, o Congresso Nacional e, sobretudo, para o Poder Executivo é no sentido de estipularmos um prazo final para o rumoroso caso dos fundos constitucionais. Lutamos 14 meses para que a medida provisória fosse editada, e hoje, 18 meses após sua edição, ainda não concluímos essa ação para o bem das Regiões Norte, Nordeste e Centro-Oeste. Muito obrigado."
+    },
+    {
+     "inicio_corpo": 3441,
+     "fim_corpo": 4581,
+     "trecho": "Estamos propondo a ampliação para oito anos, tendo como limite, desde o início do contrato, vinte anos. Além disso, Sr. Presidente, estamos solicitando um dispositivo que defina como móvel o prazo para as providências de renegociação da dívida. Hoje, as medidas provisórias saem com data estabelecida. Queremos que entre em vigor noventa dias a partir do dia em que a lei for promulgada e não que se estabeleça uma data até determinado prazo. E se não for promulgada a lei em tempo hábil? Enfim, estamos com uma série de providências já tomadas para o entendimento final, a fim de que os fundos constitucionais, tão necessários para as Regiões Norte, Nordeste e Centro-Oeste, sejam aprovados o mais celeremente possível no Congresso Nacional. O apelo que fazemos para o Senado Federal, o Congresso Nacional e, sobretudo, para o Poder Executivo é no sentido de estipularmos um prazo final para o rumoroso caso dos fundos constitucionais. Lutamos 14 meses para que a medida provisória fosse editada, e hoje, 18 meses após sua edição, ainda não concluímos essa ação para o bem das Regiões Norte, Nordeste e Centro-Oeste. Muito obrigado."
+    },
+    {
+     "inicio_corpo": 3686,
+     "fim_corpo": 4581,
+     "trecho": "Hoje, as medidas provisórias saem com data estabelecida. Queremos que entre em vigor noventa dias a partir do dia em que a lei for promulgada e não que se estabeleça uma data até determinado prazo. E se não for promulgada a lei em tempo hábil? Enfim, estamos com uma série de providências já tomadas para o entendimento final, a fim de que os fundos constitucionais, tão necessários para as Regiões Norte, Nordeste e Centro-Oeste, sejam aprovados o mais celeremente possível no Congresso Nacional. O apelo que fazemos para o Senado Federal, o Congresso Nacional e, sobretudo, para o Poder Executivo é no sentido de estipularmos um prazo final para o rumoroso caso dos fundos constitucionais. Lutamos 14 meses para que a medida provisória fosse editada, e hoje, 18 meses após sua edição, ainda não concluímos essa ação para o bem das Regiões Norte, Nordeste e Centro-Oeste. Muito obrigado."
+    },
+    {
+     "inicio_corpo": 3686,
+     "fim_corpo": 4581,
+     "trecho": "Hoje, as medidas provisórias saem com data estabelecida. Queremos que entre em vigor noventa dias a partir do dia em que a lei for promulgada e não que se estabeleça uma data até determinado prazo. E se não for promulgada a lei em tempo hábil? Enfim, estamos com uma série de providências já tomadas para o entendimento final, a fim de que os fundos constitucionais, tão necessários para as Regiões Norte, Nordeste e Centro-Oeste, sejam aprovados o mais celeremente possível no Congresso Nacional. O apelo que fazemos para o Senado Federal, o Congresso Nacional e, sobretudo, para o Poder Executivo é no sentido de estipularmos um prazo final para o rumoroso caso dos fundos constitucionais. Lutamos 14 meses para que a medida provisória fosse editada, e hoje, 18 meses após sua edição, ainda não concluímos essa ação para o bem das Regiões Norte, Nordeste e Centro-Oeste. Muito obrigado."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0201::Urbano e rural",
+   "unit_id": "S0201",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-04",
+   "orador": "Jonas Pinheiro",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 92,
+     "fim_corpo": 1207,
+     "trecho": "Presidente, Srªs e Srs. Senadores, estou usando a tribuna neste instante apenas para conclamar esta Casa e solicitar do Poder Executivo todo o empenho possível e necessário para votarmos a medida provisória que trata dos fundos constitucionais e remetê-la imediatamente ao Congresso Nacional. Os fundos constitucionais, que nasceram da Constituição de 1988, vêm sendo perseguidos pelos chamados indexadores econômicos. Criou-se a TR, que prejudicou os tomadores de empréstimos e foi substituída pela TJLP, que, por sua vez, também passou a prejudicar quem contraía empréstimos e foi trocada pelo IGPM. Este, só no mês de fevereiro de 1999, apresentou uma elevação nos custos do dinheiro de 4,4% ao mês e, no mês de março, de 2,75%. Para se ter uma idéia, Sr. Presidente, o IGPM teve uma elevação de 21%. Somados os juros que se aplicam aos fundos constitucionais, seja de crédito rural, industrial ou comercial, o IGPM passou a ser o crédito mais caro do Brasil; na verdade, deveria ser o mais acessível, o mais barato, uma vez que os fundos foram criados exatamente para diminuir as desigualdades regionais."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0203::Domicílio e arranjo familiar",
+   "unit_id": "S0203",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-05",
+   "orador": "José Alencar",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 482,
+     "fim_corpo": 1412,
+     "trecho": "Foi criado de tal forma que justificasse, perante a sociedade brasileira e a comunidade internacional, o regime que prevalecia durante aquele período. Era um regime bipartidário. Para o PMDB, foram todas as lideranças políticas brasileiras que militavam na vida pública naquela época e que não aderiram ao movimento militar. O PMDB nasceu heterogêneo, porque, antes, sob a égide da Constituição de 1946, havia, além do PSD, da UDN e do PTB – os três partidos principais – muitos outros partidos. Quase todos eles foram para o MDB, sendo que a quase totalidade da UDN e alguns próceres de outros partidos, especialmente do PSD, compuseram o partido que dava sustentação política ao regime militar — a Arena. Pois bem, o MDB viveu todo aquele tempo até com anticandidatura. O saudoso Dr. Ulysses Guimarães foi candidato à Presidência da República sabendo que não teria a menor chance porque a Arena era o maior partido do ocidente."
+    },
+    {
+     "inicio_corpo": 8027,
+     "fim_corpo": 8808,
+     "trecho": "Então, Srs. Senadores, não venho aqui por outra razão senão a de que todos estamos procurando, todos os partidos políticos, sem exceção, o caminho certo que deveremos trilhar. E aqueles que pensam que já encontraram o caminho, e esse caminho é aquele que levou ao fracasso a antiga União Soviética, que levou ao fracasso a China comunista de Mao Tse-tung a Cuba de Fidel Castro, aqueles que pensam que já encontraram esse caminho, e querem levar o Brasil para o mesmo, vão encontrar-se conosco, porque somos contra esse caminho. Temos mais sensibilidade social, provavelmente do que todos eles, porque temos responsabilidade e sabemos que temos que administrar a coisa pública, com a mesma responsabilidade com que administramos a nossas famílias e os nossos negócios."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0203::Posição no trabalho",
+   "unit_id": "S0203",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-05",
+   "orador": "José Alencar",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4438,
+     "fim_corpo": 5378,
+     "trecho": "O PMDB está consciente de que possui um País dessa natureza; daí a razão de suas enormes responsabilidades. Nunca, nesta Casa – e digo \"agora\" porque apenas estou chegando -, nenhum dos meus ilustres colegas me viu proferir um voto sequer que pudesse representar apoio a qualquer iniciativa de entrega do meu País. Jamais alguém me viu votar ou fazer um pronunciamento a favor, por exemplo, da privatização da Petrobrás ou das usinas hidrelétricas brasileiras; jamais. Em contrapartida, jamais alguém me viu aqui perder a oportunidade de fazer um pronunciamento que condenasse as elevadas taxas de juros praticadas, sabendo – e o PMDB tem dito isso - que elas representam a maior transferência de renda da História do Brasil – não da história republicana, mas de toda a história desses 500 anos. Jamais houve maior transferência de renda do setor produtivo, do trabalhador brasileiro em benefício do sistema financeiro internacional."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0204::Domicílio e arranjo familiar",
+   "unit_id": "S0204",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-05",
+   "orador": "Romero Jucá",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 759,
+     "trecho": "O SR. ROMERO JUCÁ (PSDB - RR) - Sr. Presidente, Srªs e Srs. Senadores, nos últimos dias do ano de 1999, a Caixa Econômica Federal presenteou os trabalhadores de todas as faixas de renda com excelentes notícias para o financiamento da casa própria no decorrer do ano 2000. O presente de Natal foi a promessa de colocar à disposição de todos os interessados 7 bilhões de reais para a realização de novos financiamentos habitacionais. Na composição dos 7 bilhões de reais, duas rubricas merecem atenção. Cerca de 2,5 bilhões de reais serão captados junto ao Fundo de Garantia por Tempo de Serviço (FGTS), e serão concedidos de maneira individual às famílias com renda de até 12 salários mínimos, com a finalidade de construção, aquisição ou reforma."
+    },
+    {
+     "inicio_corpo": 1569,
+     "fim_corpo": 2442,
+     "trecho": "A classe média será contemplada com duas modalidades de empréstimos. A primeira é o chamado Poupanção, modalidade já conhecida. O candidato a esse tipo de empréstimo deverá abrir uma caderneta de poupança e fazer depósitos regulares pelo prazo de 12 meses, incluindo os juros do futuro financiamento. No final desse período, ele pode solicitar, sem limite de valor, os recursos que necessita para a aquisição do seu imóvel, com juros de 10,5% ao ano mais a TR. A segunda modalidade, é a Carta de Crédito, que limita o financiamento em até 400 mil reais, com taxas de juros de 12% ao ano mais os percentuais da TR. As previsões de investimentos para este ano incluem ainda um bilhão de reais que será empregado no Programa de Arrendamento Residencial, que é uma iniciativa bastante interessante para as famílias que têm renda de até seis salários mínimos."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0204::Posição no trabalho",
+   "unit_id": "S0204",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-05",
+   "orador": "Romero Jucá",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 272,
+     "trecho": "O SR. ROMERO JUCÁ (PSDB - RR) - Sr. Presidente, Srªs e Srs. Senadores, nos últimos dias do ano de 1999, a Caixa Econômica Federal presenteou os trabalhadores de todas as faixas de renda com excelentes notícias para o financiamento da casa própria no decorrer do ano 2000."
+    },
+    {
+     "inicio_corpo": 2036,
+     "fim_corpo": 2948,
+     "trecho": "A segunda modalidade, é a Carta de Crédito, que limita o financiamento em até 400 mil reais, com taxas de juros de 12% ao ano mais os percentuais da TR. As previsões de investimentos para este ano incluem ainda um bilhão de reais que será empregado no Programa de Arrendamento Residencial, que é uma iniciativa bastante interessante para as famílias que têm renda de até seis salários mínimos. Essa modalidade funciona também com recursos do FGTS, que já foram inclusive reservados para aplicação este ano. O Programa de Arrendamento Residencial exige, do mutuário, a assinatura de um contrato semelhante ao sistema leasing, com opção de compra no final. Finalmente, acompanhando esse pacote de investimentos anunciado pela Caixa, merece citação um novo programa que está sendo desenvolvido pela Secretaria de Desenvolvimento Urbano e que será destinado aos trabalhadores de baixa renda."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0204::Renda e classe",
+   "unit_id": "S0204",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-05",
+   "orador": "Romero Jucá",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "baixa renda",
+     "forma_encontrada": "baixa renda",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2036,
+     "fim_corpo": 2948,
+     "trecho": "A segunda modalidade, é a Carta de Crédito, que limita o financiamento em até 400 mil reais, com taxas de juros de 12% ao ano mais os percentuais da TR. As previsões de investimentos para este ano incluem ainda um bilhão de reais que será empregado no Programa de Arrendamento Residencial, que é uma iniciativa bastante interessante para as famílias que têm renda de até seis salários mínimos. Essa modalidade funciona também com recursos do FGTS, que já foram inclusive reservados para aplicação este ano. O Programa de Arrendamento Residencial exige, do mutuário, a assinatura de um contrato semelhante ao sistema leasing, com opção de compra no final. Finalmente, acompanhando esse pacote de investimentos anunciado pela Caixa, merece citação um novo programa que está sendo desenvolvido pela Secretaria de Desenvolvimento Urbano e que será destinado aos trabalhadores de baixa renda."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0205::Educação",
+   "unit_id": "S0205",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-06",
+   "orador": "Alvaro Dias",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5417,
+     "fim_corpo": 6532,
+     "trecho": "Senadores, vou a outra resposta: Em reunião realizada em 22/02/2000, o Conselho Nacional de Desestatização aprovou a modelagem de venda das ações que excedem o necessário para o controle da Petrobrás pela União. A modelagem aprovada para a venda pulverizada das ações através de uma oferta pública internacional composta de \"tranches\" internacional e doméstica. A demanda doméstica terá alocação garantida, sendo as sobras destinadas ao mercado externo. Dentro da modelagem, estão previstos incentivos para estimular a demanda interna das pessoas físicas, a saber: utilização do Fundo de Garantia... Aliás, é uma outra questão que devemos discutir, porque, há pouco tempo, esta Casa recebeu informações da Caixa Econômica Federal de que os recursos do Fundo de Garantia do Tempo de Serviço não poderiam ser utilizados para abatimento de mensalidades escolares, tampouco para pagamento de mensalidades nas universidades privadas do País, porque isso esvaziaria a Caixa Econômica Federal no que diz respeito a uma função fundamental sua, que é estimular a política habitacional no País."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0205::Posição no trabalho",
+   "unit_id": "S0205",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-06",
+   "orador": "Alvaro Dias",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6035,
+     "fim_corpo": 7027,
+     "trecho": "Aliás, é uma outra questão que devemos discutir, porque, há pouco tempo, esta Casa recebeu informações da Caixa Econômica Federal de que os recursos do Fundo de Garantia do Tempo de Serviço não poderiam ser utilizados para abatimento de mensalidades escolares, tampouco para pagamento de mensalidades nas universidades privadas do País, porque isso esvaziaria a Caixa Econômica Federal no que diz respeito a uma função fundamental sua, que é estimular a política habitacional no País. E como pode o Governo pretender que R$3 bilhões do Fundo de Garantia do Tempo de Serviço sejam utilizados na aquisição de ações da Petrobras? É preciso explicar melhor essa questão. Se não é possível utilizarem-se recursos do FGTS para algo fundamental para o cidadão trabalhador, que é a sua profissionalização através da educação, sob a alegação de que esses recursos são insuficientes, como poderiam ser suficientes para atender à aplicação de R$3 bilhões em aquisição de ações da Petrobras?"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0206::Administração pública",
+   "unit_id": "S0206",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-06",
+   "orador": "Carlos Wilson",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "prefeitura",
+     "forma_encontrada": "Prefeitura",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeitura",
+     "forma_encontrada": "Prefeitura",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeitura",
+     "forma_encontrada": "Prefeitura",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeitura",
+     "forma_encontrada": "Prefeitura",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeitura",
+     "forma_encontrada": "Prefeitura",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeitura",
+     "forma_encontrada": "Prefeitura",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2294,
+     "fim_corpo": 3318,
+     "trecho": "Um milhão e oitocentos mil habitantes, na Área Metropolitana do Recife, têm água durante três dias por mês, abastecido pela Compesa – empresa estadual -, enquanto um milhão e duzentos mil habitantes dependem de 140 poços artesianos, 5.000 cisternas, mais de 1.000 carros–pipas e 4.000 poços particulares de edifícios e conjuntos habitacionais. Esse problema em Recife faz com que as deficiências de abastecimento de água sejam lá mais graves que nas demais cidades brasileiras de grande porte, mesmo quando essas dispõem de menor rede de distribuição, casos de Belém e Fortaleza. Diante de tal realidade, a da escassez de consumo em meio à abundância natural de água, só se pode concluir que o problema decorre principalmente do descaso e da incompetência das autoridades públicas responsáveis. A Prefeitura do Recife tem procurado se livrar do problema sempre, alegando ser esta uma responsabilidade do Governo Estadual e Federal, pretexto que, como vimos, carece de qualquer amparo constitucional."
+    },
+    {
+     "inicio_corpo": 5215,
+     "fim_corpo": 6178,
+     "trecho": "Desse modo, a cidade necessita de maiores esgotamentos através da rede receptora do que a maioria das cidades brasileiras. Tal fato, com ausência de esgotos sanitários, tem levado os recifenses a uma incidência crescente de agravos à saúde derivados de moléstia de veiculação hídrica. Assim, 73% dos pacientes de doenças infecto-contagiosas nos hospitais da rede SUS do Recife contamina-se em decorrência da falta de um melhor sistema de destinação de dejetos humanos. Vale também lembrar que a natureza do solo do Recife facilita a poluição dos lençóis freáticos da cidade, bastante usados como fonte de água de consumo. Em vista disso, Recife é uma das capitais que mais sofre com a pouca disponibilidade de serviços de esgoto. E, sem considerar ser este o problema comum a toda a Região Metropolitana do Recife, a Prefeitura da cidade insiste em transferir a responsabilidade de sua solução aos Governos Estadual e Federal."
+    },
+    {
+     "inicio_corpo": 11942,
+     "fim_corpo": 12921,
+     "trecho": "Para tanto, impõe-se a exigência de que, em qualquer projeto de privatização desse tipo de exploração, seja municipal ou estadual, conste um projeto básico de engenharia determinando o quê e quanto deverá ser investido no período de concessão. Além disso, Recife precisa de metas que assegurem o equacionamento do problema de oferta de água no curto, médio e longo prazos. A solução de curto prazo pode ser obtida pela redução de perdas: dos atuais 49% de perda de água produzida pela Compesa para o Recife, o nível mais aceitável seria de 15%, que já resolveria o problema de falta de água em nossa cidade nos próximos 4 anos. Nesse ínterim, a Prefeitura criaria uma agência reguladora para estabelecer metas de suprimento de água e estudos indicando as fontes existentes para garantir esse abastecimento, tendo-se presente a vazão da água do Capibaribe – 2.200 metros cúbicos por segundo -, o que certamente contribuirá para uma solução de longo prazo."
+    },
+    {
+     "inicio_corpo": 12921,
+     "fim_corpo": 14121,
+     "trecho": "No que diz respeito à coleta de esgoto e seu tratamento, metas também seriam estabelecidas e cumpridas pela empresa concessionária, sob pena de perda da concessão. A curto prazo, podemos implementar um sistema mais adequado de fiscalização dos prédios e demais domicílios às margens dos rios, forçando os moradores a encontrar alternativas de tratamento e de disposição final dos dejetos. Estudos estimam que a solução completa do problema de saneamento básico em Recife demandará cerca de R$ 300 milhões, isto é, mais do que 50% do orçamento anual da Prefeitura, o que indica a dificuldade de fazê-lo com base apenas em investimentos municipais. É preciso exigir da Prefeitura criatividade e iniciativa suficientes para, junto com o Governo do Estado, mobilizar outros agentes sociais e financeiros – como disse antes - que possam contribuir com o aporte de tais recursos, como o BNDES e o Banco Mundial. Para tanto, cabe à Prefeitura demonstrar muita vontade política e, acima de tudo, compromisso com o desenvolvimento do Recife, deixando definitivamente de lado evasivas e qualquer tipo de comportamento omisso. Muito obrigado, Sr. Presidente. D z"
+    },
+    {
+     "inicio_corpo": 12921,
+     "fim_corpo": 14121,
+     "trecho": "No que diz respeito à coleta de esgoto e seu tratamento, metas também seriam estabelecidas e cumpridas pela empresa concessionária, sob pena de perda da concessão. A curto prazo, podemos implementar um sistema mais adequado de fiscalização dos prédios e demais domicílios às margens dos rios, forçando os moradores a encontrar alternativas de tratamento e de disposição final dos dejetos. Estudos estimam que a solução completa do problema de saneamento básico em Recife demandará cerca de R$ 300 milhões, isto é, mais do que 50% do orçamento anual da Prefeitura, o que indica a dificuldade de fazê-lo com base apenas em investimentos municipais. É preciso exigir da Prefeitura criatividade e iniciativa suficientes para, junto com o Governo do Estado, mobilizar outros agentes sociais e financeiros – como disse antes - que possam contribuir com o aporte de tais recursos, como o BNDES e o Banco Mundial. Para tanto, cabe à Prefeitura demonstrar muita vontade política e, acima de tudo, compromisso com o desenvolvimento do Recife, deixando definitivamente de lado evasivas e qualquer tipo de comportamento omisso. Muito obrigado, Sr. Presidente. D z"
+    },
+    {
+     "inicio_corpo": 13091,
+     "fim_corpo": 14121,
+     "trecho": "A curto prazo, podemos implementar um sistema mais adequado de fiscalização dos prédios e demais domicílios às margens dos rios, forçando os moradores a encontrar alternativas de tratamento e de disposição final dos dejetos. Estudos estimam que a solução completa do problema de saneamento básico em Recife demandará cerca de R$ 300 milhões, isto é, mais do que 50% do orçamento anual da Prefeitura, o que indica a dificuldade de fazê-lo com base apenas em investimentos municipais. É preciso exigir da Prefeitura criatividade e iniciativa suficientes para, junto com o Governo do Estado, mobilizar outros agentes sociais e financeiros – como disse antes - que possam contribuir com o aporte de tais recursos, como o BNDES e o Banco Mundial. Para tanto, cabe à Prefeitura demonstrar muita vontade política e, acima de tudo, compromisso com o desenvolvimento do Recife, deixando definitivamente de lado evasivas e qualquer tipo de comportamento omisso. Muito obrigado, Sr. Presidente. D z"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0206::Domicílio e arranjo familiar",
+   "unit_id": "S0206",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-06",
+   "orador": "Carlos Wilson",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "domicílios",
+     "forma_encontrada": "domicílios",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "domicílios",
+     "forma_encontrada": "domicílios",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "domicílios",
+     "forma_encontrada": "domicílios",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "domicílios",
+     "forma_encontrada": "domicílios",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "domicílios",
+     "forma_encontrada": "domicílios",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "domicílios",
+     "forma_encontrada": "domicílios",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "domicílios",
+     "forma_encontrada": "domicílios",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 515,
+     "fim_corpo": 1523,
+     "trecho": "Tal é, por exemplo, o que ocorre em relação ao tema que hoje me traz a esta tribuna: a questão da falta de saneamento básico, seja no País, seja no meu Estado: Pernambuco. A Constituição é clara, e no seu art. 23 ela diz: Art. 23 – É competência comum da União, dos Estados, do Distrito Federal e dos Municípios: .............................................................................. IX – promover programas de construção de moradia e a melhoria das condições habitacionais e de saneamento básico... Não obstante o imperativo legal, o quadro que se observa quanto ao abastecimento de água potável e ao destino dos dejetos domiciliares é deprimente. Em termos de Regiões Metropolitanas no Brasil, por exemplo, a situação do Recife é uma das piores. Em todas as Regiões Metropolitanas brasileiras, os domicílios com renda até 5 salários mínimos têm cobertura de rede de abastecimento de água menor que a média do conjunto total de domicílios."
+    },
+    {
+     "inicio_corpo": 693,
+     "fim_corpo": 1523,
+     "trecho": "A Constituição é clara, e no seu art. 23 ela diz: Art. 23 – É competência comum da União, dos Estados, do Distrito Federal e dos Municípios: .............................................................................. IX – promover programas de construção de moradia e a melhoria das condições habitacionais e de saneamento básico... Não obstante o imperativo legal, o quadro que se observa quanto ao abastecimento de água potável e ao destino dos dejetos domiciliares é deprimente. Em termos de Regiões Metropolitanas no Brasil, por exemplo, a situação do Recife é uma das piores. Em todas as Regiões Metropolitanas brasileiras, os domicílios com renda até 5 salários mínimos têm cobertura de rede de abastecimento de água menor que a média do conjunto total de domicílios."
+    },
+    {
+     "inicio_corpo": 737,
+     "fim_corpo": 1722,
+     "trecho": "23 ela diz: Art. 23 – É competência comum da União, dos Estados, do Distrito Federal e dos Municípios: .............................................................................. IX – promover programas de construção de moradia e a melhoria das condições habitacionais e de saneamento básico... Não obstante o imperativo legal, o quadro que se observa quanto ao abastecimento de água potável e ao destino dos dejetos domiciliares é deprimente. Em termos de Regiões Metropolitanas no Brasil, por exemplo, a situação do Recife é uma das piores. Em todas as Regiões Metropolitanas brasileiras, os domicílios com renda até 5 salários mínimos têm cobertura de rede de abastecimento de água menor que a média do conjunto total de domicílios. Este problema também ocorre ao se comparar a cobertura entre os domicílios com renda até 10 salários mínimos com aqueles até 5 salários mínimos, por um lado, e com o conjunto total, por outro."
+    },
+    {
+     "inicio_corpo": 1058,
+     "fim_corpo": 1869,
+     "trecho": "Não obstante o imperativo legal, o quadro que se observa quanto ao abastecimento de água potável e ao destino dos dejetos domiciliares é deprimente. Em termos de Regiões Metropolitanas no Brasil, por exemplo, a situação do Recife é uma das piores. Em todas as Regiões Metropolitanas brasileiras, os domicílios com renda até 5 salários mínimos têm cobertura de rede de abastecimento de água menor que a média do conjunto total de domicílios. Este problema também ocorre ao se comparar a cobertura entre os domicílios com renda até 10 salários mínimos com aqueles até 5 salários mínimos, por um lado, e com o conjunto total, por outro. No caso do Recife, porém, o problema de abastecimento de água não é apenas um problema de disponibilidade de infra-estrutura nos domicílios."
+    },
+    {
+     "inicio_corpo": 2886,
+     "fim_corpo": 3811,
+     "trecho": "Diante de tal realidade, a da escassez de consumo em meio à abundância natural de água, só se pode concluir que o problema decorre principalmente do descaso e da incompetência das autoridades públicas responsáveis. A Prefeitura do Recife tem procurado se livrar do problema sempre, alegando ser esta uma responsabilidade do Governo Estadual e Federal, pretexto que, como vimos, carece de qualquer amparo constitucional. Há dez anos, na minha curta gestão à frente do Estado, dei início à construção da barragem de Pirapama que resolveria o problema da Região Metropolitana do Recife por décadas, mas governos posteriores não tiveram a iniciativa necessária para concluí-la, agravando a situação que hoje assola os recifenses. Já, quando se trata se esgotamento sanitário, a conjuntura do País é ainda mais séria: grande parte dos domicílios urbanos brasileiros não dispõem sequer de esgoto sanitário."
+    },
+    {
+     "inicio_corpo": 3811,
+     "fim_corpo": 4808,
+     "trecho": "Apesar de existirem Regiões Metropolitanas com um percentual de cobertura de rede coletora de esgoto de 83,7%, como é o caso de São Paulo, há cidades de grande porte, como Belém, com percentual de cobertura de apenas 5,8%, ou ainda, a minha Recife com seus também minguados 32,6% de rede disponível. Cidades de baixa cobertura muitas vezes se encontram às margens de rios, como ocorre com Recife, o que provavelmente significa estarem os rios sendo poluídos pelos esgotos. Outras, também com baixa cobertura, se encontram à beira-mar e, seguramente, a falta de esgoto sanitário tem levado à poluição do mar e das praias, em prejuízo do turismo local. Também no caso do esgoto sanitário, a face perversa da distribuição de renda deixa sua marca. Os domicílios cuja renda média dos habitantes é igual ou inferior a 5 salários mínimos dispõem de menor acesso percentual ao esgoto sanitário do que a média nacional dos municípios em todas as grandes cidades brasileiras."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0206::Macrorregião",
+   "unit_id": "S0206",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-06",
+   "orador": "Carlos Wilson",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7578,
+     "fim_corpo": 8538,
+     "trecho": "Exª e registrar, aqui, como Parlamentar, que é importante que esse trabalho que V. Exª propõe para o Recife seja também feito nas principais capitais e nas grandes cidades brasileiras. Parabenizo-o pelo discurso em defesa do povo do Recife. O SR. CARLOS WILSON (PPS - PE) – Nobre Senador Romero Jucá, antes de tudo, quero agradecer a gentileza do aparte de V. Exª e dizer da minha satisfação de ser Colega do Senador Romero Jucá, que traz também no coração o sentimento de \"pernambucanidade\". V. Exª, Senador pelo Estado de Roraima, nunca deixou de ter uma vinculação muito forte com Recife e com Pernambuco. V. Exª toca na questão do saneamento básico e na questão da água, que é, na verdade, um problema maior junto às regiões mais pobres, porque a questão do saneamento sempre privilegiou as grandes cidades em detrimento das pequenas. No caso específico do Norte e do Nordeste, é onde temos a rede mais precária no que se refere a saneamento básico."
+    },
+    {
+     "inicio_corpo": 7578,
+     "fim_corpo": 8538,
+     "trecho": "Exª e registrar, aqui, como Parlamentar, que é importante que esse trabalho que V. Exª propõe para o Recife seja também feito nas principais capitais e nas grandes cidades brasileiras. Parabenizo-o pelo discurso em defesa do povo do Recife. O SR. CARLOS WILSON (PPS - PE) – Nobre Senador Romero Jucá, antes de tudo, quero agradecer a gentileza do aparte de V. Exª e dizer da minha satisfação de ser Colega do Senador Romero Jucá, que traz também no coração o sentimento de \"pernambucanidade\". V. Exª, Senador pelo Estado de Roraima, nunca deixou de ter uma vinculação muito forte com Recife e com Pernambuco. V. Exª toca na questão do saneamento básico e na questão da água, que é, na verdade, um problema maior junto às regiões mais pobres, porque a questão do saneamento sempre privilegiou as grandes cidades em detrimento das pequenas. No caso específico do Norte e do Nordeste, é onde temos a rede mais precária no que se refere a saneamento básico."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0206::Renda e classe",
+   "unit_id": "S0206",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-06",
+   "orador": "Carlos Wilson",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7533,
+     "fim_corpo": 8423,
+     "trecho": "Gostaria, também, de apoiar o discurso de V. Exª e registrar, aqui, como Parlamentar, que é importante que esse trabalho que V. Exª propõe para o Recife seja também feito nas principais capitais e nas grandes cidades brasileiras. Parabenizo-o pelo discurso em defesa do povo do Recife. O SR. CARLOS WILSON (PPS - PE) – Nobre Senador Romero Jucá, antes de tudo, quero agradecer a gentileza do aparte de V. Exª e dizer da minha satisfação de ser Colega do Senador Romero Jucá, que traz também no coração o sentimento de \"pernambucanidade\". V. Exª, Senador pelo Estado de Roraima, nunca deixou de ter uma vinculação muito forte com Recife e com Pernambuco. V. Exª toca na questão do saneamento básico e na questão da água, que é, na verdade, um problema maior junto às regiões mais pobres, porque a questão do saneamento sempre privilegiou as grandes cidades em detrimento das pequenas."
+    }
+   ]
+  }
+ ]
+}

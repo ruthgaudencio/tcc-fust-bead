@@ -1,0 +1,1324 @@
+{
+ "caso": "BEAD",
+ "lote": 11,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0040::Posição no trabalho",
+   "unit_id": "W0040",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Dan Stelpflug",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4921,
+     "fim_corpo": 6004,
+     "trecho": "Annual operating cost of the fiber-wireless hybrid system in 2019 is budgeted at $836,000 with same-year budgeted revenues estimated at $530,000. Payback of the investment is expected to take an additional five to seven years or longer. The cooperative’s wireless broadband division, AC Skyways, serves 525 subscribers. In recognition of the relatively long time to recoup its investment, AC Skyways has slowed network buildout as it grows its subscriber base. The primary impetus for ACEC’s investment in its broadband network was, and continues to be, to serve members who lack affordable options to access the internet with at least 25 Megabits per second (Mbps) download speed. The project is the cornerstone of our community development efforts. We heard from economic development professionals and employers that rural broadband access is critical to creating jobs, attracting workers, retaining our youth and young professionals, maintaining a competitive agricultural community, and supporting our seniors through services like telemedicine and telepharmacies."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0040::Saúde",
+   "unit_id": "W0040",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Dan Stelpflug",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "health care facilities",
+     "forma_encontrada": "healthcare facilities",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5387,
+     "fim_corpo": 6299,
+     "trecho": "The primary impetus for ACEC’s investment in its broadband network was, and continues to be, to serve members who lack affordable options to access the internet with at least 25 Megabits per second (Mbps) download speed. The project is the cornerstone of our community development efforts. We heard from economic development professionals and employers that rural broadband access is critical to creating jobs, attracting workers, retaining our youth and young professionals, maintaining a competitive agricultural community, and supporting our seniors through services like telemedicine and telepharmacies. Conversely, the absence of high-speed internet discourages businesses from investing in our communities, which hinders economic development and threatens the viability of anchor institutions like schools and healthcare facilities that require robust connectivity to best serve our community."
+    },
+    {
+     "inicio_corpo": 11967,
+     "fim_corpo": 12973,
+     "trecho": "That model overstates broadband availability and does not provide a rational basis for policy determinations. While recognition of its shortcomings has grown and various efforts are underway through congressional proposals and FCC proceedings to address them, electric cooperatives have firsthand experience with the existing maps wrongly excluding areas from eligibility in federal broadband programs. Another frustrating aspect of the Form 477 data is the reporting requirement allowing carriers to report advertised maximum speeds in census blocks even if it can only provide that high speed to one customer. It isn’t an accurate way of reporting and it leaves many residences with unacceptable bandwidth that cannot support everyday applications available in urban areas or simultaneous use of multiple applications or users at a single location. This is especially critical for telehealth, professionals working from home and students who require a robust, reliable internet connection."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0040::Urbano e rural",
+   "unit_id": "W0040",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Dan Stelpflug",
+   "n_ocorrencias_no_par": 20,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 14,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 819,
+     "trecho": "1 Written Testimony of Dan Stelpflug Director of Operations, Engineering & Technology Allamakee Clayton Electric Cooperative House Small Business Subcommittee on Contracting and Infrastructure “Broadband Mapping: Small Carrier Perspectives on a Path Forward.” June 25, 2019 10:00 a.m. Thank you Chairman Golden, Ranking Member Stauber and members of the committee for the opportunity to be here to share our small business perspective on the importance of more granular and accurate broadband mapping. My name is Dan Stelpflug and I am the director of Operations, Engineering and Technology at Allamakee Clayton Electric Cooperative (ACEC), headquartered in Postville, Iowa. ACEC provides electricity to rural communities that investor-owned utilities bypassed, in part due to our sparse population."
+    },
+    {
+     "inicio_corpo": 295,
+     "fim_corpo": 930,
+     "trecho": "Thank you Chairman Golden, Ranking Member Stauber and members of the committee for the opportunity to be here to share our small business perspective on the importance of more granular and accurate broadband mapping. My name is Dan Stelpflug and I am the director of Operations, Engineering and Technology at Allamakee Clayton Electric Cooperative (ACEC), headquartered in Postville, Iowa. ACEC provides electricity to rural communities that investor-owned utilities bypassed, in part due to our sparse population. We serve less than 10,000 electric consumer-members, 95% of whom are farmers and rural residential customers."
+    },
+    {
+     "inicio_corpo": 295,
+     "fim_corpo": 1249,
+     "trecho": "Thank you Chairman Golden, Ranking Member Stauber and members of the committee for the opportunity to be here to share our small business perspective on the importance of more granular and accurate broadband mapping. My name is Dan Stelpflug and I am the director of Operations, Engineering and Technology at Allamakee Clayton Electric Cooperative (ACEC), headquartered in Postville, Iowa. ACEC provides electricity to rural communities that investor-owned utilities bypassed, in part due to our sparse population. We serve less than 10,000 electric consumer-members, 95% of whom are farmers and rural residential customers. We serve these members on 2,508 miles of lines across eight northeastern Iowa counties near the Wisconsin and Minnesota border. ACEC is part of a broader electric cooperative industry, represented by the National Rural Electric Cooperative Association that serves one in eight Americans and covers 56% of the U.S."
+    },
+    {
+     "inicio_corpo": 819,
+     "fim_corpo": 1791,
+     "trecho": "We serve less than 10,000 electric consumer-members, 95% of whom are farmers and rural residential customers. We serve these members on 2,508 miles of lines across eight northeastern Iowa counties near the Wisconsin and Minnesota border. ACEC is part of a broader electric cooperative industry, represented by the National Rural Electric Cooperative Association that serves one in eight Americans and covers 56% of the U.S. landmass. Electric cooperatives are owned by the members they serve and they are uniquely suited to best understand and serve their members’ needs. Most electric cooperatives are small businesses; they don’t have investors or access to significant capital to help defray the costs of building and maintaining their infrastructure. These costs are borne directly by the farmers, ranchers, small businesses and other residents of the nation’s rural communities – including those in 93 percent of the nation’s persistent poverty counties."
+    },
+    {
+     "inicio_corpo": 1584,
+     "fim_corpo": 2404,
+     "trecho": "These costs are borne directly by the farmers, ranchers, small businesses and other residents of the nation’s rural communities – including those in 93 percent of the nation’s persistent poverty counties. Electric cooperatives play a vital role in transforming communities. While our first priority at ACEC is to provide reliable, clean and affordable electricity to our members, our commitment to our communities extends well beyond that service. We also provide services that empower local communities to improve their quality of life. That includes participating in efforts to 2 make sure they have access to a robust communications infrastructure including access to quality and affordable broadband that enables rural communities to thrive and compete in an increasingly connected, global marketplace."
+    },
+    {
+     "inicio_corpo": 1791,
+     "fim_corpo": 2647,
+     "trecho": "Electric cooperatives play a vital role in transforming communities. While our first priority at ACEC is to provide reliable, clean and affordable electricity to our members, our commitment to our communities extends well beyond that service. We also provide services that empower local communities to improve their quality of life. That includes participating in efforts to 2 make sure they have access to a robust communications infrastructure including access to quality and affordable broadband that enables rural communities to thrive and compete in an increasingly connected, global marketplace. Many comparisons are drawn between the lack of access to robust broadband service today and the need for electrification in rural America 80 years ago - with the urban areas of the country well-served, and rural areas being left behind."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0041::Idade",
+   "unit_id": "W0041",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jason Hendricks",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 672,
+     "trecho": "1 Written Testimony of Jason Hendricks Chief Regulatory Officer, Range Companies U.S. House of Representatives Committee on Small Business Subcommittee on Contracting and Infrastructure Broadband Mapping: Small Carrier Perspectives on a Path Forward June 25, 2019 Background Good morning Chairman Golden, Ranking Member Stauber and members of this Subcommittee. My name is Jason Hendricks, and I am the Chief Regulatory Officer of the Range Companies and a Board member for WTA – Advocates for Rural Broadband. I am providing testimony today on behalf of the Range Companies and WTA. It is a pleasure and honor to testify before you this morning."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0041::Infraestrutura e porte populacional",
+   "unit_id": "W0041",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jason Hendricks",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4695,
+     "fim_corpo": 5584,
+     "trecho": "RT Communications serves the town of Hulett, Wyoming (population 383), which is near the nation’s first National Monument, Devil’s Tower. It provides 100 Mbps service in town and has fiber south of town. But there are locations outside of town that we haven’t been able to serve at speeds of 25 Mbps or more due to high construction costs. We have looked at pursuing state or federal grants to defray some of the construction costs to serve those locations. However, the large census block in which the locations exist is considered served because it includes a portion of the town in which we provide 100 Mbps service. Were an alternative mapping system used that was better tied to existing provider networks, the outlying locations could be properly identified as unserved so that universal service support or broadband grants could be targeted to the locations in need."
+    },
+    {
+     "inicio_corpo": 8755,
+     "fim_corpo": 9616,
+     "trecho": "Third, the process used by regulators to verify the accuracy of data should be meaningful and minimally burdensome to small providers. For example, if broadband speed and latency tests are used to verify the accuracy of data, then these tests should be for those portions of the networks the provider controls, the data samples should reflect the size of the carrier and the demographics they serve, and the tests should be conducted in a manner unobtrusive to the customers receiving the service. Fourth, a challenge process should be enacted to allow other providers, government entities, customers, and interested third parties to challenge the accuracy of data provided by a 4 provider. A challenge process will help ensure broadband availability is not overstated and that support is not precluded from going to areas that are unserved."
+    },
+    {
+     "inicio_corpo": 13429,
+     "fim_corpo": 14314,
+     "trecho": "With shapefiles for this typical town, we could have one polygon for the town where we are very confident that most customers can get high-speed broadband service. Then we could have multiple polygons for the clusters of premises located on the outskirts of town that would align with the network characteristics present in those clusters. Then we could use lines to represent bandwidth available along the roadways leading further away from town and along which there may be the occasional home or business. Lastly, we could use dots to represent bandwidth available for the individual locations in remote locations many miles from the town. With this type of mapping, one could clearly see the locations with the lowest broadband speeds, which should better inform policy decisions on how best to address the broadband needs of those that are unserved or underserved."
+    },
+    {
+     "inicio_corpo": 13429,
+     "fim_corpo": 14314,
+     "trecho": "With shapefiles for this typical town, we could have one polygon for the town where we are very confident that most customers can get high-speed broadband service. Then we could have multiple polygons for the clusters of premises located on the outskirts of town that would align with the network characteristics present in those clusters. Then we could use lines to represent bandwidth available along the roadways leading further away from town and along which there may be the occasional home or business. Lastly, we could use dots to represent bandwidth available for the individual locations in remote locations many miles from the town. With this type of mapping, one could clearly see the locations with the lowest broadband speeds, which should better inform policy decisions on how best to address the broadband needs of those that are unserved or underserved."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0041::Macrorregião",
+   "unit_id": "W0041",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jason Hendricks",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5814,
+     "fim_corpo": 6659,
+     "trecho": "Recently, the FCC announced Alternative Connect America Fund (ACAM) offers to carriers not already receiving model-based support. Carriers have until July 17 to make decisions on whether to accept ACAM universal service support or continue to receive funding via the existing cost-based support methodology. In Wyoming, if we accept ACAM support, we would receive an annual 3 support amount in return for deploying broadband service to a specified number of locations. Like many companies reviewing the ACAM buildout obligations, we are finding many discrepancies between census data locations used by the model and the real-world locations of where people actually live. For example, in examining tribal buildout obligations in DTE’s territory, we have discovered a census block for which the model assumes 10 locations exist."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0041::Urbano e rural",
+   "unit_id": "W0041",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jason Hendricks",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 532,
+     "trecho": "1 Written Testimony of Jason Hendricks Chief Regulatory Officer, Range Companies U.S. House of Representatives Committee on Small Business Subcommittee on Contracting and Infrastructure Broadband Mapping: Small Carrier Perspectives on a Path Forward June 25, 2019 Background Good morning Chairman Golden, Ranking Member Stauber and members of this Subcommittee. My name is Jason Hendricks, and I am the Chief Regulatory Officer of the Range Companies and a Board member for WTA – Advocates for Rural Broadband."
+    },
+    {
+     "inicio_corpo": 93,
+     "fim_corpo": 1026,
+     "trecho": "House of Representatives Committee on Small Business Subcommittee on Contracting and Infrastructure Broadband Mapping: Small Carrier Perspectives on a Path Forward June 25, 2019 Background Good morning Chairman Golden, Ranking Member Stauber and members of this Subcommittee. My name is Jason Hendricks, and I am the Chief Regulatory Officer of the Range Companies and a Board member for WTA – Advocates for Rural Broadband. I am providing testimony today on behalf of the Range Companies and WTA. It is a pleasure and honor to testify before you this morning. The Range Companies are comprised of the parent company – Range Telephone Cooperative – and its subsidiaries – RT Communications, Dubois Telephone Exchange (“DTE”), and Advanced Communications Technology. Together, the four companies provide telecommunications and broadband service in rural areas in Montana, Wyoming, Colorado, and South Dakota."
+    },
+    {
+     "inicio_corpo": 672,
+     "fim_corpo": 1699,
+     "trecho": "The Range Companies are comprised of the parent company – Range Telephone Cooperative – and its subsidiaries – RT Communications, Dubois Telephone Exchange (“DTE”), and Advanced Communications Technology. Together, the four companies provide telecommunications and broadband service in rural areas in Montana, Wyoming, Colorado, and South Dakota. Our combined incumbent carrier serving area is approximately 30,000 square miles, with a customer density of 0.54 customers per square mile. The largest town we serve has a population of about 5,500 and the smallest communities we serve have populations in low double digits. Despite the low density and high-cost challenges of our serving areas, we provide very high-speed, quality Internet services, including fiber-to-the-premise service, in many of the communities we serve. But like most small, rural providers, we have very rural areas that are cost prohibitive to serve with speeds comparable to those that are available in more densely populated areas."
+    },
+    {
+     "inicio_corpo": 672,
+     "fim_corpo": 1699,
+     "trecho": "The Range Companies are comprised of the parent company – Range Telephone Cooperative – and its subsidiaries – RT Communications, Dubois Telephone Exchange (“DTE”), and Advanced Communications Technology. Together, the four companies provide telecommunications and broadband service in rural areas in Montana, Wyoming, Colorado, and South Dakota. Our combined incumbent carrier serving area is approximately 30,000 square miles, with a customer density of 0.54 customers per square mile. The largest town we serve has a population of about 5,500 and the smallest communities we serve have populations in low double digits. Despite the low density and high-cost challenges of our serving areas, we provide very high-speed, quality Internet services, including fiber-to-the-premise service, in many of the communities we serve. But like most small, rural providers, we have very rural areas that are cost prohibitive to serve with speeds comparable to those that are available in more densely populated areas."
+    },
+    {
+     "inicio_corpo": 2027,
+     "fim_corpo": 2852,
+     "trecho": "Problems with the Existing FCC Broadband Map and Location Assumptions The FCC’s current broadband map is derived from data reported by broadband providers twice a year in FCC Form 477 (Local Telephone Competition and Broadband Reporting). There are concerns that many observers have with the current broadband map and they derive from the way in which the data is reported and mapped. These concerns include: • Use of advertised speeds rather than actual speeds - Per FCC Form 477 formatting instructions, the speeds reported are often advertised speeds, which may not equate with speeds a customer can expect to receive, particularly in sparsely populated areas. 2 • Lack of granularity - Availability of service is determined on a census block basis and census blocks can be very large in rural areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0042::Escolaridade e letramento",
+   "unit_id": "W0042",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tim Donovan",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1780,
+     "fim_corpo": 2761,
+     "trecho": "Importantly, this data also is used by regulators to determine where finite federal resources, such as Universal Service Fund support, will be dispersed to preserve and expand service. The parameters used to determine more reliable coverage must be standardized and collected from all service providers; otherwise overstated coverage will continue to leave entire areas on the wrong side of the digital divide. Mobile connections already power new technologies that revolutionize entire industries and improve consumers’ quality of life across the United States. Wireless technologies enable telemedicine services and remote patient monitoring, increasing patients’ access to medical care, particularly in rural 2 areas. Precision agriculture enables farmers to increase yields while conserving resources. Distance learning brings the latest lessons and training programs to students, allowing them to access educational opportunities previously unimaginable."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0042::Infraestrutura e porte populacional",
+   "unit_id": "W0042",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tim Donovan",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11913,
+     "fim_corpo": 12922,
+     "trecho": "One of our larger members spent over $2 million to hire a testing firm that completed tests in 20 states and challenged 37,000 one square kilometer blocks. Even with this resource allocation, the member completed testing in less than 5% of the carrier’s overall rural footprint. The critical takeaway from this process for challengers was that the process was so complicated and expensive that challengers large and small were never able to challenge all of the areas they wanted to. And the implications of these shortcomings were unfortunately significant: in any area where the 7 FCC incorrectly showed unsubsidized coverage, absent a successful challenge, there could be no investment of universal service support. Without eligibility for support, unserved people living in those areas could wait over a decade or more before having another opportunity to access mobile broadband services that are reasonably equivalent to services found in the nation’s more densely-populated regions."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0042::Saúde",
+   "unit_id": "W0042",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tim Donovan",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2354,
+     "fim_corpo": 3385,
+     "trecho": "Wireless technologies enable telemedicine services and remote patient monitoring, increasing patients’ access to medical care, particularly in rural 2 areas. Precision agriculture enables farmers to increase yields while conserving resources. Distance learning brings the latest lessons and training programs to students, allowing them to access educational opportunities previously unimaginable. Today’s wireless services also enhance public safety, economic growth, and opportunities for all Americans. Access to broadband even reduces unemployment, especially in rural America. Closing the digital divide is a critical challenge, and it has a direct impact on our ability to power all of these innovations. As carriers begin to deploy the next-generation of wireless services, the time to act is now. 5G will supercharge existing services like telehealth and precision agriculture, and enable new services such as augmented and virtual reality, autonomous vehicles, and other innovations not yet invented."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0042::Urbano e rural",
+   "unit_id": "W0042",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tim Donovan",
+   "n_ocorrencias_no_par": 24,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 18,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 660,
+     "trecho": "Broadband Mapping: Small Carrier Perspectives on a Path Forward Testimony of Tim Donovan SVP, Legislative Affairs Competitive Carriers Association Before the United States House of Representatives Committee on Small Business Subcommittee on Contracting and Infrastructure June 25, 2019 1 Chairman Golden, Ranking Member Stauber, and Members of the Subcommittee, thank you for the opportunity to testify about the need to update broadband coverage data to reliably reflect where service exists in rural America and to appropriately direct federal funds to rural carriers that serve the most remote parts of the country."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 660,
+     "trecho": "Broadband Mapping: Small Carrier Perspectives on a Path Forward Testimony of Tim Donovan SVP, Legislative Affairs Competitive Carriers Association Before the United States House of Representatives Committee on Small Business Subcommittee on Contracting and Infrastructure June 25, 2019 1 Chairman Golden, Ranking Member Stauber, and Members of the Subcommittee, thank you for the opportunity to testify about the need to update broadband coverage data to reliably reflect where service exists in rural America and to appropriately direct federal funds to rural carriers that serve the most remote parts of the country."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1105,
+     "trecho": "Broadband Mapping: Small Carrier Perspectives on a Path Forward Testimony of Tim Donovan SVP, Legislative Affairs Competitive Carriers Association Before the United States House of Representatives Committee on Small Business Subcommittee on Contracting and Infrastructure June 25, 2019 1 Chairman Golden, Ranking Member Stauber, and Members of the Subcommittee, thank you for the opportunity to testify about the need to update broadband coverage data to reliably reflect where service exists in rural America and to appropriately direct federal funds to rural carriers that serve the most remote parts of the country. I am testifying on behalf of Competitive Carriers Association (“CCA”), the nation’s leading association for competitive wireless providers. CCA represents wireless carrier members ranging from small, rural providers serving fewer than 5,000 customers to regional and nationwide providers serving millions of customers, as well as vendors and suppliers that provide products and services throughout the wireless communications ecosystem."
+    },
+    {
+     "inicio_corpo": 1694,
+     "fim_corpo": 2518,
+     "trecho": "Where coverage is lacking, a small carrier hears the complaints from its neighbors. Importantly, this data also is used by regulators to determine where finite federal resources, such as Universal Service Fund support, will be dispersed to preserve and expand service. The parameters used to determine more reliable coverage must be standardized and collected from all service providers; otherwise overstated coverage will continue to leave entire areas on the wrong side of the digital divide. Mobile connections already power new technologies that revolutionize entire industries and improve consumers’ quality of life across the United States. Wireless technologies enable telemedicine services and remote patient monitoring, increasing patients’ access to medical care, particularly in rural 2 areas."
+    },
+    {
+     "inicio_corpo": 2197,
+     "fim_corpo": 2949,
+     "trecho": "Mobile connections already power new technologies that revolutionize entire industries and improve consumers’ quality of life across the United States. Wireless technologies enable telemedicine services and remote patient monitoring, increasing patients’ access to medical care, particularly in rural 2 areas. Precision agriculture enables farmers to increase yields while conserving resources. Distance learning brings the latest lessons and training programs to students, allowing them to access educational opportunities previously unimaginable. Today’s wireless services also enhance public safety, economic growth, and opportunities for all Americans. Access to broadband even reduces unemployment, especially in rural America."
+    },
+    {
+     "inicio_corpo": 2604,
+     "fim_corpo": 3500,
+     "trecho": "Distance learning brings the latest lessons and training programs to students, allowing them to access educational opportunities previously unimaginable. Today’s wireless services also enhance public safety, economic growth, and opportunities for all Americans. Access to broadband even reduces unemployment, especially in rural America. Closing the digital divide is a critical challenge, and it has a direct impact on our ability to power all of these innovations. As carriers begin to deploy the next-generation of wireless services, the time to act is now. 5G will supercharge existing services like telehealth and precision agriculture, and enable new services such as augmented and virtual reality, autonomous vehicles, and other innovations not yet invented. As these technologies develop, it is imperative to expand access to wireless services to rural and remote areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0043::Cultura e informação",
+   "unit_id": "W0043",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Beth Osler",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "community center",
+     "forma_encontrada": "community center",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1387,
+     "fim_corpo": 2284,
+     "trecho": "NTCA members and companies like them serve just under five percent of the U.S. population spread across approximately 35 percent of the U.S. landmass; in most of this vast expanse, they are the only fixed full-service networks available. Today UniTel operates a digital network offering the latest services including high-speed broadband at speeds up to 1 Gigabit symmetrical. In 2015, UniTel made substantial investments in a fiber optic network within its footprint. In 2016, with support from ConnectME state grants, we extended the Fiber to The Home network further still. This fiber deployment allows us to offer some of the fastest broadband speeds in Maine and the U.S. – and to serve not only our citizens, but our local town offices, three volunteer fire departments, a community center, a rural health center, and businesses and non-profit organizations throughout our area."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0043::Infraestrutura e porte populacional",
+   "unit_id": "W0043",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Beth Osler",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3068,
+     "fim_corpo": 3918,
+     "trecho": "To be clear, getting broadband to and keeping broadband in rural areas truly requires the best kinds of public-private partnership. Much of the extensive network in Maine today is a result of private investment. UniTel has spent millions of dollars getting broadband to our customers. But for those places where densities are low and returns on infrastructure investments are measured in decades, government support is important to help make the business case. This then brings us to the important question of broadband mapping. To be able to determine where limited resources for support should be spent, and to ensure that incentives exist for private investments where they can be justified, mapping of broadband availability and Testimony of Beth Osler June 25, 2019 Page 2 identification of unserved areas are critical."
+    },
+    {
+     "inicio_corpo": 3918,
+     "fim_corpo": 4595,
+     "trecho": "Unfortunately, our maps have kept pace neither with consumer demand nor the evolution of the broadband marketplace, and now is the time to develop a process of mapping – and validating – the information that will help us to target resources better toward building and sustaining broadband networks. UNITEL’S EXPERIENCE WITH BROADBAND MAPS Broadband mapping is significant for consumers in rural areas and for companies like UniTel that need to leverage public-private partnerships to deploy networks and deliver services in such areas. Maine has attempts underway through its broadband agency, ConnectME, to more accurately identify unserved and underserved areas."
+    },
+    {
+     "inicio_corpo": 3918,
+     "fim_corpo": 4595,
+     "trecho": "Unfortunately, our maps have kept pace neither with consumer demand nor the evolution of the broadband marketplace, and now is the time to develop a process of mapping – and validating – the information that will help us to target resources better toward building and sustaining broadband networks. UNITEL’S EXPERIENCE WITH BROADBAND MAPS Broadband mapping is significant for consumers in rural areas and for companies like UniTel that need to leverage public-private partnerships to deploy networks and deliver services in such areas. Maine has attempts underway through its broadband agency, ConnectME, to more accurately identify unserved and underserved areas."
+    },
+    {
+     "inicio_corpo": 4465,
+     "fim_corpo": 5441,
+     "trecho": "Maine has attempts underway through its broadband agency, ConnectME, to more accurately identify unserved and underserved areas. But, as it stands today, the Federal Communications Commission (“FCC”) maintains the most accurate maps available in most states. At the same time, like most – if not all – providers and other users of the maps produced by the FCC, we have found the results of these mapping efforts to be unreliable. In fact, we find it is not unusual for “conditions on the ground” to look very different from those depicted on national maps. For instance, we do not use FCC maps to do any of our market analysis, and certainly not for our own internal planning or engineering. Instead we find ourselves using valuable work hours verifying and attempting to correct errors in order to identify both what is truly unserved and to identify also those areas where, with the help of government support, we are the only provider willing to serve there."
+    },
+    {
+     "inicio_corpo": 5168,
+     "fim_corpo": 6044,
+     "trecho": "Instead we find ourselves using valuable work hours verifying and attempting to correct errors in order to identify both what is truly unserved and to identify also those areas where, with the help of government support, we are the only provider willing to serve there. To provide some basic understanding of how the current FCC maps miss the mark, they show an entire census block as served when even just one location in that block is served – meaning that a census block becomes ineligible for support funding. An additional concern is that no one is charged with thoroughly validating the data that are used to create the maps – providers submit it, and depending on the support program the FCC may not provide for any opportunity to correct that information before deciding support should be eliminated in an area that is in fact unserved by any other provider."
+    },
+    {
+     "inicio_corpo": 9349,
+     "fim_corpo": 10331,
+     "trecho": "Moreover, the standards for reporting this data vary and make it very challenging to verify – there is, for example, no specific standard to ensure a wireless provider is reflecting the actual propagation of its spectrum capabilities in a given area, rather than just drawing a coverage circle around an antenna based upon the theoretical reach of that spectrum. Second, as I mentioned earlier, a census block is reported as served on the Form 477 that feeds into the FCC’s broadband map simply because one location in that block could in theory be served by a provider. In rural census blocks that can stretch large distances, this means that the delivery of service to just one customer in a census block can result in the denial of funding for voice and broadband to another customer located miles away in the same census block. This disparity results in many unserved homes and businesses looking served, especially in rural areas where census blocks can be large."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0043::Macrorregião",
+   "unit_id": "W0043",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Beth Osler",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1530,
+     "fim_corpo": 2413,
+     "trecho": "landmass; in most of this vast expanse, they are the only fixed full-service networks available. Today UniTel operates a digital network offering the latest services including high-speed broadband at speeds up to 1 Gigabit symmetrical. In 2015, UniTel made substantial investments in a fiber optic network within its footprint. In 2016, with support from ConnectME state grants, we extended the Fiber to The Home network further still. This fiber deployment allows us to offer some of the fastest broadband speeds in Maine and the U.S. – and to serve not only our citizens, but our local town offices, three volunteer fire departments, a community center, a rural health center, and businesses and non-profit organizations throughout our area. We do it all with fewer than 25 employees. But the extremely rural nature of our service territory presents unique issues."
+    },
+    {
+     "inicio_corpo": 5687,
+     "fim_corpo": 6515,
+     "trecho": "An additional concern is that no one is charged with thoroughly validating the data that are used to create the maps – providers submit it, and depending on the support program the FCC may not provide for any opportunity to correct that information before deciding support should be eliminated in an area that is in fact unserved by any other provider. These sorts of “false positives” of coverage hit close to home and directly affect consumers who may never see broadband (or may lose access to broadband over time) as a result of such mistakes. As an example, there are six census blocks in one of the towns we serve that are identified by the FCC as served because another provider reported them as such. But, one of the advantages of the small size of our company is our deep knowledge of our service territory."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0043::Urbano e rural",
+   "unit_id": "W0043",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Beth Osler",
+   "n_ocorrencias_no_par": 24,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 18,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 552,
+     "trecho": "Statement by Beth Osler Director of Customer and Industry Relations UniTel, Inc. Unity, ME Before the United States House Committee on Small Business Subcommittee on Contracting & Infrastructure Broadband Mapping: Small Carrier Perspectives on a Path Forward June 25, 2019 Testimony of Beth Osler June 25, 2019 Page 1 INTRODUCTION Chairman Golden, Ranking Member Stauber, and members of the Subcommittee, thank you for the opportunity to testify on the importance of rural broadband mapping."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 870,
+     "trecho": "Statement by Beth Osler Director of Customer and Industry Relations UniTel, Inc. Unity, ME Before the United States House Committee on Small Business Subcommittee on Contracting & Infrastructure Broadband Mapping: Small Carrier Perspectives on a Path Forward June 25, 2019 Testimony of Beth Osler June 25, 2019 Page 1 INTRODUCTION Chairman Golden, Ranking Member Stauber, and members of the Subcommittee, thank you for the opportunity to testify on the importance of rural broadband mapping. My name is Beth Osler. I have worked in the telecommunications industry for over 50 years, and I am currently the Director of Customer and Industry Relations for UniTel, Inc. headquartered in Unity, Maine. UniTel, Inc. (“UniTel”) is a local rural telecommunications provider serving portions of Central Maine."
+    },
+    {
+     "inicio_corpo": 88,
+     "fim_corpo": 1124,
+     "trecho": "Unity, ME Before the United States House Committee on Small Business Subcommittee on Contracting & Infrastructure Broadband Mapping: Small Carrier Perspectives on a Path Forward June 25, 2019 Testimony of Beth Osler June 25, 2019 Page 1 INTRODUCTION Chairman Golden, Ranking Member Stauber, and members of the Subcommittee, thank you for the opportunity to testify on the importance of rural broadband mapping. My name is Beth Osler. I have worked in the telecommunications industry for over 50 years, and I am currently the Director of Customer and Industry Relations for UniTel, Inc. headquartered in Unity, Maine. UniTel, Inc. (“UniTel”) is a local rural telecommunications provider serving portions of Central Maine. Founded in 1902, UniTel has delivered a wide variety of telecommunications services to sparsely populated rural areas spanning approximately 280 square miles and serving all or portions of 16 communities in parts of three counties for over 117 years."
+    },
+    {
+     "inicio_corpo": 552,
+     "fim_corpo": 1387,
+     "trecho": "My name is Beth Osler. I have worked in the telecommunications industry for over 50 years, and I am currently the Director of Customer and Industry Relations for UniTel, Inc. headquartered in Unity, Maine. UniTel, Inc. (“UniTel”) is a local rural telecommunications provider serving portions of Central Maine. Founded in 1902, UniTel has delivered a wide variety of telecommunications services to sparsely populated rural areas spanning approximately 280 square miles and serving all or portions of 16 communities in parts of three counties for over 117 years. My remarks today are on behalf of UniTel, as well as NTCA–The Rural Broadband Association, which represents approximately 850 rural community-based carriers that offer advanced communications services throughout the most sparsely-populated areas of the nation."
+    },
+    {
+     "inicio_corpo": 552,
+     "fim_corpo": 1387,
+     "trecho": "My name is Beth Osler. I have worked in the telecommunications industry for over 50 years, and I am currently the Director of Customer and Industry Relations for UniTel, Inc. headquartered in Unity, Maine. UniTel, Inc. (“UniTel”) is a local rural telecommunications provider serving portions of Central Maine. Founded in 1902, UniTel has delivered a wide variety of telecommunications services to sparsely populated rural areas spanning approximately 280 square miles and serving all or portions of 16 communities in parts of three counties for over 117 years. My remarks today are on behalf of UniTel, as well as NTCA–The Rural Broadband Association, which represents approximately 850 rural community-based carriers that offer advanced communications services throughout the most sparsely-populated areas of the nation."
+    },
+    {
+     "inicio_corpo": 1387,
+     "fim_corpo": 2284,
+     "trecho": "NTCA members and companies like them serve just under five percent of the U.S. population spread across approximately 35 percent of the U.S. landmass; in most of this vast expanse, they are the only fixed full-service networks available. Today UniTel operates a digital network offering the latest services including high-speed broadband at speeds up to 1 Gigabit symmetrical. In 2015, UniTel made substantial investments in a fiber optic network within its footprint. In 2016, with support from ConnectME state grants, we extended the Fiber to The Home network further still. This fiber deployment allows us to offer some of the fastest broadband speeds in Maine and the U.S. – and to serve not only our citizens, but our local town offices, three volunteer fire departments, a community center, a rural health center, and businesses and non-profit organizations throughout our area."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0044::Domicílio e arranjo familiar",
+   "unit_id": "W0044",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Councilwoman Ophelia Watahomigie-Corliss",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 352,
+     "fim_corpo": 1091,
+     "trecho": "It is very exciting to be asked to come speak about the topic of Broadband Opportunity in Rural America through Affordable, Reliable, and High-speed Broadband. My name is Ophelia Watahomigie-Corliss, I am a member of the Havasupai Tribe, and I am currently serving my second term as a tribal councilwoman. I am here in my official capacity as an elected leader of the sovereign Havasupai Nation. I also serve as the telecommunications lead among my Tribal Council colleagues. Within this testimony I will tell you about my Tribes’ inability to participate in online education opportunities until 2018 and how our children must leave their families and canyon home in order to obtain a high school diploma at age fourteen."
+    },
+    {
+     "inicio_corpo": 10146,
+     "fim_corpo": 11079,
+     "trecho": "Julie Baumgartner from Coconino Community College was teaching a math class in Flagstaff Arizona, 168 miles from the GED students. Once we successfully signed on, we could see Julie on our computer screens, we could hear her asking questions, and she even introduced her students in Flagstaff to us. Our Supai students watched her working out the problems on the board, and they could interact with the teacher. Some of the students were giving her answers to the solved problem on the board in real time. This was a historical moment for Supai because it was the first online, live, interactive class that had happened in the village. While we have had successes, we also have more needs. The Tribe’s current BIE school only goes to the 8th grade, and for our children to receive a high school diploma they are expected to up root from their families at fourteen years old and attend a boarding school out of state."
+    },
+    {
+     "inicio_corpo": 10279,
+     "fim_corpo": 11264,
+     "trecho": "Once we successfully signed on, we could see Julie on our computer screens, we could hear her asking questions, and she even introduced her students in Flagstaff to us. Our Supai students watched her working out the problems on the board, and they could interact with the teacher. Some of the students were giving her answers to the solved problem on the board in real time. This was a historical moment for Supai because it was the first online, live, interactive class that had happened in the village. While we have had successes, we also have more needs. The Tribe’s current BIE school only goes to the 8th grade, and for our children to receive a high school diploma they are expected to up root from their families at fourteen years old and attend a boarding school out of state. A significant percentage of these children are unable to adjust to living life with a family of strangers or in a dorm, and return to the village, never going back to their studies."
+    },
+    {
+     "inicio_corpo": 15791,
+     "fim_corpo": 16734,
+     "trecho": "The disparities felt by my community may be of the most extreme examples felt by rural tribal nations, but the disparities of the Digital Divide are being felt all across Indian country. It is extremely important to allocate funding to rural America, and tribal rural America, to build reliable broadband. If my community has had its first opportunities to participate in online education in 2018, then there are other communities out there who don’t have the capabilities. Extremely isolated areas are in desperate need of telemedicine services and we still don’t have those capabilities. That is an opportunity with the monies you allocate to provide us that ability. The Havasupai would use the funds to establish the community’s first charter school and credit recovery programs, which are desperately needed to increase the morale of families to earn a better living and give them the opportunity to live their best life."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0044::Educação",
+   "unit_id": "W0044",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Councilwoman Ophelia Watahomigie-Corliss",
+   "n_ocorrencias_no_par": 13,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 7,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 352,
+     "fim_corpo": 1091,
+     "trecho": "It is very exciting to be asked to come speak about the topic of Broadband Opportunity in Rural America through Affordable, Reliable, and High-speed Broadband. My name is Ophelia Watahomigie-Corliss, I am a member of the Havasupai Tribe, and I am currently serving my second term as a tribal councilwoman. I am here in my official capacity as an elected leader of the sovereign Havasupai Nation. I also serve as the telecommunications lead among my Tribal Council colleagues. Within this testimony I will tell you about my Tribes’ inability to participate in online education opportunities until 2018 and how our children must leave their families and canyon home in order to obtain a high school diploma at age fourteen."
+    },
+    {
+     "inicio_corpo": 1091,
+     "fim_corpo": 1803,
+     "trecho": "My community had been promised working telemedicine for the past fifteen years and yet agencies have failed every time to execute their promises. Finally, in partnership with MuralNet, we built our own Havasupai pilot network that was successful in bringing high-speed Internet to homes for students and teachers, which has pushed the Tribe to find ways to provide broadband to the rest of our community. The Havasupai Reservation is the most isolated American Indian tribe in the lower 48 states. The village of Supai is located on the floor of the Grand Canyon where it supports a population of 398 residents, and when the children return home from boarding school the number increases to 423."
+    },
+    {
+     "inicio_corpo": 5007,
+     "fim_corpo": 5863,
+     "trecho": "They refuse to use the electronic system and many choose to stick with paper charts. There was not enough Internet speed to support an electronic medical records system, let alone have the ability to establish telemedicine in the canyon. Many organizations have donated telemedicine equipment, but the equipment is useless due to low Internet speeds. Fast forward to 2015 when a local community college tried to partner with the Tribe to establish its first GED classes so that students could complete their work online and earn their diploma. The Tribe did not have the ability to get Internet to the homes of the GED students, so they would have to use the Internet in the village center. It was a very ambitious project, and many of the students already had jobs and wanted to work on their schooling at home, before or after work."
+    },
+    {
+     "inicio_corpo": 5093,
+     "fim_corpo": 6038,
+     "trecho": "There was not enough Internet speed to support an electronic medical records system, let alone have the ability to establish telemedicine in the canyon. Many organizations have donated telemedicine equipment, but the equipment is useless due to low Internet speeds. Fast forward to 2015 when a local community college tried to partner with the Tribe to establish its first GED classes so that students could complete their work online and earn their diploma. The Tribe did not have the ability to get Internet to the homes of the GED students, so they would have to use the Internet in the village center. It was a very ambitious project, and many of the students already had jobs and wanted to work on their schooling at home, before or after work. The program had no graduates that year because it was nearly impossible to get their school work done in the allotted time when they had no access to the Internet at home."
+    },
+    {
+     "inicio_corpo": 7082,
+     "fim_corpo": 7976,
+     "trecho": "During this time, the Tribe was working with its Early Head Start and Head Start programs to begin implementing new regulations that had been set by the Office of Head Start (OHS) in 2016. OHS was requiring all employees to have early childhood learning certificates, associate’s, or bachelor’s degrees depending on their job position, and our program had to prove their employees were enrolled in classes and on their way to receiving these certificates. This was proving troublesome for the Tribe. Although the OHS grants we had funded the classes, we did not have enough to pay for the employee’s living expenses. The closest college to take the required classes would mean a hike, saddle ride, or helicopter ride out of the canyon and a 168-mile drive on top of that. If we sent them out of the canyon to attend school, we would also lose the employee at the Head Start."
+    },
+    {
+     "inicio_corpo": 7976,
+     "fim_corpo": 8938,
+     "trecho": "There are online classes, but the old network didn’t have the capability to stream the videos, and the OHS deadline was getting close. Within ten days of receiving the STA from the FCC, I had developed a check out program for the MuralNet CPEs for online educational use. Anyone in the community could present to me a printed approval letter of any type of online educational classes they would be taking, and I would check them out a CPE to connect them to Internet at home. Immediately twelve CPEs were checkout out to Early Head Start and Head Start teachers who began enrolling in GED classes, and community college classes. By the summer semesters, students were able to enroll into classes towards their bachelor’s degrees. This put both of our Head Start programs in compliance with new OHS standards! The teachers at our local Bureau of Indian Education (BIE) school were next on the list to be provided CPEs for use in their apartments."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0044::Escolaridade e letramento",
+   "unit_id": "W0044",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Councilwoman Ophelia Watahomigie-Corliss",
+   "n_ocorrencias_no_par": 15,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 9,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 515,
+     "fim_corpo": 1503,
+     "trecho": "My name is Ophelia Watahomigie-Corliss, I am a member of the Havasupai Tribe, and I am currently serving my second term as a tribal councilwoman. I am here in my official capacity as an elected leader of the sovereign Havasupai Nation. I also serve as the telecommunications lead among my Tribal Council colleagues. Within this testimony I will tell you about my Tribes’ inability to participate in online education opportunities until 2018 and how our children must leave their families and canyon home in order to obtain a high school diploma at age fourteen. My community had been promised working telemedicine for the past fifteen years and yet agencies have failed every time to execute their promises. Finally, in partnership with MuralNet, we built our own Havasupai pilot network that was successful in bringing high-speed Internet to homes for students and teachers, which has pushed the Tribe to find ways to provide broadband to the rest of our community."
+    },
+    {
+     "inicio_corpo": 4853,
+     "fim_corpo": 5567,
+     "trecho": "I have reports from many contracted doctors who, after waiting forty-five minutes to get into a patient profile, will lose the connection and the file. They refuse to use the electronic system and many choose to stick with paper charts. There was not enough Internet speed to support an electronic medical records system, let alone have the ability to establish telemedicine in the canyon. Many organizations have donated telemedicine equipment, but the equipment is useless due to low Internet speeds. Fast forward to 2015 when a local community college tried to partner with the Tribe to establish its first GED classes so that students could complete their work online and earn their diploma."
+    },
+    {
+     "inicio_corpo": 4853,
+     "fim_corpo": 5716,
+     "trecho": "I have reports from many contracted doctors who, after waiting forty-five minutes to get into a patient profile, will lose the connection and the file. They refuse to use the electronic system and many choose to stick with paper charts. There was not enough Internet speed to support an electronic medical records system, let alone have the ability to establish telemedicine in the canyon. Many organizations have donated telemedicine equipment, but the equipment is useless due to low Internet speeds. Fast forward to 2015 when a local community college tried to partner with the Tribe to establish its first GED classes so that students could complete their work online and earn their diploma. The Tribe did not have the ability to get Internet to the homes of the GED students, so they would have to use the Internet in the village center."
+    },
+    {
+     "inicio_corpo": 5007,
+     "fim_corpo": 5863,
+     "trecho": "They refuse to use the electronic system and many choose to stick with paper charts. There was not enough Internet speed to support an electronic medical records system, let alone have the ability to establish telemedicine in the canyon. Many organizations have donated telemedicine equipment, but the equipment is useless due to low Internet speeds. Fast forward to 2015 when a local community college tried to partner with the Tribe to establish its first GED classes so that students could complete their work online and earn their diploma. The Tribe did not have the ability to get Internet to the homes of the GED students, so they would have to use the Internet in the village center. It was a very ambitious project, and many of the students already had jobs and wanted to work on their schooling at home, before or after work."
+    },
+    {
+     "inicio_corpo": 5249,
+     "fim_corpo": 6140,
+     "trecho": "Many organizations have donated telemedicine equipment, but the equipment is useless due to low Internet speeds. Fast forward to 2015 when a local community college tried to partner with the Tribe to establish its first GED classes so that students could complete their work online and earn their diploma. The Tribe did not have the ability to get Internet to the homes of the GED students, so they would have to use the Internet in the village center. It was a very ambitious project, and many of the students already had jobs and wanted to work on their schooling at home, before or after work. The program had no graduates that year because it was nearly impossible to get their school work done in the allotted time when they had no access to the Internet at home. MuralNet had promised to help the Tribe bridge the homework gap the GED students were experiencing."
+    },
+    {
+     "inicio_corpo": 7871,
+     "fim_corpo": 8718,
+     "trecho": "If we sent them out of the canyon to attend school, we would also lose the employee at the Head Start. There are online classes, but the old network didn’t have the capability to stream the videos, and the OHS deadline was getting close. Within ten days of receiving the STA from the FCC, I had developed a check out program for the MuralNet CPEs for online educational use. Anyone in the community could present to me a printed approval letter of any type of online educational classes they would be taking, and I would check them out a CPE to connect them to Internet at home. Immediately twelve CPEs were checkout out to Early Head Start and Head Start teachers who began enrolling in GED classes, and community college classes. By the summer semesters, students were able to enroll into classes towards their bachelor’s degrees."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0044::Raça e etnia",
+   "unit_id": "W0044",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Councilwoman Ophelia Watahomigie-Corliss",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "American Indian",
+     "forma_encontrada": "American Indian",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "American Indian",
+     "forma_encontrada": "American Indian",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "American Indian",
+     "forma_encontrada": "American Indian",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 663,
+     "fim_corpo": 1602,
+     "trecho": "I am here in my official capacity as an elected leader of the sovereign Havasupai Nation. I also serve as the telecommunications lead among my Tribal Council colleagues. Within this testimony I will tell you about my Tribes’ inability to participate in online education opportunities until 2018 and how our children must leave their families and canyon home in order to obtain a high school diploma at age fourteen. My community had been promised working telemedicine for the past fifteen years and yet agencies have failed every time to execute their promises. Finally, in partnership with MuralNet, we built our own Havasupai pilot network that was successful in bringing high-speed Internet to homes for students and teachers, which has pushed the Tribe to find ways to provide broadband to the rest of our community. The Havasupai Reservation is the most isolated American Indian tribe in the lower 48 states."
+    },
+    {
+     "inicio_corpo": 15981,
+     "fim_corpo": 16950,
+     "trecho": "It is extremely important to allocate funding to rural America, and tribal rural America, to build reliable broadband. If my community has had its first opportunities to participate in online education in 2018, then there are other communities out there who don’t have the capabilities. Extremely isolated areas are in desperate need of telemedicine services and we still don’t have those capabilities. That is an opportunity with the monies you allocate to provide us that ability. The Havasupai would use the funds to establish the community’s first charter school and credit recovery programs, which are desperately needed to increase the morale of families to earn a better living and give them the opportunity to live their best life. I support monies allocated specifically to rural American Indian Nations within the funds being negotiated to support Building opportunity in rural America through affordable, reliable and high-speed broadband."
+    },
+    {
+     "inicio_corpo": 16273,
+     "fim_corpo": 17707,
+     "trecho": "Extremely isolated areas are in desperate need of telemedicine services and we still don’t have those capabilities. That is an opportunity with the monies you allocate to provide us that ability. The Havasupai would use the funds to establish the community’s first charter school and credit recovery programs, which are desperately needed to increase the morale of families to earn a better living and give them the opportunity to live their best life. I support monies allocated specifically to rural American Indian Nations within the funds being negotiated to support Building opportunity in rural America through affordable, reliable and high-speed broadband. I can only speak to what is my expertise and that is my community, the most isolated and rural tribe in the lower 48 states, which is the story of American Indian Country. If my story and expertise can also expand into other parts of rural America and help your decision making to support building opportunity for all rural America, well then, I am also honored. I ask you to never to forget about us again, living at the bottom of the canyon, having had no access to online education or telemedicine services. We have felt left out and forgotten for decades. Now you have the ability to help communities like us, and I know that you will. I will be honored to address any questions the Committee might have of me. Thank you for your time."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0044::Urbano e rural",
+   "unit_id": "W0044",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Councilwoman Ophelia Watahomigie-Corliss",
+   "n_ocorrencias_no_par": 11,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 5,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 515,
+     "trecho": "HAVASUPAI TRIBAL COUNCIL P.O. Box 10 ⦁ Supai, Arizona 86435 (925) 433-8130 ⦁ Fax (928) 433-8119 WRITTEN TESTIMONY OF OPHELIA WATAHOMIGIE-CORLISS COUNCILWOMAN OF THE HAVASUPAI TRIBE BEFORE THE COMMITTEE ON AGRICULTURE SUBCOMMITTEE ON COMMODITY EXCHANGES, ENERGY AND CREDIT Chairman Scott and Ranking Member Scott: Good morning. It is very exciting to be asked to come speak about the topic of Broadband Opportunity in Rural America through Affordable, Reliable, and High-speed Broadband."
+    },
+    {
+     "inicio_corpo": 1803,
+     "fim_corpo": 2571,
+     "trecho": "Our home is surrounded by mile high red rock cliffs and mesa tops that surround Supai Village. This scene is very similar to what you see at the Grand Canyon National Park, which was our ancestral home. Our village and canyon are important links to our traditional way of life. The only way in or out of our canyon home is an 8-mile hike by foot, by horse, or our public transportation via helicopter which runs two to four times a week, depending on what time of year it is. All packages sent through the United States Postal Service are still delivered by mule trail mail to area code 86435. Even after you make it up and out of the canyon, the nearest two towns are 67 miles away by car. My home, I am sure, qualifies under the definition of rural."
+    },
+    {
+     "inicio_corpo": 13980,
+     "fim_corpo": 15052,
+     "trecho": "The initial investment for MuralNet to complete the pilot program was $15,000 in equipment costs and over $20,000 in lawyer fees, which is a very low cost to start a network. The planned network expansion would bring broadband coverage to the whole village, increase backhaul from fifty Mbps to one Gbps, provide emergency communications throughout the Canyon, connect an online charter high school, and allow for telemedicine in the new clinic, which will be beginning construction next year. To make our community network financially sustainable, high-speed Internet access can be sold to tourists in the campgrounds. The capital and network operator training costs are around $250k-$300k. These actions are being initiated because the Tribe has decided its people deserve the opportunities that are afforded by broadband. And we will have to do it for ourselves. The ruralness and population size of our community means there is no return on investment for outside Internet service providers or major telecoms to consider building the infrastructure."
+    },
+    {
+     "inicio_corpo": 15052,
+     "fim_corpo": 15981,
+     "trecho": "The benefits we have seen from this project are benefits we have not been able to realize in the canyon before. There is renewed hope in the community and among Tribal Council that online educational opportunities can become a reality on the canyon floor. Community members can better their lives and their education through future broadband expansion in Supai village. The telemedicine that has been promised to the community can finally work and begin to help the community’s spiritual, mental, and physical health at the new clinic. These services that ordinary Americans have been using for the past 20 years are still not a reality for my entire community, but this is the first glimmer of hope we have seen for decades. The disparities felt by my community may be of the most extreme examples felt by rural tribal nations, but the disparities of the Digital Divide are being felt all across Indian country."
+    },
+    {
+     "inicio_corpo": 15166,
+     "fim_corpo": 16102,
+     "trecho": "There is renewed hope in the community and among Tribal Council that online educational opportunities can become a reality on the canyon floor. Community members can better their lives and their education through future broadband expansion in Supai village. The telemedicine that has been promised to the community can finally work and begin to help the community’s spiritual, mental, and physical health at the new clinic. These services that ordinary Americans have been using for the past 20 years are still not a reality for my entire community, but this is the first glimmer of hope we have seen for decades. The disparities felt by my community may be of the most extreme examples felt by rural tribal nations, but the disparities of the Digital Divide are being felt all across Indian country. It is extremely important to allocate funding to rural America, and tribal rural America, to build reliable broadband."
+    },
+    {
+     "inicio_corpo": 15166,
+     "fim_corpo": 16102,
+     "trecho": "There is renewed hope in the community and among Tribal Council that online educational opportunities can become a reality on the canyon floor. Community members can better their lives and their education through future broadband expansion in Supai village. The telemedicine that has been promised to the community can finally work and begin to help the community’s spiritual, mental, and physical health at the new clinic. These services that ordinary Americans have been using for the past 20 years are still not a reality for my entire community, but this is the first glimmer of hope we have seen for decades. The disparities felt by my community may be of the most extreme examples felt by rural tribal nations, but the disparities of the Digital Divide are being felt all across Indian country. It is extremely important to allocate funding to rural America, and tribal rural America, to build reliable broadband."
+    }
+   ]
+  }
+ ]
+}

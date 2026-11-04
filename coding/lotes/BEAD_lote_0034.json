@@ -1,0 +1,1089 @@
+{
+ "caso": "BEAD",
+ "lote": 34,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0141::Urbano e rural",
+   "unit_id": "W0141",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. John Baker",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5144,
+     "fim_corpo": 6277,
+     "trecho": "See full membership list at https://www.openranpolicy.org/about-us/members/. Mavenir is a member of the coalition and serves on its Board of Directors. 3 Open RAN results in cost efficiencies estimated at 49% savings in CapEx within one year and 31% savings in OpEx over five years. See “Open RAN Integration: Run With It,” iGR (April 2020), available at https://mavenir.com/resources/open-ran-integration-run-with-it/ 4 See 5G and Open RAN Security: Next Generation Trust, Open RAN Policy Coalition (June 25, 2020), available at https://www.openranpolicy.org/resources/ 3 network demonstrates how to complete system integration with a broad supplier ecosystem: Mavenir is one of the 20 suppliers providing Open RAN-based solutions for DISH’s network. Significantly – and I really want to stress this point because many of our nation’s rural carriers are in the midst of a taxpayer-funded rip and replace program – a more robust ecosystem of suppliers providing open and interoperable components helps to futureproof networks because we are not forcing operators to rely on just one company to build and service the RAN."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0142::Domicílio e arranjo familiar",
+   "unit_id": "W0142",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. John Mezzalingua",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "Households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6979,
+     "fim_corpo": 7922,
+     "trecho": "O-RAN enabled networks powered by vRANs and spectrum that has been recently made available by the U.S. government have unleashed a number of new opportunities for broadband connectivity. Below are three examples of projects JMA is currently operating. Each exemplifies different contributions O-RAN can make to critical American priorities including: 1) Bridging the digital divide; 2) Competing with low-cost foreign competitors through innovation; and 3) Creating highly secure “local 5G networks” for campuses and large facilities. The projects below are particularly exciting because they are highly replicable, not only here in the U.S. but around the world. Bridging the Digital Divide In Tucson, Arizona, JMA is deploying a wireless network for the city of Tucson that will provide reliable and free high-speed broadband coverage to over 5,000 underserved households, including an estimated 10,000 school age children."
+    },
+    {
+     "inicio_corpo": 7525,
+     "fim_corpo": 8436,
+     "trecho": "The projects below are particularly exciting because they are highly replicable, not only here in the U.S. but around the world. Bridging the Digital Divide In Tucson, Arizona, JMA is deploying a wireless network for the city of Tucson that will provide reliable and free high-speed broadband coverage to over 5,000 underserved households, including an estimated 10,000 school age children. The Tucson area is currently considered one of the most deprived areas in the country for high-speed broadband coverage. Through a bold initiative, the City of Tucson is using CARES Act funding to create a local high-speed network that will literally transition Tucson to a world class connected city. The project uses recently released CBRS spectrum. Households showing need will receive a device that will convert the CBRS signal to a Wi-Fi signal giving the entire house access to high-speed broadband."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0142::Educação",
+   "unit_id": "W0142",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. John Mezzalingua",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7084,
+     "fim_corpo": 7922,
+     "trecho": "government have unleashed a number of new opportunities for broadband connectivity. Below are three examples of projects JMA is currently operating. Each exemplifies different contributions O-RAN can make to critical American priorities including: 1) Bridging the digital divide; 2) Competing with low-cost foreign competitors through innovation; and 3) Creating highly secure “local 5G networks” for campuses and large facilities. The projects below are particularly exciting because they are highly replicable, not only here in the U.S. but around the world. Bridging the Digital Divide In Tucson, Arizona, JMA is deploying a wireless network for the city of Tucson that will provide reliable and free high-speed broadband coverage to over 5,000 underserved households, including an estimated 10,000 school age children."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0142::Infraestrutura e porte populacional",
+   "unit_id": "W0142",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. John Mezzalingua",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6979,
+     "fim_corpo": 7922,
+     "trecho": "O-RAN enabled networks powered by vRANs and spectrum that has been recently made available by the U.S. government have unleashed a number of new opportunities for broadband connectivity. Below are three examples of projects JMA is currently operating. Each exemplifies different contributions O-RAN can make to critical American priorities including: 1) Bridging the digital divide; 2) Competing with low-cost foreign competitors through innovation; and 3) Creating highly secure “local 5G networks” for campuses and large facilities. The projects below are particularly exciting because they are highly replicable, not only here in the U.S. but around the world. Bridging the Digital Divide In Tucson, Arizona, JMA is deploying a wireless network for the city of Tucson that will provide reliable and free high-speed broadband coverage to over 5,000 underserved households, including an estimated 10,000 school age children."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0144::Educação",
+   "unit_id": "W0144",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tim Donovan",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13660,
+     "fim_corpo": 14632,
+     "trecho": "Finally, all carriers must have access to secure and available handsets and other devices to fully utilize the latest wireless networks. As networks continue to evolve, this includes ensuring that consumers have access to devices that support voice over LTE (VoLTE) services and other capabilities needed to meet regulatory requirements for public safety, access, and other issues. Spectrum Policies Must Be Harmonized and Coordinated Across Federal Agencies and With the Commercial Sector The final key to leading the wireless future will be access to additional spectrum to accommodate the growth of networks that will be required to handle ever-increasing voice, data and video traffic to our homes and businesses. As the pandemic has driven us to virtual school, work, health care, and social events – trends that will continue after the pandemic – those spectrum needs will only accelerate, driven further by exciting new wireless uses and innovations."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0144::Posição no trabalho",
+   "unit_id": "W0144",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tim Donovan",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "Workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6312,
+     "fim_corpo": 7169,
+     "trecho": "In recently enacted legislation, Congress provided states and localities approximately $350 billion for various purposes, including to support broadband, and Congress can encourage states and localities to use some of that funding to evaluate and streamline permitting processes for deploying fiber, macrotowers, and small cells. These efforts could include incentives and grants for state, local, and tribal governments that adopt streamlined processes to facilitate upgrades and deployments through their zoning and permitting functions. 4 Digital infrastructure will support job creation and growth as an ever-growing number of industries connect through expanded broadband availability, but to get there we also need greater numbers of workers to complete the deployment, maintenance, and upgrades throughout the communications industry."
+    },
+    {
+     "inicio_corpo": 6645,
+     "fim_corpo": 7770,
+     "trecho": "These efforts could include incentives and grants for state, local, and tribal governments that adopt streamlined processes to facilitate upgrades and deployments through their zoning and permitting functions. 4 Digital infrastructure will support job creation and growth as an ever-growing number of industries connect through expanded broadband availability, but to get there we also need greater numbers of workers to complete the deployment, maintenance, and upgrades throughout the communications industry. The combination of the rip and replace process for covered equipment, ongoing expansion and upgrades of networks to expand coverage, support new spectrum bands and implement 5G, tower crews and other personnel will be in high demand. CCA supports efforts to help expand the communications workforce to meet the demands of our connected lives, including opportunities to foster workforce skills development and trade certification through the creation of apprenticeships, and through public-private partnership programs of study in higher education focused on broadband and network engineering."
+    },
+    {
+     "inicio_corpo": 6858,
+     "fim_corpo": 7770,
+     "trecho": "4 Digital infrastructure will support job creation and growth as an ever-growing number of industries connect through expanded broadband availability, but to get there we also need greater numbers of workers to complete the deployment, maintenance, and upgrades throughout the communications industry. The combination of the rip and replace process for covered equipment, ongoing expansion and upgrades of networks to expand coverage, support new spectrum bands and implement 5G, tower crews and other personnel will be in high demand. CCA supports efforts to help expand the communications workforce to meet the demands of our connected lives, including opportunities to foster workforce skills development and trade certification through the creation of apprenticeships, and through public-private partnership programs of study in higher education focused on broadband and network engineering."
+    },
+    {
+     "inicio_corpo": 7169,
+     "fim_corpo": 8025,
+     "trecho": "The combination of the rip and replace process for covered equipment, ongoing expansion and upgrades of networks to expand coverage, support new spectrum bands and implement 5G, tower crews and other personnel will be in high demand. CCA supports efforts to help expand the communications workforce to meet the demands of our connected lives, including opportunities to foster workforce skills development and trade certification through the creation of apprenticeships, and through public-private partnership programs of study in higher education focused on broadband and network engineering. Indeed, this subcommittee has led the way on addressing this issue with current and previous bipartisan legislation such as the Communications Jobs Training Act, the Telecommunications Skilled Workforce Act, and the TOWER Infrastructure Deployment Act."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0144::Territórios de povos e comunidades tradicionais",
+   "unit_id": "W0144",
+   "subcategoria": "Territórios de povos e comunidades tradicionais",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tim Donovan",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Tribal governments",
+     "forma_encontrada": "tribal governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5869,
+     "fim_corpo": 6858,
+     "trecho": "The wireless industry has been and is hard at work to deploy several bands of spectrum that recently became available to commercial use, while also working to upgrade existing operations to the latest technologies. As a result, there is likely to be a significant influx of permit applications, and efficient, manageable, and predictable permitting processes will be necessary to process the increased volume of applications and workload. In recently enacted legislation, Congress provided states and localities approximately $350 billion for various purposes, including to support broadband, and Congress can encourage states and localities to use some of that funding to evaluate and streamline permitting processes for deploying fiber, macrotowers, and small cells. These efforts could include incentives and grants for state, local, and tribal governments that adopt streamlined processes to facilitate upgrades and deployments through their zoning and permitting functions."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0144::Urbano e rural",
+   "unit_id": "W0144",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tim Donovan",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1056,
+     "trecho": "Leading the Wireless Future: Securing American Network Technology Testimony of Tim Donovan SVP, Legislative Affairs Competitive Carriers Association Before the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology April 21, 2021 1 Chairman Doyle, Republican Leader Latta, and Members of the Subcommittee, thank you for the opportunity to testify about how the United States can lead the world in future wireless services through a coordinated focus on communications infrastructure, spectrum, and equipment policies. I am testifying on behalf of Competitive Carriers Association (“CCA”), the nation’s leading association for competitive wireless providers. CCA represents carrier members ranging from small, rural providers serving fewer than 5,000 customers to regional and nationwide providers serving millions of customers, as well as vendors and suppliers that provide products and services throughout the wireless communications ecosystem."
+    },
+    {
+     "inicio_corpo": 2476,
+     "fim_corpo": 3258,
+     "trecho": "2 Any Generational Investment in Digital Infrastructure Must Include Mobility At a foundational level, the United States cannot lead the wireless future without ubiquitous advanced wireless services for all Americans. As policymakers consider generational investments in our nation’s infrastructure, I applaud the bipartisan support for promoting digital infrastructure through broadband networks. Multiple proposals would further expand the optical fiber footprint—an admirable goal that will advance connectivity, including providing the backhaul network critical to expanded wireless coverage and speeds. But a generational investment in digital infrastructure that focuses on fixed broadband alone will be incomplete and will leave consumers in rural areas behind."
+    },
+    {
+     "inicio_corpo": 2702,
+     "fim_corpo": 3831,
+     "trecho": "As policymakers consider generational investments in our nation’s infrastructure, I applaud the bipartisan support for promoting digital infrastructure through broadband networks. Multiple proposals would further expand the optical fiber footprint—an admirable goal that will advance connectivity, including providing the backhaul network critical to expanded wireless coverage and speeds. But a generational investment in digital infrastructure that focuses on fixed broadband alone will be incomplete and will leave consumers in rural areas behind. Simply put, consumers depend on mobile connectivity and there are exciting and important innovations and services that rely on wireless connectivity and cannot be supported through fixed broadband technology at any speed. Mobility will continue to be a catalyst driving economic growth in rural America, and any infrastructure efforts that do not ensure ubiquitous mobile broadband could create a new digital divide of technological denial for consumers as the latest innovations that rely on mobile broadband will not function in rural America without connectivity."
+    },
+    {
+     "inicio_corpo": 3096,
+     "fim_corpo": 3831,
+     "trecho": "But a generational investment in digital infrastructure that focuses on fixed broadband alone will be incomplete and will leave consumers in rural areas behind. Simply put, consumers depend on mobile connectivity and there are exciting and important innovations and services that rely on wireless connectivity and cannot be supported through fixed broadband technology at any speed. Mobility will continue to be a catalyst driving economic growth in rural America, and any infrastructure efforts that do not ensure ubiquitous mobile broadband could create a new digital divide of technological denial for consumers as the latest innovations that rely on mobile broadband will not function in rural America without connectivity."
+    },
+    {
+     "inicio_corpo": 4383,
+     "fim_corpo": 5332,
+     "trecho": "As advanced wireless services continue to develop, some of the greatest potential for 5G technologies exist beyond enhanced Mobile Broadband, as broad deployment of Ultra Reliable Low Latency Communications and massive Machine Type Communications are driving innovation, economic growth, and efficiencies in how we work and in society. Even as the industry buzzes with exciting new technologies and services, taking the lesson from previous 3 generations of wireless services, combined with American ingenuity, we may not yet know the greatest benefits that new mobile services will bring to life. Further, mobile can provide all these advantages in addition to providing immediate connectivity in areas lacking service until other technologies are deployed. Because all consumers should be able to access these innovations whether they live in urban or rural areas, the digital divide cannot be closed through fixed connections alone."
+    },
+    {
+     "inicio_corpo": 4722,
+     "fim_corpo": 5558,
+     "trecho": "Even as the industry buzzes with exciting new technologies and services, taking the lesson from previous 3 generations of wireless services, combined with American ingenuity, we may not yet know the greatest benefits that new mobile services will bring to life. Further, mobile can provide all these advantages in addition to providing immediate connectivity in areas lacking service until other technologies are deployed. Because all consumers should be able to access these innovations whether they live in urban or rural areas, the digital divide cannot be closed through fixed connections alone. Existing and future technologies and services will be denied to Americans living in rural or urban areas absent sufficient mobile connectivity, and rural America risks being left behind during post-COVID economic recovery."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0145::Infraestrutura e porte populacional",
+   "unit_id": "W0145",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Diane Rinaldo",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1021,
+     "fim_corpo": 1969,
+     "trecho": "Our Coalition members include carriers, vendors, cybersecurity providers, tower operators, cloud providers, innovators, start-ups and legacy tech companies that have come together because they understand the health of the entire ecosystem is reliant on a secure, robust and diverse supply chain. We have been working together for nearly a year to educate policymakers across the globe on the benefits of Open RAN. Today I look forward to discussing the reasons why we believe that Open RAN will provide significant public interest benefits, namely: • Driving increased competition, innovation and network vendor diversity; • Providing technological improvements that benefit network management and innovation; • Making services and products more affordable for consumers, including those in rural and underserved communities; and • Serving as a complement to parallel advances in enhancing network security and network management for 5G."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0145::Urbano e rural",
+   "unit_id": "W0145",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Diane Rinaldo",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1021,
+     "fim_corpo": 1969,
+     "trecho": "Our Coalition members include carriers, vendors, cybersecurity providers, tower operators, cloud providers, innovators, start-ups and legacy tech companies that have come together because they understand the health of the entire ecosystem is reliant on a secure, robust and diverse supply chain. We have been working together for nearly a year to educate policymakers across the globe on the benefits of Open RAN. Today I look forward to discussing the reasons why we believe that Open RAN will provide significant public interest benefits, namely: • Driving increased competition, innovation and network vendor diversity; • Providing technological improvements that benefit network management and innovation; • Making services and products more affordable for consumers, including those in rural and underserved communities; and • Serving as a complement to parallel advances in enhancing network security and network management for 5G."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0146::Administração pública",
+   "unit_id": "W0146",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Chris Lewis",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12908,
+     "fim_corpo": 13828,
+     "trecho": "21 On April 13, 2021, Tyler Cooper at BroadbandNow listed 23 states that block or ban municipal broadband, but since then Arkansas has reversed course. Compare Tyler Cooper, Municipal Broadband Is Restricted in 18 States Across the U.S. in 2021, BroadbandNow Research, (Apr. 13, 2021), https://broadbandnow.com/report/municipal-broadband-roadblocks/ with Nick Keppler, Why Did Arkansas Change Its Mind on Municipal Broadband, Bloomberg CityLab (Apr. 17, 2019), https://www.bloomberg.com/news/articles/2019-04-17/arkansas-will-allow-municipal-broadband-after-all. America Act) and should prioritize funding municipal broadband projects and other alternative providers (like co-ops).22 Deployment funding should also prioritize funding for “open access” infrastructure -- infrastructure that is built and owned by one entity (often local governments, but sometimes private companies) but leased by service providers."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0146::Domicílio e arranjo familiar",
+   "unit_id": "W0146",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Chris Lewis",
+   "n_ocorrencias_no_par": 13,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 7,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "Household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 861,
+     "fim_corpo": 1713,
+     "trecho": "Over the life of Public Knowledge, we have testified before Congress; filed comments with various agencies, including the Federal Communications Commission; and written extensively about the need to ensure all Americans have access to affordable, reliable high-speed broadband. Before the pandemic, broadband was already the essential communications tool of the 21st century, but the pandemic has brought into clear focus just how essential broadband is, and how persistent the digital divide is. As schools have gone virtual, a lack of broadband access for schoolchildren means they are falling behind their peers. In fact, we know that going into this pandemic, approximately 17 million students lacked access to home internet.2 A lack of broadband access for working parents means they risk being unable to continue to provide for their families."
+    },
+    {
+     "inicio_corpo": 3088,
+     "fim_corpo": 4049,
+     "trecho": "I. Broadband Is an Essential Utility Just like water and electricity, broadband is an essential utility. Long before the COVID-19 crisis, Americans turned to broadband “for every facet of daily life.”5 Broadband provided students with academic support to meet their specific education needs; it offered veterans and others in remote areas a way to connect more often with their health care providers; and it was the primary place to find a job -- all before the COVID-19 crisis hit. Broadband helps small businesses serve their customers and reach markets worldwide; allows first responders to prepare for, respond to, and recover from natural disasters and acts of terrorism; and enables constituents to access essential government services (like renewing a driver’s license), connect with family and friends, and keep up to date on what is happening in the country and abroad.6 However, COVID-19 has made the importance of broadband all the more evident."
+    },
+    {
+     "inicio_corpo": 7150,
+     "fim_corpo": 8090,
+     "trecho": "Doing so will lead to more ubiquitous, robust, reliable, and affordable broadband. II. Congress Must Ensure That Broadband Is Affordable Broadband in the United States is too expensive -- in fact, it’s among the most expensive in the world. According to New America’s Open Technology Institute, the average monthly price for fiber broadband averages $79.92 in the U.S., compared to just $47.63 in Europe.11 Furthermore, ancillary fees (like modem rental fees, data overages, and early termination fees) can add up to an additional 75% to the cost of monthly internet service.12 The high cost of broadband is one of the primary reasons why the United States has such a staggering digital divide. A 2019 survey of American households found the cost of broadband to be among the top reasons for households not subscribing to broadband service.13 This is why 35% of low-income households with schoolchildren do not have high-speed internet."
+    },
+    {
+     "inicio_corpo": 7150,
+     "fim_corpo": 8090,
+     "trecho": "Doing so will lead to more ubiquitous, robust, reliable, and affordable broadband. II. Congress Must Ensure That Broadband Is Affordable Broadband in the United States is too expensive -- in fact, it’s among the most expensive in the world. According to New America’s Open Technology Institute, the average monthly price for fiber broadband averages $79.92 in the U.S., compared to just $47.63 in Europe.11 Furthermore, ancillary fees (like modem rental fees, data overages, and early termination fees) can add up to an additional 75% to the cost of monthly internet service.12 The high cost of broadband is one of the primary reasons why the United States has such a staggering digital divide. A 2019 survey of American households found the cost of broadband to be among the top reasons for households not subscribing to broadband service.13 This is why 35% of low-income households with schoolchildren do not have high-speed internet."
+    },
+    {
+     "inicio_corpo": 7150,
+     "fim_corpo": 8090,
+     "trecho": "Doing so will lead to more ubiquitous, robust, reliable, and affordable broadband. II. Congress Must Ensure That Broadband Is Affordable Broadband in the United States is too expensive -- in fact, it’s among the most expensive in the world. According to New America’s Open Technology Institute, the average monthly price for fiber broadband averages $79.92 in the U.S., compared to just $47.63 in Europe.11 Furthermore, ancillary fees (like modem rental fees, data overages, and early termination fees) can add up to an additional 75% to the cost of monthly internet service.12 The high cost of broadband is one of the primary reasons why the United States has such a staggering digital divide. A 2019 survey of American households found the cost of broadband to be among the top reasons for households not subscribing to broadband service.13 This is why 35% of low-income households with schoolchildren do not have high-speed internet."
+    },
+    {
+     "inicio_corpo": 9751,
+     "fim_corpo": 10780,
+     "trecho": "14 See LIFT America Act, 117th Cong. (introduced, bill number pending). § 12302 (2021). and isn’t available in order to close the digital divide, so too should it realize that we need data about price to better tailor support programs to close the digital divide.15 B. Congress Must Foster a Competitive Broadband Marketplace Creating a competitive broadband marketplace is essential for making broadband affordable. We know from competition data that new providers entering a region allow consumers to access better and more affordable broadband options.16 For example, AT&T customers in regions where a competitor is present pay approximately $70 per month for gigabit connections; AT&T charges $60 more a month for that same connection in regions with less competition.17 Although competition is key to lowering prices, unfortunately more than 20% of households have access to just one fixed provider offering broadband speeds, and 44% have access to just two.18 We need more competition and must fight monopoly pricing."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0146::Educação",
+   "unit_id": "W0146",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Chris Lewis",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "Schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 581,
+     "fim_corpo": 1479,
+     "trecho": "My name is Chris Lewis and I am the President and CEO of Public Knowledge, an organization that is celebrating its 20th anniversary this year, and is dedicated to promoting freedom of expression, an open internet, and access to affordable communications tools and creative works. Over the life of Public Knowledge, we have testified before Congress; filed comments with various agencies, including the Federal Communications Commission; and written extensively about the need to ensure all Americans have access to affordable, reliable high-speed broadband. Before the pandemic, broadband was already the essential communications tool of the 21st century, but the pandemic has brought into clear focus just how essential broadband is, and how persistent the digital divide is. As schools have gone virtual, a lack of broadband access for schoolchildren means they are falling behind their peers."
+    },
+    {
+     "inicio_corpo": 581,
+     "fim_corpo": 1479,
+     "trecho": "My name is Chris Lewis and I am the President and CEO of Public Knowledge, an organization that is celebrating its 20th anniversary this year, and is dedicated to promoting freedom of expression, an open internet, and access to affordable communications tools and creative works. Over the life of Public Knowledge, we have testified before Congress; filed comments with various agencies, including the Federal Communications Commission; and written extensively about the need to ensure all Americans have access to affordable, reliable high-speed broadband. Before the pandemic, broadband was already the essential communications tool of the 21st century, but the pandemic has brought into clear focus just how essential broadband is, and how persistent the digital divide is. As schools have gone virtual, a lack of broadband access for schoolchildren means they are falling behind their peers."
+    },
+    {
+     "inicio_corpo": 1713,
+     "fim_corpo": 2601,
+     "trecho": "A lack of broadband access for retired couples living in the many rural parts of our country means living in isolation because they cannot connect with loved ones. A lack of broadband access for many with pre-existing conditions means being unable to receive medical care because they cannot risk in-person care, nor access telehealth. Low-income, marginalized, and Tribal communities are particularly unlikely to be connected. Only 66% of African Americans and 61% of Hispanics report having broadband at 1 I would like to thank Jenna Leventoff and Greg Guice for their support in preparing this statement. 2 Hailly T.N Korman et. al, Missing in the Margins: Estimating the Scale of the COVID-19 Attendance Crisis (Oct. 21, 2020), https://bellwethereducation.org/publication/missing-margins-estimating-scale-covid-19-attendance-crisis#Why%20aren't%20students%20attending%20school?."
+    },
+    {
+     "inicio_corpo": 3575,
+     "fim_corpo": 4214,
+     "trecho": "Broadband helps small businesses serve their customers and reach markets worldwide; allows first responders to prepare for, respond to, and recover from natural disasters and acts of terrorism; and enables constituents to access essential government services (like renewing a driver’s license), connect with family and friends, and keep up to date on what is happening in the country and abroad.6 However, COVID-19 has made the importance of broadband all the more evident. During the pandemic, broadband has been critical in supporting online school and work, access to health care and medical information, and even vaccine distribution."
+    },
+    {
+     "inicio_corpo": 7150,
+     "fim_corpo": 8090,
+     "trecho": "Doing so will lead to more ubiquitous, robust, reliable, and affordable broadband. II. Congress Must Ensure That Broadband Is Affordable Broadband in the United States is too expensive -- in fact, it’s among the most expensive in the world. According to New America’s Open Technology Institute, the average monthly price for fiber broadband averages $79.92 in the U.S., compared to just $47.63 in Europe.11 Furthermore, ancillary fees (like modem rental fees, data overages, and early termination fees) can add up to an additional 75% to the cost of monthly internet service.12 The high cost of broadband is one of the primary reasons why the United States has such a staggering digital divide. A 2019 survey of American households found the cost of broadband to be among the top reasons for households not subscribing to broadband service.13 This is why 35% of low-income households with schoolchildren do not have high-speed internet."
+    },
+    {
+     "inicio_corpo": 16247,
+     "fim_corpo": 17211,
+     "trecho": "20, 2020), https://www.publicknowledge.org/blog/the-fccs-new-initiative-punishes-states-that-have-tried-to-close-the-digital-divide/. 25 Consolidated Appropriations Act of 2021, H.R. 133 § 904 (2020). 26 Low Income Household Water Assistance Program, U.S. Department of Health & Human Services https://www.acf.hhs.gov/ocs/programs/lihwap; Help With Bills, USA Gov https://www.usa.gov/help-with-bills; Brett Walton, Congress Adds $638 Million in Water-Bill Debt Relief to Coronavirus Package (Dec. 22, 2020), https://www.circleofblue.org/2020/world/congress-adds-638-million-in-water-bill-debt-relief-to-coronavirus-package/. 27 Congress took great pains to ensure that the Emergency Broadband Benefit was open to a broader range of individuals in need than Lifeline. In addition to Lifeline recipients, it made Pell recipients, students getting free/reduced school meals, and those financially harmed by the pandemic eligible for the Emergency Broadband Benefit."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0146::Escolaridade e letramento",
+   "unit_id": "W0146",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Chris Lewis",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "digital literacy",
+     "forma_encontrada": "Digital Literacy",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "Students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "digital literacy",
+     "forma_encontrada": "digital literacy",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 861,
+     "fim_corpo": 1713,
+     "trecho": "Over the life of Public Knowledge, we have testified before Congress; filed comments with various agencies, including the Federal Communications Commission; and written extensively about the need to ensure all Americans have access to affordable, reliable high-speed broadband. Before the pandemic, broadband was already the essential communications tool of the 21st century, but the pandemic has brought into clear focus just how essential broadband is, and how persistent the digital divide is. As schools have gone virtual, a lack of broadband access for schoolchildren means they are falling behind their peers. In fact, we know that going into this pandemic, approximately 17 million students lacked access to home internet.2 A lack of broadband access for working parents means they risk being unable to continue to provide for their families."
+    },
+    {
+     "inicio_corpo": 1713,
+     "fim_corpo": 2601,
+     "trecho": "A lack of broadband access for retired couples living in the many rural parts of our country means living in isolation because they cannot connect with loved ones. A lack of broadband access for many with pre-existing conditions means being unable to receive medical care because they cannot risk in-person care, nor access telehealth. Low-income, marginalized, and Tribal communities are particularly unlikely to be connected. Only 66% of African Americans and 61% of Hispanics report having broadband at 1 I would like to thank Jenna Leventoff and Greg Guice for their support in preparing this statement. 2 Hailly T.N Korman et. al, Missing in the Margins: Estimating the Scale of the COVID-19 Attendance Crisis (Oct. 21, 2020), https://bellwethereducation.org/publication/missing-margins-estimating-scale-covid-19-attendance-crisis#Why%20aren't%20students%20attending%20school?."
+    },
+    {
+     "inicio_corpo": 2439,
+     "fim_corpo": 3575,
+     "trecho": "21, 2020), https://bellwethereducation.org/publication/missing-margins-estimating-scale-covid-19-attendance-crisis#Why%20aren't%20students%20attending%20school?. home.3 On rural Tribal lands, less than half of residents have access to fixed broadband.4 The cost of broadband, a lack of devices and digital skills, and a pervasive problem of broadband providers investing less in broadband infrastructure in low-income and marginalized communities are to blame for this disparity. These inequities cannot remain, so I am here today to talk about how Congress can make sure that everyone gets connected to affordable, reliable, high-speed internet. I. Broadband Is an Essential Utility Just like water and electricity, broadband is an essential utility. Long before the COVID-19 crisis, Americans turned to broadband “for every facet of daily life.”5 Broadband provided students with academic support to meet their specific education needs; it offered veterans and others in remote areas a way to connect more often with their health care providers; and it was the primary place to find a job -- all before the COVID-19 crisis hit."
+    },
+    {
+     "inicio_corpo": 16247,
+     "fim_corpo": 17211,
+     "trecho": "20, 2020), https://www.publicknowledge.org/blog/the-fccs-new-initiative-punishes-states-that-have-tried-to-close-the-digital-divide/. 25 Consolidated Appropriations Act of 2021, H.R. 133 § 904 (2020). 26 Low Income Household Water Assistance Program, U.S. Department of Health & Human Services https://www.acf.hhs.gov/ocs/programs/lihwap; Help With Bills, USA Gov https://www.usa.gov/help-with-bills; Brett Walton, Congress Adds $638 Million in Water-Bill Debt Relief to Coronavirus Package (Dec. 22, 2020), https://www.circleofblue.org/2020/world/congress-adds-638-million-in-water-bill-debt-relief-to-coronavirus-package/. 27 Congress took great pains to ensure that the Emergency Broadband Benefit was open to a broader range of individuals in need than Lifeline. In addition to Lifeline recipients, it made Pell recipients, students getting free/reduced school meals, and those financially harmed by the pandemic eligible for the Emergency Broadband Benefit."
+    },
+    {
+     "inicio_corpo": 20723,
+     "fim_corpo": 21812,
+     "trecho": "06-122 (Jul. 15, 2020) (Noting that the current contributions mechanism places a “lopsided and unfair burden...on older Americans” and results “in a situation that is both unsustainable and unfair”). 29 See generally Michael Calabrese and Lester M. Salamon, “How to Close America’s Digital Equity Gaps: Toward a Digital Futures Foundation,” A Concept Note. (Baltimore, MD: Johns Hopkins Center for Civil Society Studies and Washington, DC: New America, April 2021). 30 Comcast’s Internet Essentials program provides 50/5 Mbps service for $9.99 a month. Internet Essentials, Internet Essentials by Comcast, https://www.internetessentials.com/; See also Spectrum Internet Assist, Spectrum, https://www.spectrum.com/internet/spectrum-internet-assist; Access from AT&T, AT&T, https://www.att.com/internet/access/. III. Congress Must Ensure Everyone has Access to a Device and Can Learn Digital Literacy Skills Even if broadband is available and affordable, some consumers may still be left behind because they lack a device or the digital skills necessary to meaningfully use the service."
+    },
+    {
+     "inicio_corpo": 23935,
+     "fim_corpo": 24682,
+     "trecho": "Unfortunately, that is not the case in America today. Not only are rural and Tribal communities unconnected, but many other low-income and marginalized communities also find themselves subject to slow, unreliable internet (if they have internet access at all), because internet service providers have determined they are uneconomic to serve. The same neighborhoods that were once redlined by 31 Monica Anderson, Mobile Technology and Home Broadband 2019, Pew Research Center (June 13, 2019), https://www.pewresearch.org/internet/2019/06/13/mobile-technology-and-home-broadband-2019/. 32 Brooke Auxier & Monica Anderson, As Schools Close Due to The Coronavirus, Some U.S. Students Face a Digital 'Homework Gap,' Pew Research Center Factank (Mar."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0146::Infraestrutura e porte populacional",
+   "unit_id": "W0146",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Chris Lewis",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10780,
+     "fim_corpo": 11637,
+     "trecho": "These studies demonstrate that we need more continual studies on the impact of competition on broadband prices and the quality of service. Luckily, the Lift America Act requires a biennial study of how competition impacts the price of broadband.19 This information can help policymakers better promote affordability and determine if and where consumers face monopoly pricing. Municipal networks can also promote competition. Many traditional providers don’t serve areas that do not promise sustained profitability over time, even with deployment funding, so federal funds should be used to encourage local broadband deployment by whatever means necessary. Congress and the FCC have been working to ensure access to broadband for the last two decades. It is no longer enough for us to tell these underserved communities that they must continue to wait."
+    },
+    {
+     "inicio_corpo": 13472,
+     "fim_corpo": 14339,
+     "trecho": "America Act) and should prioritize funding municipal broadband projects and other alternative providers (like co-ops).22 Deployment funding should also prioritize funding for “open access” infrastructure -- infrastructure that is built and owned by one entity (often local governments, but sometimes private companies) but leased by service providers. Open access projects create a competitive marketplace without adding significantly to the cost of deployment. For example, the municipally owned open access network launched in Ammon, Idaho, \"reduced the cost of a 1 Gbps connection available via one of the ISPs from $99 a month... to $9.99 a month.\"23 Finally, Congress should direct the FCC and other federal agencies to remove “overbuilding” restrictions from future deployment funding (although they may still prioritize funding completely unserved areas)."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0146::Renda e classe",
+   "unit_id": "W0146",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Chris Lewis",
+   "n_ocorrencias_no_par": 13,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 7,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "Low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "Low-Income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "Low Income",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1360,
+     "fim_corpo": 2143,
+     "trecho": "As schools have gone virtual, a lack of broadband access for schoolchildren means they are falling behind their peers. In fact, we know that going into this pandemic, approximately 17 million students lacked access to home internet.2 A lack of broadband access for working parents means they risk being unable to continue to provide for their families. A lack of broadband access for retired couples living in the many rural parts of our country means living in isolation because they cannot connect with loved ones. A lack of broadband access for many with pre-existing conditions means being unable to receive medical care because they cannot risk in-person care, nor access telehealth. Low-income, marginalized, and Tribal communities are particularly unlikely to be connected."
+    },
+    {
+     "inicio_corpo": 2049,
+     "fim_corpo": 2921,
+     "trecho": "Low-income, marginalized, and Tribal communities are particularly unlikely to be connected. Only 66% of African Americans and 61% of Hispanics report having broadband at 1 I would like to thank Jenna Leventoff and Greg Guice for their support in preparing this statement. 2 Hailly T.N Korman et. al, Missing in the Margins: Estimating the Scale of the COVID-19 Attendance Crisis (Oct. 21, 2020), https://bellwethereducation.org/publication/missing-margins-estimating-scale-covid-19-attendance-crisis#Why%20aren't%20students%20attending%20school?. home.3 On rural Tribal lands, less than half of residents have access to fixed broadband.4 The cost of broadband, a lack of devices and digital skills, and a pervasive problem of broadband providers investing less in broadband infrastructure in low-income and marginalized communities are to blame for this disparity."
+    },
+    {
+     "inicio_corpo": 7150,
+     "fim_corpo": 8090,
+     "trecho": "Doing so will lead to more ubiquitous, robust, reliable, and affordable broadband. II. Congress Must Ensure That Broadband Is Affordable Broadband in the United States is too expensive -- in fact, it’s among the most expensive in the world. According to New America’s Open Technology Institute, the average monthly price for fiber broadband averages $79.92 in the U.S., compared to just $47.63 in Europe.11 Furthermore, ancillary fees (like modem rental fees, data overages, and early termination fees) can add up to an additional 75% to the cost of monthly internet service.12 The high cost of broadband is one of the primary reasons why the United States has such a staggering digital divide. A 2019 survey of American households found the cost of broadband to be among the top reasons for households not subscribing to broadband service.13 This is why 35% of low-income households with schoolchildren do not have high-speed internet."
+    },
+    {
+     "inicio_corpo": 13828,
+     "fim_corpo": 15115,
+     "trecho": "Open access projects create a competitive marketplace without adding significantly to the cost of deployment. For example, the municipally owned open access network launched in Ammon, Idaho, \"reduced the cost of a 1 Gbps connection available via one of the ISPs from $99 a month... to $9.99 a month.\"23 Finally, Congress should direct the FCC and other federal agencies to remove “overbuilding” restrictions from future deployment funding (although they may still prioritize funding completely unserved areas). Overbuilding is just a synonym for competition or upgrades to local networks. To encourage competition and not discourage states from investing in broadband, we need to provide funding for these efforts.24 C. Congress Must Create a Long-Term Broadband Subsidy For Low-Income People Last year, Congress took an enormous step towards ensuring that low-income households and those struggling financially because of the pandemic can afford to connect by establishing the Emergency Broadband Connectivity Fund in the Consolidated Appropriations Act of 2021.25 The fund gave the FCC $3.2 billion to establish an emergency broadband benefit (EBB) which would provide eligible households with a $50 discount on their broadband service up to six months during the pandemic."
+    },
+    {
+     "inicio_corpo": 13828,
+     "fim_corpo": 15115,
+     "trecho": "Open access projects create a competitive marketplace without adding significantly to the cost of deployment. For example, the municipally owned open access network launched in Ammon, Idaho, \"reduced the cost of a 1 Gbps connection available via one of the ISPs from $99 a month... to $9.99 a month.\"23 Finally, Congress should direct the FCC and other federal agencies to remove “overbuilding” restrictions from future deployment funding (although they may still prioritize funding completely unserved areas). Overbuilding is just a synonym for competition or upgrades to local networks. To encourage competition and not discourage states from investing in broadband, we need to provide funding for these efforts.24 C. Congress Must Create a Long-Term Broadband Subsidy For Low-Income People Last year, Congress took an enormous step towards ensuring that low-income households and those struggling financially because of the pandemic can afford to connect by establishing the Emergency Broadband Connectivity Fund in the Consolidated Appropriations Act of 2021.25 The fund gave the FCC $3.2 billion to establish an emergency broadband benefit (EBB) which would provide eligible households with a $50 discount on their broadband service up to six months during the pandemic."
+    },
+    {
+     "inicio_corpo": 14339,
+     "fim_corpo": 15271,
+     "trecho": "Overbuilding is just a synonym for competition or upgrades to local networks. To encourage competition and not discourage states from investing in broadband, we need to provide funding for these efforts.24 C. Congress Must Create a Long-Term Broadband Subsidy For Low-Income People Last year, Congress took an enormous step towards ensuring that low-income households and those struggling financially because of the pandemic can afford to connect by establishing the Emergency Broadband Connectivity Fund in the Consolidated Appropriations Act of 2021.25 The fund gave the FCC $3.2 billion to establish an emergency broadband benefit (EBB) which would provide eligible households with a $50 discount on their broadband service up to six months during the pandemic. However, low-income consumers will still need assistance when the pandemic ends, even if the cost of broadband is eventually decreased through competition."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0146::Saúde",
+   "unit_id": "W0146",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Chris Lewis",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1141,
+     "fim_corpo": 2049,
+     "trecho": "Before the pandemic, broadband was already the essential communications tool of the 21st century, but the pandemic has brought into clear focus just how essential broadband is, and how persistent the digital divide is. As schools have gone virtual, a lack of broadband access for schoolchildren means they are falling behind their peers. In fact, we know that going into this pandemic, approximately 17 million students lacked access to home internet.2 A lack of broadband access for working parents means they risk being unable to continue to provide for their families. A lack of broadband access for retired couples living in the many rural parts of our country means living in isolation because they cannot connect with loved ones. A lack of broadband access for many with pre-existing conditions means being unable to receive medical care because they cannot risk in-person care, nor access telehealth."
+    },
+    {
+     "inicio_corpo": 21997,
+     "fim_corpo": 22838,
+     "trecho": "Thirty-one percent of non-broadband users cite the cost of a computer as one of the reasons they don’t have broadband at home.31 The problem is particularly stark for those living in marginalized communities. Latinx teens are twice as likely to say they don’t have access to a home computer.32 In order to ensure that everyone can get online, Congress must create policies (such as a voucher program) that make affordable and reliable devices available to everyone who needs them. In most cases, these programs should provide devices based on the needs of a household so that families don’t have to choose who gets to attend online classes or work remotely. Moreover, these programs should prioritize computers and tablets with keyboards. For most consumers, computers and tablets are best suited to homework, remote work, and telehealth."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0146::Territórios de povos e comunidades tradicionais",
+   "unit_id": "W0146",
+   "subcategoria": "Territórios de povos e comunidades tradicionais",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Chris Lewis",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "Tribal lands",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1877,
+     "fim_corpo": 2921,
+     "trecho": "A lack of broadband access for many with pre-existing conditions means being unable to receive medical care because they cannot risk in-person care, nor access telehealth. Low-income, marginalized, and Tribal communities are particularly unlikely to be connected. Only 66% of African Americans and 61% of Hispanics report having broadband at 1 I would like to thank Jenna Leventoff and Greg Guice for their support in preparing this statement. 2 Hailly T.N Korman et. al, Missing in the Margins: Estimating the Scale of the COVID-19 Attendance Crisis (Oct. 21, 2020), https://bellwethereducation.org/publication/missing-margins-estimating-scale-covid-19-attendance-crisis#Why%20aren't%20students%20attending%20school?. home.3 On rural Tribal lands, less than half of residents have access to fixed broadband.4 The cost of broadband, a lack of devices and digital skills, and a pervasive problem of broadband providers investing less in broadband infrastructure in low-income and marginalized communities are to blame for this disparity."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0146::Urbano e rural",
+   "unit_id": "W0146",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Chris Lewis",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1141,
+     "fim_corpo": 1877,
+     "trecho": "Before the pandemic, broadband was already the essential communications tool of the 21st century, but the pandemic has brought into clear focus just how essential broadband is, and how persistent the digital divide is. As schools have gone virtual, a lack of broadband access for schoolchildren means they are falling behind their peers. In fact, we know that going into this pandemic, approximately 17 million students lacked access to home internet.2 A lack of broadband access for working parents means they risk being unable to continue to provide for their families. A lack of broadband access for retired couples living in the many rural parts of our country means living in isolation because they cannot connect with loved ones."
+    },
+    {
+     "inicio_corpo": 1877,
+     "fim_corpo": 2921,
+     "trecho": "A lack of broadband access for many with pre-existing conditions means being unable to receive medical care because they cannot risk in-person care, nor access telehealth. Low-income, marginalized, and Tribal communities are particularly unlikely to be connected. Only 66% of African Americans and 61% of Hispanics report having broadband at 1 I would like to thank Jenna Leventoff and Greg Guice for their support in preparing this statement. 2 Hailly T.N Korman et. al, Missing in the Margins: Estimating the Scale of the COVID-19 Attendance Crisis (Oct. 21, 2020), https://bellwethereducation.org/publication/missing-margins-estimating-scale-covid-19-attendance-crisis#Why%20aren't%20students%20attending%20school?. home.3 On rural Tribal lands, less than half of residents have access to fixed broadband.4 The cost of broadband, a lack of devices and digital skills, and a pervasive problem of broadband providers investing less in broadband infrastructure in low-income and marginalized communities are to blame for this disparity."
+    },
+    {
+     "inicio_corpo": 23167,
+     "fim_corpo": 24277,
+     "trecho": "Congress must also pass legislation -- like the Digital Equity Act (included within the Lift America Act) -- intended to teach residents how to use devices and navigate the internet.34 According to the National Skills Coalition, one-third of Americans lack digital skills they need to successfully navigate digital devices.35 Others lack the skills they need to navigate the web. Congress must ensure that everyone is able to learn the skills they need to meaningfully connect. IV. Congress Must Ensure Universal Access to Affordable, Reliable, High Speed Internet by Banning Digital Redlining Access to affordable, reliable, high-speed internet must be available to everyone regardless of where they live, how much money they earn, or what they look like. Unfortunately, that is not the case in America today. Not only are rural and Tribal communities unconnected, but many other low-income and marginalized communities also find themselves subject to slow, unreliable internet (if they have internet access at all), because internet service providers have determined they are uneconomic to serve."
+    },
+    {
+     "inicio_corpo": 24968,
+     "fim_corpo": 25895,
+     "trecho": "12, 2018), https://docs.fcc.gov/public/attachments/DOC-349670A1.pdf. 34 Digital Equity Act, S. 1167, 116th Cong (2019); LIFT America Act § 11001. 35 National Skills Coalition, Applying a racial equity lens to digital literacy (March 20, 2020) https://www.nationalskillscoalition.org/resources/publications/file/Digital-Skills-Racial-Equity-Final.pdf. banks and insurance companies now face similar discrimination by ISPs, which adds to an already substantial digital divide. This practice of investing less in broadband infrastructure in low-income and marginalized communities is called “digital redlining.” There is documented evidence of digital redlining occuring in Cleveland, Oakland, Dallas, Detroit, and Kansas City -- and it’s likely far more widespread.36 Advocates suspect it happens at the outskirts of population centers in urban and rural areas, as well as in Tribal communities and marginalized communities."
+    },
+    {
+     "inicio_corpo": 29009,
+     "fim_corpo": 29868,
+     "trecho": "See Heather Morton, Statewide Video Franchising Statues, National Conference of State Legislators (May 31, 2019), https://www.ncsl.org/research/telecommunications-and-information-technology/statewide-video-franchising-statutes.aspx. 38 Ernesto Falcon et al., Frontier’s Bankruptcy Reveals Why Big ISPs Choose to Deny Fiber to So Much of America, Electronic Frontier Foundation (Apr. 30, 2020), https://www.eff.org/deeplinks/2020/04/frontiers-bankruptcy-reveals-cynical-choice-deny-profitable-fiber-millions 39 Ernesto Falcon, The FCC and States Must Ban Digital Redlining, Electronic Frontier Foundation (Jan. 11, 2021), https://www.eff.org/deeplinks/2021/01/fcc-and-states-must-ban-digital-redlining. income communities, marginalized communities, Tribal reservations, and rural communities can connect as reliably as their peers in wealthier communities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0146::Vínculo institucional",
+   "unit_id": "W0146",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Chris Lewis",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "veterans",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2601,
+     "fim_corpo": 3575,
+     "trecho": "home.3 On rural Tribal lands, less than half of residents have access to fixed broadband.4 The cost of broadband, a lack of devices and digital skills, and a pervasive problem of broadband providers investing less in broadband infrastructure in low-income and marginalized communities are to blame for this disparity. These inequities cannot remain, so I am here today to talk about how Congress can make sure that everyone gets connected to affordable, reliable, high-speed internet. I. Broadband Is an Essential Utility Just like water and electricity, broadband is an essential utility. Long before the COVID-19 crisis, Americans turned to broadband “for every facet of daily life.”5 Broadband provided students with academic support to meet their specific education needs; it offered veterans and others in remote areas a way to connect more often with their health care providers; and it was the primary place to find a job -- all before the COVID-19 crisis hit."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,431 @@
+# W0313 | Professor Monisha Ghosh | Argonne National Laboratory
+# 118th Congress | Senate | 2024-03-21
+# Hearings to examine spectrum and national security.
+# source: transcript jacket 61847
+
+STATEMENT OF PROFESSOR MONISHA GHOSH, DEPARTMENT OF ELECTRICAL 
+    ENGINEERING, UNIVERSITY OF NOTRE DAME; POLICY OUTREACH 
+ DIRECTOR, SPECTRUMX; RESEARCH PROFESSOR (ADJUNCT), UNIVERSITY 
+   OF CHICAGO; JOINT APPOINTMENT, ARGONNE NATIONAL LABORATORY
+
+    Dr. Ghosh. Thank you very much. Good morning, and I am 
+happy to testify today. Thank you for the opportunity. As you 
+said, I am a Professor of Electrical Engineering at the 
+University of Notre Dame.
+    I am also the Policy Outreach Director for Spectrum X, 
+which is the NSF funded center for spectrum innovation. I also 
+took two leaves of absence to serve in Government at the NSF 
+and as the CTO of the FCC.
+    I continue to be actively engaged with both industry and 
+Government in various capacities, and I hope to offer a 
+balanced perspective. The opinions expressed in this testimony 
+are my own and do not necessarily reflect the position of any 
+of the institutions with which I am affiliated.
+    So, spectrum policy that enhances U.S. national security is 
+one that satisfies the current and growing future spectrum 
+needs, not wants, of the commercial wireless sector, science, 
+and mission critical Federal applications. The U.S. leads by 
+using exclusively licensed, shared, and unlicensed mechanisms 
+as appropriate, depending on the use case.
+    Leadership in 5G and 6G, which is already under discussion, 
+extends beyond just making more exclusively licensed spectrum 
+available. 5G and 6G can also be deployed and shared in 
+unlicensed bands, where they are more likely to serve 
+innovative use cases beyond just mobile broadband.
+    Our leadership and security depend on us developing those 
+innovations before others do, making spectrum easily available, 
+for example, by using the licensed--unlicensed or shared 
+license model is crucial for this innovation to happen here.
+    Verticals such as factory automation, remote oilfield 
+monitoring, precision agriculture, community networks to serve 
+the underserved, and improved indoor coverage are just some of 
+the emerging applications that are crucial for our economic and 
+national security.
+    However, these are not well-served today by either cellular 
+or Wi-Fi and are increasingly moving to the shared spectrum 
+CBRS framework for affordable deployments.
+    CBRS uses something called Dynamic Spectrum Sharing, or 
+DSS, which refers to two or more different types of users, for 
+example, Federal radar and cellular networks, overlapping their 
+operations in frequency, time, and space, where one user is the 
+incumbent and has priority.
+    DSS may require systems to share information with each 
+other, employ databases, or sensing to ensure that the primary 
+user can continue to operate in the band without harmful 
+interference. It is becoming increasingly clear that DSS will 
+be an integral component of all future systems requiring access 
+to spectrum.
+    This is true of the U.S. and internationally. Spectrum is 
+getting congested everywhere in the world and the physics of 
+propagation remain the same. The innovative three tier sharing 
+adopted by the U.S. and CBRS has demonstrated conclusively that 
+spectrum can be shared successfully between mission critical 
+applications such as Navy radar and commercial applications.
+    At the same time, access to the spectrum using General 
+Authorized Access, or GAA, has allowed the innovations 
+mentioned earlier to develop. However, DSS needs to be more 
+scalable and truly dynamic to address the protection needs of 
+different types of incumbents in other bands.
+    Furthermore, 6G needs to be sharing native, that is 
+incorporate spectrum sharing mechanisms by design to coexist 
+with incumbent service providers, as stated by the white House 
+in its recent 6G statement.
+    Advanced approaches for DSS that leverage technologies such 
+as smart antennas need to be evaluated. Sensing, too, is a 
+fundamental technology that enables DSS. However, the separate 
+sensing network deployed for CBRS cannot protect incumbents 
+that are geographically more distributed than Navy radars.
+    We need to consider alternatives such as cooperative 
+distributed sensing approaches that perhaps leverage the dense 
+footprint of base stations and devices themselves. Improved 
+receivers and accurate definitions of harmful interference can 
+also lead to better spectrum sharing, as described in FCC's 
+recent policy statement.
+    Long term spectrum R&D is essential for the sustained 
+development and testing of DSS approaches in real world 
+environments to prove their robustness in protecting incumbents 
+in various bands.
+    NTIA's all of Government approach to the National Spectrum 
+Strategy and implementation plan is a necessary first step. I 
+urge this committee to consider ways that this long term R&D 
+into DSS can be adequately and sustainably funded in industry, 
+academia, and Government.
+    Finally, all of this requires that the FCC's auction 
+authority is restored. Even shared spectrum can be auctioned. 
+Thank you for the opportunity to share my views and I welcome 
+your questions.
+    [The prepared statement of Dr. Ghosh follows.]
+
+[...]
+
+Prepared Statement of Professor Monisha Ghosh, Department of Electrical 
+   Engineering, University of Notre Dame; Policy Outreach Director, 
+ SpectrumX; Research Professor (Adjunct), University of Chicago; Joint 
+                Appointment, Argonne National Laboratory
+    Good morning Chairwoman Cantwell and members of the Committee. 
+Thank you for the opportunity to testify today on the extremely timely 
+and important topic of spectrum policy and technologies and their 
+impact on national security.
+                              Introduction
+    My name is Monisha Ghosh, and I believe that I can offer a broad 
+and balanced perspective on the matters before this Committee, given my 
+years of experience working in the wireless industry, government 
+research and regulatory organizations, and academia.
+    To summarize my professional background, I am currently a Professor 
+of Electrical Engineering at the University of Notre Dame. I came to 
+academia in 2015 when I joined the University of Chicago after 24 years 
+working in industry on wireless research and development, at Philips 
+Research, Bell Labs and Interdigital, including contributing to the TV 
+White Spaces (TVWS), an early Dynamic Spectrum Sharing (DSS) effort 
+where we demonstrated the first cognitive radio that operated in the 
+TVWS while protecting incumbents. I took two recent leaves of absence 
+from academia to serve in government: 2017-2019, as a Program Manager 
+in the Computer and Network Systems (CNS) division of the Computer and 
+Information Science and Engineering (CISE) directorate at the National 
+Science Foundation (NSF), where I helped manage NSF's research programs 
+in spectrum and wireless and started the first program to study the 
+applications of artificial intelligence (AI) and machine learning (ML) 
+in wireless networks, and January 2020 to June 2021 as the Chief 
+Technology Officer (CTO) at the Federal Communications Commission 
+(FCC), where I worked primarily on helping craft the rules for 
+unlicensed access in the 6 GHz band and a pilot project with the U.S. 
+Postal Service (USPS), as directed by Congress, to examine the 
+feasibility of automatically gathering broadband coverage data using 
+apps on smartphones mounted in postal vehicles.\1\
+---------------------------------------------------------------------------
+    \1\ REPORT TO THE COMMITTEE ON COMMERCE, SCIENCE, AND 
+TRANSPORTATION OF THE SENATE AND THE COMMITTEE ON ENERGY AND COMMERCE 
+OF THE HOUSE OF REPRESENTATIVES https://www.fcc.gov/sites/default/
+files/report-congress-usps-broad
+band-data-collection-feasibility-05242021.pdf
+---------------------------------------------------------------------------
+    I continue to be actively engaged with both industry and government 
+as an academic. I have co-chaired the FCC's Technological Advisory 
+Council's (TAC) working group on Advanced Spectrum Sharing since 2022, 
+where we deliberate on technologies for advanced spectrum sharing. I am 
+also an active member of industry's NextG Alliance, developing 
+standards for 6G and beyond, and participated in the National Spectrum 
+Consortium's (NSC) Partnering to Advance Trusted and Holistic Spectrum 
+Solutions (PATHSS) Task Group which partnered with the Department of 
+Defense (DoD) to explore efficient sharing solutions in 3.1-3.45 GHz.
+    In addition, I am the Policy Outreach Director for SpectrumX,\2\ 
+NSF's Center for Spectrum Innovation, led by the Wireless Institute\3\ 
+in the College of Engineering at the University of Notre Dame. 
+SpectrumX was initiated in September 2021 with a five-year $25M NSF 
+grant that brings together 56 researchers and staff from 30 
+universities and a number of Minority Serving Institutions (MSIs) with 
+broad expertise spanning radio technologies, wireless terrestrial and 
+satellite networks, scientific uses of spectrum and economic 
+considerations related to spectrum allocations. A Memorandum of 
+Agreement (MOA) is in place among the NSF, FCC, and the National 
+Telecommunications and Information Administration (NTIA) to ensure that 
+the research undertaken in SpectrumX, and the NSF Spectrum Innovation 
+Initiative more broadly, can directly impact spectrum issues of 
+importance to the Nation. In addition to research, major focus areas of 
+the Center are broadening participation in spectrum research and 
+developing a workforce that can continue to expand U.S. leadership in 
+spectrum policy and wireless technologies.
+---------------------------------------------------------------------------
+    \2\ SpectrumX: https://www.spectrumx.org/
+    \3\ Wireless Institute at Notre Dame: https://wireless.nd.edu/
+---------------------------------------------------------------------------
+    Disclaimer: The opinions expressed in this testimony are my own and 
+do not necessarily reflect the positions of the various organizations 
+with which I am affiliated.
+                          Summary of testimony
+    I will focus my remarks today on the following three areas:
+
+  (1)  Spectrum Policy that enhances U.S. National Security. National 
+        security is ensured by leadership in spectrum policy and 
+        relevant technologies, not only in the commercial wireless 
+        sector but also in science (e.g., weather forecasting and 
+        radioastronomy) and mission-critical Federal applications. The 
+        spectrum needs of all these applications are growing, and the 
+        U.S should continue to lead by ensuring that policies and 
+        technologies that allow spectrum to be sustainably allocated to 
+        all uses are explored: exclusive licensing, shared usage and 
+        unlicensed, according to current and future spectrum needs, not 
+        wants. The use-cases that will be deployed should be carefully 
+        considered when spectrum is allocated under different licensing 
+        regimes: determining the right mix will deliver the appropriate 
+        policy that continues to ensure leadership.
+
+  (2)  Dynamic Spectrum Sharing (DSS), or Dynamic Spectrum Access (DSA) 
+        refers to two or more different types of users, e.g., 
+        television and unlicensed wireless devices or Federal radar and 
+        cellular networks operating over the same frequencies at the 
+        same time and in the same geographical area. Usually, a primary 
+        user, or incumbent, has priority in the band, unlike unlicensed 
+        bands where all users are treated as co-equals. DSS may require 
+        systems to share information with each other, employ databases 
+        or sensing to ensure that the primary user is protected from 
+        harmful interference. It is becoming increasingly clear that 
+        DSS will be an integral component of all future systems 
+        requiring access to spectrum. This is true in the U.S. and 
+        internationally: spectrum is getting congested everywhere in 
+        the world since the physics of propagation remains the same. 
+        The innovative 3-tier sharing adopted by the U.S. in the 
+        Citizens Broadband Radio Service (CBRS) has demonstrated 
+        conclusively that spectrum can be shared successfully between 
+        mission-critical applications such as Navy radar and commercial 
+        applications. The CBRS framework, by making easily available 
+        spectrum under GAA (General Authorized Access), has also 
+        spurred innovative use cases that are not well served by either 
+        Wi-Fi or operator-deployed cellular networks. However, we need 
+        to develop sharing technology further to be more scalable and 
+        truly dynamic to address the protection needs of different 
+        types of incumbents. In addition to creating spectrum policy to 
+        support DSS, the next generation of cellular technology, 6G, 
+        that is already under discussion worldwide, needs to be 
+        ``sharing native,'' i.e., ``incorporate spectrum sharing 
+        mechanisms by design to coexist with incumbent service 
+        providers'' \4\ as stated by the White House.
+---------------------------------------------------------------------------
+    \4\ White House Joint Statement Endorsing Principle For 6G: Secure, 
+Open and Resilient by Design, https://www.whitehouse.gov/briefing-room/
+statements-releases/2024/02/26/joint-statement-endorsing-principles-
+for-6g-secure-open-and-resilient-by-design/
+
+  (3)  Long term spectrum research and development is essential for the 
+        U.S. to continue leading the world in delivering innovative 
+        spectrum policies and technologies. The NTIA recently released 
+        the National Spectrum Strategy (NSS) \5\ and the Implementation 
+        Plan,\6\ thoughtfully written documents laying out a 
+        collaborative agenda that includes industry, government and 
+        academia for addressing immediate spectrum challenges as well 
+        as developing long-term planning, research and development 
+        (R&D), and education and workforce development (EWD). Many of 
+        the outcomes listed in the plan detail how the NSF through its 
+        spectrum initiatives, including SpectrumX, can address the 
+        needs of data collection, experimentation and testbeds, and 
+        developing educational activities. In order for such R&D 
+        efforts to impact policy in the near term and to be 
+        transformative in the long term, adequate funding needs to be 
+        prioritized for collaborative efforts between industry, 
+        academia and government to continue to grow.
+---------------------------------------------------------------------------
+    \5\ NTIA National Spectrum Strategy, https://www.ntia.gov/sites/
+default/files/publications/national_spectrum_strategy_final.pdf
+    \6\ NTIA National Spectrum Strategy Implementation Plan, https://
+www.ntia.gov/sites/default/files/publications/national-spectrum-
+strategy-implementation-plan.pdf
+---------------------------------------------------------------------------
+                           Detailed testimony
+  (1)  Spectrum Policy that Enhances National Security
+      The U.S. has long led the world in innovative spectrum policies 
+        from allocating spectrum for unlicensed services in the 
+        eighties, to developing auction mechanisms in the nineties and 
+        now exploring sharing mechanisms in the new century. These 
+        innovations have spurred economic vitality not just in the 
+        U.S., but worldwide. Although commercial wireless expansion is 
+        extremely important, we also need to ensure that services that 
+        are critical to our Nation's security continue to have priority 
+        access to the spectrum that is indispensable to their 
+        operations and mission, such as radars (land, sea and airborne) 
+        for defense, weather, and aviation; dedicated terrestrial, 
+        ground-to-air, and ground-to-space communication links; 
+        position, navigation, and timing systems including GPS; 
+        environmental remote sensing satellites; and radio telescopes. 
+        Furthermore, commercial wireless use cases are growing beyond 
+        conventional mobile broadband and Wi-Fi to include verticals 
+        such as factory automation, remote oil-field monitoring, 
+        precision agriculture, community networks to serve the 
+        underserved and to provide improved indoor coverage; these 
+        emerging applications are not well served today by either Wi-Fi 
+        or cellular and are increasingly moving to the shared spectrum 
+        framework available in the CBRS band for affordable 
+        deployments.\7\
+---------------------------------------------------------------------------
+    \7\ OnGo Alliance Use Cases for CBRS, https://ongoalliance.org/
+ongo-solutions/
+
+      High-power, exclusively licensed spectrum will continue to be the 
+        backbone for delivery of wide-area mobile broadband coverage 
+        outdoors, while Wi-Fi will continue to utilize the unlicensed 
+        bands for indoor use and short-range outdoor use. However, true 
+        sharing, where systems occupy the same spectrum in time and 
+        space, is extremely challenging when, for example, megawatt 
+        airborne radars and high-power outdoor base stations operating 
+        at hundreds of kilowatts need to coexist. On the other hand, 
+        sharing may be easier with low/medium power systems deployed 
+        indoors or at lower heights. It is widely recognized that 80 
+        percent of all data either originates or terminates indoors,\8\ 
+        which further accentuates the need to improve indoor 
+        connectivity. Leveraging the natural RF isolation provided by 
+        buildings, especially newer energy-efficient buildings with 
+        low-E glass, can lead to spectrum sharing where the same 
+        spectrum that is used by high-power outdoor incumbents can be 
+        reused by indoor systems. This is similar to 6 GHz unlicensed 
+        usage in the U.S., but the model can be extended to shared 
+        licensed use as well. In fact, the neutral-host model deployed 
+        using CBRS indoors accomplishes this today\9\ and China, too, 
+        has allocated the 3.3-3.4 GHz band for shared indoor use.\10\ 
+        However, as detailed in my comments presented at the NTIA's 
+        listening session in April 2023, the amount of shared spectrum 
+        available today, 150 MHz, is far lower than the total mid-band 
+        spectrum allocated for exclusively licensed use ( 600 MHz) and 
+        unlicensed spectrum (1900 MHz) \11\ and may not be enough to 
+        fully support the many innovative use-cases that are being 
+        developed. Our European allies have recognized the value of 
+        low/medium power shared licensing and are expanding usage by 
+        400 MHz in 3.8-4.2 MHz.\12\ It should be noted though that 
+        these allocations do not leverage DSS, which can further 
+        improve spectrum utilization by sharing spectrum with primary 
+        as well as secondary users.
+---------------------------------------------------------------------------
+    \8\ A 5G America's Whitepaper on Energy Efficiency and 
+Sustainability in Mobile Communications Networks, December 2023, 
+https://www.5gamericas.org/wp-content/uploads/2023/12/Energy-
+Efficiency-and-Sustainability-in-Mobile-Communications-Networks-WP.pdf
+    \9\ 5 Bars Indoor For Everyone--The Power of CBRS and Neutral Hosts 
+in Wireless Networks, https://ongoalliance.org/5-bars-indoor-for-
+everyonethe-power-of-cbrs-and-neutral-hosts-in-wireless-networks/
+    \10\ China Issues 5G Spectrum Licenses For Indoor Coverage, 
+February 2020, https://www.gsma.com/futurenetworks/5g/china-issues-5g-
+spectrum-licences-for-indoor-coverage/
+    \11\ Comments of Professor Ghosh at the NTIA Listening, April 17 
+2023, https://ntia.gov/sites/default/files/publications/ghosh.pdf
+    \12\ Ofcom, Evolution of the Shared Access Licence Framework, Call 
+For Inputs, https://www.ofcom.org.uk/data/assets/pdf_file/0032/255965/
+call-for-inputs-evolution-of-shared-access.pdf
+
+  (2)  Dynamic Spectrum Sharing (DSS) needs to consider both co-and 
+        adjacent-channel interference concerns of incumbents. There is 
+        no one-size-fits all solution to these potential interference 
+        scenarios. Sound spectrum policy should be based on fundamental 
+        technical analyses, measurements and testing which includes all 
+        stakeholders, such as the Federal agencies (e.g., FCC and NTIA) 
+        and spectrum stakeholders (commercial wireless, DoD, 
+        scientists). Most of the current spectrum allocations that 
+        share between incumbent services and new entrants (e.g., 
+        Television White Spaces (TVWS), 6 GHz and CBRS) employ some 
+        variants of a spectrum-use database to assign channels so that 
+        the incumbent is protected. These methods rely on predicted 
+        propagation and interference based on models, and often do not 
+        take into account many of the details of the systems that will 
+        coexist in the band. Interference protection contours are thus 
+        often set to satisfy worst-case interference scenarios which 
+        may have a low probability of occurrence resulting in 
+        overprotection and spectrum-underutilization. Database-mediated 
+        sharing is a proven technique for a number of frequency bands, 
+        but may not be suitable for all situations since this method is 
+        inherently less dynamic and does not react in a timely fashion 
+        to actual propagation and interference conditions. The FCC TAC 
+        in 2022 published a whitepaper on lessons learnt from CBRS \13\ 
+        that summarizes how future centralized spectrum management 
+        systems based on databases could be improved and become more 
+        dynamic. The Advanced Spectrum Sharing Working group will 
+        continue addressing DSS under the new FCC TAC charter.\14\
+---------------------------------------------------------------------------
+    \13\ Recommendations to the FCC Based on Lessons Learned from CBRS, 
+FCC TAC, December 2022, https://www.fcc.gov/sites/default/files/
+recommendations_to_the_federal_communications
+_commission_based_on_lessons_learned_from_cbrs.pdf
+    \14\ FCC 2024-2025 Working Groups Charter, https://www.fcc.gov/
+sites/default/files/2024
+%20TAC%20WG%20Charters.pdf
+
+      More advanced technical approaches for DSS can be developed that 
+        leverage specific characteristics. For example, modern wireless 
+        systems, both cellular and Wi-Fi, use smart antenna array 
+        systems that tailor the transmitted energy optimally in 3-
+        dimensional space towards intended users. The same systems 
+        could also be adapted to steer energy away from incumbent 
+        systems. Such approaches require changes in 6G and beyond 
+        standards to be ``sharing native'', i.e., designed from the 
+        very beginning to operate in shared frequency bands with 
+        incumbents instead of solely in licensed or unlicensed bands 
+        where deployed systems utilize standards that do not account 
+        for incumbent use: an exception is Dynamic Frequency Selection 
+        (DFS) in Wi-Fi bands with incumbent Federal radars. Sensing is 
+        an integral technology that enables DSS, however, the separate 
+        sensing network deployed for CBRS cannot protect incumbents 
+        that are geographically more distributed than Navy radars: we 
+        need to develop distributed sensing approaches that leverage 
+        the dense footprint of base-stations and devices to develop 
+        cooperative sensing approaches to detect incumbents. Improved 
+        receivers and accurate definitions of ``harmful interference'' 
+        can also lead to better spectrum sharing as described in FCC's 
+        recent policy statement.\15\
+---------------------------------------------------------------------------
+    \15\ Policy Statement, Promoting Efficient Use of Spectrum through 
+Improved Receiver Interference Immunity Performance, https://
+docs.fcc.gov/public/attachments/FCC-23-27A1.pdf
+
+  (3)  Long term spectrum research and development is essential for 
+        sustained development and testing of DSS approaches in real-
+        world environments to prove their robustness in protecting 
+        incumbents in various bands. The 7.125-8.4 GHz band has a very 
+        different mix of incumbent users compared to 3.1-3.45 GHz and 
+        may require different approaches. The NSS Implementation Plan 
+        lays out very concrete steps to address these issues, but the 
+        longest-term deliverable is set for November 2027. DSS R&D 
+        efforts will most definitely need to continue beyond this. 
+        While the 3.1-3.45 GHz has been studied for a few years within 
+        PATHSS, the 7.125-8.4 GHz band requires in-depth analysis into 
+        incumbent use, propagation mechanisms and possible use-cases. I 
+        urge this Committee to consider ways that this long-term R&D 
+        into DSS can be adequately and sustainably funded in industry, 
+        academia and government. Furthermore, as demands on spectrum 
+        from all users continue to grow, new bands will need to be 
+        continually evaluated for sharing and perhaps new sharing 
+        modalities developed.
+                           Concluding Remarks
+    The U.S. leads the world today in innovations in spectrum policy 
+that have delivered wireless applications that impact all aspects of 
+our life, from broadband connectivity to national security and 
+scientific breakthroughs. This leadership must continue to ensure that 
+all options are evaluated to create a sustainable spectrum strategy for 
+every system that requires access to spectrum. Dynamic Spectrum Sharing 
+is a key technological innovation that was conceived of and first 
+implemented in the U.S.; however, we must continue the innovations to 
+ensure that both policies and technologies lead to the development of a 
+truly sharing-native wireless ecosystem that continues to serve all 
+needs.
+    I thank you for the opportunity to share my thoughts on this very 
+important topic and welcome any questions.
+
+    The Chair. Thank you so much. We will now turn to Ms. 
+Brown. Welcome. Thank you so much for being here. I am sure you 
+will introduce herself a little more detailed but thank you so 
+much for your leadership at Wi-Fi Forward.

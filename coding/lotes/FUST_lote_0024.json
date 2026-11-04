@@ -1,0 +1,907 @@
+{
+ "caso": "FUST",
+ "lote": 24,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0146::Renda e classe",
+   "unit_id": "S0146",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-14",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "carentes",
+     "forma_encontrada": "carentes",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9953,
+     "fim_corpo": 10893,
+     "trecho": "Enquanto que no Brasil a oferta de crédito representa algo em torno de 28% do PIB, na Tailândia representa 115%; na Coréia do Sul, 74%; e na Indonésia, 51%. Ainda segundo a reportagem, se tomarmos as taxas básicas de juros praticadas pelos bancos centrais de todo o mundo, descontada a inflação, a nossa só é ligeiramente superada pelas da Argentina e da Indonésia. E não é só isso, Sr. Presidente: a nossa taxa básica de juros é 3,7 vezes maior que a do Chile e 4,7 vezes maior que a do México, países latino-americanos com características muito próximas à nossa realidade. Quanto ao crédito pessoal, no caso das financeiras, chegamos a suportar taxas de 293% ao ano, sem falar naquelas praticadas pelos agiotas, que também estão presentes principalmente nas áreas mais pobres e carentes do nosso País, nas periferias dos grandes centros urbanos, para onde precisamos levar as instituições de microcrédito, o famoso banco do povo."
+    },
+    {
+     "inicio_corpo": 9953,
+     "fim_corpo": 10893,
+     "trecho": "Enquanto que no Brasil a oferta de crédito representa algo em torno de 28% do PIB, na Tailândia representa 115%; na Coréia do Sul, 74%; e na Indonésia, 51%. Ainda segundo a reportagem, se tomarmos as taxas básicas de juros praticadas pelos bancos centrais de todo o mundo, descontada a inflação, a nossa só é ligeiramente superada pelas da Argentina e da Indonésia. E não é só isso, Sr. Presidente: a nossa taxa básica de juros é 3,7 vezes maior que a do Chile e 4,7 vezes maior que a do México, países latino-americanos com características muito próximas à nossa realidade. Quanto ao crédito pessoal, no caso das financeiras, chegamos a suportar taxas de 293% ao ano, sem falar naquelas praticadas pelos agiotas, que também estão presentes principalmente nas áreas mais pobres e carentes do nosso País, nas periferias dos grandes centros urbanos, para onde precisamos levar as instituições de microcrédito, o famoso banco do povo."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0146::Território intraurbano",
+   "unit_id": "S0146",
+   "subcategoria": "Território intraurbano",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-14",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "periferias",
+     "forma_encontrada": "periferias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9953,
+     "fim_corpo": 10893,
+     "trecho": "Enquanto que no Brasil a oferta de crédito representa algo em torno de 28% do PIB, na Tailândia representa 115%; na Coréia do Sul, 74%; e na Indonésia, 51%. Ainda segundo a reportagem, se tomarmos as taxas básicas de juros praticadas pelos bancos centrais de todo o mundo, descontada a inflação, a nossa só é ligeiramente superada pelas da Argentina e da Indonésia. E não é só isso, Sr. Presidente: a nossa taxa básica de juros é 3,7 vezes maior que a do Chile e 4,7 vezes maior que a do México, países latino-americanos com características muito próximas à nossa realidade. Quanto ao crédito pessoal, no caso das financeiras, chegamos a suportar taxas de 293% ao ano, sem falar naquelas praticadas pelos agiotas, que também estão presentes principalmente nas áreas mais pobres e carentes do nosso País, nas periferias dos grandes centros urbanos, para onde precisamos levar as instituições de microcrédito, o famoso banco do povo."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0147::Macrorregião",
+   "unit_id": "S0147",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-14",
+   "orador": "Ernandes Amorim",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 355,
+     "trecho": "O SR. ERNANDES AMORIM (PPB - RO) - Sr. Presidente, Sr as e Srs. Senadores, os fundos constitucionais de financiamentos do Norte (FNO) e do Centro-Oeste (FCO) criados pela Constituição de 1998 para reduzir as desigualdades regionais possuem elevado montante de recursos não aplicados que implica em \"ociosidade de recursos públicos destinados ao crédito\"."
+    },
+    {
+     "inicio_corpo": 2977,
+     "fim_corpo": 3420,
+     "trecho": "Permito-me ainda citar também a manifestação do nosso eminente colega Senador Lúcio Alcântara quanto ao FNO \"existem pontos que devem ser aperfeiçoados nos fundos. É preciso corrigir a distribuição e a eficiência na destinação desses recursos públicos. Porém é preciso preservar os fundos que têm muitos inimigos\", afirmou o nosso colega, apresentando dados que demonstram que o Banco do Nordeste vem apoiando a micro e pequena empresa."
+    },
+    {
+     "inicio_corpo": 5087,
+     "fim_corpo": 6563,
+     "trecho": "Ao contrário de ajudar as regiões mais atrasadas, essas distorções no sistema de financiamento acabam é agravando a situação daqueles que são obrigados a irem atrás desses recursos. O problema é tão agudo, que levou alguns produtores a dispensar o dinheiro do FNO e FCO para negociar suas dívidas diretamente com as empresas que vendem equipamentos e fornecedores de insumos. Um procedimento onde o poder de barganha de quem precisa do crédito é sempre menor. Com a vinda do competente Dr. Andrea Calabi, Presidente do BNDES a esta Casa, tivemos a oportunidade de debater com ele a questão dos investimentos da instituição na região Norte, onde pedimos ao Sr. Presidente um tratamento habitual aos nossos projetos, criando, se possível, uma superintendência regional, dirigido por alguém identificado com as peculiaridades da região Norte, que estudaria os nossos projetos à luz da nossa realidade, e não empregando os critérios utilizados para a região Sul e Sudeste. Reorganizar esses fundos é um imperativo de justiça, até porque recoloca esse instrumento de acordo com os ideais que ensejaram sua criação e dar um basta aos desvios dos recursos públicos, uma forte ação para a definitiva conclusão das obras e a punição aos maus profissionais e aos profissionais dos desvios do dinheiro do povo, que mantém empresas falidas e pessoas físicas vivendo nababescamente a custa dos fundos constitucionais. Era o que tinha a dizer. ¿ ø"
+    },
+    {
+     "inicio_corpo": 5087,
+     "fim_corpo": 6563,
+     "trecho": "Ao contrário de ajudar as regiões mais atrasadas, essas distorções no sistema de financiamento acabam é agravando a situação daqueles que são obrigados a irem atrás desses recursos. O problema é tão agudo, que levou alguns produtores a dispensar o dinheiro do FNO e FCO para negociar suas dívidas diretamente com as empresas que vendem equipamentos e fornecedores de insumos. Um procedimento onde o poder de barganha de quem precisa do crédito é sempre menor. Com a vinda do competente Dr. Andrea Calabi, Presidente do BNDES a esta Casa, tivemos a oportunidade de debater com ele a questão dos investimentos da instituição na região Norte, onde pedimos ao Sr. Presidente um tratamento habitual aos nossos projetos, criando, se possível, uma superintendência regional, dirigido por alguém identificado com as peculiaridades da região Norte, que estudaria os nossos projetos à luz da nossa realidade, e não empregando os critérios utilizados para a região Sul e Sudeste. Reorganizar esses fundos é um imperativo de justiça, até porque recoloca esse instrumento de acordo com os ideais que ensejaram sua criação e dar um basta aos desvios dos recursos públicos, uma forte ação para a definitiva conclusão das obras e a punição aos maus profissionais e aos profissionais dos desvios do dinheiro do povo, que mantém empresas falidas e pessoas físicas vivendo nababescamente a custa dos fundos constitucionais. Era o que tinha a dizer. ¿ ø"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0147::Renda e classe",
+   "unit_id": "S0147",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-14",
+   "orador": "Ernandes Amorim",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "carentes",
+     "forma_encontrada": "carentes",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3890,
+     "fim_corpo": 4551,
+     "trecho": "A política econômica levada a efeito pelos economistas do Governo Federal costuma ser pontuada por detalhes que, pela distorção, chegam a assombrar. Pelo irrealismo causa mesmo dúvida porque se mantém tamanha aberração e disparate. Nessa linha do absurdo encontram-se os fundos constitucionais, instrumentos criados, creio eu, sob a égide de que seriam para corrigir distorções regionais. Ou seja, uma medida para tentar diminuir as desigualdades e diferenças que tanto marcam negativamente a nossa pátria, que possui regiões ricas e desenvolvidas exemplo do Sul e Sudeste, lado a lado com outras pobres e carentes, como é o caso do meu Estado, Rondônia."
+    },
+    {
+     "inicio_corpo": 3890,
+     "fim_corpo": 4551,
+     "trecho": "A política econômica levada a efeito pelos economistas do Governo Federal costuma ser pontuada por detalhes que, pela distorção, chegam a assombrar. Pelo irrealismo causa mesmo dúvida porque se mantém tamanha aberração e disparate. Nessa linha do absurdo encontram-se os fundos constitucionais, instrumentos criados, creio eu, sob a égide de que seriam para corrigir distorções regionais. Ou seja, uma medida para tentar diminuir as desigualdades e diferenças que tanto marcam negativamente a nossa pátria, que possui regiões ricas e desenvolvidas exemplo do Sul e Sudeste, lado a lado com outras pobres e carentes, como é o caso do meu Estado, Rondônia."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0148::Domicílio e arranjo familiar",
+   "unit_id": "S0148",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-21",
+   "orador": "Antero Paes de Barros",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8508,
+     "fim_corpo": 9384,
+     "trecho": "Somente assim, esses recursos e esses investimentos na área ambiental trarão resultados satisfatórios ao Pantanal em Mato Grosso e Mato Grosso do Sul. Aproveito o final do meu tempo, Sr. Presidente, para registrar o Opinião Tucana em função dos últimos acontecimentos que têm trazido tantas controvérsias ao noticiário político do Brasil. Faço questão de lê-lo para que fique registrada nos Anais do Senado da República: O PSDB deu mais uma demonstração de unidade, autonomia, competência e articulação política ao se tornar o partido com a maior bancada na Câmara dos Deputados, com 103 parlamentares. Além disso, o PSDB formou um bloco parlamentar com o PTB, o que o credencia, regimentalmente, para ocupar a presidência de importantes comissões como as de Constituição e Justiça e a Mista de Orçamento, e para reivindicar a presidência da Câmara dos Deputados."
+    },
+    {
+     "inicio_corpo": 8508,
+     "fim_corpo": 9384,
+     "trecho": "Somente assim, esses recursos e esses investimentos na área ambiental trarão resultados satisfatórios ao Pantanal em Mato Grosso e Mato Grosso do Sul. Aproveito o final do meu tempo, Sr. Presidente, para registrar o Opinião Tucana em função dos últimos acontecimentos que têm trazido tantas controvérsias ao noticiário político do Brasil. Faço questão de lê-lo para que fique registrada nos Anais do Senado da República: O PSDB deu mais uma demonstração de unidade, autonomia, competência e articulação política ao se tornar o partido com a maior bancada na Câmara dos Deputados, com 103 parlamentares. Além disso, o PSDB formou um bloco parlamentar com o PTB, o que o credencia, regimentalmente, para ocupar a presidência de importantes comissões como as de Constituição e Justiça e a Mista de Orçamento, e para reivindicar a presidência da Câmara dos Deputados."
+    },
+    {
+     "inicio_corpo": 9927,
+     "fim_corpo": 10801,
+     "trecho": "Sempre respeitou a opção dos que saíram, mesmo que a entendesse como equivocada. Jamais os criticou. Mesmo nos momentos em que renunciou a legítimas pretensões partidárias, o PSDB soube manter a serenidade e o total compromisso com os interesses maiores do País e nunca usou de instrumentos infelizmente comuns na política partidária nacional – que vão da demagogia leviana e da ameaça irresponsável à simples chantagem. Por diversas vezes o PSDB abriu mão de legítimas reivindicações partidárias em favor dos partidos aliados da base governista – por exemplo, deixou de lançar candidaturas majoritárias em diversos Estados, nas eleições de 98, e apoiou Inocêncio de Oliveira (PFL), Luís Eduardo Magalhães (PFL) e Michel Temer (PMDB) para a Presidência da Câmara dos Deputados; e José Sarney (PMDB) e Antônio Carlos Magalhães (PFL) para a do Senado Federal."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0148::Posição no trabalho",
+   "unit_id": "S0148",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-21",
+   "orador": "Antero Paes de Barros",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "Trabalhador",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6932,
+     "fim_corpo": 7764,
+     "trecho": "O Presidente Fernando Henrique, apoiando o Mato Grosso do Sul, apoiando o Estado de Mato Grosso, está federalizando recursos da ordem de US$400 milhões para aplicar no BID-Pantanal. Esse programa é a salvação do Pantanal de Mato Grosso, esse programa vai estabelecer o saneamento básico para proteger o Pantanal, que é tanto de Mato Grosso quanto de Mato Grosso do Sul, porque o Pantanal é um só. Sr. Presidente, entendemos que, para dar certo, esse projeto precisa implantar uma moratória na atividade pesqueira do Estado. É evidente que, além disso, estamos propondo também que se faça um levantamento de quantos e quais são os pescadores profissionais, que se estabeleça, com recursos do FAT, do Fundo do Amparo ao Trabalhador, um salário para que esses pescadores profissionais possam realmente sobreviver durante esse período."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0148::Raça e etnia",
+   "unit_id": "S0148",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-21",
+   "orador": "Antero Paes de Barros",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "indígenas",
+     "forma_encontrada": "indígenas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "indígenas",
+     "forma_encontrada": "indígenas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "índio",
+     "forma_encontrada": "índio",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2168,
+     "fim_corpo": 3225,
+     "trecho": "Exª um aparte? O SR. ANTERO PAES DE BARROS (PSDB - MT) – Ouço V. Exª com prazer. O Sr. Romero Jucá (PSDB - RR) – Caro Senador Antero Paes de Barros, V. Exª relata com muita propriedade os avanços que a área das comunicações tem atingido, chegando a regiões mais distantes. Como bem disse V. Exª, lembro que esse, de fato, era um compromisso do ex-Ministro Sérgio Motta e do Presidente Fernando Henrique assumido ainda na época das discussões acerca do processo de privatização. Além de ressaltar essas conquistas e aplaudir o discurso de V. Exª, recordo que há no Senado Federal, para votação, o Fundo de Universalização de Serviços de Telecomunicações – FUST -, que está na Comissão de Serviços de Infra-Estrutura do Senado. Esse fundo permitirá, ainda mais, que as telecomunicações possam chegar aos locais mais distantes do nosso País – às aldeias indígenas, às pequenas vilas de Roraima, do Acre, do interior de Goiás, enfim àquelas localidades onde infelizmente a implantação de sistema de telefonia não é rentável, por baixa movimentação."
+    },
+    {
+     "inicio_corpo": 2906,
+     "fim_corpo": 3790,
+     "trecho": "Esse fundo permitirá, ainda mais, que as telecomunicações possam chegar aos locais mais distantes do nosso País – às aldeias indígenas, às pequenas vilas de Roraima, do Acre, do interior de Goiás, enfim àquelas localidades onde infelizmente a implantação de sistema de telefonia não é rentável, por baixa movimentação. O FUST – Fundo de Universalização de Serviços de Telecomunicações – irá fazer com que as empresas possam investir nessas localidades. Portanto, além de todo o avanço que já conseguimos, sem dúvida nenhuma o funcionamento do FUST vai fazer com que tenhamos condição de ampliar, de forma muito forte, essa ação. Na semana passada, o Ministro Pimenta da Veiga, numa demonstração em sentido figurado, afirmou, em entrevista coletiva, que as aldeias indígenas do Brasil teriam sistema de telefonia, porque é isso que prevê o investimento desse fundo de universalização."
+    },
+    {
+     "inicio_corpo": 3225,
+     "fim_corpo": 4196,
+     "trecho": "O FUST – Fundo de Universalização de Serviços de Telecomunicações – irá fazer com que as empresas possam investir nessas localidades. Portanto, além de todo o avanço que já conseguimos, sem dúvida nenhuma o funcionamento do FUST vai fazer com que tenhamos condição de ampliar, de forma muito forte, essa ação. Na semana passada, o Ministro Pimenta da Veiga, numa demonstração em sentido figurado, afirmou, em entrevista coletiva, que as aldeias indígenas do Brasil teriam sistema de telefonia, porque é isso que prevê o investimento desse fundo de universalização. Portanto, se muito já foi feito, temos agora que aprovar o FUST, e essa é uma atribuição do Senado. Então temos que conclamar os parceiros Sr.ªs e Srs. Senadores para que, ainda no mês de março, tenhamos condição de aprovar esse fundo e, aí sim, tenhamos prazo, tempo e recurso para levar até o pequeno agricultor, até o índio, até o pequeno produtor do interior do Brasil um serviço que hoje ele não tem."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0148::Urbano e rural",
+   "unit_id": "S0148",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-21",
+   "orador": "Antero Paes de Barros",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "Campo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4196,
+     "fim_corpo": 4933,
+     "trecho": "Quero parabenizar V. Ex.ª pelo seu discurso e registrar que, sem dúvida nenhuma, o Ministro Pimenta da Veiga, bem como o ex-Ministro Sérgio Motta, com toda a sua luta, com toda a sua garra, e o Presidente Fernando Henrique Cardoso estão cumprindo aquilo a que se propuseram quando traçaram os planos do sistema de telecomunicações para o País. O SR. ANTERO PAES DE BARROS (PSDB - MT) – Agradeço a V. Ex.ª o aparte que incorporo ao meu pronunciamento, inclusive para que sirva de alerta à necessidade de o Senado da República aprovar o Fundo para as Telecomunicações no Brasil. Outro assunto, Sr. Presidente. Esteve também em nosso Estado, lançando o Programa Luz no Campo, o Ministro das Minas e Energia, Rodolpho Tourinho ."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0149::Macrorregião",
+   "unit_id": "S0149",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-22",
+   "orador": "Ernandes Amorim",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 848,
+     "trecho": "O SR. ERNANDES AMORIM (PPB – RO. Para comunicação inadiável. Sem revisão do orador.) - Sr. Presidente, Srªs. e Srs. Senadores, neste fim-de-semana estive em Porto Velho, e visitei as cidades de Ariquenes, Jiparaná e Vilhena, onde pude verificar, devido as numerosas demissões e tendo em vista a falta de opções existente no meu Estado, certa inquietação da população, que já conta com mais de 10 mil desempregos, inclusive com a possibilidade de aumento desse índice. Portanto, Sr. Presidente, chamo a atenção das autoridades competentes para a necessidade de o Governo Federal e o Ministério da Agricultura nos apoiar. Veja V. Exª que no Município de Vilhena, região norte do Estado, há apenas dois anos, iniciou-se o plantio de uvas. Hoje, esse parreiral já produz 35 quilos de uva por pé. Imaginem, V. Exªs, a Região Norte produzindo uva!"
+    },
+    {
+     "inicio_corpo": 980,
+     "fim_corpo": 2455,
+     "trecho": "Além disso, outros produtos podem ser cultivados naquela região. Sr. Presidente, também visitei os Municípios de Teixeira de Freitas e Eunápolis, na Bahia, e ali onde há 40 anos havia terras improdutivas, hoje constata-se a presença de terras férteis, transformando-se em uma região desenvolvida, com a produção de mamão, melancia, abóbora e outros produtos. Portanto, a economia daquela região desenvolveu-se diante dos investimentos ali realizados, tendo em vista o incentivo dado pelo ex-Governador Paulo Souto, aqui presente, àquela região, inclusive resolvendo o grave problema do desemprego e da economia daquela região. Pergunto: por que não fazer o mesmo no meu Estado? O Governo Federal, por intermédio do Ministério da Agricultura, deveria utilizar os recursos do Fundo Constitucional para auxiliar essas regiões e promover o seu desenvolvimento, em especial da Região Norte, onde o nosso Governador teve a coragem de aplicar a Lei Camata, demitindo mais de dez mil servidores, o que ajudou a agravar o problema do desemprego. Por isso, venho à tribuna pedir aos nobres Senadores, ao Senhor Presidente da República e ao Ministro da Agricultura que socorram as regiões mais pobres do nosso País. Serão necessários investimentos para auxiliar inclusive os pequenos produtores na cultura de subsistência, de produtos como a uva, o mamão, a melancia e outros. Tal medida resolverá o problema do desemprego. Muito obrigado, Sr. Presidente."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0149::Posição no trabalho",
+   "unit_id": "S0149",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-22",
+   "orador": "Ernandes Amorim",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 468,
+     "trecho": "O SR. ERNANDES AMORIM (PPB – RO. Para comunicação inadiável. Sem revisão do orador.) - Sr. Presidente, Srªs. e Srs. Senadores, neste fim-de-semana estive em Porto Velho, e visitei as cidades de Ariquenes, Jiparaná e Vilhena, onde pude verificar, devido as numerosas demissões e tendo em vista a falta de opções existente no meu Estado, certa inquietação da população, que já conta com mais de 10 mil desempregos, inclusive com a possibilidade de aumento desse índice."
+    },
+    {
+     "inicio_corpo": 742,
+     "fim_corpo": 2455,
+     "trecho": "Hoje, esse parreiral já produz 35 quilos de uva por pé. Imaginem, V. Exªs, a Região Norte produzindo uva! Portanto, com a venda do produto de dois pés de uva podemos comprar uma bezerra ou um garrote, beneficiando assim o produtor rural. Além disso, outros produtos podem ser cultivados naquela região. Sr. Presidente, também visitei os Municípios de Teixeira de Freitas e Eunápolis, na Bahia, e ali onde há 40 anos havia terras improdutivas, hoje constata-se a presença de terras férteis, transformando-se em uma região desenvolvida, com a produção de mamão, melancia, abóbora e outros produtos. Portanto, a economia daquela região desenvolveu-se diante dos investimentos ali realizados, tendo em vista o incentivo dado pelo ex-Governador Paulo Souto, aqui presente, àquela região, inclusive resolvendo o grave problema do desemprego e da economia daquela região. Pergunto: por que não fazer o mesmo no meu Estado? O Governo Federal, por intermédio do Ministério da Agricultura, deveria utilizar os recursos do Fundo Constitucional para auxiliar essas regiões e promover o seu desenvolvimento, em especial da Região Norte, onde o nosso Governador teve a coragem de aplicar a Lei Camata, demitindo mais de dez mil servidores, o que ajudou a agravar o problema do desemprego. Por isso, venho à tribuna pedir aos nobres Senadores, ao Senhor Presidente da República e ao Ministro da Agricultura que socorram as regiões mais pobres do nosso País. Serão necessários investimentos para auxiliar inclusive os pequenos produtores na cultura de subsistência, de produtos como a uva, o mamão, a melancia e outros. Tal medida resolverá o problema do desemprego. Muito obrigado, Sr. Presidente."
+    },
+    {
+     "inicio_corpo": 1345,
+     "fim_corpo": 2455,
+     "trecho": "Portanto, a economia daquela região desenvolveu-se diante dos investimentos ali realizados, tendo em vista o incentivo dado pelo ex-Governador Paulo Souto, aqui presente, àquela região, inclusive resolvendo o grave problema do desemprego e da economia daquela região. Pergunto: por que não fazer o mesmo no meu Estado? O Governo Federal, por intermédio do Ministério da Agricultura, deveria utilizar os recursos do Fundo Constitucional para auxiliar essas regiões e promover o seu desenvolvimento, em especial da Região Norte, onde o nosso Governador teve a coragem de aplicar a Lei Camata, demitindo mais de dez mil servidores, o que ajudou a agravar o problema do desemprego. Por isso, venho à tribuna pedir aos nobres Senadores, ao Senhor Presidente da República e ao Ministro da Agricultura que socorram as regiões mais pobres do nosso País. Serão necessários investimentos para auxiliar inclusive os pequenos produtores na cultura de subsistência, de produtos como a uva, o mamão, a melancia e outros. Tal medida resolverá o problema do desemprego. Muito obrigado, Sr. Presidente."
+    },
+    {
+     "inicio_corpo": 1613,
+     "fim_corpo": 2455,
+     "trecho": "Pergunto: por que não fazer o mesmo no meu Estado? O Governo Federal, por intermédio do Ministério da Agricultura, deveria utilizar os recursos do Fundo Constitucional para auxiliar essas regiões e promover o seu desenvolvimento, em especial da Região Norte, onde o nosso Governador teve a coragem de aplicar a Lei Camata, demitindo mais de dez mil servidores, o que ajudou a agravar o problema do desemprego. Por isso, venho à tribuna pedir aos nobres Senadores, ao Senhor Presidente da República e ao Ministro da Agricultura que socorram as regiões mais pobres do nosso País. Serão necessários investimentos para auxiliar inclusive os pequenos produtores na cultura de subsistência, de produtos como a uva, o mamão, a melancia e outros. Tal medida resolverá o problema do desemprego. Muito obrigado, Sr. Presidente."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0149::Renda e classe",
+   "unit_id": "S0149",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-22",
+   "orador": "Ernandes Amorim",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1345,
+     "fim_corpo": 2455,
+     "trecho": "Portanto, a economia daquela região desenvolveu-se diante dos investimentos ali realizados, tendo em vista o incentivo dado pelo ex-Governador Paulo Souto, aqui presente, àquela região, inclusive resolvendo o grave problema do desemprego e da economia daquela região. Pergunto: por que não fazer o mesmo no meu Estado? O Governo Federal, por intermédio do Ministério da Agricultura, deveria utilizar os recursos do Fundo Constitucional para auxiliar essas regiões e promover o seu desenvolvimento, em especial da Região Norte, onde o nosso Governador teve a coragem de aplicar a Lei Camata, demitindo mais de dez mil servidores, o que ajudou a agravar o problema do desemprego. Por isso, venho à tribuna pedir aos nobres Senadores, ao Senhor Presidente da República e ao Ministro da Agricultura que socorram as regiões mais pobres do nosso País. Serão necessários investimentos para auxiliar inclusive os pequenos produtores na cultura de subsistência, de produtos como a uva, o mamão, a melancia e outros. Tal medida resolverá o problema do desemprego. Muito obrigado, Sr. Presidente."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0149::Urbano e rural",
+   "unit_id": "S0149",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-22",
+   "orador": "Ernandes Amorim",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 91,
+     "fim_corpo": 980,
+     "trecho": "Presidente, Srªs. e Srs. Senadores, neste fim-de-semana estive em Porto Velho, e visitei as cidades de Ariquenes, Jiparaná e Vilhena, onde pude verificar, devido as numerosas demissões e tendo em vista a falta de opções existente no meu Estado, certa inquietação da população, que já conta com mais de 10 mil desempregos, inclusive com a possibilidade de aumento desse índice. Portanto, Sr. Presidente, chamo a atenção das autoridades competentes para a necessidade de o Governo Federal e o Ministério da Agricultura nos apoiar. Veja V. Exª que no Município de Vilhena, região norte do Estado, há apenas dois anos, iniciou-se o plantio de uvas. Hoje, esse parreiral já produz 35 quilos de uva por pé. Imaginem, V. Exªs, a Região Norte produzindo uva! Portanto, com a venda do produto de dois pés de uva podemos comprar uma bezerra ou um garrote, beneficiando assim o produtor rural."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0150::Domicílio e arranjo familiar",
+   "unit_id": "S0150",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-22",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1270,
+     "fim_corpo": 2321,
+     "trecho": "Assim, cumprimento o Procurador do Distrito Federal, Luiz Francisco Fernandes, pela maneira correta com que agiu, e cumprimento, também, a Juíza Rosemeire Gonçalves de Carvalho. Gostaria ainda, Sr. Presidente, de transmitir um apelo ao Prefeito Celso Pitta, da Capital paulista, no tocante a um assunto da minha cidade. Refiro-me aos mais de 160 ambulantes do Parque Ibirapuera, em São Paulo, que, ainda na tarde de ontem, esperaram que o Prefeito pudesse recebê-los em audiência. Em que pese o pedido do Deputado Federal Luiz Antonio de Medeiros no sentido de que os recebesse, não o fez. Tenho conversado há muitos anos com os ambulantes, sobretudo mães, chefes de família, que têm duas, três, quatro, cinco, seis crianças, e que lá trabalham há cinco, nove, dez, vinte anos ou mais e que, sobretudo, conseguem sobreviver com alguma dignidade, vendendo água mineral, Gatorade, diversos refrigerantes, e que, inclusive, colaboram com a população e com a preservação do parque, pois todos eles se preocupam em manter sempre limpo o local."
+    },
+    {
+     "inicio_corpo": 2321,
+     "fim_corpo": 3081,
+     "trecho": "É muito estranho que inclusive o Secretário do Meio Ambiente, Ricardo Otake, tenha resolvido determinar que os ambulantes tenham que sair do Parque Ibirapuera. Concedeu-se à Srª Antônia Cileide Souza da Silva, Presidente da Associação dos Ambulantes do Parque Ibirapuera e de outros parques da cidade de São Paulo, um prazo de apenas dois meses, a partir de 28 de janeiro, para que de lá saiam. Quando a D. Antônia Cileide Souza da Silva perguntou ao Sr. Carlos Dias, chefe de gabinete do Sr. Ricardo Otake o que aconteceria se não saíssem, simplesmente disse que, se não saíssem, ele mandaria 30 GCMs, Guardas Civis Metropolitanos, para retirá-las e, se resistissem, iria bater nas senhoras, chefes de família, mães que trabalham como ambulantes."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0150::Idade",
+   "unit_id": "S0150",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-22",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1270,
+     "fim_corpo": 2321,
+     "trecho": "Assim, cumprimento o Procurador do Distrito Federal, Luiz Francisco Fernandes, pela maneira correta com que agiu, e cumprimento, também, a Juíza Rosemeire Gonçalves de Carvalho. Gostaria ainda, Sr. Presidente, de transmitir um apelo ao Prefeito Celso Pitta, da Capital paulista, no tocante a um assunto da minha cidade. Refiro-me aos mais de 160 ambulantes do Parque Ibirapuera, em São Paulo, que, ainda na tarde de ontem, esperaram que o Prefeito pudesse recebê-los em audiência. Em que pese o pedido do Deputado Federal Luiz Antonio de Medeiros no sentido de que os recebesse, não o fez. Tenho conversado há muitos anos com os ambulantes, sobretudo mães, chefes de família, que têm duas, três, quatro, cinco, seis crianças, e que lá trabalham há cinco, nove, dez, vinte anos ou mais e que, sobretudo, conseguem sobreviver com alguma dignidade, vendendo água mineral, Gatorade, diversos refrigerantes, e que, inclusive, colaboram com a população e com a preservação do parque, pois todos eles se preocupam em manter sempre limpo o local."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0150::Posição no trabalho",
+   "unit_id": "S0150",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-22",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "Trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 709,
+     "trecho": "O SR. EDUARDO SUPLICY (Bloco/PT – SP. Para uma comunicação. Sem revisão do orador.) – Sr. Presidente, informo à Casa que a Juíza Rosemeire Gonçalves de Carvalho concedeu, há pouco, liminar suspendendo o processo de privatização do Banespa e determinou à União, ao Banco Central, à Fator, ao Banespa e ao Governo do Estado de São Paulo que se abstenham de praticar qualquer ato relacionado à privatização do Banespa. Isso decorreu de ação que a Câmara dos Deputados, o Deputado Ricardo Berzoini e outros do Partido dos Trabalhadores realizaram, bem como da ação cível que eu próprio, aqui no Senado Federal, resolvi dar entrada junto ao Procurador do Distrito Federal, Luiz Francisco Fernandes de Souza."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0151::Urbano e rural",
+   "unit_id": "S0151",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-22",
+   "orador": "Eduardo Siqueira Campos",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "CAMPOS",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 103,
+     "trecho": "O SR. EDUARDO SIQUEIRA CAMPOS (PFL - TO) – Sr. Presidente, Srªs. e Srs. Senadores,... .0BB"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0152::Domicílio e arranjo familiar",
+   "unit_id": "S0152",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-23",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4077,
+     "fim_corpo": 4973,
+     "trecho": "O governo introduziu também frentes de trabalho temporárias, que, em janeiro de 1999, empregavam 437 mil pessoas, embora houvesse 650 mil demandantes de vagas. Introduziu igualmente um programa de renda mínima para atender 750 mil pessoas. Em outubro deste ano, entra em vigor o Ato de Garantia de Renda Mínima Básica, pelo qual todo coreano que viva abaixo da linha de pobreza (2 milhões) terá direito a uma renda pública.\" Sr. Presidente, Srªs e Srs. Senadores, há pouco, o Senador José Alencar e eu estivemos com o Presidente do Banco Central, Armínio Fraga, dialogando sobre a questão do salário mínimo. Reitero, Senador José Alencar, que seria importante, neste momento, pensarmos em uma forma de combinar a definição do salário mínimo com a de um programa de transferência de renda direta a todas as pessoas e/ou famílias cuja renda não alcance determinado patamar."
+    },
+    {
+     "inicio_corpo": 5067,
+     "fim_corpo": 5998,
+     "trecho": "Por que razão isso é perfeitamente possível? O Senado Federal aprovou a proposta de garantia de renda mínima e enviou-a para a Câmara dos Deputados. Desde 1992, essa proposta se encontra naquela Casa, aguardando votação. A ponderação do Executivo sempre foi a de que não havia recursos suficientes. Agora, pretende-se criar um Fundo de Combate e Erradicação da Pobreza e espera-se arrecadar pelo menos R$4 bilhões. Precisamos destinar pelo menos três quartos desse Fundo para transferências diretas de renda, por intermédio do Programa de Garantia de Renda Mínima, e adicionar a essa iniciativa os esforços dos Estados e Municípios que começam a ampliar a instituição de programas de garantia de renda mínima. No Município de Rio Claro, onde estive na segunda-feira, o Prefeito Cláudio Antônio de Mauro, que é do Partido Verde, instituiu o programa para atender, inicialmente, 70 famílias e o colocou em prática."
+    },
+    {
+     "inicio_corpo": 5488,
+     "fim_corpo": 6381,
+     "trecho": "Precisamos destinar pelo menos três quartos desse Fundo para transferências diretas de renda, por intermédio do Programa de Garantia de Renda Mínima, e adicionar a essa iniciativa os esforços dos Estados e Municípios que começam a ampliar a instituição de programas de garantia de renda mínima. No Município de Rio Claro, onde estive na segunda-feira, o Prefeito Cláudio Antônio de Mauro, que é do Partido Verde, instituiu o programa para atender, inicialmente, 70 famílias e o colocou em prática. No Município de São Bernardo do Campo, o Prefeito Maurício Soares sancionou lei nesse sentido em meados do ano passado. O Prefeito de Poços de Caldas, em Minas Gerais, disse-me que, nos próximos dias, instituirá um Programa de Garantia de Renda Mínima. Na cidade de Leme, o programa, iniciado em meados do ano passado com 15 famílias, está sendo estendido para mais de 300 famílias."
+    },
+    {
+     "inicio_corpo": 5488,
+     "fim_corpo": 6381,
+     "trecho": "Precisamos destinar pelo menos três quartos desse Fundo para transferências diretas de renda, por intermédio do Programa de Garantia de Renda Mínima, e adicionar a essa iniciativa os esforços dos Estados e Municípios que começam a ampliar a instituição de programas de garantia de renda mínima. No Município de Rio Claro, onde estive na segunda-feira, o Prefeito Cláudio Antônio de Mauro, que é do Partido Verde, instituiu o programa para atender, inicialmente, 70 famílias e o colocou em prática. No Município de São Bernardo do Campo, o Prefeito Maurício Soares sancionou lei nesse sentido em meados do ano passado. O Prefeito de Poços de Caldas, em Minas Gerais, disse-me que, nos próximos dias, instituirá um Programa de Garantia de Renda Mínima. Na cidade de Leme, o programa, iniciado em meados do ano passado com 15 famílias, está sendo estendido para mais de 300 famílias."
+    },
+    {
+     "inicio_corpo": 11371,
+     "fim_corpo": 12403,
+     "trecho": "Se o Presidente da República tiver vontade política, poderá utilizar-se dessa proposição para organizar um fundo capaz de oferecer as condições materiais necessárias para a execução do programa, no atendimento a milhares de pessoas no País. Portanto, nosso objetivo é saudá-lo por esta vitória na manhã de hoje. O SR. EDUARDO SUPLICY (Bloco/PT - SP) – Agradeço a V. Exª pelo aparte Senador Álvaro Dias. Certamente, o Fundo de Cidadania dará ao Governo Federal muito mais elementos e maior flexibilidade para instituir para valer a garantia de uma renda de cidadania a todos brasileiros. Informo, Sr. Presidente, que já recolhi mais de 35 assinaturas para a Proposta de Emenda à Constituição segundo a qual pelo menos 75% dos recursos do Fundo de Combate à Pobreza deverão ser destinados a programas de reforço de renda familiar de famílias carentes. Espero, até a hora da discussão da matéria, ampliar o número de assinaturas, pois apresentarei essa proposta na sessão desta tarde. Muito obrigado, Sr. Presidente."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0152::Educação",
+   "unit_id": "S0152",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-23",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "Escola",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7391,
+     "fim_corpo": 8477,
+     "trecho": "Falta apenas regulamentar a lei para colocá-lo em prática. O próprio Prefeito Celso Pitta me informou que, até o carnaval, irá regulamentar esse programa. Cito esses exemplos e informo que mais de 50 municípios, autonomamente, já instituíram programas nessa direção. Por outro lado, 1.151 municípios realizaram convênios com o Governo Federal, por intermédio do Ministério da Educação, para instituir o Programa de Garantia de Renda Mínima associado à educação, o que está previsto na Lei nº 9.533. Seria próprio que destinássemos recursos suficientes para esse programa, para melhorarmos significativamente a sua fórmula. Tenho dado a seguinte recomendação a cada prefeito que tem instituído o Programa de Garantia de Renda Mínima ou o Programa da Bolsa-Escola: procure instituir um grupo de trabalho que faça uma avaliação sobre o melhor desenho do benefício; acompanhe de perto as experiências de outros municípios; examine também como esse tipo de programa tem sido implantado em outros países; e procure aperfeiçoar, a cada ano, a forma de se instituir esse benefício."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0152::Posição no trabalho",
+   "unit_id": "S0152",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-23",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "Trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 452,
+     "trecho": "O SR. EDUARDO SUPLICY (Bloco/PT - SP. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, o economista Marcio Pochmann, da Unicamp, que se tem destacado nos últimos anos por seus estudos relativos ao mercado de trabalho e à evolução do salário e do desemprego, faz hoje uma análise na Folha de S.Paulo, no Jornal do Brasil e em outros órgãos de imprensa que precisamos mostrar aqui, pois é muito importante."
+    },
+    {
+     "inicio_corpo": 3195,
+     "fim_corpo": 4077,
+     "trecho": "O jornalista Clóvis Rossi fez uma reportagem extremamente interessante para a Folha de S.Paulo no domingo passado, \"A Ásia Espanta a Crise\", discorrendo, em especial, sobre como a Coréia conseguiu recuperar a sua economia, que, em 1998, tinha atingido acentuado grau de recessão e depressão. Basta observar que a economia da Coréia do Sul - que vinha crescendo 8,9% em 1995 e 6,8% em 1996 e que declinou para 5% em 1997 e para menos 5,8% em 1998 - conseguiu, no ano passado, aumentar a sua taxa de crescimento para, nada mais nada menos, do que 12,3%. E quais foram, segundo Clóvis Rossi, alguns dos instrumentos fundamentais utilizados pela Coréia para conseguir recuperar a sua economia? \"Programas foram criados ou ampliados para evitar que a crise econômica se transformasse em catástrofe social. Entre eles, o aumento da cobertura do seguro-desemprego."
+    },
+    {
+     "inicio_corpo": 5998,
+     "fim_corpo": 6814,
+     "trecho": "No Município de São Bernardo do Campo, o Prefeito Maurício Soares sancionou lei nesse sentido em meados do ano passado. O Prefeito de Poços de Caldas, em Minas Gerais, disse-me que, nos próximos dias, instituirá um Programa de Garantia de Renda Mínima. Na cidade de Leme, o programa, iniciado em meados do ano passado com 15 famílias, está sendo estendido para mais de 300 famílias. Assim, verifica-se que se pode perfeitamente coordenar os esforços e, com esses recursos, estimular de tal maneira esse processo, que, em todos os municípios, será possível adotar programas nessa direção. Assinalo que, na Câmara Municipal de São Paulo, no maior município brasileiro, foi aprovado, desde 1996, o Programa de Garantia de Renda Mínima de iniciativa do Vereador Arselino Tatto, do Partido dos Trabalhadores."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0152::Renda e classe",
+   "unit_id": "S0152",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-23",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "carentes",
+     "forma_encontrada": "carentes",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2206,
+     "fim_corpo": 3195,
+     "trecho": "Será que, do ponto de vista da autoridade monetária, que quer a estabilidade de preços e que, sobretudo, tem por obrigação a responsabilidade de acompanhá-la e preservá-la, seria interessante ajustarmos o valor do salário mínimo, para que, o mais breve possível, viéssemos a alcançar um valor da ordem de R$180? Seria adequado, por exemplo, aumentarmos o valor do salário mínimo para R$150 em maio e para R$180 em outubro, números estes ainda insatisfatórios? Será que isso seria adequado para que tivéssemos consistência com o regime de flexibilidade de câmbio? Ora, precisamos levar em consideração diversos fatores. No momento em que estamos examinando a forma com que se pode erradicar a pobreza, especialmente com uma grande preocupação em ampliar as oportunidade de trabalho em toda a economia brasileira, é muito importante pensarmos em como podemos, ao mesmo tempo, combater a pobreza, ampliar o nível de emprego, manter a estabilidade de preços e erradicar a miséria."
+    },
+    {
+     "inicio_corpo": 2206,
+     "fim_corpo": 3195,
+     "trecho": "Será que, do ponto de vista da autoridade monetária, que quer a estabilidade de preços e que, sobretudo, tem por obrigação a responsabilidade de acompanhá-la e preservá-la, seria interessante ajustarmos o valor do salário mínimo, para que, o mais breve possível, viéssemos a alcançar um valor da ordem de R$180? Seria adequado, por exemplo, aumentarmos o valor do salário mínimo para R$150 em maio e para R$180 em outubro, números estes ainda insatisfatórios? Será que isso seria adequado para que tivéssemos consistência com o regime de flexibilidade de câmbio? Ora, precisamos levar em consideração diversos fatores. No momento em que estamos examinando a forma com que se pode erradicar a pobreza, especialmente com uma grande preocupação em ampliar as oportunidade de trabalho em toda a economia brasileira, é muito importante pensarmos em como podemos, ao mesmo tempo, combater a pobreza, ampliar o nível de emprego, manter a estabilidade de preços e erradicar a miséria."
+    },
+    {
+     "inicio_corpo": 3753,
+     "fim_corpo": 4524,
+     "trecho": "E quais foram, segundo Clóvis Rossi, alguns dos instrumentos fundamentais utilizados pela Coréia para conseguir recuperar a sua economia? \"Programas foram criados ou ampliados para evitar que a crise econômica se transformasse em catástrofe social. Entre eles, o aumento da cobertura do seguro-desemprego. O governo introduziu também frentes de trabalho temporárias, que, em janeiro de 1999, empregavam 437 mil pessoas, embora houvesse 650 mil demandantes de vagas. Introduziu igualmente um programa de renda mínima para atender 750 mil pessoas. Em outubro deste ano, entra em vigor o Ato de Garantia de Renda Mínima Básica, pelo qual todo coreano que viva abaixo da linha de pobreza (2 milhões) terá direito a uma renda pública.\" Sr."
+    },
+    {
+     "inicio_corpo": 4243,
+     "fim_corpo": 5067,
+     "trecho": "Introduziu igualmente um programa de renda mínima para atender 750 mil pessoas. Em outubro deste ano, entra em vigor o Ato de Garantia de Renda Mínima Básica, pelo qual todo coreano que viva abaixo da linha de pobreza (2 milhões) terá direito a uma renda pública.\" Sr. Presidente, Srªs e Srs. Senadores, há pouco, o Senador José Alencar e eu estivemos com o Presidente do Banco Central, Armínio Fraga, dialogando sobre a questão do salário mínimo. Reitero, Senador José Alencar, que seria importante, neste momento, pensarmos em uma forma de combinar a definição do salário mínimo com a de um programa de transferência de renda direta a todas as pessoas e/ou famílias cuja renda não alcance determinado patamar. E isso poderia ser concatenado com a criação desse Fundo de Combate e Erradicação da Pobreza."
+    },
+    {
+     "inicio_corpo": 4548,
+     "fim_corpo": 5488,
+     "trecho": "Senadores, há pouco, o Senador José Alencar e eu estivemos com o Presidente do Banco Central, Armínio Fraga, dialogando sobre a questão do salário mínimo. Reitero, Senador José Alencar, que seria importante, neste momento, pensarmos em uma forma de combinar a definição do salário mínimo com a de um programa de transferência de renda direta a todas as pessoas e/ou famílias cuja renda não alcance determinado patamar. E isso poderia ser concatenado com a criação desse Fundo de Combate e Erradicação da Pobreza. Por que razão isso é perfeitamente possível? O Senado Federal aprovou a proposta de garantia de renda mínima e enviou-a para a Câmara dos Deputados. Desde 1992, essa proposta se encontra naquela Casa, aguardando votação. A ponderação do Executivo sempre foi a de que não havia recursos suficientes. Agora, pretende-se criar um Fundo de Combate e Erradicação da Pobreza e espera-se arrecadar pelo menos R$4 bilhões."
+    },
+    {
+     "inicio_corpo": 8026,
+     "fim_corpo": 9103,
+     "trecho": "Tenho dado a seguinte recomendação a cada prefeito que tem instituído o Programa de Garantia de Renda Mínima ou o Programa da Bolsa-Escola: procure instituir um grupo de trabalho que faça uma avaliação sobre o melhor desenho do benefício; acompanhe de perto as experiências de outros municípios; examine também como esse tipo de programa tem sido implantado em outros países; e procure aperfeiçoar, a cada ano, a forma de se instituir esse benefício. Reitero a todos os prefeitos e governadores que me coloco à disposição para fazermos essa reflexão no sentido de melhorar a instituição dessa proposição. Cabe agora ao Presidente Fernando Henrique – razão pela qual insisto na sugestão à Sua Excelência –- realizar as reuniões prometidas com os membros da Comissão Mista de Combate à Pobreza, para que possamos mostrar à Sua Excelência a necessidade de coordenar adequadamente programas na direção da erradicação do trabalho infantil e da garantia de renda mínima, a fim de que o direito à cidadania seja melhor e universalmente definido para todos os brasileiros."
+    }
+   ]
+  }
+ ]
+}

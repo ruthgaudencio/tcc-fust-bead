@@ -1,0 +1,1003 @@
+{
+ "caso": "BEAD",
+ "lote": 44,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0188::Saúde",
+   "unit_id": "W0188",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Mark Gibson",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 637,
+     "fim_corpo": 1721,
+     "trecho": "The mission of the OnGo alliance is to support the common interests of members, implementers and operators for the development, commercialization, and adoption of LTE and 5G solutions for the U.S. 3.5 GHz Citizens Broadband Radio Service. This is a very important band for 5G deployment in our country, as it is one of the first 5G bands available, and I’d like to discuss how legislation that is the focus of today’s hearing will enhance the importance of the band and allow for greater deployment of broadband. Deployment in the Citizens Broadband Radio Service (CBRS) launched in January 2020. In the nearly two and a half years since CBRS service launch, there have been well over 200,000 CBRS base stations deployed across the country. These deployments support all reaches of telecommunications including support for distance learning during COVID, enabling hospital COVID triage centers, helping otherwise poorly connected farmers achieve 5G connectivity, support for critical manufacturing automation and helping to connect disparate corners of our supply chain."
+    },
+    {
+     "inicio_corpo": 6518,
+     "fim_corpo": 7445,
+     "trecho": "Since the authorization of full commercial service in early 2020, numerous networks have been deployed to satisfy a wide range of use cases, including mobile broadband, fixed wireless access, and enterprise private networks 5 The Citizens Broadband Radio Service The Citizens Broadband Radio Service (CBRS) operates in the 3550-3700 MHz band. CBRS deployment launched in January 2020. In the nearly two and a half years since CBRS service launch, there have been well over 200,000 CBRS devices deployed across the country and growing at the rate of thousands of deployments monthly. These deployments support all reaches of telecommunications including support for distance learning during COVID, enabling hospital COVID triage centers, helping otherwise poorly connected farmers achieve 5G connectivity, support for critical manufacturing automation and helping to connect disparate corners of our supply chain."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0190::Cultura e informação",
+   "unit_id": "W0190",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Christopher Ali",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "libraries",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "libraries",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "library",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 264,
+     "fim_corpo": 1109,
+     "trecho": "Ali. Great. Chair Cantwell, Ranking Member Wicker, distinguished members of the U.S. Senate Committee on Commerce, Science, and Transportation, thank you for the invitation to be here today to speak with you today, to speak about rural broadband policy and deployment. It is a great honor to be here. Today, I will argue for a new national rural broadband plan, one that incorporates what I called in my written testimony, The 5 M's of Successful Rural Broadband Deployment: Meaning, Money, Mapping, Municipalities, and Management. I applaud you for passing the Consolidated Appropriations Act which included $3.2 billion for the Emergency Broadband to Benefit Program, and the American Rescue Plan Act, which allocates $7.1 billion for broadband for schools and libraries, and $10 billion for state infrastructure projects."
+    },
+    {
+     "inicio_corpo": 7968,
+     "fim_corpo": 8910,
+     "trecho": "--------------------------------------------------------------------------- \\2\\ NDIA, ``Definitions,'' National Digital Inclusion Alliance, January 18, 2017, https://www .digitalinclusion.org/definitions/. --------------------------------------------------------------------------- I applaud you for passing the Consolidated Appropriations Act in December which allocated $7 billion for broadband access, including the $3.2 billion Emergency Broadband Benefit Package \\3\\ and the recently passed American Rescue Plan Act, which allocates $7.1 billion for broadband for schools and libraries and $10 billion for state infrastructure projects.\\4\\ We must now build on this momentum and develop a decisive and coherent plan for ``high-performance broadband'' \\5\\ infrastructure investment.\\6\\ --------------------------------------------------------------------------- \\3\\ ``The Consolidated Appropriations Act, 2021,'' Pub."
+    },
+    {
+     "inicio_corpo": 14316,
+     "fim_corpo": 15019,
+     "trecho": "--------------------------------------------------------------------------- We know that only 63 percent of rural Americans report having a broadband Internet connection at home but we don't know the types of connections this may mean. For instance, 3 percent of farmers still use dial-up according to recent assessments from USDA (see Table 2).\\12\\ --------------------------------------------------------------------------- \\12\\ United States Department of Agriculture, ``Farm Computer Usage and Ownership'' (Washington, D.C.: United States Department of Agriculture, August 2019), https://downloads .usda.library.cornell.edu/usda-esmis/files/h128nd689/8910k592p/ qz20t442b/fmpc0819.pdf."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0190::Domicílio e arranjo familiar",
+   "unit_id": "W0190",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Christopher Ali",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1395,
+     "fim_corpo": 2367,
+     "trecho": "The FCC reports that 82.7 percent of rural Americans have access to broadband at speeds of 25/3. Current research, however, suggests that this number, the FCC has overestimated connectivity by upwards of 50 percent because of faulty data gathering methodology. Only 63 percent of rural Americans report having an Internet connection at home, but that number does not differentiate between technologies. For instance, 3 percent of farmers still use dial-up and far too many rural Americans depend on DSL and satellite. Rural Americans pay upward of 37 percent more for their service than their urban counterparts, and that service is often suboptimal. Only 30 percent of rural Americans have a choice in provider, for speeds over 25/3. 25/3 is hopelessly outdated as a baseline. It cannot meet the needs of contemporary households and its asymmetry privileges download over upload, consumption over production, which hurts students and businesses alike."
+    },
+    {
+     "inicio_corpo": 15219,
+     "fim_corpo": 16202,
+     "trecho": "The predominate types of connection in rural America are digital subscriber line (DSL) and satellite.\\13\\ DSL is broadband provided through a twisted pair of copper wires, not unlike traditional landline telephone service. Indeed, those companies offering DSL are the legacy telephone companies like AT&T, CenturyLink, and Frontier.\\14\\ While praised a decade ago for its then-high-speed download capacity, DSL has proven not to be up to the task of serving a country living, working, and studying from home. The mean download speed of DSL, for instance, is 10 Mbps and the mean upload speed is 1 Mbps according to a study by Roberto Gallardo and Brian Whitacre (see Table 3).\\15\\ 10/1 is far below the FCC definition of broadband of 25/ 3, and even further below the national average of 179.06 Mbps download and 64.89 Mbps upload.\\16\\ More to the point, a household of four, be they a family or college housemates, could not be on different video calls simultaneously."
+    },
+    {
+     "inicio_corpo": 15219,
+     "fim_corpo": 16202,
+     "trecho": "The predominate types of connection in rural America are digital subscriber line (DSL) and satellite.\\13\\ DSL is broadband provided through a twisted pair of copper wires, not unlike traditional landline telephone service. Indeed, those companies offering DSL are the legacy telephone companies like AT&T, CenturyLink, and Frontier.\\14\\ While praised a decade ago for its then-high-speed download capacity, DSL has proven not to be up to the task of serving a country living, working, and studying from home. The mean download speed of DSL, for instance, is 10 Mbps and the mean upload speed is 1 Mbps according to a study by Roberto Gallardo and Brian Whitacre (see Table 3).\\15\\ 10/1 is far below the FCC definition of broadband of 25/ 3, and even further below the national average of 179.06 Mbps download and 64.89 Mbps upload.\\16\\ More to the point, a household of four, be they a family or college housemates, could not be on different video calls simultaneously."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0190::Educação",
+   "unit_id": "W0190",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Christopher Ali",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 264,
+     "fim_corpo": 1109,
+     "trecho": "Ali. Great. Chair Cantwell, Ranking Member Wicker, distinguished members of the U.S. Senate Committee on Commerce, Science, and Transportation, thank you for the invitation to be here today to speak with you today, to speak about rural broadband policy and deployment. It is a great honor to be here. Today, I will argue for a new national rural broadband plan, one that incorporates what I called in my written testimony, The 5 M's of Successful Rural Broadband Deployment: Meaning, Money, Mapping, Municipalities, and Management. I applaud you for passing the Consolidated Appropriations Act which included $3.2 billion for the Emergency Broadband to Benefit Program, and the American Rescue Plan Act, which allocates $7.1 billion for broadband for schools and libraries, and $10 billion for state infrastructure projects."
+    },
+    {
+     "inicio_corpo": 7968,
+     "fim_corpo": 8910,
+     "trecho": "--------------------------------------------------------------------------- \\2\\ NDIA, ``Definitions,'' National Digital Inclusion Alliance, January 18, 2017, https://www .digitalinclusion.org/definitions/. --------------------------------------------------------------------------- I applaud you for passing the Consolidated Appropriations Act in December which allocated $7 billion for broadband access, including the $3.2 billion Emergency Broadband Benefit Package \\3\\ and the recently passed American Rescue Plan Act, which allocates $7.1 billion for broadband for schools and libraries and $10 billion for state infrastructure projects.\\4\\ We must now build on this momentum and develop a decisive and coherent plan for ``high-performance broadband'' \\5\\ infrastructure investment.\\6\\ --------------------------------------------------------------------------- \\3\\ ``The Consolidated Appropriations Act, 2021,'' Pub."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0190::Escolaridade e letramento",
+   "unit_id": "W0190",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Christopher Ali",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "digital literacy",
+     "forma_encontrada": "digital literacy",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1493,
+     "fim_corpo": 2367,
+     "trecho": "Current research, however, suggests that this number, the FCC has overestimated connectivity by upwards of 50 percent because of faulty data gathering methodology. Only 63 percent of rural Americans report having an Internet connection at home, but that number does not differentiate between technologies. For instance, 3 percent of farmers still use dial-up and far too many rural Americans depend on DSL and satellite. Rural Americans pay upward of 37 percent more for their service than their urban counterparts, and that service is often suboptimal. Only 30 percent of rural Americans have a choice in provider, for speeds over 25/3. 25/3 is hopelessly outdated as a baseline. It cannot meet the needs of contemporary households and its asymmetry privileges download over upload, consumption over production, which hurts students and businesses alike."
+    },
+    {
+     "inicio_corpo": 6928,
+     "fim_corpo": 7968,
+     "trecho": "This research will be featured in my book Farm Fresh Broadband: The Politics of Rural Connectivity that will be released in September from MIT Press. Today, I want to share with you all what I'm calling the ``5 M's'' of successful rural broadband deployment: Meaning, Money, Mapping, Municipalities, and Management. In doing so, I will also point out some of the flaws in previous policy attempts to close the rural- urban digital divide, and share my hope that history does not repeat itself. I am excited to speak about the potentials and possibilities for policy reform to stimulate robust and meaningful broadband deployment in rural America, which represents a facet of what is known as the ``digital divide.'' Other facets, as we know, include affordability, access to device, and digital literacy skills, which together are part of the larger concept of ``digital inclusion.'' \\2\\ Today though, I will talk about broadband infrastructure, which is a part of the digital divide specifically impacting rural America."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0190::Infraestrutura e porte populacional",
+   "unit_id": "W0190",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Christopher Ali",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "Unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "Unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "Unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13257,
+     "fim_corpo": 14316,
+     "trecho": "20-269).'' As we all know, the FCC's has grossly overestimated the number of connected Americans because of faulty data gathering. Most researchers suggest the FCC is off by upwards of 50 percent.\\11\\ So, we don't know the exact number of un-and under-connected rural Americans, but there are some things we do know. --------------------------------------------------------------------------- \\11\\ Sascha D. Meinrath, ``Broadband Availability and Access in Rural Pennsylvania'' (The Center for Rural Pennsylvania, 2019), https:/ /www.rural.palegislature.us/broadband/Broadband _Availability_and_Access_in_Rural_Pennsylvania_2019_Report.pdf; John Busby and Julia Tanberk, ``FCC Underestimates Americans Unserved by Broadband Internet by 50 percent'' (BroadbandNow, 2020), https:// broadbandnow.com/research/fcc-underestimates-unserved-by-50-percent; Karl Bode, ``How Bad Maps Are Ruining American Broadband,'' The Verge, September 24, 2018, https://www.theverge.com/2018/9/24/17882842/us- internet-broadband-map-isp-fcc-wireless-competition."
+    },
+    {
+     "inicio_corpo": 13257,
+     "fim_corpo": 14316,
+     "trecho": "20-269).'' As we all know, the FCC's has grossly overestimated the number of connected Americans because of faulty data gathering. Most researchers suggest the FCC is off by upwards of 50 percent.\\11\\ So, we don't know the exact number of un-and under-connected rural Americans, but there are some things we do know. --------------------------------------------------------------------------- \\11\\ Sascha D. Meinrath, ``Broadband Availability and Access in Rural Pennsylvania'' (The Center for Rural Pennsylvania, 2019), https:/ /www.rural.palegislature.us/broadband/Broadband _Availability_and_Access_in_Rural_Pennsylvania_2019_Report.pdf; John Busby and Julia Tanberk, ``FCC Underestimates Americans Unserved by Broadband Internet by 50 percent'' (BroadbandNow, 2020), https:// broadbandnow.com/research/fcc-underestimates-unserved-by-50-percent; Karl Bode, ``How Bad Maps Are Ruining American Broadband,'' The Verge, September 24, 2018, https://www.theverge.com/2018/9/24/17882842/us- internet-broadband-map-isp-fcc-wireless-competition."
+    },
+    {
+     "inicio_corpo": 36142,
+     "fim_corpo": 36932,
+     "trecho": "Government Make a Decent Map of Broadband Access?,'' Slate Magazine, March 28, 2018, https://slate.com/technology/2018/03/why-cant-the-u-s- government-make-a-decent-map-of-broadband-access.html. \\49\\ Meinrath, ``Broadband Availability and Access in Rural Pennsylvania''; Busby and Tanberk, ``FCC Underestimates Americans Unserved by Broadband Internet by 50 percent.'' --------------------------------------------------------------------------- The reason why we have found ourselves in such a state comes down to what information providers are required to report to the FCC on Form 477.\\50\\ ISPs submit Form 477 twice a year and the information is used to create the FCC's broadband maps and to determine which areas are eligible for funding, such as for the RDOF program."
+    },
+    {
+     "inicio_corpo": 40791,
+     "fim_corpo": 41610,
+     "trecho": "My research team at the University of Virginia is in the midst of a study regarding Virginia county broadband plans, policies and deployment. We asked counties to self-report their level of connectivity. Our findings to this request echo those of previous studies that found massive discrepancies between the FCC's report of broadband deployment and the lived reality of rural Americans.\\56\\ To use but one example, the FCC reports Bath County Virginia as being 100 percent served with broadband at speeds of 25/3. In addition the FCC reports that 100 percent of the county has access to at least two broadband providers. In comparison, Bath County reported to us in our Virginia County Broadband Survey that only 10 percent of the county is served with broadband at 25/3, and a full 90 percent is unserved."
+    },
+    {
+     "inicio_corpo": 41313,
+     "fim_corpo": 42168,
+     "trecho": "In addition the FCC reports that 100 percent of the county has access to at least two broadband providers. In comparison, Bath County reported to us in our Virginia County Broadband Survey that only 10 percent of the county is served with broadband at 25/3, and a full 90 percent is unserved. This amounts to a 90 percent difference in the FCC reporting and county reporting (see Figure 1).\\57\\ --------------------------------------------------------------------------- \\56\\ Meinrath, ``Broadband Availability and Access in Rural Pennsylvania''; Busby and Tanberk, ``FCC Underestimates Americans Unserved by Broadband Internet by 50 percent.'' \\57\\ Christopher Ali, Abby Simmerman, and Nicholas Lansing, ``Connected Commonwealth: The Role of Counties in Virginia Broadband Deployment'' (Media and Democracy Lab, Charlottesville, 2021)."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0190::Saúde",
+   "unit_id": "W0190",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Christopher Ali",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 23399,
+     "fim_corpo": 24517,
+     "trecho": "20-269).'' \\26\\ ``United States's Mobile and Broadband Internet Speeds.'' --------------------------------------------------------------------------- A particularly egregious component of this definition, is its asymmetry. The current definition of broadband privilege download over upload. Now, that may be great for binging Netflix but it is of no help to the business community, telehealth, or remote learning.\\27\\ One of the respondents for my book put it this way: ``Download is about consumption, upload is about production.'' \\28\\ Said differently, upload is about business and the business community is not served by a national definition of 3 Mbps upload.\\29\\ --------------------------------------------------------------------------- \\27\\ Christopher Ali, ``The Presumption of the Connected,'' Benton Digital Beat, 2020, https://www.benton.org/blog/presumption-connected; Stuart Sweet, ``How Much Bandwidth Do You Need for Distance Learning?,'' The Solid Signal Blog, September 13, 2020, https:// blog.solid signal.com/tutorials/how-much-bandwidth-do-you-need-for-distance- learning/."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0190::Saúde e deficiência",
+   "unit_id": "W0190",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Christopher Ali",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "deaf",
+     "forma_encontrada": "de af",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "blind",
+     "forma_encontrada": "blind",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6928,
+     "fim_corpo": 7968,
+     "trecho": "This research will be featured in my book Farm Fresh Broadband: The Politics of Rural Connectivity that will be released in September from MIT Press. Today, I want to share with you all what I'm calling the ``5 M's'' of successful rural broadband deployment: Meaning, Money, Mapping, Municipalities, and Management. In doing so, I will also point out some of the flaws in previous policy attempts to close the rural- urban digital divide, and share my hope that history does not repeat itself. I am excited to speak about the potentials and possibilities for policy reform to stimulate robust and meaningful broadband deployment in rural America, which represents a facet of what is known as the ``digital divide.'' Other facets, as we know, include affordability, access to device, and digital literacy skills, which together are part of the larger concept of ``digital inclusion.'' \\2\\ Today though, I will talk about broadband infrastructure, which is a part of the digital divide specifically impacting rural America."
+    },
+    {
+     "inicio_corpo": 50880,
+     "fim_corpo": 51793,
+     "trecho": "3994 (2017), https://www.congress.gov/bill/115th-congress/house-bill/ 3994?q=%7B%22search%22%3A%22HR+3994+the+Access+Broad band+Act%22%7D. \\69\\ Paul Tonko, ``ACCESS BROADBAND Act,'' H.R. 1328 (2019), https://www.congress.gov/bill/116th-congress/house-bill/ 1328?q=%7B%22search%22%3A%5B%22%5C%22Access+Broad band+Act%5C%22%22%5D%7D&s=7&r=1. \\70\\ Kevin Cramer, ``S.454: Office of Rural Broadband Act,'' webpage, Congress.Gov, February 12, 2019, https://www.congress.gov/ bill/116th-congress/senate-bill/454/committees. --------------------------------------------------------------------------- A National Rural Broadband Plan When articulated poorly, the 5 M's of rural broadband policy replicate and extend what I have called in my writings ``the politics of good enough.'' \\71\\ Said differently, our preference for rapidity has made us blind to issues of speed, latency, price, and deployment."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0190::Territórios de povos e comunidades tradicionais",
+   "unit_id": "W0190",
+   "subcategoria": "Territórios de povos e comunidades tradicionais",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.5",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Christopher Ali",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "Tribal Lands",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "Tribal Lands",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11223,
+     "fim_corpo": 12380,
+     "trecho": "Public policy has a role to play in making these connections happen, but we must also ensure that the mistakes of the past are not repeated. --------------------------------------------------------------------------- \\8\\ Lesley Chiou and Catherine Tucker, ``Social Distancing, Internet Access and Inequality'' (Cambridge, Mass: National Bureau of Economic Research, April 13, 2020), https://doi.org/10.3386/w26982. --------------------------------------------------------------------------- Rural broadband at a glace Briefly, the FCC recently reported that 95.6 percent of Americans have access to broadband at a speed of 25Mbps download 3 Mbps upload (depicted as ``25/3''). This includes 98.8 percent of those in Urban Areas, 82.7 percent of those in Rural Areas, and 79.1 percent of those on Tribal Lands (see Table 1).\\9\\ --------------------------------------------------------------------------- \\9\\ Federal Communications Commission, ``2021 Broadband Deployment Report: In the Matter of Inquiry Concerning Deployment of Advanced Telecommunications Capability to All Americans in a Reasonable and Timely Fashion (GN Docket No."
+    },
+    {
+     "inicio_corpo": 34876,
+     "fim_corpo": 36142,
+     "trecho": "Mapping The third ``M'' in my rural broadband pentalogy is mapping. We have all, no doubt, heard the substantial and frequent criticisms of the FCC's broadband mapping methodology, but it is worth repeating here.\\48\\ Mapping should be the first step in planning and funding of broadband deployment, but as it stands today, we do not know who is connected, unconnected, and under-connected. In fact, we have a better map of the milky way galaxy then we do of who is un and under-connected in rural America. As I noted above, research suggests the FCC has exaggerated broadband deployment in the United States by upwards of 50 percent.\\49\\ --------------------------------------------------------------------------- \\48\\ Government Accountability Office, ``Broadband Internet: FCC's Data Overstate Access on Tribal Lands'' (Washington, D.C.: Government Accountability Office, 2018), https://www.gao .gov/products/gao-18-630.Bode, ``How Bad Maps Are Ruining American Broadband''; Karl Bode and Emanuel Maiberg, ``The FCC's New Broadband Map Paints an Irresponsibly Inaccurate Picture of American Broadband,'' Motherboard, February 23, 2018, https://motherboard.vice.com/en_us/ article/8xdk8x/new-fcc-broadband-map; Eric Null, ``Why Can't the U.S."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0190::Urbano e rural",
+   "unit_id": "W0190",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Christopher Ali",
+   "n_ocorrencias_no_par": 113,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 107,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 537,
+     "trecho": "STATEMENT OF CHRISTOPHER ALI, Ph.D., ASSOCIATE PROFESSOR, DEPARTMENT OF MEDIA STUDIES, UNIVERSITY OF VIRGINIA; KNIGHT NEWS INNOVATION FELLOW, TOW CENTER FOR DIGITAL JOURNALISM, COLUMBIA UNIVERSITY Dr. Ali. Great. Chair Cantwell, Ranking Member Wicker, distinguished members of the U.S. Senate Committee on Commerce, Science, and Transportation, thank you for the invitation to be here today to speak with you today, to speak about rural broadband policy and deployment."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 808,
+     "trecho": "STATEMENT OF CHRISTOPHER ALI, Ph.D., ASSOCIATE PROFESSOR, DEPARTMENT OF MEDIA STUDIES, UNIVERSITY OF VIRGINIA; KNIGHT NEWS INNOVATION FELLOW, TOW CENTER FOR DIGITAL JOURNALISM, COLUMBIA UNIVERSITY Dr. Ali. Great. Chair Cantwell, Ranking Member Wicker, distinguished members of the U.S. Senate Committee on Commerce, Science, and Transportation, thank you for the invitation to be here today to speak with you today, to speak about rural broadband policy and deployment. It is a great honor to be here. Today, I will argue for a new national rural broadband plan, one that incorporates what I called in my written testimony, The 5 M's of Successful Rural Broadband Deployment: Meaning, Money, Mapping, Municipalities, and Management."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 808,
+     "trecho": "STATEMENT OF CHRISTOPHER ALI, Ph.D., ASSOCIATE PROFESSOR, DEPARTMENT OF MEDIA STUDIES, UNIVERSITY OF VIRGINIA; KNIGHT NEWS INNOVATION FELLOW, TOW CENTER FOR DIGITAL JOURNALISM, COLUMBIA UNIVERSITY Dr. Ali. Great. Chair Cantwell, Ranking Member Wicker, distinguished members of the U.S. Senate Committee on Commerce, Science, and Transportation, thank you for the invitation to be here today to speak with you today, to speak about rural broadband policy and deployment. It is a great honor to be here. Today, I will argue for a new national rural broadband plan, one that incorporates what I called in my written testimony, The 5 M's of Successful Rural Broadband Deployment: Meaning, Money, Mapping, Municipalities, and Management."
+    },
+    {
+     "inicio_corpo": 537,
+     "fim_corpo": 1328,
+     "trecho": "It is a great honor to be here. Today, I will argue for a new national rural broadband plan, one that incorporates what I called in my written testimony, The 5 M's of Successful Rural Broadband Deployment: Meaning, Money, Mapping, Municipalities, and Management. I applaud you for passing the Consolidated Appropriations Act which included $3.2 billion for the Emergency Broadband to Benefit Program, and the American Rescue Plan Act, which allocates $7.1 billion for broadband for schools and libraries, and $10 billion for state infrastructure projects. I am also excited about the reintroduction of the Accessible, Affordable Internet for All Act last week. We need to build on this momentum and develop a decisive and coherent plan for rural broadband deployment."
+    },
+    {
+     "inicio_corpo": 537,
+     "fim_corpo": 1395,
+     "trecho": "It is a great honor to be here. Today, I will argue for a new national rural broadband plan, one that incorporates what I called in my written testimony, The 5 M's of Successful Rural Broadband Deployment: Meaning, Money, Mapping, Municipalities, and Management. I applaud you for passing the Consolidated Appropriations Act which included $3.2 billion for the Emergency Broadband to Benefit Program, and the American Rescue Plan Act, which allocates $7.1 billion for broadband for schools and libraries, and $10 billion for state infrastructure projects. I am also excited about the reintroduction of the Accessible, Affordable Internet for All Act last week. We need to build on this momentum and develop a decisive and coherent plan for rural broadband deployment. Some quick facts about broadband deployment in rural America."
+    },
+    {
+     "inicio_corpo": 537,
+     "fim_corpo": 1493,
+     "trecho": "It is a great honor to be here. Today, I will argue for a new national rural broadband plan, one that incorporates what I called in my written testimony, The 5 M's of Successful Rural Broadband Deployment: Meaning, Money, Mapping, Municipalities, and Management. I applaud you for passing the Consolidated Appropriations Act which included $3.2 billion for the Emergency Broadband to Benefit Program, and the American Rescue Plan Act, which allocates $7.1 billion for broadband for schools and libraries, and $10 billion for state infrastructure projects. I am also excited about the reintroduction of the Accessible, Affordable Internet for All Act last week. We need to build on this momentum and develop a decisive and coherent plan for rural broadband deployment. Some quick facts about broadband deployment in rural America. The FCC reports that 82.7 percent of rural Americans have access to broadband at speeds of 25/3."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0191::Administração pública",
+   "unit_id": "W0191",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Hon. Michael P. O'Rielly",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3934,
+     "fim_corpo": 4784,
+     "trecho": "For instance, the asynchronous speed thresholds suggested by some, do not reflect expected usage of future growth, much less current levels. Ultimately, it means a great deal of the country will be deemed unserved. Funding will flow to the easier areas and the unserved areas will be, essentially, ignored again. Some of the policy cuts are also very problematic, like the preemption of state municipal broadband limits. Moreover, I have further concerns that recent Federal investment efforts will undermine the Commission's efforts to promote efficient subsidies. Aside from the broadband funding issue, many restrictions are preventing companies from deploying broadband to all those without access, specifically, some state and local governments and private company limitations, are acting as barriers to greater deployment."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0191::Domicílio e arranjo familiar",
+   "unit_id": "W0191",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Hon. Michael P. O'Rielly",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 119,
+     "fim_corpo": 1053,
+     "trecho": "O'Rielly. Thank you. Chair Cantwell, Ranking Member Wicker, and members of the Committee, Happy St. Patrick's Day! Thank you for inviting me to share my views on the important subject of expanding high-speed broadband access in America. Thank you also for the Committee's indulgence last year, considering my re-nomination to the FCC, which did not exactly play out as expected, but I am very pleased to be here in this new capacity. For clarification, I do not currently represent any party involved in the issues of this hearing. While that may make me the worst consultant ever, the truth is my business is just a handful of weeks old. On topic, the availability of high-speed Internet allows users around the world to communicate, learn, work, conduct commerce, and so much more. And it has proven especially important during the COVID-19 pandemic, when American families have been isolated and quarantined."
+    },
+    {
+     "inicio_corpo": 923,
+     "fim_corpo": 1716,
+     "trecho": "And it has proven especially important during the COVID-19 pandemic, when American families have been isolated and quarantined. America's private broadband sector deserves enormous credit for the investment in upgrades it implemented, over the last many years, to handle the recent increase in Internet traffic. Our networks performed incredibly well, especially in contrast to other nations. The technology has proven immensely valuable for Americans with broadband access, and there should be little doubt that progress has been made to extend its reach, especially in bringing service to the most difficult corners of our nation, through many FCC programs that I had a hand in creating or reshaping. Simply put, the numbers of unserved households have shrunk precipitously."
+    },
+    {
+     "inicio_corpo": 4784,
+     "fim_corpo": 5589,
+     "trecho": "Providers can face fees to utilize existing communications infrastructure for poles, ducts, and conduits, or convoluted processes to gain rights away and zoning approvals. They also encounter limitations on the placement of expansion of wireless facilities. The Committee should clarify acceptable and prohibited practices and law, like was done in the bipartisan 2012 Spectrum Act. I also suggest, humbly, that you eliminate or revamp the ETC designation process, which is hindering deployment. In sum, broadband is a highly valuable service that can be life changing for many Americans. Exceptional progress has been made over the last few years, by the private sector and through various Federal programs, to extend existing networks and ensure service to those interested families."
+    },
+    {
+     "inicio_corpo": 6175,
+     "fim_corpo": 6882,
+     "trecho": "In a year that has presented many challenges--on many levels--it is a pleasure for me to return to familiar stomping grounds. May I also extend my appreciation for your continued public service to our nation, despite the unfair and inappropriate criticism often laid before this body. Introduction There should be little disagreement that broadband technology has altered--and, in most cases, improved--American society. The availability of high-speed Internet allows users around the world to communicate, learn, work, conduct commerce, and so much more. These benefits have never been more apparent than during the Covid-19 pandemic when American families have been isolated and quarantined."
+    },
+    {
+     "inicio_corpo": 7217,
+     "fim_corpo": 8209,
+     "trecho": "Reports and anecdotal evidence suggest that companies experienced increases of 30 to 50 percent in usage compared to the pre-Covid time period. Our networks performed incredibly well, especially in contrast to other nations, including countries in the European Union, which were forced to request that Internet content providers take measures to stymie Internet consumption and speeds in order to minimize challenges to overall network sustainability. It is because of our industry's foresight and network advances in prior years that U.S. broadband networks were generally able to sustain these capacity demands. And, the industry should be duly credited for forgoing revenue and fees during the Covid- 19 crisis to ensure connectivity to subscribers in financial need, as part of voluntary pledges to the government. Despite these positive experiences, many American families still have had to suffice with substandard broadband or are without the means to obtain service."
+    },
+    {
+     "inicio_corpo": 8047,
+     "fim_corpo": 9190,
+     "trecho": "Despite these positive experiences, many American families still have had to suffice with substandard broadband or are without the means to obtain service. In addition, a portion of the population has never sought to be connected at all. Addressing these issues was a high priority during my time in public service, especially at the FCC, and will remain so going forward. Federal Broadband Investments and Challenges One of the Commission's highest priorities over the last decade has been to increase the availability of high-speed broadband. Without availability or deployment, all other issues pertaining to broadband access do not exist. While critics can and do argue over the speed thresholds or measurements used, there should be no doubt that enormous progress has been made, especially in reaching the hardest to serve corners of our Nation. Most American families now have broadband or will have the option to connect, thanks, in no small part, to the efforts of the professionals at the Commission to distribute approximately $4.5 billion annually in high-cost support from the Universal Service Fund (USF)."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0191::Infraestrutura e porte populacional",
+   "unit_id": "W0191",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Hon. Michael P. O'Rielly",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 772,
+     "fim_corpo": 1716,
+     "trecho": "On topic, the availability of high-speed Internet allows users around the world to communicate, learn, work, conduct commerce, and so much more. And it has proven especially important during the COVID-19 pandemic, when American families have been isolated and quarantined. America's private broadband sector deserves enormous credit for the investment in upgrades it implemented, over the last many years, to handle the recent increase in Internet traffic. Our networks performed incredibly well, especially in contrast to other nations. The technology has proven immensely valuable for Americans with broadband access, and there should be little doubt that progress has been made to extend its reach, especially in bringing service to the most difficult corners of our nation, through many FCC programs that I had a hand in creating or reshaping. Simply put, the numbers of unserved households have shrunk precipitously."
+    },
+    {
+     "inicio_corpo": 3355,
+     "fim_corpo": 4152,
+     "trecho": "That should raise a host of red flags. In terms of broadband funding in a larger infrastructure bill, the draft efforts I have seen so far should raise multiple concerns. I humbly suggest that the massive funding levels, which will dwarf private sector and any current government investment, should be pared back to, perhaps, no larger than $20 billion or, if it is to remain at this level, be done in tranches. Beyond that, a number of troubling components should be fully explored and potentially amended by the members of the Committee, before any enactment. For instance, the asynchronous speed thresholds suggested by some, do not reflect expected usage of future growth, much less current levels. Ultimately, it means a great deal of the country will be deemed unserved."
+    },
+    {
+     "inicio_corpo": 3355,
+     "fim_corpo": 4252,
+     "trecho": "That should raise a host of red flags. In terms of broadband funding in a larger infrastructure bill, the draft efforts I have seen so far should raise multiple concerns. I humbly suggest that the massive funding levels, which will dwarf private sector and any current government investment, should be pared back to, perhaps, no larger than $20 billion or, if it is to remain at this level, be done in tranches. Beyond that, a number of troubling components should be fully explored and potentially amended by the members of the Committee, before any enactment. For instance, the asynchronous speed thresholds suggested by some, do not reflect expected usage of future growth, much less current levels. Ultimately, it means a great deal of the country will be deemed unserved. Funding will flow to the easier areas and the unserved areas will be, essentially, ignored again."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0191::Saúde",
+   "unit_id": "W0191",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Hon. Michael P. O'Rielly",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6175,
+     "fim_corpo": 7029,
+     "trecho": "In a year that has presented many challenges--on many levels--it is a pleasure for me to return to familiar stomping grounds. May I also extend my appreciation for your continued public service to our nation, despite the unfair and inappropriate criticism often laid before this body. Introduction There should be little disagreement that broadband technology has altered--and, in most cases, improved--American society. The availability of high-speed Internet allows users around the world to communicate, learn, work, conduct commerce, and so much more. These benefits have never been more apparent than during the Covid-19 pandemic when American families have been isolated and quarantined. In fact, in some instances, including access to telemedicine/telehealth or testing and vaccine information, the technology has been a lifesaver."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0191::Urbano e rural",
+   "unit_id": "W0191",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Hon. Michael P. O'Rielly",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8606,
+     "fim_corpo": 9533,
+     "trecho": "Without availability or deployment, all other issues pertaining to broadband access do not exist. While critics can and do argue over the speed thresholds or measurements used, there should be no doubt that enormous progress has been made, especially in reaching the hardest to serve corners of our Nation. Most American families now have broadband or will have the option to connect, thanks, in no small part, to the efforts of the professionals at the Commission to distribute approximately $4.5 billion annually in high-cost support from the Universal Service Fund (USF). From modernizing the Connect America Fund and removing obstacles to rate-of-return providers offering standalone service, to the approval of model-based support and the introduction of reverse auctions and the latest Rural Digital Opportunity Fund Phase I, the FCC has been at the forefront of solving the broadband availability problem."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0192::Administração pública",
+   "unit_id": "W0192",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Jon Wilkins",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 15815,
+     "fim_corpo": 16485,
+     "trecho": "More than four hundred bidding entities, representing an even greater number of underlying operating companies, participated in the RDOF-I auction, an astounding number. As one example, large numbers of rural electric co-operatives demonstrated the increasing interest of that industry in offering broadband to their members. Various other new entrants also see opportunities to serve rural markets. This in and of itself is a very positive and relatively new development, but it is not surprising. Given the increasing economic importance of broadband, these projects are of significant interest to local providers, investors, and state and local governments."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0192::Domicílio e arranjo familiar",
+   "unit_id": "W0192",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Jon Wilkins",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7546,
+     "fim_corpo": 8572,
+     "trecho": "Over the last decade, the FCC's high-cost fund has invested approximately $40 billion, bringing broadband to millions of locations, primarily in rural areas. Over the last five years, the FCC's E-Rate program has successfully connected over 99 percent of U.S. schools to the high- speed connections needed for modern digital learning. And over just the last few months, Congress has provided new support for broadband adoption and deployment that will help millions to afford broadband service now and have access in the future. Despite this progress, however, the need for high-quality broadband is increasing and the demands on our broadband infrastructure are growing at an astonishing rate. What was good broadband, or at least good enough, just ten years ago is now evidently inadequate. And while in large parts of the country--such as middle-and high-income households in city and suburban neighborhoods--our private provider market is largely meeting this need, for a significant portion of the U.S."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0192::Educação",
+   "unit_id": "W0192",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Jon Wilkins",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7049,
+     "fim_corpo": 7885,
+     "trecho": "I will provide in my testimony today some of the lessons learned from RDOF, both from the perspective of new types of providers seeking to offer broadband as well as with respect to potential improvements to funding award processes. U.S. telecommunications policy has recognized the importance of closing the digital divide for many years. Federal, state, and local governments have pursued a range of policies to promote universal access to broadband, and some progress has been made. Over the last decade, the FCC's high-cost fund has invested approximately $40 billion, bringing broadband to millions of locations, primarily in rural areas. Over the last five years, the FCC's E-Rate program has successfully connected over 99 percent of U.S. schools to the high- speed connections needed for modern digital learning."
+    },
+    {
+     "inicio_corpo": 7885,
+     "fim_corpo": 8849,
+     "trecho": "And over just the last few months, Congress has provided new support for broadband adoption and deployment that will help millions to afford broadband service now and have access in the future. Despite this progress, however, the need for high-quality broadband is increasing and the demands on our broadband infrastructure are growing at an astonishing rate. What was good broadband, or at least good enough, just ten years ago is now evidently inadequate. And while in large parts of the country--such as middle-and high-income households in city and suburban neighborhoods--our private provider market is largely meeting this need, for a significant portion of the U.S. population the lack of access to affordable broadband infrastructure has become an increasingly dire problem. The last year of pandemic disruptions to work, school, commerce, and almost every other aspect of life have highlighted the stakes in the starkest possible terms."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0192::Infraestrutura e porte populacional",
+   "unit_id": "W0192",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Jon Wilkins",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved locations",
+     "forma_encontrada": "unserved locations",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9117,
+     "fim_corpo": 10058,
+     "trecho": "This is an extremely important and welcome change, because both the national need to solve the broadband problem once-and-for-all, as well as the potential for successfully doing so, has never been higher. Each dollar of public investment in broadband can generate several times that amount in additional private investment, amplifying the economic benefits. In the remainder of my testimony, I will highlight several broadband-sector trends with policy implications and suggest some considerations for how best to build on the policy actions and investments of recent years. Is $80 Billion Enough? In January 2017, an FCC staff whitepaper calculated that a total investment of $80 billion would be sufficient to reach the U.S. residential and small-business locations then regarded by the Commission as ``unserved'' by robust broadband infrastructure capable of at least 25 Mbps downstream and 3 Mbps upstream (25/3 Mbps)."
+    },
+    {
+     "inicio_corpo": 9859,
+     "fim_corpo": 10761,
+     "trecho": "residential and small-business locations then regarded by the Commission as ``unserved'' by robust broadband infrastructure capable of at least 25 Mbps downstream and 3 Mbps upstream (25/3 Mbps). The FCC staff went on to estimate that approximately 85 percent of the locations reached for this $80 billion investment would be self- sustaining and require no ongoing subsidy; for the final 15 percent-- equivalent to about 2 percent of all U.S. locations--the FCC whitepaper noted the need for an ongoing subsidy of approximately $2 billion per year, or about half of current Commission annual support amounts. The $80 billion investment and annual $2 billion support figures were calculated using detailed economic information and modeling capabilities available to the FCC's expert staff and were based on reaching all such unserved locations with fiber-to-the-premise (FTTP) connections."
+    },
+    {
+     "inicio_corpo": 11003,
+     "fim_corpo": 11754,
+     "trecho": "The recent RDOF auction will also result in support for additional deployments after the FCC completes its ongoing review of long-form applications. It is important to note, however, that far from all CAF-II and RDOF awards were for the high- quality fiber networks modeled in 2017. However, despite this progress, as of March 2021, the total investment required is likely still at least $80 billion, and more likely somewhat higher. This may seem somewhat counterintuitive given investments over the recent years, but I believe it to be the case for the following reasons. First, the 2017 analysis used the FCC's best maps of broadband deployment available at the time, which are known to undercount the size of the unserved population."
+    },
+    {
+     "inicio_corpo": 11588,
+     "fim_corpo": 12609,
+     "trecho": "First, the 2017 analysis used the FCC's best maps of broadband deployment available at the time, which are known to undercount the size of the unserved population. For example, as members of this Committee are acutely aware, the FCC's legacy approach treats all locations in a census block as served if a provider reports the ability to provide service to just a single location in the block; this alone leads to undercount by definition. In addition, location growth in some rural areas over the last decade is of course not captured by legacy FCC data. As a result of these basic data issues alone, when the FCC completes its current work to update broadband availability maps for the entire country as mandated by the 2020 Broadband DATA Act, it is widely expected that nearly as many unserved residential and small- business locations will be identified in the new total count as was the case in 2017, even accounting for new deployments funded by private or public investments in the intervening years."
+    },
+    {
+     "inicio_corpo": 15815,
+     "fim_corpo": 16647,
+     "trecho": "More than four hundred bidding entities, representing an even greater number of underlying operating companies, participated in the RDOF-I auction, an astounding number. As one example, large numbers of rural electric co-operatives demonstrated the increasing interest of that industry in offering broadband to their members. Various other new entrants also see opportunities to serve rural markets. This in and of itself is a very positive and relatively new development, but it is not surprising. Given the increasing economic importance of broadband, these projects are of significant interest to local providers, investors, and state and local governments. The RDOF-I outcome showed that a subsidy boost is enough to persuade many types of providers to pursue building new broadband networks to unserved communities."
+    },
+    {
+     "inicio_corpo": 20018,
+     "fim_corpo": 21018,
+     "trecho": "In a reverse auction, these financing costs must be incorporated into bidding strategies, potentially causing participants to drop out earlier than otherwise necessary because a material portion of the funds intended for broadband deployment must instead be spent on financing. In other words, some projects will not be built despite their inherent economic viability over the long term. One initial improvement would be to shift to a shorter term for paying out support that better aligns with actual project needs. A ten- year period is too long. In reality, many cable and FTTP projects can be built within two-to-three years, assuming adequate up-front planning and preparation, such as ensuring access to needed materials and labor. As one immediate upside, such a change would bring broadband to unserved areas more quickly, an important benefit in and of itself; indeed, many local stakeholders in rural areas strongly support proposals to incentivize accelerated deployment."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0192::Renda e classe",
+   "unit_id": "W0192",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Jon Wilkins",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 22224,
+     "fim_corpo": 23203,
+     "trecho": "The financial structure of broadband deployment--large up-front capital costs but relatively moderate ongoing operating and maintenance costs--means that the economic viability of a project can be highly sensitive to adoption levels. Prospective providers must closely analyze not just the cost to build the network, but also the potential revenues. In some cases, uncertainty about the ability of local customers to afford service over time deters the pursuit of otherwise viable projects. This creates an unfortunate vicious circle, with the communities most in need of the economic development benefits of broadband least able to attract the needed investment. Fortunately, longstanding broadband programs such as E-Rate and Rural Health Care support for anchor institutions, as well as programs designed for low-income users, including new programs such as the Emergency Broadband Benefit, all are available to support the demand side of broadband projects."
+    }
+   ]
+  }
+ ]
+}

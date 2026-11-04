@@ -1,0 +1,1016 @@
+{
+ "caso": "FUST",
+ "lote": 52,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0311::Urbano e rural",
+   "unit_id": "S0311",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Ronaldo Cunha Lima",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "campos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 481,
+     "trecho": "O SR. RONALDO CUNHA LIMA (PMDB - PB) - Sr. Presidente, Sras. e Srs. Senadores, ao celebrarmos, nesta Sessão Solene, o centenário de nascimento do Professor Anísio Spínola Teixeira, temos o ensejo de homenagear a memória de um dos mais importantes educadores brasileiros de todos os tempos. Pois o mestre baiano, reconhecido como grande atualizador e reformador do ensino em nosso País, imprimiu sua contribuição tanto no mister educacional quanto nos campos filosófico e cultural."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0312::Posição no trabalho",
+   "unit_id": "S0312",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Sérgio Machado",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "autônomo",
+     "forma_encontrada": "autônomo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 264,
+     "fim_corpo": 1198,
+     "trecho": "Como sabemos, a legislação brasileira tem adotado a concessão de benefícios tributários, em sua maioria através da isenção de impostos na aquisição de determinados produtos, como prática mais comum de incentivo aos portadores de alguma deficiência física. Mas, em alguns casos, faz-se necessária a correção urgente de equívocos que vêm inibindo os verdadeiros objetivos dessas leis. Um exemplo recente é a Medida Provisória nº 1.939-29, de 27 de maio de 2000, que prevê a restauração da vigência da Lei nº 8.989, de 24 de fevereiro de 1995. Solicitei junto ao Governo Federal, através do Ministro da Casa Civil, Pedro Parente, atenção especial a essa lei, que dispõe sobre a isenção do Imposto sobre Produtos Industrializados – IPI – na aquisição de automóveis destinados ao transporte autônomo de passageiros e ao uso de portadores de deficiência física e reduz o imposto de importação para os veículos semi-automáticos."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0312::Saúde e deficiência",
+   "unit_id": "S0312",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Sérgio Machado",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "deficiência física",
+     "forma_encontrada": "deficiência física",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "deficiência física",
+     "forma_encontrada": "deficiência física",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "portadores de deficiência",
+     "forma_encontrada": "portadores de deficiência",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "deficientes",
+     "forma_encontrada": "deficientes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "deficientes",
+     "forma_encontrada": "deficientes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "deficientes",
+     "forma_encontrada": "deficientes",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 264,
+     "trecho": "O SR. SÉRGIO MACHADO (PSDB – CE. Como Líder. Sem revisão do orador.) – Sr. Presidente, Sr as e Sr s Senadores, é com grande satisfação que assumo esta tribuna, hoje, para trazer aos brasileiros portadores de algum tipo de deficiência física uma excelente notícia."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 526,
+     "trecho": "O SR. SÉRGIO MACHADO (PSDB – CE. Como Líder. Sem revisão do orador.) – Sr. Presidente, Sr as e Sr s Senadores, é com grande satisfação que assumo esta tribuna, hoje, para trazer aos brasileiros portadores de algum tipo de deficiência física uma excelente notícia. Como sabemos, a legislação brasileira tem adotado a concessão de benefícios tributários, em sua maioria através da isenção de impostos na aquisição de determinados produtos, como prática mais comum de incentivo aos portadores de alguma deficiência física."
+    },
+    {
+     "inicio_corpo": 264,
+     "fim_corpo": 1198,
+     "trecho": "Como sabemos, a legislação brasileira tem adotado a concessão de benefícios tributários, em sua maioria através da isenção de impostos na aquisição de determinados produtos, como prática mais comum de incentivo aos portadores de alguma deficiência física. Mas, em alguns casos, faz-se necessária a correção urgente de equívocos que vêm inibindo os verdadeiros objetivos dessas leis. Um exemplo recente é a Medida Provisória nº 1.939-29, de 27 de maio de 2000, que prevê a restauração da vigência da Lei nº 8.989, de 24 de fevereiro de 1995. Solicitei junto ao Governo Federal, através do Ministro da Casa Civil, Pedro Parente, atenção especial a essa lei, que dispõe sobre a isenção do Imposto sobre Produtos Industrializados – IPI – na aquisição de automóveis destinados ao transporte autônomo de passageiros e ao uso de portadores de deficiência física e reduz o imposto de importação para os veículos semi-automáticos."
+    },
+    {
+     "inicio_corpo": 1198,
+     "fim_corpo": 2026,
+     "trecho": "O art. 2º da medida provisória faz referência ao art. 1º da Lei nº 8.989, de 1995, que foi alterada pelo art. 29 da Lei nº 9.317, de 1996. A idéia central desse artigo é caracterizar um modelo obrigatório de automóvel para que os possíveis beneficiários obtenham isenção fiscal para compra de veículos novos semi-automáticos. Dentre as características exigidas, a necessidade de que o combustível dos referidos automóveis seja de origem renovável, o álcool, cria um sério entrave. Segundo informações obtidas junto às montadoras nacionais, atualmente, não são fabricados modelos de carro com transmissão automática que possuam essa característica. Isso significa que, para os deficientes físicos que necessitam de automóvel com câmbio automático, a imposição de que esses veículos sejam a álcool torna a lei inócua."
+    },
+    {
+     "inicio_corpo": 1314,
+     "fim_corpo": 2921,
+     "trecho": "29 da Lei nº 9.317, de 1996. A idéia central desse artigo é caracterizar um modelo obrigatório de automóvel para que os possíveis beneficiários obtenham isenção fiscal para compra de veículos novos semi-automáticos. Dentre as características exigidas, a necessidade de que o combustível dos referidos automóveis seja de origem renovável, o álcool, cria um sério entrave. Segundo informações obtidas junto às montadoras nacionais, atualmente, não são fabricados modelos de carro com transmissão automática que possuam essa característica. Isso significa que, para os deficientes físicos que necessitam de automóvel com câmbio automático, a imposição de que esses veículos sejam a álcool torna a lei inócua. Diante do exposto, considerei fundamental pleitear, junto ao Presidente Fernando Henrique Cardoso, que fossem efetuadas as correções necessárias para dar acesso aos deficientes físicos do benefício fiscal na aquisição de veículos novos automáticos movidos por qualquer combustível. O Governo Federal mostrou-se sensível a essa justa reivindicação de milhares de deficientes de todo o País e vai, com essa medida, tornar mais acessível um meio de transporte fundamental para esses brasileiros, que, privados pela natureza, terão agora condição de adquirir um veículo adequado. As alterações necessárias já foram efetuadas e a reedição dessa medida provisória, agora sob o número 1.939-30, já se encontra publicada hoje no Diário Oficial , o que foi uma medida extremamente importante tomada pelo Governo e que beneficiará milhões de brasileiros. Muito obrigado, Sr. Presidente."
+    },
+    {
+     "inicio_corpo": 1530,
+     "fim_corpo": 2921,
+     "trecho": "Dentre as características exigidas, a necessidade de que o combustível dos referidos automóveis seja de origem renovável, o álcool, cria um sério entrave. Segundo informações obtidas junto às montadoras nacionais, atualmente, não são fabricados modelos de carro com transmissão automática que possuam essa característica. Isso significa que, para os deficientes físicos que necessitam de automóvel com câmbio automático, a imposição de que esses veículos sejam a álcool torna a lei inócua. Diante do exposto, considerei fundamental pleitear, junto ao Presidente Fernando Henrique Cardoso, que fossem efetuadas as correções necessárias para dar acesso aos deficientes físicos do benefício fiscal na aquisição de veículos novos automáticos movidos por qualquer combustível. O Governo Federal mostrou-se sensível a essa justa reivindicação de milhares de deficientes de todo o País e vai, com essa medida, tornar mais acessível um meio de transporte fundamental para esses brasileiros, que, privados pela natureza, terão agora condição de adquirir um veículo adequado. As alterações necessárias já foram efetuadas e a reedição dessa medida provisória, agora sob o número 1.939-30, já se encontra publicada hoje no Diário Oficial , o que foi uma medida extremamente importante tomada pelo Governo e que beneficiará milhões de brasileiros. Muito obrigado, Sr. Presidente."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0313::Domicílio e arranjo familiar",
+   "unit_id": "S0313",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Emília Fernandes",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1975,
+     "fim_corpo": 2979,
+     "trecho": "Depois de três dias de conversação entre o Sul e o Norte, os seus dirigentes Kim Dae-Jung e Kim-Jong il apresentaram e assinaram uma declaração conjunta a partir do reconhecendo mútuo na necessidade do desenvolvimento das relações entre as Coréias e na realização de uma reunificação pacífica. Os pontos acordados pelos dois líderes foram: 1. O Sul e o Norte acordaram em resolver a questão da reunificação, independentemente, mediante esforços conjuntos da população coreana, que são os verdadeiros líderes do país; 2. Visando a reunificação, acordaram que existe um elemento comum entre o conceito do Sul de confederação e a fórmula do Norte para uma federação mais livre. O Sul e o Norte concordaram em promover a reunificação, seguindo esse elemento comum; 3. O Sul e o Norte acordaram em resolver prontamente os temas humanitários, tais como as visitas das famílias separadas no Dia Nacional da Liberação, 15 de agosto, e a questão de prisioneiros políticos no Sul; 4."
+    },
+    {
+     "inicio_corpo": 3404,
+     "fim_corpo": 4353,
+     "trecho": "Além disso, os dois dirigentes, durante as reuniões, abordaram a presença militar norte-americana no lado sul da fronteira. Ali, sabem V. Exªs., que os Estados Unidos mantêm até hoje uma tropa estimada em 37 mil soldados, além de aviões, blindados, bombas atômicas – há inclusive essa informação – constituindo uma forte ameaça à segurança de toda a região. Outro assunto tratado foi a necessidade de se derrubar o que representa o maior símbolo da divisão nacional – um muro de 240 quilômetros de extensão, de 10 metros de largura por 5 metros de altura, que corta o País ao meio. Esse muro é camuflado do lado sul por terra e pedras e foi construído logo depois da guerra da Coréia, com apoio dos Estados Unidos. Sobre a declaração conjunta firmada pelos dois líderes cabe ressaltar como histórica a decisão de aproximar as famílias que se encontram separadas há pelo menos cinco décadas, em um total de sete milhões de pessoas."
+    },
+    {
+     "inicio_corpo": 3534,
+     "fim_corpo": 4486,
+     "trecho": "Ali, sabem V. Exªs., que os Estados Unidos mantêm até hoje uma tropa estimada em 37 mil soldados, além de aviões, blindados, bombas atômicas – há inclusive essa informação – constituindo uma forte ameaça à segurança de toda a região. Outro assunto tratado foi a necessidade de se derrubar o que representa o maior símbolo da divisão nacional – um muro de 240 quilômetros de extensão, de 10 metros de largura por 5 metros de altura, que corta o País ao meio. Esse muro é camuflado do lado sul por terra e pedras e foi construído logo depois da guerra da Coréia, com apoio dos Estados Unidos. Sobre a declaração conjunta firmada pelos dois líderes cabe ressaltar como histórica a decisão de aproximar as famílias que se encontram separadas há pelo menos cinco décadas, em um total de sete milhões de pessoas. Quando visitamos a Coréia socialista pudemos verificar o drama dessas famílias que estão divididas e que não se vêem há tantos anos."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0313::Idade",
+   "unit_id": "S0313",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Emília Fernandes",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3998,
+     "fim_corpo": 4748,
+     "trecho": "Esse muro é camuflado do lado sul por terra e pedras e foi construído logo depois da guerra da Coréia, com apoio dos Estados Unidos. Sobre a declaração conjunta firmada pelos dois líderes cabe ressaltar como histórica a decisão de aproximar as famílias que se encontram separadas há pelo menos cinco décadas, em um total de sete milhões de pessoas. Quando visitamos a Coréia socialista pudemos verificar o drama dessas famílias que estão divididas e que não se vêem há tantos anos. A lei de segurança existente na parte sul, por exemplo, até hoje caracteriza como crime o ato de aproximação de um cidadão do Sul com outro do Norte; nem mesmo para eventos esportivos e culturais os jovens são autorizados a se aproximarem dos seus irmãos."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0313::Infraestrutura e porte populacional",
+   "unit_id": "S0313",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Emília Fernandes",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "fronteira",
+     "forma_encontrada": "fronteira",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2668,
+     "fim_corpo": 3534,
+     "trecho": "O Sul e o Norte concordaram em promover a reunificação, seguindo esse elemento comum; 3. O Sul e o Norte acordaram em resolver prontamente os temas humanitários, tais como as visitas das famílias separadas no Dia Nacional da Liberação, 15 de agosto, e a questão de prisioneiros políticos no Sul; 4. O Sul e o Norte acordaram em consolidar a confiança mútua, promovendo balanços do desenvolvimento econômico, por meio da cooperação econômica e da promoção de cooperação nos campos cívico, cultural, esporte, saúde e meio ambiente, entre outros; 5. O Sul e o Norte acordaram em promover diálogos entre autoridades de ambos os países, visando à implementação dos acordos abaixo mencionados, dentro da possível brevidade. Além disso, os dois dirigentes, durante as reuniões, abordaram a presença militar norte-americana no lado sul da fronteira."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0313::Macrorregião",
+   "unit_id": "S0313",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Emília Fernandes",
+   "n_ocorrencias_no_par": 18,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 12,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 732,
+     "trecho": "A SRª EMILIA FERNANDES (Bloco/PDT – RS. Pronuncia o seguinte discurso. Sem revisão da oradora.) – Sr. Presidente, Sr as e Sr s Senadores, ocupo a tribuna, nesta tarde, para saudar o encontro histórico ocorrido na última semana e que o mundo inteiro registrou recentemente. Refiro-me ao encontro dos líderes da Coréia do Sul e da República Popular e Democrática da Coréia – Kim Dae-jung e Kim Jong-il - depois de meio século de separação da península coreana. Estamos acompanhando este assunto há algum tempo, não apenas por integrarmos a Comissão de Relações Exteriores e Defesa Nacional mas, também, porque tivemos a oportunidade de, há dois anos, visitarmos oficialmente a Coréia do Norte a convite do Governo daquele país."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 843,
+     "trecho": "A SRª EMILIA FERNANDES (Bloco/PDT – RS. Pronuncia o seguinte discurso. Sem revisão da oradora.) – Sr. Presidente, Sr as e Sr s Senadores, ocupo a tribuna, nesta tarde, para saudar o encontro histórico ocorrido na última semana e que o mundo inteiro registrou recentemente. Refiro-me ao encontro dos líderes da Coréia do Sul e da República Popular e Democrática da Coréia – Kim Dae-jung e Kim Jong-il - depois de meio século de separação da península coreana. Estamos acompanhando este assunto há algum tempo, não apenas por integrarmos a Comissão de Relações Exteriores e Defesa Nacional mas, também, porque tivemos a oportunidade de, há dois anos, visitarmos oficialmente a Coréia do Norte a convite do Governo daquele país. Então, desde lá, criamos no Congresso Nacional um grupo parlamentar de amizade entre Brasil e Coréia do Norte."
+    },
+    {
+     "inicio_corpo": 273,
+     "fim_corpo": 1036,
+     "trecho": "Refiro-me ao encontro dos líderes da Coréia do Sul e da República Popular e Democrática da Coréia – Kim Dae-jung e Kim Jong-il - depois de meio século de separação da península coreana. Estamos acompanhando este assunto há algum tempo, não apenas por integrarmos a Comissão de Relações Exteriores e Defesa Nacional mas, também, porque tivemos a oportunidade de, há dois anos, visitarmos oficialmente a Coréia do Norte a convite do Governo daquele país. Então, desde lá, criamos no Congresso Nacional um grupo parlamentar de amizade entre Brasil e Coréia do Norte. Aliás, uma das grandes lutas daquele país é, em primeiro lugar, a reunificação dos dois países; em segundo lugar, o estabelecimento de relações diplomáticas entre o Brasil e a Coréia do Norte."
+    },
+    {
+     "inicio_corpo": 843,
+     "fim_corpo": 1852,
+     "trecho": "Aliás, uma das grandes lutas daquele país é, em primeiro lugar, a reunificação dos dois países; em segundo lugar, o estabelecimento de relações diplomáticas entre o Brasil e a Coréia do Norte. Então, no momento em que as grandes lideranças daqueles dois países, ou daquele país que se encontra dividido, se encontram e começam a construir uma possibilidade de paz e de integração, somos obrigados a registrar e a saudar essa iniciativa. O encontro deu início às discussões sobre o processo de reunificação e foi saudado efusivamente nas ruas de Pyong-yang, Capital da Coréia socialista, por mais de meio milhão de pessoas que, entusiasmadas, entoavam o grito que é a causa maior dos 70 milhões de coreanos: a Coréia é uma só! Lembro-me bem, Sr. Presidente, Srªs e Srs. Senadores, que, quando tive oportunidade de conhecer em 1995 a Coréia do Norte, pelas ruas modernas da capital vi imensos outdoors com esta mesma palavra de ordem: A Coréia é uma só, um só povo, um só país, uma só nação\"."
+    },
+    {
+     "inicio_corpo": 1286,
+     "fim_corpo": 2275,
+     "trecho": "O encontro deu início às discussões sobre o processo de reunificação e foi saudado efusivamente nas ruas de Pyong-yang, Capital da Coréia socialista, por mais de meio milhão de pessoas que, entusiasmadas, entoavam o grito que é a causa maior dos 70 milhões de coreanos: a Coréia é uma só! Lembro-me bem, Sr. Presidente, Srªs e Srs. Senadores, que, quando tive oportunidade de conhecer em 1995 a Coréia do Norte, pelas ruas modernas da capital vi imensos outdoors com esta mesma palavra de ordem: A Coréia é uma só, um só povo, um só país, uma só nação\". Foi dividida há 50 anos, depois de uma guerra por meio da qual o Império norte-americano estimulou a sua divisão nacional. Depois de três dias de conversação entre o Sul e o Norte, os seus dirigentes Kim Dae-Jung e Kim-Jong il apresentaram e assinaram uma declaração conjunta a partir do reconhecendo mútuo na necessidade do desenvolvimento das relações entre as Coréias e na realização de uma reunificação pacífica."
+    },
+    {
+     "inicio_corpo": 1581,
+     "fim_corpo": 2513,
+     "trecho": "Lembro-me bem, Sr. Presidente, Srªs e Srs. Senadores, que, quando tive oportunidade de conhecer em 1995 a Coréia do Norte, pelas ruas modernas da capital vi imensos outdoors com esta mesma palavra de ordem: A Coréia é uma só, um só povo, um só país, uma só nação\". Foi dividida há 50 anos, depois de uma guerra por meio da qual o Império norte-americano estimulou a sua divisão nacional. Depois de três dias de conversação entre o Sul e o Norte, os seus dirigentes Kim Dae-Jung e Kim-Jong il apresentaram e assinaram uma declaração conjunta a partir do reconhecendo mútuo na necessidade do desenvolvimento das relações entre as Coréias e na realização de uma reunificação pacífica. Os pontos acordados pelos dois líderes foram: 1. O Sul e o Norte acordaram em resolver a questão da reunificação, independentemente, mediante esforços conjuntos da população coreana, que são os verdadeiros líderes do país; 2."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0313::Urbano e rural",
+   "unit_id": "S0313",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Emília Fernandes",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "campos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2275,
+     "fim_corpo": 3233,
+     "trecho": "Os pontos acordados pelos dois líderes foram: 1. O Sul e o Norte acordaram em resolver a questão da reunificação, independentemente, mediante esforços conjuntos da população coreana, que são os verdadeiros líderes do país; 2. Visando a reunificação, acordaram que existe um elemento comum entre o conceito do Sul de confederação e a fórmula do Norte para uma federação mais livre. O Sul e o Norte concordaram em promover a reunificação, seguindo esse elemento comum; 3. O Sul e o Norte acordaram em resolver prontamente os temas humanitários, tais como as visitas das famílias separadas no Dia Nacional da Liberação, 15 de agosto, e a questão de prisioneiros políticos no Sul; 4. O Sul e o Norte acordaram em consolidar a confiança mútua, promovendo balanços do desenvolvimento econômico, por meio da cooperação econômica e da promoção de cooperação nos campos cívico, cultural, esporte, saúde e meio ambiente, entre outros; 5."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0314::Domicílio e arranjo familiar",
+   "unit_id": "S0314",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Marina Silva",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1975,
+     "fim_corpo": 2979,
+     "trecho": "Depois de três dias de conversação entre o Sul e o Norte, os seus dirigentes Kim Dae-Jung e Kim-Jong il apresentaram e assinaram uma declaração conjunta a partir do reconhecendo mútuo na necessidade do desenvolvimento das relações entre as Coréias e na realização de uma reunificação pacífica. Os pontos acordados pelos dois líderes foram: 1. O Sul e o Norte acordaram em resolver a questão da reunificação, independentemente, mediante esforços conjuntos da população coreana, que são os verdadeiros líderes do país; 2. Visando a reunificação, acordaram que existe um elemento comum entre o conceito do Sul de confederação e a fórmula do Norte para uma federação mais livre. O Sul e o Norte concordaram em promover a reunificação, seguindo esse elemento comum; 3. O Sul e o Norte acordaram em resolver prontamente os temas humanitários, tais como as visitas das famílias separadas no Dia Nacional da Liberação, 15 de agosto, e a questão de prisioneiros políticos no Sul; 4."
+    },
+    {
+     "inicio_corpo": 3404,
+     "fim_corpo": 4353,
+     "trecho": "Além disso, os dois dirigentes, durante as reuniões, abordaram a presença militar norte-americana no lado sul da fronteira. Ali, sabem V. Exªs., que os Estados Unidos mantêm até hoje uma tropa estimada em 37 mil soldados, além de aviões, blindados, bombas atômicas – há inclusive essa informação – constituindo uma forte ameaça à segurança de toda a região. Outro assunto tratado foi a necessidade de se derrubar o que representa o maior símbolo da divisão nacional – um muro de 240 quilômetros de extensão, de 10 metros de largura por 5 metros de altura, que corta o País ao meio. Esse muro é camuflado do lado sul por terra e pedras e foi construído logo depois da guerra da Coréia, com apoio dos Estados Unidos. Sobre a declaração conjunta firmada pelos dois líderes cabe ressaltar como histórica a decisão de aproximar as famílias que se encontram separadas há pelo menos cinco décadas, em um total de sete milhões de pessoas."
+    },
+    {
+     "inicio_corpo": 3534,
+     "fim_corpo": 4486,
+     "trecho": "Ali, sabem V. Exªs., que os Estados Unidos mantêm até hoje uma tropa estimada em 37 mil soldados, além de aviões, blindados, bombas atômicas – há inclusive essa informação – constituindo uma forte ameaça à segurança de toda a região. Outro assunto tratado foi a necessidade de se derrubar o que representa o maior símbolo da divisão nacional – um muro de 240 quilômetros de extensão, de 10 metros de largura por 5 metros de altura, que corta o País ao meio. Esse muro é camuflado do lado sul por terra e pedras e foi construído logo depois da guerra da Coréia, com apoio dos Estados Unidos. Sobre a declaração conjunta firmada pelos dois líderes cabe ressaltar como histórica a decisão de aproximar as famílias que se encontram separadas há pelo menos cinco décadas, em um total de sete milhões de pessoas. Quando visitamos a Coréia socialista pudemos verificar o drama dessas famílias que estão divididas e que não se vêem há tantos anos."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0314::Idade",
+   "unit_id": "S0314",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Marina Silva",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3998,
+     "fim_corpo": 4748,
+     "trecho": "Esse muro é camuflado do lado sul por terra e pedras e foi construído logo depois da guerra da Coréia, com apoio dos Estados Unidos. Sobre a declaração conjunta firmada pelos dois líderes cabe ressaltar como histórica a decisão de aproximar as famílias que se encontram separadas há pelo menos cinco décadas, em um total de sete milhões de pessoas. Quando visitamos a Coréia socialista pudemos verificar o drama dessas famílias que estão divididas e que não se vêem há tantos anos. A lei de segurança existente na parte sul, por exemplo, até hoje caracteriza como crime o ato de aproximação de um cidadão do Sul com outro do Norte; nem mesmo para eventos esportivos e culturais os jovens são autorizados a se aproximarem dos seus irmãos."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0314::Infraestrutura e porte populacional",
+   "unit_id": "S0314",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Marina Silva",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "fronteira",
+     "forma_encontrada": "fronteira",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2668,
+     "fim_corpo": 3534,
+     "trecho": "O Sul e o Norte concordaram em promover a reunificação, seguindo esse elemento comum; 3. O Sul e o Norte acordaram em resolver prontamente os temas humanitários, tais como as visitas das famílias separadas no Dia Nacional da Liberação, 15 de agosto, e a questão de prisioneiros políticos no Sul; 4. O Sul e o Norte acordaram em consolidar a confiança mútua, promovendo balanços do desenvolvimento econômico, por meio da cooperação econômica e da promoção de cooperação nos campos cívico, cultural, esporte, saúde e meio ambiente, entre outros; 5. O Sul e o Norte acordaram em promover diálogos entre autoridades de ambos os países, visando à implementação dos acordos abaixo mencionados, dentro da possível brevidade. Além disso, os dois dirigentes, durante as reuniões, abordaram a presença militar norte-americana no lado sul da fronteira."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0314::Macrorregião",
+   "unit_id": "S0314",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Marina Silva",
+   "n_ocorrencias_no_par": 18,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 12,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 732,
+     "trecho": "A SRª EMILIA FERNANDES (Bloco/PDT – RS. Pronuncia o seguinte discurso. Sem revisão da oradora.) – Sr. Presidente, Sr as e Sr s Senadores, ocupo a tribuna, nesta tarde, para saudar o encontro histórico ocorrido na última semana e que o mundo inteiro registrou recentemente. Refiro-me ao encontro dos líderes da Coréia do Sul e da República Popular e Democrática da Coréia – Kim Dae-jung e Kim Jong-il - depois de meio século de separação da península coreana. Estamos acompanhando este assunto há algum tempo, não apenas por integrarmos a Comissão de Relações Exteriores e Defesa Nacional mas, também, porque tivemos a oportunidade de, há dois anos, visitarmos oficialmente a Coréia do Norte a convite do Governo daquele país."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 843,
+     "trecho": "A SRª EMILIA FERNANDES (Bloco/PDT – RS. Pronuncia o seguinte discurso. Sem revisão da oradora.) – Sr. Presidente, Sr as e Sr s Senadores, ocupo a tribuna, nesta tarde, para saudar o encontro histórico ocorrido na última semana e que o mundo inteiro registrou recentemente. Refiro-me ao encontro dos líderes da Coréia do Sul e da República Popular e Democrática da Coréia – Kim Dae-jung e Kim Jong-il - depois de meio século de separação da península coreana. Estamos acompanhando este assunto há algum tempo, não apenas por integrarmos a Comissão de Relações Exteriores e Defesa Nacional mas, também, porque tivemos a oportunidade de, há dois anos, visitarmos oficialmente a Coréia do Norte a convite do Governo daquele país. Então, desde lá, criamos no Congresso Nacional um grupo parlamentar de amizade entre Brasil e Coréia do Norte."
+    },
+    {
+     "inicio_corpo": 273,
+     "fim_corpo": 1036,
+     "trecho": "Refiro-me ao encontro dos líderes da Coréia do Sul e da República Popular e Democrática da Coréia – Kim Dae-jung e Kim Jong-il - depois de meio século de separação da península coreana. Estamos acompanhando este assunto há algum tempo, não apenas por integrarmos a Comissão de Relações Exteriores e Defesa Nacional mas, também, porque tivemos a oportunidade de, há dois anos, visitarmos oficialmente a Coréia do Norte a convite do Governo daquele país. Então, desde lá, criamos no Congresso Nacional um grupo parlamentar de amizade entre Brasil e Coréia do Norte. Aliás, uma das grandes lutas daquele país é, em primeiro lugar, a reunificação dos dois países; em segundo lugar, o estabelecimento de relações diplomáticas entre o Brasil e a Coréia do Norte."
+    },
+    {
+     "inicio_corpo": 843,
+     "fim_corpo": 1852,
+     "trecho": "Aliás, uma das grandes lutas daquele país é, em primeiro lugar, a reunificação dos dois países; em segundo lugar, o estabelecimento de relações diplomáticas entre o Brasil e a Coréia do Norte. Então, no momento em que as grandes lideranças daqueles dois países, ou daquele país que se encontra dividido, se encontram e começam a construir uma possibilidade de paz e de integração, somos obrigados a registrar e a saudar essa iniciativa. O encontro deu início às discussões sobre o processo de reunificação e foi saudado efusivamente nas ruas de Pyong-yang, Capital da Coréia socialista, por mais de meio milhão de pessoas que, entusiasmadas, entoavam o grito que é a causa maior dos 70 milhões de coreanos: a Coréia é uma só! Lembro-me bem, Sr. Presidente, Srªs e Srs. Senadores, que, quando tive oportunidade de conhecer em 1995 a Coréia do Norte, pelas ruas modernas da capital vi imensos outdoors com esta mesma palavra de ordem: A Coréia é uma só, um só povo, um só país, uma só nação\"."
+    },
+    {
+     "inicio_corpo": 1286,
+     "fim_corpo": 2275,
+     "trecho": "O encontro deu início às discussões sobre o processo de reunificação e foi saudado efusivamente nas ruas de Pyong-yang, Capital da Coréia socialista, por mais de meio milhão de pessoas que, entusiasmadas, entoavam o grito que é a causa maior dos 70 milhões de coreanos: a Coréia é uma só! Lembro-me bem, Sr. Presidente, Srªs e Srs. Senadores, que, quando tive oportunidade de conhecer em 1995 a Coréia do Norte, pelas ruas modernas da capital vi imensos outdoors com esta mesma palavra de ordem: A Coréia é uma só, um só povo, um só país, uma só nação\". Foi dividida há 50 anos, depois de uma guerra por meio da qual o Império norte-americano estimulou a sua divisão nacional. Depois de três dias de conversação entre o Sul e o Norte, os seus dirigentes Kim Dae-Jung e Kim-Jong il apresentaram e assinaram uma declaração conjunta a partir do reconhecendo mútuo na necessidade do desenvolvimento das relações entre as Coréias e na realização de uma reunificação pacífica."
+    },
+    {
+     "inicio_corpo": 1581,
+     "fim_corpo": 2513,
+     "trecho": "Lembro-me bem, Sr. Presidente, Srªs e Srs. Senadores, que, quando tive oportunidade de conhecer em 1995 a Coréia do Norte, pelas ruas modernas da capital vi imensos outdoors com esta mesma palavra de ordem: A Coréia é uma só, um só povo, um só país, uma só nação\". Foi dividida há 50 anos, depois de uma guerra por meio da qual o Império norte-americano estimulou a sua divisão nacional. Depois de três dias de conversação entre o Sul e o Norte, os seus dirigentes Kim Dae-Jung e Kim-Jong il apresentaram e assinaram uma declaração conjunta a partir do reconhecendo mútuo na necessidade do desenvolvimento das relações entre as Coréias e na realização de uma reunificação pacífica. Os pontos acordados pelos dois líderes foram: 1. O Sul e o Norte acordaram em resolver a questão da reunificação, independentemente, mediante esforços conjuntos da população coreana, que são os verdadeiros líderes do país; 2."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0314::Urbano e rural",
+   "unit_id": "S0314",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Marina Silva",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "campos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2275,
+     "fim_corpo": 3233,
+     "trecho": "Os pontos acordados pelos dois líderes foram: 1. O Sul e o Norte acordaram em resolver a questão da reunificação, independentemente, mediante esforços conjuntos da população coreana, que são os verdadeiros líderes do país; 2. Visando a reunificação, acordaram que existe um elemento comum entre o conceito do Sul de confederação e a fórmula do Norte para uma federação mais livre. O Sul e o Norte concordaram em promover a reunificação, seguindo esse elemento comum; 3. O Sul e o Norte acordaram em resolver prontamente os temas humanitários, tais como as visitas das famílias separadas no Dia Nacional da Liberação, 15 de agosto, e a questão de prisioneiros políticos no Sul; 4. O Sul e o Norte acordaram em consolidar a confiança mútua, promovendo balanços do desenvolvimento econômico, por meio da cooperação econômica e da promoção de cooperação nos campos cívico, cultural, esporte, saúde e meio ambiente, entre outros; 5."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0315::Educação",
+   "unit_id": "S0315",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 15,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 9,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 318,
+     "trecho": "O SR. EDUARDO SUPLICY (Bloco/PT – SP. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Senador Antonio Carlos Magalhães, Ministro José Serra, \"a escola primária que irá dar ao brasileiro esse mínimo fundamental de educação não é, precipuamente, uma escola preparatória para estudos ulteriores."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 318,
+     "trecho": "O SR. EDUARDO SUPLICY (Bloco/PT – SP. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Senador Antonio Carlos Magalhães, Ministro José Serra, \"a escola primária que irá dar ao brasileiro esse mínimo fundamental de educação não é, precipuamente, uma escola preparatória para estudos ulteriores."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 666,
+     "trecho": "O SR. EDUARDO SUPLICY (Bloco/PT – SP. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Senador Antonio Carlos Magalhães, Ministro José Serra, \"a escola primária que irá dar ao brasileiro esse mínimo fundamental de educação não é, precipuamente, uma escola preparatória para estudos ulteriores. A sua finalidade é, como diz o seu próprio nome, ministrar uma educação de base, capaz de habilitar o homem ao trabalho nas suas formas mais comuns. Ela é que forma o trabalhador nacional em sua grande massa. É, pois, uma escola que é o seu próprio fim e só indireta e secundariamente prepara para o prosseguimento da educação ulterior à primária."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1033,
+     "trecho": "O SR. EDUARDO SUPLICY (Bloco/PT – SP. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Senador Antonio Carlos Magalhães, Ministro José Serra, \"a escola primária que irá dar ao brasileiro esse mínimo fundamental de educação não é, precipuamente, uma escola preparatória para estudos ulteriores. A sua finalidade é, como diz o seu próprio nome, ministrar uma educação de base, capaz de habilitar o homem ao trabalho nas suas formas mais comuns. Ela é que forma o trabalhador nacional em sua grande massa. É, pois, uma escola que é o seu próprio fim e só indireta e secundariamente prepara para o prosseguimento da educação ulterior à primária. Por isso mesmo, não pode ser uma escola de tempo parcial, nem uma escola somente de letras, nem uma escola de iniciação intelectual, mas uma escola sobretudo prática, de iniciação ao trabalho, de formação de hábitos de pensar, hábitos de fazer, hábitos de trabalhar e hábitos de conviver e participar em uma sociedade democrática, cujo soberano é o próprio cidadão\"."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1033,
+     "trecho": "O SR. EDUARDO SUPLICY (Bloco/PT – SP. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Senador Antonio Carlos Magalhães, Ministro José Serra, \"a escola primária que irá dar ao brasileiro esse mínimo fundamental de educação não é, precipuamente, uma escola preparatória para estudos ulteriores. A sua finalidade é, como diz o seu próprio nome, ministrar uma educação de base, capaz de habilitar o homem ao trabalho nas suas formas mais comuns. Ela é que forma o trabalhador nacional em sua grande massa. É, pois, uma escola que é o seu próprio fim e só indireta e secundariamente prepara para o prosseguimento da educação ulterior à primária. Por isso mesmo, não pode ser uma escola de tempo parcial, nem uma escola somente de letras, nem uma escola de iniciação intelectual, mas uma escola sobretudo prática, de iniciação ao trabalho, de formação de hábitos de pensar, hábitos de fazer, hábitos de trabalhar e hábitos de conviver e participar em uma sociedade democrática, cujo soberano é o próprio cidadão\"."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1033,
+     "trecho": "O SR. EDUARDO SUPLICY (Bloco/PT – SP. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Senador Antonio Carlos Magalhães, Ministro José Serra, \"a escola primária que irá dar ao brasileiro esse mínimo fundamental de educação não é, precipuamente, uma escola preparatória para estudos ulteriores. A sua finalidade é, como diz o seu próprio nome, ministrar uma educação de base, capaz de habilitar o homem ao trabalho nas suas formas mais comuns. Ela é que forma o trabalhador nacional em sua grande massa. É, pois, uma escola que é o seu próprio fim e só indireta e secundariamente prepara para o prosseguimento da educação ulterior à primária. Por isso mesmo, não pode ser uma escola de tempo parcial, nem uma escola somente de letras, nem uma escola de iniciação intelectual, mas uma escola sobretudo prática, de iniciação ao trabalho, de formação de hábitos de pensar, hábitos de fazer, hábitos de trabalhar e hábitos de conviver e participar em uma sociedade democrática, cujo soberano é o próprio cidadão\"."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0315::Idade",
+   "unit_id": "S0315",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "criança",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2487,
+     "fim_corpo": 3475,
+     "trecho": "Foi, portanto, um grande defensor da democratização da educação. Assumiu o liberalismo com o sentido progressista que se dá a esse vocábulo nos Estado Unidos da América. Seguindo especialmente o pensamento do educador americano John Dewey, nosso querido educador Anísio Teixeira acreditava que a escola teria uma função \"salvadora\" das populações mais pobres, para diminuir as desigualdades sociais. Na década de 30, embora adotando uma postura funcionalista e legalista, respeitando as instituições estabelecidas, foi considerado subversivo pelas autoridades da época e pela oligarquia rural dominante, uma vez que defendia com veemência a liberdade econômica e política. Já na década de 30 denunciava as injustiças sociais como responsáveis pelo desempenho desigual na escola, como coloca em seu livro Educação para a Democracia : \"Essa criança do povo deve e precisa ter na escola mais alguma coisa do que o ensino a toque de caixa de leitura, escrita e contas."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0315::Posição no trabalho",
+   "unit_id": "S0315",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 527,
+     "trecho": "O SR. EDUARDO SUPLICY (Bloco/PT – SP. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Senador Antonio Carlos Magalhães, Ministro José Serra, \"a escola primária que irá dar ao brasileiro esse mínimo fundamental de educação não é, precipuamente, uma escola preparatória para estudos ulteriores. A sua finalidade é, como diz o seu próprio nome, ministrar uma educação de base, capaz de habilitar o homem ao trabalho nas suas formas mais comuns. Ela é que forma o trabalhador nacional em sua grande massa."
+    },
+    {
+     "inicio_corpo": 5011,
+     "fim_corpo": 5651,
+     "trecho": "Uma equivalência que foi formalmente conquistada no início da década de 50 e, hoje, perdida formalmente pelo Decreto 2.208/96, que propõe a reforma da educação profissional no País. Se nosso querido educador estivesse vivo, com certeza estaria protestando contra o divórcio que a lei educacional brasileira está promovendo, onde aprofunda a divisão entre a formação geral e a profissionalizante, fugindo da perspectiva de uma educação integral e abrangente para pobres e ricos, divergindo, inclusive, do novo perfil de qualificação exigido hoje, para que o trabalhador tenha maior instrumento de luta por sua inserção no mundo do trabalho."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0315::Renda e classe",
+   "unit_id": "S0315",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1989,
+     "fim_corpo": 2893,
+     "trecho": "E retornou em 1945, com a redemocratização do País, juntamente com Lourenço Filho, Rodrigo de Mello Franco, Roquette Pinto, Jurancy Vieira e tantos outros. Suas principais bandeiras de luta foram a democratização da educação e a escola única, a ser realizadas por meio de uma homogeneização de objetivos e não do engessamento em um único modelo de escola. A denominação \"escola única\" não se referia, portanto, à organização interna das instituições educativas, e sim ao planejamento social. Foi, portanto, um grande defensor da democratização da educação. Assumiu o liberalismo com o sentido progressista que se dá a esse vocábulo nos Estado Unidos da América. Seguindo especialmente o pensamento do educador americano John Dewey, nosso querido educador Anísio Teixeira acreditava que a escola teria uma função \"salvadora\" das populações mais pobres, para diminuir as desigualdades sociais."
+    },
+    {
+     "inicio_corpo": 4018,
+     "fim_corpo": 5011,
+     "trecho": "stres como Fernando de Azevedo e Lourenço Filho escreveu o Manifesto dos Pioneiros , defendendo a socialização do uso da técnica e da ciência em benefício de um bem estar para toda a sociedade, preocupados com a harmonização dos interesses individuais e coletivos e com o aumento da produtividade: \"A nova política educacional rompendo, de um lado, contra a formação excessivamente literária de nossa cultura, para lhe dar um caráter científico e técnico, e contra esse espírito de desintegração da escola, em relação ao meio social, impõe reformas profundas, orientadas no sentido da produção, e procura reforçar por todos os meios a intenção e o valor social da escola, sem negar a arte, a literatura e os valores culturais.\" Assim, nesse período, o Professor Anísio Teixeira também lutava contra a dicotomia entre o ensino propedêutico (para os ricos), e o profissionalizante (para os pobres), contra a histórica divisão feita pela educação da colônia entre o pensar e o fazer."
+    },
+    {
+     "inicio_corpo": 5011,
+     "fim_corpo": 5651,
+     "trecho": "Uma equivalência que foi formalmente conquistada no início da década de 50 e, hoje, perdida formalmente pelo Decreto 2.208/96, que propõe a reforma da educação profissional no País. Se nosso querido educador estivesse vivo, com certeza estaria protestando contra o divórcio que a lei educacional brasileira está promovendo, onde aprofunda a divisão entre a formação geral e a profissionalizante, fugindo da perspectiva de uma educação integral e abrangente para pobres e ricos, divergindo, inclusive, do novo perfil de qualificação exigido hoje, para que o trabalhador tenha maior instrumento de luta por sua inserção no mundo do trabalho."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0315::Urbano e rural",
+   "unit_id": "S0315",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1132,
+     "fim_corpo": 1989,
+     "trecho": "Anísio Teixeira foi, sem dúvida, um grande pensador e educador que o Brasil teve o privilégio de agasalhar no seu seio. Foi um pioneiro em suas críticas à sociedade e à educação tradicional que aprofundava as diferenças sociais. Foi um educador de fortes aspirações democráticas, um homem progressista que se considerava um técnico e assim procurava fazer as correções em favor da sociedade por dentro da reordenação da burocracia do poder estabelecido. Baiano de Caitité, nascido em 12 de julho de 1900, teve formação humanista. Formado bacharel em Direito, na cidade do Salvador, ocupou muitos cargos públicos nos governos da Bahia, do Rio de Janeiro e no governo federal, quando ainda Ministério da Educação e da Saúde. Ausentou-se do Governo em 1935, por incompatibilizar-se com o governo autoritário, com a oligarquia rural e com a Igreja."
+    },
+    {
+     "inicio_corpo": 2351,
+     "fim_corpo": 3172,
+     "trecho": "A denominação \"escola única\" não se referia, portanto, à organização interna das instituições educativas, e sim ao planejamento social. Foi, portanto, um grande defensor da democratização da educação. Assumiu o liberalismo com o sentido progressista que se dá a esse vocábulo nos Estado Unidos da América. Seguindo especialmente o pensamento do educador americano John Dewey, nosso querido educador Anísio Teixeira acreditava que a escola teria uma função \"salvadora\" das populações mais pobres, para diminuir as desigualdades sociais. Na década de 30, embora adotando uma postura funcionalista e legalista, respeitando as instituições estabelecidas, foi considerado subversivo pelas autoridades da época e pela oligarquia rural dominante, uma vez que defendia com veemência a liberdade econômica e política."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0316::Infraestrutura e porte populacional",
+   "unit_id": "S0316",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "fronteiras",
+     "forma_encontrada": "fronteiras",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 795,
+     "trecho": "O SR. LÚCIO ALCÂNTARA (PSDB – CE) – Sr. Presidente, Srªs. e Srs. Senadores, hoje, às 19 horas, será lançado neste Senado Federal, o encarte 20 BRASILEIROS VENCEDORES DO SÉCULO XX – PROJETO PERSONALIDADES PATRIÓTICAS EMPREENDEDORAS BRASIL 20, que compõe a Revista Inside Brasil. O mundo vivencia transformações, cuja velocidade alcança ritmos sem precedentes na história da humanidade. Todavia, é do conhecimento de todos, que estes processos não vieram do nada, não começaram ontem, deitaram suas raízes ao longo das conquistas acumuladas no século XX. A contemporânea Revolução Científico-Tecnológica vem extinguindo os tradicionais controles até então estabelecidos pelos estados nacionais, alargando fronteiras que, desejamos sempre resultem na integração dos povos e das nações."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0316::Raça e etnia",
+   "unit_id": "S0316",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "negro",
+     "forma_encontrada": "negro",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1159,
+     "fim_corpo": 2299,
+     "trecho": "Admitir os impactos positivos e negativos, por ela gerados, compreende buscar no mundo das idéias, novas formas de intervenção que erradiquem, estas sim, a globalização acumulada de miséria e exclusão. A iniciativa do engenheiro Roberto Farias em homenagear vinte brasileiros vivos que se destacaram no século XX, evidenciado pelo conjunto de suas obras nos diversos campos do conhecimento, vem ao encontro da proposta comungada por todos – a de um Brasil mais justo, livre, soberano e cidadão. O elenco de personalidades é composto por Adib Jatene, Aldemir Martins, Antônio Carlos Magalhães, Antônio Ermírio de Moraes, Barbosa Lima Sobrinho, Chico Anísio, Dom Paulo Evaristo Arns, Emerson Fittipaldi, Evandro Lins e Silva, Fernanda Montenegro, Ivo Pitanguy, João Havelange, Jorge Amado, Mauro Salles, Oscar Niemeyer, Pelé, Rachel de Queiroz, Roberto Campos, Roberto Carlos e Roberto Marinho. A abrangência das diversas contribuições, nos orgulha, enquanto brasileiros, mas mais que isto, sublinha a vocação humanística que baseia o saber em nosso País. Era o que tinha a dizer. Muito obrigado. \"¿"
+    }
+   ]
+  }
+ ]
+}

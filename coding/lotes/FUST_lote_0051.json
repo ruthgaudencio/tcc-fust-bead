@@ -1,0 +1,973 @@
+{
+ "caso": "FUST",
+ "lote": 51,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0304::Urbano e rural",
+   "unit_id": "S0304",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-26",
+   "orador": "Jader Barbalho",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1052,
+     "fim_corpo": 1886,
+     "trecho": "Entretanto, Sr. Presidente, entendo que esses organismos são instrumentos de políticas governamentais de intervenção setorial e regional que não podem, de forma alguma, seja em relação ao Nordeste ou à Amazônia, transformar os mencionados órgãos apenas em instrumento de fomento, que seria o primeiro passo para a privatização. Permito-me registrar nos Anais do Senado que, no caso do Banco da Amazônia, 83% de todo o crédito de fomento daquela região são exatamente aplicados pela referida instituição com apenas 11% da rede bancária de toda a Região Amazônica; além disso, 42% de todo o crédito ofertado para a região são repassados via Banco da Amazônia. No caso do setor rural, 83% do crédito agrícola familiar são de responsabilidade do Banco da Amazônia, que atende a 54.145 produtores na região, em 304 municípios."
+    },
+    {
+     "inicio_corpo": 1386,
+     "fim_corpo": 2264,
+     "trecho": "Permito-me registrar nos Anais do Senado que, no caso do Banco da Amazônia, 83% de todo o crédito de fomento daquela região são exatamente aplicados pela referida instituição com apenas 11% da rede bancária de toda a Região Amazônica; além disso, 42% de todo o crédito ofertado para a região são repassados via Banco da Amazônia. No caso do setor rural, 83% do crédito agrícola familiar são de responsabilidade do Banco da Amazônia, que atende a 54.145 produtores na região, em 304 municípios. Grande parte dos Municípios da Região Norte são atendidos única e exclusivamente por agências do Banco da Amazônia; 97% do crédito para pequenos, miniprodutores e pequenas empresas na região em 1999 foram de responsabilidade do referido Banco. Repito: são 97% de todo o crédito destinados à microempresa e à pequena empresa, seja rural ou industrial, na Região Amazônica."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0305::Domicílio e arranjo familiar",
+   "unit_id": "S0305",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Artur da Tavola",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 172,
+     "trecho": "O SR. ARTUR DA TÁVOLA (PSDB - RJ. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, família do Professor Anísio Teixeira, Dr."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0306::Educação",
+   "unit_id": "S0306",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 15,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 9,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 318,
+     "trecho": "O SR. EDUARDO SUPLICY (Bloco/PT – SP. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Senador Antonio Carlos Magalhães, Ministro José Serra, \"a escola primária que irá dar ao brasileiro esse mínimo fundamental de educação não é, precipuamente, uma escola preparatória para estudos ulteriores."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 318,
+     "trecho": "O SR. EDUARDO SUPLICY (Bloco/PT – SP. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Senador Antonio Carlos Magalhães, Ministro José Serra, \"a escola primária que irá dar ao brasileiro esse mínimo fundamental de educação não é, precipuamente, uma escola preparatória para estudos ulteriores."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 666,
+     "trecho": "O SR. EDUARDO SUPLICY (Bloco/PT – SP. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Senador Antonio Carlos Magalhães, Ministro José Serra, \"a escola primária que irá dar ao brasileiro esse mínimo fundamental de educação não é, precipuamente, uma escola preparatória para estudos ulteriores. A sua finalidade é, como diz o seu próprio nome, ministrar uma educação de base, capaz de habilitar o homem ao trabalho nas suas formas mais comuns. Ela é que forma o trabalhador nacional em sua grande massa. É, pois, uma escola que é o seu próprio fim e só indireta e secundariamente prepara para o prosseguimento da educação ulterior à primária."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1033,
+     "trecho": "O SR. EDUARDO SUPLICY (Bloco/PT – SP. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Senador Antonio Carlos Magalhães, Ministro José Serra, \"a escola primária que irá dar ao brasileiro esse mínimo fundamental de educação não é, precipuamente, uma escola preparatória para estudos ulteriores. A sua finalidade é, como diz o seu próprio nome, ministrar uma educação de base, capaz de habilitar o homem ao trabalho nas suas formas mais comuns. Ela é que forma o trabalhador nacional em sua grande massa. É, pois, uma escola que é o seu próprio fim e só indireta e secundariamente prepara para o prosseguimento da educação ulterior à primária. Por isso mesmo, não pode ser uma escola de tempo parcial, nem uma escola somente de letras, nem uma escola de iniciação intelectual, mas uma escola sobretudo prática, de iniciação ao trabalho, de formação de hábitos de pensar, hábitos de fazer, hábitos de trabalhar e hábitos de conviver e participar em uma sociedade democrática, cujo soberano é o próprio cidadão\"."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1033,
+     "trecho": "O SR. EDUARDO SUPLICY (Bloco/PT – SP. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Senador Antonio Carlos Magalhães, Ministro José Serra, \"a escola primária que irá dar ao brasileiro esse mínimo fundamental de educação não é, precipuamente, uma escola preparatória para estudos ulteriores. A sua finalidade é, como diz o seu próprio nome, ministrar uma educação de base, capaz de habilitar o homem ao trabalho nas suas formas mais comuns. Ela é que forma o trabalhador nacional em sua grande massa. É, pois, uma escola que é o seu próprio fim e só indireta e secundariamente prepara para o prosseguimento da educação ulterior à primária. Por isso mesmo, não pode ser uma escola de tempo parcial, nem uma escola somente de letras, nem uma escola de iniciação intelectual, mas uma escola sobretudo prática, de iniciação ao trabalho, de formação de hábitos de pensar, hábitos de fazer, hábitos de trabalhar e hábitos de conviver e participar em uma sociedade democrática, cujo soberano é o próprio cidadão\"."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1033,
+     "trecho": "O SR. EDUARDO SUPLICY (Bloco/PT – SP. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Senador Antonio Carlos Magalhães, Ministro José Serra, \"a escola primária que irá dar ao brasileiro esse mínimo fundamental de educação não é, precipuamente, uma escola preparatória para estudos ulteriores. A sua finalidade é, como diz o seu próprio nome, ministrar uma educação de base, capaz de habilitar o homem ao trabalho nas suas formas mais comuns. Ela é que forma o trabalhador nacional em sua grande massa. É, pois, uma escola que é o seu próprio fim e só indireta e secundariamente prepara para o prosseguimento da educação ulterior à primária. Por isso mesmo, não pode ser uma escola de tempo parcial, nem uma escola somente de letras, nem uma escola de iniciação intelectual, mas uma escola sobretudo prática, de iniciação ao trabalho, de formação de hábitos de pensar, hábitos de fazer, hábitos de trabalhar e hábitos de conviver e participar em uma sociedade democrática, cujo soberano é o próprio cidadão\"."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0306::Idade",
+   "unit_id": "S0306",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "criança",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2487,
+     "fim_corpo": 3475,
+     "trecho": "Foi, portanto, um grande defensor da democratização da educação. Assumiu o liberalismo com o sentido progressista que se dá a esse vocábulo nos Estado Unidos da América. Seguindo especialmente o pensamento do educador americano John Dewey, nosso querido educador Anísio Teixeira acreditava que a escola teria uma função \"salvadora\" das populações mais pobres, para diminuir as desigualdades sociais. Na década de 30, embora adotando uma postura funcionalista e legalista, respeitando as instituições estabelecidas, foi considerado subversivo pelas autoridades da época e pela oligarquia rural dominante, uma vez que defendia com veemência a liberdade econômica e política. Já na década de 30 denunciava as injustiças sociais como responsáveis pelo desempenho desigual na escola, como coloca em seu livro Educação para a Democracia : \"Essa criança do povo deve e precisa ter na escola mais alguma coisa do que o ensino a toque de caixa de leitura, escrita e contas."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0306::Posição no trabalho",
+   "unit_id": "S0306",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 527,
+     "trecho": "O SR. EDUARDO SUPLICY (Bloco/PT – SP. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Senador Antonio Carlos Magalhães, Ministro José Serra, \"a escola primária que irá dar ao brasileiro esse mínimo fundamental de educação não é, precipuamente, uma escola preparatória para estudos ulteriores. A sua finalidade é, como diz o seu próprio nome, ministrar uma educação de base, capaz de habilitar o homem ao trabalho nas suas formas mais comuns. Ela é que forma o trabalhador nacional em sua grande massa."
+    },
+    {
+     "inicio_corpo": 5011,
+     "fim_corpo": 5651,
+     "trecho": "Uma equivalência que foi formalmente conquistada no início da década de 50 e, hoje, perdida formalmente pelo Decreto 2.208/96, que propõe a reforma da educação profissional no País. Se nosso querido educador estivesse vivo, com certeza estaria protestando contra o divórcio que a lei educacional brasileira está promovendo, onde aprofunda a divisão entre a formação geral e a profissionalizante, fugindo da perspectiva de uma educação integral e abrangente para pobres e ricos, divergindo, inclusive, do novo perfil de qualificação exigido hoje, para que o trabalhador tenha maior instrumento de luta por sua inserção no mundo do trabalho."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0306::Renda e classe",
+   "unit_id": "S0306",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1989,
+     "fim_corpo": 2893,
+     "trecho": "E retornou em 1945, com a redemocratização do País, juntamente com Lourenço Filho, Rodrigo de Mello Franco, Roquette Pinto, Jurancy Vieira e tantos outros. Suas principais bandeiras de luta foram a democratização da educação e a escola única, a ser realizadas por meio de uma homogeneização de objetivos e não do engessamento em um único modelo de escola. A denominação \"escola única\" não se referia, portanto, à organização interna das instituições educativas, e sim ao planejamento social. Foi, portanto, um grande defensor da democratização da educação. Assumiu o liberalismo com o sentido progressista que se dá a esse vocábulo nos Estado Unidos da América. Seguindo especialmente o pensamento do educador americano John Dewey, nosso querido educador Anísio Teixeira acreditava que a escola teria uma função \"salvadora\" das populações mais pobres, para diminuir as desigualdades sociais."
+    },
+    {
+     "inicio_corpo": 4018,
+     "fim_corpo": 5011,
+     "trecho": "stres como Fernando de Azevedo e Lourenço Filho escreveu o Manifesto dos Pioneiros , defendendo a socialização do uso da técnica e da ciência em benefício de um bem estar para toda a sociedade, preocupados com a harmonização dos interesses individuais e coletivos e com o aumento da produtividade: \"A nova política educacional rompendo, de um lado, contra a formação excessivamente literária de nossa cultura, para lhe dar um caráter científico e técnico, e contra esse espírito de desintegração da escola, em relação ao meio social, impõe reformas profundas, orientadas no sentido da produção, e procura reforçar por todos os meios a intenção e o valor social da escola, sem negar a arte, a literatura e os valores culturais.\" Assim, nesse período, o Professor Anísio Teixeira também lutava contra a dicotomia entre o ensino propedêutico (para os ricos), e o profissionalizante (para os pobres), contra a histórica divisão feita pela educação da colônia entre o pensar e o fazer."
+    },
+    {
+     "inicio_corpo": 5011,
+     "fim_corpo": 5651,
+     "trecho": "Uma equivalência que foi formalmente conquistada no início da década de 50 e, hoje, perdida formalmente pelo Decreto 2.208/96, que propõe a reforma da educação profissional no País. Se nosso querido educador estivesse vivo, com certeza estaria protestando contra o divórcio que a lei educacional brasileira está promovendo, onde aprofunda a divisão entre a formação geral e a profissionalizante, fugindo da perspectiva de uma educação integral e abrangente para pobres e ricos, divergindo, inclusive, do novo perfil de qualificação exigido hoje, para que o trabalhador tenha maior instrumento de luta por sua inserção no mundo do trabalho."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0306::Urbano e rural",
+   "unit_id": "S0306",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1132,
+     "fim_corpo": 1989,
+     "trecho": "Anísio Teixeira foi, sem dúvida, um grande pensador e educador que o Brasil teve o privilégio de agasalhar no seu seio. Foi um pioneiro em suas críticas à sociedade e à educação tradicional que aprofundava as diferenças sociais. Foi um educador de fortes aspirações democráticas, um homem progressista que se considerava um técnico e assim procurava fazer as correções em favor da sociedade por dentro da reordenação da burocracia do poder estabelecido. Baiano de Caitité, nascido em 12 de julho de 1900, teve formação humanista. Formado bacharel em Direito, na cidade do Salvador, ocupou muitos cargos públicos nos governos da Bahia, do Rio de Janeiro e no governo federal, quando ainda Ministério da Educação e da Saúde. Ausentou-se do Governo em 1935, por incompatibilizar-se com o governo autoritário, com a oligarquia rural e com a Igreja."
+    },
+    {
+     "inicio_corpo": 2351,
+     "fim_corpo": 3172,
+     "trecho": "A denominação \"escola única\" não se referia, portanto, à organização interna das instituições educativas, e sim ao planejamento social. Foi, portanto, um grande defensor da democratização da educação. Assumiu o liberalismo com o sentido progressista que se dá a esse vocábulo nos Estado Unidos da América. Seguindo especialmente o pensamento do educador americano John Dewey, nosso querido educador Anísio Teixeira acreditava que a escola teria uma função \"salvadora\" das populações mais pobres, para diminuir as desigualdades sociais. Na década de 30, embora adotando uma postura funcionalista e legalista, respeitando as instituições estabelecidas, foi considerado subversivo pelas autoridades da época e pela oligarquia rural dominante, uma vez que defendia com veemência a liberdade econômica e política."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0308::Educação",
+   "unit_id": "S0308",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "José Roberto Arruda",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "Escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2029,
+     "fim_corpo": 3082,
+     "trecho": "Foi ele, Anísio Teixeira, chamado por aqueles outros homens geniais, idealistas, utópicos até, e que tinham a visão de que não se poderia construir uma nova capital para ser nova apenas por sua arquitetura genial. Brasília não poderia ser nova apenas, moderna apenas em razão de seu projeto urbanístico revolucionário. Brasília não poderia ser nova apenas por ser uma cidade planejada com a incumbência de mudar o eixo do desenvolvimento nacional. Brasília tinha de ser nova naquilo que pudesse ser base para uma nova civilização. E é aí que Darcy Ribeiro, Pompeu de Souza e tantos outros pioneiros vão buscar em Anísio Teixeira o centro formulador de um novo projeto educacional para a nova capital do País. Aí é que nasce, Sr. Presidente, Srs. Senadores, a idéia da Escola Parque, a idéia da escola de tempo integral e a idéia fantástica da Universidade de Brasília, que nasce sob a égide da liberdade para ser uma universidade diferenciada porque aberta desde o seu projeto urbanístico, mas principalmente no seu projeto didático, educacional."
+    },
+    {
+     "inicio_corpo": 2029,
+     "fim_corpo": 3082,
+     "trecho": "Foi ele, Anísio Teixeira, chamado por aqueles outros homens geniais, idealistas, utópicos até, e que tinham a visão de que não se poderia construir uma nova capital para ser nova apenas por sua arquitetura genial. Brasília não poderia ser nova apenas, moderna apenas em razão de seu projeto urbanístico revolucionário. Brasília não poderia ser nova apenas por ser uma cidade planejada com a incumbência de mudar o eixo do desenvolvimento nacional. Brasília tinha de ser nova naquilo que pudesse ser base para uma nova civilização. E é aí que Darcy Ribeiro, Pompeu de Souza e tantos outros pioneiros vão buscar em Anísio Teixeira o centro formulador de um novo projeto educacional para a nova capital do País. Aí é que nasce, Sr. Presidente, Srs. Senadores, a idéia da Escola Parque, a idéia da escola de tempo integral e a idéia fantástica da Universidade de Brasília, que nasce sob a égide da liberdade para ser uma universidade diferenciada porque aberta desde o seu projeto urbanístico, mas principalmente no seu projeto didático, educacional."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0308::Idade",
+   "unit_id": "S0308",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "José Roberto Arruda",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovem",
+     "forma_encontrada": "jovem",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 580,
+     "fim_corpo": 1654,
+     "trecho": "Sr. Presidente, venho à tribuna para fazer apenas um registro a mais, e um registro muito particular entre as grandes contribuições que deu Anísio Teixeira à educação brasileira, especificamente à idéia da construção da nova Capital do Brasil, sua contribuição para a formação básica da educação em Brasília. Além de simbolizar, mais do que qualquer outra obra, a interiorização do desenvolvimento nacional, é importante registrar que Brasília representou também um encontro fantástico de homens geniais que viviam à mesma época e que tinham ideais comuns. Anísio Teixeira nasceu em 1900; Juscelino Kubitschek em 1902; também em 1902, Lúcio Costa; Oscar Niemeyer, um pouco mais jovem; Israel Pinheiro, Bernardo Sayão, Iris Membergue, Ernesto Silva , que ainda está entre nós, e tantos outros brasileiros que, por uma dessas coincidências históricas geniais, encontraram-se nos anos 50 e, impulsionados por um sonho já secular, resolveram materializar a idéia da construção da nova Capital do Brasil e da transferência da Capital do Rio de Janeiro para Brasília."
+    },
+    {
+     "inicio_corpo": 1149,
+     "fim_corpo": 2029,
+     "trecho": "Anísio Teixeira nasceu em 1900; Juscelino Kubitschek em 1902; também em 1902, Lúcio Costa; Oscar Niemeyer, um pouco mais jovem; Israel Pinheiro, Bernardo Sayão, Iris Membergue, Ernesto Silva , que ainda está entre nós, e tantos outros brasileiros que, por uma dessas coincidências históricas geniais, encontraram-se nos anos 50 e, impulsionados por um sonho já secular, resolveram materializar a idéia da construção da nova Capital do Brasil e da transferência da Capital do Rio de Janeiro para Brasília. Esta Casa e o Congresso Nacional, de um modo geral, já fizeram muitas homenagens, Sr. Presidente, à idéia do fundador, ao projeto de Juscelino Kubitschek de construir Brasília. Já fizemos muitas homenagens ao engenheiro, ao construtor Israel Pinheiro, mas, no momento em que crianças da rede de ensino de Brasília tomam as galerias, há que se falar de Anísio Teixeira."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0309::Cultura e informação",
+   "unit_id": "S0309",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "biblioteca",
+     "forma_encontrada": "biblioteca",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8130,
+     "fim_corpo": 8957,
+     "trecho": "A deficiência qualitativa acompanhava essa deficiência quantitativa. Como sempre, Anísio lançou-se com todo vigor à obra de reconstrução. Envidou enormes esforços para a realização de um diagnóstico da situação e para a elaboração de diretrizes e prioridades, conjugando, para tal, a contribuição de vários especialistas em ciências sociais. Entre numerosas iniciativas desse período, cabe citar a construção do Centro Educacional Carneiro Ribeiro, definidora, por excelência, dos postulados de sua política educacional. O centro foi parcialmente erguido em outubro de 1950, com três escolas em pavilhões distintos. Posteriormente, em 1961, estava quase concluído, com três escolas e a escola-parque, pavilhões de trabalho, setor socializante, pavilhão de educação física e jogos, biblioteca, setor artístico, etc."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0309::Domicílio e arranjo familiar",
+   "unit_id": "S0309",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 314,
+     "fim_corpo": 1198,
+     "trecho": "Cito, entre eles: Fernando de Azevedo, Lourenço Filho, Paulo Freire e Darcy Ribeiro. Lamentalvelmente, a sociedade brasileira não tem demonstrado, para com a memória desses mestres, zelo à altura de sua importância para a educação nacional. Há um, especialmente, que foi, sem dúvida, o mais injustiçado de nossos educadores, seja pela incompreensão de seus propósitos, seja pelas maliciosas acusações feitas por aqueles que se sentiam prejudicados em seus interesses ou pontos de vista. Refiro-me a Anísio Teixeira, cujo centenário de nascimento ocorre neste 12 de julho, oportunidade que se me oferece de trazer ao Senado um pouco da história de um brasileiro exemplar. Nascido na cidade sertaneja de Caetité, na Chapada Diamantina, era filho de Diocleciano Pires Teixeira e de Ana de Souza Spínola, ambos de famílias de grande influência econômica e política na região."
+    },
+    {
+     "inicio_corpo": 1542,
+     "fim_corpo": 2538,
+     "trecho": "Entre as perspectivas que se lhe abriam, a que mais o atraía era de ingressar na vida religiosa. Entretanto, iniciou na Bahia seu curso de Direito, vindo depois a se formar no Rio, em 1922. Depois de formado, passou Anísio quase todo ano de 1923 em Caitité, dedicando-se sobretudo à advocacia e a assistência política a seu pai, que nele depositava a esperança de um destino político, não desejando para ele a carreira sacerdotal. Eleito Goes Calmon para governador, em caráter de oposição à situação anterior, buscou logo novos talentos para compor sua administração. Teve um encontro com Anísio e, com aguda intuição de descobridor de valores, convidou-o para o cargo de inspetor-geral de ensino, para o qual foi nomeado a 17 de abril de 1924. A nomeação causou espanto ao próprio Anísio e à sua família, pois para tais cargos eram geralmente nomeados administradores que houvessem militado no setor, enquanto que Anísio era até então um simplesmente um advogado do interior."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0309::Educação",
+   "unit_id": "S0309",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 17,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 11,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "Escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1738,
+     "fim_corpo": 2692,
+     "trecho": "Depois de formado, passou Anísio quase todo ano de 1923 em Caitité, dedicando-se sobretudo à advocacia e a assistência política a seu pai, que nele depositava a esperança de um destino político, não desejando para ele a carreira sacerdotal. Eleito Goes Calmon para governador, em caráter de oposição à situação anterior, buscou logo novos talentos para compor sua administração. Teve um encontro com Anísio e, com aguda intuição de descobridor de valores, convidou-o para o cargo de inspetor-geral de ensino, para o qual foi nomeado a 17 de abril de 1924. A nomeação causou espanto ao próprio Anísio e à sua família, pois para tais cargos eram geralmente nomeados administradores que houvessem militado no setor, enquanto que Anísio era até então um simplesmente um advogado do interior. Do exame das condições materiais e humanas em que se encontravam as escolas da Bahia, não seria difícil concluir que tudo necessitava de renovação."
+    },
+    {
+     "inicio_corpo": 1985,
+     "fim_corpo": 2843,
+     "trecho": "Eleito Goes Calmon para governador, em caráter de oposição à situação anterior, buscou logo novos talentos para compor sua administração. Teve um encontro com Anísio e, com aguda intuição de descobridor de valores, convidou-o para o cargo de inspetor-geral de ensino, para o qual foi nomeado a 17 de abril de 1924. A nomeação causou espanto ao próprio Anísio e à sua família, pois para tais cargos eram geralmente nomeados administradores que houvessem militado no setor, enquanto que Anísio era até então um simplesmente um advogado do interior. Do exame das condições materiais e humanas em que se encontravam as escolas da Bahia, não seria difícil concluir que tudo necessitava de renovação. Mas como encontrar recursos para isso e como combater a burocracia que dominava os serviços e a própria mentalidade reinante na administração escolar?"
+    },
+    {
+     "inicio_corpo": 2538,
+     "fim_corpo": 3432,
+     "trecho": "Do exame das condições materiais e humanas em que se encontravam as escolas da Bahia, não seria difícil concluir que tudo necessitava de renovação. Mas como encontrar recursos para isso e como combater a burocracia que dominava os serviços e a própria mentalidade reinante na administração escolar? Anísio logo sentiu a necessidade de nova legislação para dar suporte às modificações necessárias. Para isso, apresentou um relatório que, depois de debatido e ordenado na esfera administrativa, transformou-se em projeto de lei encaminhado à Assembléia Legislativa em julho de 1924. Entre numerosos outros pontos abordados, o projeto estabelecia ser o Estado obrigado a despender, anualmente, com a instrução pública, no mínimo, a sexta parte de sua renda tributária bruta e determinava a criação de quinhentas novas escolas primárias, que o Governo localizaria onde conviesse."
+    },
+    {
+     "inicio_corpo": 2692,
+     "fim_corpo": 3628,
+     "trecho": "Mas como encontrar recursos para isso e como combater a burocracia que dominava os serviços e a própria mentalidade reinante na administração escolar? Anísio logo sentiu a necessidade de nova legislação para dar suporte às modificações necessárias. Para isso, apresentou um relatório que, depois de debatido e ordenado na esfera administrativa, transformou-se em projeto de lei encaminhado à Assembléia Legislativa em julho de 1924. Entre numerosos outros pontos abordados, o projeto estabelecia ser o Estado obrigado a despender, anualmente, com a instrução pública, no mínimo, a sexta parte de sua renda tributária bruta e determinava a criação de quinhentas novas escolas primárias, que o Governo localizaria onde conviesse. Igual percentagem das receitas municipais deveria concorrer para o mesmo fim. Aos municípios dava-se ampla liberdade para criar, manter ou transformar escolas primárias dentro dos limites da lei."
+    },
+    {
+     "inicio_corpo": 3432,
+     "fim_corpo": 4328,
+     "trecho": "Igual percentagem das receitas municipais deveria concorrer para o mesmo fim. Aos municípios dava-se ampla liberdade para criar, manter ou transformar escolas primárias dentro dos limites da lei. Era criado um conselho superior de ensino, com atribuições consultivas, bem como conselhos municipais que deveriam estimular o ensino primário, fiscalizá-lo e propor medidas convenientes à sua melhor adaptação às condições locais. Isso demonstra que, desde então, Anísio se mostrava partidário de uma ampla autonomia local, princípio modernamente adotado. Não obstante as críticas e oposições de interesses contrariados – foi qualificado na imprensa de \"verdoso educador\", \"bebê\" e \"irrequieto pedagogo\" – e, limitando-nos apenas ao ensino primário, os esforços de Anísio levaram, de 1923 a 1927, a um aumento de 25% da população escolar, elevando-se a freqüência em termos equivalentes."
+    },
+    {
+     "inicio_corpo": 4328,
+     "fim_corpo": 5143,
+     "trecho": "Durante o mesmo período, a proporção de gastos com o ensino em relação à receita geral apresentou uma elevação de 4,55% para 8,47%, isto é, um aumento relativo de 85%. Não poderiam ser traduzidos em números os aperfeiçoamentos ocorridos nos currículos e nos processos de ensino. Em março de 1928, Vital Soares, sucessor de Goes Calmon no Governo da Bahia, amigo e admirador de Anísio, convida-o a continuar na já então Secretaria de Educação. Anísio apresentou novas sugestões e críticas ao processo educativo, apontando possíveis melhoramentos, inclusive na formação do professorado. Tais sugestões, entretanto, não lograram receptividade, preferindo Anísio, em novembro de 1929, exonerar-se do cargo a ter que marcar passo. Foi então nomeado professor de Filosofia da Educação na Escola Normal de Salvador."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0309::Escolaridade e letramento",
+   "unit_id": "S0309",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "aluno",
+     "forma_encontrada": "aluno",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 807,
+     "fim_corpo": 1542,
+     "trecho": "Refiro-me a Anísio Teixeira, cujo centenário de nascimento ocorre neste 12 de julho, oportunidade que se me oferece de trazer ao Senado um pouco da história de um brasileiro exemplar. Nascido na cidade sertaneja de Caetité, na Chapada Diamantina, era filho de Diocleciano Pires Teixeira e de Ana de Souza Spínola, ambos de famílias de grande influência econômica e política na região. Terminado o curso primário, matriculou-se no \"ginásio de preparatórios\" São Luiz, destacando-se logo pelo rigor de seus trabalhos e granjeando a administração dos jesuítas. Em 1915, transferiu-se para o Internato Antônio Vieira, em Salvador – também dirigido pela Companhia de Jesus –, já ali entrando com a auréola de aluno excepcional."
+    },
+    {
+     "inicio_corpo": 7300,
+     "fim_corpo": 8130,
+     "trecho": "Do golpe comunista frustrado em 1935, começavam a nascer os prenúncios do Estado Novo e foi logo exigido, por seus inimigos, o afastamento de Anísio Teixeira. Vendo que sua permanência dificultaria a posição do Prefeito Pedro Ernesto, Anísio pediu exoneração em 1º de dezembro de 1935. Ocorreu, então, um hiato nas atividades de Anísio como administrador educacional, durante o qual exerceu várias tarefas, inclusive no setor de mineração, e colaborou por mais de um ano na Unesco, exercendo as funções de conselheiro para o ensino superior. Com a redemocratização do Brasil, Octavio Mangabeira foi empossado em janeiro de 1947 no Governo da Bahia e convidou Anísio para Secretário de Educação. O ensino se encontrava em situação deplorável, com a média de 33 alunos por mil habitantes, superior apenas à do Maranhão."
+    },
+    {
+     "inicio_corpo": 10987,
+     "fim_corpo": 11882,
+     "trecho": "E, em seguida, Anísio foi convocado a fim de planejar o sistema escolar de Brasília. Anísio concebeu um sistema em que, a cada quadra que constituía a estrutura urbana da capital, oferecia-se um jardim de infância, e a cada grupo de quatro quadras, uma escola-parque. Os centros de educação média tiveram um planejamento adequado às suas finalidades e, para atender ao ensino superior, criou-se, em setembro de 1961, a Universidade de Brasília – UnB, instituída como fundação. Contrariamente às demais universidades então existentes no Brasil, quase sempre meros agregados de faculdades ligadas administrativamente por um reitor, a UnB constituía um todo orgânico, em que uma plêiade de excelentes professores se dedicavam, em tempo integral, ao magistério e à pesquisa, bem como ao atendimento dos alunos que os procuravam para discutir trabalhos ou resolver problemas específicos."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0309::Idade",
+   "unit_id": "S0309",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "criança",
+     "forma_encontrada": "criança",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8274,
+     "fim_corpo": 9194,
+     "trecho": "Envidou enormes esforços para a realização de um diagnóstico da situação e para a elaboração de diretrizes e prioridades, conjugando, para tal, a contribuição de vários especialistas em ciências sociais. Entre numerosas iniciativas desse período, cabe citar a construção do Centro Educacional Carneiro Ribeiro, definidora, por excelência, dos postulados de sua política educacional. O centro foi parcialmente erguido em outubro de 1950, com três escolas em pavilhões distintos. Posteriormente, em 1961, estava quase concluído, com três escolas e a escola-parque, pavilhões de trabalho, setor socializante, pavilhão de educação física e jogos, biblioteca, setor artístico, etc. Sua missão era a de reintegrar a escola primária em seu sentido amplo, aliando os estudos tradicionais à formação de hábitos, atitudes e aspirações que dessem à criança, ao mesmo tempo, o preparo para a civilização técnica e industrial."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0309::Urbano e rural",
+   "unit_id": "S0309",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "cam po",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 314,
+     "trecho": "O SR. LÚCIO ALCÂNTARA (PSDB - CE. Pronuncia o seguinte discurso. Sem revisão do orador) – Sr. Presidente, Sras. e Srs. Senadores, familiares de Anísio Teixeira, convidados, senhoras e senhores, na galeria dos educadores brasileiros muitas figuras se destacam por suas lutas, contribuições originais e realizações."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0310::Domicílio e arranjo familiar",
+   "unit_id": "S0310",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Antonio Carlos Magalhães",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2130,
+     "fim_corpo": 3794,
+     "trecho": "Ele foi realmente o homem que pensou grande na educação do Brasil e que serviu muito à Bahia. Vi como foi feita a Escola Parque, um modelo do Brasil naquela época. Depois, outras surgiram, mas foi na Bahia que ela nasceu, e por iniciativa de Anísio, quando Secretário do Dr. Octávio Mangabeira. E naquele afã de fazer as coisas, quando ele encontrava resistências na área da Secretaria da Fazenda, procurava o Governador, que, com o seu jeito muito especial, sempre dizia: \"Faça. O dinheiro aparece\". E, assim, Anísio Teixeira pôde construir uma grande obra de educação na Bahia e uma grande obra de educação no Brasil. Anísio foi muito injustiçado. A injustiça, nesses grandes homens, é título, porque é sempre fruto da inveja dos incapazes e sobretudo daqueles que nunca puderam realizar o que Anísio Teixeira realizou. De modo que, quando vejo aqui a sua família, vejo também a Bahia presente. Quero relembrar com saudade o homem mais inteligente da sua época, que foi Anísio. Darcy Ribeiro dizia isso com uma convivência bem maior do que a minha. Mas, o pouco que convivi, posso também dizer que Anísio foi o melhor coseur que encontramos contemporaneamente na Bahia. Fazia gosto ouvir Jayme Ayres, Anísio, Nestor e, às vezes, Luiz Viana. Era um deleite para todos, sempre preponderando a figura de Anísio sobre a de todos. Daí por que quando o Senado homenageia a inteligência brasileira, a genialidade brasileira na figura de Anísio Teixeira, eu, como baiano, tenho orgulho e, como brasileiro, ainda acho que esse homem, morto há quase trinta anos, ainda está prestando os melhores serviços à educação no Brasil. (Palmas)"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0310::Educação",
+   "unit_id": "S0310",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Antonio Carlos Magalhães",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "Escola",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1363,
+     "fim_corpo": 2300,
+     "trecho": "Por mais que ele dissesse, não disse tudo e sabe que não disse, porque ninguém dirá tudo de Anísio Teixeira, até porque ele tinha alguma coisa que ninguém penetrava e que só ele sabia traduzir para o seu povo. Depois, a palavra do nosso Senador pela Bahia, Paulo Souto, nascido na mesma terra de Anísio, e que, por isso, pôde nos brindar com um excelente discurso. A seguir, a palavra sempre presente do Senador Eduardo Suplicy; o elogio do trabalho de Anísio em Brasília pelo Senador José Roberto Arruda e, ao final, o Senador Lúcio Alcântara, um dos melhores vultos desta Casa, fez uma síntese do que foi a vida de Anísio Teixeira, uma vida vitoriosa. O ensino moderno que temos hoje já era idealizado por Anísio há cinqüenta ou sessenta anos passados. Ele foi realmente o homem que pensou grande na educação do Brasil e que serviu muito à Bahia. Vi como foi feita a Escola Parque, um modelo do Brasil naquela época."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0310::Idade",
+   "unit_id": "S0310",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Antonio Carlos Magalhães",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 588,
+     "trecho": "O SR. PRESIDENTE (Antonio Carlos Magalhães) – Ao encerrar o tempo destinado à Hora do Expediente, dedicado a homenagear o grande educador Anísio Teixeira, cabe-me traduzir o pensamento da Mesa do Senado no sentido de glorificar este grande nome nascido na Bahia e que viveu a serviço do Brasil. Não é mera coincidência, é o destino que fez com que aparecessem crianças nas galerias neste instante – e ainda estão aparecendo – para agradecer a Deus nos ter dado um Anísio Teixeira para que elas pudessem receber uma educação adequada, como Anísio desejava para todos os brasileiros."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0311::Educação",
+   "unit_id": "S0311",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Ronaldo Cunha Lima",
+   "n_ocorrencias_no_par": 9,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 3,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "Escola",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1473,
+     "fim_corpo": 2451,
+     "trecho": "Admitamos que a educação, sendo passiva, depende dos elementos fornecidos pela cultura. Nessa linha conceptiva, é a cultura, na plena implicação dos resultados que incrementa no contexto societário, que desperta valores, os quais são a seguir incorporados pela educação. Por essência, a cultura é revolucionária e a educação é conservadora. Sendo assim, o ideal é aquilo que preconizou Anísio Teixeira: sistematizar a educação sem permitir que dita sistematização se oponha à natureza da cultura. Noutras palavras, pertence à cultura o ato criador, justificante do desenvolvimento, responsável pelas artes e pela intelectualização das experiências; e pertence à educação o ato transmissor, já materialmente acoplado ao saber. Em suma, a educação transmite o que a cultura cria. Nem haveria de ser diferente, se é pela cultura que a educação começa: a educação é a cultura escolarizada na sua modalidade transescolar que se compõe com instrumentos de comunicação cultural."
+    },
+    {
+     "inicio_corpo": 1567,
+     "fim_corpo": 2451,
+     "trecho": "Nessa linha conceptiva, é a cultura, na plena implicação dos resultados que incrementa no contexto societário, que desperta valores, os quais são a seguir incorporados pela educação. Por essência, a cultura é revolucionária e a educação é conservadora. Sendo assim, o ideal é aquilo que preconizou Anísio Teixeira: sistematizar a educação sem permitir que dita sistematização se oponha à natureza da cultura. Noutras palavras, pertence à cultura o ato criador, justificante do desenvolvimento, responsável pelas artes e pela intelectualização das experiências; e pertence à educação o ato transmissor, já materialmente acoplado ao saber. Em suma, a educação transmite o que a cultura cria. Nem haveria de ser diferente, se é pela cultura que a educação começa: a educação é a cultura escolarizada na sua modalidade transescolar que se compõe com instrumentos de comunicação cultural."
+    },
+    {
+     "inicio_corpo": 2205,
+     "fim_corpo": 2978,
+     "trecho": "Em suma, a educação transmite o que a cultura cria. Nem haveria de ser diferente, se é pela cultura que a educação começa: a educação é a cultura escolarizada na sua modalidade transescolar que se compõe com instrumentos de comunicação cultural. Anísio Teixeira assinalou que a educação e a cultura não podem ser planejadas sem visão de futuro; e que, por isto, as decisões nas áreas educacional e cultural acarretam inevitável carga política na escolha das opções: a fórmula terminal de asfixia do tirocínio administrativo são as diretrizes abúlicas em aludidas áreas. Com essas noções de operosidade, lutou para implantar uma educação ao alcance de todos, no afã de levar às escolas e às universidades, camadas da população brasileira que não tinham acesso a elas."
+    },
+    {
+     "inicio_corpo": 2205,
+     "fim_corpo": 3341,
+     "trecho": "Em suma, a educação transmite o que a cultura cria. Nem haveria de ser diferente, se é pela cultura que a educação começa: a educação é a cultura escolarizada na sua modalidade transescolar que se compõe com instrumentos de comunicação cultural. Anísio Teixeira assinalou que a educação e a cultura não podem ser planejadas sem visão de futuro; e que, por isto, as decisões nas áreas educacional e cultural acarretam inevitável carga política na escolha das opções: a fórmula terminal de asfixia do tirocínio administrativo são as diretrizes abúlicas em aludidas áreas. Com essas noções de operosidade, lutou para implantar uma educação ao alcance de todos, no afã de levar às escolas e às universidades, camadas da população brasileira que não tinham acesso a elas. Jamais tergiversou na crença de que, com o progresso, ganha funcionalidade o que se aprende nas escolas e universidades, sendo pertinente usá-las como instituições aprofundantes do referido progresso; e jamais abdicou da certeza de que a educação promove as pessoas, eliminando as situações de iniqüidade e ajudando na superação das circunstâncias infra-humanas."
+    },
+    {
+     "inicio_corpo": 3652,
+     "fim_corpo": 4507,
+     "trecho": "Basta lembrar que os sistemas educacionais possuem vasto potencial para induzir mutações socioeconômicas, atenuando ou acabando sofrimentos, desajustes e dramas individuais. Sr. Presidente, Sras. e Srs. Senadores, pela ação vigorosa de Anísio Teixeira, primeiro como Diretor-Geral de Instrução e depois como Secretário da Educação e Cultura do antigo Distrito Federal, acentuaram-se de modo positivo as influências das idéias e técnicas pedagógicas norte-americanas (além de Bacharel em Direito, ele se graduara em Ciências da Educação pela Universidade Columbia, onde foi discípulo de Jonh Dewey), e tiveram avanços marcantes os serviços educacionais pelo surgimento de instituições de largo alcance, bem assim pelos processos inovadores de administração escolar e pela mais criteriosa aplicação dos métodos científicos à problemática educacional."
+    },
+    {
+     "inicio_corpo": 3826,
+     "fim_corpo": 4812,
+     "trecho": "Sr. Presidente, Sras. e Srs. Senadores, pela ação vigorosa de Anísio Teixeira, primeiro como Diretor-Geral de Instrução e depois como Secretário da Educação e Cultura do antigo Distrito Federal, acentuaram-se de modo positivo as influências das idéias e técnicas pedagógicas norte-americanas (além de Bacharel em Direito, ele se graduara em Ciências da Educação pela Universidade Columbia, onde foi discípulo de Jonh Dewey), e tiveram avanços marcantes os serviços educacionais pelo surgimento de instituições de largo alcance, bem assim pelos processos inovadores de administração escolar e pela mais criteriosa aplicação dos métodos científicos à problemática educacional. Entre 1932 e 1935, Anísio Teixeira pôs em execução iniciativas e reformas com as quais infundiu magistral impulso ao ordenamento escolar do então Distrito Federal, dando-lhe, pelo bloco de medidas adotadas, uma latitude de providências cujo ineditismo logo assumiu feição modelar para o restante do País."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0311::Escolaridade e letramento",
+   "unit_id": "S0311",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-27",
+   "orador": "Ronaldo Cunha Lima",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4507,
+     "fim_corpo": 5818,
+     "trecho": "Entre 1932 e 1935, Anísio Teixeira pôs em execução iniciativas e reformas com as quais infundiu magistral impulso ao ordenamento escolar do então Distrito Federal, dando-lhe, pelo bloco de medidas adotadas, uma latitude de providências cujo ineditismo logo assumiu feição modelar para o restante do País. Sobretudo modelar pela maneira de entender o labor educacional: uma tarefa de tamanha magnitude que nela improcedem posturas absenteístas. Com a pujança criativa de sua personalidade empreendedora, Anísio Teixeira ampliou o complexo escolar, deixando-o quanto possível completo. Entrementes, enriqueceu o programa escolar e a especialização dos professores primários para melhor colocar em prática as metas formuladas; nivelou o ensino técnico e profissional ao ensino secundário, articulando-o com o secundário geral, a fim de permitir sua equivalência cultural e a transferência de alunos de um para outro curso; reorganizou o ensino normal com o fito de erguer a formação profissional do mestre a nível superior, tendo como base os estudos propedêuticos; remodelou o aparelhamento técnico dos serviços de administração do ensino, objetivando habilitá-los a preencher as suas funções técnicas, administrativas e de pesquisa científica; e criou, em 1935, a universidade do à época Distrito Federal."
+    }
+   ]
+  }
+ ]
+}

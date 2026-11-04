@@ -1,0 +1,1016 @@
+{
+ "caso": "BEAD",
+ "lote": 15,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0056::Infraestrutura e porte populacional",
+   "unit_id": "W0056",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Mariel Triggs",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "last mile",
+     "forma_encontrada": "last-mile",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2613,
+     "fim_corpo": 3549,
+     "trecho": "Brian had deployed rural Internet networks around the world and was an expert in E-rate policy. On the back of a napkin, they came up with a game plan to bring broadband to under- connected people on a grand scale and connect rural tribal lands in the United States. Most anchor institutions such as schools, hospitals, chapter houses, etc, already had access to broadband. This infrastructure had been built by Internet service providers, government entities and tribally-affiliated organizations like AMERIND Risk, the Middle Rio Grande Pueblo Consortium, Tribal Digital Village and Red Spectrum pushed by people such as Matt Rantanen of the Southern Tribal Chairman’s Association, Danae Wilson of Nez Perce, Valerie Fast Horse of the Coeur d'Alene and countless others. What we could offer was a wireless last-mile to the home solution that is affordable, protected, quickly deployed, easily maintained and available now."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0056::Raça e etnia",
+   "unit_id": "W0056",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Mariel Triggs",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Native American",
+     "forma_encontrada": "Native American",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5281,
+     "fim_corpo": 6235,
+     "trecho": "Since licenses are required, the networks have a guarantee of reliable operations without worry of interference that unlicensed spectrum has. And licenses are free for schools and nonprofits. We knew Citizens Broadband Radio Service (CBRS) spectrum in the 3.5 GHz would be available soon, however, physics and power limitations meant it only traveled half as far as EBS. We use it when EBS is unavailable or if our partners want to expand service. Low band TV whitespace is great for traveling long distances, but it supports only a fraction of what EBS band networks can do. Open EBS licensing has been frozen since the mid-nineties but we found a solution by applying for a special temporary authorization, building a network and then applying for a permanent license. In the Spring of 2017, we were ready to build a pilot and reached out to Dr. Chad Hamill, the Vice President of Native American Initiatives at Northern Arizona University."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0056::Saúde",
+   "unit_id": "W0056",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Mariel Triggs",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2149,
+     "fim_corpo": 2992,
+     "trecho": "According to the FCC, in 2017 98.4% of Urban, non-tribal households had broadband (25/3 Mbps) access. That number drops to 3 58.4% for rural non-tribal areas. For rural tribal areas that number is halved to 28.9%.1 And that is based on data that overstate actual coverage on tribal lands.2,3 Martin grew up in Flagstaff, AZ, and wanted to give back to the greater Northern Arizona community by helping to bridge the digital divide on tribal lands. Brian had deployed rural Internet networks around the world and was an expert in E-rate policy. On the back of a napkin, they came up with a game plan to bring broadband to under- connected people on a grand scale and connect rural tribal lands in the United States. Most anchor institutions such as schools, hospitals, chapter houses, etc, already had access to broadband."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0056::Saúde e deficiência",
+   "unit_id": "W0056",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Mariel Triggs",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "disabilities",
+     "forma_encontrada": "Disabilities",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6061,
+     "fim_corpo": 7094,
+     "trecho": "In the Spring of 2017, we were ready to build a pilot and reached out to Dr. Chad Hamill, the Vice President of Native American Initiatives at Northern Arizona University. The Havasupai Tribe These are the words of Councilwoman Ophelia Watahomigie-Corliss of The Havasupai Tribe. “Education is important. We live in a canyon, but we also live in the bigger world. Our children deserve the same chance to learn and earn the same education as anyone else.” The village of Supai is home to about 400 members and is located at the bottom of the Grand Canyon. Travel there requires a helicopter or an 8-mile hike through 5 difficult terrain. The extreme remoteness of the town greatly limits educational and economic opportunities. Havasupai Elementary struggles with staffing shortages that close the school for weeks at a time. Jaqcueline, the Health and Disabilities Coordinator at Head Start, had to leave Supai every other weekend for a semester to take early education classes at a local community college."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0056::Territórios de povos e comunidades tradicionais",
+   "unit_id": "W0056",
+   "subcategoria": "Territórios de povos e comunidades tradicionais",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Mariel Triggs",
+   "n_ocorrencias_no_par": 12,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 6,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "tribal lands",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Tribal governments",
+     "forma_encontrada": "tribal governments",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "tribal lands",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "tribal lands",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "tribal lands",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "tribal lands",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "tribal lands",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "Tribal Lands",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "tribal lands",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Tribal governments",
+     "forma_encontrada": "tribal governments",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "tribal lands",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Tribal governments",
+     "forma_encontrada": "tribal governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 253,
+     "fim_corpo": 1316,
+     "trecho": "July 16, 2019 Good morning Chairmen Doyle, Ranking Member Latta and members of the subcommittee. My name is Mariel Triggs and I am the CEO of MuralNet, a young 2 nonprofit dedicated to helping tribal nations build high-speed wireless Internet networks on their lands. I am here to tell you a story about a small troop of volunteers who thought they could solve the homework gap on rural lands, how The Havasupai Tribe and local partners worked with us to build their network providing high-speed Internet service to the bottom of the Grand Canyon, and how spectrum acquisition became our biggest challenge time and time again. Last week, the FCC approved a tribal priority window for unlicensed Educational Broadband Service (EBS) spectrum before it goes to auction. While this was a groundbreaking measure that will connect many people on tribal lands, a 90-day outreach period followed by a 60-day application window is too short and expecting tribal nations to build out networks twice as fast as major telecoms is unjustifiable."
+    },
+    {
+     "inicio_corpo": 542,
+     "fim_corpo": 1584,
+     "trecho": "I am here to tell you a story about a small troop of volunteers who thought they could solve the homework gap on rural lands, how The Havasupai Tribe and local partners worked with us to build their network providing high-speed Internet service to the bottom of the Grand Canyon, and how spectrum acquisition became our biggest challenge time and time again. Last week, the FCC approved a tribal priority window for unlicensed Educational Broadband Service (EBS) spectrum before it goes to auction. While this was a groundbreaking measure that will connect many people on tribal lands, a 90-day outreach period followed by a 60-day application window is too short and expecting tribal nations to build out networks twice as fast as major telecoms is unjustifiable. We support a year-long outreach and application window with rolling automatic approvals for tribal governments so that buildouts can happen quickly, thus serving as an example to neighboring tribal communities of what is possible and inspiring them to do the same."
+    },
+    {
+     "inicio_corpo": 905,
+     "fim_corpo": 1740,
+     "trecho": "Last week, the FCC approved a tribal priority window for unlicensed Educational Broadband Service (EBS) spectrum before it goes to auction. While this was a groundbreaking measure that will connect many people on tribal lands, a 90-day outreach period followed by a 60-day application window is too short and expecting tribal nations to build out networks twice as fast as major telecoms is unjustifiable. We support a year-long outreach and application window with rolling automatic approvals for tribal governments so that buildouts can happen quickly, thus serving as an example to neighboring tribal communities of what is possible and inspiring them to do the same. MuralNet MuralNet was founded in February of 2017 by Martin Casado and Brian Shih, after they had a conversation about the homework gap on tribal lands."
+    },
+    {
+     "inicio_corpo": 1584,
+     "fim_corpo": 2613,
+     "trecho": "MuralNet MuralNet was founded in February of 2017 by Martin Casado and Brian Shih, after they had a conversation about the homework gap on tribal lands. As schools increase their connectivity, teachers assign more online homework. In order to meet academic expectations, students with no access to sufficient Internet at home have to go to extreme measures such as working out of McDonald’s parking lots to pick up free WiFi or traveling to the highest point near town to catch a cell phone signal, often hitting data caps a week into their billing period. According to the FCC, in 2017 98.4% of Urban, non-tribal households had broadband (25/3 Mbps) access. That number drops to 3 58.4% for rural non-tribal areas. For rural tribal areas that number is halved to 28.9%.1 And that is based on data that overstate actual coverage on tribal lands.2,3 Martin grew up in Flagstaff, AZ, and wanted to give back to the greater Northern Arizona community by helping to bridge the digital divide on tribal lands."
+    },
+    {
+     "inicio_corpo": 1740,
+     "fim_corpo": 2613,
+     "trecho": "As schools increase their connectivity, teachers assign more online homework. In order to meet academic expectations, students with no access to sufficient Internet at home have to go to extreme measures such as working out of McDonald’s parking lots to pick up free WiFi or traveling to the highest point near town to catch a cell phone signal, often hitting data caps a week into their billing period. According to the FCC, in 2017 98.4% of Urban, non-tribal households had broadband (25/3 Mbps) access. That number drops to 3 58.4% for rural non-tribal areas. For rural tribal areas that number is halved to 28.9%.1 And that is based on data that overstate actual coverage on tribal lands.2,3 Martin grew up in Flagstaff, AZ, and wanted to give back to the greater Northern Arizona community by helping to bridge the digital divide on tribal lands."
+    },
+    {
+     "inicio_corpo": 2149,
+     "fim_corpo": 2882,
+     "trecho": "According to the FCC, in 2017 98.4% of Urban, non-tribal households had broadband (25/3 Mbps) access. That number drops to 3 58.4% for rural non-tribal areas. For rural tribal areas that number is halved to 28.9%.1 And that is based on data that overstate actual coverage on tribal lands.2,3 Martin grew up in Flagstaff, AZ, and wanted to give back to the greater Northern Arizona community by helping to bridge the digital divide on tribal lands. Brian had deployed rural Internet networks around the world and was an expert in E-rate policy. On the back of a napkin, they came up with a game plan to bring broadband to under- connected people on a grand scale and connect rural tribal lands in the United States."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0056::Urbano e rural",
+   "unit_id": "W0056",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Mariel Triggs",
+   "n_ocorrencias_no_par": 10,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 4,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 905,
+     "trecho": "WRITTEN TESTIMONY OF MARIEL TRIGGS CEO OF MURALNET BEFORE THE COMMITTEE ON ENERGY AND COMMERCE SUBCOMMITTEE ON COMMUNICATIONS & TECHNOLOGY HEARING ON OUR WIRELESS FUTURE: BUILDING A COMPREHENSIVE APPROACH TO SPECTRUM POLICY WASHINGTON, D.C. July 16, 2019 Good morning Chairmen Doyle, Ranking Member Latta and members of the subcommittee. My name is Mariel Triggs and I am the CEO of MuralNet, a young 2 nonprofit dedicated to helping tribal nations build high-speed wireless Internet networks on their lands. I am here to tell you a story about a small troop of volunteers who thought they could solve the homework gap on rural lands, how The Havasupai Tribe and local partners worked with us to build their network providing high-speed Internet service to the bottom of the Grand Canyon, and how spectrum acquisition became our biggest challenge time and time again."
+    },
+    {
+     "inicio_corpo": 1584,
+     "fim_corpo": 2320,
+     "trecho": "MuralNet MuralNet was founded in February of 2017 by Martin Casado and Brian Shih, after they had a conversation about the homework gap on tribal lands. As schools increase their connectivity, teachers assign more online homework. In order to meet academic expectations, students with no access to sufficient Internet at home have to go to extreme measures such as working out of McDonald’s parking lots to pick up free WiFi or traveling to the highest point near town to catch a cell phone signal, often hitting data caps a week into their billing period. According to the FCC, in 2017 98.4% of Urban, non-tribal households had broadband (25/3 Mbps) access. That number drops to 3 58.4% for rural non-tribal areas."
+    },
+    {
+     "inicio_corpo": 1584,
+     "fim_corpo": 2613,
+     "trecho": "MuralNet MuralNet was founded in February of 2017 by Martin Casado and Brian Shih, after they had a conversation about the homework gap on tribal lands. As schools increase their connectivity, teachers assign more online homework. In order to meet academic expectations, students with no access to sufficient Internet at home have to go to extreme measures such as working out of McDonald’s parking lots to pick up free WiFi or traveling to the highest point near town to catch a cell phone signal, often hitting data caps a week into their billing period. According to the FCC, in 2017 98.4% of Urban, non-tribal households had broadband (25/3 Mbps) access. That number drops to 3 58.4% for rural non-tribal areas. For rural tribal areas that number is halved to 28.9%.1 And that is based on data that overstate actual coverage on tribal lands.2,3 Martin grew up in Flagstaff, AZ, and wanted to give back to the greater Northern Arizona community by helping to bridge the digital divide on tribal lands."
+    },
+    {
+     "inicio_corpo": 1740,
+     "fim_corpo": 2710,
+     "trecho": "As schools increase their connectivity, teachers assign more online homework. In order to meet academic expectations, students with no access to sufficient Internet at home have to go to extreme measures such as working out of McDonald’s parking lots to pick up free WiFi or traveling to the highest point near town to catch a cell phone signal, often hitting data caps a week into their billing period. According to the FCC, in 2017 98.4% of Urban, non-tribal households had broadband (25/3 Mbps) access. That number drops to 3 58.4% for rural non-tribal areas. For rural tribal areas that number is halved to 28.9%.1 And that is based on data that overstate actual coverage on tribal lands.2,3 Martin grew up in Flagstaff, AZ, and wanted to give back to the greater Northern Arizona community by helping to bridge the digital divide on tribal lands. Brian had deployed rural Internet networks around the world and was an expert in E-rate policy."
+    },
+    {
+     "inicio_corpo": 2149,
+     "fim_corpo": 2882,
+     "trecho": "According to the FCC, in 2017 98.4% of Urban, non-tribal households had broadband (25/3 Mbps) access. That number drops to 3 58.4% for rural non-tribal areas. For rural tribal areas that number is halved to 28.9%.1 And that is based on data that overstate actual coverage on tribal lands.2,3 Martin grew up in Flagstaff, AZ, and wanted to give back to the greater Northern Arizona community by helping to bridge the digital divide on tribal lands. Brian had deployed rural Internet networks around the world and was an expert in E-rate policy. On the back of a napkin, they came up with a game plan to bring broadband to under- connected people on a grand scale and connect rural tribal lands in the United States."
+    },
+    {
+     "inicio_corpo": 4375,
+     "fim_corpo": 5191,
+     "trecho": "20, 2017). 3 FCC considers broadband to be “available” for an entire census block if the provider could serve at least one location in the census block. This leads to overstatements of service for specific locations like tribal lands. FCC, tribal stakeholders, and providers have noted that this approach leads to overstatements of broadband availability., See GAO, Broadband Internet: FCC’s Data Overstate Access on Tribal Lands , GAO 18-630, https://www.gao.gov/assets/700/694386.pdf (Sept, 2018). 4 infrastructure such as poles, rooftops, and water towers. And we had access to free open source systems with user-friendly, cloud-based interface operations portals. However, a wireless solution requires spectrum. EBS spectrum is the perfect band for starting a rural wireless Internet network."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0058::Escolaridade e letramento",
+   "unit_id": "W0058",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Mark Ouellette",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "digital literacy",
+     "forma_encontrada": "Digital Literacy",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4142,
+     "fim_corpo": 5249,
+     "trecho": "Congress should ensure that connectivity should not be dictated by the location of your home or small business- rural connectivity is extremely important and policy decisions in Washington, should not exacerbate the urban/rural divide 4. Reliability- nothing is more frustrating to any of us then when the internet is not working- as the committee considers investments- please strongly consider the reliability of various technologies- there is broad agreement that fiber delivers the best reliability 5. Last, bridging the Digital Divide requires more than a good connection- it requires educating subscribers how to leverage their connection through Digital Literacy teaching and classes, Axiom’s founder has created the National Digital Equity Center whose mission is ensure that all citizens have the tools to fully participate in the Digital economy and society- the federal government can play an outsized role in educating citizens and municipalities on how to better leverage a Broadband connection Thank you again for the opportunity. Mark Ouellette mark@connectwithaxiom.com"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0058::Infraestrutura e porte populacional",
+   "unit_id": "W0058",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Mark Ouellette",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 817,
+     "fim_corpo": 1772,
+     "trecho": "Axiom has deep experience with all internet technology; wireless- including TV White Space, DSL and fiber. We work hard to deliver innovative solutions that work- at a cost that makes sense to the subscriber. Over the years, how people use the internet, especially in rural Maine has evolved and become critical to small and home-based businesses, and increasingly to people who can work from anywhere and choose to live in rural Maine for the quality of life. Education, telemedicine, teleconferencing, entertainment, and phone service are increasingly reliant on a strong, reliable internet connection and enable remote, rural customers to connect to the world, create their own economy and successfully preserve their way of life. Internet connectivity can help save rural commutes from dying. In Maine, numbers are difficult, but estimates suggest there remains 20,000 unserved homes and 10s of thousands of underserved homes."
+    },
+    {
+     "inicio_corpo": 930,
+     "fim_corpo": 1772,
+     "trecho": "We work hard to deliver innovative solutions that work- at a cost that makes sense to the subscriber. Over the years, how people use the internet, especially in rural Maine has evolved and become critical to small and home-based businesses, and increasingly to people who can work from anywhere and choose to live in rural Maine for the quality of life. Education, telemedicine, teleconferencing, entertainment, and phone service are increasingly reliant on a strong, reliable internet connection and enable remote, rural customers to connect to the world, create their own economy and successfully preserve their way of life. Internet connectivity can help save rural commutes from dying. In Maine, numbers are difficult, but estimates suggest there remains 20,000 unserved homes and 10s of thousands of underserved homes."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0058::Urbano e rural",
+   "unit_id": "W0058",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Mark Ouellette",
+   "n_ocorrencias_no_par": 18,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 12,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 508,
+     "trecho": "Thank you for the opportunity to testify. My name is Mark Ouellette and I am the President and CEO of Axiom Technologies. Axiom is a full-service internet service provider and professional services company based right here in Machias. From our founder’s roots and the first wireless internet connection in Washington County 14 plus years ago, our mission has not changed: To deliver strategic and customized rural broadband deployment solutions to remote customers and communities across Maine."
+    },
+    {
+     "inicio_corpo": 240,
+     "fim_corpo": 1293,
+     "trecho": "From our founder’s roots and the first wireless internet connection in Washington County 14 plus years ago, our mission has not changed: To deliver strategic and customized rural broadband deployment solutions to remote customers and communities across Maine. Axiom currently serves over 1300 homes and small businesses across Washington County, and several islands along the Maine coast. I don’t think it is an understatement to say we serve some of the most difficult customers to reach, in some of the most challenging and remote terrain in the United States. Axiom has deep experience with all internet technology; wireless- including TV White Space, DSL and fiber. We work hard to deliver innovative solutions that work- at a cost that makes sense to the subscriber. Over the years, how people use the internet, especially in rural Maine has evolved and become critical to small and home-based businesses, and increasingly to people who can work from anywhere and choose to live in rural Maine for the quality of life."
+    },
+    {
+     "inicio_corpo": 508,
+     "fim_corpo": 1293,
+     "trecho": "Axiom currently serves over 1300 homes and small businesses across Washington County, and several islands along the Maine coast. I don’t think it is an understatement to say we serve some of the most difficult customers to reach, in some of the most challenging and remote terrain in the United States. Axiom has deep experience with all internet technology; wireless- including TV White Space, DSL and fiber. We work hard to deliver innovative solutions that work- at a cost that makes sense to the subscriber. Over the years, how people use the internet, especially in rural Maine has evolved and become critical to small and home-based businesses, and increasingly to people who can work from anywhere and choose to live in rural Maine for the quality of life."
+    },
+    {
+     "inicio_corpo": 641,
+     "fim_corpo": 1570,
+     "trecho": "I don’t think it is an understatement to say we serve some of the most difficult customers to reach, in some of the most challenging and remote terrain in the United States. Axiom has deep experience with all internet technology; wireless- including TV White Space, DSL and fiber. We work hard to deliver innovative solutions that work- at a cost that makes sense to the subscriber. Over the years, how people use the internet, especially in rural Maine has evolved and become critical to small and home-based businesses, and increasingly to people who can work from anywhere and choose to live in rural Maine for the quality of life. Education, telemedicine, teleconferencing, entertainment, and phone service are increasingly reliant on a strong, reliable internet connection and enable remote, rural customers to connect to the world, create their own economy and successfully preserve their way of life."
+    },
+    {
+     "inicio_corpo": 817,
+     "fim_corpo": 1634,
+     "trecho": "Axiom has deep experience with all internet technology; wireless- including TV White Space, DSL and fiber. We work hard to deliver innovative solutions that work- at a cost that makes sense to the subscriber. Over the years, how people use the internet, especially in rural Maine has evolved and become critical to small and home-based businesses, and increasingly to people who can work from anywhere and choose to live in rural Maine for the quality of life. Education, telemedicine, teleconferencing, entertainment, and phone service are increasingly reliant on a strong, reliable internet connection and enable remote, rural customers to connect to the world, create their own economy and successfully preserve their way of life. Internet connectivity can help save rural commutes from dying."
+    },
+    {
+     "inicio_corpo": 930,
+     "fim_corpo": 1843,
+     "trecho": "We work hard to deliver innovative solutions that work- at a cost that makes sense to the subscriber. Over the years, how people use the internet, especially in rural Maine has evolved and become critical to small and home-based businesses, and increasingly to people who can work from anywhere and choose to live in rural Maine for the quality of life. Education, telemedicine, teleconferencing, entertainment, and phone service are increasingly reliant on a strong, reliable internet connection and enable remote, rural customers to connect to the world, create their own economy and successfully preserve their way of life. Internet connectivity can help save rural commutes from dying. In Maine, numbers are difficult, but estimates suggest there remains 20,000 unserved homes and 10s of thousands of underserved homes. Most of rural Maine struggles to reach the FCC standard of 25/3Mpbs."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0059::Cultura e informação",
+   "unit_id": "W0059",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Timothy McAfee",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "community center",
+     "forma_encontrada": "community center",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1622,
+     "fim_corpo": 3379,
+     "trecho": "At Pioneer Broadband, we love providing fiber optic service to a small businesses in a rural setting. We will do it whenever we can, but there is true expense to doing so. It costs tens of thousands of dollars per mile to build fiber. We cannot always make a business case to deliver. If the customer cannot afford to pay for the build, we will try to find a grant source that fits. The ConnectME Authority has been instrumental in connecting various communities in our coverage area and we applaud their efforts. Existing federal grant programs are very difficult to obtain. The intentions are good, but they are not designed for every situation. They do not always make sense either. For example, the USDA Community Connect Grant will pay for construction of a network to every home but requires the operator to build and staff a community center with computers and Internet access. Another example is the CAF II program. It is only available to ILECs. They are using the CAF funds to install DSL rollouts on their copper infrastructure. That seems like a complete waste of money to me. That money should be put into FTTx infrastructure. That is what will benefit the consumer. I appreciate the focus of this Act. It is designed to make it easier for a small, rural business, to get connected. It is focused on fiber as a medium. I am, however, concerned about the meanings Page 2 of 2 of the following phrases: “duplicate infrastructure” and “functional equivalent”. These phrases look like good ways to attempt circumvention of the Act’s intent. Again, I thank you for the opportunity to testify and look forward to the successful progression of this proposed bill. Respectfully submitted, T imothy R. McAfee"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0059::Domicílio e arranjo familiar",
+   "unit_id": "W0059",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Timothy McAfee",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 253,
+     "fim_corpo": 1017,
+     "trecho": "My name is Tim McAfee and I am the CEO and Engineer for Pioneer Broadband, a small Internet Service Provider in Aroostook and Washington Counties in the state of Maine. Connecting small businesses to the web is extremely important in today’s economy. The marketplace has changed. Consumers want products at the touch of a button, and producers want to get their wares to market as soon as possible. As communication technology has evolved over the last 20 years, there are plenty of spots throughout our great state, and country for that matter, that lack sufficient broadband access. Things like telecommuting, telehealth, and digital content creation are becoming more mainstream. We live in a beautiful state; a wholesome place to raise a family."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0059::Infraestrutura e porte populacional",
+   "unit_id": "W0059",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Timothy McAfee",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "last mile",
+     "forma_encontrada": "Last Mile",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 253,
+     "trecho": "pioneerbroadband.net 37 North Street ● H oulton, Maine 04730 ● Tel: (207) 532-1254 ● Fax: (207) 532-7195 ● info@pioneerbroadband.net September 3, 2019 Thank you for the opportunity to testify on the proposed “Small Business Last Mile Act of 2019”."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0059::Saúde",
+   "unit_id": "W0059",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Timothy McAfee",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 948,
+     "trecho": "pioneerbroadband.net 37 North Street ● H oulton, Maine 04730 ● Tel: (207) 532-1254 ● Fax: (207) 532-7195 ● info@pioneerbroadband.net September 3, 2019 Thank you for the opportunity to testify on the proposed “Small Business Last Mile Act of 2019”. My name is Tim McAfee and I am the CEO and Engineer for Pioneer Broadband, a small Internet Service Provider in Aroostook and Washington Counties in the state of Maine. Connecting small businesses to the web is extremely important in today’s economy. The marketplace has changed. Consumers want products at the touch of a button, and producers want to get their wares to market as soon as possible. As communication technology has evolved over the last 20 years, there are plenty of spots throughout our great state, and country for that matter, that lack sufficient broadband access. Things like telecommuting, telehealth, and digital content creation are becoming more mainstream."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0059::Urbano e rural",
+   "unit_id": "W0059",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Timothy McAfee",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 848,
+     "fim_corpo": 1726,
+     "trecho": "Things like telecommuting, telehealth, and digital content creation are becoming more mainstream. We live in a beautiful state; a wholesome place to raise a family. Our company started out as a wireless company in the early 2000s. We have since migrated our focus to all fiber optic networking. We have done this because the wireless and copper technologies have not kept up with the consumer demand. Our customers want fast, reliable Internet access. Whether it is for business or pleasure, that is what our society is demanding. The Internet of Things is growing exponentially. Connected devices are the norm, whether it is a toaster, a car wash, or a vehicle. We have embraced the technology as users but have overlooked the aspect of infrastructure. At Pioneer Broadband, we love providing fiber optic service to a small businesses in a rural setting."
+    },
+    {
+     "inicio_corpo": 2147,
+     "fim_corpo": 3379,
+     "trecho": "Existing federal grant programs are very difficult to obtain. The intentions are good, but they are not designed for every situation. They do not always make sense either. For example, the USDA Community Connect Grant will pay for construction of a network to every home but requires the operator to build and staff a community center with computers and Internet access. Another example is the CAF II program. It is only available to ILECs. They are using the CAF funds to install DSL rollouts on their copper infrastructure. That seems like a complete waste of money to me. That money should be put into FTTx infrastructure. That is what will benefit the consumer. I appreciate the focus of this Act. It is designed to make it easier for a small, rural business, to get connected. It is focused on fiber as a medium. I am, however, concerned about the meanings Page 2 of 2 of the following phrases: “duplicate infrastructure” and “functional equivalent”. These phrases look like good ways to attempt circumvention of the Act’s intent. Again, I thank you for the opportunity to testify and look forward to the successful progression of this proposed bill. Respectfully submitted, T imothy R. McAfee"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0060::Domicílio e arranjo familiar",
+   "unit_id": "W0060",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Lisa Hanscom",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 513,
+     "trecho": "Lisa M. Hanscom Personal Experience Congressman Golden, Congressman Stauber, and Committee Members: My name is Lisa M. Hanscom. I would like to extend my thanks to all of you for this opportunity to speak to you and to share both my and my community’s challenges to “raise the tide” not only for our businesses but for all who interact with those businesses. I come to you wearing 3 separate hats; I’m a farmer, a businesswoman, and a Selectman. I am a owner and manager of a family-run blueberry farm."
+    },
+    {
+     "inicio_corpo": 7753,
+     "fim_corpo": 8643,
+     "trecho": "We thank you all for your attention and encouragement. And we do need that! I believe that Representatives Golden and Stauber are making a good first step. However, in my opinion and because of my experiences, I would urge you to seriously consider the problem at the broader scale. During the Great Depression in the 1930s, Franklin Roosevelt proposed legislation to bring electricity to all rural communities across the country. In my community of Roque Bluffs, that connection was not completed until thirty years later in the 1960s. Few businesses exist in isolation; they are integral parts of communities. Creating a business- friendly community means keeping young people from moving away, attracting new working- age residents, and creating an educated workforce. This requires broadband not only at work but at home for students and for employees and their families."
+    },
+    {
+     "inicio_corpo": 9171,
+     "fim_corpo": 10109,
+     "trecho": "The same $30,000 by itself would be very unlikely to enable a broadband connection to any one business in our town, while the network will make Roque Bluffs a far better place to do business. The essence of the internet is that it is a network, and networks depend upon economies of scale. The paucity of commercial investment in rural broadband is caused by a lack of scale which cannot be effectively addressed by providing a handful of point-to-point connections. It must be addressed by providing the community as a whole with access to what has become a modern utility. I hope that we will not have to wait 30 years to lift all of our boats, all of our communities, or to bring this real opportunity to all of those who dream to better themselves and their families. Thank you, again, for giving me the chance to speak on this critical issue and thank you for all the work that you have and will accomplish. God speed!"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0060::Educação",
+   "unit_id": "W0060",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Lisa Hanscom",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1874,
+     "fim_corpo": 2835,
+     "trecho": "When my internet service has slowed, as it inevitably does at night, I have lost connections with my Air B&B customers. This happens on a regular basis. Have I lost those customers? I don’t know. But clearly this quality of communication is not conducive to positive business interactions. There are many more of me – farmers, fisherman, lobster sellers -- who either are paying exorbitant prices for better connectivity or are struggling to make this inadequate technology work for them. In Roque Bluffs, we had residents who planned to run their businesses out of their homes but who sold those homes because their internet service was so slow. In Roque Bluffs, we have home-bound, elderly patients who cannot connect over the internet in order to interact with their doctor or nurse. In Roque Bluffs, we have elementary, high school, and college students who (or their parents) must drive into Machias to accomplish their online homework."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0060::Escolaridade e letramento",
+   "unit_id": "W0060",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Lisa Hanscom",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1874,
+     "fim_corpo": 2835,
+     "trecho": "When my internet service has slowed, as it inevitably does at night, I have lost connections with my Air B&B customers. This happens on a regular basis. Have I lost those customers? I don’t know. But clearly this quality of communication is not conducive to positive business interactions. There are many more of me – farmers, fisherman, lobster sellers -- who either are paying exorbitant prices for better connectivity or are struggling to make this inadequate technology work for them. In Roque Bluffs, we had residents who planned to run their businesses out of their homes but who sold those homes because their internet service was so slow. In Roque Bluffs, we have home-bound, elderly patients who cannot connect over the internet in order to interact with their doctor or nurse. In Roque Bluffs, we have elementary, high school, and college students who (or their parents) must drive into Machias to accomplish their online homework."
+    },
+    {
+     "inicio_corpo": 1996,
+     "fim_corpo": 2981,
+     "trecho": "This happens on a regular basis. Have I lost those customers? I don’t know. But clearly this quality of communication is not conducive to positive business interactions. There are many more of me – farmers, fisherman, lobster sellers -- who either are paying exorbitant prices for better connectivity or are struggling to make this inadequate technology work for them. In Roque Bluffs, we had residents who planned to run their businesses out of their homes but who sold those homes because their internet service was so slow. In Roque Bluffs, we have home-bound, elderly patients who cannot connect over the internet in order to interact with their doctor or nurse. In Roque Bluffs, we have elementary, high school, and college students who (or their parents) must drive into Machias to accomplish their online homework. We have older continuing education students who cannot complete their online exams because of the inconsistency of their internet connectivity."
+    },
+    {
+     "inicio_corpo": 7753,
+     "fim_corpo": 8643,
+     "trecho": "We thank you all for your attention and encouragement. And we do need that! I believe that Representatives Golden and Stauber are making a good first step. However, in my opinion and because of my experiences, I would urge you to seriously consider the problem at the broader scale. During the Great Depression in the 1930s, Franklin Roosevelt proposed legislation to bring electricity to all rural communities across the country. In my community of Roque Bluffs, that connection was not completed until thirty years later in the 1960s. Few businesses exist in isolation; they are integral parts of communities. Creating a business- friendly community means keeping young people from moving away, attracting new working- age residents, and creating an educated workforce. This requires broadband not only at work but at home for students and for employees and their families."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0060::Infraestrutura e porte populacional",
+   "unit_id": "W0060",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Lisa Hanscom",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "last mile",
+     "forma_encontrada": "last mile",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "last mile",
+     "forma_encontrada": "last mile",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2371,
+     "fim_corpo": 3236,
+     "trecho": "In Roque Bluffs, we had residents who planned to run their businesses out of their homes but who sold those homes because their internet service was so slow. In Roque Bluffs, we have home-bound, elderly patients who cannot connect over the internet in order to interact with their doctor or nurse. In Roque Bluffs, we have elementary, high school, and college students who (or their parents) must drive into Machias to accomplish their online homework. We have older continuing education students who cannot complete their online exams because of the inconsistency of their internet connectivity. Feedback on Existing Programs Small rural communities are typically small in population but large in geographical area. For them, the last mile problem is that a lot of infrastructure needs to be built to adequately serve a small number of customers."
+    },
+    {
+     "inicio_corpo": 5047,
+     "fim_corpo": 5884,
+     "trecho": "Installing a broadband system is a complex endeavor. A business model must be developed, and engineering cost and feasibility studies must be performed. Various state and federal agencies must be consulted for approvals. All of this takes considerable time, money, and expertise. The fundamental problem with the ReConnect program is that a project must be taken to a \"shovel- ready\" state before making an application. For a small, rural town run by a part-time board of selectmen, that kind of time, money, and expertise required to complete such a complex proposal process is in short supply. Roque Bluffs was fortunate in receiving financial and advisory support from the Island Institute to develop our plan. It was fortunate in finding an ISP in nearby Machias which specializes in working with underserved communities."
+    },
+    {
+     "inicio_corpo": 7753,
+     "fim_corpo": 8707,
+     "trecho": "We thank you all for your attention and encouragement. And we do need that! I believe that Representatives Golden and Stauber are making a good first step. However, in my opinion and because of my experiences, I would urge you to seriously consider the problem at the broader scale. During the Great Depression in the 1930s, Franklin Roosevelt proposed legislation to bring electricity to all rural communities across the country. In my community of Roque Bluffs, that connection was not completed until thirty years later in the 1960s. Few businesses exist in isolation; they are integral parts of communities. Creating a business- friendly community means keeping young people from moving away, attracting new working- age residents, and creating an educated workforce. This requires broadband not only at work but at home for students and for employees and their families. The \"last mile\" problem is not literally one mile, but many."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0060::Posição no trabalho",
+   "unit_id": "W0060",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Lisa Hanscom",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7753,
+     "fim_corpo": 8538,
+     "trecho": "We thank you all for your attention and encouragement. And we do need that! I believe that Representatives Golden and Stauber are making a good first step. However, in my opinion and because of my experiences, I would urge you to seriously consider the problem at the broader scale. During the Great Depression in the 1930s, Franklin Roosevelt proposed legislation to bring electricity to all rural communities across the country. In my community of Roque Bluffs, that connection was not completed until thirty years later in the 1960s. Few businesses exist in isolation; they are integral parts of communities. Creating a business- friendly community means keeping young people from moving away, attracting new working- age residents, and creating an educated workforce."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0060::Urbano e rural",
+   "unit_id": "W0060",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Lisa Hanscom",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2168,
+     "fim_corpo": 3103,
+     "trecho": "There are many more of me – farmers, fisherman, lobster sellers -- who either are paying exorbitant prices for better connectivity or are struggling to make this inadequate technology work for them. In Roque Bluffs, we had residents who planned to run their businesses out of their homes but who sold those homes because their internet service was so slow. In Roque Bluffs, we have home-bound, elderly patients who cannot connect over the internet in order to interact with their doctor or nurse. In Roque Bluffs, we have elementary, high school, and college students who (or their parents) must drive into Machias to accomplish their online homework. We have older continuing education students who cannot complete their online exams because of the inconsistency of their internet connectivity. Feedback on Existing Programs Small rural communities are typically small in population but large in geographical area."
+    },
+    {
+     "inicio_corpo": 3880,
+     "fim_corpo": 4855,
+     "trecho": "Recognizing this, the town of Roque Bluffs recently took matters into its own hands, working in partnership with Axiom Technologies of Machias and the Island Institute of Rockland. In May, the town passed warrant articles authorizing the installation of a fiber optic network reaching every residence in town. The town will thus make the infrastructure investment the private sector has been unwilling to make. It will own the infrastructure and will hire Axiom Technologies to light up the fiber and manage the system under contract. The town voted to fund this investment in its future with tax revenues if necessary, but it also submitted a proposal to the USDA ReConnect pilot program to fund a portion of its construction. The ReConnect program is specifically intended to address the problem of capital investment in rural communities, and provides for a number of funding models using a combination of guaranteed low-interest loans and outright grants."
+    },
+    {
+     "inicio_corpo": 4196,
+     "fim_corpo": 5047,
+     "trecho": "The town will thus make the infrastructure investment the private sector has been unwilling to make. It will own the infrastructure and will hire Axiom Technologies to light up the fiber and manage the system under contract. The town voted to fund this investment in its future with tax revenues if necessary, but it also submitted a proposal to the USDA ReConnect pilot program to fund a portion of its construction. The ReConnect program is specifically intended to address the problem of capital investment in rural communities, and provides for a number of funding models using a combination of guaranteed low-interest loans and outright grants. While Roque Bluffs greatly appreciates the opportunity the ReConnect program provides, the grant application process itself was clearly not designed with a small, rural community in mind."
+    },
+    {
+     "inicio_corpo": 4620,
+     "fim_corpo": 5649,
+     "trecho": "The ReConnect program is specifically intended to address the problem of capital investment in rural communities, and provides for a number of funding models using a combination of guaranteed low-interest loans and outright grants. While Roque Bluffs greatly appreciates the opportunity the ReConnect program provides, the grant application process itself was clearly not designed with a small, rural community in mind. Installing a broadband system is a complex endeavor. A business model must be developed, and engineering cost and feasibility studies must be performed. Various state and federal agencies must be consulted for approvals. All of this takes considerable time, money, and expertise. The fundamental problem with the ReConnect program is that a project must be taken to a \"shovel- ready\" state before making an application. For a small, rural town run by a part-time board of selectmen, that kind of time, money, and expertise required to complete such a complex proposal process is in short supply."
+    },
+    {
+     "inicio_corpo": 6429,
+     "fim_corpo": 7352,
+     "trecho": "A detailed construction plan was required. A costly review by an independent consulting professional engineering firm was also required. The proposal then required detail at the individual utility pole level of that plan. While the system to be installed must provide at least 25 Mbps service, the grant will not fund construction where 10 Mbps service currently exists. Part of the problem with all internet service is that customers rarely receive the advertised speeds. As soon as the town voted to proceed, commercial providers began to install what they claimed was service upgraded to 10 Mpbs, though in practice this seems not to be the case. The town, however, is now burdened by having to document this failure to provide advertised speeds, a difficult and technical double jeopardy. There are, at the very least, many hundreds of rural communities lacking meaningful broadband availability in the US."
+    },
+    {
+     "inicio_corpo": 7352,
+     "fim_corpo": 8191,
+     "trecho": "Only 38 organizations managed to submit applications to the $200M ReConnect program this year. The unnecessary complexity of that application process is clearly a major impediment to the effective implementation of the program. Feedback on the Proposed Legislation I am thrilled that Representative Golden and others have taken the time and made the effort to explore this issue more deeply. We thank you all for your attention and encouragement. And we do need that! I believe that Representatives Golden and Stauber are making a good first step. However, in my opinion and because of my experiences, I would urge you to seriously consider the problem at the broader scale. During the Great Depression in the 1930s, Franklin Roosevelt proposed legislation to bring electricity to all rural communities across the country."
+    }
+   ]
+  }
+ ]
+}

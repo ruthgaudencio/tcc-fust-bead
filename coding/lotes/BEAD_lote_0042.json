@@ -1,0 +1,871 @@
+{
+ "caso": "BEAD",
+ "lote": 42,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0174::Saúde",
+   "unit_id": "W0174",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Kara Frederick",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "Hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10794,
+     "fim_corpo": 11716,
+     "trecho": "According to Facebook’s own research from 2019 to 2020 , 32 percent of teen age girls said that “when they felt about their bodies, Instagram made them feel worse,” 6 percent of teen Instagram users who reported suicidal thoughts traced their emergence directly to Instagram , and 1 in 3 teen girls said Instagram made their body image issues worse. 28 These platforms also portend broader social impacts. According t o The Wall Street Journal , teenage girls in the United States , the United Kingdom, Canada, and Australia are likely developing verbal and physical tics by watching influencers on TikTok who 4 exhibit the same habits. In one case , Texas Children’s Hospital reported incidents of approximately 60 teens with these behaviors , compared to one to two cases pre-pandemic.29 Every reported incident of an uptick involved the use of TikTok, according to the Journal’s assessment."
+    },
+    {
+     "inicio_corpo": 25848,
+     "fim_corpo": 27425,
+     "trecho": "10 Maxim Lott, “Google Pushes Conservative News Sites Far Down Search Lists,” RealClear Politics, September 20, 2020, https://www.realclearpolitics.com/articles/2020/09/20/google_pushes_conservative_news_sites_far_down_search_lists_144246.html (accessed on November 3, 2021). 11 Allum Bokhari, “Election Interference: Google Purges Breitbart From Search Results,” Breitbart, July 28, 2020, https://www.breitbart.com/tech/2020/07/28/election-interference-google-purges-breitbart-from-search-results/ (accessed November 1, 2021). 12 Brandon Gillespie, “MSNBC’s Rachel Maddow flamed for not deleting false tweet about Oklahoma hospitals: ‘Queen of misinformation’,” Fox News, September 7, 2021, https://www.foxnews.com/media/msnbc-rachel-maddow-flamed-tweet-false-claims- overrun-oklahoma-hospitals; Joe Concha, “'Strikingly sophisticated' Taliban thrive on Twitter while Trump still banned,” The Hill, August 20, 2021, https://thehill.com/opinion/technology/568701-strikingly-sophisticated-taliban-thrive-on-twitter-while-trump-still (accessed November 4, 2021); Yaron Steinbuch, “Twitter users slam platform for not banning Iran’s Ayatollah Khamenei,” New York Post, May 12, 2021, https://nypost.com/2021/05/12/twitter-users-calls-for-ban-of-irans-ayatollah-khamenei/ (accessed November 4, 2021); and Victor Ordonez, “Chinese Embassy tweet about Uighurs and birth rate draws instant condemnation,” ABC News, January 8, 2021, https://abcnews.go.com/International/chinese-embassy-tweet-uighurs-birth-rate-draws-instant/story?id=75118569 (accessed November 4, 2021)."
+    },
+    {
+     "inicio_corpo": 25848,
+     "fim_corpo": 27425,
+     "trecho": "10 Maxim Lott, “Google Pushes Conservative News Sites Far Down Search Lists,” RealClear Politics, September 20, 2020, https://www.realclearpolitics.com/articles/2020/09/20/google_pushes_conservative_news_sites_far_down_search_lists_144246.html (accessed on November 3, 2021). 11 Allum Bokhari, “Election Interference: Google Purges Breitbart From Search Results,” Breitbart, July 28, 2020, https://www.breitbart.com/tech/2020/07/28/election-interference-google-purges-breitbart-from-search-results/ (accessed November 1, 2021). 12 Brandon Gillespie, “MSNBC’s Rachel Maddow flamed for not deleting false tweet about Oklahoma hospitals: ‘Queen of misinformation’,” Fox News, September 7, 2021, https://www.foxnews.com/media/msnbc-rachel-maddow-flamed-tweet-false-claims- overrun-oklahoma-hospitals; Joe Concha, “'Strikingly sophisticated' Taliban thrive on Twitter while Trump still banned,” The Hill, August 20, 2021, https://thehill.com/opinion/technology/568701-strikingly-sophisticated-taliban-thrive-on-twitter-while-trump-still (accessed November 4, 2021); Yaron Steinbuch, “Twitter users slam platform for not banning Iran’s Ayatollah Khamenei,” New York Post, May 12, 2021, https://nypost.com/2021/05/12/twitter-users-calls-for-ban-of-irans-ayatollah-khamenei/ (accessed November 4, 2021); and Victor Ordonez, “Chinese Embassy tweet about Uighurs and birth rate draws instant condemnation,” ABC News, January 8, 2021, https://abcnews.go.com/International/chinese-embassy-tweet-uighurs-birth-rate-draws-instant/story?id=75118569 (accessed November 4, 2021)."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0177::Educação",
+   "unit_id": "W0177",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Greg Guice",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 20303,
+     "fim_corpo": 21229,
+     "trecho": "January 15, 2021). 8 Wi-Fi 7. Public Knowledge believes these additional uses can be authorized without compromising the existing satellite TV and broadband satellite uses, creating a win-win solution for everyone. 6. Promote spectrum sharing by supporting sensing technologies and advances in incumbent informing capabilities, or IIC. Sensing technologies, like those used in the 3.5 GHz band, detect and communicate the presence of a signal from an incumbent user to an automated frequency coordinator in order to facilitate shared spectrum access. Incumbent informing capability is a database management tool that allows incumbent spectrum users, like DOD, to update automated frequency coordination database in real time to convey its use of specific spectrum channels so that lower priority operators, such as schools, that share the band can be informed of the need to move to other frequency channels."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0177::Gênero",
+   "unit_id": "W0177",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Greg Guice",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "gender",
+     "forma_encontrada": "gender",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 16005,
+     "fim_corpo": 16920,
+     "trecho": "Congress provided some funding in the Infrastructure Investment and Jobs Act, but a more sustainable source is needed to advance equity goals. Public Knowledge recently joined with other public interest organizations to launch the “Airwaves for Equity” initiative, which proposes setting aside spectrum auction revenues to fund digital inclusion efforts. 10 But this is only one such public interest need. FCC Chairwoman Rosenworcel recently proposed using auction revenues to support the transition to next-generation 911. 11 As the Chairwoman observed, building a modern, digital 911 system will not come cheap, and we must be prepared to spend what is necessary to ensure that all Americans have the ability to call for help, and receive that help, wherever they may be, whoever they are, regardless of race, gender, disability, or income, and without regard to whether or not they speak English."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0177::Renda e classe",
+   "unit_id": "W0177",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Greg Guice",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11430,
+     "fim_corpo": 12372,
+     "trecho": "(Mar. 2022). 5 commitment from the whole of government, including federal agencies and Congress, in order to be successful. We are certain that this Committee and its Senate counterpart understand that importance. Return Focus to the Public Interest The core of the FCC’s responsibility over spectrum is to ensure that every allocation serves “the public interest, convenience, and necessity.” This means more than simply making spectrum available for new services. It includes ensuring that all members of society enjoy the benefits of these new spectrum technologies – both as consumers and as creators and innovators. While every American deserves a fiber connection to the home, every American also deserves access to the same level of quality, affordable mobile services. As this Committee is all too aware, rural communities, low-income communities, and communities of color have long suffered from digital exclusion."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0177::Saúde e deficiência",
+   "unit_id": "W0177",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Greg Guice",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "disability",
+     "forma_encontrada": "disability",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 16005,
+     "fim_corpo": 16920,
+     "trecho": "Congress provided some funding in the Infrastructure Investment and Jobs Act, but a more sustainable source is needed to advance equity goals. Public Knowledge recently joined with other public interest organizations to launch the “Airwaves for Equity” initiative, which proposes setting aside spectrum auction revenues to fund digital inclusion efforts. 10 But this is only one such public interest need. FCC Chairwoman Rosenworcel recently proposed using auction revenues to support the transition to next-generation 911. 11 As the Chairwoman observed, building a modern, digital 911 system will not come cheap, and we must be prepared to spend what is necessary to ensure that all Americans have the ability to call for help, and receive that help, wherever they may be, whoever they are, regardless of race, gender, disability, or income, and without regard to whether or not they speak English."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0177::Urbano e rural",
+   "unit_id": "W0177",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Greg Guice",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11430,
+     "fim_corpo": 12372,
+     "trecho": "(Mar. 2022). 5 commitment from the whole of government, including federal agencies and Congress, in order to be successful. We are certain that this Committee and its Senate counterpart understand that importance. Return Focus to the Public Interest The core of the FCC’s responsibility over spectrum is to ensure that every allocation serves “the public interest, convenience, and necessity.” This means more than simply making spectrum available for new services. It includes ensuring that all members of society enjoy the benefits of these new spectrum technologies – both as consumers and as creators and innovators. While every American deserves a fiber connection to the home, every American also deserves access to the same level of quality, affordable mobile services. As this Committee is all too aware, rural communities, low-income communities, and communities of color have long suffered from digital exclusion."
+    },
+    {
+     "inicio_corpo": 18803,
+     "fim_corpo": 19698,
+     "trecho": "13 If Congress does not mandate that all of this spectrum be auctioned, there may be opportunities for sharing and other access regimes that will produce greater utilization of the band. The Spectrum Innovation Act contemplates just such a structure and we look forward to working with this Committee to get this important legislation completed this Congress. 5. Promote sharing of the existing 12 GHz band on a secondary basis with mobile services, as proposed in the January 2021 Notice of Proposed Rulemaking in Docket No. 20-443. 14 The Commission should also authorize an unlicensed underlay in the band and consider rules for other forms of opportunistic sharing. This will promote competition in the mobile space, provide greater access to spectrum for broadband in rural areas, and make critical spectrum available for deployment of gigabit capacity for 12 See 47 U.S.C."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0178::Domicílio e arranjo familiar",
+   "unit_id": "W0178",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Scott Bergmann",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3525,
+     "fim_corpo": 4796,
+     "trecho": "3 Accenture concluded that in the U.S., 5G-enabled use cases are expected to enable a 20 percent contribution toward carbon emission reduction targets, helping the country meet its climate change goals. Accenture finds that 5G use cases will have the same effect as taking nearly 72 million cars off the road for a year. 3 And America’s wireless industry is now bringing its competitive energy to the home broadband market, with impressive success. In the fourth quarter of 2021, one wireless provider’s residential broadband solution led all broadband offerings (including cable and wired competitors) with the most new subscribers, according to a recent Morgan Stanley report.4 This is possible due to the greatly expanded capacity and capabilities of 5G, enabled by access to new spectrum. 5G for home broadband is currently available to tens of millions of American households, and competing 5G home providers will offer service to over 200 million homes by 2025.5 And 5G for home broadband could be decisive in delivering broadband to rural America, as a recent study finds that 5G could serve 8.4 million rural households—nearly half the rural homes in the U.S.—with a future-proof broadband solution with faster speeds and lower prices."
+    },
+    {
+     "inicio_corpo": 3852,
+     "fim_corpo": 4796,
+     "trecho": "3 And America’s wireless industry is now bringing its competitive energy to the home broadband market, with impressive success. In the fourth quarter of 2021, one wireless provider’s residential broadband solution led all broadband offerings (including cable and wired competitors) with the most new subscribers, according to a recent Morgan Stanley report.4 This is possible due to the greatly expanded capacity and capabilities of 5G, enabled by access to new spectrum. 5G for home broadband is currently available to tens of millions of American households, and competing 5G home providers will offer service to over 200 million homes by 2025.5 And 5G for home broadband could be decisive in delivering broadband to rural America, as a recent study finds that 5G could serve 8.4 million rural households—nearly half the rural homes in the U.S.—with a future-proof broadband solution with faster speeds and lower prices."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0178::Idade",
+   "unit_id": "W0178",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Scott Bergmann",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 192,
+     "trecho": "Testimony of Scott Bergmann Senior Vice President CTIA on 5G and Beyond: Exploring the Next Wireless Frontier before the U.S."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0178::Urbano e rural",
+   "unit_id": "W0178",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Scott Bergmann",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3731,
+     "fim_corpo": 4796,
+     "trecho": "Accenture finds that 5G use cases will have the same effect as taking nearly 72 million cars off the road for a year. 3 And America’s wireless industry is now bringing its competitive energy to the home broadband market, with impressive success. In the fourth quarter of 2021, one wireless provider’s residential broadband solution led all broadband offerings (including cable and wired competitors) with the most new subscribers, according to a recent Morgan Stanley report.4 This is possible due to the greatly expanded capacity and capabilities of 5G, enabled by access to new spectrum. 5G for home broadband is currently available to tens of millions of American households, and competing 5G home providers will offer service to over 200 million homes by 2025.5 And 5G for home broadband could be decisive in delivering broadband to rural America, as a recent study finds that 5G could serve 8.4 million rural households—nearly half the rural homes in the U.S.—with a future-proof broadband solution with faster speeds and lower prices."
+    },
+    {
+     "inicio_corpo": 3852,
+     "fim_corpo": 4796,
+     "trecho": "3 And America’s wireless industry is now bringing its competitive energy to the home broadband market, with impressive success. In the fourth quarter of 2021, one wireless provider’s residential broadband solution led all broadband offerings (including cable and wired competitors) with the most new subscribers, according to a recent Morgan Stanley report.4 This is possible due to the greatly expanded capacity and capabilities of 5G, enabled by access to new spectrum. 5G for home broadband is currently available to tens of millions of American households, and competing 5G home providers will offer service to over 200 million homes by 2025.5 And 5G for home broadband could be decisive in delivering broadband to rural America, as a recent study finds that 5G could serve 8.4 million rural households—nearly half the rural homes in the U.S.—with a future-proof broadband solution with faster speeds and lower prices."
+    },
+    {
+     "inicio_corpo": 3852,
+     "fim_corpo": 4796,
+     "trecho": "3 And America’s wireless industry is now bringing its competitive energy to the home broadband market, with impressive success. In the fourth quarter of 2021, one wireless provider’s residential broadband solution led all broadband offerings (including cable and wired competitors) with the most new subscribers, according to a recent Morgan Stanley report.4 This is possible due to the greatly expanded capacity and capabilities of 5G, enabled by access to new spectrum. 5G for home broadband is currently available to tens of millions of American households, and competing 5G home providers will offer service to over 200 million homes by 2025.5 And 5G for home broadband could be decisive in delivering broadband to rural America, as a recent study finds that 5G could serve 8.4 million rural households—nearly half the rural homes in the U.S.—with a future-proof broadband solution with faster speeds and lower prices."
+    },
+    {
+     "inicio_corpo": 6267,
+     "fim_corpo": 7296,
+     "trecho": "Last year, the FCC conducted two auctions for full-power mid-band spectrum, one for 280 megahertz of C-Band spectrum from 3.7-3.98 GHz, and the other for 100 megahertz from 3.45-3.55 GHz. Together, these two auctions raised over $102 billion in winning bids, and will be the backbone of wireless investment over the next few years. Contrast these auctions to the auction of 70 megahertz of CBRS spectrum that sits between the 3.45 GHz band and the C- Band: primarily due to far lower authorized power levels and a complicated sharing structure in CBRS, that spectrum sold for only $3.2 billion, less than a quarter the amount of C-Band based on a per-MHz-PoP basis. CBRS requires five times as many cell sites for coverage in suburban areas, and at least seven times as many in rural areas—significantly increasing costs, the time to deploy, and slowing 5G network buildout.9 The CBRS sharing regime also took about 8 years from FCC proposal to auction, far longer than C-Band (3 years) and 3.45 GHz (2 years)."
+    },
+    {
+     "inicio_corpo": 17694,
+     "fim_corpo": 18605,
+     "trecho": "Conversely, 11 delayed access to 5G spectrum has real impacts: every six-month delay in 5G deployment costs our nation’s economy $25 billion in economic benefits over the next decade, risks America’s competitiveness, and jeopardizes our ability to ensure global 5G leadership. Id. 3 Monica Kuroki et al., 5G Connectivity: A Key Enabling Technology to Meet America’s Climate Change Goals , Accenture (Jan. 2022), https://newsroom.accenture.com/news/5g-enabled-technologies-could-solve-for-one-fifth- of-us-climate-change-target-by-2025-new-study-finds.htm. 4 Morgan Stanley Research, Chart of the Week: 5G Starts to Gain Traction (Jan. 31, 2022). 5 CTIA, 5G for Home Broadband (Nov. 2021), https://api.ctia.org/wp-content/uploads/2021/11/State-5G-for- Home-What-is-5G-Home-Broadband-Fall-21.pdf. 6 5G Fixed Wireless Broadband: Helping close the digital divide in rural America, Accenture (Nov."
+    },
+    {
+     "inicio_corpo": 17982,
+     "fim_corpo": 18702,
+     "trecho": "Id. 3 Monica Kuroki et al., 5G Connectivity: A Key Enabling Technology to Meet America’s Climate Change Goals , Accenture (Jan. 2022), https://newsroom.accenture.com/news/5g-enabled-technologies-could-solve-for-one-fifth- of-us-climate-change-target-by-2025-new-study-finds.htm. 4 Morgan Stanley Research, Chart of the Week: 5G Starts to Gain Traction (Jan. 31, 2022). 5 CTIA, 5G for Home Broadband (Nov. 2021), https://api.ctia.org/wp-content/uploads/2021/11/State-5G-for- Home-What-is-5G-Home-Broadband-Fall-21.pdf. 6 5G Fixed Wireless Broadband: Helping close the digital divide in rural America, Accenture (Nov. 2021), https://api.ctia.org/wp-content/uploads/2021/11/CTIA-Rural-HHs-mini-POV-V2-20211115.pdf."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0179::Cultura e informação",
+   "unit_id": "W0179",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Von Todd",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "community centers",
+     "forma_encontrada": "community centers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "community centers",
+     "forma_encontrada": "community centers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3480,
+     "fim_corpo": 4392,
+     "trecho": "Even further, HTC returns excess revenues earned back to our members in the form of Capital Credits – to the tune of over $153 million returned since 1979. We work hard to meet the needs and provide a high level of service to all of our members, serving a geographically and demographically diverse region that stretches from urban tourism destinations to rural farmlands. Like other providers, the COVID-19 pandemic highlighted the critical importance of access to broadband services, and as a cooperative, HTC made efforts to provide connectivity as part of our COVID response. At the onset of the pandemic, we provided our members with $4 million worth of bill credits and provided free internet service to student households without internet. We installed Wi-Fi hotspots at community centers and schools throughout our service area free of charge, and those hotspots are still operational today."
+    },
+    {
+     "inicio_corpo": 7334,
+     "fim_corpo": 8116,
+     "trecho": "In recent years, HTC participated in the 700 MHz auction and subsequent wireless spectrum auctions since then, securing spectrum in the 600 MHz, 24 GHz, 28 GHz, CBRS, and C-Band. Each different band of spectrum has different propagation and other characteristics, and access to low-, mid-, and high-band spectrum supporting a full range of wireless services across our footprint. As a cooperative that serves a geographically and demographically diverse region, from urban tourism destinations to rural farmlands, we need access to spectrum to adequately meet the needs of both communities. In recent years, this includes expanded wireless connectivity to community centers as well as partnering with densely populated areas and smaller communities on smart technologies."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0179::Domicílio e arranjo familiar",
+   "unit_id": "W0179",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Von Todd",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3349,
+     "fim_corpo": 4237,
+     "trecho": "As a vital member of our community, HTC supports local economic development, charities, and educational programs and initiatives. Even further, HTC returns excess revenues earned back to our members in the form of Capital Credits – to the tune of over $153 million returned since 1979. We work hard to meet the needs and provide a high level of service to all of our members, serving a geographically and demographically diverse region that stretches from urban tourism destinations to rural farmlands. Like other providers, the COVID-19 pandemic highlighted the critical importance of access to broadband services, and as a cooperative, HTC made efforts to provide connectivity as part of our COVID response. At the onset of the pandemic, we provided our members with $4 million worth of bill credits and provided free internet service to student households without internet."
+    },
+    {
+     "inicio_corpo": 4743,
+     "fim_corpo": 5549,
+     "trecho": "3 The COVID spotlight on the need for connectivity demonstrated that to close the digital divide and ensure that all Americans have access to broadband services we must utilize all types of technologies. As previously mentioned, HTC provides a full range of communications services to our members, and wireless connectivity is an important tool in our portfolio – but is one that is limited to and depends on our ability to access the spectrum resources needed to deliver those services. Wireless services are particularly important to reach more rural and impoverished areas, especially where larger companies will not expand to provide service, and more urban areas where larger companies have locked us out of delivering fiber in certain single-family communities through predatory pricing."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0179::Educação",
+   "unit_id": "W0179",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Von Todd",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3480,
+     "fim_corpo": 4392,
+     "trecho": "Even further, HTC returns excess revenues earned back to our members in the form of Capital Credits – to the tune of over $153 million returned since 1979. We work hard to meet the needs and provide a high level of service to all of our members, serving a geographically and demographically diverse region that stretches from urban tourism destinations to rural farmlands. Like other providers, the COVID-19 pandemic highlighted the critical importance of access to broadband services, and as a cooperative, HTC made efforts to provide connectivity as part of our COVID response. At the onset of the pandemic, we provided our members with $4 million worth of bill credits and provided free internet service to student households without internet. We installed Wi-Fi hotspots at community centers and schools throughout our service area free of charge, and those hotspots are still operational today."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0179::Escolaridade e letramento",
+   "unit_id": "W0179",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Von Todd",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "student",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3349,
+     "fim_corpo": 4237,
+     "trecho": "As a vital member of our community, HTC supports local economic development, charities, and educational programs and initiatives. Even further, HTC returns excess revenues earned back to our members in the form of Capital Credits – to the tune of over $153 million returned since 1979. We work hard to meet the needs and provide a high level of service to all of our members, serving a geographically and demographically diverse region that stretches from urban tourism destinations to rural farmlands. Like other providers, the COVID-19 pandemic highlighted the critical importance of access to broadband services, and as a cooperative, HTC made efforts to provide connectivity as part of our COVID response. At the onset of the pandemic, we provided our members with $4 million worth of bill credits and provided free internet service to student households without internet."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0179::Urbano e rural",
+   "unit_id": "W0179",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Von Todd",
+   "n_ocorrencias_no_par": 9,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 3,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 479,
+     "fim_corpo": 1349,
+     "trecho": "I am testifying on behalf of Horry Telephone Cooperative, Inc., or HTC, the nation’s largest telecommunications cooperative, where our owners are our local subscribers – we call them our members. For over 70 years, HTC has been the leading communications provider to Northeastern South Carolina, providing data, voice, and video services across copper, coax, fiber, and wireless technologies, to both residential and business markets, while remaining rooted in our community. We have worked to build out wireless cellular coverage to best serve our cooperative members through our partnership with a nationwide provider of advanced mobility. For purposes of today’s hearing, I will focus on HTC’s need for spectrum to provide the latest wireless services to meet member demand for data throughout our service area, including urban, suburban, and rural areas."
+    },
+    {
+     "inicio_corpo": 680,
+     "fim_corpo": 1778,
+     "trecho": "For over 70 years, HTC has been the leading communications provider to Northeastern South Carolina, providing data, voice, and video services across copper, coax, fiber, and wireless technologies, to both residential and business markets, while remaining rooted in our community. We have worked to build out wireless cellular coverage to best serve our cooperative members through our partnership with a nationwide provider of advanced mobility. For purposes of today’s hearing, I will focus on HTC’s need for spectrum to provide the latest wireless services to meet member demand for data throughout our service area, including urban, suburban, and rural areas. I also serve on the Board of Directors for Competitive Carriers Association, the leading association for competitive wireless providers. CCA represents carrier members ranging from small, rural providers serving fewer than 5,000 customers to regional and nationwide providers serving millions of customers, as well as vendors and suppliers that provide products and services throughout the wireless communications ecosystem."
+    },
+    {
+     "inicio_corpo": 2968,
+     "fim_corpo": 3857,
+     "trecho": "At HTC, Our Customers are Members HTC was formed in 1952 and the cooperative is governed by a local board of directors. Currently, HTC has over 700 employees working to provide the latest services to our over 100,000 local members. And membership has its benefits – HTC provides price and service equality across our membership and each member receives equal voting rights. As a vital member of our community, HTC supports local economic development, charities, and educational programs and initiatives. Even further, HTC returns excess revenues earned back to our members in the form of Capital Credits – to the tune of over $153 million returned since 1979. We work hard to meet the needs and provide a high level of service to all of our members, serving a geographically and demographically diverse region that stretches from urban tourism destinations to rural farmlands."
+    },
+    {
+     "inicio_corpo": 4579,
+     "fim_corpo": 5549,
+     "trecho": "We appreciate and thank the members of this Committee for creating and maintaining this important tool to put connectivity within reach for more of our community. 3 The COVID spotlight on the need for connectivity demonstrated that to close the digital divide and ensure that all Americans have access to broadband services we must utilize all types of technologies. As previously mentioned, HTC provides a full range of communications services to our members, and wireless connectivity is an important tool in our portfolio – but is one that is limited to and depends on our ability to access the spectrum resources needed to deliver those services. Wireless services are particularly important to reach more rural and impoverished areas, especially where larger companies will not expand to provide service, and more urban areas where larger companies have locked us out of delivering fiber in certain single-family communities through predatory pricing."
+    },
+    {
+     "inicio_corpo": 6083,
+     "fim_corpo": 6930,
+     "trecho": "Congress Should Extend FCC Spectrum Auction Authority The spectrum needed to provide reliable wireless connectivity is only available through license from the federal government, most typically obtained through participation in FCC-led spectrum auctions or through business transactions on the secondary market with subsequent FCC approval. Since Congress first directed the FCC to make spectrum licenses available through auction in 1993, the FCC has conducted over a hundred auctions, reallocating spectrum for commercial use while generating hundreds of billions of dollars in return for use as directed by Congress. For smaller providers, auctions have an additional important Congressional requirement to support disseminating licenses to a wide variety of applicants, including rural communications companies and small businesses."
+    },
+    {
+     "inicio_corpo": 6429,
+     "fim_corpo": 7334,
+     "trecho": "Since Congress first directed the FCC to make spectrum licenses available through auction in 1993, the FCC has conducted over a hundred auctions, reallocating spectrum for commercial use while generating hundreds of billions of dollars in return for use as directed by Congress. For smaller providers, auctions have an additional important Congressional requirement to support disseminating licenses to a wide variety of applicants, including rural communications companies and small businesses. To meet this Congressional mandate, the FCC has and should continue to make spectrum available using sufficiently 4 small geographic license sizes so that smaller carriers have a meaningful opportunity to compete while ensuring appropriate power levels to maximize service, as well as promote rural and small business bidding credits, interoperability, and reasonable spectrum aggregation limits."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0180::Infraestrutura e porte populacional",
+   "unit_id": "W0180",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Jayne Stancavage",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10027,
+     "fim_corpo": 11060,
+     "trecho": "Global Spectrum Policy Perspectives on Spectrum Pipeline Other countries also recognize the pivotal role broadband technologies play in connecting members of our society and forming an increasingly foundational role in our economies. The U.S. benefitted from being the first nation with widespread 4G coverage, which led to innovations developed in the U.S. that many of us use every day on our smartphones, such as ordering rides, buying groceries, checking in for flights, reading books, and watching shows. 5G, in addition to enhancing the mobile broadband capabilities of 4G, is expected to enable similar types of benefits for businesses and consumers in many different industries, such as industrial IoT in manufacturing, mining, agriculture, healthcare, and more. The importance of broadband has become increasingly apparent over time, especially during the pandemic and to underserved communities, leading to numerous countries/markets competing to ensure they can benefit from a leading role in deployments."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0181::Domicílio e arranjo familiar",
+   "unit_id": "W0181",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Mary Brown",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3731,
+     "fim_corpo": 4590,
+     "trecho": "Wi-Fi has been by any measure an enormous success. The Consumer Technology Association recently estimated that US sales of unlicensed devices (many of which are Wi-Fi) totals $95.8 billion annually.1 Comcast, in a 2021 report, noted that on its network alone its customers are connecting nearly 1 billion devices, and that 77% of its customers report they will be adding more smart devices this year.2 Indeed, Deloitte recently noted that sales of Wi-Fi 6 devices will 1 CTA, Unlicensed Spectrum and the US Economy (2022), available at: https://shop.cta.tech/collections/research/products/unlicensed-spectrum-and-the-us-economy-quantifying-the-market-size-and-diversity-of-unlicensed-devices 2 Comcast, 2021 Wi-Fi Trends Report, available at: https://corporate.comcast.com/press/releases/comcast-report-xfinity-households-1-billion-devices-wifi-2021."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0181::Educação",
+   "unit_id": "W0181",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Mary Brown",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 16050,
+     "fim_corpo": 17194,
+     "trecho": "As part of the NTIA’s Commercial Spectrum Management Advisory Committee in its last term, I co-chaired the committee that initially made the proposal for the MOU to be dusted off and modernized. I am delighted that the agencies have now done so. 7 Government’s work should not stop there. One observation from these recent debates, particularly where the dispute involves agency constituents, is that these constituencies are mainly user communities. In other words, they operate systems, and they know a lot about the systems they operate. But they are not researchers or developers, or, for the most part, PhDs in electrical engineering. In the disputes involving user communities, the common refrain is that they do not perceive there is an authoritative neutral voice evaluating the engineering of whatever is being proposed from their perspective. And while they may not be deeply schooled in radio theory, or advanced sharing technology, the absence of a champion within the decision-making process tends to cause these communities to strike a more confrontational pose, and sometimes we see agencies doing so on their behalf."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0181::Idade",
+   "unit_id": "W0181",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Mary Brown",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 235,
+     "trecho": "\"5G AND BEYOND: EXPLORING THE NEXT WIRELESS FRONTIER\" Before the Communications and Technology Subcommittee of the House Energy and Commerce Committee March 16, 2022 Testimony of Mary L. Brown Senior Director Cisco Systems, Inc."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0181::Urbano e rural",
+   "unit_id": "W0181",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Mary Brown",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 26057,
+     "fim_corpo": 26984,
+     "trecho": "These efforts would not have been as swift or as successful without auction authority. The effort continues even today as the FCC works to get a 2.5 GHz auction over the finish line,13 and in its consideration of other bands such as 3.1-3.45 and 12 GHz. Moreover, the FCC’s auction authority has been put to work to solve other critical problems. While smaller in dollar value, auctions are heavily relied upon to administer broadcaster licenses and provide an efficient mechanism to resolve competing interests. In fact, smaller auctions have been used to distribute license awards in a variety of radio services, from VHF Public Coast stations to Multichannel Video Distribution & Data Services licenses. More significantly, reverse auctions for rural high-cost support mean that the discipline of the auction reveals the least amount of subsidies the FCC needs to dedicate to achieve its universal services objectives."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0182::Domicílio e arranjo familiar",
+   "unit_id": "W0182",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1004,
+     "fim_corpo": 2005,
+     "trecho": "So I welcome the opportunity to address these issues, and more, today. I. At the FCC, we have been busy delivering on Congress’s priorities. From increasing choice and competition in the broadband market to standing up the largest set of affordability programs in FCC history, from expanding access to vital telehealth services to freeing up additional spectrum for high- speed offerings, my FCC colleagues and I have been working together to advance commonsense policies that are making a difference in the lives of everyday Americans. I want to take a moment to highlight a few of those here. On the competition front, the FCC has been enacting policies that will give Americans more choice for their broadband dollars. To highlight just one example, my colleagues and I voted to unleash greater competition for families living in apartments, public housing, and other multiple dwelling units— environments that account for nearly one out of every three people in this country."
+    },
+    {
+     "inicio_corpo": 7222,
+     "fim_corpo": 8038,
+     "trecho": "For instance, I argued that the FCC should make sure that our cost sharing rules for pole replacements are not inhibiting Internet builds, particularly in unserved areas. I am pleased to report that earlier this month the FCC adopted a notice that seeks comment on doing just that. To build on a connectivity agenda, I recently called on the FCC to look at streamlining the rules of the road for fiber and other high-speed wired deployments. We previously took steps to ensure that the 3 fees charged for placing small wireless facilities in rights of way do not effectively prohibit buildout. I believe that we should explore similar action for the deployment of other, wired infrastructure to ensure that the funding being made available by Congress and the FCC goes towards connecting families."
+    },
+    {
+     "inicio_corpo": 9472,
+     "fim_corpo": 10431,
+     "trecho": "Last Congress, I met with Representative Eshoo about the challenges that come with maintaining connectivity during the wildfires that have been plaguing the Golden State and many other parts of the country. Since that time, I have witnessed firsthand the tragedies of several additional recent disasters and the incredible work of our public safety community to protect Americans during those emergencies. Last August, I spent some time on the ground in California with part of the team of nearly 6,000 firefighters working the Dixie Fire—the largest single fire in state history. I also traveled to Louisiana with Chairwoman Rosenworcel last year in the wake of Hurricane Ida to hear directly from community leaders, public safety officials, and communications providers. During both of these visits, my experiences on the ground drove home the need to ensure that families—and the public safety community—stay connected when disaster strikes."
+    },
+    {
+     "inicio_corpo": 13926,
+     "fim_corpo": 14835,
+     "trecho": "This trend presents a threat to America’s 5G leadership that extends beyond the C-Band sites that are sitting dark today. Indeed, Chairman Doyle and Ranking Member Latta penned an op-ed earlier this month that made similar points. So I think it falls to all of us at the Commission and in Congress to stand up for the statutory process and for the FCC’s sound decision-making. Otherwise, we are only inviting Executive Branch agencies to engage in additional actions that will undermine America’s 5G leadership. Turning from spectrum to the billions of broadband infrastructure dollars that Congress has appropriated over the past two years, I am very concerned that the federal government is failing to put appropriate guardrails in place. And this is unacceptable given both the magnitude of dollars at issue and the unique opportunity these funds provide for connecting American families."
+    },
+    {
+     "inicio_corpo": 19091,
+     "fim_corpo": 20048,
+     "trecho": "As the U.S. Government Accountability Office found in multiple reports examining that initiative, failures in program design, reporting, and coordination resulted in significant waste and an inability to verify the impact of federal funds on broadband availability and subscribership. Given the magnitude of current funding and the pressing need to connect more Americans, it is even more important that we ensure that these funds are spent wisely and that their impact is carefully measured. But we are already seeing some worrying signs that may just be the tip of the iceberg. For instance, the FCC’s Office of the Inspector General (OIG) issued a report last November regarding one of the FCC’s new initiatives. The OIG report uncovered what appears to be an egregious and near nationwide scheme in which broadband providers or sales agents were falsely claiming that a household has a student that attends a qualifying low-income school."
+    },
+    {
+     "inicio_corpo": 19380,
+     "fim_corpo": 20291,
+     "trecho": "Given the magnitude of current funding and the pressing need to connect more Americans, it is even more important that we ensure that these funds are spent wisely and that their impact is carefully measured. But we are already seeing some worrying signs that may just be the tip of the iceberg. For instance, the FCC’s Office of the Inspector General (OIG) issued a report last November regarding one of the FCC’s new initiatives. The OIG report uncovered what appears to be an egregious and near nationwide scheme in which broadband providers or sales agents were falsely claiming that a household has a student that attends a qualifying low-income school. In just one example, the report identifies a low-income school in Florida that was designated by providers as the school supporting the enrollment of 1,884 households, even though there are no more than 200 students that attend the school."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1033 @@
+# W0196 | Harold Feld | Public Knowledge
+# 117th Congress | Senate | 2021-06-22
+# Hearings to examine building resilient networks.
+# source: transcript jacket 54372
+
+STATEMENT OF HAROLD FELD, SENIOR VICE PRESIDENT, PUBLIC 
+                           KNOWLEDGE
+
+    Mr. Feld. Thank you, Chairman Lujan, Ranking Member Thune. 
+Thank you for inviting me to testify today on this important 
+subject.
+    As our economy and society have gone digital, our 
+dependence on our communications networks has increased 
+exponentially. Some of us may remember a time growing up, when 
+the whole family shared a single telephone line. Today, nearly 
+all of us have cell phones, sometimes more than one. And our 
+digital communication does not stop there. At any given time, 
+parents may be working remotely, while their children attend 
+different virtual classrooms. Even our houses and devices may 
+depend on constant connection with the Internet to function 
+properly.
+    But as our dependence on constant connectivity has grown, 
+our networks have become more fragile. Those who grew up with 
+the one telephone line to the home, will remember that it 
+worked regularly and reliably, every time you called someone. 
+Even in a blackout, as long as the copper lines remained 
+connected, you could call family to make sure everyone was all 
+right, call 911 if you had an emergency, and call the power 
+company to ask how long until the power came back on.
+    Today, we can wake up on a sunny day to discover that a cut 
+fiber cable, or misconfigured router, has cutoff everything 
+from our phone service to our video streams. An electric 
+blackout, caused by a brutal heatwave, can now knock out 
+communications when people desperately need to reach 911. A 
+hurricane or wildfire can shut down phone and Internet in a 
+geographic region for weeks, or even months. This is especially 
+true for island communities and other geographically isolate 
+communities, as we saw not only after Maria, but also after 
+Sandy and Katrina.
+    How did this happen? Briefly, our rules have not kept pace 
+with changes in technology. The traditional copper network was 
+reliable because we chose to make it reliable. We have not made 
+this choice for our current IP based and mobile networks. To 
+the contrary, our aggressive regulation has left us 
+increasingly unable to address the threat of our fragile 
+network ecosystem.
+    The FCC has systemically divested itself of its authority 
+to take the necessary leadership role by refusing to clarify 
+the regulatory status of interconnected voiceover IP carriers, 
+and by reclassifying broadband as a Title I information 
+service. The FCC has rolled back its cybersecurity initiatives, 
+at times claiming that it lacks authority to even consider 
+cybersecurity.
+    As a GAO report published last April 29 found, the FCC's 
+role in restoring telecommunications networks remains unclear. 
+This can create confusion in post-disaster situations over how 
+to allocate resources, such as generators and fuel.
+    Congress alone can resolve this confusion by creating clear 
+priorities and clear lines of authority. None of this means 
+returning to the days of monopoly network. To the contrary, 
+competition among networks creates much needed redundancy. In 
+small and rural markets that cannot support competition, we 
+should be willing to invest public money to create the needed 
+level of redundancy.
+    Congress has a tremendous opportunity to resolve these 
+issues and restore resilience and reliability to our critical 
+communications infrastructure. Both our wireline and wireless 
+networks are undergoing significant upgrades. Legacy carriers 
+are retiring their copper networks. Wireless providers are 
+shutting off their 3G networks and deploying 5G.
+    States and Congress are currently debating how to close the 
+digital divide and bring affordable high-speed broadband to all 
+Americans. Legislation providing the necessary reliability 
+framework and resources can ensure that these new networks will 
+be resilient, reliable, redundant, and sustainable.
+    My written testimony includes multiple recommendations for 
+Congressional action. To highlight the most important here--
+first, require the FCC to make outage data publicly available 
+and to publish report after every major outage. Both markets 
+and policymakers need information and, right now, there is a 
+dearth of that in the market.
+    Clearly empower and require the FCC, State governments, and 
+Tribal governments to make rules and set standards for 
+communications network reliability, including onsite power 
+backup, and backup power in the home. Prioritize restoration of 
+communications networks and establish agreed upon metrics to 
+measure reliability.
+    Fund network upgrades to improve reliability and permit 
+governments to make communications assets, such as fiber 
+inspection available to avert outages and to assist network 
+recovery.
+    To conclude, network resilience does not happen on its own. 
+When something is everyone's general responsibility, it is no 
+one's actual responsibility. We must upgrade our rules as we 
+upgrade our networks to provide to all Americans, 
+communications networks that will be there whenever we need 
+them, whatever the emergency.
+    Thank you and I am happy to take any questions, at this 
+time.
+    [The prepared statement of Mr. Feld follows:]
+
+[...]
+
+Prepared Statement of Harold Feld, Senior Vice President, 
+                            Public Knowledge
+    Chairman Lujan, Ranking Member Thune: Thank you for inviting me to 
+testify on this important topic. My name is Harold Feld and I am the 
+Senior Vice President of Public Knowledge, an organization that is 
+celebrating its 20th anniversary this year, and is dedicated to 
+promoting freedom of expression, an open internet, and access to 
+affordable communications tools and creative works.
+    Consumers and businesses expect a reliable communications network. 
+In fact, our economy depends on it. But our very lives depend on 
+reaching emergency responders every time we call 911. In disasters, the 
+ability of first responders to communicate instantly with the public 
+and with each other can mean the difference between life and death.\1\ 
+In theory, upgrading our Nation's communications networks to Internet 
+protocol (IP) should enhance resiliency because the protocol allows 
+information to be broken up into packets, transmitted across multiple 
+networks using different physical media (such as fiber and wireless), 
+and reassembled at the endpoint. The protocol also establishes and 
+confirms that packets are sent and received, and provides mechanisms 
+for adjusting to congestion.
+---------------------------------------------------------------------------
+    \1\ Lisa Krieger, 911 Failure During California Wildfire Prompt 
+Changes, The Mercury News, June 2019 (``When lives are at risk, 
+communication is critical, said Christina Taft, 25, a business student 
+at CSU Chico who lost her mother, Victoria, in the fire. She and her 
+mom received no emergency warnings. And she was unable to get help for 
+her mother after repeatedly calling 911. She is researching new 
+approaches to emergency communications--calling the proposed platform 
+``Victoria'' after her mother--so others don't suffer the same 
+fate.'').
+---------------------------------------------------------------------------
+    Instead of proving more resilient, our networks have grown 
+increasingly fragile. A 2018 report by the Government Accountability 
+Office (GAO) noted that ``from 2009 to 2016, about one third of all 
+wireless outages reported to [the] FCC (6,002 of 18,325) were 
+attributed to physical incidents.'' \2\ These outages have also grown 
+longer in duration, especially when they are the result of a natural 
+disaster or involve a concurrent failure of the electric grid.\3\ In 
+addition to outages caused by natural disasters such as wildfires and 
+hurricanes, outages can occur when telephone infrastructure is targeted 
+in physical attacks, or from cybersecurity attacks.\4\
+---------------------------------------------------------------------------
+    \2\ GAO, Telecommunications: FCC Should Improve Monitoring of 
+Industry Efforts to Strengthen Wireless Network Resiliency at 10 
+(2018), available at https://www.gao.gov/assets/690/688927.pdf. 
+Accidents accounted for 75 percent of outages; natural disasters 
+accounted for 24 percent and manmade incidents accounted for 1 percent 
+of outages during the period of 2009-2016. Id. at 12.
+    \3\ Id. at 14-15 (From 2009 to 2016, the annual median duration of 
+wireless outages attributed to accidents ranged from 8 hours to 16 
+hours, compared to natural disasters, which ranged from 19 to 36 
+hours.)
+    \4\ Id. at 10. See also Mariah Timms, AT&T Outage: Internet, 911 
+Disrupted, Planes Grounded, After Nashville Explosion, Nashville 
+Tennessean (January 5, 2021).
+---------------------------------------------------------------------------
+    Unfortunately, outages can occur as a consequence of technical 
+issues and carrier neglect, as well as from external events. In 2014, a 
+``preventable coding error'' in a single router in Washington State 
+resulted in a 911 failure covering more than 11 million people.\5\ In 
+2020, a server failure in Georgia resulted in a multi-state blackout of 
+T-Mobile's network.\6\ In other places, carriers have allowed legacy 
+infrastructure to rot.\7\ In too many rural areas and small towns in 
+America, people cannot reliably reach 911 on a good day, let alone in 
+the wake of a catastrophe. In the 20th century, our telecommunications 
+infrastructure was the envy of the world. We reached 98 percent of the 
+population with reliable, affordable voice service. Today, we have 
+communities that lack basic phone service, and those who have access to 
+modern networks can wake even on a sunny day to find themselves cut off 
+from vital services for no apparent reason--and for an unknown time.
+---------------------------------------------------------------------------
+    \5\ April 2014 Multi-State 911 Outage: Cause and Impact, Report and 
+Recommendations, PS Docket No. 14-72 (Pub. Safety Bur. 2014), 29 FCC 
+Rcd 9327 (2014). Bishr Tabbaa, Busy Signal: Behind CenturyLink's 911 
+Service Outage of 2014, Medium, April 2019 (``On the early morning of 
+April 9 2014, more than 6000 calls to 911 failed to reach call centers 
+during a system outage that lasted more than six hours and affected a 
+population of 11 million U.S. residents living in 60 counties across 
+seven states including Washington, North Carolina, South Carolina, 
+Minnesota, California, Florida, and Pennsylvania. Networks owned by 
+CenturyLink, Verizon, and others were involved with the outage, and the 
+root cause of the failure was related to a software defect in the call 
+routing service of Intrado, a 3rd party contractor used by the 
+telecommunication providers.'')
+    \6\ Jon Brodkin, T-Mobile Screwups Cause Nationwide Outage, but FCC 
+isn't Punishing Carrier, ArsTechnica, Oct. 23, 2020.
+    \7\ Kristina Panos, DSL is Hanging on the Line as Telcos Stop 
+Selling New Service, Hackaday, Oct. 29, 2020. In re Technology 
+Transitions, Policies and Rules Governing Retirement of Copper Loops by 
+Incumbent Local Exchange Carriers, Special Access for Price Cap Local 
+Exchange Carriers AT&T Corporation Petition for Rulemaking to Reform 
+Regulation of Incumbent Local Exchange Carrier Rates for Interstate 
+Special Access Services, WC Docket No. 05-25, GN Docket No. 13-5 RM-
+11358 RM-10593, Report and Order, Further Notice of Proposed 
+Rulemaking, and Order on Reconsideration, 30 FCC Rcd 9372 (2015) at  
+90-92.
+---------------------------------------------------------------------------
+    In addition to these nationwide problems, specific geographic areas 
+and Tribal lands may face unique challenges. As we saw in the aftermath 
+of Hurricane Maria, restoring service to islands presents a set of 
+challenges not shared by mainland communities. This includes reliance 
+on undersea cables, which may be damaged in a disaster, and the high 
+cost of transporting equipment and supplies to the impacted area. 
+Extreme temperatures in desert Tribal lands can range in excess of 59 
+degrees in a day.\8\ The stress these temperature swings put on 
+networks creates challenges for maintaining connectivity and requires 
+additional hardening to withstand these ranges. Additionally, 
+challenges exist in communities where terrain such as mountains or 
+forests may hamper post-disaster restoration efforts, or in sparsely 
+populated rural areas. In urban areas, it is imperative that providers 
+and local governments invest equally in traditionally marginalized 
+communities such as minority and low-income neighborhoods. Tribal 
+authorities need to be empowered and resourced to restore 
+communications on Tribal lands and to coordinate as equals with state 
+and Federal authorities.
+---------------------------------------------------------------------------
+    \8\ Weather and Climate Inventory National Park Service Sonoran 
+Desert Network, National Park Service Sonoran Desert Network at 10 
+(2007).
+---------------------------------------------------------------------------
+    Only Congress can remedy this situation. For reasons I will discuss 
+in greater detail below, it is unrealistic to expect the market to 
+solve this on its own. Public safety has always been regarded as a 
+classic case of ``market failure,'' because market forces alone cannot 
+ensure the optimal result. Widespread deregulation of IP-based services 
+at the state level and by the Federal Communications Commission (FCC) 
+has had the unintended consequence of muddying the overall authority of 
+the agency and the states to ensure network reliability as they 
+traditionally did for the analog phone network.
+    Additionally, post-disaster restoration of modern communications 
+networks requires coordination across multiple industries, Federal 
+agencies, and local authorities, further diluting the ability of a 
+single agency such as the FCC to address these resiliency problems 
+without new Congressional authority. A GAO report released this month 
+found that the failure of the Department of Homeland Security (DHS) to 
+clarify the FCC's role in network restoration post-disaster 
+significantly impeded the restoration of communications networks in 
+Puerto Rico.\9\ Disaster relief has not traditionally prioritized 
+restoration of communications. Federal and state agencies have not 
+uniformly recognized the vital importance of restoring communications 
+to the overall disaster recovery. Restoring communications to the 
+public, not merely to first responders, is critically important to 
+modern public safety and disaster response. The Wireless Emergency 
+Alert System (WEAS) and the Integrated Public Alert Warning System 
+(IPAWS) are the most obvious examples of the need to restore 
+communications to the public as well as maintain communications for 
+first responders. But the flow of communications in an emergency is 
+two-way, especially as telemedicine becomes more integrated into our 
+healthcare system and emergency response. Restoring communications to 
+everyone needs to be fully integrated with disaster response efforts in 
+the same way restoring power or clean water is prioritized. Only a 
+clear mandate from Congress can make this happen across federal, state, 
+and local authorities.
+---------------------------------------------------------------------------
+    \9\ GAO, Telecommunications: FCC Assisted in Hurricane Maria 
+Network Restoration, but a Clarified Disaster Response Role and 
+Enhanced Communication Are Needed, available at https://www.gao.gov/
+assets/gao-21-297.pdf (Apr. 2021).
+---------------------------------------------------------------------------
+    Happily, the current transition of our national wireline networks 
+to all-IP systems, and our deployment of 5G wireless networks, provides 
+an ideal opportunity for Congress to act. As we upgrade to an all-IP 
+framework, retire legacy copper networks, and build out 5G, we can 
+upgrade our resiliency standards to take advantage of the new technical 
+capacities of these networks. In the days of the AT&T monopoly, we 
+could require the network be hardened to 99.999 percent (``five 9s'') 
+reliability and incorporate the added cost into the regulated rate. 
+That approach is simply not viable today. We enjoy the fruits of 
+competition enabled by IP-based services. We welcome the ability to 
+break up functions and aggregate functions in ways that were impossible 
+using older technologies, because, when done correctly, doing so 
+enables providers to offer better service more efficiently. IP-based 
+services can allow local providers to offer their communities the same 
+level of service as in larger markets at an affordable cost, taking 
+advantage of the economies of scale from a world-wide market in IP-
+based and mobile equipment.
+    At the same time, we must recognize the inherent weaknesses of IP-
+based and mobile technologies. First and foremost, these systems need 
+power. Not merely power to cell phone towers and network operating 
+centers, but power in the home. The traditional copper landline system 
+was self-powered. It could operate even when the electric grid went 
+down. Modern IP-based landlines and mobile networks are not self-
+powered. Mandatory back-up power requirements must include mandatory 
+back-up power in people's homes as well as to cellular towers.
+    Moreover, the traditional landline network had clear lines of 
+responsibility for maintaining reliable communications. Modern systems 
+may be distributed among numerous vendors and network operators without 
+a clear understanding of the architecture. As a result, it can take 
+hours for a network operator to become aware of the scope and extent of 
+an outage, and even more time to find the source of the outage. Cheap 
+off-the-shelf equipment dramatically lowers cost, but may not be as 
+reliable as custom-built equipment.
+    Finally, for competition to work, markets need information. If we 
+want carriers to prioritize resilience and reliability, we must make it 
+possible for them to reap the rewards of these efforts. The current 
+reporting requirements treat network outage information as confidential 
+business information. Publicly available information, such as the 
+Disaster Information Reporting System (DIRS), suffers from being 
+voluntary and from homogenizing the information to prevent comparison 
+in performance between carriers. As a result, subscribers who wish to 
+prioritize reliability over cost savings have no information on which 
+to make that choice. Investment in reliability will produce no reward, 
+and failure to invest in reliability will have no lasting consequence. 
+Carriers are therefore disincentivized from investing in resilience and 
+reliability.
+    Public Knowledge has several specific recommendations that address 
+these factors, which I provide at the end of my testimony.
+I. Why Congress Must Act
+    In the days of traditional landline networks, Congress typically 
+left issues of reliability to the states, with broad support from the 
+FCC under Section 1 and Section 214 of the Communications Act.\10\ This 
+approach made sense at a time when the primary communications providers 
+were closely regulated monopolies with self-powered networks. But 
+today's universe is radically different. Some of these differences 
+reflect changes in technology. Some differences reflect the increased 
+centrality of communications in all aspects of our lives, including 
+disaster recovery. Some differences are the result of deliberate policy 
+choices that have allowed our communications infrastructure to grow 
+increasingly fragile. Only Congress can provide the necessary guidance, 
+authority, and resources to ensure that our national communications 
+infrastructure can reliably meet our needs--whether in times of crisis 
+or in our daily lives.
+---------------------------------------------------------------------------
+    \10\ 47 U.S.C. Sec. Sec. 151, 214.
+---------------------------------------------------------------------------
+    It is worth noting that Congress has, in the past, stepped in where 
+necessary to create national policy and provide funding for 
+implementation. For example, as part of the 1996 Act, Congress 
+established the 911 system as our national emergency number, creating 
+needed uniformity.\11\ In 2008, Congress required all providers of 
+public safety access points (PSAPs) to interconnect with providers of 
+advanced communications services regardless of regulatory 
+classification.\12\ Congress has provided funding for the national 
+first responder network, FirstNet, as well as funding for E911.\13\ 
+While the scope of the challenge here is significantly greater, it is 
+not unprecedented.
+---------------------------------------------------------------------------
+    \11\ Codified at 47 U.S.C. Sec. 251(e)(3).
+    \12\ New and Emerging Technologies 911 Improvement Act of 2008, 
+Pub. L. No. 110-283, 122 Stat. 2620 (2008) (NET 911 Act) (amending 
+Wireless Communications and Public Safety Act of 1999, Pub. L. No. 106-
+81, 113 Stat. 1286 (1999) (Wireless 911 Act)).
+    \13\ Middle Class Tax Relief and Job Creation Act of 2012, Pub. L. 
+No. 112-96, Title VI (Spectrum Act of 2012), Sec. 6409(a), 126 Stat. 
+156, 232-33 (Feb. 22, 2012) (codified at 47 U.S.C. Sec. 1455(a)).
+---------------------------------------------------------------------------
+A. Moving From a Single, Regulated Monopoly Network to Multiple, 
+        Competing 
+        Networks Has Fundamentally Altered the Communications Landscape
+    To appreciate why our communications networks have gone from robust 
+and resilient to fragile and unreliable, we must briefly review how our 
+modern network ecosystem evolved. In the 1990s, two technologies began 
+mass deployment: mobile networks and the internet. These technologies 
+were in their infancy and therefore we expected only ``best efforts'' 
+service. To be clear, ``best efforts'' does not mean that the providers 
+are cavalier about the quality of their service. Best efforts means 
+that customers are not entitled as a matter of right to a particular 
+quality of service. Instead, all the provider promises is to make best 
+efforts to deliver the message. For the vast majority of uses in life, 
+``best efforts'' is good enough. This is particularly true because IP-
+based technologies are designed to deal with the lack of reliability in 
+best efforts networks. Packets are broken up and can move along 
+multiple pathways and multiple networks. Wireless networks must move 
+from tower to tower without dropping the call, and between networks for 
+roaming when the carrier lacks sufficient capacity.
+    This inherent flexibility not only produced cheaper service but 
+also allowed new, competitive offerings. It enabled carriers to break 
+up functions that traditionally had to be done in the ``core'' of the 
+network and allowed these functions to take place at the edge. For 
+example, in the traditional network, the local incumbent telephone 
+network maintained the local PSAP networks. As networks evolved, new 
+companies emerged capable of managing PSAPs on multiple networks. 
+Packet switching allowed carriers to employ multiple routes for the 
+same transmission instead of relying on and using a single circuit for 
+each call. It also allowed them to outsource routing to specialized 
+companies that could find the most efficient and least expensive 
+routes. New services, such as video and geolocation, were easy and 
+cheap to support when compared to the traditional regulated public 
+switched telephone network (PSTN). Best efforts allowed these 
+technologies to grow and proliferate.
+    These advantages also gave rise to significant issues. First, 
+packet-switched technologies and mobile technologies are not self-
+powered. When the power goes out, communications stop. But as recently 
+as 2019, the Senior Director of Emergency Preparedness for California's 
+electric utility PG&E advised people to use landlines to communicate 
+during power blackouts without any apparent awareness that modern 
+landlines are not self-powered.\14\ Networks have grown so complex that 
+even the companies themselves cannot predict how a failure in one part 
+of the network impacts another part of the network. Nor is it clear 
+whether a service is being provided by the carrier itself or by a 
+contractor. This can make it difficult to trace the source of an 
+outage, or take the needed steps to resolve the outage.\15\
+---------------------------------------------------------------------------
+    \14\ Jonathan J. Cooper and Julliet Williams, Anger Grows as 
+Utility Struggles to Get Its Blackouts Right, Associated Press (Oct. 
+31, 2019) (quoting PG&E Senior Vice President for Disaster Recovery as 
+urging people to get blackout information ``the old fashioned way, 
+through calling on a landline'').
+    \15\ See Tali Arbel, Over 12,000 Calls to 911 Failed in AT&T 
+Outage, Baltimore Sun (March 23, 2017) (network configuration error); 
+December 27, 2018 CenturyLink Network Outage Report (single server 
+generating malformed packets disabled the entire network); April 2014 
+Outage Report supra note 5 (``preventable coding error'' in 
+contractor's router created multi-state 911 outage).
+---------------------------------------------------------------------------
+    As long as self-powered traditional copper networks provided a 
+reliable service alternative, the policy of treating competing networks 
+as best efforts was manageable from a public safety perspective. Any 
+traffic too important for best efforts went over the telephone 
+networks. The failure of a dial-up Internet service provider might be 
+an inconvenience, but hardly a matter of life and death. As long as 
+people kept a traditional copper landline, they could guarantee 
+themselves reliable access to 911 and to communications even during a 
+power outage.
+    Today, however, mobile networks and IP-based networks have long 
+displaced traditional copper as the primary communications networks for 
+the majority of the public.\16\ Indeed, it has become our national 
+policy to sunset the traditional PSTN and transition to an all IP-based 
+communications network. Additionally, the services that used to be 
+considered secondary to voice, such as video communications and data 
+transmission, have now become critically important. In 2002, when a 
+peering dispute between Cogent and America Online caused a severe 
+slowdown of Internet traffic in the D.C. region, it was an 
+inconvenience.\17\ Today, a comparable slowdown of Internet traffic to 
+the D.C. region would result in severe impacts on schools, businesses, 
+and government operations.
+---------------------------------------------------------------------------
+    \16\ Federal Communications Commission, Communications Marketplace 
+Report, GN Docket No. 20-60, 35 FCC Rcd 13188 at para. 147, Dec. 2020 
+(``as of December 2019, residential fixed voice connections were about 
+30 percent switched access and 70 percent interconnected VoIP, with 
+residential switched access connections comprising only 14.4 percent of 
+all fixed retail voice connections.'').
+    \17\ 'Peering' Dispute With AOL Slows Cogent Customer Access, The 
+Washington Post, July 2012.
+---------------------------------------------------------------------------
+B. Deregulation and Preemption Have Eliminated Needed Oversight By the 
+        FCC and the States
+    Clearly we can no longer afford to treat these networks as best 
+efforts. But neither Federal nor state policy has kept pace with these 
+changes. Despite debate over the growing use of voice-over-IP 
+technologies and their potential to displace the traditional telephone 
+network as early as 1998,\18\ and a study of the impact on resilience 
+from the phase out of the PSTN by the FCC's Technical Advisory 
+Committee in 2013,\19\ the FCC and the states have moved in the 
+opposite direction. The FCC has imposed no reliability obligations on 
+providers of broadband service--not even outage reporting requirements. 
+Most states have divested themselves of authority over IP-based 
+services.\20\ Even where states have retained (or reclaimed) authority 
+over reliability requirements for voice service, the FCC has repeatedly 
+acted to broadly preempt state authority to regulate either IP-based 
+voice services or mobile voice services.\21\
+---------------------------------------------------------------------------
+    \18\ Federal-State Joint Board on Universal Service, CC Docket No. 
+96-45, Report to Congress, 13 FCC Rcd 11501(1998) (Stevens Report).
+    \19\ Post-PSTN Public Network Resiliency: FCC Technological 
+Advisory Council: Communications Resiliency Working Group, Dec. 2013.
+    \20\ Telecommunications Oversight 2017: A State Perspective , 
+National Regulatory Research Institute (2018) (``As of December 2017, 
+35 states had passed legislation limiting direct oversight of the 
+retail wireline telecommunications services provided by the large 
+incumbent price cap service providers. In addition, Iowa, Pennsylvania, 
+New Jersey, and Rhode Island had reduced oversight in either all or 
+part of the state after a formal commission examination and review 
+proceeding.'').
+    \21\ See Charter Advanced Services, LLC v. Lange, 903 F.3d 715 (8th 
+Cir. 2018); MN PUC v. FCC, 483 F.3d 570 (8th Cir. 2007).
+---------------------------------------------------------------------------
+    The FCC has imposed certain limited obligations on interconnected 
+VOIP providers and mobile voice providers (but not on their data or 
+text messaging services). Mobile voice providers and interconnected 
+VOIP providers must comply with the FCC's discontinuance notification 
+rules under Section 214 of the Communications Act. In theory, this 
+requires providers to demonstrate that discontinuing or impairing 
+service to the community will not harm the public interest.\22\ 
+Streamlined discontinuance processes, however, allow discontinuances to 
+be granted with little review. Interconnected VOIP and mobile voice 
+providers are obligated to participate in the FCC outage reporting 
+system.\23\ As with all participants in the NORS and DIRS systems, 
+these reports are kept confidential, preventing subscribers from making 
+provider choices based on reliability.
+---------------------------------------------------------------------------
+    \22\ 47 U.S.C. Sec. 214.
+    \23\ See FCC Network Outage Reporting System (NORS) and Disaster 
+Information Reporting System (DIRS).
+---------------------------------------------------------------------------
+    Additional problems have emerged as providers of copper networks 
+continue to discontinue these networks. In 2017 and 2018, the FCC 
+relieved carriers of the bulk of their obligations to provide notice to 
+customers when discontinuing networks. The FCC also eliminated the 
+requirement to provide a comparable replacement network. Carriers may 
+now discontinue all legacy copper service by asserting the presence of 
+a broadband provider with sufficient capacity to support a VOIP product 
+regardless of whether the broadband provider offers facilities-based 
+VOIP.\24\ The FCC also eliminated customers' ability to file complaints 
+when carriers simply allow facilities to rot or fail to replace 
+facilities after a disaster. As a consequence, customers currently 
+served by legacy copper have no enforceable right to continued service, 
+let alone reliable and resilient continued service.
+---------------------------------------------------------------------------
+    \24\ Accelerating Wireline Broadband Deployment by Removing 
+Barriers to Infrastructure Investment, Report and Order, Declaratory 
+Ruling, and Further Notice of Rulemaking, WC Docket. No. 17-84, 32 FCC 
+Rcd 11128 (2017); Accelerating Wireline Broadband Deployment by 
+Removing Barriers to Infrastructure Investment, Second Report and 
+Order, WC Docket No. 17-84, 33 FCC Rcd 5660 (2018).
+---------------------------------------------------------------------------
+    Unfortunately, the FCC is not alone in deregulating even the legacy 
+telephone network. The majority of the states have broadly deregulated 
+their legacy telephone networks as well as IP-based networks. Those 
+states that have investigated after deregulation have found that legacy 
+networks have fallen into widespread disrepair--particularly in rural 
+areas.\25\ Many of these rural areas lack cable systems or wireless 
+networks; when the legacy copper stops working, communications in these 
+regions simply stops. As a consequence of permitting legacy carriers to 
+abandon, or constructively abandon, their networks, we now have 
+communities in the United States that lack even basic 20th century 
+communications infrastructure.
+---------------------------------------------------------------------------
+    \25\ In re Commission Inquiry into the Service Quality, Customer 
+Service, and Billing Practices of Frontier Communications, P407, 405/
+CI-18-122 (2019); see generally Telecommunications Service Carriers' 
+Service Quality Report.
+---------------------------------------------------------------------------
+    Finally, the FCC has taken affirmative steps to limit its own 
+authority over communications networks. The FCC reclassified broadband 
+service (fixed and mobile) as a Title I service in 2017, abandoning the 
+agency's traditional authority to require network resilience and 
+reliability. Given the 2017 Order's elimination of Section 706 (47 
+U.S.C. 1302) as an alternative source of authority over broadband, and 
+general determination that it lacks significant ancillary authority 
+over broadband, it is unclear whether the FCC could even require 
+broadband networks to provide mandatory outage reports.
+    It is also uncertain to what extent the FCC will retain authority 
+over interconnected VOIP providers or mobile providers. The FCC has 
+declined to classify interconnected VOIP. In the Orders imposing outage 
+reporting requirements on interconnected VOIP providers, the FCC has 
+relied on both its Title II authority (in the event interconnected VOIP 
+is Title II) and its ``ancillary authority'' as ancillary to Title II. 
+When the legacy copper network is retired, however, any existing 
+ancillary authority will disappear. In other words, if the Commission's 
+efforts to sunset the PSTN in the next few years are successful, the 
+Commission will have effectively terminated its authority over the 
+landline communications network.
+    A similar fate awaits the FCC's authority over mobile networks. 
+Section 332(d) defines Commercial Mobile Radio Networks (CMRS) as 
+mobile networks that provide service to the public when interconnected 
+with the ``public switched network.'' \26\ The 2017 ``Restoring 
+Internet Freedom Order'' explicitly defined the ``public switched 
+network'' as consisting of the traditional legacy phone network.\27\ 
+Once the existing legacy phone network is retired, CMRS will cease to 
+exist as a legal category. All mobile services will be ``Private Mobile 
+Radio Service'' (PMRS).
+---------------------------------------------------------------------------
+    \26\ 47 U.S.C. Sec. 332(d).
+    \27\ Restoring Internet Freedom, Declaratory Ruling, Order, Report 
+and Order, WC Docket No. 17-108, 33 FCC Rcd 311, 355 para.75 (2017).
+---------------------------------------------------------------------------
+    While the Commission will arguably retain its Title III authority 
+over mobile providers, it is unclear how much that authority allows it 
+to regulate in the name of reliability and resilience. When the FCC 
+attempted to impose a backup power obligation on licensees following 
+Hurricane Katrina, the rule was challenged in the D.C. Circuit.\28\ 
+Because the case was rendered moot by the FCC withdrawing the relevant 
+regulation,\29\ the question of the FCC's Title III authority to impose 
+reliability and resiliency regulations remains unresolved.
+---------------------------------------------------------------------------
+    \28\ RCR Wireless, Appeals Court Questions FCC Authority on Backup 
+Power Rule, May 9, 2008.
+    \29\ Matthew Lasar, FCC: Back to Square One on Cell Phone Tower 
+Backup, Ars Technica (Dec. 8, 2008)
+---------------------------------------------------------------------------
+    Finally, the Trump FCC consistently refused to acknowledge any 
+authority to address issues of cybersecurity. The United States is thus 
+the only developed nation whose telecommunications regulatory 
+affirmatively avoids any consideration of cybersecurity as part of its 
+deliberations. For the last four years, the FCC has assiduously avoided 
+any hint of leadership or oversight in securing our critical 
+communications infrastructure from cyber threats. This leaves, and will 
+continue to leave until remedied, a giant and exploitable hole in our 
+defenses. It is ironic indeed that the Federal Energy Regulatory 
+Commission and Department of Energy have a mandate from Congress to 
+consider cybersecurity threats to the electric grid and energy 
+infrastructure, and meanwhile the Department of Transportation 
+considers cybersecurity concerns to our transportation infrastructure, 
+but the Federal Communications Commission is considered unsuited to 
+protect the Internet from cybersecurity threats. The humor of this 
+delightful irony will, alas, be of small comfort in the event our 
+communications infrastructure is subverted by state-sponsored hackers 
+or criminals seeking ransomware.
+II. Unregulated Markets Are Not Capable of Adequately Protecting 
+        Resiliency
+    Carriers and proponents of deregulation have justified the risk to 
+public safety by arguing that carrier's have sufficient financial 
+incentive to invest in resilience and reliability.\30\ There are 
+several problems with this. First, empirical evidence clearly 
+contradicts this hypothesis. As noted above, the number of outages and 
+the length of outages have both increased with deregulation--not 
+decreased. Rural communities have seen legacy networks degrade and 
+disappear without replacement by the promised advanced networks. Even 
+setting this empirical evidence aside, classic economic theory 
+demonstrates why public safety concerns such as network resiliency have 
+traditionally been considered a case of market failure requiring 
+regulatory intervention to achieve the desired result.
+---------------------------------------------------------------------------
+    \30\ Technology Transitions; USTelecom Petition for Declaratory 
+Ruling That Incumbent Local Exchange Carriers Are Non-Dominant in the 
+Provision of Switched Access Services, GN Docket No. 13-5, WC Docket 
+No. 13-3, RM-11358, Declaratory Ruling, Second Report and Order and 
+Order on Reconsideration, 31 FCC Rcd 8283 (2017).
+---------------------------------------------------------------------------
+    First, as noted above, networks have become far too complicated for 
+carriers to assess what is required to maintain resiliency. This is why 
+``sunny day'' outages keep occurring. Fragility in the network from 
+equipment failure or routing errors only becomes apparent after the 
+fact. Nor can carriers force electric utilities to cooperate with them 
+and agree to prioritize services. Carriers cannot prevent third parties 
+from cutting fiber lines. While carriers can--and should--do more to 
+improve their own networks, they cannot address the entire problem. 
+Only the Federal government can do that.
+    Second, while carriers have incentive to avoid outages, they also 
+have substantial incentive to cut costs--especially where investment 
+does not yield back immediate short-term profit. This makes carriers 
+especially subject to what is called the ``optimism fallacy.'' Carriers 
+believe that their preparations are sufficient because they take an 
+optimistic view of likely outcomes (even when preparing for the worst). 
+While economics likes to conceptualize corporations as rational actors 
+immune to wishful thinking, corporations are managed by human beings. 
+We should therefore expect that while those closest to the problem have 
+valuable expertise, they may also have their own difficulty in 
+remaining objective.
+    Third, even putting that aside, carriers that invest in reliability 
+cannot expect to be rewarded for their efforts in the market. Because 
+the FCC keeps reliability data confidential, customers cannot make 
+purchasing choices based on reliability. Certainly carriers can (and 
+do) claim to have the ``most reliable network,'' but why should 
+consumers believe these advertising claims? And even a network that is 
+``most reliable'' on average nationwide may not be particularly 
+reliable in a specific county or recover quickly after a natural 
+disaster.
+    By contrast, carriers will generally escape consumer backlash after 
+a disaster-based outage because consumers blame the storm for the 
+damage. Even when service is particularly bad by a specific carrier, 
+outages are rare enough that consumer memory fades over time. 
+Additionally, consumers face the uncertainty over whether the carrier 
+they switch to will be a significant enough improvement in reliability 
+to justify the cost and aggravation of switching. Finally, if mandatory 
+network sharing agreements are in effect (which they should be), 
+carriers that invest in more reliable networks face a free-rider 
+problem. Other networks that chose to invest less in reliability will 
+still remain operational by leveraging the responsible carrier's 
+investments in resiliency. Because the public has no way of knowing 
+that these networks are only operational as a consequence of the 
+``prudent carrier's'' investment, the prudent carrier will receive no 
+recognition or marketplace reward for prioritizing network resiliency. 
+Instead, the investment will reward the rival who failed to adequately 
+prepare.
+    Finally, we must recognize that most of the costs we are concerned 
+about do not fall directly on the carrier. Loss of business revenue, or 
+even loss of life, from a communications outage is not charged to the 
+carrier, whereas the cost of making reliability investments is. It is 
+rational for carriers to discount the external costs. This is also why 
+the Federal and state governments should not only require carriers to 
+meet standards of reliability, but also invest public money. While it 
+is appropriate to have communications carriers serve the public 
+interest as well as their private interests, it is equally appropriate 
+for public money to be spent for broad societal benefits.
+III. Recommendations
+    Public Knowledge notes that Senators Markey and Wyden have 
+introduced a bill that would address many of the problems of network 
+resilience, and provide incentives to do so in an environmentally 
+sustainable manner. Public Knowledge is pleased to support the 
+Generating Resilient and Energy Efficient Network (GREEN) 
+Communications Act as an important step forward. In addition, Public 
+Knowledge endorsed the RESILIENT Act introduced last Congress in the 
+House by Chairman Palone and Representative McNerny. These two bills 
+are examples of Congressional action that would help to restore 
+reliability to our critical communications infrastructure.
+    Public Knowledge makes the following recommendations for 
+Congressional action. While some of these are reflected in the GREEN 
+Communications Act, or were reflected in the RESILIENT Act, others were 
+not. We hope you consider including these recommendations in any future 
+legislation:
+
+  1.  Provide the information necessary for proper planning and for the 
+        market to reward investment. Direct the FCC to combine the 
+        National Outage Reporting System (NORS) NORS and the Disaster 
+        Information Reporting Service (DIRS) into a single, publicly 
+        available database that permits the public to identify carrier 
+        performance on a granular level. Direct the FCC to conduct a 
+        full report after every significant outage.
+
+  2.  Provide clear authority to the FCC and the States. Clearly 
+        empower the FCC and states to create necessary rules for 
+        network reliability, cybersecurity, and cooperation among 
+        relevant stakeholders. Congress should direct DHS to fully 
+        integrate the FCC into its disaster response in line with the 
+        GAO recommendations. Additionally, Congress should require the 
+        FCC and the Department of Energy to develop enforceable 
+        guidelines for cooperation between power companies and 
+        communications providers.
+
+  3.  Create metrics necessary to set standards and promote 
+        accountability. Require the FCC, National Telecommunications 
+        Information Administration (NTIA), National Institute of 
+        Standards (NIST), and the Department of Homeland Security (DHS) 
+        to develop suitable metrics to measure reliability and 
+        resiliency for wireline, fixed wireless, mobile terrestrial 
+        wireless, and satellite networks.
+
+  4.  Promote sustainability and avoid environmental degradation. 
+        Require further study to create recommendations for 
+        environmentally friendly and sustainable solutions, and to 
+        reduce existing practices that risk degrading the environment.
+
+  5.  Make Federal and state assets available in disaster recovery. 
+        Permit and encourage the Federal government and state 
+        governments to make available in an emergency communications 
+        resources such as fiber, spectrum, operating government 
+        networks, or other assets to communications providers to 
+        restore communications to the general public.
+
+  6.  Fund network upgrades that promote reliability. Provide Federal 
+        money to pay for necessary upgrades to communications networks 
+        to enhance reliability. In particular, provide funding to 
+        replace aging copper networks with modern fiber networks built 
+        to modern resiliency standards. Where legacy carriers wish to 
+        retire their copper networks without replacement, create 
+        incentives to sell these networks to alternative providers 
+        (including state or local governments, community anchor 
+        institutions, and cooperatives) willing to provide wireline 
+        service. Additionally, Federal grant programs that fund 
+        deployment should include mandatory reliability metrics.
+
+  7.  FCC studies that address the specialized needs of specific 
+        communities. Require the FCC to report to Congress on the 
+        special needs of island communities, geographically isolated 
+        communities, Tribal lands, low-income and traditionally 
+        marginalized communities of color, and communities in 
+        environmentally sensitive areas. The report should include 
+        steps the FCC will take under its existing authority to address 
+        identified special needs, and recommendations to Congress for 
+        any other necessary action.
+
+    Thank you. I am pleased to answer any questions you may have.
+
+    Senator Lujan. Thank you very much, Mr. Feld. I will now 
+recognize members for questions, as well. I will recognize 
+myself for 5 minutes.
+    Mr. Feld, resilient, redundant, secure broadband is a core 
+focus of today's hearing. However, before we can really address 
+this problem, we need to understand the current state of 
+broadband resiliency in the United States. In your testimony, 
+you state that the FCC currently does not have broadband 
+resiliency requirements. Does the FCC presently enforce 
+broadband network resiliency standards, yes or no?
+    Mr. Feld. No, it does not.
+    Senator Lujan. Mr. Feld, in times of a disaster, when 
+Americans lose access to broadband services, are there 
+currently any nationwide requirements for reporting those 
+outages as they are occurring, yes or no?
+    Mr. Feld. No, there are not.
+    Senator Lujan. Mr. Feld, are there any requirements for 
+reporting broadband outages, after they have occurred, so 
+consumers can make informed decisions between carriers, yes or 
+no?
+    Mr. Feld. No, there are not.
+    Senator Lujan. This is unacceptable, and Americans deserve 
+to know the reliability of the critical infrastructure. And I 
+think this is an area that we can find some common ground and 
+legislate on.
+    Mr. Law, thank you for being here today. South Dakota and 
+New Mexico are similar in many ways when it comes to broadband 
+build out. Both are highly rural, and each has one unique 
+challenge in laying fiber across the Federal, State, and Tribal 
+land. Mr. Thune touched on it. It is getting all of that 
+approved, and the topography that we face, and the challenges 
+are significant. So, thank you so much for your testimony and 
+your perspective.
+    I want to highlight one part of your written statement. You 
+``operate in deeply rural markets, where the cost of deploying 
+and operating networks can be higher, and a tailored approach 
+to managing risk, resiliency, and redundancy is necessary to 
+create sustainable networks that provide services customers can 
+afford''. Mr. Law, how has your decision to deploy fiber led to 
+more sustainable, resilient, and affordable networks?
+    Mr. Law. Thank you, Mr. Chair. I think the first way is 
+both the resiliency, in terms of its durability and performance 
+characteristics. There is nothing superior to it on the market 
+as it relates to, I will say, technology performance, whether 
+it be broadband, voice, or whatever application you choose to 
+put on it.
+    The second item is its scalability. And so, we still use 
+fiber that was--was deployed in the 1990s, in the early 2000s 
+to 2010s. Throughout all of that, fiber has proven to be a very 
+resilient medium to deploy, upgrade, and scale throughout those 
+times and we have not needed to replace it, in some cases going 
+on 30+ years. So, fiber has been a great benefit for rural 
+customers, such as those served by Golden West.
+    Senator Lujan. Can Congress support providers like yours in 
+constructing future-proof networks that meet the highest 
+standards of resiliency by passing an infrastructure package 
+that would allow more investment in these areas?
+    Mr. Law. I think, certainly, an infrastructure package 
+would be a great start, in terms of continuing to expand and 
+deploy broadband into rural and underserved areas. I think that 
+is only one act, though, Mr. Chair, in terms of, that is a 
+great first step, but you also have to consider, as part of 
+that, both the sustainability of that network going forward--it 
+is one thing to build it. Anybody with enough money can build a 
+network. However, I have learned it is more challenging to 
+actually operate a network, over a long period of time and you 
+can spend a lot of money doing that, if it is not done 
+properly.
+    Senator Lujan. Appreciate that reminder, Mr. Law. Mr. 
+Adelstein, in your testimony you state, ``Loss of electrical 
+power can create outages of telecommunication service for wired 
+and wireless networks''. And certainly, I agree with the 
+statement that many energy grids are in desperate need of 
+maintenance and repair. However, effective disaster response 
+requires redundancy. It is important to anticipate failures and 
+prepare accordingly. Do you believe the FCC states should 
+regularly--I am sorry. Do you believe the FCC and states should 
+regularly evaluate whether essential telecommunication networks 
+are sufficiently resilient, to continue providing essential 
+communication services during catastrophic events?
+    Mr. Adelstein. Yes, I think it is very important that the 
+regulators keep a close eye on the resiliency and redundancy 
+networks. When it comes to redundancy, more network deployment 
+leads to more resiliency, to your earlier question. That is 
+what the BDAC actually concluded at the FCC.
+    I think it is important that, when you think about, you 
+know, resilient networks that, you know, in the case of 
+wireless networks, if one node goes out, it can be rerouted 
+traffic to another. And we try to build, now, overlapping 
+densified networks that can--essentially, if there is a problem 
+in one area, they can be rerouted to another. And so, when you 
+have redundancy, in terms of coverage like that, it actually 
+increases resiliency and ability to survive when there is an 
+outage of any kind.
+    Senator Lujan. If the FCC or a state finds essential 
+networks are not adequately resilient, should they engage in 
+rulemaking on the subject?
+    Mr. Adelstein. Well, I mean, you know, there have been 
+rulemakings on this. The FCC has done rulemakings on this and 
+they have concluded, and the industry has risen up to a 
+voluntary agreement, basically, that is, I think, dramatically 
+improved resiliency. We have seen really wonderful performance, 
+not only during the pandemic, but during recent disasters, 
+especially with regard to wireless networks. We have seen, 
+while often cases the wireline network is gone for weeks and 
+months at a time--often no fault of their own, as a result of 
+the electric going down--we have seen wireless networks quickly 
+restored, in the case of recent hurricanes and fires. And 
+people then depend upon their wireless device.
+    So, I think, when you are looking about spending an 
+unprecedented sum of funding on a new infrastructure package, 
+you have got to think about the resiliency of different types 
+of technologies, as well as improving resiliency within those 
+technologies. We can make wireless networks more resilient. We 
+can make fiber more resilient. But both of them have different 
+characteristics. And this kind of redundancy, and having 
+multiplicity of technologies, makes it more likely that you 
+will have the emergency services when people's lives actually 
+depend upon them.
+    Senator Lujan. So, just to clarify, when a state or the FCC 
+finds that essential networks are not adequately resilient, you 
+do support them engaging in rulemaking on the subject?
+    Mr. Adelstein. Well, I mean, rulemaking proceeding. I am 
+not sure what rulemaking, in the end, they would need to do. I 
+mean, right now, what we have found is, it is very hard to do a 
+one size fits all approach on regulation. What works in New 
+Mexico might now work in South Dakota, depending on the 
+ability, for example, to get backup generators in place. You 
+know we try to get them to as many sites as we can, but some 
+sites do not have room. Sometimes it is a sacred national 
+monument, where we cannot get, you know, certain types of 
+devices in.
+    I mean, it is important that the regulators really stay on 
+top of this and make sure that they are--that the public is 
+protected. But the industry, I think, is working very hard. And 
+we will work hand in hand with regulators to make sure that all 
+of the resiliency needs of our customers are met.
+    Senator Lujan. I will explore that a little bit more later. 
+Appreciate your time today.
+    I will now recognize Mr. Thune for five minutes.
+    Senator Thune. Thank you, Mr. Chairman. Mr. Law, as you 
+know, ensuring there are reliable and resilient broadband 
+networks in rural America means not just having Federal 
+resources to deploy these networks, but also having the Federal 
+support available to maintain them over the lifetime of the 
+network.
+    Over the years, the FCC's Universal Service Fund High-Cost 
+Program has provided the reliable support needed to sustain 
+these networks. However, the USF contribution factor is now 
+above 30 percent for the first time, which puts at risk the 
+ability of the USF to ensure predictable and sufficient 
+support, as required by law. It is for that reason that I 
+introduced the Rural Connectivity Advancement Program Act, 
+which would help strengthen connectivity in rural areas by 
+providing funding for both the build out of networks, and to 
+support the sustainability of those networks.
+    Can you speak to the importance of the USF continuing to 
+provide reliable support for companies, like Golden West, over 
+the long run? And if that funding went away, what effect would 
+that have on your customers?
+    Mr. Law. Thank you, Ranking Member Thune. Absolutely. 
+Universal Service Funding has been foundational to the 
+broadband build out in much of rural America. I can 
+specifically speak for the entirety of Golden West service 
+territory, which I mentioned is about the size of Maryland, New 
+Jersey, Connecticut, and Delaware combined. Quite frankly, we 
+could not have built out the broadband network that we have to 
+date, and will continue to build, without the support of 
+Universal Service funding, now and in the future. Both in terms 
+of affordability, but as well as sustainability for networks.
+    I applaud your efforts, as it relates to putting the 
+Universal Service Funding on a sound financial footing, because 
+that is in question. When you start seeing contribution to 
+rates to fund something in the 30 percent territory, I think 
+your draft legislation would do a lot, in terms of providing 
+additional funding that would, perhaps, take the pressure off 
+of the primary funding over periods of time, depending on the 
+needs of the Universal Service Fund.
+    But I absolutely think, regardless of infrastructure 
+packages that are being discussed, or that have already been 
+approved, you cannot have those discussions without having a 
+similar discussion of, how do we keep Universal Service funding 
+on firm support, both now and in the future.
+    Senator Thune. And you, sort of, answered it, but just to 
+reiterate the point, the bill I mentioned, RCAP or Rural 
+Connectivity Advancement Program Act, would help the USF 
+program over the long term.
+    Mr. Law. Absolutely.
+    Senator Thune. Yes, thank you. Mr. Adelstein, ensuring that 
+our Nation's broadband networks are resilient to natural 
+disasters and able to handle increases in network traffic 
+requires technology to be deployed to all parts of the country. 
+What can Congress do to ease the regulatory permitting burdens 
+that slow down the deployment of redundant and resilient 
+networks, particularly on federally owned lands?
+    Mr. Adelstein. Well, you know, Federal lands, there are 
+enormous obstacles in getting wireless infrastructure placed. 
+And those areas require these networks for emergency response. 
+I mean, you have fires. You know, we see what is happening 
+right now and what happened in Black Hills recently. We have 
+got to have access to those lands and the FCC--I chaired a 
+working group that came up with an entire report. For many 
+years we have been trying to get these things implemented. 
+Administration after administration, we have not been able to 
+get it done.
+    So, I think, you know, it is time for legislation to 
+require Federal agencies to, basically, treat wireless on 
+Federal lands like they would, you know, in the--like we would 
+in the private sector, where we can get long term leases, where 
+we can get access, where we can get these things expedited. 
+Because it not only protects the public, but it protects 
+Federal--Federal workers, as well.
+    And when it comes to, you know, citing for resiliency, we 
+need to be able to get things like generators placed. A lot of 
+places do not even allow us to do that. We talked about backup 
+power but, you know, if you are going to put funding into this 
+bill, maybe you could require that there be streamlined types 
+of approaches for things like that.
+    And some of the progress that the FCC has made on allowing 
+quick access for colocation to existing facilities, no allowing 
+small cells to be cited in the rights of way, within certain 
+limits. Making sure those do not get rolled back and making 
+sure that, you know, funding goes to communities that have met 
+model standards.
+    Senator Thune. Very good. Mr. Law, any regulatory barriers 
+that you face, in this respect?
+    Mr. Law. We have certainly faced the challenges of 
+accessing Federal lands, whether they be National Park, 
+National Forest, BLM, lands administered by BIA, in certain 
+cases. I would echo my colleague Mr. Adelstein's comments. I 
+also would strongly urge there be a streamlining of the 
+permitting process for access of Federal lands, both in terms 
+of the processing, the forms, and also, I will tell you, in 
+terms of the visibility into the process.
+    I will tell you, Golden West has several projects ongoing, 
+across various Federal lands this year. And when you make those 
+applications for rights of way, each agency, A, handles them 
+differently, B, there is no way for a provider to have any 
+idea, short of repeated phone calls or e-mails that may or may 
+not get answered, about what is the status of our application. 
+In South Dakota, for example, with a 5-month construction 
+window, if we do not have an answer in a April-May-June 
+territory, receiving an answer that we can do it in November 
+does us no good, nor will it do customers any good.
+    So, I would--I would echo those comments that, absolutely, 
+the recommendations from the FCC's BDAC committee a couple of 
+years ago. Absolutely, whether it is by statute, order, or some 
+other decree, I would wholly support.
+    Senator Thune. So--and this I would direct, again, to 
+either or both of you. And I will try to make this quick, Mr. 
+Chairman. My time has run out.
+    Multiple agencies are dispersing broadband funds, which 
+could ultimately lead to duplication of broadband services. So, 
+as Congress considers additional broadband funding, do you 
+believe having funding go through one agency reduces the risk 
+of overbuilding? And if so, which agency do you think is best 
+suited to handle the disbursement of funds?
+    Mr. Law. I would start by saying, I think--I think very 
+clearly, the Federal Communications Commission is the preferred 
+agency for the distribution of these types of funds, both in 
+terms of their agency expertise and knowledge of networks, 
+deployment, availability, affordability, sustainability--all of 
+those items. But also, more importantly, beyond just the fact 
+of getting these networks built, there has to be some level of 
+monitoring and commitment capabilities that are done following 
+up what are, to me, staggering amounts of money for broadband 
+deployment. Great, but staggering amounts. There has to be 
+follow up. The FCC is equipped to do that. I do not believe 
+there are other Federal agencies that are adequately equipped, 
+in the broadband field, to have that capability.
+    Mr. Adelstein. And I would certainly agree that, if we are 
+going to have multiple agencies having funding, you have got to 
+make sure you avoid overbuilding. You have to have some kind 
+of--if Congress is going to provide funding to multiple 
+agencies, that there by some kind of a coordinating mechanism 
+that is made within the legislation itself, to ensure that 
+there is proper coordination and that there is not any 
+overbuilding, particularly over other fellow programs, but 
+certainly over existing networks. Limited resources need to go 
+to truly unserved areas and there have to be good maps in place 
+to get that done.
+    Senator Thune. Thank you. Thank you, Mr. Chairman.
+    Senator Lujan. Thank you, Mr. Thune. Senator Klobuchar, you 
+are recognized for five minutes.

@@ -1,0 +1,857 @@
+{
+ "caso": "FUST",
+ "lote": 39,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0232::Infraestrutura e porte populacional",
+   "unit_id": "S0232",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Romeu Tuma",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "fronteiras",
+     "forma_encontrada": "fronteiras",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9765,
+     "fim_corpo": 10707,
+     "trecho": "Disse ele: \"O deputado era uma das maiores esperanças, senão a maior, do Brasil para o futuro.\" Evidentemente, a comoção acabou por concentrar-se na Bahia. Sua intensidade mereceu inúmeras explicações, cuja essência pode estar na carta do leitor Roberto Sobral, enviada de Salvador para a imprensa paulistana, \"a respeito da inestimável perda, para nós, baianos, do deputado Luís Eduardo Magalhães\". Diz textualmente o missivista: Quais os motivos que nos levaram a tamanho amor por uma figura política tão polêmica quanto ACM? Nesse amor nos encontramos, nós, os comuns do povo, e os nossos ilustres Caetano, Gil, Jorge Amado, João Ubaldo e tantos outros de credo político diverso. Tal fenômeno só deve intrigar os que não vivem na Bahia. O pesar transcendeu nossas fronteiras, a ponto de a Câmara dos Deputados da Argentina haver realizado sessão especial em homenagem a Luís Eduardo e Sérgio Motta."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0232::Urbano e rural",
+   "unit_id": "S0232",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Romeu Tuma",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "campos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "campos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 284,
+     "fim_corpo": 1284,
+     "trecho": "Mas parece ter sido ontem que a Nação pranteava o falecimento do Deputado Federal Luís Eduardo Magalhães e do Ministro das Comunicações, engenheiro Sérgio Motta, tanta é ainda a emoção causada pela lembrança desses dolorosos fatos. Uma emoção quase paradoxal, porque se mostra incompreensível a quem não consegue entender como o desaparecimento de personalidades tão distintas possa ser capaz de produzir o mesmo grau de consternação por todo o País, entre pessoas com gostos, interesses e idéias díspares. Um sentimento previsível, porém, quando se sabe que, embora com diferenças de estilo, Sérgio Motta e Luís Eduardo Magalhães buscavam o mesmo objetivo: o bem do Brasil e do seu povo. Sim, porque as diferenças de caminho com o mesmo destino somente serviram para acentuar as qualidades de ambos e engrandecer a liderança que cada um exercia, a seu modo, nos respectivos campos de atuação política, a ponto de despertar respeito e admiração de tantos quantos participam da vida pública nacional."
+    },
+    {
+     "inicio_corpo": 1707,
+     "fim_corpo": 2593,
+     "trecho": "Em meio à imensa repercussão daquele fatídico abril de 1998, plena de palavras como tragédia e perda irreparável, sempre acompanhadas, na fala de amigos e adversários, de menções à garra, ousadia, paixão e competência dos desaparecidos, o respeitado jornalista Alberto Dines conseguiu resumir-lhes o perfil: Um, esguio e elegante; outro, corpulento e espalhafatoso. Este trabalhava um magnífico projeto pessoal; aquele orquestrava projetos alheios. Igualmente fidalgos na forma de devotar-se, generosos como só acontece com os superdotados. Possuíam desígnios, missões; imaginaram-se imortais, desafiaram a medicina, estatísticas e os deuses. Do desaparecimento quase simultâneo desses exímios e apaixonados espadachins, que lutavam lado a lado não obstante saberem que, breve, poderiam estar em campos opostos, sobram ângulos heróicos e galantes heróicos e galantes."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0233::Domicílio e arranjo familiar",
+   "unit_id": "S0233",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Edison Lobão",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7783,
+     "fim_corpo": 8525,
+     "trecho": "Característica muito sua é o entrelaçamento do destemor com que, de um lado, enfrenta a dureza dos adversários e a maledicência dos preconceituosos, e, de outro, a suavidade e afetividade com que trata os amigos, qualidades pinçadas pela opinião pública e logo absorvidas pelo anedotário popular, a refletir com bom humor esses pontos extremos de uma personalidade que sabe ser dura nos bons embates, e terna nos instantes da confraternização. Sr. Presidente, Srªs e Srs. Senadores, Srªs e Srs. Deputados, há cerca de cinco anos, quando Luís Eduardo assumiu, tão jovem, a Presidência da Câmara dos Deputados, não pude, eu próprio, sofrear a grande admiração que já lhe dedicava e ampliava-se a cada um de seus êxitos na política."
+    },
+    {
+     "inicio_corpo": 8233,
+     "fim_corpo": 8925,
+     "trecho": "Sr. Presidente, Srªs e Srs. Senadores, Srªs e Srs. Deputados, há cerca de cinco anos, quando Luís Eduardo assumiu, tão jovem, a Presidência da Câmara dos Deputados, não pude, eu próprio, sofrear a grande admiração que já lhe dedicava e ampliava-se a cada um de seus êxitos na política. Escrevi-lhe, então, uma carta, há cinco anos, da qual peço licença para destacar alguns trechos: Brasília, 6 de fevereiro de 1995. Prezado amigo Deputado Luís Eduardo. Você assume a Presidência da Câmara dos Deputados, o terceiro cargo da hierarquia constitucional do País, num instante em que se renovam as esperanças do povo brasileiro na construção de um novo tempo."
+    },
+    {
+     "inicio_corpo": 11008,
+     "fim_corpo": 12034,
+     "trecho": "E havia, ao tempo do Palácio Tiradentes e no início de Brasília, tantos outros luminares no Parlamento, como Raul Pilla, Fernando Ferrari, Rui Ramos. Carlos Lacerda e Afonso Arinos, estes eram autênticos espadachins da palavra. Rui Santos e Clodomir Millet, mistos de médicos e parlamentares, eram os donos do saber supremo sobre a legislação eleitoral, cujo aconselhamento era requestado por todas as instâncias. Oliveira Brito, que tanto honrou a representação da Bahia, transformou a Comissão de Constituição e Justiça da Câmara num dos mais respeitados órgãos do Congresso Nacional, encontrando fórmulas jurídicas de grande tirocínio toda vez que questões políticas estavam em jogo. Da nova geração, ficaram-me desses tempos, entre tantas outras figuras preeminentes, lembranças inolvidáveis das atuações de Almino Alfonso e de Nelson Marchesan. Na Presidência da Câmara, em renovadas Sessões Legislativas, a figura singular de Ranieri Mazzili, que dirigia a Casa com uma postura imperial e inegável autoridade."
+    },
+    {
+     "inicio_corpo": 14060,
+     "fim_corpo": 14954,
+     "trecho": "Então, Senhor Presidente, os arrogantes vencedores de hoje hão de ser, por certo, os humildes vencidos de amanhã.\" As novas gerações políticas vão preenchendo aos poucos as lacunas deixadas pelos ‘monstros sagrados’ de antigamente - eu prosseguia na carta. Moço, de cativante simpatia pessoal, firme, correto e solidário, você, construtor compulsivo de amizades, Luis Eduardo, determinado, sem ser radical. Essas as características que vão consolidando sua personalidade. Enquanto exerceu as funções de líder, demonstrou nas suas ações os atributos que a sociologia política cataloga como traços específicos de uma grande liderança: julgamento sensato dos companheiros, afeito ao trato com a alma humana, paixão pelas tarefas a seu cargo, prudência e bom senso nos momentos políticos mais difíceis. Acompanhei de perto, com muito interesse, sua candidatura à Presidência da Câmara."
+    },
+    {
+     "inicio_corpo": 14865,
+     "fim_corpo": 15782,
+     "trecho": "Acompanhei de perto, com muito interesse, sua candidatura à Presidência da Câmara. No dia das eleições, postei-me no fundo do plenário e estive atento ao seu discurso. Que peça notável! Os improvisos, embora às vezes traiçoeiros, são empolgantes quando bem concebidos. O seu esteve nos domínios da inteligência política. Foi aí que me veio à lembrança aquele glorioso passado acima referido e senti o impulso de escrever-lhe esta carta. Concluída a apuração e proclamados os resultados, alguém observou a meu lado, referindo-se a você: \"Tão moço e já com tanto triunfo...\" Respondi-lhe que o valor do político não emerge da idade, mas de suas condições pessoais. E possuindo-as, é bom que as oportunidades lhe ocorram logo. Joaquim Nabuco ensina que as conquistas que vêm tarde chegam frias. Você terá, Luis Eduardo, uma presidência recheada de fecundas realizações, sobretudo de natureza política."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0233::Educação",
+   "unit_id": "S0233",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Edison Lobão",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12034,
+     "fim_corpo": 12960,
+     "trecho": "Veja você, Luis Eduardo, que num simples apanhado da memória estou citando políticos que já ingressaram em nossa história parlamentar como pró-homens que orgulham o Parlamento brasileiro. Poderia discorrer sobre numerosos outros, o que não faço para não alongar ainda mais esta carta. O fato é que a Câmara e o Senado apresentavam-se, nesses tempos da minha vida estudantil e jornalística, como uma composição exuberante de valores vindos de todos os Estados e de diferentes matizes políticos. Por volta de 1976, jornalista político ainda, recebi convite do Parlamento Alemão para acompanhar, como observador, as eleições que ali se realizavam naquele ano. Durante um mês percorri o País num ônibus de campanha do CDU, juntando-me a uma caravana liderada pelo então Chanceler Helmut Kohl. Pude constatar, naquela ocasião, a excelência dos candidatos, resultado das várias escolas de política mantidas na Alemanha."
+    },
+    {
+     "inicio_corpo": 12228,
+     "fim_corpo": 13161,
+     "trecho": "Poderia discorrer sobre numerosos outros, o que não faço para não alongar ainda mais esta carta. O fato é que a Câmara e o Senado apresentavam-se, nesses tempos da minha vida estudantil e jornalística, como uma composição exuberante de valores vindos de todos os Estados e de diferentes matizes políticos. Por volta de 1976, jornalista político ainda, recebi convite do Parlamento Alemão para acompanhar, como observador, as eleições que ali se realizavam naquele ano. Durante um mês percorri o País num ônibus de campanha do CDU, juntando-me a uma caravana liderada pelo então Chanceler Helmut Kohl. Pude constatar, naquela ocasião, a excelência dos candidatos, resultado das várias escolas de política mantidas na Alemanha. Cada partido possui o seu Instituto, todos operantes e formadores de líderes. Lá, os Partidos buscam nas escolas as inteligências e as vocações que se revelam, e adotam os melhores como seus filiados."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0233::Escolaridade e letramento",
+   "unit_id": "S0233",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Edison Lobão",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "estudante",
+     "forma_encontrada": "Estudante",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8668,
+     "fim_corpo": 9576,
+     "trecho": "Prezado amigo Deputado Luís Eduardo. Você assume a Presidência da Câmara dos Deputados, o terceiro cargo da hierarquia constitucional do País, num instante em que se renovam as esperanças do povo brasileiro na construção de um novo tempo. Tempo de paz e de realização das aspirações sociais tantas vezes malogradas. Ao Congresso Nacional reserva-se um papel transcendental nesse processo. Criticado e injustiçado, o Congresso, quer queiram ou não os seus detratores, é o dique que contém as avalanches do arbítrio e do totalitarismo. Quero falar um pouco do que penso a seu respeito, estabelecendo um liame com pessoas e fatos da história recente do nosso País. A vida pública brasileira é fastigiosa em nomes e em fatos. Estudante ainda, quantas vezes ocupei uma cadeira nas galerias do Palácio Tiradentes para encantar-me com os grandes debates que ali se desenrolavam."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0233::Gênero",
+   "unit_id": "S0233",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Edison Lobão",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "mulheres",
+     "forma_encontrada": "mulheres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6530,
+     "fim_corpo": 7444,
+     "trecho": "Aí está, Senhoras e Senhores Senadores, a característica de uma liderança, hoje nacional, que se forjou por si mesma, apresentando-se com a autenticidade de um caráter que tem a coragem de afirmar as suas convicções e de liberar a espontaneidade de suas ações, que, como já ocorria com Luís Eduardo, seduzem os seus seguidores. Antonio Carlos Magalhães é um líder que soube conduzir os baianos no rumo dos destinos que, pelos resultados de sucessivas eleições, têm demonstrado ser os melhores para o seu Estado. Atingiu aquilo que todos nós, políticos, mais almejamos em nossas vidas públicas: o amor e o reconhecimento dos nossos concidadãos. Quem percorre as ruas das cidades baianas ao lado de ACM sente isso no aplauso, na afeição e no abraço emocionado com que o envolvem, como se homens, mulheres e crianças quisessem nele renovar, pessoalmente, a confiança que depositam em sua liderança."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0233::Idade",
+   "unit_id": "S0233",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Edison Lobão",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovem",
+     "forma_encontrada": "jovem",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovem",
+     "forma_encontrada": "jovem",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovem",
+     "forma_encontrada": "jovem",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovem",
+     "forma_encontrada": "jovem",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2397,
+     "fim_corpo": 3159,
+     "trecho": "Presidente, Srs. Senadores e Srs. Deputados, está recebendo Luís Eduardo, ao final de uma vida interrompida tão bruscamente, uma glorificação entoada e chorada por políticos de todas as tendências partidárias ou ideológicas. A emoção então provocada por sua morte repetiu, em nossa memória, a consternação nacional suscitada por outros dramáticos desaparecimentos de grandes líderes políticos do passado. A morte de Luís Eduardo compungiu todo o Brasil porque nossa população, de Norte a Sul, já fixara em personalidade tão jovem a promessa de um estadista, forjado na experiência que, com grande inteligência e modéstia, vinha adquirindo com notável capacidade de absorção, ao subir, ano após ano, sem precipitações, os degraus da excelência parlamentar."
+    },
+    {
+     "inicio_corpo": 3442,
+     "fim_corpo": 4165,
+     "trecho": "Os que com ele firmavam tratativas políticas recebiam suas palavras e seus compromissos com a certeza de que seriam honrados por inabalável seriedade e lealdade. Luís Eduardo Magalhães foi uma pedra preciosa rara, emersa da velha Bahia. Seguramente, para nós, políticos, o mais representativo de sua geração, o mais vocacionado para a vida pública. Por todos esses motivos, o povo brasileiro nele vislumbrava um brilhante porvir, a marca de um político confiável. Não há palavras, Sr. Presidente, para avaliar as conseqüências danosas para o Brasil, advindas da morte de Luís Eduardo, o que é inevitável quando a Nação perde um jovem predestinado a servi-la na plenitude de suas forças físicas e mentais."
+    },
+    {
+     "inicio_corpo": 5019,
+     "fim_corpo": 5863,
+     "trecho": "Nele viu-se o flanco da fortaleza atingida pela investida mortal de um acometimento inopinado, vítima de um fato que se inclui entre os desígnios imperscrutáveis de Deus. Alguns entenderam – e li isto num jornal – que o padecimento por que passou Antonio Carlos Magalhães era interpretado, pelo inesperado e pela rapidez do desenlace, como um golpe que iria abatê-lo inexoravelmente. Abalou-o, todos vimos, mas não o abateu. O raio fendeu o carvalho, mas não o derrubou. E em nenhum instante deixei de pensar que Antonio Carlos Magalhães, ao contrário daquela expectativa de alguns, ressurgiria do sofrimento paternal, trazendo, com o adjutório de sua imensa força íntima, calejada na sua extraordinária experiência humana, a lembrança inspiradora de Luís Eduardo, que já emergira com o ímpeto próprio de um jovem cheio de talento."
+    },
+    {
+     "inicio_corpo": 6530,
+     "fim_corpo": 7444,
+     "trecho": "Aí está, Senhoras e Senhores Senadores, a característica de uma liderança, hoje nacional, que se forjou por si mesma, apresentando-se com a autenticidade de um caráter que tem a coragem de afirmar as suas convicções e de liberar a espontaneidade de suas ações, que, como já ocorria com Luís Eduardo, seduzem os seus seguidores. Antonio Carlos Magalhães é um líder que soube conduzir os baianos no rumo dos destinos que, pelos resultados de sucessivas eleições, têm demonstrado ser os melhores para o seu Estado. Atingiu aquilo que todos nós, políticos, mais almejamos em nossas vidas públicas: o amor e o reconhecimento dos nossos concidadãos. Quem percorre as ruas das cidades baianas ao lado de ACM sente isso no aplauso, na afeição e no abraço emocionado com que o envolvem, como se homens, mulheres e crianças quisessem nele renovar, pessoalmente, a confiança que depositam em sua liderança."
+    },
+    {
+     "inicio_corpo": 7783,
+     "fim_corpo": 8525,
+     "trecho": "Característica muito sua é o entrelaçamento do destemor com que, de um lado, enfrenta a dureza dos adversários e a maledicência dos preconceituosos, e, de outro, a suavidade e afetividade com que trata os amigos, qualidades pinçadas pela opinião pública e logo absorvidas pelo anedotário popular, a refletir com bom humor esses pontos extremos de uma personalidade que sabe ser dura nos bons embates, e terna nos instantes da confraternização. Sr. Presidente, Srªs e Srs. Senadores, Srªs e Srs. Deputados, há cerca de cinco anos, quando Luís Eduardo assumiu, tão jovem, a Presidência da Câmara dos Deputados, não pude, eu próprio, sofrear a grande admiração que já lhe dedicava e ampliava-se a cada um de seus êxitos na política."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0233::Macrorregião",
+   "unit_id": "S0233",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Edison Lobão",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2397,
+     "fim_corpo": 3159,
+     "trecho": "Presidente, Srs. Senadores e Srs. Deputados, está recebendo Luís Eduardo, ao final de uma vida interrompida tão bruscamente, uma glorificação entoada e chorada por políticos de todas as tendências partidárias ou ideológicas. A emoção então provocada por sua morte repetiu, em nossa memória, a consternação nacional suscitada por outros dramáticos desaparecimentos de grandes líderes políticos do passado. A morte de Luís Eduardo compungiu todo o Brasil porque nossa população, de Norte a Sul, já fixara em personalidade tão jovem a promessa de um estadista, forjado na experiência que, com grande inteligência e modéstia, vinha adquirindo com notável capacidade de absorção, ao subir, ano após ano, sem precipitações, os degraus da excelência parlamentar."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0233::Urbano e rural",
+   "unit_id": "S0233",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Edison Lobão",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "Campos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12703,
+     "fim_corpo": 13573,
+     "trecho": "Durante um mês percorri o País num ônibus de campanha do CDU, juntando-me a uma caravana liderada pelo então Chanceler Helmut Kohl. Pude constatar, naquela ocasião, a excelência dos candidatos, resultado das várias escolas de política mantidas na Alemanha. Cada partido possui o seu Instituto, todos operantes e formadores de líderes. Lá, os Partidos buscam nas escolas as inteligências e as vocações que se revelam, e adotam os melhores como seus filiados. Posteriormente os inclui nas listas de candidatos a serem eleitos pelos votos partidários, o que se viabiliza pela legislação eleitoral vigente no País. Entre nós, as lideranças são naturais; revelam-se pelo seu próprio esforço, o que não impede o surgimento dos muitos expoentes que fulguram em nossa vida pública, alguns que se enquadram como sábios da política, como Milton Campos e Octávio Mangabeira."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0234::Domicílio e arranjo familiar",
+   "unit_id": "S0234",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Leomar Quintanilha",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1463,
+     "fim_corpo": 2267,
+     "trecho": "Os negócios, entretanto, nunca o afastaram da política. Nos anos 70, já como dono da Hidrobrasileira, ajudou a manter e administrar o jornal Movimento, marco à resistência militar, que teve o sociólogo Fernando Henrique Cardoso como integrante do Conselho Editorial. De espírito solidário, usou a empresa para abrigar desempregados e perseguidos pelo regime militar. Desenvolveu-se com extrema competência na área de planejamento e desenvolvimento de projetos no segmento de transportes, tendo passagem meritória na área agrícola, de abastecimento ambiental, idealizando e executando projetos e programas. Mas o ramo no qual firmou-se a grande capacidade empreendedora do inesquecível Serjão foi o setor energético, quando, em 1984, assumiu a Vice-Presidência Executiva da Eletropaulo."
+    },
+    {
+     "inicio_corpo": 3831,
+     "fim_corpo": 4637,
+     "trecho": "Apesar de ter como paradigma uma das mais expressivas figuras públicas deste País, o Senador Antonio Carlos Magalhães, seu pai, o Deputado Luís Eduardo Magalhães tinha luz própria. Transitava com muita desenvoltura pela Casa. Granjeou o respeito, a admiração e a confiança até mesmo daqueles que dele divergiam. Firme e determinado, soube conquistar o seu espaço. A capacidade de ouvir a todos e o seu permanente bom humor foram seus principais aliados. Ganhou projeção na Assembléia Nacional Constituinte, defendendo um Brasil mais moderno e socialmente mais justo. Líder do PFL, consolidava-se no cenário nacional. Suas inúmeras qualidades pessoais só poderiam destacá-lo como uma das principais lideranças políticas do País. Com justiça, foi conduzido à Presidência da Câmara dos Deputados."
+    },
+    {
+     "inicio_corpo": 4454,
+     "fim_corpo": 5360,
+     "trecho": "Suas inúmeras qualidades pessoais só poderiam destacá-lo como uma das principais lideranças políticas do País. Com justiça, foi conduzido à Presidência da Câmara dos Deputados. Assumiu o cargo decidido a comandar daquela Casa do Congresso Nacional o projeto que se propunha a transformar o País e manter a estabilidade da economia. Foi incansável na condução das negociações e das votações que mudaram a realidade brasileira. Conseguiu médias de presença inéditas naquela Casa. Aprovou o novo conceito de empresa nacional, derrubou o monopólio estatal do petróleo, da navegação de cabotagem, das telecomunicações, do gás canalizado, entre outras tantas importantes vitórias. Sob o seu comando, a Câmara dos Deputados cresceu em prestígio junto à sociedade. Ao deixar o cargo, ficou conhecido como o presidente das reformas. Por força do cargo, ocupou por duas vezes a Presidência da República."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0234::Gênero",
+   "unit_id": "S0234",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Leomar Quintanilha",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "mulheres",
+     "forma_encontrada": "mulheres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5141,
+     "fim_corpo": 6057,
+     "trecho": "Sob o seu comando, a Câmara dos Deputados cresceu em prestígio junto à sociedade. Ao deixar o cargo, ficou conhecido como o presidente das reformas. Por força do cargo, ocupou por duas vezes a Presidência da República. Ali, a discrição foi sua marca. Líder do Governo em 1997 e em 1998, teve participação decisiva na aprovação da Reforma Administrativa e da nova legislação da Previdência Social. Luís Eduardo deixou-nos aos 43 anos, ainda muito moço, em 21 de abril de 1998, quando se preparava para mais uma missão, para servir mais uma vez à Bahia. Seu prematuro desaparecido comoveu o País, deixando mais pobre a vida política brasileira. Fica o exemplo de espírito público de que é preciso e possível continuar lutando por um novo País. De que é preciso acreditar que as conquistas são fruto do saudável embate entre idéias de homens e mulheres que dedicam a vida com grandeza do sonho de um novo Brasil."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0234::Idade",
+   "unit_id": "S0234",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Leomar Quintanilha",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovem",
+     "forma_encontrada": "jovem",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2880,
+     "fim_corpo": 3685,
+     "trecho": "Tinha razão o Deputado Luís Eduardo quando afirmou: \"o afastamento de Motta seria o pior desfalque que o Governo poderia sofrer\". Perdeu o Governo, perdeu o País. Deputado Luís Eduardo Magalhães! Como esquecer esse notável brasileiro? Como não lembrar da figura lhana, afável, sempre atencioso com seus colegas na Câmara dos Deputados, sempre prestativo, sempre solidário, sempre! Avocava para si as causas justas de seus pares e as defendia com veemência e firmeza como se suas próprias causas fossem. Brilhante e vigoroso na defesa de suas convicções soube ser um negociador hábil e leal, cumpridor da palavra empenhada. Ali conheci o Deputado Luís Eduardo Magalhães. Pude rapidamente perceber que, embora sendo jovem, não demonstrava as dificuldades típicas de um principiante."
+    },
+    {
+     "inicio_corpo": 5889,
+     "fim_corpo": 6978,
+     "trecho": "De que é preciso acreditar que as conquistas são fruto do saudável embate entre idéias de homens e mulheres que dedicam a vida com grandeza do sonho de um novo Brasil. Luís Eduardo será sempre lembrado como um homem bom: doce, amável e humano. E como um homem público vencedor. O valor da vida não se mede pelo quanto se vive, mas como se vive. Luís Eduardo viveu a política intensamente, servindo com devoção ao Brasil. Como já dissera seu ilustre conterrâneo Rui Barbosa: \"a morte não extingue: transforma; não aniquila: renova; não divorcia: aproxima\". É o que sentimos. A morte de Luís Eduardo nos aproxima de seus exemplos e idéias que se voltavam para a construção de um País não só mais moderno, mais democrático, mais desenvolvido, mas também mais justo e menos desigual. Um Brasil que proporcione um futuro digno aos jovens. Um País que se torne a Nação sonhada por Luís Eduardo, uma Nação adequadamente integrada, socialmente justa e corretamente desenvolvida. Obrigado Luís Eduardo. Obrigado Sérgio Mota. Seus exemplos dignificam a vida pública brasileira. (Palmas)"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0234::Posição no trabalho",
+   "unit_id": "S0234",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Leomar Quintanilha",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desempregados",
+     "forma_encontrada": "desempregados",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 929,
+     "fim_corpo": 1836,
+     "trecho": "E o serviço de comunicação que ele conduzia com muita competência e firmeza, como agora podemos constatar, teve e tem papel fundamental nesse processo transformador. Vi nele um homem de decisão, um técnico com larga visão crítica, um profissional dedicado, um patriota. Embora sem nunca haver concorrido a cargo eletivo, revelou-se um extraordinário homem público. Formando-se pela Pontifícia Universidade Católica de São Paulo, em Engenharia Industrial, seguiu carreira na iniciativa privada, atuando na área industrial. Os negócios, entretanto, nunca o afastaram da política. Nos anos 70, já como dono da Hidrobrasileira, ajudou a manter e administrar o jornal Movimento, marco à resistência militar, que teve o sociólogo Fernando Henrique Cardoso como integrante do Conselho Editorial. De espírito solidário, usou a empresa para abrigar desempregados e perseguidos pelo regime militar."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0234::Renda e classe",
+   "unit_id": "S0234",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Leomar Quintanilha",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobre",
+     "forma_encontrada": "pobre",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4886,
+     "fim_corpo": 5790,
+     "trecho": "Conseguiu médias de presença inéditas naquela Casa. Aprovou o novo conceito de empresa nacional, derrubou o monopólio estatal do petróleo, da navegação de cabotagem, das telecomunicações, do gás canalizado, entre outras tantas importantes vitórias. Sob o seu comando, a Câmara dos Deputados cresceu em prestígio junto à sociedade. Ao deixar o cargo, ficou conhecido como o presidente das reformas. Por força do cargo, ocupou por duas vezes a Presidência da República. Ali, a discrição foi sua marca. Líder do Governo em 1997 e em 1998, teve participação decisiva na aprovação da Reforma Administrativa e da nova legislação da Previdência Social. Luís Eduardo deixou-nos aos 43 anos, ainda muito moço, em 21 de abril de 1998, quando se preparava para mais uma missão, para servir mais uma vez à Bahia. Seu prematuro desaparecido comoveu o País, deixando mais pobre a vida política brasileira."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0235::Saúde",
+   "unit_id": "S0235",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Antonio Carlos Magalhães",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "Hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1850,
+     "fim_corpo": 2912,
+     "trecho": "No dia seguinte, seguimos, ambos calados, em um avião especial para o enterro. Lá, a sua fisionomia era de uma tristeza profunda e, mais do que isso, temia-se que ele pudesse ter qualquer problema, tal o sentimento que nutria por Sérgio Motta, apesar de divergências em muitos aspectos. À hora do enterro, recordo-me que o Presidente Fernando Henrique Cardoso me chamou e disse: \"Tenha cuidado, ele está muito emocionado. Luís está sofrendo muito\". Viemos para Brasília mais tarde, eu, ele e o seu fraterno amigo João Carlos Di Gênio, que sofre até hoje comigo as dores do passamento de Luís Eduardo. Talvez sejamos nós os dois maiores sofredores com seu desaparecimento. Viemos para Brasília, tomamos rumos diferentes, e, no outro dia, ele me avisava que estava passando mal. Fomos para a enfermaria da Câmara dos Deputados e, imediatamente, para o Hospital Santa Lúcia, onde passei os piores momentos da minha vida, sobretudo recordando, depois, que Luís Eduardo ficara comigo, sem sair um momento, quarenta dias no Incor para salvar a minha vida."
+    },
+    {
+     "inicio_corpo": 2278,
+     "fim_corpo": 3180,
+     "trecho": "Luís está sofrendo muito\". Viemos para Brasília mais tarde, eu, ele e o seu fraterno amigo João Carlos Di Gênio, que sofre até hoje comigo as dores do passamento de Luís Eduardo. Talvez sejamos nós os dois maiores sofredores com seu desaparecimento. Viemos para Brasília, tomamos rumos diferentes, e, no outro dia, ele me avisava que estava passando mal. Fomos para a enfermaria da Câmara dos Deputados e, imediatamente, para o Hospital Santa Lúcia, onde passei os piores momentos da minha vida, sobretudo recordando, depois, que Luís Eduardo ficara comigo, sem sair um momento, quarenta dias no Incor para salvar a minha vida. E eu ficara quatro horas com ele para vê-lo falecer. Lembro daquele dia e de imagens terríveis de sofrimento e de dor. Lembro-me dessa figura que aqui está representando o Presidente da República entrar no hospital nos momentos finais e, angustiado, amparar-me."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0236::Domicílio e arranjo familiar",
+   "unit_id": "S0236",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8144,
+     "fim_corpo": 8935,
+     "trecho": "Senador Lúcio Alcântara, tenho a convicção de que, em breve, poderíamos ter no Brasil, a partir da criação de um fundo, a possibilidade de prover todos os brasileiros do direito inalienável de participar da renda e da riqueza deste País. Isso poderá ser efetivado, um dia, de uma maneira incondicional até para que não haja qualquer diferença, qualquer tipo de dificuldade para se saber quem tem esse direito. Fico pensando na aplicação de alguns projetos que têm sido colocados em prática no Brasil. Ainda ontem, o Jornal Nacional mostrou, no interior de Sergipe, como uma pequena vila vinha procedendo uma sistemática de bolsa-escola. Numa cidade onde grande parte da população está desempregada, o sistema de bolsa-escola tem se constituído numa das formas de sobrevivência das famílias."
+    },
+    {
+     "inicio_corpo": 8645,
+     "fim_corpo": 9506,
+     "trecho": "Ainda ontem, o Jornal Nacional mostrou, no interior de Sergipe, como uma pequena vila vinha procedendo uma sistemática de bolsa-escola. Numa cidade onde grande parte da população está desempregada, o sistema de bolsa-escola tem se constituído numa das formas de sobrevivência das famílias. Diferentemente de antes, quando as crianças acompanhavam os pais ao trabalho, trabalhando também; agora, as crianças estão indo à escola. Isso foi visto como algo positivo. Preocupa-me, por exemplo, o fato de que, no Estado do Rio de Janeiro, o Governador Anthony Garotinho resolveu criar o que seria um chamado programa bolsa-escola, ou de renda mínima, ou cheque-cidadania, e distribuí-lo por meio de algumas igrejas, com algumas denominações ora evangélicas ora católicas, atribuindo a essas igrejas o direito de designar quais as famílias que têm essa possibilidade."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0236::Educação",
+   "unit_id": "S0236",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7917,
+     "fim_corpo": 8781,
+     "trecho": "Exª, dada essa responsabilidade que é de todos nós. Eu mesmo havia apresentado, no Senado Federal, um projeto que cria o Fundo Brasil de Cidadania, visando a que se destinem recursos a todas as pessoas na sociedade brasileira. Senador Lúcio Alcântara, tenho a convicção de que, em breve, poderíamos ter no Brasil, a partir da criação de um fundo, a possibilidade de prover todos os brasileiros do direito inalienável de participar da renda e da riqueza deste País. Isso poderá ser efetivado, um dia, de uma maneira incondicional até para que não haja qualquer diferença, qualquer tipo de dificuldade para se saber quem tem esse direito. Fico pensando na aplicação de alguns projetos que têm sido colocados em prática no Brasil. Ainda ontem, o Jornal Nacional mostrou, no interior de Sergipe, como uma pequena vila vinha procedendo uma sistemática de bolsa-escola."
+    },
+    {
+     "inicio_corpo": 7969,
+     "fim_corpo": 8935,
+     "trecho": "Eu mesmo havia apresentado, no Senado Federal, um projeto que cria o Fundo Brasil de Cidadania, visando a que se destinem recursos a todas as pessoas na sociedade brasileira. Senador Lúcio Alcântara, tenho a convicção de que, em breve, poderíamos ter no Brasil, a partir da criação de um fundo, a possibilidade de prover todos os brasileiros do direito inalienável de participar da renda e da riqueza deste País. Isso poderá ser efetivado, um dia, de uma maneira incondicional até para que não haja qualquer diferença, qualquer tipo de dificuldade para se saber quem tem esse direito. Fico pensando na aplicação de alguns projetos que têm sido colocados em prática no Brasil. Ainda ontem, o Jornal Nacional mostrou, no interior de Sergipe, como uma pequena vila vinha procedendo uma sistemática de bolsa-escola. Numa cidade onde grande parte da população está desempregada, o sistema de bolsa-escola tem se constituído numa das formas de sobrevivência das famílias."
+    },
+    {
+     "inicio_corpo": 8382,
+     "fim_corpo": 9073,
+     "trecho": "Isso poderá ser efetivado, um dia, de uma maneira incondicional até para que não haja qualquer diferença, qualquer tipo de dificuldade para se saber quem tem esse direito. Fico pensando na aplicação de alguns projetos que têm sido colocados em prática no Brasil. Ainda ontem, o Jornal Nacional mostrou, no interior de Sergipe, como uma pequena vila vinha procedendo uma sistemática de bolsa-escola. Numa cidade onde grande parte da população está desempregada, o sistema de bolsa-escola tem se constituído numa das formas de sobrevivência das famílias. Diferentemente de antes, quando as crianças acompanhavam os pais ao trabalho, trabalhando também; agora, as crianças estão indo à escola."
+    },
+    {
+     "inicio_corpo": 8382,
+     "fim_corpo": 9506,
+     "trecho": "Isso poderá ser efetivado, um dia, de uma maneira incondicional até para que não haja qualquer diferença, qualquer tipo de dificuldade para se saber quem tem esse direito. Fico pensando na aplicação de alguns projetos que têm sido colocados em prática no Brasil. Ainda ontem, o Jornal Nacional mostrou, no interior de Sergipe, como uma pequena vila vinha procedendo uma sistemática de bolsa-escola. Numa cidade onde grande parte da população está desempregada, o sistema de bolsa-escola tem se constituído numa das formas de sobrevivência das famílias. Diferentemente de antes, quando as crianças acompanhavam os pais ao trabalho, trabalhando também; agora, as crianças estão indo à escola. Isso foi visto como algo positivo. Preocupa-me, por exemplo, o fato de que, no Estado do Rio de Janeiro, o Governador Anthony Garotinho resolveu criar o que seria um chamado programa bolsa-escola, ou de renda mínima, ou cheque-cidadania, e distribuí-lo por meio de algumas igrejas, com algumas denominações ora evangélicas ora católicas, atribuindo a essas igrejas o direito de designar quais as famílias que têm essa possibilidade."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0236::Idade",
+   "unit_id": "S0236",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "idoso",
+     "forma_encontrada": "idos o",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2697,
+     "fim_corpo": 3491,
+     "trecho": "É fundamental que se formem parcerias entre as universidades e os institutos de pesquisa, porque só assim poderemos dar o salto tecnológico e científico que precisamos. O Brasil é um dos países em desenvolvimento que mantém há mais tempo um programa consistente de formação de recursos humanos; o nosso número de mestres e doutores tem aumentado. Há cerca de dez anos ou mais, estive visitando universidades na Inglaterra, e o programa brasileiro era comparado ao da Índia, um programa permanente de formação de recursos humanos em ciência e tecnologia. O que é indispensável agora é que essas pessoas formadas com recursos públicos tenham condições de desenvolver os seus projetos, as suas pesquisas aqui no Brasil e não precisem, amanhã, emigrar para os Estados Unidos ou Europa."
+    },
+    {
+     "inicio_corpo": 8144,
+     "fim_corpo": 9073,
+     "trecho": "Senador Lúcio Alcântara, tenho a convicção de que, em breve, poderíamos ter no Brasil, a partir da criação de um fundo, a possibilidade de prover todos os brasileiros do direito inalienável de participar da renda e da riqueza deste País. Isso poderá ser efetivado, um dia, de uma maneira incondicional até para que não haja qualquer diferença, qualquer tipo de dificuldade para se saber quem tem esse direito. Fico pensando na aplicação de alguns projetos que têm sido colocados em prática no Brasil. Ainda ontem, o Jornal Nacional mostrou, no interior de Sergipe, como uma pequena vila vinha procedendo uma sistemática de bolsa-escola. Numa cidade onde grande parte da população está desempregada, o sistema de bolsa-escola tem se constituído numa das formas de sobrevivência das famílias. Diferentemente de antes, quando as crianças acompanhavam os pais ao trabalho, trabalhando também; agora, as crianças estão indo à escola."
+    },
+    {
+     "inicio_corpo": 8144,
+     "fim_corpo": 9073,
+     "trecho": "Senador Lúcio Alcântara, tenho a convicção de que, em breve, poderíamos ter no Brasil, a partir da criação de um fundo, a possibilidade de prover todos os brasileiros do direito inalienável de participar da renda e da riqueza deste País. Isso poderá ser efetivado, um dia, de uma maneira incondicional até para que não haja qualquer diferença, qualquer tipo de dificuldade para se saber quem tem esse direito. Fico pensando na aplicação de alguns projetos que têm sido colocados em prática no Brasil. Ainda ontem, o Jornal Nacional mostrou, no interior de Sergipe, como uma pequena vila vinha procedendo uma sistemática de bolsa-escola. Numa cidade onde grande parte da população está desempregada, o sistema de bolsa-escola tem se constituído numa das formas de sobrevivência das famílias. Diferentemente de antes, quando as crianças acompanhavam os pais ao trabalho, trabalhando também; agora, as crianças estão indo à escola."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0236::Macrorregião",
+   "unit_id": "S0236",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2866,
+     "fim_corpo": 3776,
+     "trecho": "O Brasil é um dos países em desenvolvimento que mantém há mais tempo um programa consistente de formação de recursos humanos; o nosso número de mestres e doutores tem aumentado. Há cerca de dez anos ou mais, estive visitando universidades na Inglaterra, e o programa brasileiro era comparado ao da Índia, um programa permanente de formação de recursos humanos em ciência e tecnologia. O que é indispensável agora é que essas pessoas formadas com recursos públicos tenham condições de desenvolver os seus projetos, as suas pesquisas aqui no Brasil e não precisem, amanhã, emigrar para os Estados Unidos ou Europa. O segundo ponto que precisamos levar em conta é a necessidade de fortalecer programas e instituições regionais de pesquisa em ciência e tecnologia, porque a formação completamente desigual de recursos humanos contribui para aumentar o fosso entre o Norte e Nordeste e o Sul e Sudeste."
+    },
+    {
+     "inicio_corpo": 2866,
+     "fim_corpo": 3776,
+     "trecho": "O Brasil é um dos países em desenvolvimento que mantém há mais tempo um programa consistente de formação de recursos humanos; o nosso número de mestres e doutores tem aumentado. Há cerca de dez anos ou mais, estive visitando universidades na Inglaterra, e o programa brasileiro era comparado ao da Índia, um programa permanente de formação de recursos humanos em ciência e tecnologia. O que é indispensável agora é que essas pessoas formadas com recursos públicos tenham condições de desenvolver os seus projetos, as suas pesquisas aqui no Brasil e não precisem, amanhã, emigrar para os Estados Unidos ou Europa. O segundo ponto que precisamos levar em conta é a necessidade de fortalecer programas e instituições regionais de pesquisa em ciência e tecnologia, porque a formação completamente desigual de recursos humanos contribui para aumentar o fosso entre o Norte e Nordeste e o Sul e Sudeste."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0236::Posição no trabalho",
+   "unit_id": "S0236",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-25",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "Trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8781,
+     "fim_corpo": 9668,
+     "trecho": "Numa cidade onde grande parte da população está desempregada, o sistema de bolsa-escola tem se constituído numa das formas de sobrevivência das famílias. Diferentemente de antes, quando as crianças acompanhavam os pais ao trabalho, trabalhando também; agora, as crianças estão indo à escola. Isso foi visto como algo positivo. Preocupa-me, por exemplo, o fato de que, no Estado do Rio de Janeiro, o Governador Anthony Garotinho resolveu criar o que seria um chamado programa bolsa-escola, ou de renda mínima, ou cheque-cidadania, e distribuí-lo por meio de algumas igrejas, com algumas denominações ora evangélicas ora católicas, atribuindo a essas igrejas o direito de designar quais as famílias que têm essa possibilidade. Daí já se noticiou hoje que um dos pastores responsáveis, que antes pertencia ao Partido dos Trabalhadores, e que agora deixou o PT, estava misturando as coisas."
+    }
+   ]
+  }
+ ]
+}

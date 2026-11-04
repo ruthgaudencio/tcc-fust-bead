@@ -1,0 +1,942 @@
+{
+ "caso": "BEAD",
+ "lote": 3,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0010::Educação",
+   "unit_id": "W0010",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Marcelo Claure",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1931,
+     "fim_corpo": 2866,
+     "trecho": "Sprint 2 is currently in the fifth and final year of its “Sprint Now” plan to turn around the company. We made difficult but necessary changes that have enabled us to cut billions of dollars in costs, improve our networks, and do better at attracting and retaining subscribers. In 2017, Sprint became net income positive for the first time in 11 years, and we achieved positive metrics across several other financial performance measures. Today, we are a more stable company financially than we have been in a very long time, and that financial stability has enabled us to embark on new, much- needed investments in our network aimed at trying to ca tch up with technological innovation in our industry. We have also been able to undertake initiatives such as the 1Million Project, which gives mobile devices and free high -speed internet access to high school students who don’t have reliable connectivity at home."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0010::Escolaridade e letramento",
+   "unit_id": "W0010",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Marcelo Claure",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1931,
+     "fim_corpo": 2866,
+     "trecho": "Sprint 2 is currently in the fifth and final year of its “Sprint Now” plan to turn around the company. We made difficult but necessary changes that have enabled us to cut billions of dollars in costs, improve our networks, and do better at attracting and retaining subscribers. In 2017, Sprint became net income positive for the first time in 11 years, and we achieved positive metrics across several other financial performance measures. Today, we are a more stable company financially than we have been in a very long time, and that financial stability has enabled us to embark on new, much- needed investments in our network aimed at trying to ca tch up with technological innovation in our industry. We have also been able to undertake initiatives such as the 1Million Project, which gives mobile devices and free high -speed internet access to high school students who don’t have reliable connectivity at home."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0010::Infraestrutura e porte populacional",
+   "unit_id": "W0010",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Marcelo Claure",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9707,
+     "fim_corpo": 10611,
+     "trecho": "jobs directly and indirectly. It is important to understand that the promise of 5G lies not just in better and faster performance from mobile devices. The New T -Mobile will have the speed and capacity to substitute in many areas for in -home broadband—that is, the primary high -speed internet connection consumers use at home —including in areas that currently have few or no options for reliable in-home broadband, finally creating real competition in these areas. As a result, the new technology will enable the combined company to increase broadband coverage into more rural 6 areas, along with improved signal quality and increased network capacity in places where neither company can profitably do so on its own. In short, the New T -Mobile will generate significantly improved and expanded services to unserved and underserved rural areas and create real choice for consumers."
+    },
+    {
+     "inicio_corpo": 9707,
+     "fim_corpo": 10611,
+     "trecho": "jobs directly and indirectly. It is important to understand that the promise of 5G lies not just in better and faster performance from mobile devices. The New T -Mobile will have the speed and capacity to substitute in many areas for in -home broadband—that is, the primary high -speed internet connection consumers use at home —including in areas that currently have few or no options for reliable in-home broadband, finally creating real competition in these areas. As a result, the new technology will enable the combined company to increase broadband coverage into more rural 6 areas, along with improved signal quality and increased network capacity in places where neither company can profitably do so on its own. In short, the New T -Mobile will generate significantly improved and expanded services to unserved and underserved rural areas and create real choice for consumers."
+    },
+    {
+     "inicio_corpo": 22902,
+     "fim_corpo": 23604,
+     "trecho": "But by adding Sprint’s 2.5 GHz spectrum to T - Mobile’s current spectrum portfolio, the New T-Mobile will be able to reach more rural customers and to provide rural customers with mobile and in- home broadband service at greater speeds and more consistent signal levels. The more favorable economics are not limited to wireless telephony. The new combined 5G network will have the speeds and capacit y to effectively compete with in-home broadband in many areas. Rural consumers typically have only one or at most two choices for in- home broadband today. The New T-Mobile would provide another option and inject competition for the benefit of these relatively underserved rural customers."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0010::Posição no trabalho",
+   "unit_id": "W0010",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Marcelo Claure",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6618,
+     "fim_corpo": 7327,
+     "trecho": "That is what makes me so excited about this merger. Through this transaction, the combined company will be able to build a transformative 5G network in America and unlock the promise of 5G faster and for more customers than either company could on a standalone basis. America and the world are racing to be the first to create the next generation of wireless technology, and the advantages of being a first mover cannot be overstated. As you will hear today, this merger will allow the combined company to dramatically accelerate the promise of nationwide 5G in the United States, deliver better performance and value to our customers, and create new jobs and opportunities for American workers."
+    },
+    {
+     "inicio_corpo": 24187,
+     "fim_corpo": 24958,
+     "trecho": "The transaction will give these customers more and better options. AT&T and Verizon have long prided themselves, and promoted themselves, as having the best net work quality. With the New T-Mobile offering an unrivaled network experience, Verizon and AT&T will be forced to compete harder and invest more —and sooner —than they would absent the competitive spur of this transaction. Their increased investment will le ad to more competition, better service, and more jobs, all to the benefit of American consumers. 13 I thank the Subcommittee again for giving me the opportunity to share my perspective, and Sprint’s perspective, on what will be a procompetitive merger that w ill benefit American consumers, American workers, and the American economy."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0010::Renda e classe",
+   "unit_id": "W0010",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Marcelo Claure",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low income",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low income",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 15770,
+     "fim_corpo": 16588,
+     "trecho": "III. What the Transaction Means for Americans Simply put, this transaction will bring benefits all across the country—in urban, suburban, and rural America. The combined company will deliver a far superior network, delivering tremendous value to consumers. Together, the New T -Mobile can supercharge the wireless industry with innovation, disruption, and an obsessive dedication to our customers. These benefits will be felt in several areas: 4G LTE. In the near term, the combined company will offer better 4G LTE services. The combined network will be anchored on the existing T -Mobile 4G LTE network and augmented with contributions from Sprint’s network to improve coverage, consistency, speed, and capacity, with low income, black, and Hispanic customers among those who would benefit the most."
+    },
+    {
+     "inicio_corpo": 18972,
+     "fim_corpo": 19769,
+     "trecho": "Lower Prices and Cost Savings. As we have shown in the analyses we have submitted in support of the merger to DOJ, the FCC, and state regulators, the New T-Mobile will have powerful incentives to offer low prices to consumers in order to utilize the huge increase in network capacity that the transaction will make possible. The vision that John and Mike have for the New T-Mobile is that of a “supercharged maverick,” with the scale and resources to make a significant impact on the wireless marketplace for the better. This means the combined company will continuously look for ways to offer more for less, so it can grow its subscriber base and improve value propositi ons for American consumers. Critically, low income consumers will particularly benefit from these developments."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0010::Urbano e rural",
+   "unit_id": "W0010",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Marcelo Claure",
+   "n_ocorrencias_no_par": 10,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 4,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9707,
+     "fim_corpo": 10443,
+     "trecho": "jobs directly and indirectly. It is important to understand that the promise of 5G lies not just in better and faster performance from mobile devices. The New T -Mobile will have the speed and capacity to substitute in many areas for in -home broadband—that is, the primary high -speed internet connection consumers use at home —including in areas that currently have few or no options for reliable in-home broadband, finally creating real competition in these areas. As a result, the new technology will enable the combined company to increase broadband coverage into more rural 6 areas, along with improved signal quality and increased network capacity in places where neither company can profitably do so on its own."
+    },
+    {
+     "inicio_corpo": 9707,
+     "fim_corpo": 10611,
+     "trecho": "jobs directly and indirectly. It is important to understand that the promise of 5G lies not just in better and faster performance from mobile devices. The New T -Mobile will have the speed and capacity to substitute in many areas for in -home broadband—that is, the primary high -speed internet connection consumers use at home —including in areas that currently have few or no options for reliable in-home broadband, finally creating real competition in these areas. As a result, the new technology will enable the combined company to increase broadband coverage into more rural 6 areas, along with improved signal quality and increased network capacity in places where neither company can profitably do so on its own. In short, the New T -Mobile will generate significantly improved and expanded services to unserved and underserved rural areas and create real choice for consumers."
+    },
+    {
+     "inicio_corpo": 15085,
+     "fim_corpo": 15931,
+     "trecho": "This will be exciting for all the New T-Mobile employees. And as a prospective member of the Board of Directors of the New T-Mobile, I am eager to be part of the combined company and help realize that vision. Finally, it is important to appreciate that in addition to AT&T and Verizon, the wireless industry is increasingly seeing competition from a growing number of companies from other sectors with different business models, including Comcast, Charter, DISH, TracFone, and Google. These large, well -capitalized competitors are pushing into wireless because, just as we do, they see untapped potential for success if they are able to deliver better results to customers. III. What the Transaction Means for Americans Simply put, this transaction will bring benefits all across the country—in urban, suburban, and rural America."
+    },
+    {
+     "inicio_corpo": 21467,
+     "fim_corpo": 22313,
+     "trecho": "Impact on Prepaid Customers. Sprint has long been proud to offer prepaid plans, and it is important to emphasize that the New T -Mobile’s prepaid customers —as with its postpaid customers—will see significant benefits as a result of this transaction. As we have ex plained in our public filings, following the merger, prepaid customers with compatible handsets will enjoy the same improved network as postpaid customers, and perhaps more so, since many prepaid customers use more data than those on postpaid plans. This improved service also will not come with higher prices. The New T -Mobile will be incentivized to deliver more for the same or less due to having substantially more capacity and lower costs —and will face continued and likely intensified competition from Verizon, AT&T, and others. Impact on Rural Customers."
+    },
+    {
+     "inicio_corpo": 21724,
+     "fim_corpo": 22598,
+     "trecho": "As we have ex plained in our public filings, following the merger, prepaid customers with compatible handsets will enjoy the same improved network as postpaid customers, and perhaps more so, since many prepaid customers use more data than those on postpaid plans. This improved service also will not come with higher prices. The New T -Mobile will be incentivized to deliver more for the same or less due to having substantially more capacity and lower costs —and will face continued and likely intensified competition from Verizon, AT&T, and others. Impact on Rural Customers. A key benefit of the transaction, particularly for Sprint subscribers, will be the dramatic increase in rural 5G coverage due to the combined company’s 600 MHz spectrum and the strong incentives to add c ustomers created by the enormous capacity of the combined company’s network."
+    },
+    {
+     "inicio_corpo": 21992,
+     "fim_corpo": 22902,
+     "trecho": "This improved service also will not come with higher prices. The New T -Mobile will be incentivized to deliver more for the same or less due to having substantially more capacity and lower costs —and will face continued and likely intensified competition from Verizon, AT&T, and others. Impact on Rural Customers. A key benefit of the transaction, particularly for Sprint subscribers, will be the dramatic increase in rural 5G coverage due to the combined company’s 600 MHz spectrum and the strong incentives to add c ustomers created by the enormous capacity of the combined company’s network. Because of the current geographic footprint of Sprint’s network, our customers are too often forced to rely on roaming agreements for service coverage 12 in rural areas where they c annot access our network, which are often extremely expensive and often lead to an inferior customer experience."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0011::Idade",
+   "unit_id": "W0011",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Phillip Berenbroick",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 96,
+     "trecho": "Testimony of Phillip Berenbroick Senior Policy Counsel Public Knowledge Before the U.S."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0011::Infraestrutura e porte populacional",
+   "unit_id": "W0011",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Phillip Berenbroick",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 21994,
+     "fim_corpo": 22773,
+     "trecho": "IV. The Supposed Benefits of this Merger to 5G Deployment, Especially in Rural Areas, are Misleading, Non-Merger Specific, or Speculative and Non-Verifiable. Perhaps the biggest misdirection put forward by T-Mobile and Sprint is their attempt to tie this merger to 5G rollout. This is a standard move in the anticompetitive playbook, of course—AT&T, for instance, once claimed that it would not be able to quickly achieve nationwide LTE deployment without acquiring T- Mobile. That merger was blocked and LTE was rolled out even faster than predicted. Similarly, here, there is no reason to think that this merger would result in faster 5G deployment, especially not in areas, such as rural parts of the country, that are already underserved by wireless carriers."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0011::Macrorregião",
+   "unit_id": "W0011",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Phillip Berenbroick",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5962,
+     "fim_corpo": 6864,
+     "trecho": "11-65, Bureau Staff Analysis & Findings, Appendix C – Economic Analysis (November 29, 2011), https://docs.fcc.gov/public/attachments/DA-11-1955A2.pdf. (“AT&T/T-Mobile FCC Staff Report”). 4 Roger Entner, Industry Voices—Entner: Putting some context behind the T-Mobile, Sprint merger, FierceWireless, Apr. 30, 2018, https://www.fiercewireless.com/wireless/industry -voices-entner- putting- some-context-behind-t-mobile-sprint-merger. 5 DISH Petition. 3 Postpaid: The HHI of the postpaid segment is currently highly concentrated, at 3,282. A merger between Sprint and T-Mobile would raise it to 3,562, an increase of 280 points. Prepaid: The HHI of the prepaid segment is currently just under the highly concentrated threshold, at 2,467. A merger between Sprint and T-Mobile would bring this well into “highly concentrated” territory at 4,481, an increase of a whopping 2,014 points."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0011::Posição no trabalho",
+   "unit_id": "W0011",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Phillip Berenbroick",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "Workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "Workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 27514,
+     "fim_corpo": 28581,
+     "trecho": "In all likelihood, the merged company would focus on the same high-value markets that they do today. V. This Merger Would Destroy Jobs and Lower Wages This merger would destroy American jobs. The CWA estimates that the transaction could result in a loss of over 30,000 jobs in the United States.29 MoffetNathanson more conservatively estimates a loss of 20,000 jobs.30 Either figure is far too high for a merger that provides no public benefits. Neither would the labor effects of this merger be limited to direct job losses—further concentration in the wireless market would lead to lower wages across the industry. The Roosevelt Institute and the Economic Policy Institute have concluded that “For the 50 most-affected labor markets,” this merger would cause “a decline in annual earnings of between $520 and $3276 on average” for affected workers.31 These labor effects would be concentrated on lower-wage workers across the country, who can afford it least, and provide a sufficient basis on their own for policymakers to oppose this deal."
+    },
+    {
+     "inicio_corpo": 27616,
+     "fim_corpo": 28581,
+     "trecho": "V. This Merger Would Destroy Jobs and Lower Wages This merger would destroy American jobs. The CWA estimates that the transaction could result in a loss of over 30,000 jobs in the United States.29 MoffetNathanson more conservatively estimates a loss of 20,000 jobs.30 Either figure is far too high for a merger that provides no public benefits. Neither would the labor effects of this merger be limited to direct job losses—further concentration in the wireless market would lead to lower wages across the industry. The Roosevelt Institute and the Economic Policy Institute have concluded that “For the 50 most-affected labor markets,” this merger would cause “a decline in annual earnings of between $520 and $3276 on average” for affected workers.31 These labor effects would be concentrated on lower-wage workers across the country, who can afford it least, and provide a sufficient basis on their own for policymakers to oppose this deal."
+    },
+    {
+     "inicio_corpo": 28730,
+     "fim_corpo": 29811,
+     "trecho": "The kinds of conditions that regulators sometimes impose “take two basic forms: one addresses the structure of the market, the other the conduct of the merged firm. Structural remedies generally will involve the sale of physical assets by the merging firms.”32 When available, structural remedies such as the sale of property, lines of business, geographic markets, or subsidiaries can be effective. But they are simply unavailable here—the basic logic of this merger is the combination of Sprint and T-Mobile’s nationwide networks and businesses. The anticompetitive aspects of this deal cannot be separated out, and no realistic divestiture plan that addresses the competitive harms has even been proposed. 29 CWA Calls on Sprint and T-Mobile to Make Binding Commitments to Address Potential Job Loss and Respect Workers’ Rights, Communications Workers of America (June 26, 2018), https://www.cwaunion.org/news/releases/cwa-calls-on-sprint-and-t-mobile-make-binding- commitments-address-potentialjob-loss."
+    },
+    {
+     "inicio_corpo": 28900,
+     "fim_corpo": 29811,
+     "trecho": "Structural remedies generally will involve the sale of physical assets by the merging firms.”32 When available, structural remedies such as the sale of property, lines of business, geographic markets, or subsidiaries can be effective. But they are simply unavailable here—the basic logic of this merger is the combination of Sprint and T-Mobile’s nationwide networks and businesses. The anticompetitive aspects of this deal cannot be separated out, and no realistic divestiture plan that addresses the competitive harms has even been proposed. 29 CWA Calls on Sprint and T-Mobile to Make Binding Commitments to Address Potential Job Loss and Respect Workers’ Rights, Communications Workers of America (June 26, 2018), https://www.cwaunion.org/news/releases/cwa-calls-on-sprint-and-t-mobile-make-binding- commitments-address-potentialjob-loss."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0011::Renda e classe",
+   "unit_id": "W0011",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Phillip Berenbroick",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 496,
+     "fim_corpo": 1423,
+     "trecho": "Since the transaction was announced in April 2018, T-Mobile and Sprint have had numerous opportunities to demonstrate to antitrust enforcers, regulators, policymakers, and the public that this 4-to-3 merger would not violate competition laws, would affirmatively serve the public interest, and that the substantial reduction in competition it would cause is somehow offset by other public interest benefits. They have failed to make the case. The evidence Sprint and T-Mobile have presented shows that permitting the companies to merge and consolidating the wireless market down to only three national carriers would result in higher prices for consumers – inflicting significant harm on low-income, prepaid, and rural consumers; while also leading to tens of thousands of lost jobs; harming small and rural wireless providers; and eliminating avenues for potential new competitors to enter the wireless market."
+    },
+    {
+     "inicio_corpo": 2818,
+     "fim_corpo": 3915,
+     "trecho": "Additionally, the market power and incentives of the three remaining firms – New T-Mobile, Verizon Wireless, and AT&T – is likely to lead to tacit coordination or parallel behavior – and would lead to up to an additional 21% price increases.1 1 Petition to Deny of DISH Network Corporation, WT Docket No. 18-197 (filed Aug. 27, 2018), https://ecfsapi.fcc.gov/file/108271088719800/REDACTED%20DISH%20PTD%20Sprint%20TMO% 208-27-18.pdf (“DISH Petition”). 2 While the companies unsurprisingly arrive at lower figures, even T-Mobile’s own economic studies also show that this merger would lead to higher prices. T-Mobile contends that low-income consumers, who are more likely to be dependent on their smartphone for basic communications and access to information, will be willing to pay these higher prices; the subtext is that consumers will pay higher prices because the merger will eliminate lower-priced options in the marketplace.2 Evidence that a planned merger will lead to higher prices for consumers is often fatal."
+    },
+    {
+     "inicio_corpo": 18628,
+     "fim_corpo": 19315,
+     "trecho": "In past years Sprint has made various business and technology decisions which did not work as planned and which caused it to fall behind its competitors. But despite various attempts by the companies to insinuate that Sprint is a “failing firm,” it is anything but. It is a successful company with many paths to competing more successfully against its three major competitors. It is not necessary to destroy competition to save Sprint. III. The Effects of This Merger Would Fall Especially Hard on Lower- Income and Prepaid Customers The proposed transaction would harm the prepaid and wholesale mobile wireless markets, which are critical for serving low-income consumers."
+    },
+    {
+     "inicio_corpo": 20939,
+     "fim_corpo": 21994,
+     "trecho": "The merger would substantially reduce competition in the wholesale market by raising the cost of capacity access to low-cost resellers. As a result, post-merger, MVNOs are likely to increase the prices that consumers pay to account for the higher wholesale prices a combined Sprint/T-Mobile is likely to charge. Further, Sprint is the main facilities-based provider that participates in the Lifeline program. T-Mobile does not participate in Lifeline. The transaction would potentially eliminate Sprint as a Lifeline participant. Elimination of competition in the prepaid and wholesale markets will have a disproportionate impact on low- income and marginalized communities. As the Commission has acknowledged, the prepaid market offers more affordable prices in order to serve low-income consumers who may not have the income or credit background to qualify for postpaid service.23 The lack of competition in these markets would displace millions of low-income consumers who rely on prepaid services and further widen the digital divide."
+    },
+    {
+     "inicio_corpo": 21076,
+     "fim_corpo": 21994,
+     "trecho": "As a result, post-merger, MVNOs are likely to increase the prices that consumers pay to account for the higher wholesale prices a combined Sprint/T-Mobile is likely to charge. Further, Sprint is the main facilities-based provider that participates in the Lifeline program. T-Mobile does not participate in Lifeline. The transaction would potentially eliminate Sprint as a Lifeline participant. Elimination of competition in the prepaid and wholesale markets will have a disproportionate impact on low- income and marginalized communities. As the Commission has acknowledged, the prepaid market offers more affordable prices in order to serve low-income consumers who may not have the income or credit background to qualify for postpaid service.23 The lack of competition in these markets would displace millions of low-income consumers who rely on prepaid services and further widen the digital divide."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0011::Urbano e rural",
+   "unit_id": "W0011",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Phillip Berenbroick",
+   "n_ocorrencias_no_par": 9,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 3,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "Rural Areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 496,
+     "fim_corpo": 1423,
+     "trecho": "Since the transaction was announced in April 2018, T-Mobile and Sprint have had numerous opportunities to demonstrate to antitrust enforcers, regulators, policymakers, and the public that this 4-to-3 merger would not violate competition laws, would affirmatively serve the public interest, and that the substantial reduction in competition it would cause is somehow offset by other public interest benefits. They have failed to make the case. The evidence Sprint and T-Mobile have presented shows that permitting the companies to merge and consolidating the wireless market down to only three national carriers would result in higher prices for consumers – inflicting significant harm on low-income, prepaid, and rural consumers; while also leading to tens of thousands of lost jobs; harming small and rural wireless providers; and eliminating avenues for potential new competitors to enter the wireless market."
+    },
+    {
+     "inicio_corpo": 496,
+     "fim_corpo": 1423,
+     "trecho": "Since the transaction was announced in April 2018, T-Mobile and Sprint have had numerous opportunities to demonstrate to antitrust enforcers, regulators, policymakers, and the public that this 4-to-3 merger would not violate competition laws, would affirmatively serve the public interest, and that the substantial reduction in competition it would cause is somehow offset by other public interest benefits. They have failed to make the case. The evidence Sprint and T-Mobile have presented shows that permitting the companies to merge and consolidating the wireless market down to only three national carriers would result in higher prices for consumers – inflicting significant harm on low-income, prepaid, and rural consumers; while also leading to tens of thousands of lost jobs; harming small and rural wireless providers; and eliminating avenues for potential new competitors to enter the wireless market."
+    },
+    {
+     "inicio_corpo": 21255,
+     "fim_corpo": 22157,
+     "trecho": "Further, Sprint is the main facilities-based provider that participates in the Lifeline program. T-Mobile does not participate in Lifeline. The transaction would potentially eliminate Sprint as a Lifeline participant. Elimination of competition in the prepaid and wholesale markets will have a disproportionate impact on low- income and marginalized communities. As the Commission has acknowledged, the prepaid market offers more affordable prices in order to serve low-income consumers who may not have the income or credit background to qualify for postpaid service.23 The lack of competition in these markets would displace millions of low-income consumers who rely on prepaid services and further widen the digital divide. IV. The Supposed Benefits of this Merger to 5G Deployment, Especially in Rural Areas, are Misleading, Non-Merger Specific, or Speculative and Non-Verifiable."
+    },
+    {
+     "inicio_corpo": 21994,
+     "fim_corpo": 22773,
+     "trecho": "IV. The Supposed Benefits of this Merger to 5G Deployment, Especially in Rural Areas, are Misleading, Non-Merger Specific, or Speculative and Non-Verifiable. Perhaps the biggest misdirection put forward by T-Mobile and Sprint is their attempt to tie this merger to 5G rollout. This is a standard move in the anticompetitive playbook, of course—AT&T, for instance, once claimed that it would not be able to quickly achieve nationwide LTE deployment without acquiring T- Mobile. That merger was blocked and LTE was rolled out even faster than predicted. Similarly, here, there is no reason to think that this merger would result in faster 5G deployment, especially not in areas, such as rural parts of the country, that are already underserved by wireless carriers."
+    },
+    {
+     "inicio_corpo": 23806,
+     "fim_corpo": 24654,
+     "trecho": "24 Mike Dano, Sprint promises to launch nationwide mobile 5G network in first half of 2019 , Light Reading (Feb 2, 2018), https://www.fiercewireless.com/5g/sprint-promises-to-launch-nationwide- mobile-5g-network-first-half-2019-and-to-raise-unlimited. 9 deploy nationwide 5G.25 Even after the merger announcement both companies have stuck to their existing plans to roll out 5G by 2019 or 2020. T-Mobile has stated that “T-Mobile is already well on their [sic] way to delivering nationwide 5G in 2020,”26 and Sprint has said that “[i]n the first half of 2019 Sprint plans to launch its mobile 5G network in nine of some of the largest cities in the country[.]”27 This merger is not necessary for either company to upgrade to 5G. T-Mobile and Sprint’s argument that rural Americans will benefit from the transaction is unsupported."
+    },
+    {
+     "inicio_corpo": 24061,
+     "fim_corpo": 24893,
+     "trecho": "9 deploy nationwide 5G.25 Even after the merger announcement both companies have stuck to their existing plans to roll out 5G by 2019 or 2020. T-Mobile has stated that “T-Mobile is already well on their [sic] way to delivering nationwide 5G in 2020,”26 and Sprint has said that “[i]n the first half of 2019 Sprint plans to launch its mobile 5G network in nine of some of the largest cities in the country[.]”27 This merger is not necessary for either company to upgrade to 5G. T-Mobile and Sprint’s argument that rural Americans will benefit from the transaction is unsupported. If anything, the anticompetitive impact of the merger could exacerbate the divide between rural and urban areas, while creating even stronger incentives for the merged company to invest more heavily in densely- populated, wealthy areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0013::Educação",
+   "unit_id": "W0013",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Gregory Green",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1046,
+     "fim_corpo": 1857,
+     "trecho": "With 35,000 fiber miles across the Western U.S., Fatbeam delivers fiber optic broadband in 40 cities across seven states, including the states of Washington, Idaho, Montana, Wyoming, Oregon, Arizona, and Nevada, with expansion plans for New Mexico in the future. The 40 cities Fatbeam serves are third and fourth-tier markets with less than 150,000 in population. Fatbeam offers fiber optic bandwidth starting at 1 gigabit Ethernet and extending to 400 gigabit. We also offer dark fiber. Fatbeam serves a variety of customers including enterprise, healthcare providers, government and educational institutions, as well as other broadband providers through wholesale offerings. The company has an especially strong history with network provisioning for school districts through the E-rate program."
+    },
+    {
+     "inicio_corpo": 1313,
+     "fim_corpo": 1988,
+     "trecho": "The 40 cities Fatbeam serves are third and fourth-tier markets with less than 150,000 in population. Fatbeam offers fiber optic bandwidth starting at 1 gigabit Ethernet and extending to 400 gigabit. We also offer dark fiber. Fatbeam serves a variety of customers including enterprise, healthcare providers, government and educational institutions, as well as other broadband providers through wholesale offerings. The company has an especially strong history with network provisioning for school districts through the E-rate program. Over the last three years, Fatbeam has partnered to delivery over 90 miles of newly constructed fiber-optic network for schools."
+    },
+    {
+     "inicio_corpo": 1313,
+     "fim_corpo": 2203,
+     "trecho": "The 40 cities Fatbeam serves are third and fourth-tier markets with less than 150,000 in population. Fatbeam offers fiber optic bandwidth starting at 1 gigabit Ethernet and extending to 400 gigabit. We also offer dark fiber. Fatbeam serves a variety of customers including enterprise, healthcare providers, government and educational institutions, as well as other broadband providers through wholesale offerings. The company has an especially strong history with network provisioning for school districts through the E-rate program. Over the last three years, Fatbeam has partnered to delivery over 90 miles of newly constructed fiber-optic network for schools. The resulting fiber optic networks have afforded school districts access to nearly ten times their previous bandwidth and has resulted in a decrease in cost per megabyte of more than 20%, saving taxpayers money."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0013::Idade",
+   "unit_id": "W0013",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Gregory Green",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7483,
+     "fim_corpo": 8591,
+     "trecho": "Indeed, I’ve been surprised by the denigration of that part of the Act which for me affords the protections that have helped me build Fatbeam and my prior ventures so that we can compete and offer customers an alternative to the incumbent. It imposes strong prohibitions on anti-competitive behavior and offers strong pro-consumer, pro-competition incentives. I understand that the Save the Internet Act would encapsulate all of the 2015 protections in the Communications Act, including requiring all ISPs to offer just and reasonable, non-discriminatory service so that their customers can access the online content, applications and services of their choice. Fatbeam supports this approach. It would end the long debate about which protections apply. As a businessman I can assure you that the entire ISP industry is looking for certainty. Fatbeam encourages you to pass enduring open internet legislation. The Save the Internet Act accomplishes that goal, and I urge you to support it. 6 Thank you for the opportunity to testify, and I am happy to answer any questions you may have."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0013::Urbano e rural",
+   "unit_id": "W0013",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Gregory Green",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 585,
+     "trecho": "1 Written Testimony of Gregory Green Co-Founder and CEO Fatbeam Before the U.S. House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology Regarding “Legislating to Safeguard the Free and Open Internet” March 12, 2019 2 Chairman Doyle, Ranking Member Latta, and members of the subcommittee, thank you for inviting me to testify. I am Gregory Green, Co-Founder and CEO of Fatbeam. Fatbeam is a small Internet Service Provider (ISP) serving rural America."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 908,
+     "trecho": "1 Written Testimony of Gregory Green Co-Founder and CEO Fatbeam Before the U.S. House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology Regarding “Legislating to Safeguard the Free and Open Internet” March 12, 2019 2 Chairman Doyle, Ranking Member Latta, and members of the subcommittee, thank you for inviting me to testify. I am Gregory Green, Co-Founder and CEO of Fatbeam. Fatbeam is a small Internet Service Provider (ISP) serving rural America. Fatbeam has long supported net neutrality because it is driving a streaming and cloud revolution, as well as transforming industries across the economy. In turn, the demand for online services and applications is driving the market for deploying more fiber optic broadband networks and growing local rural economies."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0014::Educação",
+   "unit_id": "W0014",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Matthew Wood",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7042,
+     "fim_corpo": 8022,
+     "trecho": "4 Questingforabipartisanbillshouldmeanlisteningtotheoutpouringofsupport forthe2015​OpenInternetOrder​fromvotersacrossthepoliticalspectrum.The CongressionalReviewAct(“CRA”)efforttoreinstateitpassedtheSenateonabipartisan basisinMay2018,butwasdeniedavoteintheHousedespitesupportfrommorethan 180Members.SupportersoftheSavetheInternetActrealizethat​bipartisanshipdoesnot meaninadequatecompromises,drivenbyexaggeratedindustryclaimsofharm,allwhile thosesameindustriestellthetruthtotheirinvestors.Bipartisanshipmeansdoingtheright thing, especially when backed by overwhelming majorities in both parties. 3​UniversityofMaryland,SchoolforPublicPolicy,“OverwhelmingBipartisanPublicOppositionto RepealingNetNeutralityPersists”(Apr.18,2018),​http://www.publicconsultation.org /united-states/overwhelming-bipartisan-public-opposition-to-repealing-net-neutrality-persists/​."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0014::Infraestrutura e porte populacional",
+   "unit_id": "W0014",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Matthew Wood",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 44762,
+     "fim_corpo": 46209,
+     "trecho": "25​SeeS.DerekTurner,FreePress“TaleTalesandTitleII,”(Feb.15,2019), https://www.freepress.net/our-response/expert-analysis/insights-opinions/tall-tales-and-title-ii​.Thepost links to EOT’s joint press release with Huawei, contemporaneous news stories, and additional sources. 24 ●In​March2015​,justafewdaysaftertheFCC’shistoricvotereturningtoTitleII, EOTandHuaweiputoutajointpressreleaseannouncinganew fiber-to-the-premisesdeploymentprojectthatwouldbringgigabitserviceto“over 8,000homesandbusinessesinHermistonandthesurroundingarea.”Therelease announcedinitialdeploymentinlate2015,continuinginto2016.Alocal newspaperreportthatsamedayquotedtheEOTwitnesssayingthatwiththenew build ​EOT “expects to invest $2 million” on the project​. ●EOTsubstantiallyexpandeditscablefootprintintopreviouslyunservedareas; upgraded100percentofitscablelinestohigher-capacityDOCSIS3;andmore thantripledthemarketeddownstreamspeedsofallofthesecable-modemlines from30Mbpsto100Mbps.Thisupgradeoccurredpredominantly​in2016aswell –thatis,longbeforeDonaldTrump’selection,andbeforeEOTcouldhave “started to ​hear the commitment from the [Trump] FCC to repeal Title II.” ●AsubstantialnumberofEOT’sdeploymentsandupgradesmadeduringthistime wereinareasclassifiedasruralorunpopulatedblocksasofthe2010Census​."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0014::Macrorregião",
+   "unit_id": "W0014",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Matthew Wood",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Puerto Rico",
+     "forma_encontrada": "PuertoRico",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 818,
+     "fim_corpo": 1510,
+     "trecho": "IamVicePresidentofPolicyandGeneralCounselforbothFreePressandFree PressAction,our501(c)(4)entity.I’mheretodayonbehalfof​our1.4m​illionmembers inallfiftystates,theDistrictofColumbia,andPuertoRico,whohaveconsistentlycalled forreinstatementoftheFCC’s2015​OpenInternetOrderandthestronglegalfoundation 1 onwhichitstood.ThatmeansrestoringFCCauthoritytoprotectinternetusersbothfrom currentlyidentifiedandpotentialnewformsofbroadbandproviders’discriminatoryor unreasonableconduct,aswellasstrongFCCauthoritytopromotebroadband deployment, affordability, competition, privacy, access, and public safety too."
+    },
+    {
+     "inicio_corpo": 46209,
+     "fim_corpo": 47740,
+     "trecho": "Betweentheendof2014andtheendof2016,EOTexpandeditstotalnumberof ruralblocksservedby24percent;thenumberofruralblockswhereitoffers cable-modemserviceby315percent;andthenumberofruralblockswhereit offers fiber service by 25 percent. 25 Intheend,thistrajectoryisnotsurprising,evenforaruralISPinthebriefly restoredTitleIIera.Whileinvestmentinformationishardertofindfornon-publicly tradedcompanies,we’veseenprovidersbeforetellafriendlyearattheFCCorin Congressonethingwhiletheydidanother.RightbeforetheFCCvotedtorepealtheNet Neutralityrulesin2017,fiveothersmallproviderstroopedintotellChairmanPaithey weresufferingunderTitleII.Onexaminingtheirself-reporteddata,FreePressfoundall fivewere“eithergreatlyexpandingtheirserviceterritory,expandingitsomewhatmore modestly, or deploying new technologies and faster speeds.” 26 FCCBroadbandDeploymentDatafor2017,thePaiFCC’sFirstYear,Shows Increases at the Same Pace as Before and After the 2015 Title II Vote Allofthebroadbanddeployment,coverage,speed,andcompetitiondata summarizedinourFebruarytestimonytellsaremarkablyconsistentstoryonthelevelof deploymentandcapacityupgradesduringtheperiodthatfollowedtheFCC’sadoptionof the​OpenInternetOrder​.Thereisirrefutableevidencethatbroadbandprogresscontinued unhindered by restoration of Title II and adoption of strong rules."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0014::Posição no trabalho",
+   "unit_id": "W0014",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Matthew Wood",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 49133,
+     "fim_corpo": 50031,
+     "trecho": "Twosamplecharts,updatedwith2017data,illustratethesteady(ifbynomeans sufficientineverycongressionaldistrict)paceofbroadbandimprovementsduringthis period, unaltered by continued debate over how to preserve Net Neutrality. 27 ManyLargeBroadbandProvidersDecreasedTheirInvestmentsin2017and2018, Even After the ​2017 Net Neutrality Repeal ​Vote Whenwetestifiedonthistopiclastmonth,wenotedthatmanymajorISPshad begunreportingtheir2018revenuesandinvestmentnumbers.Atthatpoint,Verizon 27 alreadyhadreportedaninvestmentdecreasefor2018whencomparedto2017.Sohad AT&T,whichannouncedthatinsteadofthetax-cutfueledjobgrowthithadpromisedit wouldbelayingoffworkers.AndComcastreportedthatcapitalexpendituresfor2018 28 likewise decreased, after double-digit growth in the years when Title II was in place."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0014::Saúde e deficiência",
+   "unit_id": "W0014",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Matthew Wood",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "disabilities",
+     "forma_encontrada": "disabilities",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "disabilities",
+     "forma_encontrada": "disabilities",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 37641,
+     "fim_corpo": 38311,
+     "trecho": "20 YetwhatthatCRAvotedidnotdoandcouldnotdowasremovetheaffirmative obligationsthatalltelecomcarriershaveunderSection222tosafeguardtheircustomers’ confidentialinformation,andnottousecustomers’proprietarynetworkinformationfor purposes other than the provision of telecom service without those individuals’ consent. WhilesomeprivacyCRAproponentstoutedremovalofthoseFCCrulesasa positivestep,internetuserstookadecidedlydifferentviewofthatvote,andtheyhaveyet to see the new comprehensive internet privacy laws promised to replace those rules. ➢Sections 225/255/251(a)(2): Ensuring disabilities access."
+    },
+    {
+     "inicio_corpo": 38251,
+     "fim_corpo": 39012,
+     "trecho": "➢Sections 225/255/251(a)(2): Ensuring disabilities access. Althoughthe​OpenInternetOrderacknowledgedthepassageofthelandmark Twenty-FirstCenturyCommunicationsandVideoAccessibilityActof2010providing newprotectionsforaccessibilityofcommunicationsservices,itdecidednonethelessto retainthreespecificsectionsorparagraphsthatprovideatleastincrementaland additionalsafeguardsforindividualswithdifferentaccessibilityneeds–alongwithmore robustFCCenforcementcapabilitiesforthisentiresuiteofrights.TheSavetheInternet Actrestoresthe​OpenInternetOrder​’sconclusionsinthisregard,reinforcingdisabilities access laws outside of Title II with these longstanding authorities in Title II as well."
+    }
+   ]
+  }
+ ]
+}

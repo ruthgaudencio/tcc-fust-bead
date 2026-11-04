@@ -1,0 +1,1183 @@
+{
+ "caso": "BEAD",
+ "lote": 48,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0202::Domicílio e arranjo familiar",
+   "unit_id": "W0202",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Meredith Attwell Baker",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6521,
+     "fim_corpo": 7392,
+     "trecho": "Wireless providers invested more than $60 billion to build out 5G in the past two years--in 2020 alone, U.S. wireless investment accounted for 20 percent of the world's total mobile capital expenditures even though the U.S. has just 4 percent of the world's population. And at a time of increasing focus on the Nation's economy, 5G will add $1.5 trillion to the U.S. GDP and 4.5 million new American jobs this decade according to the Boston Consulting Group. [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] Wireless is also bucking the inflationary trends in our Nation. While the prices of many goods and services we rely on are on the rise, wireless service and smartphones stand out as two of the things that are actually cheaper year-over-year. I'm very proud of our industry's ability to deliver next-generation services and value to American households."
+    },
+    {
+     "inicio_corpo": 7392,
+     "fim_corpo": 8215,
+     "trecho": "[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] We are now in the beginning of the 5G decade, and 5G is already proving to be a platform for stunning innovation and problem solving. Accenture recently found that 5G-related innovation will drive a 20 percent contribution towards the Nation's carbon reduction targets--the equivalent of taking 72 million cars off the road for a year. GM is using 5G to re-imagine manufacturing in the U.S. And the VA is using 5G to improve health care for our veterans. 5G home broadband is also now driving greater competition for residences and businesses. The fastest growing home broadband company is a wireless provider. Today 5G fixed wireless is available to tens of millions of homes and looking ahead 5G home broadband will reach over 200 million households by 2025."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0202::Infraestrutura e porte populacional",
+   "unit_id": "W0202",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Meredith Attwell Baker",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved locations",
+     "forma_encontrada": "underserved locations",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7780,
+     "fim_corpo": 8679,
+     "trecho": "GM is using 5G to re-imagine manufacturing in the U.S. And the VA is using 5G to improve health care for our veterans. 5G home broadband is also now driving greater competition for residences and businesses. The fastest growing home broadband company is a wireless provider. Today 5G fixed wireless is available to tens of millions of homes and looking ahead 5G home broadband will reach over 200 million households by 2025. [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] And yet even with these projections, we have more work to do. 5G goes further and faster every day. We need to keep building in New Mexico and South Dakota and across the Nation. This is about opportunity and equity. To that end, Congress has funded unprecedented sums to build out broadband to all unserved and underserved locations across the nation--and 5G home broadband will be essential to this mission."
+    },
+    {
+     "inicio_corpo": 7780,
+     "fim_corpo": 8679,
+     "trecho": "GM is using 5G to re-imagine manufacturing in the U.S. And the VA is using 5G to improve health care for our veterans. 5G home broadband is also now driving greater competition for residences and businesses. The fastest growing home broadband company is a wireless provider. Today 5G fixed wireless is available to tens of millions of homes and looking ahead 5G home broadband will reach over 200 million households by 2025. [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] And yet even with these projections, we have more work to do. 5G goes further and faster every day. We need to keep building in New Mexico and South Dakota and across the Nation. This is about opportunity and equity. To that end, Congress has funded unprecedented sums to build out broadband to all unserved and underserved locations across the nation--and 5G home broadband will be essential to this mission."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0202::Urbano e rural",
+   "unit_id": "W0202",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Meredith Attwell Baker",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9894,
+     "fim_corpo": 10877,
+     "trecho": "Together, these two auctions raised over $102 billion in winning bids, reflecting the extraordinary demand for exclusive-use, commercial full-power, mid-band spectrum. C-Band deployments launched in January of this year and overnight speeds increased substantially. The 3 GHz band will be the backbone of wireless investment over the next few years. We need more of it--and more mid-band spectrum generally--for full-power, licensed spectrum. [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]T> Contrast the C-Band and the 3.45 GHz band with the CBRS spectrum that sits between the two: CBRS spectrum sold at auction for less than a quarter the amount of C-Band based on a per-MHz-PoP basis, due primarily to far lower authorized power levels and a complicated sharing structure. CBRS requires 5x as many cell sites for coverage in suburban areas, and at least 7x as many in rural areas--significantly increasing costs, the time to deploy, and slowing 5G network buildout."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0202::Vínculo institucional",
+   "unit_id": "W0202",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Meredith Attwell Baker",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "veterans",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "veterans",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 452,
+     "fim_corpo": 1326,
+     "trecho": "We have the opportunity to drive next generation leadership in 5G and the industries of the future with a national commitment to spectrum policy built on greater licensed mid-band access. I will start with the good news. I testified before this committee in 2019 about what 5G could be. I am happy to be back today to talk about what 5G is. Most importantly, 5G is here. 5G is being deployed across our country almost twice as fast as 4G. Every year, we invest $30 billion into our Nation's infrastructure. Thanks to that investment, 5G will drive $1.5 trillion more into our economy and over 4 million new jobs. 5G will be the platform for tomorrow's innovation. Accenture found that 5G will have the impact of removing 72 million cars from the road. GM is using 5G to re-imagine manufacturing. The VA is utilizing 5G to better care for our veterans."
+    },
+    {
+     "inicio_corpo": 7098,
+     "fim_corpo": 7901,
+     "trecho": "While the prices of many goods and services we rely on are on the rise, wireless service and smartphones stand out as two of the things that are actually cheaper year-over-year. I'm very proud of our industry's ability to deliver next-generation services and value to American households. [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] We are now in the beginning of the 5G decade, and 5G is already proving to be a platform for stunning innovation and problem solving. Accenture recently found that 5G-related innovation will drive a 20 percent contribution towards the Nation's carbon reduction targets--the equivalent of taking 72 million cars off the road for a year. GM is using 5G to re-imagine manufacturing in the U.S. And the VA is using 5G to improve health care for our veterans."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0203::Domicílio e arranjo familiar",
+   "unit_id": "W0203",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Angela Siefer",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1838,
+     "fim_corpo": 2666,
+     "trecho": "Let's call the investments a success when four things happen, Government agencies integrate broadband adoption programing and device ownership into their programs. Industries who benefit from customers being online prioritize corporate giving and community partnerships. Philanthropy prioritizes digital equity in their giving because it strengthens their missions. Fourth, local digital inclusion ecosystems are so robust that when people can't get going online for any reason, they readily find the support and resources they need. That would all be success. If all that happens, it is awesome. But we still need Federal support. Long term solutions to bridging the digital divide require all hands on deck. As of December 15, 15 million households were enrolled in the Affordable Connectivity Program."
+    },
+    {
+     "inicio_corpo": 7855,
+     "fim_corpo": 8723,
+     "trecho": "We should call the investments a success when: 1. Government agencies integrate broadband adoption programming and device ownership into their programs. 2. Industries who benefit from their customers being online prioritize digital equity in their corporate giving and community partnerships. 3. Philanthropy prioritizes digital equity in their giving because it strengthens their missions. 4. Local digital inclusion ecosystems are so robust that when people can't get online for any reason, they can readily find the support and resources they need. If all of that happens, we will still need Federal support. Long- term solutions to bridge the digital divide require all hands on deck. As of December 5, over 15 million households are enrolled in the Affordable Connectivity Program."
+    },
+    {
+     "inicio_corpo": 12007,
+     "fim_corpo": 12916,
+     "trecho": "Senator Lujan. I appreciate that. That is a resounding yes. I appreciate that. Mr. Powell. Mr. Powell. Also resounding, yes. I Chair the Board of the Mayo Clinic and I can tell you the importance of telehealth in the case of a national emergency was essential. Senator Lujan. Thank you. Mr. Spalter. Mr. Spalter. Well, absolutely, yes. And that is why we really do thank you for your leadership on moving forward on the IIJA and working with our companies to ensure that all Americans can in fact be connected. Senator Lujan. Appreciate it. Ms. Siefer. Ms. Siefer. Resounding yes. Senator Lujan. Appreciate that. Another yes or no question, do Federal subsidies like the Affordable Connectivity Program, which provides $30 a month stipend toward Internet service for eligible households and $75 a month for households on tribal lands, lower barriers to broadband access?"
+    },
+    {
+     "inicio_corpo": 12007,
+     "fim_corpo": 12916,
+     "trecho": "Senator Lujan. I appreciate that. That is a resounding yes. I appreciate that. Mr. Powell. Mr. Powell. Also resounding, yes. I Chair the Board of the Mayo Clinic and I can tell you the importance of telehealth in the case of a national emergency was essential. Senator Lujan. Thank you. Mr. Spalter. Mr. Spalter. Well, absolutely, yes. And that is why we really do thank you for your leadership on moving forward on the IIJA and working with our companies to ensure that all Americans can in fact be connected. Senator Lujan. Appreciate it. Ms. Siefer. Ms. Siefer. Resounding yes. Senator Lujan. Appreciate that. Another yes or no question, do Federal subsidies like the Affordable Connectivity Program, which provides $30 a month stipend toward Internet service for eligible households and $75 a month for households on tribal lands, lower barriers to broadband access?"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0203::Escolaridade e letramento",
+   "unit_id": "W0203",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Angela Siefer",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "digital literacy",
+     "forma_encontrada": "digital literacy",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "digital literacy",
+     "forma_encontrada": "digital literacy",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2666,
+     "fim_corpo": 3545,
+     "trecho": "Given that the rules for that were just created, this is a monumental feat. We are thrilled that the FCC will soon have outreach funds going into trusted community based organizations who are already investing their own resources and raising awareness and deploying digital navigators to sit with their neighbors. But unless Congress takes action, this vital program will go away in just a few short years. Internet service providers' low cost programs are helpful, but they have participation limitations. Representing the digital equity community today, I ask you for sustained funding for the Affordable Connectivity Program. As we build networks and address broadband adoption through BEAD, we also need sustained Federal funding for the all the solutions, holistic solutions, digital navigators, digital skills training, devices, not just for students."
+    },
+    {
+     "inicio_corpo": 9087,
+     "fim_corpo": 9795,
+     "trecho": "But unless Congress takes action, this vital program will go away in just a few short years. Internet service providers' low-cost programs are helpful, but they all have participation limitations. Representing the digital equity community today, I ask you for sustained funding for the Affordable Connectivity Program. Most communities won't see affordable home Internet service anytime soon. Long-term solutions include increasing the availability of middle mile. So, I ask you for additional funding to expand middle mile networks. We also need sustained Federal funding for digital navigator programs, digital skills training, broadband adoption, and devices (not just for students)."
+    },
+    {
+     "inicio_corpo": 13345,
+     "fim_corpo": 14239,
+     "trecho": "So it is critical. Senator Lujan. Yes, I think so. Let me come back to that a little bit later. Mr. Spalter. Mr. Spalter. Absolutely, yes. While, in fact, in context, while overall inflation has increased, broadband prices have actually bucked this trend. The average consumer spends $45 a month on broadband, which is actually 14 percent less between 2021 and 2022. I would also say that it is incredibly important, and I agree with Ms. Siefer, that we have to sustain the Affordable Connectivity Program and make it permanent. Senator Lujan. So the importance of sustaining the programs. I may follow up there as well. And then, Ms. Siefer, previous question? Ms. Siefer. A resounding yes. Senator Lujan. Another yes or no, do digital equity initiatives like those funded by the Digital Equity Act for digital literacy lower barriers to broadband adoption?"
+    },
+    {
+     "inicio_corpo": 13800,
+     "fim_corpo": 14728,
+     "trecho": "Siefer, that we have to sustain the Affordable Connectivity Program and make it permanent. Senator Lujan. So the importance of sustaining the programs. I may follow up there as well. And then, Ms. Siefer, previous question? Ms. Siefer. A resounding yes. Senator Lujan. Another yes or no, do digital equity initiatives like those funded by the Digital Equity Act for digital literacy lower barriers to broadband adoption? Ms. Kimball. Ms. Sekaquaptewa. Absolutely. We are not putting in broadband just for the sake of the broadband. We are trying to change human lives and have people utilize the technology. So digital--broadband adoption is the humanistic side of this technology infrastructure project. Senator Lujan. Appreciate that. Mr. Powell. Mr. Powell. Yes. We have learned from past experiences that outreach, awareness, digital literacy, community groups are essential to success."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0203::Idade",
+   "unit_id": "W0203",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Angela Siefer",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "seniors",
+     "forma_encontrada": "seniors",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11296,
+     "fim_corpo": 12279,
+     "trecho": "Thank you, Ms. Siefer. I will now recognize members for questions, and I will start with myself. The first question that I have is to all of the panel. And it is a simple yes or no question. Does increased broadband adoption act as a multiplier for other sectors, including health care, education, employment, and commerce? Kimball. Ms. Sekaquaptewa. Absolutely. It has the ability to uplift community wellbeing across those sectors. And the internet, you know, has been in our tribal communities for a long time on our cell phones, but community use, Government using broadband to make our communities stronger with improved health care and education is what broadband is about for our work. Senator Lujan. I appreciate that. That is a resounding yes. I appreciate that. Mr. Powell. Mr. Powell. Also resounding, yes. I Chair the Board of the Mayo Clinic and I can tell you the importance of telehealth in the case of a national emergency was essential."
+    },
+    {
+     "inicio_corpo": 16496,
+     "fim_corpo": 17296,
+     "trecho": "Mr. Spalter. Yes, I do. I would argue, however, that it is wired based infrastructure that is going to be actually able to allow us to achieve our goal of a fully and finally connected nation. And we should focus our resources and our funding programs accordingly. Senator Lujan. And Mr. Spalter, yes or no, do some of your members maintain data caps or data throttling on their consumer broadband offerings? Mr. Spalter. These are--certain of our members actually do provide a range of different options to their consumers, including lower priced options that would include a data cap. This is an option that is potentially very accessible to and important to certain of our consumers, and particularly, for example, seniors who might want to choose a lower price option."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0203::Infraestrutura e porte populacional",
+   "unit_id": "W0203",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Angela Siefer",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 17296,
+     "fim_corpo": 18165,
+     "trecho": "Senator Lujan. I appreciate that. And my time is up. Mr. Powell, I have the same question for you, so if time allows later, I will come back and ask a similar question as well. I will now recognize Mr. Thune for his questions. Senator Thune. Thank you, Mr. Chairman. Let me start by saying I have concerns about, as I said earlier, NTIA and other agencies pursuing extraneous political goals in their respective broadband programs, which could ultimately lead to increased costs for providers deploying networks. Mr. Powell, in your testimony, you talked about the need for, or of Government agencies, I should say, to avoid unnecessary added costs. Could you elaborate on this? How does direct and indirect forms of net neutrality, open access, burdensome labor requirements affect the deployment of broadband networks to truly unserved areas?"
+    },
+    {
+     "inicio_corpo": 21602,
+     "fim_corpo": 22403,
+     "trecho": "And I would like to point out at a high watermark just last year of $86 billion in capital investment in our networks were made possible not because we were trying to slow down the incentives for investment in innovation, but because we were trying to actually accelerate them. I think going forward, if we can actually collectively as a nation, make sure that, and especially on the precipice of this historic moment where we actually will be able to deliver the $42.5 billion of BEAD Program money, that we not encumber this new tranche of investment in unnecessary regulatory overhang, and that the NTIA and the states scrupulously listen to the intent of Congress as it was expressed in the IIJA. Let's focus on getting the monies out to the underserved and unserved first."
+    },
+    {
+     "inicio_corpo": 21602,
+     "fim_corpo": 22403,
+     "trecho": "And I would like to point out at a high watermark just last year of $86 billion in capital investment in our networks were made possible not because we were trying to slow down the incentives for investment in innovation, but because we were trying to actually accelerate them. I think going forward, if we can actually collectively as a nation, make sure that, and especially on the precipice of this historic moment where we actually will be able to deliver the $42.5 billion of BEAD Program money, that we not encumber this new tranche of investment in unnecessary regulatory overhang, and that the NTIA and the states scrupulously listen to the intent of Congress as it was expressed in the IIJA. Let's focus on getting the monies out to the underserved and unserved first."
+    },
+    {
+     "inicio_corpo": 22321,
+     "fim_corpo": 23286,
+     "trecho": "Let's focus on getting the monies out to the underserved and unserved first. Senator Thune. As I mentioned in my opening statement, there are 130 programs, stunning really ,supporting broadband across 15 different agencies. Could you speak to your--the frustrations that your members have when they are notified after the fact that another Federal agency is providing funding to another entity to provide broadband in an area that is already served. And I would start with Mr. Powell, Mr. Spalter, and then open it up to the panel. Mr. Powell. To quote one of my CEOs, it is a lot of money going to too many places through too many programs under different criteria. This is very, very complex to manage. I think that, you know, another thing that our members are quite frustrated by is areas that are possibly unserved but there has already been Federal commitments to serve those areas that have been provided through other programs."
+    },
+    {
+     "inicio_corpo": 22556,
+     "fim_corpo": 23467,
+     "trecho": "Could you speak to your--the frustrations that your members have when they are notified after the fact that another Federal agency is providing funding to another entity to provide broadband in an area that is already served. And I would start with Mr. Powell, Mr. Spalter, and then open it up to the panel. Mr. Powell. To quote one of my CEOs, it is a lot of money going to too many places through too many programs under different criteria. This is very, very complex to manage. I think that, you know, another thing that our members are quite frustrated by is areas that are possibly unserved but there has already been Federal commitments to serve those areas that have been provided through other programs. For example, you could have won money in RDOF to serve an area, yet it shows up as unserved in FCC maps or programs don't fully recognize existing commitments to serve areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0203::Macrorregião",
+   "unit_id": "W0203",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Angela Siefer",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3309,
+     "fim_corpo": 4183,
+     "trecho": "As we build networks and address broadband adoption through BEAD, we also need sustained Federal funding for the all the solutions, holistic solutions, digital navigators, digital skills training, devices, not just for students. Representing the digital equity community, I ask you to make the Digital Equity Foundation a reality. Funded by spectrum auctions, this will provide long term support mechanism for digital inclusion programs. Another request, we certainly need a full FCC. They have a big job. Consider the new maps broadband, consumer labels, ACP, ECF, many other responsibilities. They cannot do this without Gigi Sohn. Representing the digital equity community, I urge the Senate to confirm her nomination before the holiday recess. Finally, we need to increase the amount of digital equity funds dedicated to tribes and territories."
+    },
+    {
+     "inicio_corpo": 3545,
+     "fim_corpo": 4343,
+     "trecho": "Representing the digital equity community, I ask you to make the Digital Equity Foundation a reality. Funded by spectrum auctions, this will provide long term support mechanism for digital inclusion programs. Another request, we certainly need a full FCC. They have a big job. Consider the new maps broadband, consumer labels, ACP, ECF, many other responsibilities. They cannot do this without Gigi Sohn. Representing the digital equity community, I urge the Senate to confirm her nomination before the holiday recess. Finally, we need to increase the amount of digital equity funds dedicated to tribes and territories. The needs in Indian Country and in the territories are great, and there are simply not enough funds in the Digital Equity Act to fully cover these needs."
+    },
+    {
+     "inicio_corpo": 6159,
+     "fim_corpo": 6945,
+     "trecho": "Then last year you passed the Bipartisan Infrastructure Investment and Jobs Act, which prioritizes digital equity in the BEAD Program and funds a historic $2.75 billion for the Digital Equity Act, with an additional $14.2 billion for the Affordable Connectivity Program. It's an amazing step forward. NDIA and our community are working to make the most of these digital equity investments. NDIA's community includes over 1,000 local organizations running digital inclusion programs, plus national advocates, researchers, and public servants. These are the folks guiding ACP sign-ups; providing appropriate devices; teaching digital skills; building digital equity coalitions; and offering digital equity advice to their states, territories, and the District of Columbia."
+    },
+    {
+     "inicio_corpo": 9566,
+     "fim_corpo": 10461,
+     "trecho": "So, I ask you for additional funding to expand middle mile networks. We also need sustained Federal funding for digital navigator programs, digital skills training, broadband adoption, and devices (not just for students). Representing the digital equity community, I ask you to make the Digital Equity Foundation a reality. Funded by future spectrum auctions, this will provide a reliable long-term support mechanism with the ability to flex to new needs. Another request--we sorely need a full FCC. They have a big job. Consider the new maps, the broadband consumer labels, ACP, ECF, and many other responsibilities. They cannot do this without Gigi Sohn. Representing the digital equity community, I urge the Senate to confirm her nomination before the holiday recess. Finally, we need to increase the amount of digital equity funds dedicated to Tribes and territories."
+    },
+    {
+     "inicio_corpo": 9636,
+     "fim_corpo": 10617,
+     "trecho": "We also need sustained Federal funding for digital navigator programs, digital skills training, broadband adoption, and devices (not just for students). Representing the digital equity community, I ask you to make the Digital Equity Foundation a reality. Funded by future spectrum auctions, this will provide a reliable long-term support mechanism with the ability to flex to new needs. Another request--we sorely need a full FCC. They have a big job. Consider the new maps, the broadband consumer labels, ACP, ECF, and many other responsibilities. They cannot do this without Gigi Sohn. Representing the digital equity community, I urge the Senate to confirm her nomination before the holiday recess. Finally, we need to increase the amount of digital equity funds dedicated to Tribes and territories. The needs in Indian Country and in the territories are great, and there are simply not enough funds in the Digital Equity Act to fully cover these needs."
+    },
+    {
+     "inicio_corpo": 9795,
+     "fim_corpo": 10763,
+     "trecho": "Representing the digital equity community, I ask you to make the Digital Equity Foundation a reality. Funded by future spectrum auctions, this will provide a reliable long-term support mechanism with the ability to flex to new needs. Another request--we sorely need a full FCC. They have a big job. Consider the new maps, the broadband consumer labels, ACP, ECF, and many other responsibilities. They cannot do this without Gigi Sohn. Representing the digital equity community, I urge the Senate to confirm her nomination before the holiday recess. Finally, we need to increase the amount of digital equity funds dedicated to Tribes and territories. The needs in Indian Country and in the territories are great, and there are simply not enough funds in the Digital Equity Act to fully cover these needs. As states, territories, DC, and Tribes embark on their BEAD and digital equity planning it will be important to tie the two plans together."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0203::Posição no trabalho",
+   "unit_id": "W0203",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Angela Siefer",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 17996,
+     "fim_corpo": 19091,
+     "trecho": "How does direct and indirect forms of net neutrality, open access, burdensome labor requirements affect the deployment of broadband networks to truly unserved areas? Mr. Powell. I start with the premise that, remember, the problem we are trying to solve is really precarious economic environments that have disincentive providers from serving those areas, so we have to be highly sensitive to what additional costs we are adding. So frequently these programs add levels of cost that compromise the model for whether to accept funds to enter a market or not. For example, if you don't have clarity on what rates you are allowed to charge and there are suggestions you will regulate the rates, that is a disincentive to knowing whether you can afford to offer the service because you are not clear on the amount of revenue you get. Another example might be extensive workforce regulations, while well-intended, ultimately mean you have reduced the pool of skilled workers available to a provider in order to meet the buildout requirements in a market with tight labor."
+    },
+    {
+     "inicio_corpo": 18165,
+     "fim_corpo": 19091,
+     "trecho": "Mr. Powell. I start with the premise that, remember, the problem we are trying to solve is really precarious economic environments that have disincentive providers from serving those areas, so we have to be highly sensitive to what additional costs we are adding. So frequently these programs add levels of cost that compromise the model for whether to accept funds to enter a market or not. For example, if you don't have clarity on what rates you are allowed to charge and there are suggestions you will regulate the rates, that is a disincentive to knowing whether you can afford to offer the service because you are not clear on the amount of revenue you get. Another example might be extensive workforce regulations, while well-intended, ultimately mean you have reduced the pool of skilled workers available to a provider in order to meet the buildout requirements in a market with tight labor."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0203::Saúde",
+   "unit_id": "W0203",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Angela Siefer",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11319,
+     "fim_corpo": 12279,
+     "trecho": "I will now recognize members for questions, and I will start with myself. The first question that I have is to all of the panel. And it is a simple yes or no question. Does increased broadband adoption act as a multiplier for other sectors, including health care, education, employment, and commerce? Kimball. Ms. Sekaquaptewa. Absolutely. It has the ability to uplift community wellbeing across those sectors. And the internet, you know, has been in our tribal communities for a long time on our cell phones, but community use, Government using broadband to make our communities stronger with improved health care and education is what broadband is about for our work. Senator Lujan. I appreciate that. That is a resounding yes. I appreciate that. Mr. Powell. Mr. Powell. Also resounding, yes. I Chair the Board of the Mayo Clinic and I can tell you the importance of telehealth in the case of a national emergency was essential."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0203::Urbano e rural",
+   "unit_id": "W0203",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Angela Siefer",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 18437,
+     "fim_corpo": 19420,
+     "trecho": "So frequently these programs add levels of cost that compromise the model for whether to accept funds to enter a market or not. For example, if you don't have clarity on what rates you are allowed to charge and there are suggestions you will regulate the rates, that is a disincentive to knowing whether you can afford to offer the service because you are not clear on the amount of revenue you get. Another example might be extensive workforce regulations, while well-intended, ultimately mean you have reduced the pool of skilled workers available to a provider in order to meet the buildout requirements in a market with tight labor. That is very, very complicating and actually could frustrate or defeat any number of initiatives. Failure to be tech neutral could mean you have a limited amount of tools in your toolbox to solve complex problems in rural America, and thus, you know, you are again, might choose to pass on participation in the program."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0204::Domicílio e arranjo familiar",
+   "unit_id": "W0204",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Hon. Michael Powell",
+   "n_ocorrencias_no_par": 10,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 4,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 490,
+     "trecho": "STATEMENT OF HON. MICHAEL POWELL, PRESIDENT AND CEO, NCTA, THE INTERNET & TELEVISION ASSOCIATION Mr. Powell. Thank you very much, Chair Lujan, Ranking Member Thune, members of the Committee. I am honored to be with you today. I am Michael Powell, President and CEO of NCTA, the Internet and Television Association, and our members have invested hundreds of billions of dollars over 20 years to bring high speed, high quality broadband to 90 percent of households."
+    },
+    {
+     "inicio_corpo": 1733,
+     "fim_corpo": 2731,
+     "trecho": "For too long, we have used maps that are out of date, well understood to have overstated the number of areas that are served. That is a serious problem in targeting resources in an efficient and significant way. We are very excited about that. The FCC has made a gallant effort at the first draft. I think it is commendable. It is a very difficult task. But there are many, many rounds of improving the data quality, ensure that those maps are accurate in the ways that Chair Lujan was referencing. Third, and I think less discussed, is that Congress took a fresh approach to addressing adoption and affordability. Fresh in that it focused on direct credits to consumers in order to afford high quality service. Put simply, combined with the kinds of offerings ISPs have agreed to provide, eligible low income families will be able to access broadband essentially for free, and just as importantly, have the freedom to choose the plans that most suit their family needs."
+    },
+    {
+     "inicio_corpo": 1861,
+     "fim_corpo": 2731,
+     "trecho": "That is a serious problem in targeting resources in an efficient and significant way. We are very excited about that. The FCC has made a gallant effort at the first draft. I think it is commendable. It is a very difficult task. But there are many, many rounds of improving the data quality, ensure that those maps are accurate in the ways that Chair Lujan was referencing. Third, and I think less discussed, is that Congress took a fresh approach to addressing adoption and affordability. Fresh in that it focused on direct credits to consumers in order to afford high quality service. Put simply, combined with the kinds of offerings ISPs have agreed to provide, eligible low income families will be able to access broadband essentially for free, and just as importantly, have the freedom to choose the plans that most suit their family needs."
+    },
+    {
+     "inicio_corpo": 2365,
+     "fim_corpo": 3281,
+     "trecho": "Fresh in that it focused on direct credits to consumers in order to afford high quality service. Put simply, combined with the kinds of offerings ISPs have agreed to provide, eligible low income families will be able to access broadband essentially for free, and just as importantly, have the freedom to choose the plans that most suit their family needs. This is a great improvement. But we know from past experience it is going to take a lot more than money. It is going to take excellent execution of the program. As Senator Thune mentioned, these are 130 programs with a lot of money being funneled through 15 different agencies. Gosh, what could go wrong? In our past experience, we have lessons that tell us what will go wrong, and I would like to highlight just a few. The first is failing to maintain discipline in targeting the most unserved areas. I follow the family dinner rule."
+    },
+    {
+     "inicio_corpo": 8186,
+     "fim_corpo": 8976,
+     "trecho": "This challenge is two-fold: (1) we need to effectively offer financial support to low income communities, and (2) work with experienced community organizations to raise awareness of available support and teach digital skills to those who have access to broadband, but don't subscribe. Let me now address each of the components in a bit more detail. Cable's Private Investment Enabled the Widespread Deployment of Broadband Networks, But Obstacles to Reaching Some Communities Remain NCTA members lead the Nation in building best in-class broadband networks in rural counties and urban cities throughout the United States. Fueled by private capital, cable broadband networks connect 82 million broadband households."
+    },
+    {
+     "inicio_corpo": 8186,
+     "fim_corpo": 9159,
+     "trecho": "This challenge is two-fold: (1) we need to effectively offer financial support to low income communities, and (2) work with experienced community organizations to raise awareness of available support and teach digital skills to those who have access to broadband, but don't subscribe. Let me now address each of the components in a bit more detail. Cable's Private Investment Enabled the Widespread Deployment of Broadband Networks, But Obstacles to Reaching Some Communities Remain NCTA members lead the Nation in building best in-class broadband networks in rural counties and urban cities throughout the United States. Fueled by private capital, cable broadband networks connect 82 million broadband households. More than 90 percent of American households have access to cable high-speed broadband--including 55 percent of rural homes--and NCTA's members are committed to reaching many more."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0204::Educação",
+   "unit_id": "W0204",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Hon. Michael Powell",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "Schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9302,
+     "fim_corpo": 10211,
+     "trecho": "These networks are high-speed, high quality, and highly reliable connections that empower consumers to participate fully in the Internet ecosystem. Networks are not static, and cable has continually pushed the leading edge. Gigabit networks were the exception in 2016 when only 4 percent of homes had access. Today, only 6 years later, our members offer 1-gigabit plans to 96 percent of homes where we offer broadband service. Already, the industry is opening the next frontier with its ``10G'' initiative--a plan to deploy ultra-high-speed multigigabit symmetrical connections to consumers in the near future. These investments proved indispensable in meeting the unanticipated and unprecedented COVID 19 threat. No one ever anticipated a situation where virtually every citizen was at home relying on the Internet to work, to attend remote school, and to entertain and inform themselves."
+    },
+    {
+     "inicio_corpo": 18429,
+     "fim_corpo": 19233,
+     "trecho": "Over the last 10 years, programs like Comcast's Internet Essentials, Charter's Spectrum Internet Assist Program and Cox's Connect2Compete have provided affordable and accessible Internet to more than 14 million consumers. More recently, in response to the pandemic, NCTA members restructured and expanded their programs to respond to increased need. Charter Communications, for instance, launched programs to provide free Internet and Wi-Fi access for 60 days to households with students or educators. Similarly, Cox participated in Nevada's Connecting Kids coalition which successfully reached and connected every K-12 student in the state by January 2021. Another NCTA member, Mediacom, partnered with Des Moines Public Schools to share the cost of Internet access for families in need."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0204::Escolaridade e letramento",
+   "unit_id": "W0204",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Hon. Michael Powell",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "student",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "digital literacy",
+     "forma_encontrada": "digital literacy",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 18120,
+     "fim_corpo": 18942,
+     "trecho": "Broadband access without widespread adoption is like the proverbial falling tree in the forest that no one hears. Cable operators have long been leaders in offering special programs for low- income households so that they can fully participate in the economic, educational, and social life of our society. Over the last 10 years, programs like Comcast's Internet Essentials, Charter's Spectrum Internet Assist Program and Cox's Connect2Compete have provided affordable and accessible Internet to more than 14 million consumers. More recently, in response to the pandemic, NCTA members restructured and expanded their programs to respond to increased need. Charter Communications, for instance, launched programs to provide free Internet and Wi-Fi access for 60 days to households with students or educators."
+    },
+    {
+     "inicio_corpo": 18235,
+     "fim_corpo": 19100,
+     "trecho": "Cable operators have long been leaders in offering special programs for low- income households so that they can fully participate in the economic, educational, and social life of our society. Over the last 10 years, programs like Comcast's Internet Essentials, Charter's Spectrum Internet Assist Program and Cox's Connect2Compete have provided affordable and accessible Internet to more than 14 million consumers. More recently, in response to the pandemic, NCTA members restructured and expanded their programs to respond to increased need. Charter Communications, for instance, launched programs to provide free Internet and Wi-Fi access for 60 days to households with students or educators. Similarly, Cox participated in Nevada's Connecting Kids coalition which successfully reached and connected every K-12 student in the state by January 2021."
+    },
+    {
+     "inicio_corpo": 19707,
+     "fim_corpo": 21058,
+     "trecho": "In short, eligible subscribers will get high quality broadband for free. Commercial providers, however, cannot make satisfactory progress on adoption alone. NCTA and its members embrace the critical role played by experienced community organizations and trusted digital navigators. They are best positioned to help identify non-adopters and to assist in overcoming adoption barriers. Our companies are working with nonprofits and other organizations to engage in community outreach, to build digital skills, and to highlight the value of broadband technology. Additionally, cable providers have recognized the importance of digital literacy--investing $650 million since 2011 in digital literacy and training efforts. NCTA recognizes that having a high-speed broadband connection at home opens up a world of opportunity. We are encouraged by the collaborative spirit that has launched our renewed focus on getting all Americans connected to the internet. And further, we welcome the continued interest of this Committee and other policymakers in keeping this effort on track toward a day when we can finally realize our national commitment to universal broadband service. Thank you and I am happy to take your questions. Senator Lujan. Next, we will hear from Mr. Jonathan Spalter, the President and CEO of USTelecom."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0204::Gênero",
+   "unit_id": "W0204",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Hon. Michael Powell",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9452,
+     "fim_corpo": 10343,
+     "trecho": "Networks are not static, and cable has continually pushed the leading edge. Gigabit networks were the exception in 2016 when only 4 percent of homes had access. Today, only 6 years later, our members offer 1-gigabit plans to 96 percent of homes where we offer broadband service. Already, the industry is opening the next frontier with its ``10G'' initiative--a plan to deploy ultra-high-speed multigigabit symmetrical connections to consumers in the near future. These investments proved indispensable in meeting the unanticipated and unprecedented COVID 19 threat. No one ever anticipated a situation where virtually every citizen was at home relying on the Internet to work, to attend remote school, and to entertain and inform themselves. This was the greatest stress test imaginable and the network and the men and women who kept it working passed with flying colors."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0204::Infraestrutura e porte populacional",
+   "unit_id": "W0204",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Hon. Michael Powell",
+   "n_ocorrencias_no_par": 13,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 7,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "high-cost areas",
+     "forma_encontrada": "high-cost areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "Unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 741,
+     "trecho": "STATEMENT OF HON. MICHAEL POWELL, PRESIDENT AND CEO, NCTA, THE INTERNET & TELEVISION ASSOCIATION Mr. Powell. Thank you very much, Chair Lujan, Ranking Member Thune, members of the Committee. I am honored to be with you today. I am Michael Powell, President and CEO of NCTA, the Internet and Television Association, and our members have invested hundreds of billions of dollars over 20 years to bring high speed, high quality broadband to 90 percent of households. And while we are proud of that achievement, we recognize that the work is undone. Many of our members would love to serve rural and unserved parts of the country but are unable to do so because they are cost prohibitive without public support."
+    },
+    {
+     "inicio_corpo": 490,
+     "fim_corpo": 1295,
+     "trecho": "And while we are proud of that achievement, we recognize that the work is undone. Many of our members would love to serve rural and unserved parts of the country but are unable to do so because they are cost prohibitive without public support. For that reason, we are extremely excited, motivated, and committed to work with Congress and community organizations to make this last great opportunity a resounding success over the next couple of years. It is not an exaggeration to say this is a once in a generation opportunity for three reasons. First is the amount of money appropriated is genuinely unprecedented. It is ten times the amount of money that was allocated and authorized during the BEAD Program in 2009, and it really addresses the core concern in many unserved areas."
+    },
+    {
+     "inicio_corpo": 2365,
+     "fim_corpo": 3248,
+     "trecho": "Fresh in that it focused on direct credits to consumers in order to afford high quality service. Put simply, combined with the kinds of offerings ISPs have agreed to provide, eligible low income families will be able to access broadband essentially for free, and just as importantly, have the freedom to choose the plans that most suit their family needs. This is a great improvement. But we know from past experience it is going to take a lot more than money. It is going to take excellent execution of the program. As Senator Thune mentioned, these are 130 programs with a lot of money being funneled through 15 different agencies. Gosh, what could go wrong? In our past experience, we have lessons that tell us what will go wrong, and I would like to highlight just a few. The first is failing to maintain discipline in targeting the most unserved areas."
+    },
+    {
+     "inicio_corpo": 5652,
+     "fim_corpo": 6531,
+     "trecho": "The cable industry is proud of its role in delivering high-speed broadband to America. We have invested hundreds of billions of dollars over the past three decades, but there are areas that remain economically hard to reach due to many factors, including their remoteness, challenging terrain, and low density. In the shadow of the COVID crisis, Congress attacked this problem by appropriating unprecedented levels of funding. These resources will be administered through a variety of federal, state, and local agencies, with the goal of closing deployment and adoption gaps, and getting all Americans connected. Working in private-public partnerships, this funding presents a once-in-a-generation opportunity to overcome the economic obstacles that have limited network expansion in rural, high-cost areas and to address the issues that slow broadband adoption."
+    },
+    {
+     "inicio_corpo": 6902,
+     "fim_corpo": 7771,
+     "trecho": "We cannot allow that to happen this time. Congress's continued oversight of the programs that disburse this massive expenditure is essential if we hope to celebrate closing the digital divide in years to come. This hearing is a welcome start. NCTA is deeply committed to this mission. Working cooperatively with the government, we will do everything in our power to achieve Congress's goal of reaching every community and citizen with robust, high-quality broadband service. Accomplishing this mission requires policies that address three critical objectives: (1) Encourage significant private investment in the construction of next generation networks, including government action to remove barriers that slow deployment such as permitting delays and pole access; (2) Target government funding to areas that are unserved."
+    },
+    {
+     "inicio_corpo": 7194,
+     "fim_corpo": 8186,
+     "trecho": "Working cooperatively with the government, we will do everything in our power to achieve Congress's goal of reaching every community and citizen with robust, high-quality broadband service. Accomplishing this mission requires policies that address three critical objectives: (1) Encourage significant private investment in the construction of next generation networks, including government action to remove barriers that slow deployment such as permitting delays and pole access; (2) Target government funding to areas that are unserved. Experience shows that support is often siphoned to areas that are more economical to serve and already have broadband, leaving too many communities still waiting for Internet access. Public spending is essential to overcoming geographic and economic barriers that leave unserved communities on the wrong side of the gap; and (3) Promote broadband adoption."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0204::Renda e classe",
+   "unit_id": "W0204",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Hon. Michael Powell",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low income",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low income",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1733,
+     "fim_corpo": 2731,
+     "trecho": "For too long, we have used maps that are out of date, well understood to have overstated the number of areas that are served. That is a serious problem in targeting resources in an efficient and significant way. We are very excited about that. The FCC has made a gallant effort at the first draft. I think it is commendable. It is a very difficult task. But there are many, many rounds of improving the data quality, ensure that those maps are accurate in the ways that Chair Lujan was referencing. Third, and I think less discussed, is that Congress took a fresh approach to addressing adoption and affordability. Fresh in that it focused on direct credits to consumers in order to afford high quality service. Put simply, combined with the kinds of offerings ISPs have agreed to provide, eligible low income families will be able to access broadband essentially for free, and just as importantly, have the freedom to choose the plans that most suit their family needs."
+    },
+    {
+     "inicio_corpo": 7387,
+     "fim_corpo": 8516,
+     "trecho": "Accomplishing this mission requires policies that address three critical objectives: (1) Encourage significant private investment in the construction of next generation networks, including government action to remove barriers that slow deployment such as permitting delays and pole access; (2) Target government funding to areas that are unserved. Experience shows that support is often siphoned to areas that are more economical to serve and already have broadband, leaving too many communities still waiting for Internet access. Public spending is essential to overcoming geographic and economic barriers that leave unserved communities on the wrong side of the gap; and (3) Promote broadband adoption. This challenge is two-fold: (1) we need to effectively offer financial support to low income communities, and (2) work with experienced community organizations to raise awareness of available support and teach digital skills to those who have access to broadband, but don't subscribe."
+    },
+    {
+     "inicio_corpo": 11757,
+     "fim_corpo": 12636,
+     "trecho": "Federal approvals are also required for many federally funded broadband projects and often delay deployment. These problems are significant in rural areas, particularly in western states which encompass a lot of Federal land. A recent letter from members of this Committee to the Secretaries of the Interior, Agriculture, and Commerce detailed this concern and called upon the Secretaries to streamline permitting on Federal land. In fact, streamlined permitting procedures for access to all public rights-of- way would help accelerate broadband deployment everywhere. Cable is proud of its record building broadband throughout the country. Of particular pride is our commitment to offering equal access to our infrastructure throughout our service areas. Cable gigabit networks in urban areas are deployed as equally in low-income areas as in higher income ones."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0204::Urbano e rural",
+   "unit_id": "W0204",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Hon. Michael Powell",
+   "n_ocorrencias_no_par": 9,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 3,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 741,
+     "trecho": "STATEMENT OF HON. MICHAEL POWELL, PRESIDENT AND CEO, NCTA, THE INTERNET & TELEVISION ASSOCIATION Mr. Powell. Thank you very much, Chair Lujan, Ranking Member Thune, members of the Committee. I am honored to be with you today. I am Michael Powell, President and CEO of NCTA, the Internet and Television Association, and our members have invested hundreds of billions of dollars over 20 years to bring high speed, high quality broadband to 90 percent of households. And while we are proud of that achievement, we recognize that the work is undone. Many of our members would love to serve rural and unserved parts of the country but are unable to do so because they are cost prohibitive without public support."
+    },
+    {
+     "inicio_corpo": 3161,
+     "fim_corpo": 3983,
+     "trecho": "The first is failing to maintain discipline in targeting the most unserved areas. I follow the family dinner rule. Nobody should get seconds till everybody's been served. Frequently in past programs, this is the biggest error that's repeatedly made. Money will always work hard to get to more economic communities if allowed to in areas where there is already broadband, where the economics are more sound. It will require discipline on the part of regulators to ensure that that doesn't happen. The second important thing to do is remove obstacles the Federal Government and other Government agencies have within their power. Here I speak specifically of permitting, both on Federal lands and local communities, as well as access to poles. Put directly, poles are the lifeline to reach rural America."
+    },
+    {
+     "inicio_corpo": 5652,
+     "fim_corpo": 6531,
+     "trecho": "The cable industry is proud of its role in delivering high-speed broadband to America. We have invested hundreds of billions of dollars over the past three decades, but there are areas that remain economically hard to reach due to many factors, including their remoteness, challenging terrain, and low density. In the shadow of the COVID crisis, Congress attacked this problem by appropriating unprecedented levels of funding. These resources will be administered through a variety of federal, state, and local agencies, with the goal of closing deployment and adoption gaps, and getting all Americans connected. Working in private-public partnerships, this funding presents a once-in-a-generation opportunity to overcome the economic obstacles that have limited network expansion in rural, high-cost areas and to address the issues that slow broadband adoption."
+    },
+    {
+     "inicio_corpo": 7981,
+     "fim_corpo": 8882,
+     "trecho": "Public spending is essential to overcoming geographic and economic barriers that leave unserved communities on the wrong side of the gap; and (3) Promote broadband adoption. This challenge is two-fold: (1) we need to effectively offer financial support to low income communities, and (2) work with experienced community organizations to raise awareness of available support and teach digital skills to those who have access to broadband, but don't subscribe. Let me now address each of the components in a bit more detail. Cable's Private Investment Enabled the Widespread Deployment of Broadband Networks, But Obstacles to Reaching Some Communities Remain NCTA members lead the Nation in building best in-class broadband networks in rural counties and urban cities throughout the United States."
+    },
+    {
+     "inicio_corpo": 8516,
+     "fim_corpo": 9159,
+     "trecho": "Let me now address each of the components in a bit more detail. Cable's Private Investment Enabled the Widespread Deployment of Broadband Networks, But Obstacles to Reaching Some Communities Remain NCTA members lead the Nation in building best in-class broadband networks in rural counties and urban cities throughout the United States. Fueled by private capital, cable broadband networks connect 82 million broadband households. More than 90 percent of American households have access to cable high-speed broadband--including 55 percent of rural homes--and NCTA's members are committed to reaching many more."
+    },
+    {
+     "inicio_corpo": 10343,
+     "fim_corpo": 11254,
+     "trecho": "Without decades of broadband investment, COVID could have been a devastating economic catastrophe. It is also noteworthy that as we deal with new economic challenges, broadband continues to connect new subscribers and offer great value. While speeds have continued to increase, prices remain stable and have even decreased. In an economy that is seeing inflation in the range of 8 percent, broadband prices have barely risen, with the cost of entry plans, most popular plans, and top tier plans all decreasing over 20 percent. All is not rosy, however, in deploying broadband. Broadband builders face significant obstacles in reaching many unserved communities. For example, the categorical exemption of certain pole owners from the mandates of the Pole Attachment Act has outlived its usefulness and only serves to impede the extension of broadband networks into rural and unserved areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0205::Domicílio e arranjo familiar",
+   "unit_id": "W0205",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Jonathan Spalter",
+   "n_ocorrencias_no_par": 10,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 4,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2349,
+     "fim_corpo": 3006,
+     "trecho": "So, I appreciate the opportunity to roll up our sleeves and explore the underlying causes of the remaining broadband gaps and some of the concrete steps that we collectively can take to close them. This includes maximizing the IIJA opportunity by ensuring that funding recipients have the technical, operational, and financial wherewithal to get these essential infrastructure projects over the finish line. Removing or lowering hurdles to speedy deployment, clarifying that broadband grants should not be treated as taxable income. Making permanent the Affordable Connectivity Program to help low income families pay for Internet service."
+    },
+    {
+     "inicio_corpo": 5988,
+     "fim_corpo": 7176,
+     "trecho": "America's broadband providers have invested more than $2 trillion since 1996 to build and expand the Nation's high- speed infrastructure. Last year's investment of $86 billion\\2\\ represents more than twice the historic public commitment made in the IIJA, and these commitments are pressing forward despite the substantial economic headwinds posed by inflation, supply chain constraints and a tight labor market. --------------------------------------------------------------------------- \\2\\ USTelecom, Broadband Capex Report, July 18, 2022; available at: https://ustelecom.org/wp-content/uploads/2022/07/2021-Broadband-Capex- Report.pdf [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] This vigorous investment is accelerating the transition from legacy copper to high-speed fiber networks throughout our Nation. In 2021, 43 percent of U.S. households had access to fiber, up 12 percent from 2020.\\3\\ And providers have already committed over $45 billion of their own capital to connect 48 million households to fiber in the coming years.\\4\\ As a result, the number of households with fiber access is expected to double over the next five years to cover 83 percent of U.S."
+    },
+    {
+     "inicio_corpo": 6127,
+     "fim_corpo": 7176,
+     "trecho": "Last year's investment of $86 billion\\2\\ represents more than twice the historic public commitment made in the IIJA, and these commitments are pressing forward despite the substantial economic headwinds posed by inflation, supply chain constraints and a tight labor market. --------------------------------------------------------------------------- \\2\\ USTelecom, Broadband Capex Report, July 18, 2022; available at: https://ustelecom.org/wp-content/uploads/2022/07/2021-Broadband-Capex- Report.pdf [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] This vigorous investment is accelerating the transition from legacy copper to high-speed fiber networks throughout our Nation. In 2021, 43 percent of U.S. households had access to fiber, up 12 percent from 2020.\\3\\ And providers have already committed over $45 billion of their own capital to connect 48 million households to fiber in the coming years.\\4\\ As a result, the number of households with fiber access is expected to double over the next five years to cover 83 percent of U.S."
+    },
+    {
+     "inicio_corpo": 6405,
+     "fim_corpo": 7176,
+     "trecho": "--------------------------------------------------------------------------- \\2\\ USTelecom, Broadband Capex Report, July 18, 2022; available at: https://ustelecom.org/wp-content/uploads/2022/07/2021-Broadband-Capex- Report.pdf [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] This vigorous investment is accelerating the transition from legacy copper to high-speed fiber networks throughout our Nation. In 2021, 43 percent of U.S. households had access to fiber, up 12 percent from 2020.\\3\\ And providers have already committed over $45 billion of their own capital to connect 48 million households to fiber in the coming years.\\4\\ As a result, the number of households with fiber access is expected to double over the next five years to cover 83 percent of U.S."
+    },
+    {
+     "inicio_corpo": 6405,
+     "fim_corpo": 7276,
+     "trecho": "--------------------------------------------------------------------------- \\2\\ USTelecom, Broadband Capex Report, July 18, 2022; available at: https://ustelecom.org/wp-content/uploads/2022/07/2021-Broadband-Capex- Report.pdf [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] This vigorous investment is accelerating the transition from legacy copper to high-speed fiber networks throughout our Nation. In 2021, 43 percent of U.S. households had access to fiber, up 12 percent from 2020.\\3\\ And providers have already committed over $45 billion of their own capital to connect 48 million households to fiber in the coming years.\\4\\ As a result, the number of households with fiber access is expected to double over the next five years to cover 83 percent of U.S. households.\\5\\ This forecast assumes effective use of IIJA funds, which is mission-critical work."
+    },
+    {
+     "inicio_corpo": 9293,
+     "fim_corpo": 9795,
+     "trecho": "More than 1,300 broadband providers are participating in the program--connecting more than 15 million households so far to low-or no-cost broadband.\\8\\ --------------------------------------------------------------------------- \\8\\ USAC, ACP Enrollment and Claims Tracker, December 5, 2022; available at: https://www.usac.org/about/affordable-connectivity- program/acp-enrollment-and-claims-tracker/#total-enrolled --------------------------------------------------------------------------- II."
+    }
+   ]
+  }
+ ]
+}

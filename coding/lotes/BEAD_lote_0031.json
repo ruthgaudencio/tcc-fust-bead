@@ -1,0 +1,1043 @@
+{
+ "caso": "BEAD",
+ "lote": 31,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0123::Raça e etnia",
+   "unit_id": "W0123",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Christopher Shelton",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Native Americans",
+     "forma_encontrada": "Native Americans",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 16550,
+     "fim_corpo": 17378,
+     "trecho": "AT&T said it plans deployment to 2 million locations in 2021. See AT&T, Inc., Fourth Quarter 2020 Earnings Call, January 27, 2021. https://seekingalpha.com/article/4401349-t-inc-t-ceo-john-stankey-on- q4-2020-results-earnings-call-transcript?part=single 8 25% of households eligible for Lifeline subsidies participate in the program, according to the most recent data, which precedes the current economic crisis.13 According to Pew Research, 34 percent of Black households and 39 percent of Latinx households do not have a wired broadband connection, compared to 21 percent of white households.14 The Census Bureau recently found that Native Americans are the least connected population, with 33 percent lacking a broadband subscription and 47 percent of those living on tribal lands lacking broadband availability."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0123::Renda e classe",
+   "unit_id": "W0123",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Christopher Shelton",
+   "n_ocorrencias_no_par": 10,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 4,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1986,
+     "fim_corpo": 2722,
+     "trecho": "The pandemic has made something clear to people across the country that CWA members have known for a long time: affordable, reliable broadband internet connections are a critical necessity for all Americans for work, education and healthcare and that millions of families in the United States do not have access to these connections. This is not a new problem, but one that has been years in the making. It has been exacerbated by deregulation across the industry over the last four decades leading to many of the broadband inequities we’re 2 experiencing today. For years, we have protested as major telecom companies allowed their networks to deteriorate and failed to upgrade low-income communities to fiber-optic service."
+    },
+    {
+     "inicio_corpo": 2558,
+     "fim_corpo": 3407,
+     "trecho": "For years, we have protested as major telecom companies allowed their networks to deteriorate and failed to upgrade low-income communities to fiber-optic service. We fought to retain government oversight of providers so that rural communities wouldn’t be left without advanced communications services as Wall Street set the broadband investment agenda. And with fewer regulatory tools to address this private sector neglect, workers, business owners, and especially consumers--in fact all Americans--have suffered as a result. CWA’s advocacy for universal broadband has often been prescient. In 2006, we launched the Speed Matters campaign , calling for better broadband maps at the FCC, faster broadband speeds, a strong Lifeline subsidy program to connect low-income households, and robust public investment to spur broadband deployment."
+    },
+    {
+     "inicio_corpo": 7615,
+     "fim_corpo": 8197,
+     "trecho": "In May 2020, CWA, together with the American Federation of Teachers (AFT) and the Service Employees International Union (SEIU), wrote to Congress on behalf of our collective 4.4 million members, many of whom are on the frontlines of the fight against the pandemic. We called on Congress to fund broadband infrastructure expansion; appropriate $4 billion for an Emergency Connectivity Fund through the FCC’s E-Rate program; and direct the FCC to create an Emergency Broadband Benefit for low-income households of $50 per month to cover the cost of adequate broadband service."
+    },
+    {
+     "inicio_corpo": 7883,
+     "fim_corpo": 8734,
+     "trecho": "We called on Congress to fund broadband infrastructure expansion; appropriate $4 billion for an Emergency Connectivity Fund through the FCC’s E-Rate program; and direct the FCC to create an Emergency Broadband Benefit for low-income households of $50 per month to cover the cost of adequate broadband service. Again, CWA’s policy demands acted as an early clarion call to address concrete needs on the ground and helped lay the groundwork for important Congressional action: Thanks to the leadership of Chairman Doyle, Chairman Pallone, and the important work of many on this committee, House Democrats were able to break through the years of resistance and gridlock to get millions of people much-needed help. In the latest pandemic relief package, Congress appropriated $3.2 billion for a low-income household Emergency Broadband Benefit."
+    },
+    {
+     "inicio_corpo": 16550,
+     "fim_corpo": 17543,
+     "trecho": "AT&T said it plans deployment to 2 million locations in 2021. See AT&T, Inc., Fourth Quarter 2020 Earnings Call, January 27, 2021. https://seekingalpha.com/article/4401349-t-inc-t-ceo-john-stankey-on- q4-2020-results-earnings-call-transcript?part=single 8 25% of households eligible for Lifeline subsidies participate in the program, according to the most recent data, which precedes the current economic crisis.13 According to Pew Research, 34 percent of Black households and 39 percent of Latinx households do not have a wired broadband connection, compared to 21 percent of white households.14 The Census Bureau recently found that Native Americans are the least connected population, with 33 percent lacking a broadband subscription and 47 percent of those living on tribal lands lacking broadband availability. For low-income households earning less than $30,000 per year, 44 percent lack home broadband, compared to 8 percent of households that earn over $75,000 per year."
+    },
+    {
+     "inicio_corpo": 18573,
+     "fim_corpo": 19544,
+     "trecho": "CWA has long been an advocate for the Lifeline program and worked closely with allied groups to win 13 USAC Lifeline participation rates, 2018. 14 Pew Research Center, Internet/Broadband Fact Sheet. https://www.pewresearch.org/internet/fact- sheet/internet-broadband/ 15 Pew Research Center, Internet/Broadband Fact Sheet. https://www.pewresearch.org/internet/fact- sheet/internet-broadband/ 9 modernization of the program under the Obama Administration so that it now provides broadband service. Of course, we, along with our civil rights and public interest allies, had to fight to defend the program under the Trump Administration and even before then from the hyperbolic attacks from Congressional Republicans. As the only federal program that addresses the issue of affordability, Lifeline is a crucial tool to close the digital divide and has been an essential resource for low-income people across the country during the ongoing COVID-19 pandemic."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0123::Saúde",
+   "unit_id": "W0123",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Christopher Shelton",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2915,
+     "fim_corpo": 4018,
+     "trecho": "And with fewer regulatory tools to address this private sector neglect, workers, business owners, and especially consumers--in fact all Americans--have suffered as a result. CWA’s advocacy for universal broadband has often been prescient. In 2006, we launched the Speed Matters campaign , calling for better broadband maps at the FCC, faster broadband speeds, a strong Lifeline subsidy program to connect low-income households, and robust public investment to spur broadband deployment. If this sounds familiar, it’s because we are still discussing the same issues 15 years later. CWA was an innovator, capturing real-time data on internet connection speeds and advocating for the United States to increase those speeds to be more competitive globally. 1 In 2010, we called for gigabyte broadband service for anchor institutions -- hospitals, schools and libraries -- in every community, especially rural and lower income urban areas, because we knew that’s the only way that applications like medical monitoring and diagnosis would bring the most benefit to the people of the United States."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0123::Territórios de povos e comunidades tradicionais",
+   "unit_id": "W0123",
+   "subcategoria": "Territórios de povos e comunidades tradicionais",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Christopher Shelton",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Tribal land",
+     "forma_encontrada": "tribal land",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "tribal lands",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8734,
+     "fim_corpo": 9625,
+     "trecho": "This 4 Marguerite Reardon, “FCC’s Keep Americans Connected pledge is over. Now what?” cnet.com (June 30, 2020). https://www.cnet.com/news/fccs-keep-americans-connected-pledge-is-over-now-what/ 5 Rob Pegoraro, “As Comcast enforces data caps nationwide, will AT&T, Verizon, Charter and other internet providers follow?” USA Today (Nov. 25, 2020). https://www.usatoday.com/story/tech/columnist/2020/11/25/comcast-xfinity-data-cap-att-verizon-charter- internet-provider/6425921002/ 6 Mitchell Clark, Comcst is delaying its rollout of 1.2TB data caps that would have hit 12 states in March,” The Verge (Feb. 3, 2021). https://www.msn.com/en-us/news/technology/comcast-is-delaying-its-rollout-of- 12tb-data-caps-that-wo uld-have-hit-12-states-in-march/ar-BB1dmODb 5 much-need measure will provide up to $50 per month to eligible households, and up to $75 for those on tribal land."
+    },
+    {
+     "inicio_corpo": 16550,
+     "fim_corpo": 17378,
+     "trecho": "AT&T said it plans deployment to 2 million locations in 2021. See AT&T, Inc., Fourth Quarter 2020 Earnings Call, January 27, 2021. https://seekingalpha.com/article/4401349-t-inc-t-ceo-john-stankey-on- q4-2020-results-earnings-call-transcript?part=single 8 25% of households eligible for Lifeline subsidies participate in the program, according to the most recent data, which precedes the current economic crisis.13 According to Pew Research, 34 percent of Black households and 39 percent of Latinx households do not have a wired broadband connection, compared to 21 percent of white households.14 The Census Bureau recently found that Native Americans are the least connected population, with 33 percent lacking a broadband subscription and 47 percent of those living on tribal lands lacking broadband availability."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0123::Urbano e rural",
+   "unit_id": "W0123",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Christopher Shelton",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1986,
+     "fim_corpo": 2915,
+     "trecho": "The pandemic has made something clear to people across the country that CWA members have known for a long time: affordable, reliable broadband internet connections are a critical necessity for all Americans for work, education and healthcare and that millions of families in the United States do not have access to these connections. This is not a new problem, but one that has been years in the making. It has been exacerbated by deregulation across the industry over the last four decades leading to many of the broadband inequities we’re 2 experiencing today. For years, we have protested as major telecom companies allowed their networks to deteriorate and failed to upgrade low-income communities to fiber-optic service. We fought to retain government oversight of providers so that rural communities wouldn’t be left without advanced communications services as Wall Street set the broadband investment agenda."
+    },
+    {
+     "inicio_corpo": 3090,
+     "fim_corpo": 4018,
+     "trecho": "CWA’s advocacy for universal broadband has often been prescient. In 2006, we launched the Speed Matters campaign , calling for better broadband maps at the FCC, faster broadband speeds, a strong Lifeline subsidy program to connect low-income households, and robust public investment to spur broadband deployment. If this sounds familiar, it’s because we are still discussing the same issues 15 years later. CWA was an innovator, capturing real-time data on internet connection speeds and advocating for the United States to increase those speeds to be more competitive globally. 1 In 2010, we called for gigabyte broadband service for anchor institutions -- hospitals, schools and libraries -- in every community, especially rural and lower income urban areas, because we knew that’s the only way that applications like medical monitoring and diagnosis would bring the most benefit to the people of the United States."
+    },
+    {
+     "inicio_corpo": 3407,
+     "fim_corpo": 4330,
+     "trecho": "If this sounds familiar, it’s because we are still discussing the same issues 15 years later. CWA was an innovator, capturing real-time data on internet connection speeds and advocating for the United States to increase those speeds to be more competitive globally. 1 In 2010, we called for gigabyte broadband service for anchor institutions -- hospitals, schools and libraries -- in every community, especially rural and lower income urban areas, because we knew that’s the only way that applications like medical monitoring and diagnosis would bring the most benefit to the people of the United States. 2 We worked with partners in the civil rights and digital equity communities to raise the issue that the digital divide was not just an urban/rural divide but also an urban/urban divide with growing numbers of communities of color being left out of the expanding fiber broadband networks around the country."
+    },
+    {
+     "inicio_corpo": 17378,
+     "fim_corpo": 18124,
+     "trecho": "For low-income households earning less than $30,000 per year, 44 percent lack home broadband, compared to 8 percent of households that earn over $75,000 per year. 15 Economic inequality is a critical barrier to democratic participation in our society and the digital divide helps explain why that is. Solutions to bridge the digital divide and achieve universal broadband What can be done? President Biden and Congressional Democrats have been setting us on the right path over the last year. During his campaign, President Biden committed to closing the digital divide, promising he would invest $20 billion in rural broadband infrastructure and ensure that the work of installing broadband provides high-paying jobs with benefits."
+    },
+    {
+     "inicio_corpo": 30797,
+     "fim_corpo": 32455,
+     "trecho": "The Commission should explore options including broadening the USF funding base to include broadband customers. Broadband is a mature, profitable industry that cannot claim innovation will be hindered by returning some of its profits to fulfill the promise of universal service. 14 Conclusion As many people work, learn, and access healthcare from home, broadband has finally been widely recognized as an essential service necessary for full participation in society. CWA members who build, maintain, and service our telecom networks know better than anyone how broadband policy can help address the public health and economic crises our nation faces. We have been issuing warnings for almost two decades about how neglect by the private sector a nd growing deregulation have set the stage for the digital inequities we see across the country today - in both rural areas and urban centers. We are grateful that the Biden Administration and Congressional Democrats have begun to take the necessary steps to address these glaring digital inequities that the pandemic has exposed. And we look forward to working with you to build the solid foundation to make sure that we truly do build back better from this pandemic with a focus on ensuring affordable, reliable broadband internet connections for all. Thank you for the opportunity to testify today on behalf of CWA’s members who have invested their working lives in the telecommunications networks that serve our country, and who have been politically active in the fight for truly universal service and corporate accountability. I look forward to answering any questions you may have."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0125::Domicílio e arranjo familiar",
+   "unit_id": "W0125",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Matthew Wood",
+   "n_ocorrencias_no_par": 19,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 13,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "household’s",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4537,
+     "fim_corpo": 5484,
+     "trecho": "The $3.2 billion Emergency Broadband Benefit (or “EBB”) passed in the December 2020 spending and stimulus bill was a landmark, bipartisan achievement. That is true even though it’s only a temporary fund, and even though in some ways it arrived slower than it might have and yet moves extraordinarily fast. It became law more than half a year later than it should have, since the HEROES Act containing Representative Veasey’s initial EBB bill and other important broadband measures first passed the House in May 2020. Yet it is now racing towards implementation in an FCC proceeding due to conclude in a matter of weeks, to get money out the door to people i n need of connectivity support during the economic upheaval that COVID brought. Once implemented, the EBB program will make available up to $50 a month, and up to $75 on Tribal lands, for any plan an eligible household can buy from participating internet s ervice providers."
+    },
+    {
+     "inicio_corpo": 4691,
+     "fim_corpo": 5783,
+     "trecho": "That is true even though it’s only a temporary fund, and even though in some ways it arrived slower than it might have and yet moves extraordinarily fast. It became law more than half a year later than it should have, since the HEROES Act containing Representative Veasey’s initial EBB bill and other important broadband measures first passed the House in May 2020. Yet it is now racing towards implementation in an FCC proceeding due to conclude in a matter of weeks, to get money out the door to people i n need of connectivity support during the economic upheaval that COVID brought. Once implemented, the EBB program will make available up to $50 a month, and up to $75 on Tribal lands, for any plan an eligible household can buy from participating internet s ervice providers. That flexibility will be key to its success, allowing eligible households to choose any plan they like rather than either being shunted into pre -ordained “low-income” programs on the one hand, or on the other extreme being upsold and forced to buy more expensive plans just to use the discount."
+    },
+    {
+     "inicio_corpo": 6305,
+     "fim_corpo": 7164,
+     "trecho": "The program will succeed as long as ISPs keep working together with non -profits. Not primarily with advocacy groups like ours, though we’ve played a role; but more importantly with local community leaders and governments, grassroots organizations, and digital inclusion specialists, all to publicize the program and verify people’s eligibility for the free and discounted plans these larger payments can temporarily secure. This benefit will help narrow afford ability gaps fostered by systemic racism and inequity that pre-dated the virus. And these inequities made it tougher to connect not only for people who lost jobs and significant income during the COVID crisis, but people already out of work, struggling to afford college, or trying to close the homework gap faced by kids whose families can’t afford robust home broadband connections."
+    },
+    {
+     "inicio_corpo": 8211,
+     "fim_corpo": 9151,
+     "trecho": "But the first two parts will demonstrate who is still disconnected, and the primary reason why they are: It’s poorer people who still face the biggest digital divide, sadly but not at all surprisingly. Disproportionately often, that means Black, Latinx, and Indigenous People. And the main reason so many people cannot get online is the high price of broadband, which is an essen tial utility for modern life, and one offered in a tightening duopoly or even monopoly setting by ISPs raising their rates far faster than the rate of inflation —even as they cut costs, cut jobs, and cut investments. I. Black, Latinx, and Indigenous People Faced the Biggest Digital Divides at the Start of the Pandemic, and They Still Do Now. By the end of 2019, according to U.S. Census Bureau Current Population Survey data, approximately 4 out of every 5 households subscribed to the internet using either a mobile or fixed technology."
+    },
+    {
+     "inicio_corpo": 8419,
+     "fim_corpo": 9399,
+     "trecho": "Disproportionately often, that means Black, Latinx, and Indigenous People. And the main reason so many people cannot get online is the high price of broadband, which is an essen tial utility for modern life, and one offered in a tightening duopoly or even monopoly setting by ISPs raising their rates far faster than the rate of inflation —even as they cut costs, cut jobs, and cut investments. I. Black, Latinx, and Indigenous People Faced the Biggest Digital Divides at the Start of the Pandemic, and They Still Do Now. By the end of 2019, according to U.S. Census Bureau Current Population Survey data, approximately 4 out of every 5 households subscribed to the internet using either a mobile or fixed technology. While that overall adoption figure continues to grow, the rate of growth is slowing. And although this means that 80 percent of households are connected at home in some way, only about 68 percent of them subscribe to a wired br oadband service."
+    },
+    {
+     "inicio_corpo": 8820,
+     "fim_corpo": 9546,
+     "trecho": "I. Black, Latinx, and Indigenous People Faced the Biggest Digital Divides at the Start of the Pandemic, and They Still Do Now. By the end of 2019, according to U.S. Census Bureau Current Population Survey data, approximately 4 out of every 5 households subscribed to the internet using either a mobile or fixed technology. While that overall adoption figure continues to grow, the rate of growth is slowing. And although this means that 80 percent of households are connected at home in some way, only about 68 percent of them subscribe to a wired br oadband service. 7 This reflects the reality that a growing number of households are reliant on mobile data subscriptions as their sole form of access."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0125::Educação",
+   "unit_id": "W0125",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Matthew Wood",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 589,
+     "fim_corpo": 1434,
+     "trecho": "Of course, when I say appear today that means on your computer screens, not in the Rayburn House Office Building where I think we’d all rather be free to travel and see each other. In a sense, that’s what today’s hearing is all about. Not just the changes the COVID-19 pandemic brought to everyone’s lives, and the disruptions many of us in this hearing have experienced but typically had the privilege and the safety nets to ma nage. It’s about the fact that I can afford a broadband internet connection good enough for our three children to attend school from here at home all year, for my wife to run her sole proprietorship as a children’s musician holding virtual classes and onli ne concerts from our home, and for me to work from home and join you all online this morning instead of traveling across the District to get there."
+    },
+    {
+     "inicio_corpo": 8950,
+     "fim_corpo": 9782,
+     "trecho": "By the end of 2019, according to U.S. Census Bureau Current Population Survey data, approximately 4 out of every 5 households subscribed to the internet using either a mobile or fixed technology. While that overall adoption figure continues to grow, the rate of growth is slowing. And although this means that 80 percent of households are connected at home in some way, only about 68 percent of them subscribe to a wired br oadband service. 7 This reflects the reality that a growing number of households are reliant on mobile data subscriptions as their sole form of access. That mobile service is vital, but mobile subscriptions alone tend to provide an inadequate quality an d quantity of connectivity at all times, and especially during these times when many families are working and schooling from home."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0125::Renda e classe",
+   "unit_id": "W0125",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Matthew Wood",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4848,
+     "fim_corpo": 5783,
+     "trecho": "It became law more than half a year later than it should have, since the HEROES Act containing Representative Veasey’s initial EBB bill and other important broadband measures first passed the House in May 2020. Yet it is now racing towards implementation in an FCC proceeding due to conclude in a matter of weeks, to get money out the door to people i n need of connectivity support during the economic upheaval that COVID brought. Once implemented, the EBB program will make available up to $50 a month, and up to $75 on Tribal lands, for any plan an eligible household can buy from participating internet s ervice providers. That flexibility will be key to its success, allowing eligible households to choose any plan they like rather than either being shunted into pre -ordained “low-income” programs on the one hand, or on the other extreme being upsold and forced to buy more expensive plans just to use the discount."
+    },
+    {
+     "inicio_corpo": 24100,
+     "fim_corpo": 24786,
+     "trecho": "We were pleased to see Chairman Pallone, Chair men Doyle, and Representative McNerny write to nine large ISPs last month to inquire about their pricing practices and data usage restrictions during the current emergency. Whatever their answers may be for any temporary plans and practices, the kinds of price increases propping up these eye -popping profits are devastating. That’s true not only for people already paying too much for broadband yet lucky enough to have it, but for people unable to afford any broadband options in the first place. In fact, lowe r-priced entry -level options are disappearing, raising the adoption barrier for low-income families even further."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0125::Territórios de povos e comunidades tradicionais",
+   "unit_id": "W0125",
+   "subcategoria": "Territórios de povos e comunidades tradicionais",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Matthew Wood",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "Tribal lands",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "Tribal lands",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4537,
+     "fim_corpo": 5484,
+     "trecho": "The $3.2 billion Emergency Broadband Benefit (or “EBB”) passed in the December 2020 spending and stimulus bill was a landmark, bipartisan achievement. That is true even though it’s only a temporary fund, and even though in some ways it arrived slower than it might have and yet moves extraordinarily fast. It became law more than half a year later than it should have, since the HEROES Act containing Representative Veasey’s initial EBB bill and other important broadband measures first passed the House in May 2020. Yet it is now racing towards implementation in an FCC proceeding due to conclude in a matter of weeks, to get money out the door to people i n need of connectivity support during the economic upheaval that COVID brought. Once implemented, the EBB program will make available up to $50 a month, and up to $75 on Tribal lands, for any plan an eligible household can buy from participating internet s ervice providers."
+    },
+    {
+     "inicio_corpo": 33989,
+     "fim_corpo": 34865,
+     "trecho": "22 So what can Congress and the FCC do next, to ensure not only the success of current emergency broadband measures, but to ensure that more people are connected reliably and affordably once the current health crisis ends? Free Press has published broadband priorities for 20 21 and beyond in various advocacy and academic materials over the last few months, but we look forward to more concrete action from the new administration, the FCC, and Congress too, on the solutions to make affordable connections available to everyone. Ju st for a start to improve affordability and adoption, especially by people of color, on Tribal lands, and in low - income communities more generally, we must: ● Wholeheartedly support Lifeline, and stop the attacks on that program launched by the last FCC, while also ensuring businesses contribute their fair share to USF."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0125::Urbano e rural",
+   "unit_id": "W0125",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Matthew Wood",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1701,
+     "fim_corpo": 2722,
+     "trecho": "COVID has changed everything. Social distance showed beyond a doubt that broadband is an essential util ity for learning and livelihoods. Yet it has also changed nothing, merely highlighting and heightening the racial injustice and income inequality at our country’s root. 3 We can measure the digital divide in many different ways, and my testimony will discuss a few of the most meaningful ones we’ve identified at Free Press Action, using data from the U.S. Census Bureau’s Current Population Survey, the Federal Communications Commission, and other sources. But however we measure this divide between those who have the means to connect and those who don’t, our 2016 report Digital Denied 1 showed systemic racism plays a staggeringly large role in perpetuating it. The largest part of this complex digital divide is not people who have no access to broadband options i n rural and other hard -to-reach areas, though that problem typically gets sufficient discussion if not sufficient investment."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0126::Domicílio e arranjo familiar",
+   "unit_id": "W0126",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Turley",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "Family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1714,
+     "fim_corpo": 2596,
+     "trecho": "1 I appear today on my own behalf and my views do not reflect those of my law school, my colleagues at Fox News or the newspapers for which I write as a columnist. My testimony was written exclusively by myself, though I received inspired editing assistance from Jason Long and Seth Tate. 2 I come to this subject as someone who has written,2 litigated,3 and testified4 in the area of free speech and the free press for decades. I have also worked for television and print media over three decades.5 These are dangerous times where disagreements on the law or politics are often expressed in personal assaults, cancelling campaigns, and vicious attacks. Extremist and violent speech is not an abstract or academic matter for me and many others who work in the public domain. Through the years, I have received hundreds of threats against myself, my family, and even my dog."
+    },
+    {
+     "inicio_corpo": 12080,
+     "fim_corpo": 12512,
+     "trecho": "Park Police Attack on Peaceful Protesters at Lafayette Square Park,” June 29, 2020 (Testimony of Professor Jonathan Turley). 5 approval. As with the recent fencing around the Capitol, federal agencies decided a wider parameter was needed after protests threatened to breach the White House security area. The threat of a breach was deemed sufficient to require that the First Family be moved briefly to the White House bunker."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0126::Educação",
+   "unit_id": "W0126",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Turley",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "SCHOOL",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 325,
+     "trecho": "Written Statement Jonathan Turley, Shapiro Professor of Public Interest Law The George Washington University Law School “Fanning The Flames: Disinformation and Extremism In The Media” United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology February 24, 2021 I."
+    },
+    {
+     "inicio_corpo": 1026,
+     "fim_corpo": 1880,
+     "trecho": "In coming to this hearing, I have only one interest and only one concern: free speech in the United States. As will come as no surprise to those familiar with my prior writings, I maintain what was once a mainstream view of free speech. I believe that free speech is the greatest protection against bad speech. That view is admittedly under fire and indeed may be a minority view today, but history has shown that public or private censorship does not produce better speech. It is a self-replicating and self-perpetuating path that only produces more censorship and more controlled speech. I encourage you (indeed I implore you) not to proceed down that slippery slope toward censorship. 1 I appear today on my own behalf and my views do not reflect those of my law school, my colleagues at Fox News or the newspapers for which I write as a columnist."
+    },
+    {
+     "inicio_corpo": 18692,
+     "fim_corpo": 19476,
+     "trecho": "The intolerance for dissenting speech exists across countries and societies. Orthodoxy is the enemy of free speech and such doctrinal views are often the result of religious or social values. Yet, the greatest anti-free-speech “movements” with national 9 MADELINE ROCHE, PUTIN WARNS BIG TECH POSES A THREAT TO 'LEGITIMATE DEMOCRATIC INSTITUTIONS,' TIME, JANUARY 27, 2021. https://time.com/5933666/putin-davos-agenda-speech/ 10 See, e.g., Jonathan Turley, Viewpoint: How likely is an Assange conviction in US?, BBC (April 11, 2019), https://www.bbc.com/news/world-us-canada-47874728. 7 significance tended to be secular, government-mandated speech controls. A number of historical periods are strikingly analogous to the current controversies in our streets and in our schools."
+    },
+    {
+     "inicio_corpo": 40486,
+     "fim_corpo": 41720,
+     "trecho": "47 See, e.g., Mackenzie Mays, Fresno State prof says he did nothing wrong, won’t ‘pay a dime’ for erasing anti-abortion messages, FRESNO BEE (Nov. 10, 2017, 2:59 PM), https://www.fresnobee.com/news/local/education-lab/article183987576.html (Professor berated pro-life students, denied they had a right to free speech on campus, and erased their chalk messages). 14 people with opposing views on campus.48 This includes faculty members associated with violent antifascist groups49 and professors condoning killing conservative protesters. Most of these voices have not been barred from social media or campuses.50 Students have faced similar backlash over expressing opposing or unpopular views. For many years, there have been questions raised over ill-defined speech standards. Recently, however, any pretense of ideological neutrality has been lost in cases where schools or even fellow students have attacked students for simply expressing opposing views on issues of racism or police abuse.51 There is no empirical study on the range of 48 One of the early and most notable examples of this trend of intolerance was the videotaping of Missouri Professor Melissa Click telling protesters to get rid of a student journalist."
+    },
+    {
+     "inicio_corpo": 43871,
+     "fim_corpo": 44831,
+     "trecho": "Ethan Greer, GUSA Senate condemns blog post written by a Georgetown student, THE 15 such controversies, but few would disagree that they are on the rise around the country.52 Polls show a sharp decline of support for free speech and a rise in students who say that they do not feel comfortable sharing their views.53 For example, a Yale poll found that seventy percent of students said that they experienced political bias and the same poll said that the students only believe one percent of their faculty were conservative.54 A poll at Pomona found nine out of ten students said that “the campus climate prevents them from saying something others might find offensive.” Nearly two-thirds of faculty members felt the same.55 Seventy-five percent of conservative and moderate students strongly agree that the school climate hinders their free expression.56 The poll showed a sharp difference in the freedom expected from students based on their ideology."
+    },
+    {
+     "inicio_corpo": 44831,
+     "fim_corpo": 45518,
+     "trecho": "The number of students GEORGETOWN VOICE (July 8, 2020), https://georgetownvoice.com/2020/07/08/gusa-senate-condemns-blog-post-written-by-a-georgetown-student/ 52 One poll of 800 full-time students at Yale found one in three believed violence was justified to oppose “hate speech.” Jonathon Turley, Poll: One In Three College Students Believe Violence is Justified to Stop “Hate Speech”, RES IPSA (Nov. 5, 2018), https://jonathanturley.org/2018/11/05/poll-one-in-three-college-students-believe-violence-is-justified-to-stop-hate-speech/. 53 See, e.g., Harvard Youth Poll Finds Majority of Young Americans Support Impeachment and Removal of President Trump, HARVARD KENNEDY SCHOOL (Nov."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0126::Escolaridade e letramento",
+   "unit_id": "W0126",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Turley",
+   "n_ocorrencias_no_par": 38,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 32,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "student",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "student",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "student",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "student",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "student",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "Students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 32804,
+     "fim_corpo": 34003,
+     "trecho": "Ironically, where professors and writers were once targeted for their criticism of the government, it is more likely today that one will be denounced for being supportive of the government, particularly law enforcement. The most chilling examples of intolerance have come on campuses of higher education. The extensive “cancelling” of speeches and events on campuses often involves rejecting the classical view that free speech protects all speakers, even those who are viewed as advancing harmful ideas. For example, a protest leader who succeeded in blocking a conservative speaker at Berkeley voiced an increasingly common refrain in an editorial: “I don’t think that anyone’s free speech is being impaired. I think sometimes the free speech amendment is used as a way to frame violent conversations as a matter of free speech.”35 When a University of North Carolina student assaulted pro-life advocates on campus in 2019, she gave another common explanation for violent protests: that seeing certain opposing views is “triggering” and hurtful.36 The rationalization for many disruptive or violent forms of conduct on campuses seeks to focus on the cause rather than the means of such protests."
+    },
+    {
+     "inicio_corpo": 34003,
+     "fim_corpo": 35051,
+     "trecho": "By declaring opposing views harmful or threatening, the range 32 Mohamed Younis, Four in 10 Americans Embrace Some Form of Socialism, GALLUP (May 20, 2019), https://news.gallup.com/poll/257639/four-americans-embrace-form-socialism.aspx. 33 Hunter Moyler, 76 Percent of Democrats Say They’d Vote for a Socialist for President, NEWSWEEK (Feb. 11, 2020, 10:34 AM), https://www.newsweek.com/76-percent-democrats-say-theyd-vote-socialist-president-new-poll-shows-1486732. 34 https://jonathanturley.org/2021/01/22/why-burn-books-when-you-can-ban-them-writers-and-publishers-embrace-blacklisting-in-an-expanding-american-anti-free-speech-movement/ 35 Juniperangelica Xiomara Cordova-Goff, Campus must prioritize safety of marginalized over free speech, THE DAILY CALIFORNIAN (May 1, 2017), https://www.dailycal.org/2017/05/01/399178/. 36 Caleb Parke, Liberal student arrested for punching pro-lifer on UNC campus, triggered by images of aborted children, FOX NEWS (May 9, 2019), https://www.foxnews.com/us/liberal-student-arrested-punching-pro-lifer."
+    },
+    {
+     "inicio_corpo": 34241,
+     "fim_corpo": 35051,
+     "trecho": "33 Hunter Moyler, 76 Percent of Democrats Say They’d Vote for a Socialist for President, NEWSWEEK (Feb. 11, 2020, 10:34 AM), https://www.newsweek.com/76-percent-democrats-say-theyd-vote-socialist-president-new-poll-shows-1486732. 34 https://jonathanturley.org/2021/01/22/why-burn-books-when-you-can-ban-them-writers-and-publishers-embrace-blacklisting-in-an-expanding-american-anti-free-speech-movement/ 35 Juniperangelica Xiomara Cordova-Goff, Campus must prioritize safety of marginalized over free speech, THE DAILY CALIFORNIAN (May 1, 2017), https://www.dailycal.org/2017/05/01/399178/. 36 Caleb Parke, Liberal student arrested for punching pro-lifer on UNC campus, triggered by images of aborted children, FOX NEWS (May 9, 2019), https://www.foxnews.com/us/liberal-student-arrested-punching-pro-lifer."
+    },
+    {
+     "inicio_corpo": 37043,
+     "fim_corpo": 37808,
+     "trecho": "39 Petra Mayer, National Book Critics Circle Board Members Resign Over Racism Allegations, NPR (June 15, 2020, 4:25 PM), https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/06/15/877385352/national-book-critics-circle-board-members-resign-over-racism-allegations; see also Jonathan Turley, Penn Professor Faces Call For His Removal After Questioning An Anti-Racism Statement, RES IPSA (July 23, 2020), https://jonathanturley.org/2020/07/23/penn-professor-faces-calls-for-his-removal-after-questioning-an-anti-racism-statement/. 40 Nick Givas, Cornell professor who criticized Black Lives Matter faces student boycott, FOX NEWS (June 17, 2020), https://www.foxnews.com/us/cornell-professor-criticized-black-lives-matter-faces-student-boycott."
+    },
+    {
+     "inicio_corpo": 37043,
+     "fim_corpo": 37808,
+     "trecho": "39 Petra Mayer, National Book Critics Circle Board Members Resign Over Racism Allegations, NPR (June 15, 2020, 4:25 PM), https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/06/15/877385352/national-book-critics-circle-board-members-resign-over-racism-allegations; see also Jonathan Turley, Penn Professor Faces Call For His Removal After Questioning An Anti-Racism Statement, RES IPSA (July 23, 2020), https://jonathanturley.org/2020/07/23/penn-professor-faces-calls-for-his-removal-after-questioning-an-anti-racism-statement/. 40 Nick Givas, Cornell professor who criticized Black Lives Matter faces student boycott, FOX NEWS (June 17, 2020), https://www.foxnews.com/us/cornell-professor-criticized-black-lives-matter-faces-student-boycott."
+    },
+    {
+     "inicio_corpo": 39460,
+     "fim_corpo": 40238,
+     "trecho": "45 See, e.g., University of New Hampshire Professor Identified In Effort To Disrupt Free Speech Event, RES IPSA (May 30, 2018), https://jonathanturley.org/2018/05/30/university-of-new-hampshire-professor-identified-in-effort-to-disrupt-free-speech-event/ (Professor shown shouting “We don’t want you in the LGBT community. Get the f**k out.” at speaker); Ryan Blessing, Police: QVCC administrator stole conservative commentator’s notes, THE BULLETIN (Dec. 13, 2017, 10:42 AM), https://www.norwichbulletin.com/news/20171213/police-qvcc-administrator-stole-conservative-commentators-notes (professor and administrator shown stealing notes of conservative speaker to stop event). 46 See, e.g., California professor pleads no contest to assault on pro-life students, FOX NEWS (Nov."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0126::Gênero",
+   "unit_id": "W0126",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Turley",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "gender",
+     "forma_encontrada": "gender",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13751,
+     "fim_corpo": 14487,
+     "trecho": "What is particularly concerning is the common evasion used by academics and reporters that such regulation is not really a free speech issue because these are private companies and the First Amendment only addresses government restrictions on free speech. As a private entity, companies like Twitter or publishing houses are clearly not the subject of that amendment. However, private companies can still destroy free speech through private censorship. It is called the “Little Brother” problem. That does not alter the fundamental threat to free speech. This is the denial of free speech, a principle that goes beyond the First Amendment. Indeed, some of us view free speech as a human right. Consider racial or gender discrimination."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0126::Idade",
+   "unit_id": "W0126",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Turley",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "Youth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "youth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 44831,
+     "fim_corpo": 45518,
+     "trecho": "The number of students GEORGETOWN VOICE (July 8, 2020), https://georgetownvoice.com/2020/07/08/gusa-senate-condemns-blog-post-written-by-a-georgetown-student/ 52 One poll of 800 full-time students at Yale found one in three believed violence was justified to oppose “hate speech.” Jonathon Turley, Poll: One In Three College Students Believe Violence is Justified to Stop “Hate Speech”, RES IPSA (Nov. 5, 2018), https://jonathanturley.org/2018/11/05/poll-one-in-three-college-students-believe-violence-is-justified-to-stop-hate-speech/. 53 See, e.g., Harvard Youth Poll Finds Majority of Young Americans Support Impeachment and Removal of President Trump, HARVARD KENNEDY SCHOOL (Nov."
+    },
+    {
+     "inicio_corpo": 44831,
+     "fim_corpo": 45856,
+     "trecho": "The number of students GEORGETOWN VOICE (July 8, 2020), https://georgetownvoice.com/2020/07/08/gusa-senate-condemns-blog-post-written-by-a-georgetown-student/ 52 One poll of 800 full-time students at Yale found one in three believed violence was justified to oppose “hate speech.” Jonathon Turley, Poll: One In Three College Students Believe Violence is Justified to Stop “Hate Speech”, RES IPSA (Nov. 5, 2018), https://jonathanturley.org/2018/11/05/poll-one-in-three-college-students-believe-violence-is-justified-to-stop-hate-speech/. 53 See, e.g., Harvard Youth Poll Finds Majority of Young Americans Support Impeachment and Removal of President Trump, HARVARD KENNEDY SCHOOL (Nov. 18, 2019), https://iop.harvard.edu/about/newsletter-press-release/harvard-youth-poll-impeachment-nov18-2019) (finding that only 35 percent of young Republicans felt comfortable sharing their political opinions on campus); Jennifer Larson, et al., Free Expression and Constructive Dialogue at UNC at Chapel Hill, UNC FACULTY REPORTS (Mar."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0126::Raça e etnia",
+   "unit_id": "W0126",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Turley",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "minority",
+     "forma_encontrada": "minority",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 545,
+     "fim_corpo": 1501,
+     "trecho": "and Maurice C. Shapiro Chair of Public Interest Law.1 It is an honor to appear before you today to discuss “disinformation and extremism in the media.” This is an issue that is heavily laden with political passions and agendas. In our age of rage, every issue tends to be associated with the interests of one party or one personality. In such an environment, all values or rights often become purely functional questions as to whether they advance or inhibit political objectives. In coming to this hearing, I have only one interest and only one concern: free speech in the United States. As will come as no surprise to those familiar with my prior writings, I maintain what was once a mainstream view of free speech. I believe that free speech is the greatest protection against bad speech. That view is admittedly under fire and indeed may be a minority view today, but history has shown that public or private censorship does not produce better speech."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0126::Saúde e deficiência",
+   "unit_id": "W0126",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Turley",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "blind",
+     "forma_encontrada": "blind",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "blind",
+     "forma_encontrada": "blind",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4913,
+     "fim_corpo": 5822,
+     "trecho": "I recently left CBS and BBC to work with Fox News as a legal analyst. 3 multiple campaigns have sought my termination as a professor, particularly after I testified as a constitutional expert in the impeachment hearings of former presidents William Clinton and Donald Trump. Thus, while I am generally viewed as something of a “free speech purist,” I have no illusions about the harm of disinformation and extremist speech in our society. Yet, I believe that speech controls pose far greater threats for our country than misguided or malevolent speech. For that reason, I welcome this hearing as an opportunity for a civil and informed discussion of the underlying issues related to speech regulation. I expect that there is much agreement among us on this panel on the costs of false or extremist speech. However, the costs of such speech should not blind us to the greater costs of speech regulation."
+    },
+    {
+     "inicio_corpo": 10285,
+     "fim_corpo": 11070,
+     "trecho": "That facially absurd theory attracted roughly 1.5 million views.6 Another example were the claims of systemic voting fraud by former President Donald Trump, including in his speech on January 6, 2021. I was critical on Twitter of that speech while it was being given and I opposed the challenge of electoral votes in Congress. I also condemned Trump for his false statements about the authority of Vice President Michael Pence to “send back” electoral votes. In other words, I was able to use the exercise of free speech to combat what I viewed as false speech. It is also true that the existence of such countervailing information will not always change minds, particularly when there is a mistrust of official or media sources of information. This can create a dangerous blind spot."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0127::Educação",
+   "unit_id": "W0127",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Emily Bell",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 255,
+     "trecho": "Emily Bell Leonard Tow Professor of Journalism, Director of the Tow Center for Digital Journalism Columbia Journalism School Evidence submitted to: The Subcommittee on Communications and Technology of the Committee on Energy and Commerce."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0127::Raça e etnia",
+   "unit_id": "W0127",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Emily Bell",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "minority",
+     "forma_encontrada": "Minority",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3145,
+     "fim_corpo": 4106,
+     "trecho": "The vast majority of US citizens now access news through online aggregators, with Facebook and YouTube being by some way the largest. For news journalists and consumers alike these changes have meant navigating a dynamic but noisy environment of often unverified and unverifiable sources. The ‘attention economy’ of the advertising-based internet boosts content which is highly engaging, be it cat videos or well-craf ted political rhetoric. Research has repeatedly shown that material which appeals to emotions is more likely to garner large audiences or ‘go viral’ than material which is rational or boring. There are many advantages to the low barriers to entry created by online media, and the microtargeting model of advertising that underpins it. Minority voices long ignored or excluded by mainstream media and those previously reliant on the intermediary powers of the old gatekeepers can now speak directly to their communities and markets."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0128::Administração pública",
+   "unit_id": "W0128",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Kristin Urquiza",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4139,
+     "fim_corpo": 5127,
+     "trecho": "His love for this country, just like the twinkle in his eye and his mischievous smile, was infectious and central to our bond. One lesson—besides the United States has the most powerful military in the world—that was taught repeatedly in those documentaries was this: in times of crisis, you turn to the people in charge. You follow orders. You do this for the good of the country. So on May 5, 2020, when the former President made his first public appearance from his quarantine at the White House to the Honeywell facility in Phoenix, Arizona—the same facility where my father worked for many years, where I can remember joining him for a \"take your daughter to work day\"—and said, it was time to open up, my Dad listened. When Arizona Governor Doug Ducey flipped the switch on May 15, reopening the state with absolutely no safety measures in place and forbidding local governments from taking additional action, the evidence was mounting that we had overcome the enemy of the virus."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,942 @@
+{
+ "caso": "FUST",
+ "lote": 22,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0133::Renda e classe",
+   "unit_id": "S0133",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-07",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2221,
+     "fim_corpo": 3152,
+     "trecho": "Votou-se aqui muita coisa que se refletiu diretamente na educação. Para exemplificar, a emenda constitucional e a lei que criaram o Fundo de Desenvolvimento do Ensino Fundamental – Fundef –, que tem sido alvo de alguns desmandos em alguns Estados e Municípios, numa situação absolutamente inaceitável – prefeitos malbaratando esses recursos, recursos destinados ao ensino fundamental, que são escassos e que, mesmo assim, os prefeitos gastam mal, aplicam mal ou são desonestos na aplicação desses recursos. Felizmente, a sociedade está alerta e cobra dos responsáveis a punição para esses maus administradores. Outro programa aprovado aqui foi o projeto de educação vinculado à renda mínima, com a participação dos municípios, que está sendo executado nacionalmente pelo Ministério da Educação e que visa a oferecer um estímulo financeiro aos municípios mais pobres do País, para que os pais mantenham seus filhos na escola."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0134::Infraestrutura e porte populacional",
+   "unit_id": "S0134",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-07",
+   "orador": "Roberto Saturnino",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "fronteira",
+     "forma_encontrada": "fronteira",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12603,
+     "fim_corpo": 13573,
+     "trecho": "Avalio mesmo que, quando, por exemplo, no Brasil, pensamos em instituir o direito de garantia de uma renda mínima, deveríamos estar interagindo com os países do Mercosul para que isso seja uma política comum, e não apenas do Brasil. Seria interessante que o Estado do Rio de Janeiro tivesse, como também o Estado de São Paulo, o Estado de Alagoas, e assim por diante, que não fosse simplesmente uma política estadual ou municipal, mas um direito inerente à cidadania. V. Exª traz aqui hoje também o tema do risco de dolarização das economias dos países vizinhos do Brasil em toda a América Latina. O Equador, embora não fazendo fronteira com o Brasil, tem uma proximidade conosco muito grande, e o fato de o Presidente e o Ministro da Economia daquele país terem asseverado que não havia outra alternativa senão a de dolarizarem sua economia representa uma decisão extremamente séria e que deve ser analisada com atenção pelo Executivo e por nós, no Congresso Nacional."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0134::Macrorregião",
+   "unit_id": "S0134",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-07",
+   "orador": "Roberto Saturnino",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2440,
+     "fim_corpo": 3329,
+     "trecho": "Sr. Presidente, a nota mostrava o Sr. Presidente Batlle, do Uruguai, como um político, um líder menos ligado ao Brasil e ao Mercosul do que à Argentina e aos Estados Unidos e, por conseguinte, à ALCA. Segundo o Itamaraty, essa nota é falsa na sua confecção e elaboração. Todavia, sabe-se que, no seu conteúdo, ela é verdadeira, isto é, quem a produziu estava com as informações corretas. Entretanto, do ponto de vista diplomático, não seria de bom alvitre, de boa política internacional revelar essas coisas como se fossem da lavra do próprio Ministério das Relações Exteriores do Brasil. O fato é que não se pode contar com o novo Presidente do Uruguai como um forte aliado do Mercosul no confronto de interesses entre este e a ALCA, a qual significaria absorção dos interesses comerciais de toda a América Latina pela força econômica do gigante Estados Unidos da América do Norte."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0134::Posição no trabalho",
+   "unit_id": "S0134",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-07",
+   "orador": "Roberto Saturnino",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "autônomo",
+     "forma_encontrada": "autônomo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9634,
+     "fim_corpo": 10658,
+     "trecho": "Fernando Henrique, mas para a do próximo Presidente. Que opção restará? Que medida ainda pode tomar o novo Presidente da Argentina, Fernando de la Rúa, senão acabar levando a economia argentina à dolarização? Os compromissos que ele recebeu do presidente anterior o obrigam a tomar esse caminho. Então, criam-se condições concretas que vão impedir os países da América Latina de procurar soluções que não sejam o atrelamento ao dólar. Lembro-me de um pronunciamento do Senador Eduardo Suplicy, realizado na semana passada, no qual S. Exª abordou exatamente esse assunto. Hoje, ao tomar conhecimento dessa gafe do Itamaraty, veio-me novamente à mente a idéia de que o Brasil deve tomar agora, a curto prazo, a decisão de mudar a sua política econômica, voltando-se para um processo de desenvolvimento autônomo interno, isto é, baseado no seu mercado interno, também voltando-se mais profundamente para os mercados das nações irmãs da América do Sul, no sentido de traçarem, em conjunto, um programa de desenvolvimento."
+    },
+    {
+     "inicio_corpo": 11790,
+     "fim_corpo": 12603,
+     "trecho": "Exª está trazendo hoje a esta Casa. Primeiro, ressaltando a importância do Mercosul para o Brasil e de uma atitude efetiva de grande entrosamento com a Argentina, o Uruguai, o Paraguai, possivelmente o Chile, convidando os demais países que têm afinidade e proximidade territorial conosco, para caminharmos na direção de uma espécie de comunidade, não apenas uma simples zona de livre comércio, mas uma zona que, tal como hoje constitui exemplo a Comunidade Econômica Européia, possa se tornar uma área econômica comum, podendo, inclusive, as pessoas estarem trabalhando ora num país, ora noutro; estudando ali ou aqui, ou onde entender que é o melhor para o seu desenvolvimento, e que o entrosamento entre esses países do Mercosul tenha um sentido do ponto de vista dos trabalhadores, dos seus direitos sociais."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0134::Renda e classe",
+   "unit_id": "S0134",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-07",
+   "orador": "Roberto Saturnino",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 14211,
+     "fim_corpo": 15248,
+     "trecho": "Assinalo, Senador Roberto Saturnino, que, no Congresso dos Estado Unidos, a chamada Joint Economic Committee, que reúne a Casa dos Representantes e o Senado Federal, durante o ano passado, realizou algumas audiências sobre o tema da dolarização, em que, ainda que houvesse proposições a favor e contra, algumas vozes propunham que os Estados Unidos estimulassem a dolarização das economias de alguns países da América Latina. E o próprio Secretário do Tesouro, Larry Summers, na ocasião em que ali compareceu, chegou a mencionar que, para os Estados Unidos, haveria aí uma grande vantagem, já que um país que viesse a adotar o dólar como sua moeda propiciaria aos Estados Unidos a receita de senhoriagem. Mais do que isso, seria para os Estados Unidos como que um empréstimo sem a necessidade de pagamento de juros. Assim, viveríamos uma situação bizarra, segundo a qual, países relativamente mais pobres estariam, ao utilizar a moeda de um país mais desenvolvido, criando possibilidades de maior desenvolvimento econômico daquele país."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0135::Renda e classe",
+   "unit_id": "S0135",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-07",
+   "orador": "Eduardo Suplicy",
+   "n_ocorrencias_no_par": 9,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 3,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 421,
+     "trecho": "O SR. EDUARDO SUPLICY (Bloco/PT – SP. Para uma comunicação inadiável. Sem revisão do orador.) – Sr. Presidente, Senador Iris Rezende, Srs. Senadores, eu gostaria de tecer considerações sobre a proposta de emenda substitutiva que apresentei à Proposta de Emenda à Constituição nº 67, de 1999, que altera o Ato das Disposições Constitucionais Transitórias, introduzindo artigos que criam o Fundo de Erradicação da Pobreza."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 765,
+     "trecho": "O SR. EDUARDO SUPLICY (Bloco/PT – SP. Para uma comunicação inadiável. Sem revisão do orador.) – Sr. Presidente, Senador Iris Rezende, Srs. Senadores, eu gostaria de tecer considerações sobre a proposta de emenda substitutiva que apresentei à Proposta de Emenda à Constituição nº 67, de 1999, que altera o Ato das Disposições Constitucionais Transitórias, introduzindo artigos que criam o Fundo de Erradicação da Pobreza. Nesses artigos são consideradas tanto a proposta de emenda à Constituição do Senador Antonio Carlos Magalhães quanto a da Comissão Mista de Combate à Pobreza, que estão sendo objeto de relatório do Senador Lúcio Alcântara na Comissão de Constituição, Justiça e Cidadania, que se reunirá amanhã, logo após a Ordem do Dia, para exame do parecer."
+    },
+    {
+     "inicio_corpo": 421,
+     "fim_corpo": 1401,
+     "trecho": "Nesses artigos são consideradas tanto a proposta de emenda à Constituição do Senador Antonio Carlos Magalhães quanto a da Comissão Mista de Combate à Pobreza, que estão sendo objeto de relatório do Senador Lúcio Alcântara na Comissão de Constituição, Justiça e Cidadania, que se reunirá amanhã, logo após a Ordem do Dia, para exame do parecer. Encaminhei a S. Exª, na última quinta-feira, essa proposta de emenda ao seu parecer, que diz basicamente o seguinte: \"Art. 1º A Constituição Federal, no Ato das Disposições Constitucionais Transitórias, é acrescida dos seguintes artigos: Art. 76. Fica instituído no âmbito do Poder Executivo Federal o Fundo de Erradicação da Pobreza – Cidadania, com a finalidade de financiar ações do Programa de Garantia de Renda Mínima – PGRM e outras ações que visem reduzir a exclusão social e melhorar a distribuição da renda no País.\" Fica, portanto, o nome \"Cidadania\" como a síntese do Fundo de Erradicação da Pobreza."
+    },
+    {
+     "inicio_corpo": 765,
+     "fim_corpo": 1401,
+     "trecho": "Encaminhei a S. Exª, na última quinta-feira, essa proposta de emenda ao seu parecer, que diz basicamente o seguinte: \"Art. 1º A Constituição Federal, no Ato das Disposições Constitucionais Transitórias, é acrescida dos seguintes artigos: Art. 76. Fica instituído no âmbito do Poder Executivo Federal o Fundo de Erradicação da Pobreza – Cidadania, com a finalidade de financiar ações do Programa de Garantia de Renda Mínima – PGRM e outras ações que visem reduzir a exclusão social e melhorar a distribuição da renda no País.\" Fica, portanto, o nome \"Cidadania\" como a síntese do Fundo de Erradicação da Pobreza."
+    },
+    {
+     "inicio_corpo": 1026,
+     "fim_corpo": 2482,
+     "trecho": "76. Fica instituído no âmbito do Poder Executivo Federal o Fundo de Erradicação da Pobreza – Cidadania, com a finalidade de financiar ações do Programa de Garantia de Renda Mínima – PGRM e outras ações que visem reduzir a exclusão social e melhorar a distribuição da renda no País.\" Fica, portanto, o nome \"Cidadania\" como a síntese do Fundo de Erradicação da Pobreza. § 1º O Cidadania é um fundo contábil, de natureza financeira, subordinando-se, no que couber, à legislação vigente. § 2º Dos recursos do Cidadania, no mínimo 75% serão aplicados em programas de renda mínima, e o restante deverá ser empregado nas outras ações, de acordo com o disposto no caput deste artigo. § 3º Cabe ao Estado assegurar a todo cidadão brasileiro uma renda mínima suficiente para os gastos com alimentação, vestuário e moradia. Art. 77. Integram o Fundo de Erradicação da Pobreza – Cidadania: I – dotações consignadas no Orçamento Geral da União; II – cinqüenta por cento dos recursos recebidos em moeda corrente, títulos e créditos, inclusive decorrentes de acordos específicos, no âmbito do Programa Nacional de Desestatização; III – cinqüenta por cento dos recursos oriundos da concessão de serviço público e obra pública, bem como da permissão ou autorização para a prestação de serviço público; IV – cinqüenta por cento dos recursos oriundos da autorização ou concessão das atividades previstas no § 1º do art."
+    },
+    {
+     "inicio_corpo": 3349,
+     "fim_corpo": 3838,
+     "trecho": "§ 1º Visando conferir segurança, rentabilidade, solvência e liquidez às disponibilidades do Cidadania, as aplicações dessas disponibilidades deverão ser efetuadas em conformidade com as mesmas diretrizes estabelecidas pelo Conselho Monetário Nacional para as entidades fechadas de previdência privada. § 2º Os saldos verificados no final de cada exercício serão obrigatoriamente transferidos para o crédito do Fundo de Erradicação da Pobreza – Cidadania no exercício seguinte."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0136::Escolaridade e letramento",
+   "unit_id": "S0136",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-08",
+   "orador": "Luiz Otavio",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "aluno",
+     "forma_encontrada": "Aluno",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6952,
+     "fim_corpo": 7354,
+     "trecho": "Se essas embarcações possuíssem casco duplo, não haveria risco de abalroamento, de afundamento ou de vazamento de combustível. Essas embarcações têm mais de 30 anos de vida útil e são utilizadas da mesma forma que os dutos, a tancagem e até os terminais, como foi comprovado na Vila do Conde, lá em Barcarena, onde está instalada a fábrica Albrás/Alunorte, que produz alumínio para a Vale do Rio Doce."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0136::Idade",
+   "unit_id": "S0136",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-08",
+   "orador": "Luiz Otavio",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "idosos",
+     "forma_encontrada": "idos os",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5628,
+     "fim_corpo": 6393,
+     "trecho": "Os recursos que o Governo, de forma até irresponsável, e as distribuidoras, de forma criminosa, subtraem dos transportadores desses produtos, teriam de ser multiplicados inúmeras vezes sem que fossem suficientes para sanar todos os danos ambientais, econômicos e humanos causados. Faço, neste momento, um veemente apelo ao Diretor-Presidente da Agência Nacional de Petróleo, para que, com a participação de todos os órgãos envolvidos, inclusive dos armadores e trabalhadores da região Amazônica – são mais de 80 mil embarcações fazendo transporte de carga, passageiros, e combustível de todos os tipos –, imediatas providências sejam tomadas para que, superadas as causas, sejam reduzidos os riscos ambientais do transporte desses produtos na Amazônia."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0136::Macrorregião",
+   "unit_id": "S0136",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-08",
+   "orador": "Luiz Otavio",
+   "n_ocorrencias_no_par": 14,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 8,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "região amazônica",
+     "forma_encontrada": "região amazônica",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "região amazônica",
+     "forma_encontrada": "região Amazônica",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 320,
+     "trecho": "O SR. LUIZ OTÁVIO (Sem Partido – PA. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, na semana que passou, pronunciei-me do plenário desta Casa, alertando para a possibilidade de ocorrência de um sinistro ambiental na Amazônia superior ao verificado na baía da Guanabara."
+    },
+    {
+     "inicio_corpo": 320,
+     "fim_corpo": 1286,
+     "trecho": "Infelizmente, pareceu-me premonição. Eis que, no início desta semana, uma balsa que prestava serviços no transporte de óleo combustível (BPF) para a companhia americana Texaco afundou no porto de Vila do Conde, Município de Barcarena, no Estado do Pará, com cerca de duas mil toneladas do produto. É falacioso dizer que os riscos de contaminação ambiental são restritos pela densidade do produto e por ser o peso específico do mesmo superior ao da água. Ora, em sendo isso verdade, e se houver um vazamento da carga acumulada nos tanques da embarcação, esta se localizará no fundo do rio, destruindo todos os microorganismos e microssistemas bióticos da região que for afetada. A preocupação com a possibilidade, mais presente a cada dia, de um sinistro na Amazônia, de proporções maiores que o verificado na baía da Guanabara tem sido um constante motivo de alerta às autoridades competentes, pelos Sindicatos dos Armadores do Pará e do Amazonas."
+    },
+    {
+     "inicio_corpo": 786,
+     "fim_corpo": 1729,
+     "trecho": "Ora, em sendo isso verdade, e se houver um vazamento da carga acumulada nos tanques da embarcação, esta se localizará no fundo do rio, destruindo todos os microorganismos e microssistemas bióticos da região que for afetada. A preocupação com a possibilidade, mais presente a cada dia, de um sinistro na Amazônia, de proporções maiores que o verificado na baía da Guanabara tem sido um constante motivo de alerta às autoridades competentes, pelos Sindicatos dos Armadores do Pará e do Amazonas. Assim é que o Sindicato do Amazonas, por meio de expediente datado de 10 de novembro passado, que neste momento dou como lido, e reiterado pelo mesmo Sindicato em 31 de janeiro deste ano, que também considero lido, já manifestavam aos Ministérios dos Transportes, de Minas e Energia, de Recursos Hídricos, da Amazônia Legal e Meio Ambiente e da Fazenda, como também à Agência Nacional de Petróleo, os temores de que tal fato viesse a ocorrer."
+    },
+    {
+     "inicio_corpo": 1010,
+     "fim_corpo": 2163,
+     "trecho": "A preocupação com a possibilidade, mais presente a cada dia, de um sinistro na Amazônia, de proporções maiores que o verificado na baía da Guanabara tem sido um constante motivo de alerta às autoridades competentes, pelos Sindicatos dos Armadores do Pará e do Amazonas. Assim é que o Sindicato do Amazonas, por meio de expediente datado de 10 de novembro passado, que neste momento dou como lido, e reiterado pelo mesmo Sindicato em 31 de janeiro deste ano, que também considero lido, já manifestavam aos Ministérios dos Transportes, de Minas e Energia, de Recursos Hídricos, da Amazônia Legal e Meio Ambiente e da Fazenda, como também à Agência Nacional de Petróleo, os temores de que tal fato viesse a ocorrer. Mas não existe efeito sem causa. E quais são as causas da fragilidade em que se encontra o segmento da navegação transportadora de derivados de petróleo na Amazônia, com o nível de riscos se elevando de forma assustadora, tendo os sinistros com as embarcações utilizadas nesse transporte crescido, só na Amazônia Ocidental, nos últimos anos, cerca de 500%, quando antes as margens de segurança eram significativamente elevadas?"
+    },
+    {
+     "inicio_corpo": 1286,
+     "fim_corpo": 2163,
+     "trecho": "Assim é que o Sindicato do Amazonas, por meio de expediente datado de 10 de novembro passado, que neste momento dou como lido, e reiterado pelo mesmo Sindicato em 31 de janeiro deste ano, que também considero lido, já manifestavam aos Ministérios dos Transportes, de Minas e Energia, de Recursos Hídricos, da Amazônia Legal e Meio Ambiente e da Fazenda, como também à Agência Nacional de Petróleo, os temores de que tal fato viesse a ocorrer. Mas não existe efeito sem causa. E quais são as causas da fragilidade em que se encontra o segmento da navegação transportadora de derivados de petróleo na Amazônia, com o nível de riscos se elevando de forma assustadora, tendo os sinistros com as embarcações utilizadas nesse transporte crescido, só na Amazônia Ocidental, nos últimos anos, cerca de 500%, quando antes as margens de segurança eram significativamente elevadas?"
+    },
+    {
+     "inicio_corpo": 1729,
+     "fim_corpo": 3239,
+     "trecho": "Mas não existe efeito sem causa. E quais são as causas da fragilidade em que se encontra o segmento da navegação transportadora de derivados de petróleo na Amazônia, com o nível de riscos se elevando de forma assustadora, tendo os sinistros com as embarcações utilizadas nesse transporte crescido, só na Amazônia Ocidental, nos últimos anos, cerca de 500%, quando antes as margens de segurança eram significativamente elevadas? Três, Sr. Presidente, Srªs e Srs. Senadores, são, no meu entender, as principais causas que têm levado a armação interior na Amazônia à situação caótica em que se encontra atualmente: 1 - a política de desequalização dos preços de derivados de petróleo na Amazônia, implementada a partir de 1994, e que deverá estar concluída em julho do corrente ano, conforme estabelece a Lei nº 9.478/97; 2 - a recusa continuada do Governo Federal em realinhar os preços das tarifas de frete desses produtos, pelos mesmo administradas, há mais de cinco anos congelados, embora tenham sido elevados os custos operacionais, principalmente de combustíveis, que participam com cerca de 25% da estrutura destes; 3 - o poder oligopolista da Petrobrás e das distribuidoras multinacionais que, juntas, representam uma participação de cerca de 90% do mercado regional de distribuição de derivados, e que obrigam os armadores, numa verdadeira prática de crimes econômicos, a lhes proporcionar rebates nos fretes de até 30%, sob pena de não lhes fornecerem a carga para transportar."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0136::Posição no trabalho",
+   "unit_id": "S0136",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-08",
+   "orador": "Luiz Otavio",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5628,
+     "fim_corpo": 6393,
+     "trecho": "Os recursos que o Governo, de forma até irresponsável, e as distribuidoras, de forma criminosa, subtraem dos transportadores desses produtos, teriam de ser multiplicados inúmeras vezes sem que fossem suficientes para sanar todos os danos ambientais, econômicos e humanos causados. Faço, neste momento, um veemente apelo ao Diretor-Presidente da Agência Nacional de Petróleo, para que, com a participação de todos os órgãos envolvidos, inclusive dos armadores e trabalhadores da região Amazônica – são mais de 80 mil embarcações fazendo transporte de carga, passageiros, e combustível de todos os tipos –, imediatas providências sejam tomadas para que, superadas as causas, sejam reduzidos os riscos ambientais do transporte desses produtos na Amazônia."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0137::Urbano e rural",
+   "unit_id": "S0137",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-08",
+   "orador": "Osmar Dias",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2161,
+     "fim_corpo": 3077,
+     "trecho": "Presidente, ocorre que as rodovias que foram entregues à iniciativa privada no Paraná receberam praças de pedágio, algumas delas em desobediência à Lei n.º 8.987, que prevê que as praças de pedágio não devem ser colocadas a uma distância menor do que cem quilômetros, uma da outra. Entretanto, no Paraná há praças de pedágio que estão postas a apenas vinte e quatro quilômetros uma da outra. Isso onera o usuário da estrada e, tendo em vista os preços que estão sendo cobrados, inviabiliza o setor responsável pela geração do maior número de empregos e da maior receita do Estado do Paraná, que é a agropecuária – a agropecuária está pagando o equivalente a 10% do custo de produção de todas as culturas na fazenda. Isso significa que o produtor rural, que gasta um determinado valor para produzir a sua soja, o seu milho, tem esse custo acrescido em 10% em função dos preços do pedágio que já estão sendo cobrados."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0138::Idade",
+   "unit_id": "S0138",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-09",
+   "orador": "Mauro Miranda",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "idoso",
+     "forma_encontrada": "ido so",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3875,
+     "fim_corpo": 4857,
+     "trecho": "Nunca, Srªs e Srs. Senadores! Que eles ganhem o leilão, e vou até aplaudir, mas que não me venham com essa estória de desnacionalização. Não tenho nada contra os bancos nacionais. Meu problema é com a hipocrisia, o engodo. Chamo a atenção dos senhores para o artigo de Hélio Gaspari, na Folha de S.Paulo de hoje, página 9 do primeiro caderno. Afirma ele: \"Na hora em que o maçarico se aproximou de seus cofres, estão costurando por dentro para tirar os concorrentes estrangeiros do leilão do Banespa\". Ele fala dos banqueiros nacionais, que estão conseguindo \"um prodígio de lógica\". Volto ao problema do desconforto do Presidente Fernando Henrique Cardoso, que, pela lógica enviesada de parte de seu Ministério, deve voltar atrás e passar pelo constrangimento da quebra de compromisso. Ele deveria, imediatamente, ao contrário, colocar um basta nas especulações que denunciam um governo dividido sobre essa questão de alta voltagem para a sintonia fina dos capitais de fora."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0138::Posição no trabalho",
+   "unit_id": "S0138",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-09",
+   "orador": "Mauro Miranda",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7622,
+     "fim_corpo": 8386,
+     "trecho": "Para muitos brasileiros, patriotas autênticos e sinceros, foi como um estupro cívico enfrentar a venda das grandes estatais de siderurgia, petroquímica, mineração e eletricidade. Preços aviltados, uso de moedas podres, suspeitas de favorecimentos foram coisas dos primeiros tempos da privatização, que não acontecem agora, felizmente. Se o Bradesco, o Itaú ou o Unibanco não comprar o Banespa, nada de importante vai acontecer a cada um desses três grandes impérios financeiros. Eles vão continuar grandes, poderosos, diversificados e lucrativos, como têm sido, e muitas vezes à custa da morte de pequenas, médias e grandes empresas que não puderam suportar seus juros escorchantes e que acabaram colocando milhares de brasileiros na amargura do desemprego."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0138::Renda e classe",
+   "unit_id": "S0138",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-09",
+   "orador": "Mauro Miranda",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1825,
+     "fim_corpo": 2825,
+     "trecho": "Em tese, concordo com as preocupações de setores responsáveis do país, que temem uma concentração excessiva de instituições estrangeiras no nosso setor bancário. Mas também não posso fechar os olhos para essa grande hipocrisia, esse grande cinismo dos três principais conglomerados financeiros do País, que, de repente, assumem uma posição nacionalista, radical, que nunca tiveram. Eles foram beneficiários, sócios, defensores da privatização de setores verdadeiramente estratégicos, como a siderurgia, as telecomunicações e a mineração, incluindo a Vale do Rio Doce. Então, tudo bem com a privatização, desde que ela chegue aos seus quintais. Foram os bancos brasileiros, com seus juros escorchantes, que levaram à desnacionalização da indústria. Eles mataram as indústrias daqui, para que as de fora chegassem. Na reforma cambial, todos nós ficamos mais pobres, menos os bancos, porque lucraram com a desvalorização do real e com os altíssimos estoques em dólares que eles detinham em seus cofres."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0138::Urbano e rural",
+   "unit_id": "S0138",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-09",
+   "orador": "Mauro Miranda",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2825,
+     "fim_corpo": 3626,
+     "trecho": "O que eles querem é abocanhar mais espaços, construir um sistema financeiro ainda mais fechado. Pergunto, Srªs e Srs. Senadores: há quantas décadas estamos sendo desnacionalizados, sem que esses bancos questionassem esse fato? Quantas montadoras verdadeiramente nacionais temos? Quantos laboratórios temos? A Bayer, a Ciba-Geigy, a Schering, a Glaxo, a Hoescht, a Bristol, a Pfizer, para citar alguns desses laboratórios, são nossos ou são multinacionais? E a Coca-Cola? E a Colgate? O Carrefour? As vacinas, as sementes, os insumos básicos da agricultura são fortemente dependentes das multinacionais, que fazem os preços que querem, e os bancos não vêm nos defender. O Carrefour faz o preço que quer para os produtores de alface, e o Bradesco fica de longe vendo a quebradeira do setor rural."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0139::Domicílio e arranjo familiar",
+   "unit_id": "S0139",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-10",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "domicílios",
+     "forma_encontrada": "domicílios",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4201,
+     "fim_corpo": 5075,
+     "trecho": "Não seria justo que os filhos do Vale, os filhos do sonho de Juscelino, meninos pobres como ele, de pé no chão, a percorrerem as penhas do Jequitinhonha, fossem alijados da possibilidade de se levantarem para um mundo melhor. Diamantina, a bela cidade Patrimônio Cultural da Humanidade, por recente decisão da Unesco, será sede, em março próximo, da reunião mensal do Conselho Deliberativo da Sudene, com a presença dos Governadores nordestinos, de Ministros de Estado e de técnicos do primeiro escalão do Governo Federal. Sr. Presidente, a Sudene não restringiu sua existência ao repasse de recursos a poucos ou a descompromissados investimentos. Mais do que isso, vem interpretando, com fidelidade, o sonho de um outro grande brasileiro, Celso Furtado, nosso consagrado economista paraibano, que tem residência no Brasil e na França, onde leciona na Sorbonne."
+    },
+    {
+     "inicio_corpo": 5075,
+     "fim_corpo": 6055,
+     "trecho": "Sob a liderança da Sudene e do Banco do Nordeste Brasileiro, os números mostram a evolução do Nordeste. Seu Índice de Desenvolvimento Humano, um indicador que mede a esperança de vida, o nível de educação e a renda média por habitante, evoluiu de 0,299, em 1970, para 0,608, em 1996, embora distante ainda do IDH-Brasil, que, em 1996, alcançou 0,830. A taxa de analfabetismo, que em 1990 alcançava 46,8% da população de 7 a 14 anos, caiu para 30,8%, em 1996. Em 1990, 36,4% dos nordestinos acima de 15 anos eram analfabetos; em 1996, esse percentual caiu para 28,7%. É claro que os índices nacionais de analfabetismo são bem menores, inferiores a 15% para os dois casos citados, mas a evolução dos indicadores sociais do Nordeste é um fato inelutável. Estatísticas apontam que, em 1997, 85,5% dos domicílios nordestinos possuíam água tratada; 97,7% tinham energia elétrica; 92,8%, fogão; 56,6%, geladeira; 83,3%, rádio, e 72,3% das casas tinham televisão."
+    },
+    {
+     "inicio_corpo": 10401,
+     "fim_corpo": 11429,
+     "trecho": "Ministro, Srªs e Srs. Senadores, em nenhum lugar do mundo a estiagem é razão suficiente para o atraso secular, nem motivo para a abdicação do progresso e do desenvolvimento. No Nordeste, não é diferente. O lento desenvolvimento do Nordeste nem é sequer resultado da falta de planejamento ou da ausência de políticas públicas, mas da vontade política de executá-las, da falta de determinação em prover a região dos recursos de que ela necessita para desenvolver suas políticas de desenvolvimento. Por isso, fragilizaram-se tanto as políticas públicas de longo prazo, como a açudagem e a longa lista de programas e projetos, como as de curto prazo, destinadas a vencer o desafio da seca na hora em que ela se apresenta, por intermédio da constituição de frentes de serviço que transformam os flagelados em pedintes. É evidente que, em situação de indigência, milhões de famílias de nordestinos do semi-árido, atacadas pela seca, precisam ser atendidas com o mínimo para sua subsistência, em caráter emergencial."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0139::Educação",
+   "unit_id": "S0139",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-10",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8147,
+     "fim_corpo": 9237,
+     "trecho": "Destaco o Nordeste urbano, representado pelas grandes concentrações populacionais, e o Nordeste rural, onde o progresso vem chegando vagarosamente, a passos de tartaruga, não obstante o vigoroso esforço da direção da Sudene e dos Governadores da Região. Principalmente a Bahia, Pernambuco e Ceará constituem o Nordeste industrialmente desenvolvido, com forte presença exportadora, que se contrapõe ao outro Nordeste, mais pobre, cuja economia é basicamente primária. Esse Nordeste menos desenvolvido retrata-se nos deprimentes indicadores sociais: as elevadas taxas de analfabetismo, que, em Alagoas, chegam a 40%; os precários serviços de saúde e de saneamento, que mantêm altas as taxas de mortalidade infantil e que fazem com que menos de 20% da população rural consuma água potável; a deficiência do ensino público, que estimula a evasão escolar; a violência, que em Pernambuco eleva a taxa de mortalidade por homicídios para 72,1 por 100 mil habitantes entre 15 e 29 anos; a prostituição infantil e o trabalho em regime de semi-escravidão a que são submetidas as crianças."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0139::Escolaridade e letramento",
+   "unit_id": "S0139",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-10",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "analfabetismo",
+     "forma_encontrada": "analfabetismo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "analfabetos",
+     "forma_encontrada": "analfabetos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "analfabetismo",
+     "forma_encontrada": "analfabetismo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "analfabetismo",
+     "forma_encontrada": "analfabetismo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4730,
+     "fim_corpo": 5546,
+     "trecho": "Sr. Presidente, a Sudene não restringiu sua existência ao repasse de recursos a poucos ou a descompromissados investimentos. Mais do que isso, vem interpretando, com fidelidade, o sonho de um outro grande brasileiro, Celso Furtado, nosso consagrado economista paraibano, que tem residência no Brasil e na França, onde leciona na Sorbonne. Sob a liderança da Sudene e do Banco do Nordeste Brasileiro, os números mostram a evolução do Nordeste. Seu Índice de Desenvolvimento Humano, um indicador que mede a esperança de vida, o nível de educação e a renda média por habitante, evoluiu de 0,299, em 1970, para 0,608, em 1996, embora distante ainda do IDH-Brasil, que, em 1996, alcançou 0,830. A taxa de analfabetismo, que em 1990 alcançava 46,8% da população de 7 a 14 anos, caiu para 30,8%, em 1996."
+    },
+    {
+     "inicio_corpo": 4730,
+     "fim_corpo": 5654,
+     "trecho": "Sr. Presidente, a Sudene não restringiu sua existência ao repasse de recursos a poucos ou a descompromissados investimentos. Mais do que isso, vem interpretando, com fidelidade, o sonho de um outro grande brasileiro, Celso Furtado, nosso consagrado economista paraibano, que tem residência no Brasil e na França, onde leciona na Sorbonne. Sob a liderança da Sudene e do Banco do Nordeste Brasileiro, os números mostram a evolução do Nordeste. Seu Índice de Desenvolvimento Humano, um indicador que mede a esperança de vida, o nível de educação e a renda média por habitante, evoluiu de 0,299, em 1970, para 0,608, em 1996, embora distante ainda do IDH-Brasil, que, em 1996, alcançou 0,830. A taxa de analfabetismo, que em 1990 alcançava 46,8% da população de 7 a 14 anos, caiu para 30,8%, em 1996. Em 1990, 36,4% dos nordestinos acima de 15 anos eram analfabetos; em 1996, esse percentual caiu para 28,7%."
+    },
+    {
+     "inicio_corpo": 4861,
+     "fim_corpo": 5845,
+     "trecho": "Mais do que isso, vem interpretando, com fidelidade, o sonho de um outro grande brasileiro, Celso Furtado, nosso consagrado economista paraibano, que tem residência no Brasil e na França, onde leciona na Sorbonne. Sob a liderança da Sudene e do Banco do Nordeste Brasileiro, os números mostram a evolução do Nordeste. Seu Índice de Desenvolvimento Humano, um indicador que mede a esperança de vida, o nível de educação e a renda média por habitante, evoluiu de 0,299, em 1970, para 0,608, em 1996, embora distante ainda do IDH-Brasil, que, em 1996, alcançou 0,830. A taxa de analfabetismo, que em 1990 alcançava 46,8% da população de 7 a 14 anos, caiu para 30,8%, em 1996. Em 1990, 36,4% dos nordestinos acima de 15 anos eram analfabetos; em 1996, esse percentual caiu para 28,7%. É claro que os índices nacionais de analfabetismo são bem menores, inferiores a 15% para os dois casos citados, mas a evolução dos indicadores sociais do Nordeste é um fato inelutável."
+    },
+    {
+     "inicio_corpo": 8039,
+     "fim_corpo": 9237,
+     "trecho": "Sr. Presidente, Srªs e Srs. Senadores, Sr. Ministro, sabemos que há vários nordestes num só Nordeste. Destaco o Nordeste urbano, representado pelas grandes concentrações populacionais, e o Nordeste rural, onde o progresso vem chegando vagarosamente, a passos de tartaruga, não obstante o vigoroso esforço da direção da Sudene e dos Governadores da Região. Principalmente a Bahia, Pernambuco e Ceará constituem o Nordeste industrialmente desenvolvido, com forte presença exportadora, que se contrapõe ao outro Nordeste, mais pobre, cuja economia é basicamente primária. Esse Nordeste menos desenvolvido retrata-se nos deprimentes indicadores sociais: as elevadas taxas de analfabetismo, que, em Alagoas, chegam a 40%; os precários serviços de saúde e de saneamento, que mantêm altas as taxas de mortalidade infantil e que fazem com que menos de 20% da população rural consuma água potável; a deficiência do ensino público, que estimula a evasão escolar; a violência, que em Pernambuco eleva a taxa de mortalidade por homicídios para 72,1 por 100 mil habitantes entre 15 e 29 anos; a prostituição infantil e o trabalho em regime de semi-escravidão a que são submetidas as crianças."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0139::Idade",
+   "unit_id": "S0139",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-10",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6852,
+     "fim_corpo": 7738,
+     "trecho": "Contudo, são tão profundas e crônicas as desigualdades regionais, que essa expansão, mesmo se tendo mantido ao longo dos últimos 20 anos, não foi suficiente para fazer o Nordeste crescer e igualar-se às demais Regiões do País, em especial ao Sudeste. À Sudene cabe dar continuidade a suas ações no Nordeste, e foi esse o tom do discurso do Ministro Fernando Bezerra ao dar posse ao novo Superintendente da autarquia, Marcos Formiga, aqui presente. Suas palavras são de alento e afastam as pretensões em torno do futuro da Sudene. Disse Fernando Bezerra: \"Não vim para destruir, para fechar. Vim para mudar, para fortalecer a Sudene. Essa é a nossa missão, Dr. Formiga\". Nesse mesmo pronunciamento, o Ministro assegurou existir, da parte do Presidente Fernando Henrique Cardoso, a decisão de resgatar \"o ideário dos jovens economistas dos anos 50, que souberam ousar\"."
+    },
+    {
+     "inicio_corpo": 8401,
+     "fim_corpo": 9237,
+     "trecho": "Principalmente a Bahia, Pernambuco e Ceará constituem o Nordeste industrialmente desenvolvido, com forte presença exportadora, que se contrapõe ao outro Nordeste, mais pobre, cuja economia é basicamente primária. Esse Nordeste menos desenvolvido retrata-se nos deprimentes indicadores sociais: as elevadas taxas de analfabetismo, que, em Alagoas, chegam a 40%; os precários serviços de saúde e de saneamento, que mantêm altas as taxas de mortalidade infantil e que fazem com que menos de 20% da população rural consuma água potável; a deficiência do ensino público, que estimula a evasão escolar; a violência, que em Pernambuco eleva a taxa de mortalidade por homicídios para 72,1 por 100 mil habitantes entre 15 e 29 anos; a prostituição infantil e o trabalho em regime de semi-escravidão a que são submetidas as crianças."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0139::Macrorregião",
+   "unit_id": "S0139",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-10",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 48,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 42,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 344,
+     "trecho": "O SR. FRANCELINO PEREIRA (PFL - MG. Pronuncia o seguinte discurso. Sem revisão do orador.) - Sr. Presidente do Senado Federal, Sr. Ministro da Integração Nacional, Srªs e Srs. Senadores, Sr. Superintendente da Sudene, diretores, auxiliares e dirigentes dessa autarquia: \"Chegou a hora de saldar nosso débito de honra para com o Nordeste."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 947,
+     "trecho": "O SR. FRANCELINO PEREIRA (PFL - MG. Pronuncia o seguinte discurso. Sem revisão do orador.) - Sr. Presidente do Senado Federal, Sr. Ministro da Integração Nacional, Srªs e Srs. Senadores, Sr. Superintendente da Sudene, diretores, auxiliares e dirigentes dessa autarquia: \"Chegou a hora de saldar nosso débito de honra para com o Nordeste. Ao heróico povo nordestino, cujo apego ao torrão natal, em meio a vicissitudes climáticas, preservou intocada a unidade nacional, é preciso dar agora os recursos e o aparelhamento técnico capazes de arrancar a economia regional das garras seculares do subdesenvolvimento.\" Foi com essas palavras que o grande estadista Juscelino Kubitschek de Oliveira propôs ao Congresso Nacional, há quatro décadas, a criação da Sudene, uma instituição que, atuando no Nordeste, garantiria, pela primeira vez na história, a adoção do sistema planificado de desenvolvimento econômico e social para aquela região."
+    },
+    {
+     "inicio_corpo": 176,
+     "fim_corpo": 1090,
+     "trecho": "Senadores, Sr. Superintendente da Sudene, diretores, auxiliares e dirigentes dessa autarquia: \"Chegou a hora de saldar nosso débito de honra para com o Nordeste. Ao heróico povo nordestino, cujo apego ao torrão natal, em meio a vicissitudes climáticas, preservou intocada a unidade nacional, é preciso dar agora os recursos e o aparelhamento técnico capazes de arrancar a economia regional das garras seculares do subdesenvolvimento.\" Foi com essas palavras que o grande estadista Juscelino Kubitschek de Oliveira propôs ao Congresso Nacional, há quatro décadas, a criação da Sudene, uma instituição que, atuando no Nordeste, garantiria, pela primeira vez na história, a adoção do sistema planificado de desenvolvimento econômico e social para aquela região. Devo dizer que, desde o Governo Magalhães Pinto, no início dos anos 60, freqüento a Sudene, no coração do Nordeste, na cidade do Recife."
+    },
+    {
+     "inicio_corpo": 947,
+     "fim_corpo": 1609,
+     "trecho": "Devo dizer que, desde o Governo Magalhães Pinto, no início dos anos 60, freqüento a Sudene, no coração do Nordeste, na cidade do Recife. Ajudei a elaborar seus Planos Diretores, participei de suas ações, principalmente durante meus quatro mandatos consecutivos de Deputado Federal. Aprendi, no convívio com os diretores, conselheiros e funcionários da Sudene e com os líderes nordestinos, que aquela instituição sempre desejou a participação de Minas em suas decisões. Nunca faltamos aos seus projetos, às suas realizações, à sua política de integração do Nordeste, às suas polêmicas e aos seus debates, no centro das decisões nacionais."
+    },
+    {
+     "inicio_corpo": 947,
+     "fim_corpo": 1815,
+     "trecho": "Devo dizer que, desde o Governo Magalhães Pinto, no início dos anos 60, freqüento a Sudene, no coração do Nordeste, na cidade do Recife. Ajudei a elaborar seus Planos Diretores, participei de suas ações, principalmente durante meus quatro mandatos consecutivos de Deputado Federal. Aprendi, no convívio com os diretores, conselheiros e funcionários da Sudene e com os líderes nordestinos, que aquela instituição sempre desejou a participação de Minas em suas decisões. Nunca faltamos aos seus projetos, às suas realizações, à sua política de integração do Nordeste, às suas polêmicas e aos seus debates, no centro das decisões nacionais. Solidamente integrado ao Brasil, pela história, pela tradição e pelo sentimento de unidade, o Nordeste tem, pelas suas características físicas, econômicas, sociais e culturais, a dimensão de um país."
+    },
+    {
+     "inicio_corpo": 1241,
+     "fim_corpo": 2330,
+     "trecho": "Aprendi, no convívio com os diretores, conselheiros e funcionários da Sudene e com os líderes nordestinos, que aquela instituição sempre desejou a participação de Minas em suas decisões. Nunca faltamos aos seus projetos, às suas realizações, à sua política de integração do Nordeste, às suas polêmicas e aos seus debates, no centro das decisões nacionais. Solidamente integrado ao Brasil, pela história, pela tradição e pelo sentimento de unidade, o Nordeste tem, pelas suas características físicas, econômicas, sociais e culturais, a dimensão de um país. A área jurisdicionada à Sudene soma um milhão e oitocentos mil quilômetros quadrados, correspondentes a 20,6% do território nacional, com uma população de quase 48 milhões de habitantes, mais de 30% da população brasileira. Vindo do Nordeste, tornei-me mineiro de coração, de sentimento, vivendo uma longa trajetória política desde a juventude e uma longa vida pública, iniciada na Câmara de Vereadores de Belo Horizonte, até o Senado da República, sempre dominado pela vocação e o sentimento de Minas."
+    }
+   ]
+  }
+ ]
+}

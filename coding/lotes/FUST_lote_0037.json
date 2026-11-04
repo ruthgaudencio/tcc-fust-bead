@@ -1,0 +1,787 @@
+{
+ "caso": "FUST",
+ "lote": 37,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0224::Urbano e rural",
+   "unit_id": "S0224",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-14",
+   "orador": "Mozarildo Cavalcanti",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "campos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1099,
+     "fim_corpo": 2192,
+     "trecho": "Primeiro, porque unificar as duas polícias, com modos de ser, formação e treinamentos distintos, sem que seja previsto um período de transição e de adaptação, acarretará transtornos à segurança do cidadão, derivados principalmente do \"natural confronto de culturas profissionais\". Segundo, porque pouco adianta um modelo tecnicamente perfeito para a unificação das duas polícias, se não existir vontade política para a adequação das necessidades do homem, policial e cidadão, às novas funções, dentro do esperado pela população. Dessa forma, deverá o novo modelo satisfazer à necessidade mínima dos profissionais da segurança pública, compreendendo programas de aprimoramento funcional constante, acompanhando as transformações sociais e as inovações tecnológicas; investimentos em recursos materiais imprescindíveis às atividades policiais, nos campos da prevenção e da investigação científica e policial; e o estabelecimento de remuneração compatível com as necessidades do policial e de sua família, atendendo, inclusive, à cobertura dos riscos do exercício profissional."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0225::Domicílio e arranjo familiar",
+   "unit_id": "S0225",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-17",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residências",
+     "forma_encontrada": "residências",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3253,
+     "fim_corpo": 3932,
+     "trecho": "E por que não falar um pouco do caos urbano, de um transporte coletivo de péssima qualidade e uma estrutura precária de saneamento? Outro dia, estive na tribuna falando sobre o problema da Lagoa Rodrigo de Freitas, que, uma vez noticiada pela grande mídia nacional, parecia um problema isolado, quando este é o cotidiano das grandes cidades brasileiras: a não-coleta do esgoto e, quando coletado, o não-tratamento do esgoto, que é lançado no solo, nas lagoas, nos rios e no mar pelo País afora. A habitação está com um déficit, neste País, de mais de seis milhões de residências; há também o problema do meio ambiente, com agressões de todo tipo para todos os lados."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0225::Educação",
+   "unit_id": "S0225",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-17",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "escolas públicas",
+     "forma_encontrada": "escolas públicas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6184,
+     "fim_corpo": 7403,
+     "trecho": "Com certeza, esses recursos, aplicados com seriedade, garantiriam a redução das desigualdades sociais, através de programas, projetos e atividades e, ainda, os serviços básicos de telecomunicações com padrão de regularidade e qualidade adequada. Se a educação é decisiva, universalizar os serviços de telecomunicações é fundamental para o Brasil, uma vez que a comunicação, sobretudo pela Internet, cumpre um papel decisivo no crescimento e na integração da economia mundial. É, portanto, uma oportunidade de estender esses serviços a comunidades carentes, o que representará, seguramente, a diminuição das desigualdades entre ricos e pobres, grandes cidades e pequenas vilas, entre cidades próximas dos centros econômicos dinâmicos e cidades, comunidades, Estados distantes do dinamismo da nossa economia. De acordo com o projeto, os recursos do FUST vão aparelhar escolas e hospitais públicos, vilas de pescadores, comunidades indígenas, comunidades rurais, enfim, localidades, sobretudo na Amazônia, no Nordeste e no interior de quase todos os Estados brasileiros, que não despertam interesse nas empresas privatizadas pela óbvia razão de não representarem investimentos que resultariam em altos lucros."
+    },
+    {
+     "inicio_corpo": 13472,
+     "fim_corpo": 14737,
+     "trecho": "Penso que a difusão da comunicação, por intermédio desse fundo, é um tema importantíssimo que V. Exª aborda na tarde de hoje. Quero cumprimentá-lo, Senador Paulo Hartung. O SR. PAULO HARTUNG (PSDB – ES) – Senador Casildo Maldaner, agradeço-lhe e acolho seu aparte. V. Exª, na verdade, fez um misto, tratou um pouco do início do meu pronunciamento, onde abordo especificamente a questão dos 500 anos, o que comemorar e sobre o que refletir sobre esses 500 de desenvolvimento, de progresso, de lutas, de suor e de sangue. Temos o que comemorar, é óbvio, porque são brasileiros, homens e mulheres que lutaram para colocar este País em pé. Mas há muito sobre o que refletir, como a enorme desigualdade social. E estamos discutindo essa desigualdade aqui, ao falarmos no Fust, porque estamos falando de comunidades carentes, de escolas públicas que precisam de computadores, que precisam de Internet. É esse o desafio. Portanto, agradeço os apartes e a tolerância do nosso Presidente e dou por encerrada minha intervenção, no sentido de alertar à Casa sobre esse projeto tão importante que tramita nas Comissões e que pode significar a construção daquilo que é fundamental na vida moderna: a igualdade de oportunidades. Muito obrigado, Sr. Presidente."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0225::Escolaridade e letramento",
+   "unit_id": "S0225",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-17",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "alfabetização",
+     "forma_encontrada": "alfabetização",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6997,
+     "fim_corpo": 7845,
+     "trecho": "De acordo com o projeto, os recursos do FUST vão aparelhar escolas e hospitais públicos, vilas de pescadores, comunidades indígenas, comunidades rurais, enfim, localidades, sobretudo na Amazônia, no Nordeste e no interior de quase todos os Estados brasileiros, que não despertam interesse nas empresas privatizadas pela óbvia razão de não representarem investimentos que resultariam em altos lucros. A proposta, Sr. Presidente, do projeto, e é importante dizer isso, destina 30% dos recursos do Fundo para a execução de programas nas áreas da Sudene e da Sudam, reconhecidamente regiões carentes de investimento e de altíssimo alcance social. Basta observar os indicadores sociais brasileiros e veremos em que regiões se encontram as altas taxas de mortalidade infantil, os indicadores de baixa alfabetização, de repetência, de evasão."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0225::Gênero",
+   "unit_id": "S0225",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-17",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "mulheres",
+     "forma_encontrada": "mulheres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13167,
+     "fim_corpo": 14737,
+     "trecho": "Este fundo é um caminho, uma saída para levarmos os serviços de telecomunicações a pessoas, a comunidades que estão algures, talvez como desbravadores, como garimpeiros, como bandeirantes; pessoas para as quais faltam meios: para uns, faltam hospitais, educação; para outros, faltam meios de comunicação. Penso que a difusão da comunicação, por intermédio desse fundo, é um tema importantíssimo que V. Exª aborda na tarde de hoje. Quero cumprimentá-lo, Senador Paulo Hartung. O SR. PAULO HARTUNG (PSDB – ES) – Senador Casildo Maldaner, agradeço-lhe e acolho seu aparte. V. Exª, na verdade, fez um misto, tratou um pouco do início do meu pronunciamento, onde abordo especificamente a questão dos 500 anos, o que comemorar e sobre o que refletir sobre esses 500 de desenvolvimento, de progresso, de lutas, de suor e de sangue. Temos o que comemorar, é óbvio, porque são brasileiros, homens e mulheres que lutaram para colocar este País em pé. Mas há muito sobre o que refletir, como a enorme desigualdade social. E estamos discutindo essa desigualdade aqui, ao falarmos no Fust, porque estamos falando de comunidades carentes, de escolas públicas que precisam de computadores, que precisam de Internet. É esse o desafio. Portanto, agradeço os apartes e a tolerância do nosso Presidente e dou por encerrada minha intervenção, no sentido de alertar à Casa sobre esse projeto tão importante que tramita nas Comissões e que pode significar a construção daquilo que é fundamental na vida moderna: a igualdade de oportunidades. Muito obrigado, Sr. Presidente."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0225::Idade",
+   "unit_id": "S0225",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-17",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovem",
+     "forma_encontrada": "jovem",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 322,
+     "trecho": "O SR. PAULO HARTUNG (PPS – ES. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srª s e Srs. Senadores, antes de mais nada, registro a presença, no Senado da República, do Governador do Acre, Jorge Viana, que tive oportunidade, há poucos minutos, de receber em meu gabinete. É um jovem Governador."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0225::Macrorregião",
+   "unit_id": "S0225",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-17",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6430,
+     "fim_corpo": 7403,
+     "trecho": "Se a educação é decisiva, universalizar os serviços de telecomunicações é fundamental para o Brasil, uma vez que a comunicação, sobretudo pela Internet, cumpre um papel decisivo no crescimento e na integração da economia mundial. É, portanto, uma oportunidade de estender esses serviços a comunidades carentes, o que representará, seguramente, a diminuição das desigualdades entre ricos e pobres, grandes cidades e pequenas vilas, entre cidades próximas dos centros econômicos dinâmicos e cidades, comunidades, Estados distantes do dinamismo da nossa economia. De acordo com o projeto, os recursos do FUST vão aparelhar escolas e hospitais públicos, vilas de pescadores, comunidades indígenas, comunidades rurais, enfim, localidades, sobretudo na Amazônia, no Nordeste e no interior de quase todos os Estados brasileiros, que não despertam interesse nas empresas privatizadas pela óbvia razão de não representarem investimentos que resultariam em altos lucros."
+    },
+    {
+     "inicio_corpo": 6430,
+     "fim_corpo": 7403,
+     "trecho": "Se a educação é decisiva, universalizar os serviços de telecomunicações é fundamental para o Brasil, uma vez que a comunicação, sobretudo pela Internet, cumpre um papel decisivo no crescimento e na integração da economia mundial. É, portanto, uma oportunidade de estender esses serviços a comunidades carentes, o que representará, seguramente, a diminuição das desigualdades entre ricos e pobres, grandes cidades e pequenas vilas, entre cidades próximas dos centros econômicos dinâmicos e cidades, comunidades, Estados distantes do dinamismo da nossa economia. De acordo com o projeto, os recursos do FUST vão aparelhar escolas e hospitais públicos, vilas de pescadores, comunidades indígenas, comunidades rurais, enfim, localidades, sobretudo na Amazônia, no Nordeste e no interior de quase todos os Estados brasileiros, que não despertam interesse nas empresas privatizadas pela óbvia razão de não representarem investimentos que resultariam em altos lucros."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0225::Posição no trabalho",
+   "unit_id": "S0225",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-17",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8720,
+     "fim_corpo": 9454,
+     "trecho": "O objetivo de meu discurso também é o de cobrar do Governo providências no momento em que o projeto tramita no Senado Federal. Na semana passada, a Anatel divulgou, no Rio de Janeiro, o documento Perspectivas para a Ampliação e Modernização do Setor de Telecomunicações , prevendo investimentos da ordem de R$112 bilhões no setor até o ano de 2005. É importante que haja investimentos num setor com significativo potencial de crescimento como é o de telecomunicações. Investimentos representam emprego e renda. Iniciativa dessa envergadura é muito bem-vinda num momento em que a economia do País dá sinais de recuperação – e espero que continue – mas os índices de desemprego não reagem de forma minimamente satisfatória."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0225::Renda e classe",
+   "unit_id": "S0225",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-17",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "baixa renda",
+     "forma_encontrada": "baixa renda",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "carentes",
+     "forma_encontrada": "carentes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "carentes",
+     "forma_encontrada": "carentes",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5284,
+     "fim_corpo": 5981,
+     "trecho": "À medida que o tempo passa, Sr. Presidente, sem que a proposta seja aprovada, recursos anuais da ordem de R$750 a R$900 milhões, que poderiam estar sendo investidos em projetos para comunidades carentes, acabam sendo agregados aos lucros das empresas privadas que prestam serviços de telecomunicações. No momento em que são cada vez mais escassos os recursos públicos para os programas sociais do País, o Fundo de Universalização de Serviços de Telecomunicações (FUST) supriria, em parte, essa deficiência, assegurando, mensalmente, 1% da receita operacional bruta das prestadoras de serviços para investimento em projetos de telecomunicações que atendam às populações de baixa renda."
+    },
+    {
+     "inicio_corpo": 5981,
+     "fim_corpo": 6997,
+     "trecho": "São investimentos, Sr. Presidente, que dinamizarão a economia de localidades distantes, sobretudo de cidades com menos de 100 mil habitantes, cumprindo metas de desenvolvimento econômico e social. Com certeza, esses recursos, aplicados com seriedade, garantiriam a redução das desigualdades sociais, através de programas, projetos e atividades e, ainda, os serviços básicos de telecomunicações com padrão de regularidade e qualidade adequada. Se a educação é decisiva, universalizar os serviços de telecomunicações é fundamental para o Brasil, uma vez que a comunicação, sobretudo pela Internet, cumpre um papel decisivo no crescimento e na integração da economia mundial. É, portanto, uma oportunidade de estender esses serviços a comunidades carentes, o que representará, seguramente, a diminuição das desigualdades entre ricos e pobres, grandes cidades e pequenas vilas, entre cidades próximas dos centros econômicos dinâmicos e cidades, comunidades, Estados distantes do dinamismo da nossa economia."
+    },
+    {
+     "inicio_corpo": 6997,
+     "fim_corpo": 7652,
+     "trecho": "De acordo com o projeto, os recursos do FUST vão aparelhar escolas e hospitais públicos, vilas de pescadores, comunidades indígenas, comunidades rurais, enfim, localidades, sobretudo na Amazônia, no Nordeste e no interior de quase todos os Estados brasileiros, que não despertam interesse nas empresas privatizadas pela óbvia razão de não representarem investimentos que resultariam em altos lucros. A proposta, Sr. Presidente, do projeto, e é importante dizer isso, destina 30% dos recursos do Fundo para a execução de programas nas áreas da Sudene e da Sudam, reconhecidamente regiões carentes de investimento e de altíssimo alcance social."
+    },
+    {
+     "inicio_corpo": 6997,
+     "fim_corpo": 7918,
+     "trecho": "De acordo com o projeto, os recursos do FUST vão aparelhar escolas e hospitais públicos, vilas de pescadores, comunidades indígenas, comunidades rurais, enfim, localidades, sobretudo na Amazônia, no Nordeste e no interior de quase todos os Estados brasileiros, que não despertam interesse nas empresas privatizadas pela óbvia razão de não representarem investimentos que resultariam em altos lucros. A proposta, Sr. Presidente, do projeto, e é importante dizer isso, destina 30% dos recursos do Fundo para a execução de programas nas áreas da Sudene e da Sudam, reconhecidamente regiões carentes de investimento e de altíssimo alcance social. Basta observar os indicadores sociais brasileiros e veremos em que regiões se encontram as altas taxas de mortalidade infantil, os indicadores de baixa alfabetização, de repetência, de evasão. Essas regiões citadas são carentes de maior investimento na área social."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0225::Saúde",
+   "unit_id": "S0225",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-17",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitais",
+     "forma_encontrada": "hospitais",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitais",
+     "forma_encontrada": "hospitais",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6184,
+     "fim_corpo": 7403,
+     "trecho": "Com certeza, esses recursos, aplicados com seriedade, garantiriam a redução das desigualdades sociais, através de programas, projetos e atividades e, ainda, os serviços básicos de telecomunicações com padrão de regularidade e qualidade adequada. Se a educação é decisiva, universalizar os serviços de telecomunicações é fundamental para o Brasil, uma vez que a comunicação, sobretudo pela Internet, cumpre um papel decisivo no crescimento e na integração da economia mundial. É, portanto, uma oportunidade de estender esses serviços a comunidades carentes, o que representará, seguramente, a diminuição das desigualdades entre ricos e pobres, grandes cidades e pequenas vilas, entre cidades próximas dos centros econômicos dinâmicos e cidades, comunidades, Estados distantes do dinamismo da nossa economia. De acordo com o projeto, os recursos do FUST vão aparelhar escolas e hospitais públicos, vilas de pescadores, comunidades indígenas, comunidades rurais, enfim, localidades, sobretudo na Amazônia, no Nordeste e no interior de quase todos os Estados brasileiros, que não despertam interesse nas empresas privatizadas pela óbvia razão de não representarem investimentos que resultariam em altos lucros."
+    },
+    {
+     "inicio_corpo": 12538,
+     "fim_corpo": 13472,
+     "trecho": "Ao mesmo tempo, V. Exª aborda agora a criação do fundo de telecomunicação, com o objetivo de atender às localidades que, muitas vezes, não oferecem rentabilidade satisfatória para as empresas. Aproveitando o primeiro tema, os 500 anos da descoberta do Brasil, diria que precisamos agora partir para a descoberta de meios que diminuam as diferenças entre os que menos ganham e os que mais ganham, que permitam maior acesso à saúde, à educação, que propicie melhores condições de vida à população. E aí penso que o segundo tema que V. Exª abordou vem responder uma grande parte da primeira questão com o fundo de telecomunicações. Este fundo é um caminho, uma saída para levarmos os serviços de telecomunicações a pessoas, a comunidades que estão algures, talvez como desbravadores, como garimpeiros, como bandeirantes; pessoas para as quais faltam meios: para uns, faltam hospitais, educação; para outros, faltam meios de comunicação."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0225::Território intraurbano",
+   "unit_id": "S0225",
+   "subcategoria": "Território intraurbano",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-17",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "comunidades carentes",
+     "forma_encontrada": "comunidades carentes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "comunidades carentes",
+     "forma_encontrada": "comunidades carentes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "comunidades carentes",
+     "forma_encontrada": "comunidades carentes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "comunidades carentes",
+     "forma_encontrada": "comunidades carentes",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4707,
+     "fim_corpo": 5592,
+     "trecho": "Este projeto tramita no Senado desde dezembro último, depois de ter passado dois anos entre a discussão e votação na Câmara dos Deputados. Reconheço – assim como o meu Partido – que o debate da matéria avançou nos últimos dias, com a aprovação, quinta-feira passada, do Relatório do Senador Saturnino Braga na Comissão de Serviços de Infra-estrutura. No entanto, é preciso acelerar a votação do parecer acerca das Emendas de Plenário do Senador Lúcio Alcântara na Comissão de Assuntos Econômicos, a fim de que ambos os pareceres venham finalmente ao plenário desta Casa. À medida que o tempo passa, Sr. Presidente, sem que a proposta seja aprovada, recursos anuais da ordem de R$750 a R$900 milhões, que poderiam estar sendo investidos em projetos para comunidades carentes, acabam sendo agregados aos lucros das empresas privadas que prestam serviços de telecomunicações."
+    },
+    {
+     "inicio_corpo": 5981,
+     "fim_corpo": 6997,
+     "trecho": "São investimentos, Sr. Presidente, que dinamizarão a economia de localidades distantes, sobretudo de cidades com menos de 100 mil habitantes, cumprindo metas de desenvolvimento econômico e social. Com certeza, esses recursos, aplicados com seriedade, garantiriam a redução das desigualdades sociais, através de programas, projetos e atividades e, ainda, os serviços básicos de telecomunicações com padrão de regularidade e qualidade adequada. Se a educação é decisiva, universalizar os serviços de telecomunicações é fundamental para o Brasil, uma vez que a comunicação, sobretudo pela Internet, cumpre um papel decisivo no crescimento e na integração da economia mundial. É, portanto, uma oportunidade de estender esses serviços a comunidades carentes, o que representará, seguramente, a diminuição das desigualdades entre ricos e pobres, grandes cidades e pequenas vilas, entre cidades próximas dos centros econômicos dinâmicos e cidades, comunidades, Estados distantes do dinamismo da nossa economia."
+    },
+    {
+     "inicio_corpo": 8847,
+     "fim_corpo": 9750,
+     "trecho": "Na semana passada, a Anatel divulgou, no Rio de Janeiro, o documento Perspectivas para a Ampliação e Modernização do Setor de Telecomunicações , prevendo investimentos da ordem de R$112 bilhões no setor até o ano de 2005. É importante que haja investimentos num setor com significativo potencial de crescimento como é o de telecomunicações. Investimentos representam emprego e renda. Iniciativa dessa envergadura é muito bem-vinda num momento em que a economia do País dá sinais de recuperação – e espero que continue – mas os índices de desemprego não reagem de forma minimamente satisfatória. Mesmo com tantos investimentos no setor, seria ingenuidade acreditar que as empresas de telecomunicações – agora privadas – planejem levar os serviços de telefonia a comunidades carentes graciosamente, em localidades no interior da Bahia ou do Espírito Santo, onde a rentabilidade é baixa."
+    },
+    {
+     "inicio_corpo": 13472,
+     "fim_corpo": 14737,
+     "trecho": "Penso que a difusão da comunicação, por intermédio desse fundo, é um tema importantíssimo que V. Exª aborda na tarde de hoje. Quero cumprimentá-lo, Senador Paulo Hartung. O SR. PAULO HARTUNG (PSDB – ES) – Senador Casildo Maldaner, agradeço-lhe e acolho seu aparte. V. Exª, na verdade, fez um misto, tratou um pouco do início do meu pronunciamento, onde abordo especificamente a questão dos 500 anos, o que comemorar e sobre o que refletir sobre esses 500 de desenvolvimento, de progresso, de lutas, de suor e de sangue. Temos o que comemorar, é óbvio, porque são brasileiros, homens e mulheres que lutaram para colocar este País em pé. Mas há muito sobre o que refletir, como a enorme desigualdade social. E estamos discutindo essa desigualdade aqui, ao falarmos no Fust, porque estamos falando de comunidades carentes, de escolas públicas que precisam de computadores, que precisam de Internet. É esse o desafio. Portanto, agradeço os apartes e a tolerância do nosso Presidente e dou por encerrada minha intervenção, no sentido de alertar à Casa sobre esse projeto tão importante que tramita nas Comissões e que pode significar a construção daquilo que é fundamental na vida moderna: a igualdade de oportunidades. Muito obrigado, Sr. Presidente."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0225::Territórios de povos e comunidades tradicionais",
+   "unit_id": "S0225",
+   "subcategoria": "Territórios de povos e comunidades tradicionais",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.5",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-17",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "comunidades indígenas",
+     "forma_encontrada": "comunidades indígenas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6430,
+     "fim_corpo": 7403,
+     "trecho": "Se a educação é decisiva, universalizar os serviços de telecomunicações é fundamental para o Brasil, uma vez que a comunicação, sobretudo pela Internet, cumpre um papel decisivo no crescimento e na integração da economia mundial. É, portanto, uma oportunidade de estender esses serviços a comunidades carentes, o que representará, seguramente, a diminuição das desigualdades entre ricos e pobres, grandes cidades e pequenas vilas, entre cidades próximas dos centros econômicos dinâmicos e cidades, comunidades, Estados distantes do dinamismo da nossa economia. De acordo com o projeto, os recursos do FUST vão aparelhar escolas e hospitais públicos, vilas de pescadores, comunidades indígenas, comunidades rurais, enfim, localidades, sobretudo na Amazônia, no Nordeste e no interior de quase todos os Estados brasileiros, que não despertam interesse nas empresas privatizadas pela óbvia razão de não representarem investimentos que resultariam em altos lucros."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0226::Macrorregião",
+   "unit_id": "S0226",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-17",
+   "orador": "Jader Barbalho",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 505,
+     "fim_corpo": 1598,
+     "trecho": "Dessa forma, analisaram os especialistas, a instituição poderá reduzir seus custos, ganhando condições de se fortalecer como banco comercial. Essa estratégia também deixa a porta aberta para, no futuro, o Governo privatizar o BB. Sr. Presidente, há muito já nos posicionamos contrariamente à privatização da Petrobrás, do Banco do Brasil e da Caixa Econômica Federal, dentre instituições públicas que entendemos possuir um papel fundamental para a economia brasileira, levando em conta os desníveis regionais e os desníveis de renda no País. O noticiário da imprensa registra que esse estudo faria com que o Banco do Brasil se retirasse do financiamento de crédito rural, que passaria a ser executado por agências de financiamento, que a imprensa não deixa claro ao noticiar o estudo dessa consultoria. Sr. Presidente, em relação ao Nordeste e ao Norte do Brasil, o comportamento do BNDES tem sido um desastre exatamente porque, pela sua estrutura, estabelece que só após determinado teto ele faz o financiamento. A partir disso, repassa para instituições privadas, ficanJ û"
+    },
+    {
+     "inicio_corpo": 505,
+     "fim_corpo": 1598,
+     "trecho": "Dessa forma, analisaram os especialistas, a instituição poderá reduzir seus custos, ganhando condições de se fortalecer como banco comercial. Essa estratégia também deixa a porta aberta para, no futuro, o Governo privatizar o BB. Sr. Presidente, há muito já nos posicionamos contrariamente à privatização da Petrobrás, do Banco do Brasil e da Caixa Econômica Federal, dentre instituições públicas que entendemos possuir um papel fundamental para a economia brasileira, levando em conta os desníveis regionais e os desníveis de renda no País. O noticiário da imprensa registra que esse estudo faria com que o Banco do Brasil se retirasse do financiamento de crédito rural, que passaria a ser executado por agências de financiamento, que a imprensa não deixa claro ao noticiar o estudo dessa consultoria. Sr. Presidente, em relação ao Nordeste e ao Norte do Brasil, o comportamento do BNDES tem sido um desastre exatamente porque, pela sua estrutura, estabelece que só após determinado teto ele faz o financiamento. A partir disso, repassa para instituições privadas, ficanJ û"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0226::Urbano e rural",
+   "unit_id": "S0226",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-17",
+   "orador": "Jader Barbalho",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 505,
+     "trecho": "O SR. JADER BARBALHO (PMDB – PA. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, o que me traz à tribuna, em nome da Liderança do PMDB, é comentar o noticiário da imprensa de ontem e de hoje relativo à entrega de uma proposta de uma consultoria ao Ministério da Fazenda para reestruturação do sistema financeiro oficial federal elaborado pela Consultoria Booz Allen & Hamilton, que sugere a retirada das atividades do crédito rural do Banco do Brasil (BB)."
+    },
+    {
+     "inicio_corpo": 505,
+     "fim_corpo": 1598,
+     "trecho": "Dessa forma, analisaram os especialistas, a instituição poderá reduzir seus custos, ganhando condições de se fortalecer como banco comercial. Essa estratégia também deixa a porta aberta para, no futuro, o Governo privatizar o BB. Sr. Presidente, há muito já nos posicionamos contrariamente à privatização da Petrobrás, do Banco do Brasil e da Caixa Econômica Federal, dentre instituições públicas que entendemos possuir um papel fundamental para a economia brasileira, levando em conta os desníveis regionais e os desníveis de renda no País. O noticiário da imprensa registra que esse estudo faria com que o Banco do Brasil se retirasse do financiamento de crédito rural, que passaria a ser executado por agências de financiamento, que a imprensa não deixa claro ao noticiar o estudo dessa consultoria. Sr. Presidente, em relação ao Nordeste e ao Norte do Brasil, o comportamento do BNDES tem sido um desastre exatamente porque, pela sua estrutura, estabelece que só após determinado teto ele faz o financiamento. A partir disso, repassa para instituições privadas, ficanJ û"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0227::Domicílio e arranjo familiar",
+   "unit_id": "S0227",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-17",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6080,
+     "fim_corpo": 7138,
+     "trecho": "Não há desenvolvimento sem inconformismo. A Nação está hoje perplexa, direi mesmo inconformada, diante dos acontecimentos em Washington. Sr. Presidente, chegou a hora, o instante, para o Senado, o Congresso Nacional, conclamar a sociedade brasileira, os poderes institucionais, as organizações públicas e privadas, as associações de classe e sindicatos, as esquerdas e as direitas políticas, os ricos e os pobres, para debater o Brasil, seu modelo econômico, sua política social, seu destino como país e como nação; para discutir, com urgência, o perfil da política de privatização, se veio para o bem ou para o mal, ou se está numa posição intermediária; para discutir a globalização, que atinge o coração, o corpo e a alma do País, suas atividades econômicas, da grande à microempresa, das famílias às pessoas, das fábricas às escolas; para discutir também, com urgência, se o nacionalismo, que, no passado recente, conduziu ao estatismo e ainda está na cabeça de muita gente, fornece ou não uma saída para a Nação perante a crise que aí está."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0227::Educação",
+   "unit_id": "S0227",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-17",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6080,
+     "fim_corpo": 7138,
+     "trecho": "Não há desenvolvimento sem inconformismo. A Nação está hoje perplexa, direi mesmo inconformada, diante dos acontecimentos em Washington. Sr. Presidente, chegou a hora, o instante, para o Senado, o Congresso Nacional, conclamar a sociedade brasileira, os poderes institucionais, as organizações públicas e privadas, as associações de classe e sindicatos, as esquerdas e as direitas políticas, os ricos e os pobres, para debater o Brasil, seu modelo econômico, sua política social, seu destino como país e como nação; para discutir, com urgência, o perfil da política de privatização, se veio para o bem ou para o mal, ou se está numa posição intermediária; para discutir a globalização, que atinge o coração, o corpo e a alma do País, suas atividades econômicas, da grande à microempresa, das famílias às pessoas, das fábricas às escolas; para discutir também, com urgência, se o nacionalismo, que, no passado recente, conduziu ao estatismo e ainda está na cabeça de muita gente, fornece ou não uma saída para a Nação perante a crise que aí está."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0227::Idade",
+   "unit_id": "S0227",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-17",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 74,
+     "fim_corpo": 1007,
+     "trecho": "Presidente, Sr.ªs e Srs. Senadores, depois de passar pelo Brasil, nos últimos dois anos, devastadoramente, a crise econômica chega ao centro do mundo. Esta é uma notícia que está em toda a mídia desta semana, principalmente hoje, e preocupa, porque do centro, com certeza, a crise refluirá mais uma vez sobre nós, sobre o Brasil. Podemos dizer, portanto, parafraseando o mineiro João Guimarães Rosa, que estamos de novo com o diabo na rua, no meio do redemoinho. O Ministro Malan está em Washington e foi barrado, ontem, indo ao encontro semestral do FMI por manifestantes contrários à política dessa organização. Han Shan, um dos líderes dos manifestantes, declarou: \"Esse é um movimento global. Há muito tempo, em muitos países, as pessoas protestam contra a destruição de suas comunidades, de seu modo de vida, pela globalização. Agora esse movimento chegou aos Estados Unidos e os jovens estão entendendo a mensagem."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0227::Renda e classe",
+   "unit_id": "S0227",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-17",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3433,
+     "fim_corpo": 4325,
+     "trecho": "Não descartamos, em hipótese alguma, que hoje, mais do que nunca, o mercado é fator importante na vida dos países, mas não é tudo. As sociedades livres são quem realmente constróem as nações. É o caso do Brasil - livre, democrático e aberto. A mídia está cheia de propostas e de sugestões em todos os sentidos. Propostas e sugestões que nos vêm não só de pessoas comuns e da juventude, mas também de grandes homens. A revista República desta semana divulga importante entrevista em que o ex-Presidente do FMI, Michel Camdessus, recomenda ao nosso Ministro Pedro Malan, de quem é amigo, \"um pouco mais de sensibilidade social\". Destaco aqui dois outros trechos de sua entrevista: Malan deve concordar que uma política econômica só se sustenta se for para reduzir a pobreza; e Há muito a ser feito contra as desigualdades no Brasil, e isso o FMI não poderá fazer."
+    },
+    {
+     "inicio_corpo": 5833,
+     "fim_corpo": 7138,
+     "trecho": "Sr. Presidente, a crise está posta. A mídia do mundo inteiro revela todas as suas circunstâncias e dramaticidade. Delongar-se, ela não pode, exatamente porque atinge não apenas as instituições, mas também o povo, em todas as suas latitudes. Não há desenvolvimento sem inconformismo. A Nação está hoje perplexa, direi mesmo inconformada, diante dos acontecimentos em Washington. Sr. Presidente, chegou a hora, o instante, para o Senado, o Congresso Nacional, conclamar a sociedade brasileira, os poderes institucionais, as organizações públicas e privadas, as associações de classe e sindicatos, as esquerdas e as direitas políticas, os ricos e os pobres, para debater o Brasil, seu modelo econômico, sua política social, seu destino como país e como nação; para discutir, com urgência, o perfil da política de privatização, se veio para o bem ou para o mal, ou se está numa posição intermediária; para discutir a globalização, que atinge o coração, o corpo e a alma do País, suas atividades econômicas, da grande à microempresa, das famílias às pessoas, das fábricas às escolas; para discutir também, com urgência, se o nacionalismo, que, no passado recente, conduziu ao estatismo e ainda está na cabeça de muita gente, fornece ou não uma saída para a Nação perante a crise que aí está."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0228::Domicílio e arranjo familiar",
+   "unit_id": "S0228",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-18",
+   "orador": "Ronaldo Cunha Lima",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1223,
+     "fim_corpo": 2041,
+     "trecho": "Em primeiro lugar, proponho que a iniciativa, caso seja aprovada, tenha funcionamento permanente, o que aliás não acontece com o Programa Emergencial. Além disso, sua administração deverá ficar a cargo de uma Comissão Gestora que se encarregaria de garantir seu bom desempenho, facilitaria uma fiscalização mais rigorosa da aplicação dos seus recursos, e seria exigente na aferição dos resultados de suas iniciativas. Em segundo lugar, para evitar que aconteçam distorções no processo de funcionamento do Programa, proponho que a concessão do benefício da renda mínima obedeça a alguns requisitos básicos, que são, a meu ver, de grande abrangência social. Assim, para que o benefício seja concretizado, será exigida a freqüência escolar, até a idade de 14 anos, de todos os membros das famílias inscritas."
+    },
+    {
+     "inicio_corpo": 1647,
+     "fim_corpo": 2351,
+     "trecho": "Em segundo lugar, para evitar que aconteçam distorções no processo de funcionamento do Programa, proponho que a concessão do benefício da renda mínima obedeça a alguns requisitos básicos, que são, a meu ver, de grande abrangência social. Assim, para que o benefício seja concretizado, será exigida a freqüência escolar, até a idade de 14 anos, de todos os membros das famílias inscritas. Serão exigidas igualmente, inscrição e presença nos programas de treinamento profissional promovidos e recomendados pela Comissão Gestora, bem como, atestado de todas as vacinas consideradas obrigatórias pelo Ministério da Saúde em todo o território nacional, para todos os membros das famílias participantes."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0228::Educação",
+   "unit_id": "S0228",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-04-18",
+   "orador": "Ronaldo Cunha Lima",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1223,
+     "fim_corpo": 2041,
+     "trecho": "Em primeiro lugar, proponho que a iniciativa, caso seja aprovada, tenha funcionamento permanente, o que aliás não acontece com o Programa Emergencial. Além disso, sua administração deverá ficar a cargo de uma Comissão Gestora que se encarregaria de garantir seu bom desempenho, facilitaria uma fiscalização mais rigorosa da aplicação dos seus recursos, e seria exigente na aferição dos resultados de suas iniciativas. Em segundo lugar, para evitar que aconteçam distorções no processo de funcionamento do Programa, proponho que a concessão do benefício da renda mínima obedeça a alguns requisitos básicos, que são, a meu ver, de grande abrangência social. Assim, para que o benefício seja concretizado, será exigida a freqüência escolar, até a idade de 14 anos, de todos os membros das famílias inscritas."
+    },
+    {
+     "inicio_corpo": 4543,
+     "fim_corpo": 5730,
+     "trecho": "Garanto que a maioria da sociedade brasileira está indignada e envergonhada com as elites dominantes, e não aceita mais o diagnóstico de desvio normal de nossa sociedade, a afirmação do jeitinho, da impunidade e da corrupção, que só têm degradado a nossa imagem como País e como povo junto à comunidade internacional. O Nordeste brasileiro da seca, da fome, da exploração e da exclusão, clama por seriedade, por medidas simples, eficientes e criativas, que defendam investimentos permanentes, seguros e bem fiscalizados em projetos prioritários. Esse Nordeste de que estou falando, não aceita mais que os recursos públicos inscritos a cada ano no Orçamento da União, para fins sociais ou econômicos, continuem sendo desviados para finalidades desonestas porque os poderosos assim o querem. A gente simples desse pedaço do Brasil sonha com escolas decentes, com assistência de saúde, com criação de empregos, com irrigação, com respeito à natureza, com crédito a juros honestos, com salários dignos, e acredita que, se essas providências forem tomadas imediatamente, em um período de no máximo duas décadas, mais da metade da miséria regional hoje existente seria erradicada."
+    }
+   ]
+  }
+ ]
+}

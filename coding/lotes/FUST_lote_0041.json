@@ -1,0 +1,777 @@
+{
+ "caso": "FUST",
+ "lote": 41,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0243::Escolaridade e letramento",
+   "unit_id": "S0243",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-02",
+   "orador": "José Eduardo Dutra",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "estudantes",
+     "forma_encontrada": "Estudantes",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 847,
+     "trecho": "O SR. JOSÉ EDUARDO DUTRA (Bloco/PT - SE. Pronuncia o seguinte discurso. Sem revisão do orador.) - Sr. Presidente, Srªs e Srs. Senadores, podem ficar tranqüilos. Não usarei os 50 minutos. Eu havia me inscrito por 50 minutos na sessão anterior, para garantir o direito ao destaque. Gostaria apenas de fazer um registro do episódio que ocorre no interior do meu Estado, na cidade de Umbaúba, e que está relacionado à discussão de reeleição. Houve denúncias contra a utilização de recursos do Fundef e de uma série de irregularidades cometidas pelo prefeito, denúncias essas que foram repercutidas no jornal semanal Se Informe, do meu Estado. Uma parte da repercussão dessas denúncias foi feita pelo companheiro Anderson, presidente do Diretório Municipal de Umbaúba, companheiro que foi, recentemente, dirigente da União Nacional dos Estudantes."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0244::Administração pública",
+   "unit_id": "S0244",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-03",
+   "orador": "Ney Suassuna",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "prefeituras",
+     "forma_encontrada": "Prefeituras",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 681,
+     "trecho": "O SR. NEY SUASSUNA (PMDB – PB. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, ontem, quase no final da noite, quando ainda lutávamos pela aprovação da autorização de rolagem da dívida de São Paulo, pedi a palavra para uma comunicação inadiável. E naquele momento, Sr. Presidente, referi-me à sorte ingrata que têm tido os Estados nordestinos, principalmente a minha Paraíba. Tivemos três anos de seca, três anos em que a água para os seres humanos e os animais beberem faltava. Salvaram-nos os carros-pipas, que nos abasteciam com uma água de péssima qualidade, obtida com muita dificuldade e a um custo enorme para as Prefeituras."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0244::Domicílio e arranjo familiar",
+   "unit_id": "S0244",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-03",
+   "orador": "Ney Suassuna",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7032,
+     "fim_corpo": 7950,
+     "trecho": "Por que, apesar dessas tarifas tão altas, essas empresas apresentam tantas dificuldades? Todas elas demonstram grande prejuízo nos resultados de seus balanços. E quanto maior a empresa maior o prejuízo. Isso realmente nos preocupa. Outro fato que presenciamos nos últimos dias foi a questão levantada pelo Sindicato dos Trabalhadores. Com a fusão da Tam e da Transbrasil, apenas na ponte aérea Rio-São Paulo os vôos foram reduzidos de 44 para 28; certamente, haverá redução no quadro de pessoal, e deverá ser bastante significativa. Tenho certeza de que, da forma como V. Exª conduz os trabalhos da Comissão de Assuntos Econômicos – inclusive hoje V. Exª terá um jantar, em sua casa, com o Comandante da Aeronáutica –, certamente encontrará uma solução conjunta do Poder Legislativo, no caso, o Congresso Nacional, com o representante do Executivo, da própria Presidência da República, por intermédio de seu Ministro."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0244::Macrorregião",
+   "unit_id": "S0244",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-03",
+   "orador": "Ney Suassuna",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5444,
+     "fim_corpo": 6310,
+     "trecho": "Algumas providências estão sendo estudadas e há possibilidade de mudanças. Mas, com certeza, o Governo terá de interferir, a fim de direcionar de alguma forma essas empresas. Se não for possível ficarmos com quatro empresas, talvez possamos ficar com duas. Não sei. Esse assunto ainda está em discussão. Mas a verdade é que me atemorizou o problema por que passam a Argentina e outros países da América do Sul que venderam as suas linhas aéreas. Ao ouvir tudo isso, Sr. Presidente, Srªs e Srs. Senadores, lembrei-me da dificuldade por que também passa o nosso País. Somos um País com dimensões continentais. Nesse sentido, as linhas aéreas para nós, em termos de soberania nacional, são mais importantes ainda do que para qualquer outro país menor. Imagine, por exemplo, Senador Gilberto Mestrinho, se ocorresse hoje um conflito na Amazônia."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0244::Posição no trabalho",
+   "unit_id": "S0244",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-03",
+   "orador": "Ney Suassuna",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "Trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6486,
+     "fim_corpo": 7367,
+     "trecho": "Nenhum poder nacional tem condições de se manter sem esse item. O Sr. Luiz Otávio (Sem Partido – PA) – Senador Ney Suassuna, V. Exª me concede um aparte? O SR. NEY SUASSUNA (PMDB – PB) – Concedo o aparte ao Senador Luiz Otávio. O Sr. Luiz Otávio (Sem Partido – PA) – Senador Ney Suassuna, V. Exª traz, nesta tarde, um assunto que se ouve em todos os lugares: a situação em que se encontram as empresas aéreas nacionais. A maior preocupação em torno desse tema são as elevadas tarifas, em comparação com o mercado internacional. Por que, apesar dessas tarifas tão altas, essas empresas apresentam tantas dificuldades? Todas elas demonstram grande prejuízo nos resultados de seus balanços. E quanto maior a empresa maior o prejuízo. Isso realmente nos preocupa. Outro fato que presenciamos nos últimos dias foi a questão levantada pelo Sindicato dos Trabalhadores."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0245::Posição no trabalho",
+   "unit_id": "S0245",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-03",
+   "orador": "Heloísa Helena",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5141,
+     "fim_corpo": 6569,
+     "trecho": "Portanto, Sr. Presidente, saques, invasão, destruição, baderneiros e foras-da-lei, efetivamente, não cabem no Movimento dos Sem-Terra. Se o Governo Federal quer acabar com o movimento Sem-Terra tem uma objetiva e concreta alternativa: a reforma agrária. Fazendo isso acabará com o Movimento dos Sem-Terra, com o MLST, com MT, com a Pastoral da Terra. Faça a reforma agrária para garantir não o cumprimento da Constituição, mas para fazer deste País uma gigantesca Nação; para fazer o desenvolvimento econômico; para produzir alimentos para combater a maior vergonha deste século, que é a fome; para gerar emprego e renda! Portanto, para a incompetência e a insensibilidade do Governo, não adianta fazer esse tipo de campanha com o Movimento dos Sem-Terra, porque, efetivamente, os saqueadores dos cofres públicos não estão, como trabalhadores rurais sem terra, perambulando pelas estradas deste País, vivendo embaixo de uma barraca de lona. Alguém sabe o que é ficar embaixo de uma barraca de lona sob um sol fervente sobre a cabeça? Durante o dia, o calor angustiante, e à noite, o frio gelado. Alguém aqui passa por isso? Não! Alguém aqui pensa na possibilidade de querer deitar e dormir com seu filho e não poder em função da lama embaixo da barraca de lona? Portanto, saqueadores dos cofres públicos, baderneiros, foras-da-lei não estão efetivamente no Movimento dos Sem-Terra, Sr. Presidente. orÉ /"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0245::Urbano e rural",
+   "unit_id": "S0245",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-03",
+   "orador": "Heloísa Helena",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 630,
+     "trecho": "A SRª HELOISA HELENA (Bloco/PT – AL. Como Líder. Sem revisão da oradora.) – Sr. Presidente, Sr as e Sr s Senadores, em função dos episódios de ontem na Casa, do gigantesco debate, meio inglório para alguns, não tive oportunidade de me pronunciar sobre os últimos acontecimentos envolvendo o Movimento dos Sem-Terra. Senti-me contemplada pelo discurso feito por nosso querido Senador Eduardo Suplicy, que inclusive encontra-se no Estado do Paraná onde houve, e isso é do conhecimento da Nação, um episódio que certamente marcou todas as pessoas que lutam contra a violência no campo, pela paz e pela reforma agrária em nosso País."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0246::Macrorregião",
+   "unit_id": "S0246",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-03",
+   "orador": "José Eduardo Dutra",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 797,
+     "trecho": "O SR. JOSÉ EDUARDO DUTRA (Bloco/PT – SE. Pela ordem. Sem revisão do orador.) – Sr. Presidente, sei que já se encerrou o tempo da sessão, mas eu gostaria de registrar uma correspondência que recebi, assinada por várias entidades de pequenos produtores do Município de Porto da Folha, em Sergipe, correspondência esta encaminhada também ao Secretário da Agricultura de Sergipe e para o Banco do Nordeste. Eu gostaria apenas de registrar e solicitar que possa ser transcrita na íntegra essa correspondência. Muito obrigado. ***************************************************************************** DOCUMENTO A QUE SE REFERE O SR. SENADOR JOSÉ EDUARDO DUTRA EM SEU PRONUNCIAMENTO: ****************************************************************************** ¤"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0247::Macrorregião",
+   "unit_id": "S0247",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-03",
+   "orador": "Romero Jucá",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4794,
+     "fim_corpo": 6247,
+     "trecho": "O consumidor está cada vez mais exigente, e isso é muito bom. Ele começa a ter como se fazer ouvir, por meio dos Procons, dos setores de atendimento das concessionárias, dos Conselhos de Consumidores, da ANEEL. Está havendo maior interação entre sociedade e instituições. A sociedade começa a reclamar e a ser ouvida. É bom que isso se intensifique, que a sociedade se habitue a usar os recursos institucionais de que dispõe. O seminário sobre tarifas e qualidade abordou toda uma gama de temas correlatos: a poupança ou conservação de energia (sabe-se que é muito mais barato e vantajoso investir em dispositivos que economizam energia do que no aumento de sua produção e distribuição); o financiamento dos novos investimentos; os riscos inerentes a esses investimentos; a importação de gás natural; seu preço e a política cambial; as diferenças entre o Sul e o Norte do País. Sr. Presidente, com esse seminário sobre tarifas e qualidade do serviço de energia elétrica, e com a publicação do conteúdo das discussões, a ANEEL deu uma excelente contribuição para o avanço que temos que conquistar no tratamento dessas questões. São temas polêmicos, que têm que ser enfrentados, com choque de opiniões e de visões, para que se faça mais luz em assunto tão complexo. Assunto que envolve, simultaneamente, nosso cotidiano, nosso futuro e nossas esperanças de constante progresso, como sociedade e como País. Muito obrigado. (¬"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0247::Renda e classe",
+   "unit_id": "S0247",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-03",
+   "orador": "Romero Jucá",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "baixa renda",
+     "forma_encontrada": "baixa renda",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3586,
+     "fim_corpo": 4533,
+     "trecho": "O que equivalia, no dizer jocoso do saudoso Ministro Mário Simonsen, a tentar freiar um automóvel com a antena externa do rádio, com a resistência que ela opunha ao vento. É preciso ter sempre em conta o que é o crescimento do consumo de energia elétrica no Brasil. Nas últimas três décadas, ele tem sido sempre superior às taxas de crescimento do PIB. Após o Plano Real, ele esteve, a cada ano, acima do dobro do PIB. No ano de 1999, de crescimento praticamente nulo do PIB, o consumo nacional de energia elétrica cresceu 3%. Portanto, nessa questão das tarifas, é preciso que a ANEEL obtenha um equilíbrio; é necessário que ela tenha uma dupla sensibilidade: a social e a de mercado. Tarifas razoáveis, sim; mas tarifas que assegurem, para o futuro, a indispensável quantidade e a exigida qualidade. Em particular, é preciso ir moldando políticas sensatas para os segmentos de baixa renda, que necessitam de tarifas especiais."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0248::Escolaridade e letramento",
+   "unit_id": "S0248",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-04",
+   "orador": "Amir Lando",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "analfabetismo",
+     "forma_encontrada": "analfabetismo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "analfabetismo",
+     "forma_encontrada": "analfabetismo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 692,
+     "fim_corpo": 1499,
+     "trecho": "É o direito do credor sobre o devedor, sobre o qual se impõe o castigo do rastejo e da submissão. É triste olhar para o futuro e ver o passado. Principalmente quando os sonhos são possíveis e a realidade pesadelos. O Brasil já deve quase tudo o que produz. Já se desfez do patrimônio que se construiu ao longo de décadas de abnegação e trabalho. Vê ressurgir males que se esperava erradicados, como a febre amarela, a dengue e a tuberculose. O desemprego arranca a cidadania do trabalhador, transformando-o em cidadão sem rosto, relegado à escravidão da miséria e da desesperança. Não há remoção de passado que permita estampar igual pilhagem ao dinheiro público que traz intrínseco o custo de oportunidade da dor das filas dos hospitais e da escuridão do analfabetismo."
+    },
+    {
+     "inicio_corpo": 4868,
+     "fim_corpo": 5807,
+     "trecho": "Ocorre que, ambas as estradas receberam, nos últimos anos, a título de recuperação e duplicação, um total aproximado de US$ 2,9 bilhões. Isso significa que, para receber, de graça, uma atividade que deverá gerar grandes lucros imediatamente após as privatizações, os empresários privados terão, também de graça, o equivalente a uma Companhia Vale do Rio Doce! Um dos objetivos constantes do programa de privatizações é colocar o \"estado no lugar certo\", retirando-o de ações tipicamente produtivas, para o cumprimento de atividades sociais, como saúde, educação e segurança pública. Uma leitura, por menos atenta que seja, no noticiário atual é o testemunho mais que perfeito para atestar o descumprimento de tal objetivo. As cidades mais se parecem campos da batalha não declarada, o analfabetismo ainda é a cegueira cultural e política do povo e a saúde traz a lume epidemias e endemias que pareciam história de um século passado."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0248::Idade",
+   "unit_id": "S0248",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-04",
+   "orador": "Amir Lando",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "idoso",
+     "forma_encontrada": "idos o",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6824,
+     "fim_corpo": 7767,
+     "trecho": "Esse mesmo rombo é rateado, na atribuição de culpa e no confisco de salários, principalmente, entre os funcionários públicos e os aposentados. A corrupção, no Brasil, já se tornou cativa em todos os níveis de governo. Como um câncer, transforma a Administração Pública num leito de morte. O dinheiro público tem, cada vez menos, valor de face. É que dele se subtrai, cada vez mais, o deságio da propina, do superfaturamento e da usura. E, aí, o anônimo que desfalece na fila do hospital público é o contraponto da conta fantasma. Ambos desconhecidos, o primeiro porque cidadão sem rosto, a segunda porque de titular sem caráter. Os índices de desnacionalização da economia brasileira já ultrapassam os limites da soberania. As ordens superiores nas fábricas, nos bancos e nos serviços mais essenciais já não são mais ditadas na língua pátria. Já não nossos os interesses; eles são traduzidos ou, no mínimo, carregam forte sotaque."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0248::Posição no trabalho",
+   "unit_id": "S0248",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-04",
+   "orador": "Amir Lando",
+   "n_ocorrencias_no_par": 12,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 6,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desempregados",
+     "forma_encontrada": "desempregados",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "sem carteira",
+     "forma_encontrada": "sem carteira",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 271,
+     "fim_corpo": 1303,
+     "trecho": "Ter nascido brasileiro, que mais se parece uma dádiva do próprio Criador, tem se transformado, em muitos momentos, e para muitos, em razão de desencanto. Somos cada vez menos donos dos nossos próprios destinos. O futuro é desenhado por credores que, como vampiros que se saciam do suor de outrem, relegam o texto de uma Constituição dita cidadã a imposições que nos revolvem os idos tempos da Carta Magna de 1.215. É o direito do credor sobre o devedor, sobre o qual se impõe o castigo do rastejo e da submissão. É triste olhar para o futuro e ver o passado. Principalmente quando os sonhos são possíveis e a realidade pesadelos. O Brasil já deve quase tudo o que produz. Já se desfez do patrimônio que se construiu ao longo de décadas de abnegação e trabalho. Vê ressurgir males que se esperava erradicados, como a febre amarela, a dengue e a tuberculose. O desemprego arranca a cidadania do trabalhador, transformando-o em cidadão sem rosto, relegado à escravidão da miséria e da desesperança."
+    },
+    {
+     "inicio_corpo": 425,
+     "fim_corpo": 1303,
+     "trecho": "Somos cada vez menos donos dos nossos próprios destinos. O futuro é desenhado por credores que, como vampiros que se saciam do suor de outrem, relegam o texto de uma Constituição dita cidadã a imposições que nos revolvem os idos tempos da Carta Magna de 1.215. É o direito do credor sobre o devedor, sobre o qual se impõe o castigo do rastejo e da submissão. É triste olhar para o futuro e ver o passado. Principalmente quando os sonhos são possíveis e a realidade pesadelos. O Brasil já deve quase tudo o que produz. Já se desfez do patrimônio que se construiu ao longo de décadas de abnegação e trabalho. Vê ressurgir males que se esperava erradicados, como a febre amarela, a dengue e a tuberculose. O desemprego arranca a cidadania do trabalhador, transformando-o em cidadão sem rosto, relegado à escravidão da miséria e da desesperança."
+    },
+    {
+     "inicio_corpo": 5005,
+     "fim_corpo": 5853,
+     "trecho": "Isso significa que, para receber, de graça, uma atividade que deverá gerar grandes lucros imediatamente após as privatizações, os empresários privados terão, também de graça, o equivalente a uma Companhia Vale do Rio Doce! Um dos objetivos constantes do programa de privatizações é colocar o \"estado no lugar certo\", retirando-o de ações tipicamente produtivas, para o cumprimento de atividades sociais, como saúde, educação e segurança pública. Uma leitura, por menos atenta que seja, no noticiário atual é o testemunho mais que perfeito para atestar o descumprimento de tal objetivo. As cidades mais se parecem campos da batalha não declarada, o analfabetismo ainda é a cegueira cultural e política do povo e a saúde traz a lume epidemias e endemias que pareciam história de um século passado. O desemprego atinge índices alarmantes."
+    },
+    {
+     "inicio_corpo": 5005,
+     "fim_corpo": 5960,
+     "trecho": "Isso significa que, para receber, de graça, uma atividade que deverá gerar grandes lucros imediatamente após as privatizações, os empresários privados terão, também de graça, o equivalente a uma Companhia Vale do Rio Doce! Um dos objetivos constantes do programa de privatizações é colocar o \"estado no lugar certo\", retirando-o de ações tipicamente produtivas, para o cumprimento de atividades sociais, como saúde, educação e segurança pública. Uma leitura, por menos atenta que seja, no noticiário atual é o testemunho mais que perfeito para atestar o descumprimento de tal objetivo. As cidades mais se parecem campos da batalha não declarada, o analfabetismo ainda é a cegueira cultural e política do povo e a saúde traz a lume epidemias e endemias que pareciam história de um século passado. O desemprego atinge índices alarmantes. E os percentuais de desemprego aberto, algo próximo dos 8%, escondem uma realidade muito mais contundente."
+    },
+    {
+     "inicio_corpo": 5228,
+     "fim_corpo": 6067,
+     "trecho": "Um dos objetivos constantes do programa de privatizações é colocar o \"estado no lugar certo\", retirando-o de ações tipicamente produtivas, para o cumprimento de atividades sociais, como saúde, educação e segurança pública. Uma leitura, por menos atenta que seja, no noticiário atual é o testemunho mais que perfeito para atestar o descumprimento de tal objetivo. As cidades mais se parecem campos da batalha não declarada, o analfabetismo ainda é a cegueira cultural e política do povo e a saúde traz a lume epidemias e endemias que pareciam história de um século passado. O desemprego atinge índices alarmantes. E os percentuais de desemprego aberto, algo próximo dos 8%, escondem uma realidade muito mais contundente. O desemprego oculto, particularmente pelo desalento, já atinge um em cada cinco trabalhadores brasileiros."
+    },
+    {
+     "inicio_corpo": 5228,
+     "fim_corpo": 6067,
+     "trecho": "Um dos objetivos constantes do programa de privatizações é colocar o \"estado no lugar certo\", retirando-o de ações tipicamente produtivas, para o cumprimento de atividades sociais, como saúde, educação e segurança pública. Uma leitura, por menos atenta que seja, no noticiário atual é o testemunho mais que perfeito para atestar o descumprimento de tal objetivo. As cidades mais se parecem campos da batalha não declarada, o analfabetismo ainda é a cegueira cultural e política do povo e a saúde traz a lume epidemias e endemias que pareciam história de um século passado. O desemprego atinge índices alarmantes. E os percentuais de desemprego aberto, algo próximo dos 8%, escondem uma realidade muito mais contundente. O desemprego oculto, particularmente pelo desalento, já atinge um em cada cinco trabalhadores brasileiros."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0248::Raça e etnia",
+   "unit_id": "S0248",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-04",
+   "orador": "Amir Lando",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "índio",
+     "forma_encontrada": "índio",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "índios",
+     "forma_encontrada": "índios",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10810,
+     "fim_corpo": 11306,
+     "trecho": "São indicadores, portanto, de um país fragilizado e indefeso, politicamente. Os acontecimentos que marcaram as comemorações pelos quinhentos anos do descobrimento do Brasil podem trazer a lume um dos possíveis cenários moldados por tal sensibilidade política. A linha demarcatória entre as instituições públicas e o povo foi ocupada pela força bruta. E essa força mostrou que, a uma ordem superior, é capaz de isolar o poder, mesmo que passando por cima de um índio deitado, ou de joelhos."
+    },
+    {
+     "inicio_corpo": 10810,
+     "fim_corpo": 11421,
+     "trecho": "São indicadores, portanto, de um país fragilizado e indefeso, politicamente. Os acontecimentos que marcaram as comemorações pelos quinhentos anos do descobrimento do Brasil podem trazer a lume um dos possíveis cenários moldados por tal sensibilidade política. A linha demarcatória entre as instituições públicas e o povo foi ocupada pela força bruta. E essa força mostrou que, a uma ordem superior, é capaz de isolar o poder, mesmo que passando por cima de um índio deitado, ou de joelhos. Qual será a ordem, e de quem ela emanará, se todos os índios resolverem se levantar, pintados para a guerra?"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0248::Renda e classe",
+   "unit_id": "S0248",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-04",
+   "orador": "Amir Lando",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13189,
+     "fim_corpo": 14069,
+     "trecho": "Até porque, as estatais lucrativas são a fonte mais viável para a geração de recursos para o pagamento da dívida pública, ainda que em novos moldes. Alguns segmentos das estatais poderão ser privatizados, mas, a partir do novo projeto de desenvolvimento econômico e social e no contexto de uma nova matriz industrial para o país. Os segmentos já privatizados devem ser revistos, não se negando a retomada da ação do Estado naqueles considerados estratégicos, no sentido de orientar o investimento privado. Isso pode ocorrer, por exemplo, com os setores petroquímico e siderúrgico, considerados multiplicadores de novos investimentos. O mesmo pode acontecer com a indústria de fertilizantes, estratégica para uma política de produção de alimentos, em um país no qual 47 milhões continuam abaixo da linha de pobreza e sem condições, nem mesmo, de adquirir a sua alimentação básica."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0248::Saúde",
+   "unit_id": "S0248",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-04",
+   "orador": "Amir Lando",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitais",
+     "forma_encontrada": "hospitais",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 692,
+     "fim_corpo": 1499,
+     "trecho": "É o direito do credor sobre o devedor, sobre o qual se impõe o castigo do rastejo e da submissão. É triste olhar para o futuro e ver o passado. Principalmente quando os sonhos são possíveis e a realidade pesadelos. O Brasil já deve quase tudo o que produz. Já se desfez do patrimônio que se construiu ao longo de décadas de abnegação e trabalho. Vê ressurgir males que se esperava erradicados, como a febre amarela, a dengue e a tuberculose. O desemprego arranca a cidadania do trabalhador, transformando-o em cidadão sem rosto, relegado à escravidão da miséria e da desesperança. Não há remoção de passado que permita estampar igual pilhagem ao dinheiro público que traz intrínseco o custo de oportunidade da dor das filas dos hospitais e da escuridão do analfabetismo."
+    },
+    {
+     "inicio_corpo": 6427,
+     "fim_corpo": 7360,
+     "trecho": "Quando encontram ocupação, executam atividades informais, sem carteira assinada, sem, portanto, qualquer garantia previdenciária e de atendimento à saúde. A não contribuição para a previdência social causa um rombo anual de R$ 10 bilhões, já que, na presente década, o número de trabalhadores passou de 60,6 para 69,9 milhões, enquanto o número de contribuintes estacionou na casa dos 31 milhões. Esse mesmo rombo é rateado, na atribuição de culpa e no confisco de salários, principalmente, entre os funcionários públicos e os aposentados. A corrupção, no Brasil, já se tornou cativa em todos os níveis de governo. Como um câncer, transforma a Administração Pública num leito de morte. O dinheiro público tem, cada vez menos, valor de face. É que dele se subtrai, cada vez mais, o deságio da propina, do superfaturamento e da usura. E, aí, o anônimo que desfalece na fila do hospital público é o contraponto da conta fantasma."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0248::Urbano e rural",
+   "unit_id": "S0248",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-04",
+   "orador": "Amir Lando",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "campos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4868,
+     "fim_corpo": 5807,
+     "trecho": "Ocorre que, ambas as estradas receberam, nos últimos anos, a título de recuperação e duplicação, um total aproximado de US$ 2,9 bilhões. Isso significa que, para receber, de graça, uma atividade que deverá gerar grandes lucros imediatamente após as privatizações, os empresários privados terão, também de graça, o equivalente a uma Companhia Vale do Rio Doce! Um dos objetivos constantes do programa de privatizações é colocar o \"estado no lugar certo\", retirando-o de ações tipicamente produtivas, para o cumprimento de atividades sociais, como saúde, educação e segurança pública. Uma leitura, por menos atenta que seja, no noticiário atual é o testemunho mais que perfeito para atestar o descumprimento de tal objetivo. As cidades mais se parecem campos da batalha não declarada, o analfabetismo ainda é a cegueira cultural e política do povo e a saúde traz a lume epidemias e endemias que pareciam história de um século passado."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0249::Administração pública",
+   "unit_id": "S0249",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-05",
+   "orador": "Leomar Quintanilha",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "órgãos públicos",
+     "forma_encontrada": "órgãos públicos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5886,
+     "fim_corpo": 6790,
+     "trecho": "Se na Região Centro-Oeste as atividades econômicas estão basicamente centradas nas atividades do setor primário: agricultura, pecuária, atividades pesqueiras e florestais, isso não se revela, com a mesma intensidade ou com o mesmo interesse, nas Regiões Sul e Sudeste, por exemplo, onde as atividades econômicas estão mais centradas e voltadas para as atividades de serviço e da indústria. O Presidente BNDES mostrou-se muito sensível e interessado. Eu, particularmente, tive uma excelente impressão do Presidente Francisco Gros. A meu ver, trata-se de um técnico, um profissional por excelência, que conhece as necessidades do Brasil e as potencialidades do organismo importante que dirige. Certamente S. Sª haverá de fazer com que esse órgão, quem sabe, faça uma reavaliação, uma revisão dos programas de desenvolvimento existentes e patrocinados por órgãos públicos, já que o Banco do Brasil, Sr."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0249::Domicílio e arranjo familiar",
+   "unit_id": "S0249",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-05",
+   "orador": "Leomar Quintanilha",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residências",
+     "forma_encontrada": "residências",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2502,
+     "fim_corpo": 3480,
+     "trecho": "Há um tempo não tão distante amargávamos uma fila interminável para comprarmos um aparelho telefônico. Ficávamos esperando anos para que esse telefone fosse ligado. Lembro-me de que a linha telefôncia era considerada um patrimônio - inclusive precisava ser registrada na declaração do Imposto de Renda. Hoje é considerado um bem de uso da população. Esse uso felizmente está sendo democratizado pelos baixos custos da aquisição da linha telefônica, pela sua eficiência de funcionamento e, conseqüentemente, pela existência de um maior número de usuários desse moderno sistema de comunicação. Aliás, Sr. Presidente, para nossa surpresa, postos de serviços, que abrigavam elevado número de funcionários, estão sendo desativados por serem desnecessários diante do novo quadro. Até porque, tendo em vista o aumento considerável de linhas telefônicas em residências e em logradouros públicos, não mais se faz necessário intermediação da concessionária para esse tipo de comunicação."
+    },
+    {
+     "inicio_corpo": 3094,
+     "fim_corpo": 3916,
+     "trecho": "Aliás, Sr. Presidente, para nossa surpresa, postos de serviços, que abrigavam elevado número de funcionários, estão sendo desativados por serem desnecessários diante do novo quadro. Até porque, tendo em vista o aumento considerável de linhas telefônicas em residências e em logradouros públicos, não mais se faz necessário intermediação da concessionária para esse tipo de comunicação. Felizmente, com relação a esse particular, o Brasil está caminhando a passos largos. Sr. Presidente, no que diz respeito aos outros instrumentos de fomento que caracterizam as ações do Banco Nacional de Desenvolvimento Econômico e Social, cobramos muito do Presidente daquela instituição a presença atuante e forte, principalmente no que tange ao social, já que mazelas de diversas naturezas ainda afligem famílias brasileiras."
+    },
+    {
+     "inicio_corpo": 4753,
+     "fim_corpo": 5684,
+     "trecho": "Presidente, entendo que existem instrumentos de governo para promover o fomento e o desenvolvimento para essas regiões mais atrasadas, menos assistidas, mais distantes, mais pobres, já que o capital privado, ao não perceber uma possibilidade de retorno imediato aos seus investimentos, ali não vai fazer investimento. Infelizmente, observamos que os recursos públicos deveriam estar fazendo o caminho inverso do capital privado, o que faria com que se protegessem as populações brasileiras nas regiões menos assistidas. Mas infelizmente, repito, os recursos públicos, ora do FGTS, ora do FAT, ainda caminham de forma mais acentuada em direção a regiões mais desenvolvidas, a regiões que têm outros mecanismos, que têm meios de dar vazas às suas possibilidades de desenvolvimento. Portanto, nobres Pares, considerei oportuna a presença do Presidente Francisco Gros na reunião da Presidência do Partido com a Bancada do PPB."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0249::Escolaridade e letramento",
+   "unit_id": "S0249",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-05-05",
+   "orador": "Leomar Quintanilha",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "analfabetismo",
+     "forma_encontrada": "analfabetismo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3094,
+     "fim_corpo": 4333,
+     "trecho": "Aliás, Sr. Presidente, para nossa surpresa, postos de serviços, que abrigavam elevado número de funcionários, estão sendo desativados por serem desnecessários diante do novo quadro. Até porque, tendo em vista o aumento considerável de linhas telefônicas em residências e em logradouros públicos, não mais se faz necessário intermediação da concessionária para esse tipo de comunicação. Felizmente, com relação a esse particular, o Brasil está caminhando a passos largos. Sr. Presidente, no que diz respeito aos outros instrumentos de fomento que caracterizam as ações do Banco Nacional de Desenvolvimento Econômico e Social, cobramos muito do Presidente daquela instituição a presença atuante e forte, principalmente no que tange ao social, já que mazelas de diversas naturezas ainda afligem famílias brasileiras. Ainda há fome, ainda há analfabetismo, ainda há grande dificuldade de acesso ao crédito para micro e pequeno - o BNDES não tem condições de fazer com que o crédito chegue ao pequeno e microempresário de forma direta, a menos que o faça por meio de outros agentes financeiros que tenham capilaridade, a exemplo do Banco do Brasil, da Caixa Econômica, dos bancos regionais, do Banco do Nordeste e do Banco da Amazônia."
+    }
+   ]
+  }
+ ]
+}

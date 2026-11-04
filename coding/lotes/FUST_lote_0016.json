@@ -1,0 +1,961 @@
+{
+ "caso": "FUST",
+ "lote": 16,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0081::Domicílio e arranjo familiar",
+   "unit_id": "S0081",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-20",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13061,
+     "fim_corpo": 13975,
+     "trecho": "E, quando se fala em produzir, a expectativa de cada um é a de aumentar a disponibilidade de alimentos para a população brasileira, de expandir o excedente exportável para melhorar a posição de nossa balança comercial, gerar emprego e renda no mercado interno e, em face disso, desenvolver uma estrutura que permita ao Brasil retomar o seu processo de desenvolvimento por meio da agricultura. Não tenho dúvida disso, que defendi enquanto estava no Ministério. Quero aqui enfatizar e louvar as medidas que estão sendo tomadas pelo Presidente, algumas há mais tempo; outras, mais recentemente, duas das quais de curtíssimo prazo. O programa nacional de eletrificação Luz no Campo é, sem dúvida, a grande oportunidade de manter o homem no campo, seguramente com mais oportunidade de usar tecnologia, melhorar a qualidade de vida da família desse indivíduo e gerar mais renda especialmente para as comunidades rurais."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0081::Educação",
+   "unit_id": "S0081",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-20",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 32043,
+     "fim_corpo": 32992,
+     "trecho": "Nesse exemplo, o Estado paga à empresa 30 dólares por dia, repondo o custo e pagando mais 5 dólares/dia/preso ao administrador da penitenciária particular. Aqui, somente com alimentação, um preso custa 227 dólares e ocorre um nível de reincidência de 70% a 90%; nas prisões privatizadas americanas, apenas 30% dos ex-detentos voltam a cometer delitos. Consigna a pesquisa que a idéia de privatização do sistema penitenciário, “como solução emergente para enfrentar o caos verificado no setor”, reúne os seguintes benefícios: recupera o sistema com menor gasto público; confere eficácia ao cumprimento da pena privativa de liberdade; resolve, eficazmente, o problema da superlotação dos presídios; as prisões transformam-se “em locais de trabalho produtivo e escolas de civismo e de consciência religiosa”; e inverte, com o trabalho do preso, “a situação hoje injusta em que o Estado gasta para sustentar quem causou mal à sociedade”."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0081::Gênero",
+   "unit_id": "S0081",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-20",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "mulher",
+     "forma_encontrada": "mulher",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1323,
+     "fim_corpo": 2217,
+     "trecho": "Podemos aquilatar o que significa mudar a qualidade de vida de alguém que, vivendo na zona rural, não dispõe de energia elétrica. Note que, no Estado do Ceará, 62,8% das propriedades já estão energizadas. A meta é alcançar 95% em três anos, graças a esse programa Luz no Campo; os outros 5% são as unidades remotas, para as quais não compensa estender uma rede de energia. Essas unidades terão que ser abastecidas por formas alternativas de energia, como a energia solar, eólica etc. Esse Programa do Governo Federal merece nosso apoio e este registro, a meu ver. Sete Estados brasileiros, ao fim do Programa, nos próximos quatro anos, estarão completamente eletrificados. Espera-se que, além dos benefícios na produção do proprietário rural, haja melhoria de sua qualidade de vida, de alimentação e ainda a possibilidade de ler e de sua mulher fazer um trabalho manual à noite."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0081::Posição no trabalho",
+   "unit_id": "S0081",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-20",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4946,
+     "fim_corpo": 5918,
+     "trecho": "Exª que me conceda um aparte. O SR. LÚCIO ALCÂNTARA (PSDB - CE) - Concedo o aparte ao nobre Senador Carlos Patrocínio. O Sr. Carlos Patrocínio (PFL - TO) - Nobre Senador Lúcio Alcântara, aproveito essa oportunidade para cumprimentá-lo pela atitude de V. Exa, como homem de Governo, aqui no Senado Federal. Como V. Exª bem afirma, às vezes, eu o vejo criticando ações governamentais, embora pertencendo ao Partido do Governo. Penso, eminente Senador, que talvez seja este o grande amigo, o grande parceiro, o grande aliado: aquele que condena as decisões não propriamente corretas. O Presidente inicia este ano com atuação merecedora de elogios por todos nós. Cita V. Exª o exemplo do programa Luz do Campo, fundamental para o desenvolvimento das nossas áreas rurais, alternativa, a meu ver, para a solução do desemprego e do inchaço das megalópoles deste País - vimos, que, com a chegada das chuvas, essas cidades sofrem enormes transtornos."
+    },
+    {
+     "inicio_corpo": 5918,
+     "fim_corpo": 6625,
+     "trecho": "É um programa que vem em boa hora. V. Exª já citou as cifras, os números que justificarão sua aceitação pela população brasileira, sobretudo a campesina. Gostaria também de cumprimentar o ex-Ministro Raimundo Brito, o atual Ministro Rodolpho Tourinho e, sobretudo, o Presidente Fernando Henrique Cardoso pelo lançamento, ontem, do programa Brasil Empreendedor Rural. Esse, sim, é um programa da mais alta qualificação, do mais alto significado; mais uma vez, o Presidente volta sua vista para o homem do campo. Parece que agora o campo vai desenvolver-se. Sempre reclamamos da falta de proteção ao homem do campo, mostrando que a agropecuária é o caminho correto para acabar com o desemprego em nosso país."
+    },
+    {
+     "inicio_corpo": 16803,
+     "fim_corpo": 17843,
+     "trecho": "Entendemos que não podemos permitir que, no final do Século XX, haja brasileiros vivendo ainda na Idade Média, iluminando suas casas com lamparinas de querosene ou com tochas de bambu, longe da televisão, da comunicação e de todos os confortos que a energia elétrica proporciona aos homens da cidade. São, pois, homens sem voz; são homens que estão separados uns dos outros; eles não têm uma CUT para promover quebra-quebras pela rua, greves ou confusão. Assim, esses cidadãos, que vivem isolados, precisam da atenção do Governo. E o Presidente Fernando Henrique, juntamente com sua equipe de governo, teve a clarividência de se achegar a eles, voltando a investir no setor de eletrificação rural. Ainda no tempo do Ministro Arlindo Porto, foi criado um outro programa maravilhoso, o Pronaf. Esse programa é genial porque vai ao trabalhador que reside na propriedade, exatamente àquele que vive no campo, sem qualquer acesso às linhas de crédito dos bancos, sem, muitas vezes, ter sequer uma roupa para se apresentar a um gerente de banco."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0081::Território intraurbano",
+   "unit_id": "S0081",
+   "subcategoria": "Território intraurbano",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-20",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "favelas",
+     "forma_encontrada": "favelas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 27101,
+     "fim_corpo": 28043,
+     "trecho": "A audiência, reunindo os membros dos três poderes da República e outros representantes da sociedade, como se vê, atendeu ao objetivo fundamental de criar comissão especial incumbida da formulação de propostas concretas de combate à insegurança. Não se trata, de acordo com o Presidente Michel Temer, de procurar o diagnóstico da situação, hoje enfrentada pela população, porquanto ele “é visível no dia-a-dia, tornando-nos, a um só tempo, vitimas e produtores da violência”. Na oportunidade, foi instituída comissão especial, de 31 membros, destinada a recolher, analisar e estudar subsídios para a formulação de propostas que venham a solucionar o problema da violência. Avaliou o presidente da Câmara que “de nada vale lembrar a um cidadão comum, que vive nos cortiços, nas favelas ou sob os viadutos, os seus direitos individuais, os seus direitos de ir e vir e manifestar-se, se falta-lhe pão sobre a mesa”."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0081::Urbano e rural",
+   "unit_id": "S0081",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-20",
+   "orador": "Lúcio Alcântara",
+   "n_ocorrencias_no_par": 47,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 41,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "Campo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "zona rural",
+     "forma_encontrada": "zona rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "Campo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "Campo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "áreas rurais",
+     "forma_encontrada": "áreas rurais",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 495,
+     "fim_corpo": 1323,
+     "trecho": "Por isso, julgo-me no dever de, sendo como sou crítico do Governo, dizer da minha satisfação em verificar que um programa anunciado há pouco tempo pelo Presidente Fernando Henrique Cardoso e pelo Ministro Rodolpho Tourinho Neto, de Minas e Energia, está tendo curso. Agora mesmo, o Ministro foi ao Ceará e assinou com o Governador Tasso Jereissati importante convênio, que contou com a interveniência da Companhia de Eletrificação do Ceará - Coelce, distribuidora de energia no Estado -, para investir R$130 milhões, sendo 75% provenientes empréstimo do Governo Federal a esta distribuidora e 25% de investimento do Governo do Estado, que visa, em três anos, universalizar a eletrificação de todas as propriedades rurais daquele Estado. Considero que o programa Luz no Campo tem um alcance enorme."
+    },
+    {
+     "inicio_corpo": 777,
+     "fim_corpo": 1453,
+     "trecho": "Agora mesmo, o Ministro foi ao Ceará e assinou com o Governador Tasso Jereissati importante convênio, que contou com a interveniência da Companhia de Eletrificação do Ceará - Coelce, distribuidora de energia no Estado -, para investir R$130 milhões, sendo 75% provenientes empréstimo do Governo Federal a esta distribuidora e 25% de investimento do Governo do Estado, que visa, em três anos, universalizar a eletrificação de todas as propriedades rurais daquele Estado. Considero que o programa Luz no Campo tem um alcance enorme. Podemos aquilatar o que significa mudar a qualidade de vida de alguém que, vivendo na zona rural, não dispõe de energia elétrica."
+    },
+    {
+     "inicio_corpo": 777,
+     "fim_corpo": 1696,
+     "trecho": "Agora mesmo, o Ministro foi ao Ceará e assinou com o Governador Tasso Jereissati importante convênio, que contou com a interveniência da Companhia de Eletrificação do Ceará - Coelce, distribuidora de energia no Estado -, para investir R$130 milhões, sendo 75% provenientes empréstimo do Governo Federal a esta distribuidora e 25% de investimento do Governo do Estado, que visa, em três anos, universalizar a eletrificação de todas as propriedades rurais daquele Estado. Considero que o programa Luz no Campo tem um alcance enorme. Podemos aquilatar o que significa mudar a qualidade de vida de alguém que, vivendo na zona rural, não dispõe de energia elétrica. Note que, no Estado do Ceará, 62,8% das propriedades já estão energizadas. A meta é alcançar 95% em três anos, graças a esse programa Luz no Campo; os outros 5% são as unidades remotas, para as quais não compensa estender uma rede de energia."
+    },
+    {
+     "inicio_corpo": 1247,
+     "fim_corpo": 2217,
+     "trecho": "Considero que o programa Luz no Campo tem um alcance enorme. Podemos aquilatar o que significa mudar a qualidade de vida de alguém que, vivendo na zona rural, não dispõe de energia elétrica. Note que, no Estado do Ceará, 62,8% das propriedades já estão energizadas. A meta é alcançar 95% em três anos, graças a esse programa Luz no Campo; os outros 5% são as unidades remotas, para as quais não compensa estender uma rede de energia. Essas unidades terão que ser abastecidas por formas alternativas de energia, como a energia solar, eólica etc. Esse Programa do Governo Federal merece nosso apoio e este registro, a meu ver. Sete Estados brasileiros, ao fim do Programa, nos próximos quatro anos, estarão completamente eletrificados. Espera-se que, além dos benefícios na produção do proprietário rural, haja melhoria de sua qualidade de vida, de alimentação e ainda a possibilidade de ler e de sua mulher fazer um trabalho manual à noite."
+    },
+    {
+     "inicio_corpo": 1902,
+     "fim_corpo": 2755,
+     "trecho": "Sete Estados brasileiros, ao fim do Programa, nos próximos quatro anos, estarão completamente eletrificados. Espera-se que, além dos benefícios na produção do proprietário rural, haja melhoria de sua qualidade de vida, de alimentação e ainda a possibilidade de ler e de sua mulher fazer um trabalho manual à noite. Enfim, como se sabe, a eletricidade vai melhorar, repito, sua condição de vida além de trazer um grande efeito multiplicador na economia. Calcula-se que serão mais 500 mil motores elétricos, mais 850 mil refrigeradores, mais 800 mil televisores e cinco milhões de lâmpadas - espero não serem aquelas que queimam em pouco tempo, exigindo, cada vez mais, lâmpadas de maior duração -, 600 mil equipamentos de irrigação e bombeamento, 500 mil picadeiros desintegradores. É renda, é trabalho, é melhoria da condição de vida do homem no campo."
+    },
+    {
+     "inicio_corpo": 3706,
+     "fim_corpo": 4613,
+     "trecho": "Mais de 20 hidrelétricas estavam com suas obras paralisadas. Não tenho em mão números atualizados, mas, da última vez em que verifiquei os dados, apenas três ou quatro construções não haviam sido retomadas. Creio que, agora, todas as obras foram reiniciadas. Essa é uma área em que também o Governo está usando o seu poder regulador sobre as concessionárias de distribuição de energia elétrica. Foram elas chamadas para essa parceria, realizada entre o Governo Federal, o governo estadual e essas distribuidoras, que vão tomar empréstimo a partir da reserva global de garantia, via Eletrobrás. Quero também referir-me ao Presidente da Eletrobrás, Dr. Firmino Ferreira Sampaio Neto Stoltz, que tem sido um excelente gestor. Essa parceria demonstra a possibilidade de uma sinergia, resultando em uma melhoria das condições de vida do homem no campo e na dinamização da economia."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0084::Domicílio e arranjo familiar",
+   "unit_id": "S0084",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-20",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residências",
+     "forma_encontrada": "residências",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1932,
+     "fim_corpo": 3006,
+     "trecho": "Segundo o próprio jornalista Udo Simões ( Correio Braziliense , 7/1/2000), desde o Brasil Colônia acontecem tais enchentes. Imaginem como esse problema tem se agravado nos últimos 50 anos com a ocorrência de um processo de urbanização desordenado! A probabilidade da ocorrência de desastres e calamidades, como a deste ano, cresce em proporção direta com o rápido e desordenado adensamento populacional, realizado em condições de inadequado uso do solo, da água e de outros recursos naturais, degradando o meio ambiente e intensificando o risco. Somente nos últimos dez anos, cerca de 500 pessoas morreram em conseqüência das enchentes e desabamentos. A imprensa chama os episódios de \"tragédias anunciadas\" porque todo mundo já sabe que ocorrerão, mas ninguém toma providências necessárias para preveni-las. As leis urbanísticas que proíbem a construção de residências a menos de 15 metros dos leitos dos rios não são obedecidas; as pessoas pobres, sem condições de adquirir terrenos em locais seguros, constróem nas encostas dos morros, sem nenhuma segurança."
+    },
+    {
+     "inicio_corpo": 15422,
+     "fim_corpo": 16220,
+     "trecho": "V. Exª, baseado nos fatos que vêm ocorrendo e que vêm sendo divulgados pela mídia nesses primeiros dias do ano 2000, traz a debate um assunto extremamente importante. Aplaudo a sua iniciativa e espero que tenhamos condição de discutir, na Comissão de Assuntos Sociais, principalmente, como também na Comissão de Constituição, Justiça e Cidadania, mecanismos que possam fazer com que não só o Poder Público mas também segmentos da sociedade articulem-se e organizem-se de forma a enfrentar esses problemas que, infelizmente, ocorrem todos os anos. Portanto, aplaudo a intenção de V. Exª, que traz um assunto extremamente importante. Sem dúvida nenhuma, o sofrimento e o drama vividos por milhares de famílias no nosso País hoje é algo que precisa ter resposta da classe política e do Poder Público."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0084::Renda e classe",
+   "unit_id": "S0084",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-20",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2056,
+     "fim_corpo": 3006,
+     "trecho": "Imaginem como esse problema tem se agravado nos últimos 50 anos com a ocorrência de um processo de urbanização desordenado! A probabilidade da ocorrência de desastres e calamidades, como a deste ano, cresce em proporção direta com o rápido e desordenado adensamento populacional, realizado em condições de inadequado uso do solo, da água e de outros recursos naturais, degradando o meio ambiente e intensificando o risco. Somente nos últimos dez anos, cerca de 500 pessoas morreram em conseqüência das enchentes e desabamentos. A imprensa chama os episódios de \"tragédias anunciadas\" porque todo mundo já sabe que ocorrerão, mas ninguém toma providências necessárias para preveni-las. As leis urbanísticas que proíbem a construção de residências a menos de 15 metros dos leitos dos rios não são obedecidas; as pessoas pobres, sem condições de adquirir terrenos em locais seguros, constróem nas encostas dos morros, sem nenhuma segurança."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0084::Território intraurbano",
+   "unit_id": "S0084",
+   "subcategoria": "Território intraurbano",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-20",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "periferia",
+     "forma_encontrada": "periferia",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11946,
+     "fim_corpo": 12713,
+     "trecho": "Espera-se que, a médio e longo prazos, a diminuição dos riscos provoque o aumento da margem de lucro das seguradoras e/ou a queda dos prêmios cobrados, possibilitando, nesse caso, a ampliação do mercado segurador. Não tenho dúvida, Srªs e Srs. Senadores, que os problemas causados pelas enchentes só serão resolvidos no dia em que nossas autoridades - municipais, estaduais e federais - possibilitarem condições dignas de moradia a nossas populações urbanas; no dia em que os cursos de água urbanos receberem o devido tratamento; no dia em que rios e riachos deixem de ser a lata de lixo da população; no dia em que encostas e morros sejam devidamente protegidos; no dia em que os moradores da periferia tiverem assegurado seu direito constitucional à moradia."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0085::Macrorregião",
+   "unit_id": "S0085",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-20",
+   "orador": "Heloísa Helena",
+   "n_ocorrencias_no_par": 9,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 3,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 99,
+     "fim_corpo": 989,
+     "trecho": "Presidente, Srªs e Srs. Senadores, não poderia deixar de compartilhar com esta Casa a audiência que tivemos ontem com o Ministro da Integração Nacional, Sr. Fernando Bezerra – também Senador nesta Casa –, no sentido de iniciar oficialmente um processo de discussão junto ao Ministério com relação à transposição do Rio São Francisco. Esse debate tomou conta da sociedade e desta Casa no ano passado. Infelizmente, em função de a proposta inicial do Ministério não estar pronta para ser viabilizada com esta Casa, gerou-se uma turbulência muito grande no debate. Por um lado, criou-se, na opinião pública, a suposta afirmação de que os Estados que hoje têm o Rio São Francisco – Bahia, Sergipe, Alagoas – estavam contrários ao processo de transposição. É importante reafirmar nossas preocupações gigantescas com relação ao aproveitamento dos recursos hídricos no nosso Nordeste."
+    },
+    {
+     "inicio_corpo": 667,
+     "fim_corpo": 1525,
+     "trecho": "Por um lado, criou-se, na opinião pública, a suposta afirmação de que os Estados que hoje têm o Rio São Francisco – Bahia, Sergipe, Alagoas – estavam contrários ao processo de transposição. É importante reafirmar nossas preocupações gigantescas com relação ao aproveitamento dos recursos hídricos no nosso Nordeste. Juntamente com os Senadores Antonio Carlos Valadares, José Eduardo Dutra e Maria do Carmo Alves, realizamos várias audiências públicas nesta Casa, nas quais estiveram presentes Senadores dos outros Estados que reivindicam a transposição do Rio São Francisco como uma alternativa fundamental para garantir o desenvolvimento econômico e social dos seus Estados. É claro que não aceitamos que o debate da transposição seja apresentado para a sociedade como se fosse a panacéia a resolver os problemas dos outros Estados do Nordeste."
+    },
+    {
+     "inicio_corpo": 989,
+     "fim_corpo": 1884,
+     "trecho": "Juntamente com os Senadores Antonio Carlos Valadares, José Eduardo Dutra e Maria do Carmo Alves, realizamos várias audiências públicas nesta Casa, nas quais estiveram presentes Senadores dos outros Estados que reivindicam a transposição do Rio São Francisco como uma alternativa fundamental para garantir o desenvolvimento econômico e social dos seus Estados. É claro que não aceitamos que o debate da transposição seja apresentado para a sociedade como se fosse a panacéia a resolver os problemas dos outros Estados do Nordeste. Se assim fosse, não viveríamos o constrangimento de termos o Rio São Francisco, todos os dias, esbofeteando a elite política e econômica dos três Estados. Os municípios que apresentam os piores indicadores sociais e econômicos são justamente os que estão no Vale do São Francisco. Portanto, a transposição não é a panacéia que resolverá os males do Nordeste."
+    },
+    {
+     "inicio_corpo": 1525,
+     "fim_corpo": 2297,
+     "trecho": "Se assim fosse, não viveríamos o constrangimento de termos o Rio São Francisco, todos os dias, esbofeteando a elite política e econômica dos três Estados. Os municípios que apresentam os piores indicadores sociais e econômicos são justamente os que estão no Vale do São Francisco. Portanto, a transposição não é a panacéia que resolverá os males do Nordeste. Seria um gesto de falta de solidariedade dos três Estados se estivessem inconformados com a transferência de 3% da vazão das águas do Rio São Francisco para os outros Estados. Não poderíamos ser tão egoístas e individualistas a ponto de não entendermos a necessidade da utilização dos recursos do Rio São Francisco, que tem 70% da disponibilidade hídrica dos 3% que estão disponíveis para o nosso Nordeste."
+    },
+    {
+     "inicio_corpo": 1525,
+     "fim_corpo": 2465,
+     "trecho": "Se assim fosse, não viveríamos o constrangimento de termos o Rio São Francisco, todos os dias, esbofeteando a elite política e econômica dos três Estados. Os municípios que apresentam os piores indicadores sociais e econômicos são justamente os que estão no Vale do São Francisco. Portanto, a transposição não é a panacéia que resolverá os males do Nordeste. Seria um gesto de falta de solidariedade dos três Estados se estivessem inconformados com a transferência de 3% da vazão das águas do Rio São Francisco para os outros Estados. Não poderíamos ser tão egoístas e individualistas a ponto de não entendermos a necessidade da utilização dos recursos do Rio São Francisco, que tem 70% da disponibilidade hídrica dos 3% que estão disponíveis para o nosso Nordeste. O Rio São Francisco não pertence a apenas três Estados. Ele é um patrimônio não somente do Nordeste, mas do povo brasileiro, do nosso País, das futuras gerações."
+    },
+    {
+     "inicio_corpo": 4774,
+     "fim_corpo": 5503,
+     "trecho": "A primeira obra de engenharia está sendo apresentada com o nome de transposição do rio São Francisco. E qual será a disponibilidade de recursos a ser apresentada pelo Governo Federal para que outras obras de engenharia possam garantir o aproveitamento da primeira? Não se trata simplesmente de fazer canalização ou estações elevatórias, nem de manter os açudes já existentes em outros Estados, para se ter a garantia de que a água será aproveitada no abastecimento humano e animal e em projetos de irrigação. Defendemos uma discussão mais abrangente, fundamentada em informações técnicas e calcada na solidariedade. Não podemos entregar o patrimônio gigantesco do Nordeste e do nosso País, que é o rio São Francisco."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0089::Domicílio e arranjo familiar",
+   "unit_id": "S0089",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-24",
+   "orador": "Moreira Mendes",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residências",
+     "forma_encontrada": "residências",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5521,
+     "fim_corpo": 6141,
+     "trecho": "Os agentes de viagens brasileiros decidiram ainda fortalecer a venda das companhias aéreas que não aderiram à quebra de contrato, dando prioridade à VASP e às demais empresas aéreas estrangeiras com atuação no mercado brasileiro.\" Esse é o primeiro documento, Sr. Presidente, que gostaria de ver transcrito nos Anais. Gostaria de mostrar outro, para fazer justiça à única empresa brasileira que não aderiu a esse desatino: a VASP, também subscrito por todas as entidades por mim relacionadas no início e dirigido a todas as presidências das Abavs, dos Sindeturs e das diretorias da Favecc, Braztoa e Aviesp."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0089::Posição no trabalho",
+   "unit_id": "S0089",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-24",
+   "orador": "Moreira Mendes",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2229,
+     "fim_corpo": 3113,
+     "trecho": "Pela ordem: AMERICAN AIRLINES, em 10/01/00, UNITED AIRLINES, em 13/01/00 e CONTINENTAL, também em 13/01/00. Os agentes de viagens brasileiros, que respondem por 85% da produção aérea do País, decidiram, por unanimidade, contestar hoje na justiça e junto ao Conselho Administrativo de Defesa Econômica – Cade, o abuso do poder econômico e a formação de cartel praticados pelas empresas aéreas. As agências de viagens brasileiras denunciam ainda que a quebra unilateral de contrato, que prevê a significativa redução da sua remuneração para 6% e 7%, pagos pelas empresas aeroviárias aos agentes de viagens pelos serviços profissionais de pesquisa tarifária e emissão de bilhetes aéreos internacionais e nacionais prestados ao consumidor final, ocasionará um grande desemprego no Brasil; uma vez que 52 setores da economia sofrerão os impactos negativos gerados pela medida."
+    },
+    {
+     "inicio_corpo": 2628,
+     "fim_corpo": 3364,
+     "trecho": "As agências de viagens brasileiras denunciam ainda que a quebra unilateral de contrato, que prevê a significativa redução da sua remuneração para 6% e 7%, pagos pelas empresas aeroviárias aos agentes de viagens pelos serviços profissionais de pesquisa tarifária e emissão de bilhetes aéreos internacionais e nacionais prestados ao consumidor final, ocasionará um grande desemprego no Brasil; uma vez que 52 setores da economia sofrerão os impactos negativos gerados pela medida. Com base nas estimativas da Subcomissão de Turismo da Câmara Federal, presidida pelo Deputado João Pizzolatti, a crise do desemprego no Brasil será agravada, podendo resultar na redução de 46 mil postos de trabalhos diretos e 416 mil indiretos."
+    },
+    {
+     "inicio_corpo": 4310,
+     "fim_corpo": 5155,
+     "trecho": "Aliás, de acordo com a própria Organização Mundial do Turismo - OMT, de cada onze integrantes da população economicamente ativa no Brasil, um atua em atividade ligada à Indústria do Turismo, alicerçada na rede de distribuição constituída pelas agências de viagens. Neste cenário, os agentes de viagens brasileiros decidiram abolir o conceito de parceria até hoje existente nas relações com as companhias aéreas e tratá-las como meros fornecedores, reforçando como conceito oficial da categoria a defesa e parceria incondicional com o consumidor final. Além das conseqüências negativas causadas pelo aumento do desemprego, os brasileiros, usuários do transporte aéreo, correm o risco de sofrer também outros efeitos negativos diretos, que poderão ser causados pelo desequilíbrio econômico e financeiro imposto às agências de viagens."
+    },
+    {
+     "inicio_corpo": 9333,
+     "fim_corpo": 10303,
+     "trecho": "Requeiro, ainda, informações ao Ministério da Previdência e Assistência Social sobre se essas companhias estão cumprindo suas responsabilidades com relação à Previdência Social. Finalmente, solicito ao Ministério da Defesa que indague ao Departamento de Aviação Civil – DAC qual o número de bilhetes cedidos a título de serviço e cortesia ou outros, não remunerados, a cidadãos requisitados pelo DAC ou pela Infraero, com a respectiva relação nominal e os trechos utilizados nos últimos cinco anos. Assim, Sr. Presidente, fica, mais uma vez, aqui, registrado o meu mais veemente protesto em nome desse segmento que representa hoje uma das alavancas do desenvolvimento deste País; segmento que, inclusive, corre o risco de gerar um desemprego em massa face à irresponsabilidade das empresas aéreas citadas, as quais, rompendo com seus contratos unilateralmente, deixam o lado mais fraco à mercê da própria sorte. Era o que tinha a dizer. i= T"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0090::Administração pública",
+   "unit_id": "S0090",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-25",
+   "orador": "Romeu Tuma",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "prefeitura",
+     "forma_encontrada": "prefeitura",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "prefeitura",
+     "forma_encontrada": "Prefeitura",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6738,
+     "fim_corpo": 7628,
+     "trecho": "No ano seguinte, com a libertação dos escravos, os negros vieram procurar emprego em São Paulo e criaram vários bairros na periferia. Em 1890, a abundância de mão-de-obra estrangeira, em meio a uma população de 64.934 habitantes, permitiu a construção da Avenida Paulista. A imigração continuou a crescer e, em 1897, havia dois italianos para cada brasileiro: o italiano era a língua mais falada na cidade. Três anos depois, os espanhóis representavam 12% da população, que atingia a 239.820 habitantes. Fundaram, então, o Clube Hispano-Brasileiro, no Brás. Os primeiros imigrantes sírios e libaneses chegaram em 1905. Desse ano até 1946, a Síria nos mandou 50 mil novos habitantes. Em 1908, surgiram os japoneses, desembarcados no navio \"Kasato Maru\"; e, em 1920, os primeiros 20 mil imigrantes armênios, na mesma época em que a prefeitura inaugurava o Teatro Municipal."
+    },
+    {
+     "inicio_corpo": 17232,
+     "fim_corpo": 18016,
+     "trecho": "Ela viaja muito, mas 15 dias é o máximo que consegue permanecer afastada de São Paulo. \"Fico morrendo de saudade\", disse a entrevistada, antes de afirmar: \"Precisamos votar conscientemente. Com o atual prefeito, não dá\". Isso foi dito por Cláudia Matarazzo, provavelmente parente do Senador Eduardo Suplicy. A escritora, assim como o publicitário Washington Olivetto e a modelo Adriane Galisteu, está entre os 30% da população que se declararam muito satisfeitos em morar em São Paulo, embora fazendo restrições. Dos resultados da pesquisa do Datafolha, a primeira conclusão que se tira aponta para a urgente necessidade de ser recuperar a auto-estima da cidade. Mas como realizar tamanha tarefa quando se sabe que o endividamento da Prefeitura atinge o dobro de seu orçamento?"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0090::Domicílio e arranjo familiar",
+   "unit_id": "S0090",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-25",
+   "orador": "Romeu Tuma",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9867,
+     "fim_corpo": 10628,
+     "trecho": "Setenta e cinco nacionalidades formam São Paulo, sendo que 5% são de estrangeiros legalizados. Portanto, quase metade dos moradores dizem que nasceram na cidade, mas são descendentes, na grande maioria, de gente vinda de outros lugares. Só 15% dos pais e 16% das mães nasceram na cidade de São Paulo. Sr. Presidente, Srªs e Srs. Senadores, o Brasil é reconhecido como a maior democracia racial existente e uma das maiores economias do mundo. Com sua pujança econômica e como cadinho de raças, minha cidade é símbolo perfeito dessas características nacionais. Orgulho-me de nela haver nascido, crescido e alcançado as melhores realizações pessoais, inclusive constituído família, na qual circula sangue árabe, italiano, português, japonês e austríaco."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0090::Educação",
+   "unit_id": "S0090",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-25",
+   "orador": "Romeu Tuma",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6872,
+     "fim_corpo": 7747,
+     "trecho": "Em 1890, a abundância de mão-de-obra estrangeira, em meio a uma população de 64.934 habitantes, permitiu a construção da Avenida Paulista. A imigração continuou a crescer e, em 1897, havia dois italianos para cada brasileiro: o italiano era a língua mais falada na cidade. Três anos depois, os espanhóis representavam 12% da população, que atingia a 239.820 habitantes. Fundaram, então, o Clube Hispano-Brasileiro, no Brás. Os primeiros imigrantes sírios e libaneses chegaram em 1905. Desse ano até 1946, a Síria nos mandou 50 mil novos habitantes. Em 1908, surgiram os japoneses, desembarcados no navio \"Kasato Maru\"; e, em 1920, os primeiros 20 mil imigrantes armênios, na mesma época em que a prefeitura inaugurava o Teatro Municipal. Três anos depois, a inauguração da escola judaica Renascença, no Bairro de Higienópolis, marcava a chegada dos judeus."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0090::Idade",
+   "unit_id": "S0090",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-25",
+   "orador": "Romeu Tuma",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11820,
+     "fim_corpo": 12868,
+     "trecho": "Exª um aparte? O SR. ROMEU TUMA (PFL - SP) – Ouço V. Exª. O Sr. Eduardo Siqueira Campos (PFL - TO) – Senador Romeu Tuma, permita-me igualmente associar-me às homenagens do povo do Estado do Tocantins a essa data tão importante para o Brasil, uma vez que todos nós, brasileiros, temos grande admiração pela cidade de São Paulo. Admiramos aquele belo Estado, sua gente e, particularmente, V. Exª. Portanto, em nome da população do Estado do Tocantins, associo-me às homenagens que V. Exª presta à Capital do Estado de São Paulo, que é também a capital econômica deste País. Ao mesmo tempo, cumprimento V. Exª por desempenhar com tanta dignidade sua função de representante daquele belo Estado, do qual também tanto nos orgulhamos. Parabéns. O SR. ROMEU TUMA (PFL - SP) – Senador Siqueira Campos, como o Senador Mozarildo, é V. Exª um exemplo, um dos mais jovens Senadores desta República, e vem de um Estado novo, o Estado do Tocantins, cujo Governador aprendemos a admirar e a respeitar pela força de trabalho que tem demonstrado."
+    },
+    {
+     "inicio_corpo": 14164,
+     "fim_corpo": 15175,
+     "trecho": "Lá estão algumas das pessoas que conseguiram acumular maior riqueza na História de nosso País e também pessoas, sobretudo vindas das regiões mais pobres de todos os Estados brasileiros, que para lá se deslocaram em busca de melhores condições de vida. Mesmo assim hoje ali encontram dificuldades, haja vista o nível de desemprego, que segundo a Fundação Sead e o Dieese, encontra-se em torno de 19% da população economicamente ativa. Também há um problema seriíssimo no que diz respeito ao crescimento do índice de criminalidade nesses últimos tempos: homicídios, roubos, assaltos. Em reportagem do jornal Folha de S.Paulo , ao responder sobre o que fazer com as prisões brasileiras, Drauzio Varella, que escreveu um livro notável, Estação Carandiru , mencionou que infelizmente estamos formando mais bandidos do que somos capazes de prender e que é preciso educar as crianças, oferecer uma perspectiva de vida decente para os mais pobres e punir com severidade os criminosos se quisermos reverter esse quadro."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0090::Macrorregião",
+   "unit_id": "S0090",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-25",
+   "orador": "Romeu Tuma",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7911,
+     "fim_corpo": 8935,
+     "trecho": "Entre 1900 e 1920, a população dobrou, atingindo 580 mil habitantes. Ainda devido à II Guerra Mundial, aconteceu, em 1940, uma grande onda imigratória e japoneses. No total, durante o século, mais de meio milhão de súditos nipônicos iriam chegar a São Paulo. Ao mesmo tempo, ocorreu uma grande imigração de refugiados de guerra vindos principalmente do leste europeu, o que contribuiu para fazer a população ultrapassar a marca do primeiro milhão e atingir, no final da década, um milhão e trezentos mil habitantes. Entre 1819 e 1940, 60% dos quatro milhões de imigrantes chegados ao Brasil haviam permanecido no Estado de São Paulo. Os refugiados foram fundamentais para o crescimento da indústria. Entre as duas grandes guerras, a cidade recebeu pelo menos cem mil europeus e orientais de elevada qualificação profissional. Na década de 50, iniciou-se a migração oriunda do Nordeste e aumentou intensamente a atração de paulistas do interior do Estado para a capital, graças ao crescimento da indústria."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0090::Posição no trabalho",
+   "unit_id": "S0090",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-25",
+   "orador": "Romeu Tuma",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13714,
+     "fim_corpo": 14598,
+     "trecho": "Trata-se de uma cidade formidável, que apresenta, sobretudo no que se refere aos seres humanos, extraordinária riqueza, amor, criatividade, boa vontade. E há certamente a possibilidade de se melhorar muito mais essa incrível, maravilhosa e maior cidade brasileira e da América do Sul. Mas devemos nos lembrar dos desafios que temos pela frente, Senador Romeu Tuma. V. Exª conhece tão bem quanto eu os contrastes da nossa querida cidade de São Paulo. Lá estão algumas das pessoas que conseguiram acumular maior riqueza na História de nosso País e também pessoas, sobretudo vindas das regiões mais pobres de todos os Estados brasileiros, que para lá se deslocaram em busca de melhores condições de vida. Mesmo assim hoje ali encontram dificuldades, haja vista o nível de desemprego, que segundo a Fundação Sead e o Dieese, encontra-se em torno de 19% da população economicamente ativa."
+    },
+    {
+     "inicio_corpo": 17751,
+     "fim_corpo": 18552,
+     "trecho": "Dos resultados da pesquisa do Datafolha, a primeira conclusão que se tira aponta para a urgente necessidade de ser recuperar a auto-estima da cidade. Mas como realizar tamanha tarefa quando se sabe que o endividamento da Prefeitura atinge o dobro de seu orçamento? A previsão de arrecadação para este ano é de R$7,6 bilhões e, conforme os dados divulgados pela imprensa, o passivo atinge R$16,3 bilhões - duas vezes e meia, Senador Requião. A dívida per capita está aumentando: no ano passado, quando o endividamento era de R$10,8 bilhões, a dívida per capita chegava a R$1 mil; agora, atinge R$1,6 mil. O fato é que circunstâncias desmoralizantes repetem pela falta de limpeza e conservação de vias públicas, agravam-se com a insegurança generalizada, afligem com o desemprego, e por aí agora."
+    },
+    {
+     "inicio_corpo": 18192,
+     "fim_corpo": 19063,
+     "trecho": "A dívida per capita está aumentando: no ano passado, quando o endividamento era de R$10,8 bilhões, a dívida per capita chegava a R$1 mil; agora, atinge R$1,6 mil. O fato é que circunstâncias desmoralizantes repetem pela falta de limpeza e conservação de vias públicas, agravam-se com a insegurança generalizada, afligem com o desemprego, e por aí agora. Isso se reflete na pesquisa do Datafolha, principalmente com a geração de um dado que me deixou estupefacto: o jornal afirma que um entre três moradores mudaria de cidade se pudesse. Dos entrevistados, 30% disseram estar muito satisfeitos de morar em São Paulo (em 1997, eram 41%); 17% declararam-se nada satisfeitos, e 53% afirmaram estar pouco satisfeitos. Os pesquisadores informaram que tais índices resultam de \"três anos de crise econômica, desemprego, escalada da violência e administração Celso Pitta\"."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0090::Raça e etnia",
+   "unit_id": "S0090",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-25",
+   "orador": "Romeu Tuma",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "índios",
+     "forma_encontrada": "índios",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "índios",
+     "forma_encontrada": "índios",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "índios",
+     "forma_encontrada": "índios",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "índios",
+     "forma_encontrada": "índios",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "indígena",
+     "forma_encontrada": "indígena",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "índios",
+     "forma_encontrada": "índios",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "negros",
+     "forma_encontrada": "negros",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "negros",
+     "forma_encontrada": "negros",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 903,
+     "fim_corpo": 1853,
+     "trecho": "São Paulo foi a primeira cidade brasileira fundada longe do litoral. Deu sustentação às investidas das entradas e bandeiras em direção ao interior e, com isso, gerou a derrocada dos limites impostos pelo Tratado de Tordesilhas, o que se traduziu no surgimento deste País belo e gigante. Esse portentoso trabalho de séculos já estava delineado nas mentes dos colonizadores que desembarcaram em São Vicente em 1532 e ali instalaram, imediatamente, os poderes executivo, legislativo e judiciário, oitenta e oito anos antes do início da colonização dos Estados Unidos da América pelos peregrinos do Mayflower e pelos puritanos de Boston. Para dar seguimento àquela intenção, os passageiros da frota de Martim Afonso encontraram apoio e orientação segura em um náufrago, João Ramalho, que fora recebê-los na praia, ao lado da esposa, Bartira, filha do cacique Tibiriçá, e à frente de centenas de índios tupiniquins, entre os quais vivia desde 1513."
+    },
+    {
+     "inicio_corpo": 4433,
+     "fim_corpo": 5369,
+     "trecho": "A muralha representa a subida da serra, penosa para aqueles que aportaram em solo brasileiro logo após o Descobrimento, dadas as dificuldades que tinham que enfrentar. E ambos subiram lá, para fundar, no Planalto de Piratininga, a minha cidade de São Paulo, que amo e na qual nasci. A emoção manifestada agora pelos atores ao encenar a chegada de Martim Afonso não pode ser maior que a sentida por Castro Alves ao retratar em versos a saga daqueles missionários jesuítas. Escreveu o poeta: \"Nada turbava aquelas frontes calmas, Nada curvava aquelas grandes almas voltadas para a amplidão... No entanto, eles só tinham, na jornada, por couraça a sotaina esfarrapada e uma cruz por bordão.\" São Paulo nasceu de um colégio, com uma missa, e teve em um Beato – Anchieta - seu primeiro mestre. Um Beato venerado por todos, brancos e índios, que o chamavam de Pagé-Guaçu, ou seja, Grande Pajé."
+    },
+    {
+     "inicio_corpo": 4601,
+     "fim_corpo": 5583,
+     "trecho": "E ambos subiram lá, para fundar, no Planalto de Piratininga, a minha cidade de São Paulo, que amo e na qual nasci. A emoção manifestada agora pelos atores ao encenar a chegada de Martim Afonso não pode ser maior que a sentida por Castro Alves ao retratar em versos a saga daqueles missionários jesuítas. Escreveu o poeta: \"Nada turbava aquelas frontes calmas, Nada curvava aquelas grandes almas voltadas para a amplidão... No entanto, eles só tinham, na jornada, por couraça a sotaina esfarrapada e uma cruz por bordão.\" São Paulo nasceu de um colégio, com uma missa, e teve em um Beato – Anchieta - seu primeiro mestre. Um Beato venerado por todos, brancos e índios, que o chamavam de Pagé-Guaçu, ou seja, Grande Pajé. A ele e ao Padre Manoel da Nóbrega, devemos não só a fundação, como também a salvação do vilarejo original ante a fúria de índios e outros habitantes do vizinho povoado de Santo André, infensos à obra missionária."
+    },
+    {
+     "inicio_corpo": 4911,
+     "fim_corpo": 5771,
+     "trecho": "Escreveu o poeta: \"Nada turbava aquelas frontes calmas, Nada curvava aquelas grandes almas voltadas para a amplidão... No entanto, eles só tinham, na jornada, por couraça a sotaina esfarrapada e uma cruz por bordão.\" São Paulo nasceu de um colégio, com uma missa, e teve em um Beato – Anchieta - seu primeiro mestre. Um Beato venerado por todos, brancos e índios, que o chamavam de Pagé-Guaçu, ou seja, Grande Pajé. A ele e ao Padre Manoel da Nóbrega, devemos não só a fundação, como também a salvação do vilarejo original ante a fúria de índios e outros habitantes do vizinho povoado de Santo André, infensos à obra missionária. Para defendê-lo, Nóbrega e Anchieta contaram com a proteção do cacique Tibiriçá e seus índios, bem como de outro chefe indígena chamado Caiubi, todos habitantes dos arredores da paliçada."
+    },
+    {
+     "inicio_corpo": 4911,
+     "fim_corpo": 5771,
+     "trecho": "Escreveu o poeta: \"Nada turbava aquelas frontes calmas, Nada curvava aquelas grandes almas voltadas para a amplidão... No entanto, eles só tinham, na jornada, por couraça a sotaina esfarrapada e uma cruz por bordão.\" São Paulo nasceu de um colégio, com uma missa, e teve em um Beato – Anchieta - seu primeiro mestre. Um Beato venerado por todos, brancos e índios, que o chamavam de Pagé-Guaçu, ou seja, Grande Pajé. A ele e ao Padre Manoel da Nóbrega, devemos não só a fundação, como também a salvação do vilarejo original ante a fúria de índios e outros habitantes do vizinho povoado de Santo André, infensos à obra missionária. Para defendê-lo, Nóbrega e Anchieta contaram com a proteção do cacique Tibiriçá e seus índios, bem como de outro chefe indígena chamado Caiubi, todos habitantes dos arredores da paliçada."
+    },
+    {
+     "inicio_corpo": 5270,
+     "fim_corpo": 6165,
+     "trecho": "Um Beato venerado por todos, brancos e índios, que o chamavam de Pagé-Guaçu, ou seja, Grande Pajé. A ele e ao Padre Manoel da Nóbrega, devemos não só a fundação, como também a salvação do vilarejo original ante a fúria de índios e outros habitantes do vizinho povoado de Santo André, infensos à obra missionária. Para defendê-lo, Nóbrega e Anchieta contaram com a proteção do cacique Tibiriçá e seus índios, bem como de outro chefe indígena chamado Caiubi, todos habitantes dos arredores da paliçada. Foi assim que, em julho de 1692, o vilarejo sobreviveu ao violento assédio dos inimigos, auxiliados pelos Tamoios da Confederação de Iperoig (atual Ubatuba), que estavam a serviço dos franceses, desbaratados por Mem de Sá no Rio de Janeiro. Em 1711, a Vila de São Paulo de Piratininga transformou-se na cidade de São Paulo, com uma população composta basicamente de portugueses e índios."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0090::Renda e classe",
+   "unit_id": "S0090",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-25",
+   "orador": "Romeu Tuma",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13574,
+     "fim_corpo": 14416,
+     "trecho": "Na verdade, juntamente com as cidades que formam a grande região metropolitana, sua população já está em torno de 17 milhões de habitantes. Trata-se de uma cidade formidável, que apresenta, sobretudo no que se refere aos seres humanos, extraordinária riqueza, amor, criatividade, boa vontade. E há certamente a possibilidade de se melhorar muito mais essa incrível, maravilhosa e maior cidade brasileira e da América do Sul. Mas devemos nos lembrar dos desafios que temos pela frente, Senador Romeu Tuma. V. Exª conhece tão bem quanto eu os contrastes da nossa querida cidade de São Paulo. Lá estão algumas das pessoas que conseguiram acumular maior riqueza na História de nosso País e também pessoas, sobretudo vindas das regiões mais pobres de todos os Estados brasileiros, que para lá se deslocaram em busca de melhores condições de vida."
+    },
+    {
+     "inicio_corpo": 14416,
+     "fim_corpo": 15175,
+     "trecho": "Mesmo assim hoje ali encontram dificuldades, haja vista o nível de desemprego, que segundo a Fundação Sead e o Dieese, encontra-se em torno de 19% da população economicamente ativa. Também há um problema seriíssimo no que diz respeito ao crescimento do índice de criminalidade nesses últimos tempos: homicídios, roubos, assaltos. Em reportagem do jornal Folha de S.Paulo , ao responder sobre o que fazer com as prisões brasileiras, Drauzio Varella, que escreveu um livro notável, Estação Carandiru , mencionou que infelizmente estamos formando mais bandidos do que somos capazes de prender e que é preciso educar as crianças, oferecer uma perspectiva de vida decente para os mais pobres e punir com severidade os criminosos se quisermos reverter esse quadro."
+    }
+   ]
+  }
+ ]
+}

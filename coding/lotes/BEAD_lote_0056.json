@@ -1,0 +1,971 @@
+{
+ "caso": "BEAD",
+ "lote": 56,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0250::Idade",
+   "unit_id": "W0250",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Curtis LeGeyt",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "youth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "youth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "youth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 20625,
+     "fim_corpo": 21447,
+     "trecho": "Food Drive has been helping to feed hungry families in the community and in 2022, collected more than 187,000 pounds of food.26  KHQ-TV / NBC 6 and local coffee shop Cravens Coffee in Spokane, WA bring free deliveries and a public spotlight to recognize local organizations doing good work in the community through the Coffee’s On Us program.27  In New Jersey, WKMK and WTHJ (106.3 and 106.5 FM), known as “Thunder 106,” recently raised almost $200,000 as part of the annual “Country Cares for St. Jude Kids Radiothon,” pushing the total 11-year contribution to nearly $1,400,000.28  NBCUniversal Telemundo launched a multi-city national campaign, \"El Campeón En Ti\" (The Champion In You), to build on its longstanding commitment to inspire Hispanic youth to discover the champions within themselves."
+    },
+    {
+     "inicio_corpo": 21137,
+     "fim_corpo": 22041,
+     "trecho": "Jude Kids Radiothon,” pushing the total 11-year contribution to nearly $1,400,000.28  NBCUniversal Telemundo launched a multi-city national campaign, \"El Campeón En Ti\" (The Champion In You), to build on its longstanding commitment to inspire Hispanic youth to discover the champions within themselves. The campaign underscores the need to expand access to safe recreational facilities and level an unequal playing field for Hispanic youth.29  Each year for the last twelve years, KABC-TV / NBC 7 in Los Angeles has provided more than 400,000 meals to food-insecure families.30  The Coats for the Cold drive has been a Knoxville tradition for 37 years, started by local radio station WIVK-FM, known as “107.7 WIVK,” after the exposure death of an area homeless man.31 25 https://www.allaccess.com/net-news/archive/story/202707/wdok-cleveland-raises- over-200-000-during-2020-rai."
+    },
+    {
+     "inicio_corpo": 22041,
+     "fim_corpo": 22479,
+     "trecho": "26 https://www.kcra.com/article/kids-can-food-drive-2023-northern-california/44966766. 27 https://www.khq.com/coffees_on_us/. 28 https://wbnj.org/press-broadcasting-raises-1-4-million-for-st-judes-hospital/. 29 https://corporate.comcast.com/press/releases/telemundo-national-soccer-campaign- el-campen-en-ti-2022-hispanic- youth#:~:text=The%20campaign%20underscores%20the%20need,societal%20adversiti es%20and%20life%20challenges."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0250::Infraestrutura e porte populacional",
+   "unit_id": "W0250",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Curtis LeGeyt",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 14482,
+     "fim_corpo": 14938,
+     "trecho": "3414). With 82 million monthly listeners nationwide,23 AM radio is an extremely popular way for Americans to stay connected to news, sports and entertainment, and it serves as the backbone in our nation’s emergency infrastructure. AM radio is incredibly important to agricultural communities and serves a number of diverse ethnic audiences, providing a unique and vital service to non-English speakers who may be underserved by general market media."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0250::Raça e etnia",
+   "unit_id": "W0250",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Curtis LeGeyt",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "minorities",
+     "forma_encontrada": "minorities",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 15757,
+     "fim_corpo": 16591,
+     "trecho": "Recent data shows only single-digit broadcast station ownership by women and people of color, with access to capital continuing to be a barrier for many. Unfortunately, the most impactful program to expand diversity in broadcast 22 In major legislation including the Cable Television Consumer Protection and Competition Act of 1992 (Cable Act) and the Telecommunications Act of 1996 (1996 Act), Congress acted to protect and promote the competitiveness of broadcast stations and the economic viability of over-the-air local broadcasting. 23 Nielsen. 10 ownership – the Diversity Tax Certificate Program – was eliminated by Congress in 1995. Broadcasters support legislation to reinstate this program and provide a tax incentive to those who sell their majority interest in a broadcast station to women and minorities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0250::Saúde",
+   "unit_id": "W0250",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Curtis LeGeyt",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "Hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "Hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "Hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 19881,
+     "fim_corpo": 20625,
+     "trecho": "Ongoing oversight is critical to ensure a successful nationwide rollout. V. Conclusion America’s broadcasters are extremely proud of the role we play in serving your constituents. We applaud this subcommittee’s attention to the changes in the media marketplace and the vital role of broadcasting in improving the lives of hundreds of millions of Americans. Thank you again for inviting me to testify today. I look forward to answering your questions. Appendix A  Cleveland’s WDOK (102.1 FM), known as “Star 102,” raised more than $200,000 in 2020 during the 18th annual “2020 Rainbow Radiothon” to benefit University Hospitals Rainbow Babies and Children’s Hospital.25  Since 1987, Sacramento’s KCRA-TV / NBC 3 Kids Can!"
+    },
+    {
+     "inicio_corpo": 19881,
+     "fim_corpo": 20625,
+     "trecho": "Ongoing oversight is critical to ensure a successful nationwide rollout. V. Conclusion America’s broadcasters are extremely proud of the role we play in serving your constituents. We applaud this subcommittee’s attention to the changes in the media marketplace and the vital role of broadcasting in improving the lives of hundreds of millions of Americans. Thank you again for inviting me to testify today. I look forward to answering your questions. Appendix A  Cleveland’s WDOK (102.1 FM), known as “Star 102,” raised more than $200,000 in 2020 during the 18th annual “2020 Rainbow Radiothon” to benefit University Hospitals Rainbow Babies and Children’s Hospital.25  Since 1987, Sacramento’s KCRA-TV / NBC 3 Kids Can!"
+    },
+    {
+     "inicio_corpo": 21447,
+     "fim_corpo": 22255,
+     "trecho": "The campaign underscores the need to expand access to safe recreational facilities and level an unequal playing field for Hispanic youth.29  Each year for the last twelve years, KABC-TV / NBC 7 in Los Angeles has provided more than 400,000 meals to food-insecure families.30  The Coats for the Cold drive has been a Knoxville tradition for 37 years, started by local radio station WIVK-FM, known as “107.7 WIVK,” after the exposure death of an area homeless man.31 25 https://www.allaccess.com/net-news/archive/story/202707/wdok-cleveland-raises- over-200-000-during-2020-rai. 26 https://www.kcra.com/article/kids-can-food-drive-2023-northern-california/44966766. 27 https://www.khq.com/coffees_on_us/. 28 https://wbnj.org/press-broadcasting-raises-1-4-million-for-st-judes-hospital/."
+    },
+    {
+     "inicio_corpo": 23055,
+     "fim_corpo": 24532,
+     "trecho": " In an effort to help fight misinformation within the Hispanic community, Univision News launched its fact-checking platform, “elDetector”, on WhatsApp to help connect users with verified, trustworthy information.34  Fox Corporation recently committed more than $300,000 in conjunction with its ongoing FOX Forward and FOX Sports Supports corporate social responsibility initiatives, including a commitment to the Pat Tillman Veterans Center to provide scholarship funding and resources for student veterans, the Boys & Girls Clubs of the Valley to enhance their career development and training programs, and Purple Heart Homes through FOX Sports’ Gamechanger Fund.35  iHeartMedia adult contemporary WLTW (106.7 FM) in New York, known as “106.7 Lite FM,” raised more than $1.6 million during its fifth annual “Hope for the Holidays” radiothon benefiting Hassenfeld Children’s Hospital at NYU Langone.36  KXAN-TV / NBC 36 in Austin, TX collected 740 fans and more than $230,000 during a summer drive for Family Eldercare.37  The Walt Disney Company, ABC Owned Television Stations, FX and Hulu recently donated approximately 450,000 meals to Feeding America and its network of food banks in New York, Los Angeles and Chicago to provide kids with access to nutritious food over the summer.38 32 https://www.cbsnews.com/losangeles/news/goldstein-investigates-leaders-demand- answers-after-employees-caught-trashing-food-meant-for-homeless/."
+    },
+    {
+     "inicio_corpo": 24532,
+     "fim_corpo": 25149,
+     "trecho": "33https://www.wearebroadcasters.com/publicService/storiesByKeyword.asp?id=1013#:~ :text=%E2%80%9CThe%20Morning%20Bullpen%E2%80%9D%20from%20Audacy,car d%20for%20active%2Dduty%20soldiers. 34 https://corporate.televisaunivision.com/press/televisa-content/2022/03/29/univision- news-launches-fact-checking-services-on-whatsapp/. 35 https://www.foxsports.com/supports/fox-corporation-and-fox-sports-announce-super- bowl-lvii-community-initiatives/. 36 https://www.insideradio.com/free/lite-fm-new-yorks-annual-radiothon-raises-1-6- million-for-childrens-hospital/article_6fdc36be-7d4d-11ed-8f8a-d3a8a437c26d.html."
+    },
+    {
+     "inicio_corpo": 24861,
+     "fim_corpo": 26623,
+     "trecho": "35 https://www.foxsports.com/supports/fox-corporation-and-fox-sports-announce-super- bowl-lvii-community-initiatives/. 36 https://www.insideradio.com/free/lite-fm-new-yorks-annual-radiothon-raises-1-6- million-for-childrens-hospital/article_6fdc36be-7d4d-11ed-8f8a-d3a8a437c26d.html. 37 https://www.kxan.com/news/simplehealth/live-blog-how-you-can-help-keep- neighbors-cool-with-family-eldercare-summer-fan-drive/. 38 https://abc7ny.com/the-bear-disney-feeding-america-food-bank-for-new-york- city/13469917/. 3  In 2022, the Bed and Bread Club Radiothon aired on aired on WJR 760 AM in Detroit, raising more than $1.7 million for the Salvation Army.39  Cumulus Media’s KSCS-FM (New Country 96.3) and KPLX-FM (99.5 The Wolf) in Dallas, TX raised more than $200,000 for a local children’s hospital in this year’s second annual Texas Independence Jam concert.40  TelevisaUnivision matched donations made through the Univision Foundation website to benefit the TeletonUSA Foundation, which offers rehabilitation services for children with neurological, muscular and skeletal disabilities, thereby tripling contributions to a sum of $45,000 to the overall funds raised.41  Salt Lake City’s KUTV / CBS2 responded to rising inflation with the Eyes on Your Money food drive to help struggling families.42  As part of a day of service, employees at Harrisburg’s WHP-TV / CBS 21 packed food boxes at the Central Pennsylvania Food Bank.43  For eight years, Tampa’s WTSP-TV / CBS 10 has teamed up with local food bank Feeding Tampa Bay to collect food for hungry children.44 39 https://centralusa.salvationarmy.org/greatlakes/news/the-salvation-armys-35th- annual-bed--bread-club-radiothon-raises-more-than-174-million/."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0250::Saúde e deficiência",
+   "unit_id": "W0250",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Curtis LeGeyt",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "disabilities",
+     "forma_encontrada": "disabilities",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 25149,
+     "fim_corpo": 26623,
+     "trecho": "37 https://www.kxan.com/news/simplehealth/live-blog-how-you-can-help-keep- neighbors-cool-with-family-eldercare-summer-fan-drive/. 38 https://abc7ny.com/the-bear-disney-feeding-america-food-bank-for-new-york- city/13469917/. 3  In 2022, the Bed and Bread Club Radiothon aired on aired on WJR 760 AM in Detroit, raising more than $1.7 million for the Salvation Army.39  Cumulus Media’s KSCS-FM (New Country 96.3) and KPLX-FM (99.5 The Wolf) in Dallas, TX raised more than $200,000 for a local children’s hospital in this year’s second annual Texas Independence Jam concert.40  TelevisaUnivision matched donations made through the Univision Foundation website to benefit the TeletonUSA Foundation, which offers rehabilitation services for children with neurological, muscular and skeletal disabilities, thereby tripling contributions to a sum of $45,000 to the overall funds raised.41  Salt Lake City’s KUTV / CBS2 responded to rising inflation with the Eyes on Your Money food drive to help struggling families.42  As part of a day of service, employees at Harrisburg’s WHP-TV / CBS 21 packed food boxes at the Central Pennsylvania Food Bank.43  For eight years, Tampa’s WTSP-TV / CBS 10 has teamed up with local food bank Feeding Tampa Bay to collect food for hungry children.44 39 https://centralusa.salvationarmy.org/greatlakes/news/the-salvation-armys-35th- annual-bed--bread-club-radiothon-raises-more-than-174-million/."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0250::Vínculo institucional",
+   "unit_id": "W0250",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Curtis LeGeyt",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "Veterans",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "veterans",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 22693,
+     "fim_corpo": 24532,
+     "trecho": "2  A KCAL-TV / CBS2 investigation captured video of Los Angeles Homeless Services employees throwing food meant for the homeless straight into the dumpster, prompting local leaders to take action.32  KILT-FM (100.3 FM), known as “The Bull 100.3” in Houston, Texas, collected 32,793 thank-you cards as part of their “10K for the Troops” campaign.33  In an effort to help fight misinformation within the Hispanic community, Univision News launched its fact-checking platform, “elDetector”, on WhatsApp to help connect users with verified, trustworthy information.34  Fox Corporation recently committed more than $300,000 in conjunction with its ongoing FOX Forward and FOX Sports Supports corporate social responsibility initiatives, including a commitment to the Pat Tillman Veterans Center to provide scholarship funding and resources for student veterans, the Boys & Girls Clubs of the Valley to enhance their career development and training programs, and Purple Heart Homes through FOX Sports’ Gamechanger Fund.35  iHeartMedia adult contemporary WLTW (106.7 FM) in New York, known as “106.7 Lite FM,” raised more than $1.6 million during its fifth annual “Hope for the Holidays” radiothon benefiting Hassenfeld Children’s Hospital at NYU Langone.36  KXAN-TV / NBC 36 in Austin, TX collected 740 fans and more than $230,000 during a summer drive for Family Eldercare.37  The Walt Disney Company, ABC Owned Television Stations, FX and Hulu recently donated approximately 450,000 meals to Feeding America and its network of food banks in New York, Los Angeles and Chicago to provide kids with access to nutritious food over the summer.38 32 https://www.cbsnews.com/losangeles/news/goldstein-investigates-leaders-demand- answers-after-employees-caught-trashing-food-meant-for-homeless/."
+    },
+    {
+     "inicio_corpo": 22693,
+     "fim_corpo": 24532,
+     "trecho": "2  A KCAL-TV / CBS2 investigation captured video of Los Angeles Homeless Services employees throwing food meant for the homeless straight into the dumpster, prompting local leaders to take action.32  KILT-FM (100.3 FM), known as “The Bull 100.3” in Houston, Texas, collected 32,793 thank-you cards as part of their “10K for the Troops” campaign.33  In an effort to help fight misinformation within the Hispanic community, Univision News launched its fact-checking platform, “elDetector”, on WhatsApp to help connect users with verified, trustworthy information.34  Fox Corporation recently committed more than $300,000 in conjunction with its ongoing FOX Forward and FOX Sports Supports corporate social responsibility initiatives, including a commitment to the Pat Tillman Veterans Center to provide scholarship funding and resources for student veterans, the Boys & Girls Clubs of the Valley to enhance their career development and training programs, and Purple Heart Homes through FOX Sports’ Gamechanger Fund.35  iHeartMedia adult contemporary WLTW (106.7 FM) in New York, known as “106.7 Lite FM,” raised more than $1.6 million during its fifth annual “Hope for the Holidays” radiothon benefiting Hassenfeld Children’s Hospital at NYU Langone.36  KXAN-TV / NBC 36 in Austin, TX collected 740 fans and more than $230,000 during a summer drive for Family Eldercare.37  The Walt Disney Company, ABC Owned Television Stations, FX and Hulu recently donated approximately 450,000 meals to Feeding America and its network of food banks in New York, Los Angeles and Chicago to provide kids with access to nutritious food over the summer.38 32 https://www.cbsnews.com/losangeles/news/goldstein-investigates-leaders-demand- answers-after-employees-caught-trashing-food-meant-for-homeless/."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0252::Domicílio e arranjo familiar",
+   "unit_id": "W0252",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Grant Spellmeyer",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11659,
+     "fim_corpo": 12572,
+     "trecho": "While this Member company’s operational expenses have held relatively steady over the past twenty years, its programming costs have climbed steeply – and the rates charged to customers have risen in parallel. These charts leave no doubt that programming costs are driving the massive increases in cable bills. Sadly, there is every reason to believe that this Member company’s story is the norm rather than the exception. By virtually every metric, retransmission consent is a broken system. • Out-of-Control Fee Increases. Retransmission consent fees have risen from $200 million in 2006 to $11.7 billion in 2019, an astounding 5,359 percent increase. To put these increases in perspective: a loaf of bread would cost over 20 dollars, and a gallon of milk over 50 dollars, if the prices of these household staples had increased at the same rate as retransmission consent fee payments since 2010."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0252::Idade",
+   "unit_id": "W0252",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Grant Spellmeyer",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7707,
+     "fim_corpo": 8614,
+     "trecho": "But government actions should not make our uphill climb steeper by adopting policies that diminish our bargaining power or otherwise tip the scales in the wrong direction or by failing to address anticompetitive behavior. Unfortunately, that has happened too frequently and is a lesson we should not repeat. We are eager to continue assisting the subcommittee as it moves forward in examining the future video marketplace. As we see it, there are three main issues that are worth your attention as this marketplace continues to evolve. First, just as we have seen the disruption to local newspapers and other media due to changing habits and technologies, the current video business is bound to change as well. Again, we are the canary in the coalmine here. I can tell you that some of my Members have essentially exited the video business—and all of them are considering the possibility."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0252::Urbano e rural",
+   "unit_id": "W0252",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Grant Spellmeyer",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6762,
+     "fim_corpo": 7707,
+     "trecho": "Congress and the FCC have made headway in addressing these problems, but far too often they persist. It is time for a national “permitting” law to address these concerns. We must also ensure that the video marketplace operates fairly and rationally – without any participant exerting undue leverage. Sadly, this has not always been the case. As we discuss Written Statement of Grant Spellmeyer September 13, 2023 Page 3 in detail below with regard to retransmission consent, ACA Connects Members know firsthand how an unbalanced regulatory environment can create dysfunction that ultimately leaves video consumers worse off. Indeed, our membership has often been the “canary in the coal mine” when it comes to many of the issues that this subcommittee has tackled. We recognize that by virtue of being small and rural operators we are at a disadvantage when dealing with extremely large and often multinational companies."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0253::Idade",
+   "unit_id": "W0253",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Schwantes",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 554,
+     "trecho": "Replies to Questions for the Record Jonathan Schwantes, Senior Policy Counsel Consumer Reports September 13, 2023 Hearing on “Lights, Camera, Subscriptions: State of the Video Marketplace” United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology October 16, 2023 REPLY TO QUESTION ASKED BY THE HONORABLE KAT CAMMACK Future disruptions in the video marketplace will continue to take place as consumers, especially younger ones, migrate from traditional video offerings (e.g."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0254::Cultura e informação",
+   "unit_id": "W0254",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Spalter",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "libraries",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3175,
+     "fim_corpo": 4247,
+     "trecho": "Yet the shot clock is now running dangerously low – with existing funds likely to be depleted early next year. Action is needed in this Congress to keep this program alive. Until a permanent solution to funding the ACP can be put in place by 3 expanding the USF contributions base to include Big Tech, Congress should appropriate stop- gap funding to allow the program to continue its important work uninterrupted. Congress should also move quickly to grant the FCC the authority it needs to expand the USF contributions base to include the dominant Big Tech companies that benefit financially from the connectivity that USF makes possible. This would lay the groundwork for the FCC to advance urgently needed reforms to stabilize the USF for its modern purpose – building and maintaining rural broadband networks in high-cost areas, connecting schools, libraries, and hospitals, as well as ensuring broadband access for low-income families – all at a more reasonable contributions factor spread more evenly and sustainably across the broadband ecosystem."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0254::Domicílio e arranjo familiar",
+   "unit_id": "W0254",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Spalter",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 941,
+     "fim_corpo": 1841,
+     "trecho": "Broadband providers are squarely focused on making this vision a reality. Indeed, our organization earlier this month released its annual tally of capital investment in the nation’s communications infrastructure. In 2022, that figure reached $102.4 billion – adding up to nearly $2.1 trillion in private capital that broadband providers have invested into making our nation the undisputed global leader of the information age and unlocking all the possibilities broadband brings into our lives. Nowhere is the transformative power of broadband more apparent than in the most remote corners of our vast nation – bringing health care to sparsely populated areas where the nearest 2 specialist may be 100 miles or more away and expanding educational and job opportunities so people are not required to choose between providing for their families and residing in the communities they love."
+    },
+    {
+     "inicio_corpo": 2257,
+     "fim_corpo": 3014,
+     "trecho": "The Path Forward There are several steps that Congress can take to ensure our current efforts toward universal connectivity are achieved. Those include providing stop-gap funding for the Affordable Connectivity Program (ACP) until a long-term solution is in place so low-income Americans across the country can continue to access broadband; modernizing the Universal Service Fund (USF) contributions system to bring it into the current internet age; and, ensuring that the BEAD program is implemented efficiently and effectively. Securing the Affordable Connectivity Program The ACP, enacted by a bipartisan Congress in the IIJA, has proven to be a vital program. It is helping 21 million low-income households purchase high-speed internet."
+    },
+    {
+     "inicio_corpo": 2257,
+     "fim_corpo": 3175,
+     "trecho": "The Path Forward There are several steps that Congress can take to ensure our current efforts toward universal connectivity are achieved. Those include providing stop-gap funding for the Affordable Connectivity Program (ACP) until a long-term solution is in place so low-income Americans across the country can continue to access broadband; modernizing the Universal Service Fund (USF) contributions system to bring it into the current internet age; and, ensuring that the BEAD program is implemented efficiently and effectively. Securing the Affordable Connectivity Program The ACP, enacted by a bipartisan Congress in the IIJA, has proven to be a vital program. It is helping 21 million low-income households purchase high-speed internet. In other words, the ACP is enabling 21 million low-income families to realize the power and promise of broadband and fully participate in our digital economy."
+    },
+    {
+     "inicio_corpo": 3287,
+     "fim_corpo": 4247,
+     "trecho": "Action is needed in this Congress to keep this program alive. Until a permanent solution to funding the ACP can be put in place by 3 expanding the USF contributions base to include Big Tech, Congress should appropriate stop- gap funding to allow the program to continue its important work uninterrupted. Congress should also move quickly to grant the FCC the authority it needs to expand the USF contributions base to include the dominant Big Tech companies that benefit financially from the connectivity that USF makes possible. This would lay the groundwork for the FCC to advance urgently needed reforms to stabilize the USF for its modern purpose – building and maintaining rural broadband networks in high-cost areas, connecting schools, libraries, and hospitals, as well as ensuring broadband access for low-income families – all at a more reasonable contributions factor spread more evenly and sustainably across the broadband ecosystem."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0254::Educação",
+   "unit_id": "W0254",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Spalter",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3175,
+     "fim_corpo": 4247,
+     "trecho": "Yet the shot clock is now running dangerously low – with existing funds likely to be depleted early next year. Action is needed in this Congress to keep this program alive. Until a permanent solution to funding the ACP can be put in place by 3 expanding the USF contributions base to include Big Tech, Congress should appropriate stop- gap funding to allow the program to continue its important work uninterrupted. Congress should also move quickly to grant the FCC the authority it needs to expand the USF contributions base to include the dominant Big Tech companies that benefit financially from the connectivity that USF makes possible. This would lay the groundwork for the FCC to advance urgently needed reforms to stabilize the USF for its modern purpose – building and maintaining rural broadband networks in high-cost areas, connecting schools, libraries, and hospitals, as well as ensuring broadband access for low-income families – all at a more reasonable contributions factor spread more evenly and sustainably across the broadband ecosystem."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0254::Idade",
+   "unit_id": "W0254",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Spalter",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3828,
+     "fim_corpo": 4716,
+     "trecho": "This would lay the groundwork for the FCC to advance urgently needed reforms to stabilize the USF for its modern purpose – building and maintaining rural broadband networks in high-cost areas, connecting schools, libraries, and hospitals, as well as ensuring broadband access for low-income families – all at a more reasonable contributions factor spread more evenly and sustainably across the broadband ecosystem. Preparing for the Future of Universal Service The future of rural broadband funding requires charting a sustainable future for universal service, and that begins with reforming the contributions system. There is no question that the current system – based largely on dwindling telecommunications revenues, including landline telephone service disproportionately relied on by senior citizens and others living on a fixed income – is regressive and outdated."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0254::Infraestrutura e porte populacional",
+   "unit_id": "W0254",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Spalter",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "high-cost areas",
+     "forma_encontrada": "high-cost areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3175,
+     "fim_corpo": 4247,
+     "trecho": "Yet the shot clock is now running dangerously low – with existing funds likely to be depleted early next year. Action is needed in this Congress to keep this program alive. Until a permanent solution to funding the ACP can be put in place by 3 expanding the USF contributions base to include Big Tech, Congress should appropriate stop- gap funding to allow the program to continue its important work uninterrupted. Congress should also move quickly to grant the FCC the authority it needs to expand the USF contributions base to include the dominant Big Tech companies that benefit financially from the connectivity that USF makes possible. This would lay the groundwork for the FCC to advance urgently needed reforms to stabilize the USF for its modern purpose – building and maintaining rural broadband networks in high-cost areas, connecting schools, libraries, and hospitals, as well as ensuring broadband access for low-income families – all at a more reasonable contributions factor spread more evenly and sustainably across the broadband ecosystem."
+    },
+    {
+     "inicio_corpo": 7614,
+     "fim_corpo": 8348,
+     "trecho": "The pandemic made clearer than ever that high-speed broadband is a cornerstone of American life, connecting Americans to education, healthcare, employment and virtually every other aspect of our daily lives and our nation’s economic security. Closing the digital divide is now more important than ever. Implementing BEAD The IIJA’s historic $42.5 billion BEAD program will be key to deploying digital infrastructure to rural and remote areas that are otherwise cost-prohibitive to serve. To maximize this opportunity, Congress should ensure efficient and effective BEAD implementation and ensure taxpayer funds are stretched as far as possible to connect as many unserved and underserved homes and businesses as possible."
+    },
+    {
+     "inicio_corpo": 7614,
+     "fim_corpo": 8348,
+     "trecho": "The pandemic made clearer than ever that high-speed broadband is a cornerstone of American life, connecting Americans to education, healthcare, employment and virtually every other aspect of our daily lives and our nation’s economic security. Closing the digital divide is now more important than ever. Implementing BEAD The IIJA’s historic $42.5 billion BEAD program will be key to deploying digital infrastructure to rural and remote areas that are otherwise cost-prohibitive to serve. To maximize this opportunity, Congress should ensure efficient and effective BEAD implementation and ensure taxpayer funds are stretched as far as possible to connect as many unserved and underserved homes and businesses as possible."
+    },
+    {
+     "inicio_corpo": 10591,
+     "fim_corpo": 11610,
+     "trecho": "Experience matters. Government-owned networks have 7 an extensive track record of failure, largely due to a lack of financial and managerial capacity and technical and operational capability to deploy, maintain, and sustain broadband networks. The few that have become sustainable are those that have partnered with experienced service providers. Favoring entities in the BEAD program that lack a profit motive but have no operational experience over providers with a demonstrated history of building and operating networks risks squandering this once-in-a-generation funding. Private sector providers can maximize the impact of federal broadband funding by contributing their own private capital for matching funds, in turn reducing the amount of public funding needed for a given project. Private sector providers can also deploy and bring service to unserved and underserved Americans more quickly than government entities and bring economies of scale that government-owned networks cannot match."
+    },
+    {
+     "inicio_corpo": 10591,
+     "fim_corpo": 11610,
+     "trecho": "Experience matters. Government-owned networks have 7 an extensive track record of failure, largely due to a lack of financial and managerial capacity and technical and operational capability to deploy, maintain, and sustain broadband networks. The few that have become sustainable are those that have partnered with experienced service providers. Favoring entities in the BEAD program that lack a profit motive but have no operational experience over providers with a demonstrated history of building and operating networks risks squandering this once-in-a-generation funding. Private sector providers can maximize the impact of federal broadband funding by contributing their own private capital for matching funds, in turn reducing the amount of public funding needed for a given project. Private sector providers can also deploy and bring service to unserved and underserved Americans more quickly than government entities and bring economies of scale that government-owned networks cannot match."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0254::Renda e classe",
+   "unit_id": "W0254",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Spalter",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1841,
+     "fim_corpo": 2797,
+     "trecho": "Because of their remote nature and sparse populations, these areas are often uneconomic for the private sector alone to deliver and maintain broadband infrastructure. So, to advance our nation’s commitment to universal connectivity, the federal government is an indispensable partner to the broadband providers that are dedicated to doing this work and bringing affordable, reliable internet to every community. The Path Forward There are several steps that Congress can take to ensure our current efforts toward universal connectivity are achieved. Those include providing stop-gap funding for the Affordable Connectivity Program (ACP) until a long-term solution is in place so low-income Americans across the country can continue to access broadband; modernizing the Universal Service Fund (USF) contributions system to bring it into the current internet age; and, ensuring that the BEAD program is implemented efficiently and effectively."
+    },
+    {
+     "inicio_corpo": 2257,
+     "fim_corpo": 3014,
+     "trecho": "The Path Forward There are several steps that Congress can take to ensure our current efforts toward universal connectivity are achieved. Those include providing stop-gap funding for the Affordable Connectivity Program (ACP) until a long-term solution is in place so low-income Americans across the country can continue to access broadband; modernizing the Universal Service Fund (USF) contributions system to bring it into the current internet age; and, ensuring that the BEAD program is implemented efficiently and effectively. Securing the Affordable Connectivity Program The ACP, enacted by a bipartisan Congress in the IIJA, has proven to be a vital program. It is helping 21 million low-income households purchase high-speed internet."
+    },
+    {
+     "inicio_corpo": 2257,
+     "fim_corpo": 3175,
+     "trecho": "The Path Forward There are several steps that Congress can take to ensure our current efforts toward universal connectivity are achieved. Those include providing stop-gap funding for the Affordable Connectivity Program (ACP) until a long-term solution is in place so low-income Americans across the country can continue to access broadband; modernizing the Universal Service Fund (USF) contributions system to bring it into the current internet age; and, ensuring that the BEAD program is implemented efficiently and effectively. Securing the Affordable Connectivity Program The ACP, enacted by a bipartisan Congress in the IIJA, has proven to be a vital program. It is helping 21 million low-income households purchase high-speed internet. In other words, the ACP is enabling 21 million low-income families to realize the power and promise of broadband and fully participate in our digital economy."
+    },
+    {
+     "inicio_corpo": 3287,
+     "fim_corpo": 4247,
+     "trecho": "Action is needed in this Congress to keep this program alive. Until a permanent solution to funding the ACP can be put in place by 3 expanding the USF contributions base to include Big Tech, Congress should appropriate stop- gap funding to allow the program to continue its important work uninterrupted. Congress should also move quickly to grant the FCC the authority it needs to expand the USF contributions base to include the dominant Big Tech companies that benefit financially from the connectivity that USF makes possible. This would lay the groundwork for the FCC to advance urgently needed reforms to stabilize the USF for its modern purpose – building and maintaining rural broadband networks in high-cost areas, connecting schools, libraries, and hospitals, as well as ensuring broadband access for low-income families – all at a more reasonable contributions factor spread more evenly and sustainably across the broadband ecosystem."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0254::Saúde",
+   "unit_id": "W0254",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Spalter",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3175,
+     "fim_corpo": 4247,
+     "trecho": "Yet the shot clock is now running dangerously low – with existing funds likely to be depleted early next year. Action is needed in this Congress to keep this program alive. Until a permanent solution to funding the ACP can be put in place by 3 expanding the USF contributions base to include Big Tech, Congress should appropriate stop- gap funding to allow the program to continue its important work uninterrupted. Congress should also move quickly to grant the FCC the authority it needs to expand the USF contributions base to include the dominant Big Tech companies that benefit financially from the connectivity that USF makes possible. This would lay the groundwork for the FCC to advance urgently needed reforms to stabilize the USF for its modern purpose – building and maintaining rural broadband networks in high-cost areas, connecting schools, libraries, and hospitals, as well as ensuring broadband access for low-income families – all at a more reasonable contributions factor spread more evenly and sustainably across the broadband ecosystem."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0254::Urbano e rural",
+   "unit_id": "W0254",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jonathan Spalter",
+   "n_ocorrencias_no_par": 11,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 5,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "RURAL",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 385,
+     "trecho": "1 WRITTEN TESTIMONY OF JONATHAN SPALTER USTELECOM PRESIDENT & CEO BEFORE THE HOUSE ENERGY & COMMERCE SUBCOMMITTEE ON COMMUNICATIONS & TECHNOLOGY HEARING: “CONNECTING EVERY AMERICAN: THE FUTURE OF RURAL BROADBAND FUNDING” SEPTEMBER 21, 2023 USTelecom – The Broadband Association thanks the subcommittee for its leadership in convening this important conversation."
+    },
+    {
+     "inicio_corpo": 3175,
+     "fim_corpo": 4247,
+     "trecho": "Yet the shot clock is now running dangerously low – with existing funds likely to be depleted early next year. Action is needed in this Congress to keep this program alive. Until a permanent solution to funding the ACP can be put in place by 3 expanding the USF contributions base to include Big Tech, Congress should appropriate stop- gap funding to allow the program to continue its important work uninterrupted. Congress should also move quickly to grant the FCC the authority it needs to expand the USF contributions base to include the dominant Big Tech companies that benefit financially from the connectivity that USF makes possible. This would lay the groundwork for the FCC to advance urgently needed reforms to stabilize the USF for its modern purpose – building and maintaining rural broadband networks in high-cost areas, connecting schools, libraries, and hospitals, as well as ensuring broadband access for low-income families – all at a more reasonable contributions factor spread more evenly and sustainably across the broadband ecosystem."
+    },
+    {
+     "inicio_corpo": 3596,
+     "fim_corpo": 4458,
+     "trecho": "Congress should also move quickly to grant the FCC the authority it needs to expand the USF contributions base to include the dominant Big Tech companies that benefit financially from the connectivity that USF makes possible. This would lay the groundwork for the FCC to advance urgently needed reforms to stabilize the USF for its modern purpose – building and maintaining rural broadband networks in high-cost areas, connecting schools, libraries, and hospitals, as well as ensuring broadband access for low-income families – all at a more reasonable contributions factor spread more evenly and sustainably across the broadband ecosystem. Preparing for the Future of Universal Service The future of rural broadband funding requires charting a sustainable future for universal service, and that begins with reforming the contributions system."
+    },
+    {
+     "inicio_corpo": 6405,
+     "fim_corpo": 7357,
+     "trecho": "If this trend continues, even with expansion of the USF contributions base to include broadband service revenues, the Fund could quickly begin to face, yet again, an ever-rising contributions factor. Some may also argue that contributions reform isn’t needed because there will be little or no need for the USF after recent broadband funding programs such as the BEAD are implemented. This is short-sighted. To be clear, funds disbursed via the BEAD program or other programs will result in additional broadband deployment across the country, but this funding is not designed to address the ongoing operational costs of maintaining, repairing and upgrading this physical 5 infrastructure over time. Particularly in the most rural, least dense, highest-cost portions of the United States, USF high-cost program support will be needed to ensure that rural broadband networks are not only built – but also sustained – for the long haul."
+    },
+    {
+     "inicio_corpo": 6405,
+     "fim_corpo": 7357,
+     "trecho": "If this trend continues, even with expansion of the USF contributions base to include broadband service revenues, the Fund could quickly begin to face, yet again, an ever-rising contributions factor. Some may also argue that contributions reform isn’t needed because there will be little or no need for the USF after recent broadband funding programs such as the BEAD are implemented. This is short-sighted. To be clear, funds disbursed via the BEAD program or other programs will result in additional broadband deployment across the country, but this funding is not designed to address the ongoing operational costs of maintaining, repairing and upgrading this physical 5 infrastructure over time. Particularly in the most rural, least dense, highest-cost portions of the United States, USF high-cost program support will be needed to ensure that rural broadband networks are not only built – but also sustained – for the long haul."
+    },
+    {
+     "inicio_corpo": 6797,
+     "fim_corpo": 7614,
+     "trecho": "This is short-sighted. To be clear, funds disbursed via the BEAD program or other programs will result in additional broadband deployment across the country, but this funding is not designed to address the ongoing operational costs of maintaining, repairing and upgrading this physical 5 infrastructure over time. Particularly in the most rural, least dense, highest-cost portions of the United States, USF high-cost program support will be needed to ensure that rural broadband networks are not only built – but also sustained – for the long haul. The reality is that USF programs have played, and will continue to play, a critical role in bringing affordable and high-quality broadband to homes, businesses, and community anchor institutions across the country, including throughout rural America."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0255::Administração pública",
+   "unit_id": "W0255",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Justin Forde",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 25467,
+     "fim_corpo": 26459,
+     "trecho": "Moreover, access fees should be limited to recovery of costs. Updating pole attachment regulations also would ensure that providers can meet the deadlines imposed under rural broadband funding programs. A provider’s entry, upgrades, and on-going service operations may be unreasonably delayed or affected if a government or cooperative entity demands excessive and unjustifiable attachment rates and terms, such as unreasonable access standards or treating overlashing as a new attachment subject to permitting 12 requirements. Congress has long recognized that attaching communications service facilities to poles is a necessary part of expansion, and so regulates the rates of such attachments. Yet, there is an exemption for state and local governments and other non-investor owned entities (i.e., municipal, and cooperative utilities) that has remained on the books, even as these entities have gotten into the provision of broadband service and are now competitors."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0255::Domicílio e arranjo familiar",
+   "unit_id": "W0255",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Justin Forde",
+   "n_ocorrencias_no_par": 10,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 4,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1109,
+     "fim_corpo": 2141,
+     "trecho": "This is a great success story. But the challenge of connecting those homes that do not have any internet service available persists. In the last few years, the federal government has devoted hundreds of billions of dollars and expended extraordinary levels of time, effort and energy, to create programs to get high speed broadband infrastructure to the communities that lack it. This is a once in a lifetime opportunity to solve this longstanding problem once and for all. We cannot waste this opportunity by allowing these programs to get off track or lose focus. There are seven thematic pillars that policymakers should rely on in closing deployment gaps and achieving our nation’s collective goal of getting broadband to all Americans. 1. Target scarce funds where people lack service, by limiting eligibility to areas where a high percentage of households are unserved, taking into account where funding or private investment exists, and setting speed thresholds that focus funding on the neediest areas."
+    },
+    {
+     "inicio_corpo": 5042,
+     "fim_corpo": 5942,
+     "trecho": "We have invested more than $765 million in private capital in the last six years to extend and upgrade our fiber network. Collectively, ISPs have invested more than $2 trillion in private capital since 1996 to get America connected, including $21.7 billion last year alone. Currently, over 94.5% of U.S. homes have access to terrestrial broadband service that offers speeds of at 2 least 25 Mbps download and 3 Mbps upload. 89% of all American homes and businesses have access to Gigabit-speed service – and of those served by cable, that figure rises to 99%. At Midco, we provide Gigabit service to 100% of the largely rural communities that we serve with our fiber network. And with even more scalable, technological innovation on the horizon, widescale diffusion of broadband networks across the country offering 10 Gigabit connections to U.S. households is well within view."
+    },
+    {
+     "inicio_corpo": 9560,
+     "fim_corpo": 10677,
+     "trecho": "I would now like to address each of these pillars. Target Scarce Funds to Unserved Areas Broadband programs addressing infrastructure gaps should target funding to truly unserved areas, where private investment is not going to occur without government assistance but consumers need to be connected. 4 One important means of keeping funding in unserved areas and not wasting scarce resources on subsidized competition is ensuring that a high percentage of homes in a proposed project area lack broadband service for the area to qualify for funding. Recently, some programs have been straying from that goal. For example, while the Rural eConnectivity program run by the Department of Agriculture’s Rural Utilities Service (“RUS”), better known as the “ReConnect” program, originally required that at least 90% of households in a project area qualify as unserved to be eligible for funding, the most recent round of funding significantly relaxed this requirement and considered areas to be eligible for funding even when as many as 50% of households already had access to broadband service."
+    },
+    {
+     "inicio_corpo": 9868,
+     "fim_corpo": 10677,
+     "trecho": "4 One important means of keeping funding in unserved areas and not wasting scarce resources on subsidized competition is ensuring that a high percentage of homes in a proposed project area lack broadband service for the area to qualify for funding. Recently, some programs have been straying from that goal. For example, while the Rural eConnectivity program run by the Department of Agriculture’s Rural Utilities Service (“RUS”), better known as the “ReConnect” program, originally required that at least 90% of households in a project area qualify as unserved to be eligible for funding, the most recent round of funding significantly relaxed this requirement and considered areas to be eligible for funding even when as many as 50% of households already had access to broadband service."
+    },
+    {
+     "inicio_corpo": 10128,
+     "fim_corpo": 10885,
+     "trecho": "Recently, some programs have been straying from that goal. For example, while the Rural eConnectivity program run by the Department of Agriculture’s Rural Utilities Service (“RUS”), better known as the “ReConnect” program, originally required that at least 90% of households in a project area qualify as unserved to be eligible for funding, the most recent round of funding significantly relaxed this requirement and considered areas to be eligible for funding even when as many as 50% of households already had access to broadband service. Only slightly better, NTIA’s Broadband Equity Access and Deployment program – better known as BEAD – only requires that 80% of households in a project area be unserved for the area to qualify for funding."
+    },
+    {
+     "inicio_corpo": 10677,
+     "fim_corpo": 11385,
+     "trecho": "Only slightly better, NTIA’s Broadband Equity Access and Deployment program – better known as BEAD – only requires that 80% of households in a project area be unserved for the area to qualify for funding. The most likely result of these relaxed standards is that monies will be diverted from the areas that are completely unserved, which are typically the hardest areas to serve, and those areas will remain unserved. In identifying “unserved” households, government policymakers also need to recognize that future subsidies are not appropriate in areas that are already being built out, whether due to awards from other government programs, other government commitments, or private investment."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,816 @@
+{
+ "caso": "BEAD",
+ "lote": 77,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0382::Posição no trabalho",
+   "unit_id": "W0382",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Michael Robbins",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "Workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3142,
+     "fim_corpo": 4005,
+     "trecho": "industrial robotics imports — roughly $30 million in 2024 — and one leading PRC maker of both covered form factors reported total global revenue of about $250 million, of which U.S. sales are a fraction. A broader-scope bill would reach more, yet even that impact would be small. And the bill restricts finished systems, not the components. American industry supports action, and because market disruption grows with the PRC’s installed base in the United States, the costs of inaction far exceeds the costs of acting now. • Completing the strategy — restrictions and investments. Risk-based restrictions must be paired with a national robotics commission, a national strategy, and investment in U.S. industry: secure supply chains for critical inputs like rare-earth magnets, domestic financing, procurement demand signals, and workforce development."
+    },
+    {
+     "inicio_corpo": 15615,
+     "fim_corpo": 16442,
+     "trecho": "Aggregated across deployments, this data reveals sensitive insight into American manufacturing operations, critical infrastructure, military and government facilities, supply chains, and — as these systems enter homes and care settings — the private lives of American families. Second, sensor access: onboard cameras, microphones, LiDAR, and other sensors can be remotely tasked, converting a commercial product into a surveillance instrument inside the perimeter of a factory, a hospital, a warehouse, or a living room. Third, remote disruption and manipulation: vulnerabilities in software, firmware, or vendor-managed cloud services translate directly into 9 physical consequences — halted production lines, safety hazards to workers, or the deliberate misuse of a machine that can move, grasp, and apply force."
+    },
+    {
+     "inicio_corpo": 60763,
+     "fim_corpo": 61755,
+     "trecho": "40 Agility Robotics, \"Opening RoboFab: World's First Factory for Humanoid Robots\" (Sept. 18, 2023 ), https://www.agilityrobotics.com/content/opening-robofab-worlds-first-factory-for-humanoid-robots (production capacity of more than 10,000 robots per year); Apptronik, \"Apptronik Closes Over $935 Million Series A\" (Feb. 11, 30 A national strategy. The United States lacks one. The CCP plans its robotics sector in five-year increments, with named targets and coordinated financing;41 American robotics policy remains fragmented across agencies, with no central assessment of our position, our gaps, or our plan. The National Commission on Robotics Act — introduced with bipartisan sponsorship in both chambers, with the House bill now pending before this very Committee — would establish an expert commission to evaluate workforce, supply chain, procurement, and regulatory gaps, among other areas, and deliver actionable recommendations to Congress and the Executive Branch."
+    },
+    {
+     "inicio_corpo": 65170,
+     "fim_corpo": 66087,
+     "trecho": "Department of Commerce, Bureau of Industry and Security, The Effect of Imports of Neodymium-Iron-Boron (NdFeB) Permanent Magnets on the National Security (June 2022), https://www.bis.gov/media/documents/section- 32 Humanoid ROBOT Act. These measures would protect government missions while directing federal demand toward trusted platforms. But procurement can also work primarily as an incentive. Congress can use procurement policy and spending affirmatively — through advance commitments, program funding, and domestic-content preferences — to reward trusted platforms and give American manufacturers the demand certainty that justifies capacity investment.43 Every trusted robot bought with federal dollars — by agencies or by grantees — helps pull the entire trusted ecosystem down the cost curve, which is, over time, the answer to the price premium we acknowledged earlier. Workforce and adoption."
+    },
+    {
+     "inicio_corpo": 66062,
+     "fim_corpo": 66560,
+     "trecho": "Workforce and adoption. Finally, the deployment gap is as much a human-capital challenge as a hardware challenge. Winning in robotics requires the engineers, technicians, and integrators to build and field these systems, and support for the small and mid-sized American manufacturers — the vast majority of whom have yet to deploy their first robot — to adopt trusted automation. A national robotics strategy should treat workforce development and adoption assistance as core infrastructure."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0382::Saúde",
+   "unit_id": "W0382",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Michael Robbins",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 15230,
+     "fim_corpo": 16142,
+     "trecho": "Robots extend the same adversary-access problem into new spaces, and add physical manipulation to it. Connected robots are networked, sensor-rich platforms with physical agency. The risk they present has three dimensions. First, data exposure: these systems continuously collect facility layouts, movement patterns, operational workflows, and records of human-machine interaction. Aggregated across deployments, this data reveals sensitive insight into American manufacturing operations, critical infrastructure, military and government facilities, supply chains, and — as these systems enter homes and care settings — the private lives of American families. Second, sensor access: onboard cameras, microphones, LiDAR, and other sensors can be remotely tasked, converting a commercial product into a surveillance instrument inside the perimeter of a factory, a hospital, a warehouse, or a living room."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0383::Cultura e informação",
+   "unit_id": "W0383",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Bryan Clark",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "Library",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 32819,
+     "fim_corpo": 33557,
+     "trecho": "However, as identified by the 2023 DoD Emerging Mid-Band Radar Spectrum Sharing (EMBRSS) study, the government will need to evolve the CBRS model to enable the industrial base to experiment with and test new electromagnetic systems, accommodate fast- moving airborne radars, and ensure coordination in more complex electromagnetic environments compared to the current applications of CBRS.\\27\\ --------------------------------------------------------------------------- \\27\\ DoD Chief Information Officer, ``Emerging Mid-Band Radar Spectrum Sharing (EMBRSS) Feasibility Assessment Report,'' (Washington, DC: U.S. DoD, 2023), https://dodcio.defense.gov/Portals/0/Documents/ Library/DoD-EMBRSS-FeasabilityAssessmentRedacted.pdf."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0383::Idade",
+   "unit_id": "W0383",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Bryan Clark",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "SENIOR",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 92,
+     "trecho": "STATEMENT OF BRYAN CLARK, SENIOR FELLOW, HUDSON INSTITUTE Mr."
+    },
+    {
+     "inicio_corpo": 4861,
+     "fim_corpo": 5658,
+     "trecho": "So we should not fall victim to getting into a symmetrical competition with China over who is giving more of a particular part of the spectrum to the commercial users, and we should not unilaterally disarm our military capabilities in the spectrum. We need to work out ways so that both military and commercial uses can be taking advantage of our spectrum resources, so we can compete on both battlefields. With that I will be looking forward to your questions. Thank you. [The prepared statement of Mr. Clark follows:] [...] Prepared Statement of Bryan Clark, Senior Fellow, Hudson Institute Chairman Cruz, Ranking Member Cantwell, and distinguished members of the committee, thank you for the opportunity to testify before the committee on the topic: America Offline?"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0383::Macrorregião",
+   "unit_id": "W0383",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Bryan Clark",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5349,
+     "fim_corpo": 6355,
+     "trecho": "[The prepared statement of Mr. Clark follows:] [...] Prepared Statement of Bryan Clark, Senior Fellow, Hudson Institute Chairman Cruz, Ranking Member Cantwell, and distinguished members of the committee, thank you for the opportunity to testify before the committee on the topic: America Offline? How Spectrum Auction Delays Give China the Edge and Cost Us Jobs. Summary The U.S. military will require more, not less, access to the electromagnetic spectrum in the coming decade. Facing numerical and geographic disadvantages against an opponent like China, U.S. forces will need electronic warfare systems that can jam, decoy, and deceive enemy sensors by operating outside traditional U.S. frequencies and inside those used by adversaries. At home, the U.S. military will need to continuously operate high-power sensors and defenses from S through K band to defend U.S. territory from air and missile attack as part of the Trump Administration's Iron Dome for America initiative."
+    },
+    {
+     "inicio_corpo": 9507,
+     "fim_corpo": 10430,
+     "trecho": "\\3\\ Thomas Withington, ``Jamming JDAM: The Threat to U.S. Munitions from Russian Electronic Warfare,'' RUSI, June 6, 2023, https:// www.rusi.org/explore-our-research/publications/commentary/jamming-jdam- threat-us-munitions-russian-electronic-warfare --------------------------------------------------------------------------- China is a much more challenging electromagnetic adversary for the United States than Russia. The PLA fields a growing array of electronic warfare aircraft, drones, and satellites that can listen and jam across relevant areas of the spectrum at long range.\\4\\ China's navy, coast guard, and maritime militia ships are equipped with electronic sensors to surveil U.S. and allied communications and radar transmissions.\\5\\ And the Chinese government's space-based electronic surveillance architecture over U.S. territory and the Indo-Pacific region is growing faster than its U.S."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0384::Educação",
+   "unit_id": "W0384",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Charles P. Baylis",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4118,
+     "fim_corpo": 5278,
+     "trecho": "In less congested environments, device-to- device interaction can be used to coexist, just as cars can pass each other autonomously in uncrowded highways. In more congested environments, like a traffic light, a Dynamic Spectrum Management System will be useful for coordinating. So how do we grow into this paradigm from where we are today? You cannot expect a kindergartener to drive a car, and we cannot expect rigid wireless technologies to coexist adaptively. In both cases, maturation and development is needed. We are mapping a technology development trajectory using Bloom's Taxonomy. Widely used by educators in cognitive development, Bloom's Taxonomy shows the progression from knowledge, which is the simple memorization of facts, to evaluation, the mature cognitive and adaptive approach to life. In elementary, middle, and high school, educators carefully plot the course of these students in subjects such as reading, writing, mathematics, science, and physical education to develop the cognitive and physical skills the children will need to eventually get behind the wheel of a car and drive the car down a road adaptively."
+    },
+    {
+     "inicio_corpo": 9966,
+     "fim_corpo": 11068,
+     "trecho": "In less congested environments, device- to-device interaction can be used to coexist, just as cars can pass each other autonomously in uncrowded highways. In more congested environments, like a traffic light, a DSMS will be useful for coordinating. How do we grow into this paradigm? You cannot expect a kindergartener to drive a car, and you cannot expect rigid wireless technologies to coexist adaptively. In both cases, maturation and development is needed. We are mapping a technology development trajectory using Bloom's Taxonomy. Widely used by educators in cognitive development, Bloom's Taxonomy shows the progression from ``knowledge,'' which is the simple memorization of facts, to ``evaluation,'' the mature cognitive and adaptive approach to life. In elementary, middle, and high-school, educators carefully plot the course of these students in subjects such as reading, writing, mathematics, science, and physical education to develop the cognitive and physical skills the children will need to eventually get behind the wheel of a car and adaptively drive down a road."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0384::Escolaridade e letramento",
+   "unit_id": "W0384",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Charles P. Baylis",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4274,
+     "fim_corpo": 5278,
+     "trecho": "In more congested environments, like a traffic light, a Dynamic Spectrum Management System will be useful for coordinating. So how do we grow into this paradigm from where we are today? You cannot expect a kindergartener to drive a car, and we cannot expect rigid wireless technologies to coexist adaptively. In both cases, maturation and development is needed. We are mapping a technology development trajectory using Bloom's Taxonomy. Widely used by educators in cognitive development, Bloom's Taxonomy shows the progression from knowledge, which is the simple memorization of facts, to evaluation, the mature cognitive and adaptive approach to life. In elementary, middle, and high school, educators carefully plot the course of these students in subjects such as reading, writing, mathematics, science, and physical education to develop the cognitive and physical skills the children will need to eventually get behind the wheel of a car and drive the car down a road adaptively."
+    },
+    {
+     "inicio_corpo": 4719,
+     "fim_corpo": 5669,
+     "trecho": "Widely used by educators in cognitive development, Bloom's Taxonomy shows the progression from knowledge, which is the simple memorization of facts, to evaluation, the mature cognitive and adaptive approach to life. In elementary, middle, and high school, educators carefully plot the course of these students in subjects such as reading, writing, mathematics, science, and physical education to develop the cognitive and physical skills the children will need to eventually get behind the wheel of a car and drive the car down a road adaptively. In a similar manner, we are moving quickly toward evaluation ?-cognitive and adaptive use of the spectrum. In conclusion, in the race for spectrum superiority, America needs to win. The opportunity is now, and we must seize it or be left behind. There are 25 patriot scholars in SMART Hub, with their U.S. citizen students, that are determined and working hard to see this happen."
+    },
+    {
+     "inicio_corpo": 9966,
+     "fim_corpo": 11068,
+     "trecho": "In less congested environments, device- to-device interaction can be used to coexist, just as cars can pass each other autonomously in uncrowded highways. In more congested environments, like a traffic light, a DSMS will be useful for coordinating. How do we grow into this paradigm? You cannot expect a kindergartener to drive a car, and you cannot expect rigid wireless technologies to coexist adaptively. In both cases, maturation and development is needed. We are mapping a technology development trajectory using Bloom's Taxonomy. Widely used by educators in cognitive development, Bloom's Taxonomy shows the progression from ``knowledge,'' which is the simple memorization of facts, to ``evaluation,'' the mature cognitive and adaptive approach to life. In elementary, middle, and high-school, educators carefully plot the course of these students in subjects such as reading, writing, mathematics, science, and physical education to develop the cognitive and physical skills the children will need to eventually get behind the wheel of a car and adaptively drive down a road."
+    },
+    {
+     "inicio_corpo": 10513,
+     "fim_corpo": 11747,
+     "trecho": "Widely used by educators in cognitive development, Bloom's Taxonomy shows the progression from ``knowledge,'' which is the simple memorization of facts, to ``evaluation,'' the mature cognitive and adaptive approach to life. In elementary, middle, and high-school, educators carefully plot the course of these students in subjects such as reading, writing, mathematics, science, and physical education to develop the cognitive and physical skills the children will need to eventually get behind the wheel of a car and adaptively drive down a road. In a similar manner, we are moving quickly toward ``evaluation''--cognitive and adaptive use of the spectrum. In the race for spectrum superiority, America needs to win. The opportunity is now, and we must seize it or be left behind. There are 25 patriot scholars in SMART Hub, with their U.S. citizen students, that are determined and working hard to see this happen. With God's enablement and provision, we look forward to continuing to partner with Congress, our President, and our Nation to ensure American superiority. Thank you for the opportunity to testify, and I look forward to answering questions that you have. Chairman Cruz. Thank you. Mr. Pearl."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0384::Posição no trabalho",
+   "unit_id": "W0384",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Charles P. Baylis",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3047,
+     "fim_corpo": 3933,
+     "trecho": "It will allow us to both provide for the common defense and promote the general welfare. As the developer of adaptive and reconfigurable technology, the United States will gain an enormous international advantage both economically and tactically. U.S. industries will develop these systems and sell their technology worldwide. China will have to buy the technology from us. Commercial wireless systems will realize heretofore uncomprehensible bandwidths. And our military systems will be the strongest, most agile in the world, dominating in the most important dimension of battle, the spectrum. How do we get to this situation from where we are today? This is a question that I, as the Director of a congressionally funded Spectrum Innovation Center, have spent a lot of time considering and mapping to direct our research, innovation, and workforce development."
+    },
+    {
+     "inicio_corpo": 8871,
+     "fim_corpo": 9781,
+     "trecho": "Adaptive and reconfigurable technology provides a better alternative. It will allow us to both ``provide for the common defense'' and ``promote the general welfare.'' As the developer of adaptive and reconfigurable technology, the United States will gain an enormous international advantage both economically and tactically. U.S. industries will develop these systems and sell their technology worldwide. Commercial wireless systems will realize heretofore uncomprehensible bandwidths. And our military systems will be the strongest, most agile in the world, dominating in the most important dimension of battle: the spectrum. How do we get to this situation from where we are today? This is a question that I, as Director of a Congressionally funded Spectrum Innovation Center, have spent a lot of time considering and mapping to direct our research, innovation, and workforce development."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0385::Domicílio e arranjo familiar",
+   "unit_id": "W0385",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Matthew Pearl",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10765,
+     "fim_corpo": 11673,
+     "trecho": "These actions were all critical to ensuring that the United States adopted a forward-leading, innovative approach to spectrum policy. I have focused thus far on licensed terrestrial spectrum, but I would also like to recognize the key role of low-power, unlicensed spectrum, as well as spectrum for satellite use. First, the U.S. was the first country to adopt rules for low-power unlicensed spectrum, which has powered innovation and our economy. The FCC first adopted rules for ``junk'' bands that were undesirable and unused in the 1930s--the concept was that anyone would be allowed to use the spectrum without obtaining permission from the government, provided that the equipment they used could not cause harmful interference to licensed users. During the 1980s, we began to see use of these frequencies for common household applications such as garage door openers and baby monitors."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0385::Urbano e rural",
+   "unit_id": "W0385",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Matthew Pearl",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11993,
+     "fim_corpo": 12736,
+     "trecho": "economy.\\4\\ --------------------------------------------------------------------------- \\4\\ https://www.cta.tech/Resources/Newsroom/Media-Releases/2022/ January/Unlicensed-Spectrum-Generates-95-Billion-Per-Year --------------------------------------------------------------------------- Second, the U.S. has also been a leader in licensing spectrum for satellite technology. As a result, U.S. companies built and launched many of the pioneering communications satellites in the 1960s. Now, U.S. companies have launched, or are in the process of launching, massive low earth orbit (LEO) constellations that can provide broadband Internet on a global basis. These constellations are particularly useful in rural and remote areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0387::Idade",
+   "unit_id": "W0387",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Brian Berry",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 261,
+     "fim_corpo": 1294,
+     "trecho": "Thank you for inviting me. First and foremost, we appreciate the Committee's work on the TICKET Act and the MAIN Event Act. The Ticket Policy Forum represents America's leading online ticket marketplaces-- StubHub, SeatGeek, Vivid Seats, Gametime, TickPick, and Events Ticket Center. Importantly, these companies are not just resale marketplaces. The world has evolved. They each have unique business models, but several of them seek to challenge the status quo in so-called primary ticketing and are directly working with teams, venues, and promoters to give fans better access to tickets and much better access to technology, and to give these partners in the industry enhanced options when it comes to the distribution of tickets. To be candid, real progress in breaking through and getting into the primary ticket has been tough--I do not need to tell you that--mostly because the monopoly makes it that way, as the Justice Department has detailed in its complaint against Live Nation and Ticketmaster."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0387::Posição no trabalho",
+   "unit_id": "W0387",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Brian Berry",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "worker",
+     "forma_encontrada": "worker",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9879,
+     "fim_corpo": 10715,
+     "trecho": "What we do not support are policies that restrict legitimate resale, eliminate consumer choice, or further entrench monopolistic control under the false banner of reform. Policymakers should resist framing ticketing reform as a zero-sum fight between ``good'' and ``bad'' players. The real divide in ticketing reform is not between primary and secondary markets. It's between systems that empower fans and systems that lock them into a single platform with no alternatives. SECONDARY MARKETS CLEANED UP RESALE AND COUNTERFEITS Twenty-five years ago, buying or selling resale tickets could be a gamble. If you couldn't make an event, you were often stuck with the ticket and there was no simple way to resell it. Ticketholders would scramble at the last minute to find a friend, coworker, or neighbor to take the seat."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0388::Idade",
+   "unit_id": "W0388",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Dan Wall",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4225,
+     "fim_corpo": 5022,
+     "trecho": "You pointedly asked us why Ticketmaster allows brokers to maintain multiple accounts and use them to join on sales to buy tickets. That prompted us to take a harder look at our own policies and implement changes that we hope creates a better experience for fans. We have made big changes. Ticketmaster policy is now to limit everyone and every entity, ticket brokers included, to only one Ticketmaster account. We will no longer let any broker maintain, buy concert tickets with, or post resale tickets for concerts using more than one account, and we will not allow any broker to post more tickets on our resale marketplace than the posted ticket limit for the show. In closing, I submit to you the real question is how we are going to get others to do the same thing."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0389::Idade",
+   "unit_id": "W0389",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "David Weingarden",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 34058,
+     "fim_corpo": 35259,
+     "trecho": "That is why independent promoters and venues experience these tactics as a package: pressure on tours, pressure on rooms, pressure on ticketing, and limited recourse. The competitive harms are not only theoretical. They translate directly into the ticketing outcomes that fans experience, including diminished access to face value inventory and an ecosystem that is more vulnerable to manipulation by professional resellers. In its lawsuit, the FTC alleges that Ticketmaster and Live Nation knowingly allowed, and even encouraged, brokers to use multiple Ticketmaster accounts to circumvent Ticketmaster's own security measures and access control systems, and that those resellers then listed tickets directly on Live Nation's resale marketplace. The FTC also alleges that a senior Ticketmaster executive admitted in an internal e-mail, copied to Live Nation leadership, that the companies ``turn a blind eye as a matter of policy'' to brokers' violations of posted ticket limits, including an internal review finding that five brokers controlled 6,345 Ticketmaster accounts and possessed 246,407 concert tickets to 2,594 events.\\14\\ This is all why Live Nation must be broken up."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0389::Posição no trabalho",
+   "unit_id": "W0389",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "David Weingarden",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 884,
+     "trecho": "STATEMENT OF DAVID WEINGARDEN, CHAIR AND CO-FOUNDER, COLORADO INDEPENDENT VENUE ASSOCIATION (CIVA) AND VICE PRESIDENT FOR CONCERTS AND EVENTS, Z2 ENTERTAINMENT Mr. Weingarden. Thank you, Chairman Blackburn, Ranking Member Hickenlooper, Ranking Member Cantwell, and the members of the Subcommittee. My name is David Weingarden, and I am grateful to be here to discuss all of this. I am Vice President of Concerts for Z2 Entertainment. We operate three independently owned venues across Colorado: the Boulder Theater and Fox Theaters in Boulder, Aggie Theater in Fort Collins, and exclusively book several more across the state, producing approximately 700 live shows annually. We did not choose to become policy advocates. We chose to run small businesses, employ local workers, and bring live music to our communities."
+    },
+    {
+     "inicio_corpo": 22226,
+     "fim_corpo": 23109,
+     "trecho": "And there's no way to make that money back. This amounts to stealing, but we have no recourse. Z2 produces around 700 shows a year. That adds up to a massive amount of lost revenue, but more importantly, it represents hundreds if not thousands of fans who were deceived and left with a worse experience. Fewer fans come back. Bar sales drop. Merchandise sales drop. Money that should stay with the artist and local businesses leaves the community and the state. And increasingly, fans give up entirely or look elsewhere, even traveling out of the country for shows because 1) it's cheaper and 2) they no longer trust the system here. The fans, the venues, the artists, and local economies all lose. Independent venue owners did not choose to become policy advocates. We chose to run small businesses, employ local workers, and bring live music to our communities."
+    },
+    {
+     "inicio_corpo": 29833,
+     "fim_corpo": 31119,
+     "trecho": "Companies like StubHub have publicly disclosed that they have no show costs at all, yet they collect significant fees on every resale transaction.\\13\\ --------------------------------------------------------------------------- \\13\\ StubHub Holdings, Inc., Form S-1/A (SEC), describing a business model that does not assume ticket inventory risk, https:// www.sec.gov/Archives/edgar/data/1337634/0001193125 25197614/d225849ds1a.htm. --------------------------------------------------------------------------- By contrast, the fees charged by independent venues exist to cover the real and unavoidable costs of producing live events: paying artists through guarantees or box office splits; employing production crews, sound and lighting engineers, and front-of-house staff; staffing security, box office, bar, and cleaning teams; covering payroll taxes and workers' compensation; maintaining and insuring the building; paying utilities and basic operating expenses; running ticketing systems and payment processing; meeting safety, accessibility, and compliance requirements; promoting shows so fans know they exist; and paying mandatory performing rights organization fees to ASCAP, BMI, and SESAC so songwriters are compensated when their music is performed live."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0389::Saúde e deficiência",
+   "unit_id": "W0389",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "David Weingarden",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "blind",
+     "forma_encontrada": "blind",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 34227,
+     "fim_corpo": 35259,
+     "trecho": "The competitive harms are not only theoretical. They translate directly into the ticketing outcomes that fans experience, including diminished access to face value inventory and an ecosystem that is more vulnerable to manipulation by professional resellers. In its lawsuit, the FTC alleges that Ticketmaster and Live Nation knowingly allowed, and even encouraged, brokers to use multiple Ticketmaster accounts to circumvent Ticketmaster's own security measures and access control systems, and that those resellers then listed tickets directly on Live Nation's resale marketplace. The FTC also alleges that a senior Ticketmaster executive admitted in an internal e-mail, copied to Live Nation leadership, that the companies ``turn a blind eye as a matter of policy'' to brokers' violations of posted ticket limits, including an internal review finding that five brokers controlled 6,345 Ticketmaster accounts and possessed 246,407 concert tickets to 2,594 events.\\14\\ This is all why Live Nation must be broken up."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0391::Domicílio e arranjo familiar",
+   "unit_id": "W0391",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Hon. Jennifer Homendy",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 719,
+     "trecho": "STATEMENT OF HON. JENNIFER HOMENDY, CHAIRWOMAN, NATIONAL TRANSPORTATION SAFETY BOARD Ms. Homendy. Chairman Cruz, Ranking Member Cantwell, Chairman Moran, Ranking Member Duckworth, and members of the Committee, thank you for the opportunity to be here today to discuss our investigation of the mid-air collision that occurred just over a year ago near Ronald Reagan Washington National Airport. As we discuss NTSB's thorough fact-finding, extensive analysis, and comprehensive safety recommendations, I want to make one thing abundantly clear. We should not be here today. In this room, sitting with us or watching online, are family members of the 67 people who died on January 29."
+    },
+    {
+     "inicio_corpo": 8041,
+     "fim_corpo": 8918,
+     "trecho": "In the letters they told us don't ask anymore. One is open, unacceptable. We cannot allow this to happen again. Every single one of the 50 safety recommendations we issued in response to the DCA catastrophe must be acted on immediately. The FAA has had multiple, multiple opportunities to implement NTSB recommendations. Time after time, they've declined. Now, we need action. Whether that's through the FAA--and they can implement a lot of the recommendations we just issued, some of them are simple, and we can talk about that--Army, Department of War, or an Act of Congress. We cannot accept having to be here years from now lamenting yet more inaction. Not only must we do this for the 67 people who died on January 29, we must do this for all those who lost their lives in accidents that the NTSB has investigated. We must do this for their families."
+    },
+    {
+     "inicio_corpo": 8632,
+     "fim_corpo": 9496,
+     "trecho": "We cannot accept having to be here years from now lamenting yet more inaction. Not only must we do this for the 67 people who died on January 29, we must do this for all those who lost their lives in accidents that the NTSB has investigated. We must do this for their families. We must do this for future generations, lives we can still save. Chairman Cruz, Ranking Member Cantwell, Chairman Moran, Ranking Member Duckworth, I am immensely grateful to you and the members of this committee for your robust advocacy via the bipartisan ROTOR Act. Not only do I want to thank you for your incredible leadership, but I mean this from the bottom of my heart: thank you for your willingness to stand up and do what's right for safety. I look forward to working with you to create a future where no family ever has to endure such tremendous loss."
+    },
+    {
+     "inicio_corpo": 10623,
+     "fim_corpo": 10874,
+     "trecho": "In addition, the NTSB carries out special studies concerning transportation safety and coordinates the resources of the Federal government and other organizations to aid victims and their family members impacted by major transportation disasters."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0391::Educação",
+   "unit_id": "W0391",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Hon. Jennifer Homendy",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 70962,
+     "fim_corpo": 71652,
+     "trecho": "His instruction to the pilot to ``kinda come left'' following his final interaction with the controller just before the collision occurred reinforces the idea that he believed the ``CRJ'' referenced by the controller was among the airplanes approaching runway 1; however, he was likely unsure which of those airplanes was the airplane in question. Thus, the IP did not positively identify the location of the airplane and he did not communicate his uncertainty about its location to the pilot. Information provided by the Army indicated that the accident IP and pilot received aircrew coordination training during Army Helicopter Flight School in 2019 and 2021, respectively."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0391::Posição no trabalho",
+   "unit_id": "W0391",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Hon. Jennifer Homendy",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "job training",
+     "forma_encontrada": "job training",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 54900,
+     "fim_corpo": 55850,
+     "trecho": "TEM would have likely improved the situation awareness of all controllers in this event, which may have allowed for earlier conflict recognition or encouraged the OS to conduct a risk assessment of the steady helicopter traffic and its resulting workload on the LC and ALC controllers. The NTSB continues to believe that including case studies in initial and annual air traffic controller training and highlighting situations in which controller judgment, vigilance, and safety awareness could be improved would enhance controllers' ability to identify and manage threats and errors. FAA guidance on the use of good judgment is vague, and case studies provide the opportunity to examine a real chain of events that had resulted in an accident, imparting valuable lessons without exposing participants to the potential risk of adverse outcomes inherent to on-the-job training, which the FAA often relies upon for controller training."
+    },
+    {
+     "inicio_corpo": 112171,
+     "fim_corpo": 113315,
+     "trecho": "Because DCA was a high volume, complex airport with ``not a lot of real estate,'' controllers had to ``keep things moving'' in order to provide safe and efficient service. He stated that this ``make it work'' mentality had become normalized at DCA ATCT before the accident and that, ``it can be taxing on a person. . .constantly having to give, give, or push, push, push in order to efficiently move traffic.'' He further stated that, ``Whenever the controllers at DCA just make it work, they are going above and beyond to approach the limit of the rules and regulations. They're pushing the limits of what can be done to safely and efficiently move the aircraft and/or helicopters at DCA. . .you're pushing the line.'' The issues identified by previous ECVs at DCA should have served as symptoms of a controller workforce under constant pressure to ``make it work.'' Controllers relied on the use of pilot-applied visual separation in order to accommodate helicopters operating on the routes and zones while moving a high volume of aircraft through complex airspace into and out of an airport with limited surface area."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0391::Saúde e deficiência",
+   "unit_id": "W0391",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Hon. Jennifer Homendy",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "disability",
+     "forma_encontrada": "disability",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 71316,
+     "fim_corpo": 72039,
+     "trecho": "Thus, the IP did not positively identify the location of the airplane and he did not communicate his uncertainty about its location to the pilot. Information provided by the Army indicated that the accident IP and pilot received aircrew coordination training during Army Helicopter Flight School in 2019 and 2021, respectively. The crew also received annual aircrew coordination training. A TAAB standardization pilot stated that the 2024 aircrew coordination training involved the discussion of several class A mishaps (as defined by the Army, occurrences that are fatal or cause permanent disability or more than $2.5 million in damage) and what each accident crew could have done to improve the situation."
+    }
+   ]
+  }
+ ]
+}

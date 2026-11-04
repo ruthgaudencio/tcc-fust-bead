@@ -1,0 +1,897 @@
+{
+ "caso": "FUST",
+ "lote": 23,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0139::Renda e classe",
+   "unit_id": "S0139",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-10",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobre",
+     "forma_encontrada": "pobre",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3644,
+     "fim_corpo": 4427,
+     "trecho": "Eu mesmo, como Deputado Federal, apresentei, em 1963, projeto idêntico que, aprovado pela Câmara dos Deputados e pelo Senado Federal, foi vetado pelo então Presidente Costa e Silva. Depois, na Câmara e nesta Casa, lutei, lado a lado, com a então Senadora mineira Júnia Marise para transformar em realidade o projeto de sua autoria, afinal sancionado pelo Presidente Fernando Henrique Cardoso em 1998. Meus senhores, coube a um mineiro do Jequitinhonha, filho querido da dileta Diamantina, o Presidente Juscelino Kubitschek, a criação da Sudene. Não seria justo que os filhos do Vale, os filhos do sonho de Juscelino, meninos pobres como ele, de pé no chão, a percorrerem as penhas do Jequitinhonha, fossem alijados da possibilidade de se levantarem para um mundo melhor."
+    },
+    {
+     "inicio_corpo": 7738,
+     "fim_corpo": 8620,
+     "trecho": "O Presidente Fernando Henrique Cardoso reafirmou, a propósito: \"É preciso voltar a ousar\", advertindo, contudo, que o modelo de desenvolvimento em curso na região já apresenta sinais de esgotamento e que, \"com as mudanças\", faz-se necessária a adoção de novos paradigmas e de novas estratégias. Sr. Presidente, Srªs e Srs. Senadores, Sr. Ministro, sabemos que há vários nordestes num só Nordeste. Destaco o Nordeste urbano, representado pelas grandes concentrações populacionais, e o Nordeste rural, onde o progresso vem chegando vagarosamente, a passos de tartaruga, não obstante o vigoroso esforço da direção da Sudene e dos Governadores da Região. Principalmente a Bahia, Pernambuco e Ceará constituem o Nordeste industrialmente desenvolvido, com forte presença exportadora, que se contrapõe ao outro Nordeste, mais pobre, cuja economia é basicamente primária."
+    },
+    {
+     "inicio_corpo": 9237,
+     "fim_corpo": 9693,
+     "trecho": "São exemplos que se somam ao longo elenco das mazelas sociais. Sr. Presidente, os nordestinos convivem com as agruras climáticas. Na região do semi-árido, em 858 mil quilômetros quadrados, alcançando praticamente todos os Estados da região – inclusive os 55 mil quilômetros quadrados que separam a minha terra de Minas Gerais –, são precárias as condições de vida para seus 20 milhões de habitantes. São solos pobres e rasos, onde pouco chove."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0139::Urbano e rural",
+   "unit_id": "S0139",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-10",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7394,
+     "fim_corpo": 8401,
+     "trecho": "Disse Fernando Bezerra: \"Não vim para destruir, para fechar. Vim para mudar, para fortalecer a Sudene. Essa é a nossa missão, Dr. Formiga\". Nesse mesmo pronunciamento, o Ministro assegurou existir, da parte do Presidente Fernando Henrique Cardoso, a decisão de resgatar \"o ideário dos jovens economistas dos anos 50, que souberam ousar\". O Presidente Fernando Henrique Cardoso reafirmou, a propósito: \"É preciso voltar a ousar\", advertindo, contudo, que o modelo de desenvolvimento em curso na região já apresenta sinais de esgotamento e que, \"com as mudanças\", faz-se necessária a adoção de novos paradigmas e de novas estratégias. Sr. Presidente, Srªs e Srs. Senadores, Sr. Ministro, sabemos que há vários nordestes num só Nordeste. Destaco o Nordeste urbano, representado pelas grandes concentrações populacionais, e o Nordeste rural, onde o progresso vem chegando vagarosamente, a passos de tartaruga, não obstante o vigoroso esforço da direção da Sudene e dos Governadores da Região."
+    },
+    {
+     "inicio_corpo": 8039,
+     "fim_corpo": 9237,
+     "trecho": "Sr. Presidente, Srªs e Srs. Senadores, Sr. Ministro, sabemos que há vários nordestes num só Nordeste. Destaco o Nordeste urbano, representado pelas grandes concentrações populacionais, e o Nordeste rural, onde o progresso vem chegando vagarosamente, a passos de tartaruga, não obstante o vigoroso esforço da direção da Sudene e dos Governadores da Região. Principalmente a Bahia, Pernambuco e Ceará constituem o Nordeste industrialmente desenvolvido, com forte presença exportadora, que se contrapõe ao outro Nordeste, mais pobre, cuja economia é basicamente primária. Esse Nordeste menos desenvolvido retrata-se nos deprimentes indicadores sociais: as elevadas taxas de analfabetismo, que, em Alagoas, chegam a 40%; os precários serviços de saúde e de saneamento, que mantêm altas as taxas de mortalidade infantil e que fazem com que menos de 20% da população rural consuma água potável; a deficiência do ensino público, que estimula a evasão escolar; a violência, que em Pernambuco eleva a taxa de mortalidade por homicídios para 72,1 por 100 mil habitantes entre 15 e 29 anos; a prostituição infantil e o trabalho em regime de semi-escravidão a que são submetidas as crianças."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0140::Domicílio e arranjo familiar",
+   "unit_id": "S0140",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-11",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "família",
+     "forma_encontrada": "família",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 19680,
+     "fim_corpo": 20540,
+     "trecho": "Então, já está previsto na lei, caso a Câmara queira aprová-la. O SR. FRANCELINO PEREIRA (PFL - MG) - Sr. Presidente, para encerrar, esta proposição de uma renda suficiente, não para viver dignamente, mas para viver com o mínimo de um salário, não é proposta de partido nenhum, é proposta da Nação brasileira como um todo. Nenhum partido nesta Casa é conservador. Todos nós somos da liderança de uma política social que contempla a sociedade brasileira, no sentido de transformá-la num povo só. Evidentemente essa bandeira é do povo, é do Brasil, é uma bandeira da minha família de origem - pai lavrador, trabalhador na enxada, e aqui está hoje, sempre representando o povo, sem nenhum origem patriarcal, mas filho do povo, para viver com o povo e sempre eleito pelo povo brasileiro e pelo povo mineiro, 18 milhões de mineiros, com dedicação e com apreço."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0140::Posição no trabalho",
+   "unit_id": "S0140",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-11",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "autônomo",
+     "forma_encontrada": "autônomo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3358,
+     "fim_corpo": 4242,
+     "trecho": "A proposição que está sendo discutida nesta Casa reflete, além da iniciativa do nosso Presidente Antonio Carlos Magalhães, a necessidade de o Brasil efetivamente construir uma sociedade justa, livrando-se dessa distribuição de renda perversa e que perturba até os sentidos da sociedade brasileira. Fica, portanto, o nosso repúdio. O Sr. Sérgio Machado (PSDB - CE) - Permite-me V. Exª um aparte? O SR. FRANCELINO PEREIRA (PFL - MG) - Concedo o aparte ao ilustre Líder do PSDB, Senador Sérgio Machado. O Sr. Sérgio Machado (PSDB - CE) - Senador Francelino Pereira, V. Exª aborda de forma correta um assunto extremamente importante. O Governo brasileiro, o Ministro Malan, mais uma vez, toma a posição correta, ao repudiar de forma veemente uma intromissão indevida de um funcionário do FMI. O Brasil é um país autônomo, que está tratando seus problemas com altivez."
+    },
+    {
+     "inicio_corpo": 11142,
+     "fim_corpo": 11947,
+     "trecho": "Cumprimento V. Exª por essa explicação, que torna claro para a sociedade que essa proposta apresentada pelo PFL não fixa o salário mínimo em dólar e, sim, usa essa moeda como base de cálculo. O SR. FRANCELINO PEREIRA (PFL - MG) - Agradeço a V. Exª a explicação, mas entendo desnecessária a observação de que essa proposição do Partido não significa uma sinalização de apoio à dolarização. O que está ocorrendo é que as outras forças políticas foram surpreendidas por um estudo que o Partido, por intermédio do Deputado Medeiros, vem realizando há mais tempo. S. Exª conversou previamente com as Lideranças do Partido, com Senadores e Deputados, e levou, democraticamente, à Comissão Executiva do Partido uma proposta para ser debatida pelo povo brasileiro, sobretudo, os trabalhadores deste País."
+    },
+    {
+     "inicio_corpo": 11334,
+     "fim_corpo": 12194,
+     "trecho": "O SR. FRANCELINO PEREIRA (PFL - MG) - Agradeço a V. Exª a explicação, mas entendo desnecessária a observação de que essa proposição do Partido não significa uma sinalização de apoio à dolarização. O que está ocorrendo é que as outras forças políticas foram surpreendidas por um estudo que o Partido, por intermédio do Deputado Medeiros, vem realizando há mais tempo. S. Exª conversou previamente com as Lideranças do Partido, com Senadores e Deputados, e levou, democraticamente, à Comissão Executiva do Partido uma proposta para ser debatida pelo povo brasileiro, sobretudo, os trabalhadores deste País. Medeiros não está cumprindo apenas sua missão sindicalista, de homem de sindicato, de homem público da maior expressão em São Paulo; S. Exª representa, no meu Partido, o PFL trabalhador, e, conseqüentemente, assumiu uma posição com o nosso apoio."
+    },
+    {
+     "inicio_corpo": 11535,
+     "fim_corpo": 12369,
+     "trecho": "O que está ocorrendo é que as outras forças políticas foram surpreendidas por um estudo que o Partido, por intermédio do Deputado Medeiros, vem realizando há mais tempo. S. Exª conversou previamente com as Lideranças do Partido, com Senadores e Deputados, e levou, democraticamente, à Comissão Executiva do Partido uma proposta para ser debatida pelo povo brasileiro, sobretudo, os trabalhadores deste País. Medeiros não está cumprindo apenas sua missão sindicalista, de homem de sindicato, de homem público da maior expressão em São Paulo; S. Exª representa, no meu Partido, o PFL trabalhador, e, conseqüentemente, assumiu uma posição com o nosso apoio. Vamos lutar, dentro dessa proposta, para encontrarmos uma salário mínimo que responda às angústias e à situação de miserabilidade em que vivem os trabalhadores do Brasil."
+    },
+    {
+     "inicio_corpo": 15934,
+     "fim_corpo": 16772,
+     "trecho": "Em que pese o próprio PFL, no seu livro publicado no ano passado sobre as propostas sociais, afirmar que passa a defender um programa nacional que seja exemplo para que todos os Municípios no Brasil instituam programas de garantia de renda mínima, até agora, o que o Governo Fernando Henrique fez foi uma fórmula chinfrim, que está muito distante daquilo que contribuiria para erradicar a pobreza. O que queremos discutir nos próximos dias, Senador Francelino Pereira, se quisermos efetivamente combater a pobreza, elevar o nível de emprego, dar aos trabalhadores brasileiros uma condição efetivamente melhor, é um aumento significativo, razoável, de bom senso, do salário mínimo, combinado com o outro instrumento que o complementa, o Programa de Garantia de Renda Mínima, que pode ser realizado através de um imposto de renda negativo."
+    },
+    {
+     "inicio_corpo": 19680,
+     "fim_corpo": 20540,
+     "trecho": "Então, já está previsto na lei, caso a Câmara queira aprová-la. O SR. FRANCELINO PEREIRA (PFL - MG) - Sr. Presidente, para encerrar, esta proposição de uma renda suficiente, não para viver dignamente, mas para viver com o mínimo de um salário, não é proposta de partido nenhum, é proposta da Nação brasileira como um todo. Nenhum partido nesta Casa é conservador. Todos nós somos da liderança de uma política social que contempla a sociedade brasileira, no sentido de transformá-la num povo só. Evidentemente essa bandeira é do povo, é do Brasil, é uma bandeira da minha família de origem - pai lavrador, trabalhador na enxada, e aqui está hoje, sempre representando o povo, sem nenhum origem patriarcal, mas filho do povo, para viver com o povo e sempre eleito pelo povo brasileiro e pelo povo mineiro, 18 milhões de mineiros, com dedicação e com apreço."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0140::Renda e classe",
+   "unit_id": "S0140",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-11",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 17,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 11,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobre",
+     "forma_encontrada": "pobre",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobre",
+     "forma_encontrada": "pobre",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobre",
+     "forma_encontrada": "pobre",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1205,
+     "fim_corpo": 2290,
+     "trecho": "Claro que o Brasil integra o Fundo Monetário Internacional. Mas, em verdade, a sua maior força, a sua maior determinação resulta de ligar-se, de forma nítida e inequívoca, com a nação norte-americana. Evidentemente, não poderíamos ficar indiferentes diante das declarações do representante do Fundo Monetário Internacional no Brasil. Sr. Presidente, eu, que não tenho nenhum amor para ler ou transmitir deste Plenário nota de Governo, quero ler uma nota assinada pelo Ministro da Fazenda, Pedro Malan, em quem nunca ninguém votou, mas que se pronunciou em nome de 160 milhões de brasileiros e também em nome da Instituição Parlamentar deste País. Diz a nota do Ministro da Fazenda: Diante das declarações do representante do FMI no Brasil, fazendo ressalvas ao modelo do Fundo de Combate e Erradicação da Pobreza, o Ministro da Fazenda tem a informar: 1º) Essas declarações refletiriam \"um desconhecimento em relação à natureza da proposta, a sua importância e alcance para enfrentar os importantes desafios sociais brasileiros, bem como os seus reflexos orçamentários\"."
+    },
+    {
+     "inicio_corpo": 1856,
+     "fim_corpo": 2788,
+     "trecho": "Diz a nota do Ministro da Fazenda: Diante das declarações do representante do FMI no Brasil, fazendo ressalvas ao modelo do Fundo de Combate e Erradicação da Pobreza, o Ministro da Fazenda tem a informar: 1º) Essas declarações refletiriam \"um desconhecimento em relação à natureza da proposta, a sua importância e alcance para enfrentar os importantes desafios sociais brasileiros, bem como os seus reflexos orçamentários\". 2º) \"A alocação de recursos orçamentários não é e nem nunca foi tema de discussão com o FMI. Sequer está no âmbito da competência da instituição opinar a esse respeito\". Essa é uma \"prerrogativa exclusiva\" dos Poderes Executivo e Legislativo brasileiro. Vale dizer: de 160 milhões de brasileiros. 3º) O Ministério da Fazenda está seguro de que a proposta do Fundo de Combate e Erradicação da Pobreza, em exame no Congresso Nacional, \"em nada conflita com os objetivos macroeconômicos do País\"."
+    },
+    {
+     "inicio_corpo": 3660,
+     "fim_corpo": 4378,
+     "trecho": "Fica, portanto, o nosso repúdio. O Sr. Sérgio Machado (PSDB - CE) - Permite-me V. Exª um aparte? O SR. FRANCELINO PEREIRA (PFL - MG) - Concedo o aparte ao ilustre Líder do PSDB, Senador Sérgio Machado. O Sr. Sérgio Machado (PSDB - CE) - Senador Francelino Pereira, V. Exª aborda de forma correta um assunto extremamente importante. O Governo brasileiro, o Ministro Malan, mais uma vez, toma a posição correta, ao repudiar de forma veemente uma intromissão indevida de um funcionário do FMI. O Brasil é um país autônomo, que está tratando seus problemas com altivez. É importante a discussão sobre a criação do fundo da pobreza, proposta aprovada ontem na Comissão de Constituição, Justiça e Cidadania."
+    },
+    {
+     "inicio_corpo": 4499,
+     "fim_corpo": 5439,
+     "trecho": "O SR. FRANCELINO PEREIRA (PFL - MG) - Agradeço a V. Exª, Senador Sérgio Machado pela sua manifestação. Sr. Presidente, lamento, embora tardiamente, que o Governo brasileiro não se tenha manifestado diante de declarações do Embaixador norte-americano no Brasil, feitas há pouco mais de dois meses, a respeito de assunto interno do Brasil, embora relacionado com empresa norte-americana. A nota foi desairosa e ofende o brio do Brasil. Cabia ao Presidente da República ou aos seus representantes uma manifestação de repulsa à intromissão do Embaixador norte-americano em assuntos internos do Brasil. Não aceitamos que o Fundo Monetário Internacional ou que o Embaixador norte-americano se manifestem sobre assunto de interesse de uma Nação que está merecendo atenção do mundo inteiro, pela sua dimensão, pelas suas riquezas naturais, pela sua pobreza, pelos seus esforços para se transformar em um dos maiores países deste mundo."
+    },
+    {
+     "inicio_corpo": 4893,
+     "fim_corpo": 5742,
+     "trecho": "A nota foi desairosa e ofende o brio do Brasil. Cabia ao Presidente da República ou aos seus representantes uma manifestação de repulsa à intromissão do Embaixador norte-americano em assuntos internos do Brasil. Não aceitamos que o Fundo Monetário Internacional ou que o Embaixador norte-americano se manifestem sobre assunto de interesse de uma Nação que está merecendo atenção do mundo inteiro, pela sua dimensão, pelas suas riquezas naturais, pela sua pobreza, pelos seus esforços para se transformar em um dos maiores países deste mundo. Sr. Presidente, ontem à noite, fui surpreendido. Não sei se é inveja, despeito, tática política ou esse jogo político que a sociedade brasileira não aceita, sobretudo a população pobre, que olha para esta Casa esperando que ela possa se redimir, todos os dias, dos erros e das omissões que pratica."
+    },
+    {
+     "inicio_corpo": 6851,
+     "fim_corpo": 7847,
+     "trecho": "A proposta do Partido não representa uma decisão até porque o assunto passará por esta Casa e pelo Governo, mas representa uma iniciativa que outros não tomaram. Propusemos que o salário mínimo correspondesse em real ao valor do dólar de hoje. Não se trata de dolarização, que é outro tema que nos preocupa e que estamos examinando e debatendo. Essa posição do Partido, amplamente esclarecida pelos seus Líderes e pelo nosso Presidente, Senador Jorge Bornhausen, resultou em uma proposta que apresentamos à Nação. Nem mesmo o Ministro da Previdência Social, meu amigo de coração e vizinho de apartamento, podia ter manifestado o seu repúdio, porque se trata de uma proposição de interesse do povo brasileiro. Este Congresso não pode ficar indiferente à pobreza decorrente de uma distribuição de renda sinistra, e ninguém do Governo e muito menos do Partido da Frente Liberal pode manifestar-se de forma diferente diante da proposição que oferecemos ao debate da sociedade brasileira."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0140::Território intraurbano",
+   "unit_id": "S0140",
+   "subcategoria": "Território intraurbano",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-11",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "favelas",
+     "forma_encontrada": "favelas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7373,
+     "fim_corpo": 8315,
+     "trecho": "Nem mesmo o Ministro da Previdência Social, meu amigo de coração e vizinho de apartamento, podia ter manifestado o seu repúdio, porque se trata de uma proposição de interesse do povo brasileiro. Este Congresso não pode ficar indiferente à pobreza decorrente de uma distribuição de renda sinistra, e ninguém do Governo e muito menos do Partido da Frente Liberal pode manifestar-se de forma diferente diante da proposição que oferecemos ao debate da sociedade brasileira. O PT deve aplaudir e não discordar. O PT não deve intrigar, mas deve aliar-se ao PFL nessa luta para que possamos conseguir, pela decisão do Governo e pelo voto do Congresso brasileiro, um salário mínimo um pouco mais digno, porque o atual é injusto, quase indigno. Gostaria que os parlamentares deixassem esta Casa brilhante, percorressem as favelas e subúrbios da Capital do meu Estado, Belo Horizonte, e abraçassem o povo pobre daquelas regiões deprimidas."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0140::Urbano e rural",
+   "unit_id": "S0140",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-11",
+   "orador": "Francelino Pereira",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "Campos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 20540,
+     "fim_corpo": 21485,
+     "trecho": "Sr. Presidente, encaminho à Mesa, até para um momento de paz e de tranqüilidade, dois requerimentos, assinados pelos Senadores mineiros Francelino Pereira, José de Alencar e Arlindo Porto, para que a Mesa possa fixar dia e hora para comemorarmos ou assinalarmos os cem anos de nascimento de duas grandes figuras brasileiras... O SR. PRESIDENTE (Geraldo Melo) - Senador Francelino Pereira, peço a V. Exª que encaminhe os seus requerimentos à Mesa, que providenciará a sua leitura, para conhecimento do Plenário, porque já são 13 minutos além do tempo. O SR. FRANCELINO PEREIRA (PFL - MG) - É o que estou fazendo. São dois requerimentos, um de homenagem ao Senador Gustavo Capanema e outro de homenagem ao Senador Milton Campos, duas figuras exponenciais desta República e que devem ser homenageados exatamente por esta Casa. O SR. PRESIDENTE (Geraldo Melo) - A Mesa aguarda o encaminhamento dos requerimentos por parte de V. Exª."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0141::Domicílio e arranjo familiar",
+   "unit_id": "S0141",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-11",
+   "orador": "Geraldo Melo",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1047,
+     "trecho": "O SR. PRESIDENTE (Geraldo Melo) - Tem a palavra o Senador Eduardo Suplicy. S. Exª dispõe de 20 minutos. Antes de V. Exª iniciar, Senador Suplicy, a Presidência, fazendo algo parecido com o que V. Exª já fez na presente sessão, deseja tomar-lhe um minuto apenas, para expressar, em relação a um tema tratado pelo Senador Francelino Pereira, a mesma posição de indignação com a intervenção indébita de funcionários do FMI em assuntos internos do Brasil. Faço questão de deixar registrada essa posição, por considerar intolerável e inadmissível esse tipo de postura, e indispensável uma reação enérgica e firme, sobretudo das duas Casas do Parlamento brasileiro, para que a tolerância com a primeira posição não signifique a criação do hábito futuro de estarmos consultando o FMI, ou qualquer outra instituição internacional, a respeito de decisões que devem ser tomadas soberanamente pelas instituições que a democracia brasileira, com o apoio da sociedade, criou e mantém. Desculpe-me V. Exª. Inicio somente agora o registro do seu tempo."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0142::Domicílio e arranjo familiar",
+   "unit_id": "S0142",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-14",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9290,
+     "fim_corpo": 10222,
+     "trecho": "Pode-se aplicar, então, nessa melhoria, nessa ajuda, para prevenir. O Brasil é um País imprevidente, e precisamos ser mais previdentes com relação a isso. É por isso que venho à tribuna para discutir essa questão. Hoje, nesta Casa, será promulgada – como já mencionou o Senador Romeu Tuma – a proposta de emenda Constitucional que inclui a moradia como direito do cidadão brasileiro. O cidadão pode usar o Fundo de Garantia do Tempo de Serviço para a construção da casa própria. Mas se uma catástrofe destelha-lhe a casa, ele não pode usar o Fundo de Garantia para recuperar o bem que conseguiu com recursos desse mesmo Fundo. Essa é outra questão que precisamos analisar. Sr. Presidente e nobres Colegas, é por esse motivo que apresento uma proposta para que o trabalhador brasileiro possa utilizar-se dos recursos do Fundo para deixar sua residência em condições de moradia, se for afetada por um vendaval ou uma enxurrada."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0142::Educação",
+   "unit_id": "S0142",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-14",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escola",
+     "forma_encontrada": "escola",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6292,
+     "fim_corpo": 7199,
+     "trecho": "Somos, portanto, imprevidentes. O que faz um município quando é atingido? A Defesa Civil e a Municipal fazem um levantamento, uma vez que não há recursos previstos, encaminham à Defesa Civil do respectivo Estado, que também não tem previsão em seu orçamento do que fazer, que encaminha ao Governo Federal. Chegando em Brasília também não há previsão nenhuma, não há fundos para isso. Encaminha-se o levantamento todo à Casa Civil, ao Governo da República que, por sua vez, depois de visitar a região e verificar em quanto é que vai ajudar, tem que baixar uma medida provisória, que tem que vir ao Congresso Nacional, e, até que volte à origem, passam-se geralmente quatro, cinco ou seis meses, enquanto que os prejuízos causados não poderiam aguardar – ou é a queda de uma ponte, ou o entupimento de um bueiro, ou a destruição de um posto de saúde ou de uma escola, que necessitam de reforma urgente."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0142::Posição no trabalho",
+   "unit_id": "S0142",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-14",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9199,
+     "fim_corpo": 10222,
+     "trecho": "No meu Estado, Santa Catarina, temos uma quantidade muito grande de bombeiros voluntários. Pode-se aplicar, então, nessa melhoria, nessa ajuda, para prevenir. O Brasil é um País imprevidente, e precisamos ser mais previdentes com relação a isso. É por isso que venho à tribuna para discutir essa questão. Hoje, nesta Casa, será promulgada – como já mencionou o Senador Romeu Tuma – a proposta de emenda Constitucional que inclui a moradia como direito do cidadão brasileiro. O cidadão pode usar o Fundo de Garantia do Tempo de Serviço para a construção da casa própria. Mas se uma catástrofe destelha-lhe a casa, ele não pode usar o Fundo de Garantia para recuperar o bem que conseguiu com recursos desse mesmo Fundo. Essa é outra questão que precisamos analisar. Sr. Presidente e nobres Colegas, é por esse motivo que apresento uma proposta para que o trabalhador brasileiro possa utilizar-se dos recursos do Fundo para deixar sua residência em condições de moradia, se for afetada por um vendaval ou uma enxurrada."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0142::Saúde",
+   "unit_id": "S0142",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-14",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "posto de saúde",
+     "forma_encontrada": "posto de saúde",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6292,
+     "fim_corpo": 7199,
+     "trecho": "Somos, portanto, imprevidentes. O que faz um município quando é atingido? A Defesa Civil e a Municipal fazem um levantamento, uma vez que não há recursos previstos, encaminham à Defesa Civil do respectivo Estado, que também não tem previsão em seu orçamento do que fazer, que encaminha ao Governo Federal. Chegando em Brasília também não há previsão nenhuma, não há fundos para isso. Encaminha-se o levantamento todo à Casa Civil, ao Governo da República que, por sua vez, depois de visitar a região e verificar em quanto é que vai ajudar, tem que baixar uma medida provisória, que tem que vir ao Congresso Nacional, e, até que volte à origem, passam-se geralmente quatro, cinco ou seis meses, enquanto que os prejuízos causados não poderiam aguardar – ou é a queda de uma ponte, ou o entupimento de um bueiro, ou a destruição de um posto de saúde ou de uma escola, que necessitam de reforma urgente."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0142::Urbano e rural",
+   "unit_id": "S0142",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-14",
+   "orador": "Casildo Maldaner",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11161,
+     "fim_corpo": 12056,
+     "trecho": "O ex-Ministro da Marinha, Mário César Flores, escreveu recentemente artigo no Jornal da Tarde , de São Paulo, onde lista uma série de \"responsáveis\" pelas calamidades que ocorrem no Brasil com tanta freqüência: a não-adoção de projetos urbanos adequados à preservação de áreas de absorção da precipitação pluviométrica que, quando não absorvida, alaga rapidamente, e o pouco empenho na criação e condução de políticas redutoras da pressão demográfica em geral e da migração desordenada para as grandes cidades são algumas das razões apontadas pelo Almirante Mário Flores. A essas razões, acrescentamos o fato de o Brasil ter crescido o equivalente a quatro Argentinas, transformando-se de país majoritariamente rural para radicalmente urbano, em 70 anos, não sendo possível prover respostas para a carga social dessa mudança, principalmente no tocante às calamidades meteorológicas."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0143::Domicílio e arranjo familiar",
+   "unit_id": "S0143",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-14",
+   "orador": "Jorge Bornhausen",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1976,
+     "fim_corpo": 3027,
+     "trecho": "Avançando sem nunca recuar , o PFL veio transformar-se no segundo maior eleitor do Colégio Eleitoral que elegeu a chapa Tancredo Neves/José Sarney. Atingida a Pátria pela trágica morte do Presidente Tancredo Neves, o PFL, avançando sem recuar , cumpriu seu histórico papel de ajudar o Presidente José Sarney a concluir uma das mais belas páginas da democracia brasileira, que se consolidou definitivamente, sem seqüelas, em nome da paz entre seus filhos e de um melhor futuro para a Nação. Na seqüência da recente história política brasileira, coube ao PFL, avançando sem nunca recuar , em 1994, por intermédio de seus Líderes de então, o inesquecível Deputado Luís Eduardo Magalhães e o Senador Marco Maciel, acompanhados do Presidente que vos fala, procurar o Ministro da Fazenda, Senador Fernando Henrique Cardoso, para oferecer-lhe o apoio da nossa legenda para sua candidatura à Presidência da República, antes que seu Partido viesse a fazer-lhe semelhante oferta e quando as pesquisas apontavam-lhe poucas probabilidades de vitória."
+    },
+    {
+     "inicio_corpo": 4040,
+     "fim_corpo": 4885,
+     "trecho": "O Congresso Partidário, realizado no ano passado, começou com um debate profundo sobre a situação econômica do País e concluiu como seu ponto importante a modificação no atual modelo de privatizações, apontando como solução a \"pulverização democrática das ações\". Por outro lado, a mesma convenção aprovou uma mudança estatutária que prestigiou os movimentos PFL-Trabalhista, PFL-Mulher, PFL-Jovem e o Instituto Tancredo Neves, determinando a presença nas Comissões Executivas Municipais, Estaduais e Nacional de seus presidentes, como membros natos com direito a voz e voto. Ainda em momento mais relevante daquele evento, o plenário da convenção, por unanimidade, aprovou moção dos Presidentes Estaduais, lida pelo Senador José Agripino, determinando que o partido venha a ter candidato próprio à Presidência da República em 2002."
+    },
+    {
+     "inicio_corpo": 6884,
+     "fim_corpo": 7529,
+     "trecho": "Avançando sem nunca recuar , o PFL dará posse, no próximo dia 17 de fevereiro, quinta-feira, à sua nova Comissão PFL 2000, presidida na parte executiva pelo companheiro Mauro Salles e que terá seu conselho consultivo formado pelos Governadores e Prefeitos de capitais do Partido, e presidido por Roseana Sarney, a Governadora de maior índice de aprovação no País. A ação da Comissão será de fundamental importância para os bons resultados que esperamos conseguir nas eleições municipais, de modo a cumprir, como cumpriremos, avançando sem nunca recuar , a decisão de termos candidato ou candidata própria à Presidência da República."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0143::Gênero",
+   "unit_id": "S0143",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-14",
+   "orador": "Jorge Bornhausen",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "mulher",
+     "forma_encontrada": "Mulher",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "mulher",
+     "forma_encontrada": "Mulher",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3545,
+     "fim_corpo": 4628,
+     "trecho": "Cabe aqui relembrar o extraordinário papel desempenhado pelo Deputado Luís Eduardo Magalhães, primeiro como Presidente da Câmara e depois como Líder do PFL e do Governo, que o imortalizou como o grande condutor das reformas e mostrou novamente que o PFL veio para avançar e nunca recuar . Cabe-me, agora, relembrar as posições mais recentes do nosso Partido decorrentes da convenção, realizada em maio de 1999, e outra advinda do talento político do Senador Antonio Carlos Magalhães. O Congresso Partidário, realizado no ano passado, começou com um debate profundo sobre a situação econômica do País e concluiu como seu ponto importante a modificação no atual modelo de privatizações, apontando como solução a \"pulverização democrática das ações\". Por outro lado, a mesma convenção aprovou uma mudança estatutária que prestigiou os movimentos PFL-Trabalhista, PFL-Mulher, PFL-Jovem e o Instituto Tancredo Neves, determinando a presença nas Comissões Executivas Municipais, Estaduais e Nacional de seus presidentes, como membros natos com direito a voz e voto."
+    },
+    {
+     "inicio_corpo": 7254,
+     "fim_corpo": 7952,
+     "trecho": "A ação da Comissão será de fundamental importância para os bons resultados que esperamos conseguir nas eleições municipais, de modo a cumprir, como cumpriremos, avançando sem nunca recuar , a decisão de termos candidato ou candidata própria à Presidência da República. Nomes não nos faltam, e a nossa organização será o sustentáculo para o atingimento da nossa meta, da qual, como Presidente do Partido, não me afastarei de modo algum. Avançando sem nunca recuar , o PFL deu destaque devido aos seus movimentos, hoje dirigidos nacionalmente, o PFL Mulher, pela eminente Senadora Maria do Carmo; o PFL Trabalhista, pelo Deputado Luiz Antônio Medeiros e o PFL Jovem por Luiz Ferla."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0143::Idade",
+   "unit_id": "S0143",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-14",
+   "orador": "Jorge Bornhausen",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovem",
+     "forma_encontrada": "Jovem",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovem",
+     "forma_encontrada": "Jovem",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3545,
+     "fim_corpo": 4628,
+     "trecho": "Cabe aqui relembrar o extraordinário papel desempenhado pelo Deputado Luís Eduardo Magalhães, primeiro como Presidente da Câmara e depois como Líder do PFL e do Governo, que o imortalizou como o grande condutor das reformas e mostrou novamente que o PFL veio para avançar e nunca recuar . Cabe-me, agora, relembrar as posições mais recentes do nosso Partido decorrentes da convenção, realizada em maio de 1999, e outra advinda do talento político do Senador Antonio Carlos Magalhães. O Congresso Partidário, realizado no ano passado, começou com um debate profundo sobre a situação econômica do País e concluiu como seu ponto importante a modificação no atual modelo de privatizações, apontando como solução a \"pulverização democrática das ações\". Por outro lado, a mesma convenção aprovou uma mudança estatutária que prestigiou os movimentos PFL-Trabalhista, PFL-Mulher, PFL-Jovem e o Instituto Tancredo Neves, determinando a presença nas Comissões Executivas Municipais, Estaduais e Nacional de seus presidentes, como membros natos com direito a voz e voto."
+    },
+    {
+     "inicio_corpo": 7254,
+     "fim_corpo": 7952,
+     "trecho": "A ação da Comissão será de fundamental importância para os bons resultados que esperamos conseguir nas eleições municipais, de modo a cumprir, como cumpriremos, avançando sem nunca recuar , a decisão de termos candidato ou candidata própria à Presidência da República. Nomes não nos faltam, e a nossa organização será o sustentáculo para o atingimento da nossa meta, da qual, como Presidente do Partido, não me afastarei de modo algum. Avançando sem nunca recuar , o PFL deu destaque devido aos seus movimentos, hoje dirigidos nacionalmente, o PFL Mulher, pela eminente Senadora Maria do Carmo; o PFL Trabalhista, pelo Deputado Luiz Antônio Medeiros e o PFL Jovem por Luiz Ferla."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0143::Posição no trabalho",
+   "unit_id": "S0143",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-14",
+   "orador": "Jorge Bornhausen",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7529,
+     "fim_corpo": 8251,
+     "trecho": "Nomes não nos faltam, e a nossa organização será o sustentáculo para o atingimento da nossa meta, da qual, como Presidente do Partido, não me afastarei de modo algum. Avançando sem nunca recuar , o PFL deu destaque devido aos seus movimentos, hoje dirigidos nacionalmente, o PFL Mulher, pela eminente Senadora Maria do Carmo; o PFL Trabalhista, pelo Deputado Luiz Antônio Medeiros e o PFL Jovem por Luiz Ferla. Com voto e voz na Executiva Nacional, face ao novo modelo implantado, o Deputado Luiz Antônio Medeiros apresentou proposta de um salário mínimo que tivesse como meta alcançar um nível em reais equivalente a U$100 e mais um abono que pudesse atender às classes trabalhadoras menos favorecidas."
+    },
+    {
+     "inicio_corpo": 10353,
+     "fim_corpo": 11189,
+     "trecho": "Dessa maneira, o Partido recebeu no dia 11 de fevereiro, sexta-feira passada, estudo do renomado economista Paulo Rabello de Castro, trazendo sugestões oportunas para que possamos atingir a meta proposta, avançando em uma tabela cuja faixa prevista incide apenas sobre o primeiro degrau da escala salarial, minimizando o impacto inflacionário e ainda propondo o exame da criação do \"salário de referência previdenciário\". Avançando sem nunca recuar , a Comissão presidida pelo Senador José Jorge já possui dois projetos e uma proposta governamental de diálogo, em que se inclui também a participação voluntária do Ministro da Previdência, Waldeck Ornelas. Estamos dando ao assunto \"reajuste do salário mínimo\" a relevância que o trabalhador brasileiro merece, tirando-o do cadeado onde, pela crise, encontra-se preso."
+    },
+    {
+     "inicio_corpo": 11021,
+     "fim_corpo": 12226,
+     "trecho": "Estamos dando ao assunto \"reajuste do salário mínimo\" a relevância que o trabalhador brasileiro merece, tirando-o do cadeado onde, pela crise, encontra-se preso. Repito o que disse em minha entrevista: \"quando cada um explicita sua proposta, fica mais fácil ver onde termina a consciência social e onde começa a demagogia.\" Avançando sem nunca recuar , o PFL, integrante da base do Governo, como o maior Partido numericamente no Congresso Nacional, abriu o debate, espera sugestões e está aberto ao diálogo com os demais Partidos e a sociedade organizada. O PFL quer o debate para que, com responsabilidade, possamos conseguir o melhor e o possível, evitando um veto do Executivo e a frustração dos anseios legítimos do trabalhador brasileiro, externados em oportuna hora pelo Presidente do PFL Trabalhista, Deputado Luiz Antonio Medeiros. O PFL prega o liberalismo social, que em seu programa tem como prioridade o binômio Educação e Emprego, orgulha-se de não conjugar o verbo recuar e de, como Partido de centro, defensor da cidadania, estar sempre procurando o bem comum e avançando no sentido de uma melhor justiça social. Muito obrigado. (Palmas.) ´ `"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0143::Renda e classe",
+   "unit_id": "S0143",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-14",
+   "orador": "Jorge Bornhausen",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4310,
+     "fim_corpo": 5101,
+     "trecho": "Por outro lado, a mesma convenção aprovou uma mudança estatutária que prestigiou os movimentos PFL-Trabalhista, PFL-Mulher, PFL-Jovem e o Instituto Tancredo Neves, determinando a presença nas Comissões Executivas Municipais, Estaduais e Nacional de seus presidentes, como membros natos com direito a voz e voto. Ainda em momento mais relevante daquele evento, o plenário da convenção, por unanimidade, aprovou moção dos Presidentes Estaduais, lida pelo Senador José Agripino, determinando que o partido venha a ter candidato próprio à Presidência da República em 2002. Em 1999, o Senador Antonio Carlos Magalhães, com total apoio de seu partido, apresentou de forma concreta proposta de criação e um \"Fundo de Apoio ao Combate à Pobreza\", sacudindo a consciência social do País."
+    },
+    {
+     "inicio_corpo": 5945,
+     "fim_corpo": 6884,
+     "trecho": "Avançando sem nunca recuar , o PFL repudiou e repudia a intromissão indevida do Secretário do Comércio Americano, Sr. Willian Daley, que considerou não recomendável a privatização pulverizada e mais, já marcou um importante seminário sobre o assunto para o mês de março, envolvendo nossos economistas e integrantes dos principais escalões de Governo responsáveis pela matéria. Avançando sem nunca recuar , o PFL vê com satisfação a aprovação, na Comissão de Constituição, Justiça e Cidadania do Senado Federal, do projeto do \"Fundo de Combate e Erradicação à Pobreza\", fruto da iniciativa sábia do Senador Antonio Carlos Magalhães, que contou com o apoio de Senadores e Deputados de vários Partidos e que obteve uma solução final inteligente, sem o aumento da carga tributária, graças à valiosa colaboração e contribuição da equipe econômica do Governo, muito bem intermediada pelo Relator da matéria, Senador Lúcio Alcântara."
+    },
+    {
+     "inicio_corpo": 9287,
+     "fim_corpo": 10102,
+     "trecho": "No dia seguinte ao comunicado oficial, na imprensa, surgiram erroneamente alguns comentários de que o PFL havia recuado, o que ocorreu também neste plenário, tendo o amigo, eminente Líder e Presidente do PMDB, Senador Jader Barbalho, se equivocado duplamente ao dizer que o PFL havia recuado e que o recuo se dava em virtude da ação do Senador e Ministro da Previdência Waldeck Ornelas, que, ao contrário, está sempre pronto para estudar novas propostas. Avançando sem nunca recuar , o PFL, por intermédio de entrevista do Presidente Antonio Carlos Magalhães e de outra que concedi ao jornalista Elio Gaspari, demonstrou a firme disposição de debater a matéria e lutar para conseguir avanços significativos junto ao Governo, tal como conquistou na criação do \"Fundo de Combate e Erradicação à Pobreza\"."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0145::Posição no trabalho",
+   "unit_id": "S0145",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-14",
+   "orador": "Roberto Saturnino",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desempregados",
+     "forma_encontrada": "desempregados",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 836,
+     "trecho": "O SR. ROBERTO SATURNINO (Bloco/PSB – RJ. Para uma comunicação inadiável. Sem revisão do orador.) – Sr. Presidente, Sr.ªs e Srs. Senadores, neste pronunciamento, quero chamar a atenção da direção da Anatel, do Ministério das Comunicações e do próprio Cade para essa transformação que está ocorrendo no acesso à Internet. Os grandes bancos e empresas estão oferecendo acesso gratuito à Internet e tomando clientes dos provedores tradicionais. Milhares de brasileiros dedicaram-se ao trabalho de organizar provimento de acesso à Internet para seus clientes e hoje estão, literalmente, perdendo o emprego. O desemprego que já assumiu dimensões de calamidade no Brasil está atingindo milhares de provedores brasileiros que vão perder seus clientes porque os bancos, em parceria com as telefônicas, oferecem acesso gratuito à Internet."
+    },
+    {
+     "inicio_corpo": 1301,
+     "fim_corpo": 2235,
+     "trecho": "Esse é o interesse das empresas telefônicas que vão faturar mais. Privatizadas, elas estão em busca de mais faturamento e, por isso, associam-se aos grandes bancos, os quais propiciarão acesso gratuito à Internet. Esse é um assunto que deve merecer consideração. Trata-se de uma operação que pode ser classificada como dumping e que vai liquidar toda uma classe de milhares de brasileiros preparados, que se dedicaram a essa tarefa na esperança de, enfim, obter para suas microempresas uma condição razoável de vida e perderão o emprego. Por conseguinte, penso que a Anatel, o Ministério das Comunicações e o Cade deveriam examinar esse assunto e buscar providências no sentido de impedir que esse grande acerto ponha à margem do mercado de trabalho mais algumas dezenas de milhares de brasileiros, os quais ficarão desempregados. Era para isso que eu queria chamar a atenção da Casa, Sr. Presidente. µi"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0146::Administração pública",
+   "unit_id": "S0146",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-02-14",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "órgãos públicos",
+     "forma_encontrada": "órgãos públicos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5479,
+     "fim_corpo": 6397,
+     "trecho": "Fui informado de que o Ministério do Desenvolvimento Econômico já enviou o texto para a Casa Civil, a fim de que ali se analisasse o teor dessa regulamentação. Resultado da Lei aprovada pelo Congresso Nacional, articulada pela Frente Parlamentar da Pequena e Média Empresa, o Estatuto abriu perspectivas muito promissoras, especialmente as relacionadas ao apoio creditício, às maiores facilidades para a exportação, ao desenvolvimento empresarial e à sociedade de garantia solidária, que é uma inovação. Também são dignos de nota o regime de prioridade nas compras governamentais e o Fórum Permanente das Microempresas e Empresas de Pequeno Porte. O que se pretende na regulamentação do Estatuto é que, a partir de agora, os órgãos públicos que forem realizar compras sob a modalidade de \"convite\" estejam obrigados a convidar 50% das concorrentes no universo de microempresas e empresas de pequeno porte."
+    }
+   ]
+  }
+ ]
+}

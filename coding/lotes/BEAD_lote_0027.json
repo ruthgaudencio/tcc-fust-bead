@@ -1,0 +1,1022 @@
+{
+ "caso": "BEAD",
+ "lote": 27,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0109::Domicílio e arranjo familiar",
+   "unit_id": "W0109",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 369,
+     "fim_corpo": 1167,
+     "trecho": "It is a privilege to appear before you again. Since my colleagues and I last testified before you, the country has been seized by a pandemic that has seriously altered Americans’ lives. In an instant, everyday tasks that used to be carried out in person moved online—f rom school, to work, catching up with friends, and accessing health care. The FCC recognized the sudden shifts that the pandemic caused and immediately went to work to ensure that Americans stayed connected. First, we joined with the private sector to make sure that pandemic-related financial stress and our own support rules did not cut off service when Americans needed it most. Chairman Pai’s Keep Americans Connected pledge opened up free Wi-Fi hotspots and kept families online through job disruptions."
+    },
+    {
+     "inicio_corpo": 560,
+     "fim_corpo": 1431,
+     "trecho": "In an instant, everyday tasks that used to be carried out in person moved online—f rom school, to work, catching up with friends, and accessing health care. The FCC recognized the sudden shifts that the pandemic caused and immediately went to work to ensure that Americans stayed connected. First, we joined with the private sector to make sure that pandemic-related financial stress and our own support rules did not cut off service when Americans needed it most. Chairman Pai’s Keep Americans Connected pledge opened up free Wi-Fi hotspots and kept families online through job disruptions. The Commission cleared the way for providers to donate computers and tablets so kids can learn from home, waived Lifeline rules so that under-resourced families wouldn’t lose service, and provided flexibility for services vital to the deaf and hard of hearing."
+    },
+    {
+     "inicio_corpo": 719,
+     "fim_corpo": 1555,
+     "trecho": "The FCC recognized the sudden shifts that the pandemic caused and immediately went to work to ensure that Americans stayed connected. First, we joined with the private sector to make sure that pandemic-related financial stress and our own support rules did not cut off service when Americans needed it most. Chairman Pai’s Keep Americans Connected pledge opened up free Wi-Fi hotspots and kept families online through job disruptions. The Commission cleared the way for providers to donate computers and tablets so kids can learn from home, waived Lifeline rules so that under-resourced families wouldn’t lose service, and provided flexibility for services vital to the deaf and hard of hearing. We also worked closely with providers that launched new programs to connect low-income families with high-speed services."
+    },
+    {
+     "inicio_corpo": 7093,
+     "fim_corpo": 7871,
+     "trecho": "In 2019, telecom crews built out more miles of high-speed fiber than ever before—over 450,000 route miles, which is enough to wrap around the Earth over 18 times. On top of that, the U.S. wireless industry invested $29.1 billion last year—that’s a four-year high, number one in the world, and four times the per capita investment that China’s seeing. And we won’t stop there. According to our staff’s review of our infrastructure approval system, in the first half of this year alone, the pace of wireless builds and upgrades doubled. And the number of communities benefiting from small cell builds recently increased from three- to four-fold depending on the provider. All of these new builds and investments have increased speeds and connected more families."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0109::Educação",
+   "unit_id": "W0109",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 719,
+     "trecho": "TESTIMONY OF BRENDAN CARR COMMISSIONER, FEDERAL COMMUNICATIONS COMMISSION BEFORE THE SUBCOMMITTEE ON COMMUNICATIONS AND TECHNOLOGY OF THE UNITED STATES HOUSE OF REPRESENTATIVES COMMITTEE ON ENERGY AND COMMERCE SEPTEMBER 17, 2020 Chairman Doyle, Ranking Member Latta, and distinguished Members of the Subcommittee, thank you for the invitation to testify. It is a privilege to appear before you again. Since my colleagues and I last testified before you, the country has been seized by a pandemic that has seriously altered Americans’ lives. In an instant, everyday tasks that used to be carried out in person moved online—f rom school, to work, catching up with friends, and accessing health care."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0109::Renda e classe",
+   "unit_id": "W0109",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 719,
+     "fim_corpo": 1555,
+     "trecho": "The FCC recognized the sudden shifts that the pandemic caused and immediately went to work to ensure that Americans stayed connected. First, we joined with the private sector to make sure that pandemic-related financial stress and our own support rules did not cut off service when Americans needed it most. Chairman Pai’s Keep Americans Connected pledge opened up free Wi-Fi hotspots and kept families online through job disruptions. The Commission cleared the way for providers to donate computers and tablets so kids can learn from home, waived Lifeline rules so that under-resourced families wouldn’t lose service, and provided flexibility for services vital to the deaf and hard of hearing. We also worked closely with providers that launched new programs to connect low-income families with high-speed services."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0109::Saúde",
+   "unit_id": "W0109",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 11,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 5,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "health care facilities",
+     "forma_encontrada": "health care facilities",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "Telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "Hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "Telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1431,
+     "fim_corpo": 2420,
+     "trecho": "We also worked closely with providers that launched new programs to connect low-income families with high-speed services. Second, we closely tracked the surge in network traffic and, when necessary, took steps to expand capacity to meet demand. In the first few weeks of the pandemic, Internet traffic surged about 25 percent on fixed networks and 20 percent on mobile ones. Peak usage, which normally hits a network around 9:00 PM local time, lasted longer and stretched into daytime hours. Network traffic not only spiked virtually overnight, it shifted at nearly the same time from urban centers to the suburbs. In addition to carriers’ own network management steps, we granted carriers special temporary authority to lease spectrum from other providers and offered some of the Commission’s licenses in inventory to augment capacity. Third, we expedited support for telehealth programs at a time when treating patients at a distance has never been more important."
+    },
+    {
+     "inicio_corpo": 1684,
+     "fim_corpo": 2550,
+     "trecho": "In the first few weeks of the pandemic, Internet traffic surged about 25 percent on fixed networks and 20 percent on mobile ones. Peak usage, which normally hits a network around 9:00 PM local time, lasted longer and stretched into daytime hours. Network traffic not only spiked virtually overnight, it shifted at nearly the same time from urban centers to the suburbs. In addition to carriers’ own network management steps, we granted carriers special temporary authority to lease spectrum from other providers and offered some of the Commission’s licenses in inventory to augment capacity. Third, we expedited support for telehealth programs at a time when treating patients at a distance has never been more important. For years, the FCC has played a key role in supporting the build out of high-speed Internet services to health care facilities."
+    },
+    {
+     "inicio_corpo": 1816,
+     "fim_corpo": 2631,
+     "trecho": "Peak usage, which normally hits a network around 9:00 PM local time, lasted longer and stretched into daytime hours. Network traffic not only spiked virtually overnight, it shifted at nearly the same time from urban centers to the suburbs. In addition to carriers’ own network management steps, we granted carriers special temporary authority to lease spectrum from other providers and offered some of the Commission’s licenses in inventory to augment capacity. Third, we expedited support for telehealth programs at a time when treating patients at a distance has never been more important. For years, the FCC has played a key role in supporting the build out of high-speed Internet services to health care facilities. And that important work will continue. But there’s a new trend in telehealth."
+    },
+    {
+     "inicio_corpo": 2993,
+     "fim_corpo": 3980,
+     "trecho": "You can think of this as the health care equivalent of shifting from Blockbuster to Netflix. I first learned about this new trend several years ago while visiting the University of Mississippi Medical Center (UMMC). That’s when UMMC professionals explained how they launched a connected care pilot program in the Mississippi Delta to improve the lives of patients with diabetes. That program showed great results for the patients and significant cost savings compared to traditional care methods. With Chairman Pai’s support, I started the process of standing up a new FCC initiative to support this trend towards connected care. Back then, we had no idea how important providing care at a distance would be in today’s pandemic. But because of the leg work we started after my first visit to Mississippi we were able to stand up a COVID-19 telehealth program in record time; it was a matter of days from the time President Trump signed the CARES Act to an FCC order."
+    },
+    {
+     "inicio_corpo": 3739,
+     "fim_corpo": 4654,
+     "trecho": "But because of the leg work we started after my first visit to Mississippi we were able to stand up a COVID-19 telehealth program in record time; it was a matter of days from the time President Trump signed the CARES Act to an FCC order. That program has made an impact in a very short time. All told, the FCC approved $200 million in support to 539 health care providers located in communities throughout the country. I have had the chance to visit with many of these health care providers, including on a trip two weeks ago to Ohio and Michigan. In Perrysburg, Ohio, Ranking Member Latta and I visited “A Renewed Mind,” a behavioral health organization that provides mental health and other substance abuse services in Northwest Ohio. As COVID-19 hit, they saw an immediate, twenty-fold increase in telehealth visits to treat conditions ranging from opioid dependency to fetal alcohol syndrome."
+    },
+    {
+     "inicio_corpo": 3980,
+     "fim_corpo": 4768,
+     "trecho": "That program has made an impact in a very short time. All told, the FCC approved $200 million in support to 539 health care providers located in communities throughout the country. I have had the chance to visit with many of these health care providers, including on a trip two weeks ago to Ohio and Michigan. In Perrysburg, Ohio, Ranking Member Latta and I visited “A Renewed Mind,” a behavioral health organization that provides mental health and other substance abuse services in Northwest Ohio. As COVID-19 hit, they saw an immediate, twenty-fold increase in telehealth visits to treat conditions ranging from opioid dependency to fetal alcohol syndrome. They were able to meet this demand with the help of nearly $100,000 from the FCC’s COVID-19 Telehealth Program."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0109::Saúde e deficiência",
+   "unit_id": "W0109",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "deaf",
+     "forma_encontrada": "deaf",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 560,
+     "fim_corpo": 1431,
+     "trecho": "In an instant, everyday tasks that used to be carried out in person moved online—f rom school, to work, catching up with friends, and accessing health care. The FCC recognized the sudden shifts that the pandemic caused and immediately went to work to ensure that Americans stayed connected. First, we joined with the private sector to make sure that pandemic-related financial stress and our own support rules did not cut off service when Americans needed it most. Chairman Pai’s Keep Americans Connected pledge opened up free Wi-Fi hotspots and kept families online through job disruptions. The Commission cleared the way for providers to donate computers and tablets so kids can learn from home, waived Lifeline rules so that under-resourced families wouldn’t lose service, and provided flexibility for services vital to the deaf and hard of hearing."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0109::Urbano e rural",
+   "unit_id": "W0109",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8329,
+     "fim_corpo": 9231,
+     "trecho": "They are fostered by a light-touch regulatory approach to infrastructure. At the Commission, I’ve led our wireless infrastructure modernization efforts. Together, we updated the federal historic and environmental rules that were needlessly delaying the build out of high- speed cell sites. We accelerated the construction of small cells by building on the commonsense reforms adopted by the states. We streamlined the process for swapping out utility poles to add wireless equipment. We worked with the Advisory Council on Historic Preservation on a process that expedites review for wireless infrastructure builds that are essential for immediate, COVID-19 response efforts. And we recently expedited the upgrade of thousands of existing wireless towers to 5G by clarifying the rules surrounding Section 6409. This will make a particular difference in rural and remote communities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0112::Domicílio e arranjo familiar",
+   "unit_id": "W0112",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 956,
+     "fim_corpo": 2020,
+     "trecho": "There is currently no item before the Commission on this topic; however, should an item be circulated before the end of the year, I will consider all views and give them due consideration. 2. The FCC’s 2020 Broadband Deployment Report finds that “the current speed benchmark of 25/3 Mbps remains an appropriate measure by which to asse ss whether a fixed service is providing advanced telecommunications capability,” specifically citing the statutory definition of “advanced telecommunications capability” as services that “enable[] users to originate and receive high-quality voice, data, graphics, and video telecommunications.” (¶13 ; 47 U.S.C. § 1302(d)(1) (emphasis added)). However, when I look at the recommended bandwidth for Zoom, Google Meet, and Cisco WebEx, each requires upload speeds of 3 Mbps for high quality video. Given that millions of households are juggling with parents participating in video calls at the same time as students are participating in class via video conference, does this speed threshold make sense today?"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0112::Escolaridade e letramento",
+   "unit_id": "W0112",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1148,
+     "fim_corpo": 2020,
+     "trecho": "2. The FCC’s 2020 Broadband Deployment Report finds that “the current speed benchmark of 25/3 Mbps remains an appropriate measure by which to asse ss whether a fixed service is providing advanced telecommunications capability,” specifically citing the statutory definition of “advanced telecommunications capability” as services that “enable[] users to originate and receive high-quality voice, data, graphics, and video telecommunications.” (¶13 ; 47 U.S.C. § 1302(d)(1) (emphasis added)). However, when I look at the recommended bandwidth for Zoom, Google Meet, and Cisco WebEx, each requires upload speeds of 3 Mbps for high quality video. Given that millions of households are juggling with parents participating in video calls at the same time as students are participating in class via video conference, does this speed threshold make sense today?"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0112::Idade",
+   "unit_id": "W0112",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1148,
+     "fim_corpo": 2068,
+     "trecho": "2. The FCC’s 2020 Broadband Deployment Report finds that “the current speed benchmark of 25/3 Mbps remains an appropriate measure by which to asse ss whether a fixed service is providing advanced telecommunications capability,” specifically citing the statutory definition of “advanced telecommunications capability” as services that “enable[] users to originate and receive high-quality voice, data, graphics, and video telecommunications.” (¶13 ; 47 U.S.C. § 1302(d)(1) (emphasis added)). However, when I look at the recommended bandwidth for Zoom, Google Meet, and Cisco WebEx, each requires upload speeds of 3 Mbps for high quality video. Given that millions of households are juggling with parents participating in video calls at the same time as students are participating in class via video conference, does this speed threshold make sense today? What do you think is an appropriate threshold?"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0112::Infraestrutura e porte populacional",
+   "unit_id": "W0112",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3187,
+     "fim_corpo": 4011,
+     "trecho": "I would also point out that the recommended upload speed for high quality video calling on Zoom, Google Meet, and Cisco WebEx is in fact much lower than 3 Mbps: recommendations vary between 600 Kbps and 1.5 Mbps . While 3 Mbps upload speeds may be recommended for high definition video conferencing, the statute does not reference such a standard of video resolution. Additionally, I am very concerned that altering the current benchmark would allow the Commission to take its eye off its primary focus of connecting those Americans who don’t have any access to broadband service at this threshold. As we’ve seen in past examples, increasing the broadband threshold can result in subsidies being spe nt on upgrades in areas that already have service, rather than reaching those that are truly unserved."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0112::Urbano e rural",
+   "unit_id": "W0112",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6576,
+     "fim_corpo": 7599,
+     "trecho": "While I believe a fundamental review and rewrite of existing regulatory burdens is absolutely necessary, a comprehensive overhaul may be unlikely to happen soon. In the meantime, we should consider more limited efforts that would help relieve regulatory costs and level the playing field. For example, in a recent blog post, I highlighted a handful of changes that could provide immediate relief to local broadcasters and would not shortchange consumer protections, ranging from ending certain license modification freezes to updating the presumption in favor of a failing station waiver. Further, allowing for m ore efficient processing of certain transactions can help to support and increase local news, especially in rural and smaller city markets. I have also written about this topic in a blog that specifically references Sioux Falls, South Dakota. Each blog — dated September 25, 2020, and June 25, 2020, respectively —can be accessed at https://www.fcc.gov/about/leadership/mike -orielly#blog."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0113::Administração pública",
+   "unit_id": "W0113",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Thomas B. Chapman",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "local government",
+     "forma_encontrada": "local government",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "local government",
+     "forma_encontrada": "local government",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "local government",
+     "forma_encontrada": "local government",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 18635,
+     "fim_corpo": 19603,
+     "trecho": "Work on that company priority culminated in successful agreement to merge US Airways and American Airlines, creating the world's largest airline. Legislative Counsel Southwest Airlines Co., Washington, D.C. January 1998 to October 2006. Recruited to establish and manage new Washington, D.C. office to represent highly regarded Southwest Airlines. Establishment of full-time Washington office significantly enhanced the effectiveness of the Company's government affairs efforts. Served as primary Washington representative on legislative and regulatory matters. Frequently called upon to represent the Company in state and local government affairs arena, particularly in the airline's newer east coast destination cities."
+    },
+    {
+     "inicio_corpo": 21428,
+     "fim_corpo": 22320,
+     "trecho": "Coordinated state legislative activities of twelve Regional Representatives. Associate Counsel, Office of the General Counsel Aircraft Owners & Pilots Association, Washington, D.C. May 1982 to June 1985. Established and coordinated successful state legislative program for AOPA. Drafted or reviewed all Association contracts and participated heavily in contract negotiations. Responsible for all trademark and copyright issues. Gained experience in broad spectrum of corporate legal matters. 9. Attach a copy of your resume. A copy is attached. 10. List any advisory, consultative, honorary, or other part-time service or positions with Federal, State, or local governments, other than those listed above, within the last ten years."
+    },
+    {
+     "inicio_corpo": 50803,
+     "fim_corpo": 51764,
+     "trecho": "Heavily involved in developing and implementing government affairs strategies promoting industry consolidation. Work on that company priority culminated in successful agreement to merge US Airways and American Airlines, creating the world's largest airline. Legislative Counsel Southwest Airlines Co., Washington, D.C. January 1998 to October 2006. Recruited to establish and manage new Washington, D.C. office to represent highly regarded Southwest Airlines. Establishment of full-time Washington office significantly enhanced the effectiveness of the Company's government affairs efforts. Served as primary Washington representative on legislative and regulatory matters. Frequently called upon to represent the Company in state and local government affairs arena, particularly in the airline's newer east coast destination cities."
+    },
+    {
+     "inicio_corpo": 51262,
+     "fim_corpo": 52242,
+     "trecho": "office to represent highly regarded Southwest Airlines. Establishment of full-time Washington office significantly enhanced the effectiveness of the Company's government affairs efforts. Served as primary Washington representative on legislative and regulatory matters. Frequently called upon to represent the Company in state and local government affairs arena, particularly in the airline's newer east coast destination cities. Helped organize and launch the Company's first ever PAC, the Southwest Airlines Freedom Fund. Dealt with news media on government affairs matters. Senior Vice President for Government & Technical Affairs Aircraft Owners & Pilots Association, Washington, D.C. December 1996 to January 1998. Promoted to direct all federal, state, and local government affairs activities for AOPA--a major national association representing interests of over 340,000 members."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0113::Domicílio e arranjo familiar",
+   "unit_id": "W0113",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Thomas B. Chapman",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 27191,
+     "fim_corpo": 28105,
+     "trecho": "``State Affairs: 1987 in Review,'' AOPA Pilot Magazine, January 1988. Regarding formal speeches, I have delivered few during my career. However, I have participated in significant numbers of panel discussions, conferences, and question-and-answer sessions. The instances during which I participated in such events are too numerous to recall. 18. List digital platforms (including social media and other digital content sites) on which you currently or have formerly operated an account, regardless of whether or not the account was held in your name or an alias. Include the name of an ``alias'' or ``handle'' you have used on each of the named platforms. Indicate whether the account is active, deleted, or dormant. Include a link to each account if possible. I maintain a private Instagram account with a handful of followers, consisting of a few friends and family members."
+    },
+    {
+     "inicio_corpo": 35275,
+     "fim_corpo": 36226,
+     "trecho": "Maintaining & developing staff. NTSB staff are renowned for their skill and expertise. The work of the agency is highly dependent on the dedication and unique abilities of its employees. Recruiting and retaining skilled team members is a challenge for any government agency, and particularly for one such as NTSB which requires such unique skillsets. Key to success in this area is ensuring the well- regarded culture and work environment of the agency is maintained. b. potential conflicts of interest 1. Describe all financial arrangements, deferred compensation agreements, and other continuing dealings with business associates, clients, or customers. Please include information related to retirement accounts. Pursuant to an Executive Change in Control & Severance Benefits Agreement with US Airways Group, Inc. & US Airways, Inc., my family and I receive lifetime flight privileges on American Airlines."
+    },
+    {
+     "inicio_corpo": 36764,
+     "fim_corpo": 37748,
+     "trecho": "If so, please explain. I have no commitments or agreements to maintain employment, affiliation, or practice with any business, association, or other organization during my appointment. 3. Indicate any investments, obligations, liabilities, or other relationships which could involve potential conflicts of interest in the position to which you have been nominated. Explain how you will resolve each potential conflict of interest. In connection with the nomination process, I have consulted with the Office of Government Ethics and the NTSB's DAEO to identify potential conflicts of interest. I agreed to take those actions that are outlined in the letter to the DAEO. A copy is attached. These commitments constitute my ethics agreement as identified in the ethics regulations. My family and I receive lifetime flight privileges from American Airlines pursuant to an Executive Change in Control & Severance Benefits Agreement with US Airways Group, Inc."
+    },
+    {
+     "inicio_corpo": 41155,
+     "fim_corpo": 41913,
+     "trecho": "Sec. 208(b)(1), or qualify for a regulatory exemption, pursuant to 18 U.S.C. Sec. 208(b)(2). I understand that the interests of the following persons are imputed to me: my spouse and minor child; any general partner of a partnership in which I am a limited or general partner; any organization in which I serve as officer, director, trustee, general partner or employee; and any person or organization with which I am negotiating or have an arrangement concerning prospective employment. My family and I receive lifetime flight privileges from American Airlines pursuant to an Executive Change in Control & Severance Benefits Agreement with US Airways Group, Inc."
+    },
+    {
+     "inicio_corpo": 55431,
+     "fim_corpo": 56116,
+     "trecho": "Sec. 208(b)(1), or qualify for a regulatory exemption, pursuant to 18 U.S.C. Sec. 208(b)(2). I understand that the interests of the following persons are imputed to me: any spouse or minor child of mine; any general partner of a partnership in which I am a limited or general partner; any organization in which I serve as officer, director, trustee, general partner or employee; and any person or organization with which I am negotiating or have an arrangement concerning prospective employment. My family and I receive lifetime flight privileges from American Airlines pursuant to an Executive Change in Control & Severance Benefits Agreement with US Airways Group, Inc."
+    },
+    {
+     "inicio_corpo": 78666,
+     "fim_corpo": 80304,
+     "trecho": "Answer. I am aware that injuries and fatalities resulting from motorcycle accidents are a serious and growing problem. Further, I am personally familiar with the challenge of ``being seen,'' having been an avid bicyclist at an earlier time in my life. If confirmed, I am committed to working with fellow Board Members and NTSB staff to promote comprehensive solutions that address all facets of the problem. Question 5. Echoing Senator Cantwell's comments on grade crossings and pipeline safety--there are considerable safety challenges in these areas and so I would entreat you to follow up on your commitment to more fully examine these issues prior to and if you are confirmed by the Senate. Answer. In responding to Senator Cantwell's question at the hearing, I did not mention an important connection to my own family history. My grandfather was killed in a grade crossing accident in the early 1950s, a few years before I was born. My mother was still in high school at the time. As you would expect, it was a defining experience in her life. I am less familiar with the challenges associated with pipeline safety. However, I have already engaged in the process of educating myself in this area. I also look forward to working with NTSB staff and current Board Members who have greater expertise regarding pipeline safety. The commitment I made to Senator Cantwell is sincere and personal. I am happy to renew that commitment here. I am motivated to learn more about these issues and to do my very best to help address the critical safety challenges. [all]"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0113::Educação",
+   "unit_id": "W0113",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Thomas B. Chapman",
+   "n_ocorrencias_no_par": 12,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 6,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 523,
+     "trecho": "STATEMENT OF THOMAS B. CHAPMAN, NOMINEE TO BE A MEMBER, NATIONAL TRANSPORTATION SAFETY BOARD Mr. Chapman. Absolutely, Mr. Chairman. I do want to introduce the two people who are most important to me. My wife, Scotty O'Connell. She is my partner and best friend and she has been for these past 34 years. I get a little choked up about that. And next to Scotty is our handsome son Patrick. We are very proud of Patrick who is currently a senior at St. John's College High School here in Washington."
+    },
+    {
+     "inicio_corpo": 7714,
+     "fim_corpo": 8591,
+     "trecho": "I am grateful to Senator Schumer for recommending me and to President Trump for nominating me. I also want to thank former Ranking Member Bill Nelson for his support on my behalf, as well as former Chairman Jay Rockefeller for offering me the opportunity to serve on the staff of the Senate Commerce Committee. I greatly admire the members of the staff on both sides of the aisle who work so hard to facilitate the work of the Committee. I am proud to call those fine people my colleagues and friends. Before proceeding, I want to introduce the two people most important to me. Sitting behind me is my wife Scotty O'Connell. She is my partner and best friend, and she has been for these past 34 years. Next to Scotty is our handsome son Patrick. We are very proud of Patrick, who is currently a senior at St. John's College High School here in Washington."
+    },
+    {
+     "inicio_corpo": 14708,
+     "fim_corpo": 15621,
+     "trecho": "3. Date of Nomination: October 17, 2019. 4. Address (List current place of residence and office addresses): Residence: Information not released to the public. Office: Senate Committee on Commerce, Science, & Transportation, Hart Senate Office Building, Washington, D.C. 20510 5. Date and Place of birth: December 18, 1954; Denver, Colorado. 6. Provide the name, position, and place of employment for you spouse (if married) and the names and ages of your children (including stepchildren and children by a previous marriage). Married January 25, 1986, to Mary Scott O'Connell (``Scotty''). My wife retired in 2015 from the National Air & Space Museum. She was with the Smithsonian Institution for 25 years, nearly all of it at Air & Space. 7. List all college and graduate degrees. Provide year and school attended."
+    },
+    {
+     "inicio_corpo": 14753,
+     "fim_corpo": 15682,
+     "trecho": "4. Address (List current place of residence and office addresses): Residence: Information not released to the public. Office: Senate Committee on Commerce, Science, & Transportation, Hart Senate Office Building, Washington, D.C. 20510 5. Date and Place of birth: December 18, 1954; Denver, Colorado. 6. Provide the name, position, and place of employment for you spouse (if married) and the names and ages of your children (including stepchildren and children by a previous marriage). Married January 25, 1986, to Mary Scott O'Connell (``Scotty''). My wife retired in 2015 from the National Air & Space Museum. She was with the Smithsonian Institution for 25 years, nearly all of it at Air & Space. 7. List all college and graduate degrees. Provide year and school attended. American University School of Law, Washington, D.C."
+    },
+    {
+     "inicio_corpo": 53065,
+     "fim_corpo": 53897,
+     "trecho": "State Legislative Counsel Aircraft Owners & Pilots Association, Washington, D.C. June 1985 to November 1988. Promoted to expand and direct AOPA's state legislative program. Coordinated state legislative activities of twelve Regional Representatives. Associate Counsel, Office of the General Counsel Aircraft Owners & Pilots Association, Washington, D.C. May I982 to June I985. Established and coordinated successful state legislative program for AOPA. Drafted or reviewed all Association contracts and participated heavily in contract negotiations. Responsible for all trademark and copyright issues. Gained experience in broad spectrum of corporate legal matters. EDUCATION American University School of Law, Washington, D.C."
+    },
+    {
+     "inicio_corpo": 76458,
+     "fim_corpo": 77416,
+     "trecho": "Question 2. We have examined in this Committee the many new entrants to our national airspace. What concerns do you have about emerging technologies and integration of an increasingly crowded national airspace? Answer. I feel confident that emerging technologies such as drones can be safely integrated into our national airspace system. However, a key step in that process is promulgation by FAA of the so-called ``Remote ID'' rule. That initiative has lagged somewhat. FAA should be encouraged to move forward with the Remote ID rule as expeditiously as possible. Remote ID is essential to ensure the safe integration of drones. It will also play an important role in terms of security and deployment of effective counter drone measures. Question 3. Senator Young and I have introduced legislation to help reduce school bus related accidents--associated with children being hit by automobiles when getting on or off school buses."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0113::Idade",
+   "unit_id": "W0113",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Thomas B. Chapman",
+   "n_ocorrencias_no_par": 12,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 6,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 475,
+     "trecho": "STATEMENT OF THOMAS B. CHAPMAN, NOMINEE TO BE A MEMBER, NATIONAL TRANSPORTATION SAFETY BOARD Mr. Chapman. Absolutely, Mr. Chairman. I do want to introduce the two people who are most important to me. My wife, Scotty O'Connell. She is my partner and best friend and she has been for these past 34 years. I get a little choked up about that. And next to Scotty is our handsome son Patrick. We are very proud of Patrick who is currently a senior at St."
+    },
+    {
+     "inicio_corpo": 7630,
+     "fim_corpo": 8543,
+     "trecho": "I am honored to be nominated to serve on the National Transportation Safety Board. I am grateful to Senator Schumer for recommending me and to President Trump for nominating me. I also want to thank former Ranking Member Bill Nelson for his support on my behalf, as well as former Chairman Jay Rockefeller for offering me the opportunity to serve on the staff of the Senate Commerce Committee. I greatly admire the members of the staff on both sides of the aisle who work so hard to facilitate the work of the Committee. I am proud to call those fine people my colleagues and friends. Before proceeding, I want to introduce the two people most important to me. Sitting behind me is my wife Scotty O'Connell. She is my partner and best friend, and she has been for these past 34 years. Next to Scotty is our handsome son Patrick. We are very proud of Patrick, who is currently a senior at St."
+    },
+    {
+     "inicio_corpo": 18948,
+     "fim_corpo": 19930,
+     "trecho": "Recruited to establish and manage new Washington, D.C. office to represent highly regarded Southwest Airlines. Establishment of full-time Washington office significantly enhanced the effectiveness of the Company's government affairs efforts. Served as primary Washington representative on legislative and regulatory matters. Frequently called upon to represent the Company in state and local government affairs arena, particularly in the airline's newer east coast destination cities. Helped organize and launch the Company's first ever PAC, the Southwest Airlines Freedom Fund. Dealt with news media on government affairs matters. Senior Vice President for Government & Technical Affairs Aircraft Owners & Pilots Association, Washington, D.C."
+    },
+    {
+     "inicio_corpo": 51106,
+     "fim_corpo": 52042,
+     "trecho": "Legislative Counsel Southwest Airlines Co., Washington, D.C. January 1998 to October 2006. Recruited to establish and manage new Washington, D.C. office to represent highly regarded Southwest Airlines. Establishment of full-time Washington office significantly enhanced the effectiveness of the Company's government affairs efforts. Served as primary Washington representative on legislative and regulatory matters. Frequently called upon to represent the Company in state and local government affairs arena, particularly in the airline's newer east coast destination cities. Helped organize and launch the Company's first ever PAC, the Southwest Airlines Freedom Fund. Dealt with news media on government affairs matters. Senior Vice President for Government & Technical Affairs Aircraft Owners & Pilots Association, Washington, D.C."
+    },
+    {
+     "inicio_corpo": 57404,
+     "fim_corpo": 58317,
+     "trecho": "Sec. 2638.305. Within 90 days of my confirmation, I will document my compliance with this ethics agreement by notifying you in writing when I have completed the steps described in this ethics agreement. I have been advised that this ethics agreement will be posted publicly, consistent with 5 U.S.C. Sec. 552, on the website of the U.S. Office of Government Ethics with ethics agreements of other Presidential nominees who file public financial disclosure reports. I understand that as an appointee I will be required to sign the Ethics Pledge (Exec. Order No. 13770) and that I will be bound by the requirements and restrictions therein in addition to the commitments I have made in this ethics agreement. Sincerely, Thomas B. Chapman The Chairman. Thank you, Mr. Chapman. I am required to ask you this question on the record."
+    },
+    {
+     "inicio_corpo": 57970,
+     "fim_corpo": 58970,
+     "trecho": "Order No. 13770) and that I will be bound by the requirements and restrictions therein in addition to the commitments I have made in this ethics agreement. Sincerely, Thomas B. Chapman The Chairman. Thank you, Mr. Chapman. I am required to ask you this question on the record. If confirmed, will you pledge to work collaboratively with this Committee and provide thorough and timely responses to our request for information as we work together to address important policy issues? Mr. Chapman. Absolutely, Mr. Chairman, and I will be happy to do so. The Chairman. Thank you very much. We have been required this past year to spend a great deal of time talking about aviation safety. Of course, in the U.S. commercial aviation continues to be one of the statistically safest forms of transportation. What do you think will be the greatest safety related challenges facing the aviation system over the next decade?"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0113::Raça e etnia",
+   "unit_id": "W0113",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Thomas B. Chapman",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "minority",
+     "forma_encontrada": "minority",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "minority",
+     "forma_encontrada": "minority",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 46464,
+     "fim_corpo": 47311,
+     "trecho": "5. Have you ever been accused, formally or informally, of sexual harassment or discrimination on the basis of sex, race, religion, or any other basis? If so, please explain. I have never been accused of sexual harassment or discrimination on the basis of sex, race, religion, or any other basis. 6. Please advise the Committee of any additional information, favorable or unfavorable, which you feel should be disclosed in connection with your nomination. None to report. d. relationship with committee 1. Will you ensure that your department/agency complies with deadlines for information set by congressional committees, and that your department/agency endeavors to timely comply with requests for information from individual Members of Congress, including requests from members in the minority?"
+    },
+    {
+     "inicio_corpo": 46771,
+     "fim_corpo": 47613,
+     "trecho": "6. Please advise the Committee of any additional information, favorable or unfavorable, which you feel should be disclosed in connection with your nomination. None to report. d. relationship with committee 1. Will you ensure that your department/agency complies with deadlines for information set by congressional committees, and that your department/agency endeavors to timely comply with requests for information from individual Members of Congress, including requests from members in the minority? In collaboration with fellow members of the Board, I will ensure that NTSB complies with deadlines for information set by congressional committees and endeavors to timely comply with requests for information from individual Members of Congress, including requests from members in the minority."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0113::Saúde e deficiência",
+   "unit_id": "W0113",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Thomas B. Chapman",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "disability",
+     "forma_encontrada": "disability",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "disability",
+     "forma_encontrada": "disability",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "disabilities",
+     "forma_encontrada": "disabilities",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 22607,
+     "fim_corpo": 23388,
+     "trecho": "Vice President for Government Affairs. US Airways, Washington, D.C. October 2006 to January 2014. 12. Please list each membership you have had during the past ten years or currently hold with any civic, social, charitable, educational, political, professional, fraternal, benevolent or religiously affiliated organization., private club, or other membership organization. (For this question, you do not have to list your religious affiliation or membership in a religious house of worship or institution.). Include dates of membership and any positions you have held with any organization. Please note whether any such club or organization restricts membership on the basis of sex, race, color, religion, national origin, age, or disability."
+    },
+    {
+     "inicio_corpo": 23013,
+     "fim_corpo": 23693,
+     "trecho": "(For this question, you do not have to list your religious affiliation or membership in a religious house of worship or institution.). Include dates of membership and any positions you have held with any organization. Please note whether any such club or organization restricts membership on the basis of sex, race, color, religion, national origin, age, or disability. Member of the 116 Club . . . a private lunch club located at 234 3rd Street, NE, in Washington, DC. Member since 2012. I have never been a member of nor have I associated with any organization which discriminates on the basis of sex, race, color, religion, national origin, age, or disability."
+    },
+    {
+     "inicio_corpo": 24635,
+     "fim_corpo": 25533,
+     "trecho": "1/26/2009 Citizens for Arlen Specter $ 500 7/6/2010 Friends of John McCain $ 500 6/15/2011 Schweikert for Congress $ 500 12/21/2011 Pat Meehan for Congress $ 500 2/24/2012 Jeff Flake for U.S. Senate $ 500 5/25/2012 Bill Nelson for U.S. Senate $1,000 5/28/2013 Team Graham $1,000 16. List all scholarships, fellowships, honorary degrees, honorary society memberships, military medals, and any other special recognition for outstanding service or achievements. Recognized by the ARC of Frederick County, Maryland, for voluntary fundraising efforts in support of the organization's programs to help people with developmental disabilities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0114::Cultura e informação",
+   "unit_id": "W0114",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "H. Mark Gibson",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "library",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13714,
+     "fim_corpo": 14621,
+     "trecho": "U.S. Leadership in Wireless Technology Relies on Quick Access to Spectrum In a 2015 report,\\2\\ CTIA indicated that it takes about 13 years to make spectrum available to consumers. We are improving on that timeline thanks in part to your leadership on advancing legislation such as the MOBILE NOW Act. However, we still have much to do. It has taken eight years to commercialize CBRS. And while 6 GHz spectrum may come online in record time, the lower mid-band (3100-3550 MHz) will likely take many years to be realized for commercial use. The C-Band will have taken over six years from the time of the FCC's initial Mid-Band NOI to the time when nationwide wireless services can be deployed. --------------------------------------------------------------------------- \\2\\ https://api.ctia.org/docs/default-source/default-document- library/072015-spectrum-timelines-white-paper.pdf."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0114::Domicílio e arranjo familiar",
+   "unit_id": "W0114",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "H. Mark Gibson",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 338,
+     "fim_corpo": 1247,
+     "trecho": "It is truly an honor and pleasure to be here. CommScope is a leading U.S. developer and a manufacturer of wireless network equipment. Our products and services provide the critical building blocks that U.S. carriers and enterprises need to deploy and operate their next generation wireless networks. Our customers range from small rural wireless carriers to large global wireless Internet service providers, from local telecom providers to Nationwide cable companies and many other Americans in virtually every sector of the economy. Our customers operate in every state of the United States and lately we have also been working with nonprofit organizations plus our partners and employees to provide much-needed assistance during the COVID-19 pandemic. For example, by equipping school buses with Wi-Fi and LTE backhaul and parking them in neighborhoods were families lack Internet access."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0114::Educação",
+   "unit_id": "W0114",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "H. Mark Gibson",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 314,
+     "fim_corpo": 1247,
+     "trecho": "spectrum policy today. It is truly an honor and pleasure to be here. CommScope is a leading U.S. developer and a manufacturer of wireless network equipment. Our products and services provide the critical building blocks that U.S. carriers and enterprises need to deploy and operate their next generation wireless networks. Our customers range from small rural wireless carriers to large global wireless Internet service providers, from local telecom providers to Nationwide cable companies and many other Americans in virtually every sector of the economy. Our customers operate in every state of the United States and lately we have also been working with nonprofit organizations plus our partners and employees to provide much-needed assistance during the COVID-19 pandemic. For example, by equipping school buses with Wi-Fi and LTE backhaul and parking them in neighborhoods were families lack Internet access."
+    }
+   ]
+  }
+ ]
+}

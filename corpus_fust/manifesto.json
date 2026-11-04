@@ -1,0 +1,122 @@
+[
+  {
+    "chave": "DCD14NOV1997.pdf",
+    "serie": "DCD",
+    "data": "1997-11-14",
+    "paginas": [
+      36602
+    ],
+    "arquivo_esperado": "DCD14NOV1997.pdf",
+    "tentado_em": "2026-10-07T17:28:31+00:00",
+    "baixado": true,
+    "arquivo": "corpus_fust/diarios_camara/DCD14NOV1997.pdf",
+    "bytes": 31546817,
+    "tipo": "pdf",
+    "url_que_funcionou": "http://imagem.camara.gov.br/Imagem/d/pdf/DCD14NOV1997.pdf"
+  },
+  {
+    "chave": "DCD17SET1999.pdf",
+    "serie": "DCD",
+    "data": "1999-09-17",
+    "paginas": [
+      42741
+    ],
+    "arquivo_esperado": "DCD17SET1999.pdf",
+    "tentado_em": "2026-10-07T17:28:35+00:00",
+    "baixado": true,
+    "arquivo": "corpus_fust/diarios_camara/DCD17SET1999.pdf",
+    "bytes": 18631006,
+    "tipo": "pdf",
+    "url_que_funcionou": "http://imagem.camara.gov.br/Imagem/d/pdf/DCD17SET1999.pdf"
+  },
+  {
+    "chave": "DCD24SET1999.pdf",
+    "serie": "DCD",
+    "data": "1999-09-24",
+    "paginas": [
+      44216
+    ],
+    "arquivo_esperado": "DCD24SET1999.pdf",
+    "tentado_em": "2026-10-07T17:28:41+00:00",
+    "baixado": true,
+    "arquivo": "corpus_fust/diarios_camara/DCD24SET1999.pdf",
+    "bytes": 34841862,
+    "tipo": "pdf",
+    "url_que_funcionou": "http://imagem.camara.gov.br/Imagem/d/pdf/DCD24SET1999.pdf"
+  },
+  {
+    "chave": "DCD27OUT1999.pdf",
+    "serie": "DCD",
+    "data": "1999-10-27",
+    "paginas": [
+      51004
+    ],
+    "arquivo_esperado": "DCD27OUT1999.pdf",
+    "tentado_em": "2026-10-07T17:28:44+00:00",
+    "baixado": true,
+    "arquivo": "corpus_fust/diarios_camara/DCD27OUT1999.pdf",
+    "bytes": 16225692,
+    "tipo": "pdf",
+    "url_que_funcionou": "http://imagem.camara.gov.br/Imagem/d/pdf/DCD27OUT1999.pdf"
+  },
+  {
+    "chave": "DCD02DEZ1999.pdf",
+    "serie": "DCD",
+    "data": "1999-12-02",
+    "paginas": [
+      2340
+    ],
+    "arquivo_esperado": "DCD02DEZ1999.pdf",
+    "tentado_em": "2026-10-07T17:28:52+00:00",
+    "baixado": true,
+    "arquivo": "corpus_fust/diarios_camara/DCD02DEZ1999.pdf",
+    "bytes": 28977777,
+    "tipo": "pdf",
+    "url_que_funcionou": "resolvido via coletor_emendas_camara.py (codteor da EMC 1-7 aponta pro mesmo Diario); copiado do canonico em camara/emendas/_compartilhados/, nao baixado de novo"
+  },
+  {
+    "chave": "DCD08DEZ1999.pdf",
+    "serie": "DCD",
+    "data": "1999-12-08",
+    "paginas": [
+      60552
+    ],
+    "arquivo_esperado": "DCD08DEZ1999.pdf",
+    "tentado_em": "2026-10-07T17:28:52+00:00",
+    "baixado": true,
+    "arquivo": "corpus_fust/diarios_camara/DCD08DEZ1999.pdf",
+    "bytes": 26404991,
+    "tipo": "pdf",
+    "url_que_funcionou": "resolvido via coletor_emendas_camara.py (codteor das EMP 1-24 aponta pro mesmo Diario); copiado do canonico em camara/emendas/_compartilhados/, nao baixado de novo"
+  },
+  {
+    "chave": "DCD04NOV1999.pdf",
+    "serie": "DCD",
+    "data": "1999-11-04",
+    "paginas": [
+      52165
+    ],
+    "arquivo_esperado": "DCD04NOV1999.pdf",
+    "tentado_em": "2026-10-07T17:29:00+00:00",
+    "baixado": true,
+    "arquivo": "corpus_fust/diarios_camara/DCD04NOV1999.pdf",
+    "bytes": 36431880,
+    "tipo": "pdf",
+    "url_que_funcionou": "http://imagem.camara.gov.br/Imagem/d/pdf/DCD04NOV1999.pdf"
+  },
+  {
+    "chave": "DCD25NOV1999.pdf",
+    "serie": "DCD",
+    "data": "1999-11-25",
+    "paginas": [
+      57254
+    ],
+    "arquivo_esperado": "DCD25NOV1999.pdf",
+    "tentado_em": "2026-10-07T17:29:05+00:00",
+    "baixado": true,
+    "arquivo": "corpus_fust/diarios_camara/DCD25NOV1999.pdf",
+    "bytes": 30371971,
+    "tipo": "pdf",
+    "url_que_funcionou": "http://imagem.camara.gov.br/Imagem/d/pdf/DCD25NOV1999.pdf"
+  }
+]

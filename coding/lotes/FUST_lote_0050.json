@@ -1,0 +1,968 @@
+{
+ "caso": "FUST",
+ "lote": 50,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0294::Urbano e rural",
+   "unit_id": "S0294",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-14",
+   "orador": "Gilvam Borges",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6147,
+     "fim_corpo": 7131,
+     "trecho": "O crescimento consistente do número de matrículas em todos os níveis, mas em especial no ensino fundamental e médio, demonstram que Governo e sociedade compreenderam claramente que não será possível ingressar na área do conhecimento, sem que a população esteja adequadamente escolarizada e qualificada. Dados do Ministério da Educação revelam que, em 1999, havia 52,2 milhões de alunos matriculados na escola, incluídos todos os níveis e modalidades de ensino, exceto o superior, que hoje reúne, da graduação ao doutorado, quase três milhões de estudantes. Por outro lado, Sr. Presidente, o índice de analfabetos na população com 15 anos ou mais caiu de 20,1%, em 1991, para 13,8%, em 1998, e continua em descenso. Ainda no campo da educação, com o grande colaborador e articulista, o exímio executivo Ministro Paulo Renato Souza, o Governo Federal, por intermédio desse Ministério, vem oferecendo as condições para incrementar no País a educação à distância."
+    },
+    {
+     "inicio_corpo": 6716,
+     "fim_corpo": 7702,
+     "trecho": "Por outro lado, Sr. Presidente, o índice de analfabetos na população com 15 anos ou mais caiu de 20,1%, em 1991, para 13,8%, em 1998, e continua em descenso. Ainda no campo da educação, com o grande colaborador e articulista, o exímio executivo Ministro Paulo Renato Souza, o Governo Federal, por intermédio desse Ministério, vem oferecendo as condições para incrementar no País a educação à distância. Com o uso intensivo de novas tecnologias da informação, notadamente a Internet, esse segmento que vive em todo o Planeta uma explosão de crescimento, deverá contribuir de maneira decisiva para a plena democratização do ensino, viabilizando igualmente a educação continuada, cada vez mais indispensável. Antes de concluir, Sr. Presidente, destaco o importante trabalho que o Governo do Presidente Fernando Henrique Cardoso vem desenvolvendo no campo da diplomacia dentro de um mundo globalizado, o que, aliás, confirma e amplia uma tradição do Instituto Rio Branco."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0295::Posição no trabalho",
+   "unit_id": "S0295",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-14",
+   "orador": "Alvaro Dias",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "autônomos",
+     "forma_encontrada": "autônomos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4479,
+     "fim_corpo": 5318,
+     "trecho": "Só com esse acréscimo de produção, o lucro da empresa crescerá em média US$1,2 bilhão por ano. Tais números, resultado da previsão de especialistas, reafirmam o equívoco histórico que pode o Governo cometer se esta Casa não votar o projeto sinalizando a vontade nacional de manter de forma intacta o patrimônio extraordinário dessa empresa estratégica na posse da União. No momento, a Petrobras toma algumas providências extremamente preocupantes. A venda de 31,7% das ações da Petrobras conservará em poder da União apenas 27% do capital total da empresa. Portanto, 73% do lucro da Petrobras passará a ser permanentemente privado – será transferido ao setor privado. A Petrobras, por recomendação de consultores estrangeiros, está sendo pulverizada em unidades de negócios autônomos, que se deverão tornar subsidiárias."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0296::Domicílio e arranjo familiar",
+   "unit_id": "S0296",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-14",
+   "orador": "Marina Silva",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "famílias",
+     "forma_encontrada": "famílias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1935,
+     "fim_corpo": 2811,
+     "trecho": "Há várias denúncias, algumas delas, inclusive, envolvendo meu Estado, o Acre, onde há muitas reclamações referentes ao atendimento oferecido pelas empresas privatizadas. Argumentou-se que a privatização traria maior eficiência na prestação de serviço, mas sabemos que isso não está acontecendo. No Rio Grande do Sul, a empresa Tecon Rio Grande S. A. reduziu drasticamente o número de pessoas que trabalhavam no porto, quando, nos meios de comunicação, afirma, reiteradamente, que se preocupa com a geração de emprego. Essa empresa se faz presente no atendimento a atividades portuárias, nos mais diferentes setores, o que leva a uma falta de espaço para as demais atividades. No cais comercial do Rio Grande do Sul, atracam 30 a 40 navios por mês. Antes da privatização, essa movimentação garantia emprego aos trabalhadores do porto e o conseqüente sustento de suas famílias."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0296::Posição no trabalho",
+   "unit_id": "S0296",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-14",
+   "orador": "Marina Silva",
+   "n_ocorrencias_no_par": 16,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 10,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 833,
+     "trecho": "A SRª MARINA SILVA (Bloco/PT - AC. Pronuncia o seguinte discurso. Sem revisão da oradora.) – Sr. Presidente, procurarei ser breve, compreendendo que já estamos com o tempo praticamente esgotado. Registro que, graças à Senadora Heloisa Helena, será possível falar, porque S. Exª faria um pronunciamento sobre o projeto que trata da venda de armas e, em função do tempo, resolveu fazê-lo em outra oportunidade. Farei uma breve observação sobre inúmeras denúncias que têm chegado ao meu gabinete, à luz de tudo que vem sendo dito nos meios de comunicação e pelas categorias diretamente envolvidas no processo, referentes ao impacto da privatização de alguns setores. Dois graves problemas são a diminuição, sobremaneira, das oportunidades de trabalho e o aumento do desemprego nos últimos anos, particularmente nos anos 90."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 1099,
+     "trecho": "A SRª MARINA SILVA (Bloco/PT - AC. Pronuncia o seguinte discurso. Sem revisão da oradora.) – Sr. Presidente, procurarei ser breve, compreendendo que já estamos com o tempo praticamente esgotado. Registro que, graças à Senadora Heloisa Helena, será possível falar, porque S. Exª faria um pronunciamento sobre o projeto que trata da venda de armas e, em função do tempo, resolveu fazê-lo em outra oportunidade. Farei uma breve observação sobre inúmeras denúncias que têm chegado ao meu gabinete, à luz de tudo que vem sendo dito nos meios de comunicação e pelas categorias diretamente envolvidas no processo, referentes ao impacto da privatização de alguns setores. Dois graves problemas são a diminuição, sobremaneira, das oportunidades de trabalho e o aumento do desemprego nos últimos anos, particularmente nos anos 90. Hoje, os trabalhadores deveriam ser inseridos nas oportunidades que estão surgindo, mas sabemos que essas novas oportunidades não estão sendo, necessariamente, disponibilizadas aos segmentos que perderam seus postos de trabalho com o processo de privatização."
+    },
+    {
+     "inicio_corpo": 274,
+     "fim_corpo": 1198,
+     "trecho": "Exª faria um pronunciamento sobre o projeto que trata da venda de armas e, em função do tempo, resolveu fazê-lo em outra oportunidade. Farei uma breve observação sobre inúmeras denúncias que têm chegado ao meu gabinete, à luz de tudo que vem sendo dito nos meios de comunicação e pelas categorias diretamente envolvidas no processo, referentes ao impacto da privatização de alguns setores. Dois graves problemas são a diminuição, sobremaneira, das oportunidades de trabalho e o aumento do desemprego nos últimos anos, particularmente nos anos 90. Hoje, os trabalhadores deveriam ser inseridos nas oportunidades que estão surgindo, mas sabemos que essas novas oportunidades não estão sendo, necessariamente, disponibilizadas aos segmentos que perderam seus postos de trabalho com o processo de privatização. Grande parte desses trabalhadores se encontra sem perspectivas de mudanças estruturais no mercado."
+    },
+    {
+     "inicio_corpo": 409,
+     "fim_corpo": 1421,
+     "trecho": "Farei uma breve observação sobre inúmeras denúncias que têm chegado ao meu gabinete, à luz de tudo que vem sendo dito nos meios de comunicação e pelas categorias diretamente envolvidas no processo, referentes ao impacto da privatização de alguns setores. Dois graves problemas são a diminuição, sobremaneira, das oportunidades de trabalho e o aumento do desemprego nos últimos anos, particularmente nos anos 90. Hoje, os trabalhadores deveriam ser inseridos nas oportunidades que estão surgindo, mas sabemos que essas novas oportunidades não estão sendo, necessariamente, disponibilizadas aos segmentos que perderam seus postos de trabalho com o processo de privatização. Grande parte desses trabalhadores se encontra sem perspectivas de mudanças estruturais no mercado. Com a consolidação do desemprego da maioria dos atingidos pelo processo, as taxas de desemprego destes próximos anos, com certeza, se não houver uma mudança nas bases do desenvolvimento econômico do nosso País, aumentarão."
+    },
+    {
+     "inicio_corpo": 409,
+     "fim_corpo": 1421,
+     "trecho": "Farei uma breve observação sobre inúmeras denúncias que têm chegado ao meu gabinete, à luz de tudo que vem sendo dito nos meios de comunicação e pelas categorias diretamente envolvidas no processo, referentes ao impacto da privatização de alguns setores. Dois graves problemas são a diminuição, sobremaneira, das oportunidades de trabalho e o aumento do desemprego nos últimos anos, particularmente nos anos 90. Hoje, os trabalhadores deveriam ser inseridos nas oportunidades que estão surgindo, mas sabemos que essas novas oportunidades não estão sendo, necessariamente, disponibilizadas aos segmentos que perderam seus postos de trabalho com o processo de privatização. Grande parte desses trabalhadores se encontra sem perspectivas de mudanças estruturais no mercado. Com a consolidação do desemprego da maioria dos atingidos pelo processo, as taxas de desemprego destes próximos anos, com certeza, se não houver uma mudança nas bases do desenvolvimento econômico do nosso País, aumentarão."
+    },
+    {
+     "inicio_corpo": 670,
+     "fim_corpo": 1532,
+     "trecho": "Dois graves problemas são a diminuição, sobremaneira, das oportunidades de trabalho e o aumento do desemprego nos últimos anos, particularmente nos anos 90. Hoje, os trabalhadores deveriam ser inseridos nas oportunidades que estão surgindo, mas sabemos que essas novas oportunidades não estão sendo, necessariamente, disponibilizadas aos segmentos que perderam seus postos de trabalho com o processo de privatização. Grande parte desses trabalhadores se encontra sem perspectivas de mudanças estruturais no mercado. Com a consolidação do desemprego da maioria dos atingidos pelo processo, as taxas de desemprego destes próximos anos, com certeza, se não houver uma mudança nas bases do desenvolvimento econômico do nosso País, aumentarão. Há uma tendência a agravar-se o desemprego e as privatizações contribuíram significativamente para isso."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0297::Posição no trabalho",
+   "unit_id": "S0297",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-14",
+   "orador": "Ademir Andrade",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1016,
+     "fim_corpo": 1516,
+     "trecho": "O salário do funcionalismo que não sofre reajuste há cinco anos, já acumula uma perda de 64% em relação à inflação. É inquestionável a justeza das reivindicações que constam na pauta apresentada pelos servidores. A reposta do governo tem sido, além de não receber os representantes dos servidores, determinar o corte do ponto, o que já foi condenado pela justiça, e ainda, a adoção de mais um plano de demissão voluntária, cujas experiências anteriores foram desastrosas para os trabalhadores."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0298::Escolaridade e letramento",
+   "unit_id": "S0298",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-19",
+   "orador": "Roberto Saturnino",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "aluno",
+     "forma_encontrada": "aluno",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1958,
+     "fim_corpo": 3097,
+     "trecho": "Pois bem, nós do PSB - e o próprio Governador - queremos que se apure também a acusação que pesa injustamente sobre o Governador, que se apure tudo o que está se passando no Amapá. Quero ler nesta tribuna o ofício que o Governador João Alberto Capiberibe dirigiu ao Ministro da Educação, Paulo Renato Souza, a respeito do assunto e requerendo a atuação daquele Ministério. Diz o ofício: \"Sr. Ministro, considerando as denúncias apresentadas pelo Deputado Federal Sérgio Barcellos à Assembléia Legislativa do Estado, reforçadas pelo Senador Sebastião Rocha em pronunciamento no Senado Federal, de desvio de recursos do FUNDEF; considerando que, no caso específico do Amapá, as verbas para a manutenção do programa são exclusivamente provenientes da receita estadual sendo, inclusive, o custo/aluno/ano superior ao mínimo estabelecido pelo Governo Federal; considerando ainda que este Governo tem demonstrado transparência na aplicação de recursos públicos, sejam de origem federal ou estadual, bem como tem reunida a documentação comprobatória da correta aplicação dos recursos do Fundef nesse Estado, solicito a V."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0298::Macrorregião",
+   "unit_id": "S0298",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-19",
+   "orador": "Roberto Saturnino",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 542,
+     "trecho": "O SR. ROBERTO SATURNINO (PSB – RJ. Para uma comunicação inadiável. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, finalmente a nossa grande imprensa voltou sua atenção para o quadro de gravidade que se observa hoje no Estado do Amapá, esta Unidade da Federação do extremo norte, longínqua em relação aos centros políticos e econômicos do nosso País, mas que está a exigir precisamente uma atuação mais presente por parte do Governo Federal, das autoridades federais, diante da gravidade que o quadro assumiu naquele Estado."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0299::Posição no trabalho",
+   "unit_id": "S0299",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-19",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11950,
+     "fim_corpo": 13083,
+     "trecho": "Estamos, Sr. Presidente – e este é o motivo da minha presença na tribuna neste final de tarde –, na penúltima semana de trabalhos legislativos deste semestre. Em julho virá o recesso e com ele seguramente começarão a se intensificar as campanhas para as eleições municipais de outubro, quando vamos renovar o poder em mais de 5.500 municípios; prefeitos, vice-prefeitos e vereadores serão eleitos. É imprescindível que a Câmara – e aqui é uma palavra também de apelo de quem acompanha o problema do custo do capital no Brasil, que é escorchante, incompatível com a realidade vivida nos outros países, nos nossos parceiros comerciais – aprove a nova Lei das Sociedades Anônimas antes do recesso e não adie a votação para o segundo semestre. Nossa expectativa, e creio que da maioria desta Casa, dos empresários brasileiros, dos trabalhadores brasileiros, do mundo sindical brasileiro, é que o assunto já deva estar sendo discutido por nós Senadores em agosto, de modo que possamos aprovar ainda este ano mais esse mecanismo de modernização da nossa economia, oferecendo às nossas empresas melhores condições de desenvolvimento."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0299::Saúde e deficiência",
+   "unit_id": "S0299",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-19",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "deficientes",
+     "forma_encontrada": "deficientes",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9666,
+     "fim_corpo": 10611,
+     "trecho": "Não será simples. O capitalismo brasileiro foi todo construído em torno da figura do controlador\". Esta é uma abordagem importante que tive oportunidade de fazer desta tribuna, em discurso que proferi sobre a nova Lei das Sociedades Anônimas há alguns dias. É necessário mudar o arcaico arcabouço legislativo brasileiro que concentra a administração de importantes empresas nacionais em mãos de grupos familiares, inibindo o desenvolvimento do capital nacional e cedendo cada vez mais espaço para as empresas internacionais. A jornalista revela também que \"o projeto de Furnas vai além da energia\". E diz mais: \"O que se quer é encontrar, através da venda da empresa, um modelo que possa ser seguido pelo capitalismo brasileiro, hoje espremido entre dois modelos deficientes: a empresa familiar, que eu já disse aqui e quero repetir, não sobrevive neste mundo complexo e competitivo a que estamos assistindo, ou o capital estrangeiro."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0299::Urbano e rural",
+   "unit_id": "S0299",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-19",
+   "orador": "Paulo Hartung",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 15793,
+     "fim_corpo": 17009,
+     "trecho": "Estamos chegando no final do período legislativo e esta lei está preparada para votar. Bom seria se iniciássemos o segundo semestre discutindo no Senado a nova Lei das Sociedades Anônimas. O Sr. Casildo Maldaner (PMDB – SC) – Solicito um aparte, Senador Paulo Hartung. O SR. PAULO HARTUNG (PPS – ES) – Concedo o aparte, com muito prazer, ao Senador Casildo Maldaner. O Presidente está pedindo que eu conclua. O Sr. Casildo Maldaner (PMDB – SC) – É uma pena não podermos continuar ouvindo a palestra, a conferência que V. Exª faz hoje à tarde, quase ao terminar esta sessão. V Exª, aliás, desde sua vinda a esta Casa, tem-se dedicado a temas dessa envergadura. V. Exª, como economista, como entendido na área e agora como Líder do seu Partido, tem procurado saídas para essa questão no Brasil. Não sou experto nessa área, não sou especialista nesse campo, mas represento pessoas que pensam como eu, pessoas que gostariam de, na reformulação da CVM - Comissão de Valores Mobiliários -, dar segurança ao mercado de capitais, dar segurança para a participação dos grupos minoritários, oferecer aos menores que gostariam de aplicar também mais credibilidade nessas instituições, no mercado de capitais."
+    },
+    {
+     "inicio_corpo": 17009,
+     "fim_corpo": 17783,
+     "trecho": "É isso o que temos de oferecer ao Brasil. Se podemos ter mais segurança nesse setor, muita gente, tenha certeza, Senador Paulo Hartung, dormiria melhor, aplicaria mais, e isso ajudaria a desenvolver e fortalecer esses setores. V. Exª abrange questão que milhares de brasileiros acompanham, brasileiros que gostariam de mais tranqüilidade para investir e participar desse setor, mas muitas vezes pensam: \"como será isso?\". É preciso investir, mas tem de haver um mínimo de credibilidade, têm de haver parâmetros que ofereçam segurança, punições. V. Exª, com muita autoridade, traz o debate e apela para que, antes de findar o primeiro semestre, a Câmara vote a Lei da S. A., para que se avance na reforma tributária e para que se implante no País mais segurança nesse campo."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0300::Infraestrutura e porte populacional",
+   "unit_id": "S0300",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-20",
+   "orador": "Moreira Mendes",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pequenos municípios",
+     "forma_encontrada": "pequenos Municípios",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7488,
+     "fim_corpo": 8368,
+     "trecho": "Além disso, privar o Basa de sua rede de agências será condenar o processo de desenvolvimento regional ao reforço de ilhas de concentração de riquezas nas capitais das unidades federativas das áreas em questão, pois o sistema bancário privado limita-se praticamente às mesmas, o que acabaria por transformar os fundos constitucionais de regionais em \"fundos para as capitais\", privando nossos Municípios da única esperança que ainda lhes resta para trilhar a estrada do desenvolvimento, isso sem considerar que muito dificilmente a rede particular irá cumprir o preceito legal dos referidos fundos, de priorizar os minis e pequenos produtores. Quero nesse particular também lembrar que uma das maiores reivindicações dos pequenos Municípios do interior do meu Estado - não sei se o mesmo ocorre no Estado do Amazonas - é exatamente a presença de uma agência bancária."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0300::Macrorregião",
+   "unit_id": "S0300",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-20",
+   "orador": "Moreira Mendes",
+   "n_ocorrencias_no_par": 39,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 33,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desenvolvimento regional",
+     "forma_encontrada": "desenvolvimento regional",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "região amazônica",
+     "forma_encontrada": "Região Amazônica",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "desenvolvimento regional",
+     "forma_encontrada": "desenvolvimento regional",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "região amazônica",
+     "forma_encontrada": "Região Amazônica",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 682,
+     "trecho": "O SR. MOREIRA MENDES (PFL - RO. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srs. Senadores, quero iniciar o meu pronunciamento lendo alguns trechos de uma carta aberta subscrita por José Sales, Presidente da Associação dos Empregados do Banco da Amazônia, dirigida aos membros do Parlamento Amazônico, nos seguintes termos: A Constituição da República, em seus vários artigos (3º, 21, 43, 151, 159, 165, 192), preconizam a adoção de medidas visando à redução das desigualdades regionais em busca da justiça e do equilíbrio social e econômico da União, prevendo mecanismos compensatórios, visando ao desenvolvimento equilibrado da Federação."
+    },
+    {
+     "inicio_corpo": 682,
+     "fim_corpo": 1370,
+     "trecho": "Na prática, a maioria desses dispositivos até hoje é letra morta, nunca tendo sido regulamentados. O que se constata é o inverso: o Sudeste desenvolvido - exatamente a área que menos necessita de incentivos - é a Região mais bem aquinhoada com a chamada \"renúncia fiscal\", conforme dados da Receita Federal. Como agravante, as políticas de redução das disparidades regionais deixaram de existir. (...) Ademais, agora, o Governo Federal intenta golpear as instituições criadas com essa finalidade (Sudam, Sudene, BNB, Basa e outras)... No caso particular da Amazônia, finge-se ignorar que essa região é estratégica para o País, até mesmo em termos de segurança nacional."
+    },
+    {
+     "inicio_corpo": 682,
+     "fim_corpo": 1552,
+     "trecho": "Na prática, a maioria desses dispositivos até hoje é letra morta, nunca tendo sido regulamentados. O que se constata é o inverso: o Sudeste desenvolvido - exatamente a área que menos necessita de incentivos - é a Região mais bem aquinhoada com a chamada \"renúncia fiscal\", conforme dados da Receita Federal. Como agravante, as políticas de redução das disparidades regionais deixaram de existir. (...) Ademais, agora, o Governo Federal intenta golpear as instituições criadas com essa finalidade (Sudam, Sudene, BNB, Basa e outras)... No caso particular da Amazônia, finge-se ignorar que essa região é estratégica para o País, até mesmo em termos de segurança nacional. (...) Particularmente, o Banco da Amazônia está neste momento sob ameaça, instituição essa que ostenta uma tradição de quase 60 anos de relevantes serviços prestados à Região."
+    },
+    {
+     "inicio_corpo": 1229,
+     "fim_corpo": 2027,
+     "trecho": "No caso particular da Amazônia, finge-se ignorar que essa região é estratégica para o País, até mesmo em termos de segurança nacional. (...) Particularmente, o Banco da Amazônia está neste momento sob ameaça, instituição essa que ostenta uma tradição de quase 60 anos de relevantes serviços prestados à Região. (...) O Comitê das Instituições Financeiras Federais (COMIF) está em pleno processo de análise de medidas visando a destruí-lo, ainda que por morte lenta (inicialmente extinguindo sua rede de agências e área comercial, visando a uma possível fusão com a Sudam), para atender o compromisso do Governo para com o FMI, de abrir ainda mais o espaço mercadológico para bancos estrangeiros, mesmo às custas do abandono total da diretriz constitucional do desenvolvimento regional."
+    },
+    {
+     "inicio_corpo": 1370,
+     "fim_corpo": 2353,
+     "trecho": "(...) Particularmente, o Banco da Amazônia está neste momento sob ameaça, instituição essa que ostenta uma tradição de quase 60 anos de relevantes serviços prestados à Região. (...) O Comitê das Instituições Financeiras Federais (COMIF) está em pleno processo de análise de medidas visando a destruí-lo, ainda que por morte lenta (inicialmente extinguindo sua rede de agências e área comercial, visando a uma possível fusão com a Sudam), para atender o compromisso do Governo para com o FMI, de abrir ainda mais o espaço mercadológico para bancos estrangeiros, mesmo às custas do abandono total da diretriz constitucional do desenvolvimento regional. O documento traz informações técnicas e estatísticas sobre os relevantes serviços prestados pelo Basa na Região Amazônica e sugere que, ao invés de ser fechado ou transformado em agência de fomento, o Basa precisaria, sim, modernizar-se, ampliar a sua área de atuação e não encolher, como agora se pretende fazer."
+    },
+    {
+     "inicio_corpo": 2353,
+     "fim_corpo": 3149,
+     "trecho": "Conclui dizendo: Toda a sociedade regional está atenta e alerta na expectativa de que seus representantes legitimamente eleitos, não só para este Parlamento Amazônico como também para todo o Congresso Nacional, saberão sustar medidas que venham causar retrocessos ao processo de redução das disparidades em relação ao Centro-Sul do País. Sr. Presidente, Srªs e Srs. Senadores, volto hoje à tribuna desta Casa para reafirmar a minha preocupação a respeito de notícias que tenho lido recentemente na imprensa nacional, sobre a intenção do Governo de transformar as instituições financeiras regionais em agência de fomento. Defendi, na ocasião, a exclusão do Banco da Amazônia desse conjunto de iniciativas que as autoridades econômicas estão pensando em adotar."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0300::Urbano e rural",
+   "unit_id": "S0300",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-20",
+   "orador": "Moreira Mendes",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5277,
+     "fim_corpo": 6085,
+     "trecho": "Portanto, desde o tempo em que a atividade econômica local girava quase que exclusivamente em torno do extrativismo vegetal, como, por exemplo, a castanha e a borracha, essa instituição bancária era peça fundamental em sua evolução econômica e social. Por outro lado, como responsável há dez anos pela gestão do Fundo Constitucional de Financiamento do Norte (FNO), criado pela Constituição de 1988 e regulamentado em 1989, até dezembro de 1999, no Estado de Rondônia, o Banco da Amazônia investiu 304 milhões, atualizados pelo dólar cotado a R$1,75, valor que, na minha opinião, deveria ter sido maior. Aliás, isso foi objeto de crítica minha, mas não posso deixar de reconhecer que o valor é significativo e ajudou muito no desenvolvimento do nosso Estado. No que se refere ao setor rural, Sr."
+    },
+    {
+     "inicio_corpo": 8138,
+     "fim_corpo": 8935,
+     "trecho": "Quero nesse particular também lembrar que uma das maiores reivindicações dos pequenos Municípios do interior do meu Estado - não sei se o mesmo ocorre no Estado do Amazonas - é exatamente a presença de uma agência bancária. E é evidente que bancos particulares não terão o menor interesse em se instalar em pequenas cidades do interior, porque visam, sobretudo e primeiramente, o lucro, ao contrário do Basa, do Banco do Brasil, que são instituições que devem levar o fomento e o desenvolvimento. Como representante de Rondônia nesta Casa, tenho obrigação de defender os interesses e lutar pelo futuro da Região Amazônica. Por isso o Basa precisa continuar sendo o ponto de referência mais importante e mais forte para o produtor rural que desenvolve suas atividades no Norte do País."
+    },
+    {
+     "inicio_corpo": 12277,
+     "fim_corpo": 13174,
+     "trecho": "Tudo isso está inserido num contexto que só traz prejuízos para a Amazônia. O Basa é importante para a nossa Região. Ele tem dado tratamento especial ao pequeno produtor. No meu Estado, como foi dito aqui pelo Senador Jefferson Péres, embora tenha apenas seis agências, o Basa atua em ampla faixa, leva o crédito direto a pequenos produtores. É importante que seja mantido, uma vez que o Banco do Brasil já tem poucas agências na Região, que a Caixa Econômica extinguiu as agências que tinha no interior, que os bancos privados não têm interesse em se estabelecer no interior, porque são apenas captadores de recursos. Se tirarmos o único órgão oficial que ainda tem presença no interior da Amazônia, ficaremos sem nenhuma agência de financiamento. Isso sem citar esse trabalho social de que V. Exª fala, feito pelas agências, para pagamento de Funrural, pagamentos de funcionários públicos, etc."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0301::Cultura e informação",
+   "unit_id": "S0301",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-20",
+   "orador": "Carlos Patrocínio",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "bibliotecas",
+     "forma_encontrada": "bibliotecas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 714,
+     "fim_corpo": 1606,
+     "trecho": "Ora, se há algo quanto a que estamos de acordo, independentemente de nossas idéias políticas, é o fato de que não desejamos ver o Brasil ancorado ao grupo dos incapazes de produzir conhecimento e tecnologia. Queremos um País próspero e rico, que se ombreie em igualdade de condições com os países que já atingiram um grau elevado de desenvolvimento econômico. Mas como esse desenvolvimento econômico está, como já disse, atrelado à capacidade de inovação nas ciências e nas tecnologias, precisamos cuidar de fomentar a capacidade de nossos centros de pesquisa. Acontece que manter centros de pesquisa ativos não é coisa barata: implica investimento, e investimento pesado. Trata-se, primeiro, de formar pesquisadores capacitados, o que demanda tempo e recursos. Além disso, é preciso equipar laboratórios, oficinas, manter bibliotecas sempre atualizadas, o que tampouco é barato."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0301::Renda e classe",
+   "unit_id": "S0301",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-20",
+   "orador": "Carlos Patrocínio",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "carente",
+     "forma_encontrada": "carente",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobre",
+     "forma_encontrada": "pobre",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 491,
+     "trecho": "O SR. CARLOS PATROCÍNIO (PFL - TO) – Sr. Presidente, Srªs e Srs. Senadores, no mundo globalizado e no mercado competitivo de nossos dias, a possibilidade de um país conseguir vantagens nas trocas comerciais e de conhecimento está cada dia mais dependente de sua capacidade de produção científica e tecnológica própria. À velha dicotomia entre países desenvolvidos e ricos, de um lado, e atrasados e pobres, de outro, sobrepõe-se agora o contraste entre produtores e importadores de saberes."
+    },
+    {
+     "inicio_corpo": 3217,
+     "fim_corpo": 4095,
+     "trecho": "Isso, porém, não havia sido feito até agora, e as conseqüências do abandono a que foram relegados os muitos centros de excelência que existiam já se fazem sentir. É suficiente visitar um departamento qualquer de ciência básica ou de tecnologia de nossas melhores universidades para constatar o desalento que se abateu sobre os professores e pesquisadores que ainda insistem em fazer pesquisa nessas instituições, face à penúria de recursos e o desestímulo ao aprimoramento acadêmico com que convivem hoje. Depois de tantos recursos públicos despendidos ao longo de tantos anos, permitir que se deteriore a qualidade da pesquisa e do ensino produzido por esses centros de excelência não é somente uma pena, mas um grande desperdício. E se há alguma coisa que não podemos mais permitir em nosso País, tão carente de recursos e tão cheio de urgências, é o desperdício."
+    },
+    {
+     "inicio_corpo": 6745,
+     "fim_corpo": 7554,
+     "trecho": "Por isso, as decisões a respeito de quanto deve receber cada área de pesquisa devem ser, o mais possível, democratizadas. A participação de setores mais amplos da sociedade, e não somente dos representantes do Governo e da iniciativa privada deve ser garantida. Uma instituição como a Sociedade Brasileira para o Progresso da Ciência, por exemplo, deve ser ouvida, assim como outras organizações civis, ligadas ou não à comunidade acadêmica. Tal ressalva é ainda mais válida porque os resultados positivos de uma pesquisa nem sempre se traduzirão em negócios, mas, muitas vezes, trarão mais benefícios sociais do que dividendos financeiros. É o caso, por exemplo, de pesquisas em soluções simples para tratamento de moléstias comuns na população pobre, empregando remédios tradicionais populares."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0302::Posição no trabalho",
+   "unit_id": "S0302",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-21",
+   "orador": "Gerson Camata",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 362,
+     "trecho": "O SR. GERSON CAMATA (PMDB - ES) - Sr. Presidente, Srªs. e Srs. Senadores, no momento em que o Brasil luta para abrir novas frentes de trabalho e busca estabilizar um já elevado índice de desemprego, tenho a satisfação de registrar o início das atividades, na manhã de hoje, do primeiro Call Center Embratel no Espírito Santo, instalado em Itaparica, Vila Velha."
+    },
+    {
+     "inicio_corpo": 941,
+     "fim_corpo": 2626,
+     "trecho": "Tão logo esteja operando com capacidade plena, o que deverá ocorrer nos próximos meses, a central de atendimentos empregará mil e duzentos profissionais. O que nos traz imensa alegria é o fato de que até o momento 70 por cento das posições já foram preenchidas, significando a contratação direta de 840 pessoas. Estão sendo oferecidos postos para profissionais de nível médio, na função de representantes, que são os responsáveis pelo atendimento telefônico ao público, e de nível superior, com a contratação de funcionários que atuarão nas áreas administrativa, de supervisão e de gerência. Para o pessoal de nível médio o salário inicial foi fixado em 500 reais, enquanto que para os quadros de nível superior, a remuneração média alcança a cifra de dois mil reais, com o menor salário atingindo mil e quinhentos reais. Ora, quando a grande luta que o trabalhador brasileiro enfrenta hoje é a luta pela manutenção do emprego, no exato momento em que sofremos os duros ajustes da penosa, porém inexorável, emergência da chamada nova economia, a abertura de mil e duzentos novos postos de trabalho é razão mais do que suficiente para celebrarmos. E sinto-me especialmente gratificado, visto que patrocinei integralmente esta iniciativa. Por tudo isso, Sr. Presidente, ao encerrar este rápido registro, congratulo-me com a Embratel, uma empresa absolutamente consciente de suas responsabilidades sociais, com o Governador José Ignácio, com o Prefeito Jorge Anders, e com a minha gente do Espírito Santo, em especial com a população de Vila Velha, por mais esta importante conquista que, em nome do povo capixaba, tive a honra de liderar. Muito obrigado."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0303::Domicílio e arranjo familiar",
+   "unit_id": "S0303",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-26",
+   "orador": "Alvaro Dias",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "residência",
+     "forma_encontrada": "residência",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11322,
+     "fim_corpo": 12088,
+     "trecho": "É essa lógica que não entendemos. Essa lógica do Governo é de difícil entendimento, Senador Arlindo Porto. O Sr. Arlindo Porto (PTB - MG) - Senador Álvaro Dias, V. Exª concede-me um aparte? O SR. ÁLVARO DIAS (PSDB - PR) - Com satisfação, concedo a V. Exª. Realmente, mais importante do que qualquer discurso é a soma do posicionamento dos Senadores desta Casa para que possamos ainda nesta semana, provavelmente, tomar uma posição já que a história haverá de nos julgar também em relação ao nosso comportamento no que diz respeito à entrega do patrimônio púbico brasileiro. O SR. PRESIDENTE (Geraldo Melo) – A Presidência informa ao orador que o seu tempo já está esgotado, mas, naturalmente, a Casa deseja ouvir o aparte do Senador Arlindo Porto."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0303::Renda e classe",
+   "unit_id": "S0303",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-26",
+   "orador": "Alvaro Dias",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "baixa renda",
+     "forma_encontrada": "baixa renda",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3990,
+     "fim_corpo": 4849,
+     "trecho": "Por acaso o Citibank financiará os agricultores do nosso País? Na verdade, ficaremos entregues aos nossos competidores que, além de ditarem os preços de commodities internacionais em uma batalha nas bolsas de valores, poderão ditar os preços dos nossos produtos agrícolas e, mais do que isso, enquanto subsidiam a sua agricultura, escolherão também o tamanho da nossa produção. Sem a Caixa Econômica Federal, quem reterá a pequena poupança nacional? O Sr. Bernardo Cabral (PFL – AM) – Permite-me V. Exª um aparte, Senador Álvaro Dias? O SR. ÁLVARO DIAS (PSDB - PR) – Pois não, Senador Bernardo Cabral. Logo concederei o aparte a V. Exª. Antes de concluir. Quem reterá a pequena poupança nacional e o já pequeno financiamento da casa própria, das moradias populares? Que grupo internacional financiará a nossa população de baixa renda?"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0303::Urbano e rural",
+   "unit_id": "S0303",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-26",
+   "orador": "Alvaro Dias",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campo",
+     "forma_encontrada": "campo",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4374,
+     "fim_corpo": 5120,
+     "trecho": "Sem a Caixa Econômica Federal, quem reterá a pequena poupança nacional? O Sr. Bernardo Cabral (PFL – AM) – Permite-me V. Exª um aparte, Senador Álvaro Dias? O SR. ÁLVARO DIAS (PSDB - PR) – Pois não, Senador Bernardo Cabral. Logo concederei o aparte a V. Exª. Antes de concluir. Quem reterá a pequena poupança nacional e o já pequeno financiamento da casa própria, das moradias populares? Que grupo internacional financiará a nossa população de baixa renda? O Citibank - de quem falei há pouco - já está no Brasil há mais cinqüenta anos, e nunca vi qualquer atividade deste banco no interior, atendendo o homem do campo; aliás, o não faz parte da filosofia nem dos objetivos de lucro fácil dessas instituições financeiras."
+    },
+    {
+     "inicio_corpo": 7992,
+     "fim_corpo": 8929,
+     "trecho": "Portanto, em apenas quatro meses, o superávit foi o dobro do previsto para o ano, em face dos lucros obtidos pela Petrobrás no primeiro trimestre. Esperava-se um saldo de 1,1 bilhão do conjunto das empresas federais. Contudo, até abril, obtiveram-se 2,3 bilhões. O excesso de superávit nesse período foi de 1,2 bilhão e decorreu do lucro da Petrobrás exatamente com a elevação dos preços do óleo. O Governo apartou 330 milhões para financiar o Plano de Segurança Pública. Assim, ainda restariam 870 milhões disponíveis para gastar. Logo, Sr. Presidente, esses são os fatos que ressaltam a importância da preservação do patrimônio da Petrobrás, de forma intocável. E lemos constantemente as manchetes dos jornais dizendo: Petróleo atinge preço mais alto em três meses; Governo deve anunciar campo de petróleo no Espírito Santo; Pesquisas indicam alta probabilidade de descobertas em águas profundas; O anúncio oficial pode demorar."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0304::Macrorregião",
+   "unit_id": "S0304",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-06-26",
+   "orador": "Jader Barbalho",
+   "n_ocorrencias_no_par": 19,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 13,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "região amazônica",
+     "forma_encontrada": "Região Amazônica",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Amazônia",
+     "forma_encontrada": "Amazônia",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 345,
+     "trecho": "O SR. JADER BARBALHO (PMDB – PA. Como Líder, pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, venho à tribuna para reafirmar manifestação anterior em relação aos estudos de privatização do Banco do Brasil, da Caixa Econômica Federal, do Banco do Nordeste e, de modo especial, do Banco da Amazônia."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 345,
+     "trecho": "O SR. JADER BARBALHO (PMDB – PA. Como Líder, pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, venho à tribuna para reafirmar manifestação anterior em relação aos estudos de privatização do Banco do Brasil, da Caixa Econômica Federal, do Banco do Nordeste e, de modo especial, do Banco da Amazônia."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 690,
+     "trecho": "O SR. JADER BARBALHO (PMDB – PA. Como Líder, pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, venho à tribuna para reafirmar manifestação anterior em relação aos estudos de privatização do Banco do Brasil, da Caixa Econômica Federal, do Banco do Nordeste e, de modo especial, do Banco da Amazônia. Tomo conhecimento de que, durante esta semana, setores da área econômica do Governo estarão a dar seqüência aos estudos realizados por uma consultoria estrangeira contratada pelo Governo, para estabelecer o que seria o novo formato dessas agências de financiamento regional, no caso específico do Banco do Nordeste e do Banco da Amazônia."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 690,
+     "trecho": "O SR. JADER BARBALHO (PMDB – PA. Como Líder, pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, venho à tribuna para reafirmar manifestação anterior em relação aos estudos de privatização do Banco do Brasil, da Caixa Econômica Federal, do Banco do Nordeste e, de modo especial, do Banco da Amazônia. Tomo conhecimento de que, durante esta semana, setores da área econômica do Governo estarão a dar seqüência aos estudos realizados por uma consultoria estrangeira contratada pelo Governo, para estabelecer o que seria o novo formato dessas agências de financiamento regional, no caso específico do Banco do Nordeste e do Banco da Amazônia."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 821,
+     "trecho": "O SR. JADER BARBALHO (PMDB – PA. Como Líder, pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, venho à tribuna para reafirmar manifestação anterior em relação aos estudos de privatização do Banco do Brasil, da Caixa Econômica Federal, do Banco do Nordeste e, de modo especial, do Banco da Amazônia. Tomo conhecimento de que, durante esta semana, setores da área econômica do Governo estarão a dar seqüência aos estudos realizados por uma consultoria estrangeira contratada pelo Governo, para estabelecer o que seria o novo formato dessas agências de financiamento regional, no caso específico do Banco do Nordeste e do Banco da Amazônia. Desejo registrar nos Anais do Senado Federal alguns dados que terão de ser levados em conta em relação ao Banco da Amazônia."
+    },
+    {
+     "inicio_corpo": 6,
+     "fim_corpo": 1052,
+     "trecho": "JADER BARBALHO (PMDB – PA. Como Líder, pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, venho à tribuna para reafirmar manifestação anterior em relação aos estudos de privatização do Banco do Brasil, da Caixa Econômica Federal, do Banco do Nordeste e, de modo especial, do Banco da Amazônia. Tomo conhecimento de que, durante esta semana, setores da área econômica do Governo estarão a dar seqüência aos estudos realizados por uma consultoria estrangeira contratada pelo Governo, para estabelecer o que seria o novo formato dessas agências de financiamento regional, no caso específico do Banco do Nordeste e do Banco da Amazônia. Desejo registrar nos Anais do Senado Federal alguns dados que terão de ser levados em conta em relação ao Banco da Amazônia. Desde logo, assinalo que, se existem equívocos, erros e irregularidades no Banco da Amazônia, no Banco do Nordeste, no Banco do Brasil e na Caixa Econômica Federal, tem o Governo, em favor da sociedade, a obrigação de corrigi-los."
+    }
+   ]
+  }
+ ]
+}

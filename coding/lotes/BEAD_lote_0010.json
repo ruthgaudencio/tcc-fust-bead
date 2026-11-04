@@ -1,0 +1,886 @@
+{
+ "caso": "BEAD",
+ "lote": 10,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0035::Urbano e rural",
+   "unit_id": "W0035",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Matt Crescenzo",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 103,
+     "trecho": "“Small Businesses and Their Limitations Without Reliable Access to Rural Broadband.” Testimony of Mr."
+    },
+    {
+     "inicio_corpo": 2145,
+     "fim_corpo": 3880,
+     "trecho": "Ha. We fumble through our day using the local internet. It is as important now as it was when I started this business. We even have a dedicated line of 10 megs up and 10 megs down which wouldnt get you a hotdog in the twin cities and it runs us $277 a month. We deal with dropped calls when using internet to rebooting our modem several times a day. I thought I was alone. For years we were rebooting our modem in the house in the shop. It wasnt until my friends and neighbors told me they do the same thing. Our business relies on customer experience not volume but the network of very happy customers to keep us busy and boy are we busy. It is crucial to our success that we can upload training videos, download customer files and talk on the phone without interruption. The infrastructure is toast out here. The technology has moved beyond our rural areas 20 years ago. I have seen businesses close because they cannot have a robust security system tied to the internet or really cannot develop without access to high speed internet, businesses moving out of state not only because of local ordinances but because of the vast desert of little to no speed internet we have here. Friends and neighbors we need real help for our community to prosper. I commend these folks before us for shining a bright light on our dimly lit network. Communication between people is what makes good communities and binds the heart of mankind. The invention of the internet was brilliant.... and I believe... inevitable. However without bolstering our community and supporting ideas like this we remaining in a dark age. The industrial revolution is not over... it has changed. In many ways it has gotten cleaner, better and smarter."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0036::Domicílio e arranjo familiar",
+   "unit_id": "W0036",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Gordon Smith",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1558,
+     "fim_corpo": 2475,
+     "trecho": "Our communities turn to local stations to get the weather report, learn how to help neighbors in need and watch trusted local news anchors deliver an unbiased report of what is happening in their hometowns. Local broadcasting is the critical electronic thread that keeps every community together, informed and safe. One shining example is Hearst Television-owned WTAE-TV in Pittsburgh. WTAE serves its viewers with 38 hours of local news each week and has received numerous local and national awards for its investigative reporting. Pittsburgh viewers turn to WTAE for special local programming such as Chronicle, a series of hour-long news specials on relevant topics to Western Pennsylvanians ranging from the high number of families struggling with food insecurity to most recently, a town hall meeting from the Pittsburgh neighborhood where a gunman murdered 11 innocent people inside the Tree of Life synagogue."
+    },
+    {
+     "inicio_corpo": 4380,
+     "fim_corpo": 5257,
+     "trecho": "As a result, today’s media marketplace is virtually unrecognizable compared to 1988, and is even dramatically different from the one that was the subject of discussion during STELAR’s passage five years ago. Today’s competition for viewers comes not only from giant pay-TV providers such as AT&T-DIRECTV and Charter, but also 4 unregulated tech companies such as Facebook and Google, and online video providers like Netflix and Amazon. This competition benefits consumers in the form of more choice and lower prices. But for broadcasters, the competition for viewers and the advertising dollars that fuel our locally-focused programming and investigative journalism has never been more intense. As of last summer, over 200 over-the-top video services were available in the U.S., and about 70 percent of American households subscribed to Netflix, Amazon Prime and/or Hulu."
+    },
+    {
+     "inicio_corpo": 7291,
+     "fim_corpo": 8273,
+     "trecho": "Instead, we are asking this committee to preserve policies that enable investment in local programming and to not extend outdated and asymmetrical regulations that disadvantage broadcasters – and only broadcasters – against our competition. Congress can achieve these goals and update its laws simply by allowing STELAR to expire at the end of this year. STELAR’s Harm to Local Viewers Must Be Stopped Thirty years ago, nascent satellite television companies were temporarily given a significantly discounted copyright license that allowed them to better compete with big cable monopolies at a time when there were millions of Americans who could not receive their local broadcast stations over the air, from cable or from satellite. On a temporary basis, Congress allowed the satellite companies to serve those households with a broadcast station operating outside of the local community, typically from a major city, so viewers could receive their favorite network programming."
+    },
+    {
+     "inicio_corpo": 8273,
+     "fim_corpo": 9209,
+     "trecho": "This policy was the foundation for STELAR and all of its predecessors dating back to SHVA in 1988. Congress has succeeded in SHVA’s policy goal of injecting significant competition in the video distribution marketplace that is now flourishing. Yet, those nascent satellite companies that Congress subsidized are now media behemoths: AT&T-DIRECTV is a $235 billion company, and DISH is a $17 billion company. There are no technological impediments to providing satellite viewers with their local broadcast stations rather than out-of-market substitutes. In fact, DISH is not only providing this service in all 210 local markets today but has been for nearly a decade. Today, AT&T-DIRECTV and DISH provide local broadcast channels to the vast majority of their subscribers across the country (only AT&T-DIRECTV does not serve all 210 television markets). The number of households being denied their local network channels is shrinking."
+    },
+    {
+     "inicio_corpo": 8518,
+     "fim_corpo": 9604,
+     "trecho": "Yet, those nascent satellite companies that Congress subsidized are now media behemoths: AT&T-DIRECTV is a $235 billion company, and DISH is a $17 billion company. There are no technological impediments to providing satellite viewers with their local broadcast stations rather than out-of-market substitutes. In fact, DISH is not only providing this service in all 210 local markets today but has been for nearly a decade. Today, AT&T-DIRECTV and DISH provide local broadcast channels to the vast majority of their subscribers across the country (only AT&T-DIRECTV does not serve all 210 television markets). The number of households being denied their local network channels is shrinking. Although only AT&T-DIRECTV and DISH have access to the 6 precise numbers, it is estimated that around 500,000 households that subscribed to satellite TV service in 2017 were denied their local ABC, CBS, FOX or NBC broadcast channels and instead received an imported signal from another market, primarily from New York City or Los Angeles, under the expiring STELAR distant signal provisions."
+    },
+    {
+     "inicio_corpo": 8941,
+     "fim_corpo": 9817,
+     "trecho": "Today, AT&T-DIRECTV and DISH provide local broadcast channels to the vast majority of their subscribers across the country (only AT&T-DIRECTV does not serve all 210 television markets). The number of households being denied their local network channels is shrinking. Although only AT&T-DIRECTV and DISH have access to the 6 precise numbers, it is estimated that around 500,000 households that subscribed to satellite TV service in 2017 were denied their local ABC, CBS, FOX or NBC broadcast channels and instead received an imported signal from another market, primarily from New York City or Los Angeles, under the expiring STELAR distant signal provisions. The STELAR distant signal license allows the billion-dollar satellite companies to import out-of-market TV channels for those 500,000 households instead of providing these viewers their local broadcast stations."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0036::Idade",
+   "unit_id": "W0036",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Gordon Smith",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1874,
+     "fim_corpo": 2762,
+     "trecho": "One shining example is Hearst Television-owned WTAE-TV in Pittsburgh. WTAE serves its viewers with 38 hours of local news each week and has received numerous local and national awards for its investigative reporting. Pittsburgh viewers turn to WTAE for special local programming such as Chronicle, a series of hour-long news specials on relevant topics to Western Pennsylvanians ranging from the high number of families struggling with food insecurity to most recently, a town hall meeting from the Pittsburgh neighborhood where a gunman murdered 11 innocent people inside the Tree of Life synagogue. Further, viewers partner with WTAE-TV and the Salvation Army to serve those less fortunate in their community. For 33 years, WTAE’s Project Bundle-Up 3 program has raised more than $14.5 million to provide nearly 300,000 children and senior citizens with warm clothing during winter."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0037::Idade",
+   "unit_id": "W0037",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. John Bergmayer",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 319,
+     "trecho": "Testimony of John Bergmayer Senior Counsel Public Knowledge Before the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology Hearing on: STELAR Review: Protecting Consumers in an Evolving Media Marketplace Washington, D.C."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0037::Infraestrutura e porte populacional",
+   "unit_id": "W0037",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. John Bergmayer",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 945,
+     "trecho": "Testimony of John Bergmayer Senior Counsel Public Knowledge Before the United States House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology Hearing on: STELAR Review: Protecting Consumers in an Evolving Media Marketplace Washington, D.C. June 4, 2019 1 Congress must reauthorize STELAR or, even better, make it permanent. 870,000 satellite subscribers should not be a bargaining chip in the decades-long disputes between broadcasters and MVPDs. This law, of course, has gone by many names. But whether it is called SHVA,1 SHVIA,2 SHVERA,3 STELA,4 or STELAR,5 it has ensured that satellite television companies can continue to retransmit local broadcast stations to all of their customers. It is an important building block of video competition, allowing viewers who live in unserved areas to continue receiving a full range of national programming."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0038::Idade",
+   "unit_id": "W0038",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Robert Thun",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 452,
+     "trecho": "1 Before the United States House of Representatives Committee on Energy and Commerce, Subcommittee on Communications and Technology Hearing: “STELAR Review: Protecting Consumers In An Evolving Media Marketplace.” Written Statement of Rob Thun: AT&T Senior Vice President Content and Programming Thank you Chairman Pallone, Ranking Member Walden, Subcommittee Chairman Doyle, Subcommittee Ranking Member Latta, and Members of the Committee."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 528,
+     "trecho": "1 Before the United States House of Representatives Committee on Energy and Commerce, Subcommittee on Communications and Technology Hearing: “STELAR Review: Protecting Consumers In An Evolving Media Marketplace.” Written Statement of Rob Thun: AT&T Senior Vice President Content and Programming Thank you Chairman Pallone, Ranking Member Walden, Subcommittee Chairman Doyle, Subcommittee Ranking Member Latta, and Members of the Committee. I am Rob Thun, Senior Vice President of Content and Programming for AT&T."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0038::Raça e etnia",
+   "unit_id": "W0038",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Robert Thun",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "minority",
+     "forma_encontrada": "Minority",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1521,
+     "fim_corpo": 2450,
+     "trecho": "Now, with consumers having a multitude of options to watch their content, those statutory protections are no longer necessary and only serve to harm consumers and competition. From 2008 to 2018, local broadcaster fees for carrying these stations have risen from about $500 million to $10.1 billion, a nearly 2,000% increase.1 When MVPDs2 attempt to limit the increases in these fees (much less try to lower them), local broadcasters, shielded by their special statutory protections, reflexively respond with blackouts. Indeed, these antiquated laws have unfairly penalized the nearly 90 million3 customers that have chosen to keep their traditional pay-TV service. That is why AT&T has long supported legislative efforts to end the retransmission consent regime, and we applaud the efforts of Minority Whip Scalise4 and Representative Eshoo5 to reform the system and end broadcaster blackouts and consumer harm."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0038::Urbano e rural",
+   "unit_id": "W0038",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Robert Thun",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2832,
+     "fim_corpo": 3689,
+     "trecho": "3 Q4'18 multichannel video losses propel full-year drop to nearly 4 million, S&P Global Market Intelligence, March 2019, https://www.prnewswire.com/news-releases/q418-multichannel-video-losses-propel-full-year-drop-to-nearly- 4-million-300810067.html. 4 Next Generation Television Marketplace Act, H.R.6465, 115th Congress (2018). 5 Video Choice Act, H.R. 3719, 133th Congress (2013). 2 We also strongly support renewal of the STELA Reauthorization Act of 2014 (P.L. 113- 200) (“STELAR”), which will expire at the end of 2019. It contains provisions that continue to benefit consumers, including the statutory copyright license permitting satellite carriers to provide network programming to more than 870,000 satellite subscribers. These include hundreds of thousands of rural homes that were left behind by broadcasters and cable providers."
+    },
+    {
+     "inicio_corpo": 3086,
+     "fim_corpo": 3843,
+     "trecho": "4 Next Generation Television Marketplace Act, H.R.6465, 115th Congress (2018). 5 Video Choice Act, H.R. 3719, 133th Congress (2013). 2 We also strongly support renewal of the STELA Reauthorization Act of 2014 (P.L. 113- 200) (“STELAR”), which will expire at the end of 2019. It contains provisions that continue to benefit consumers, including the statutory copyright license permitting satellite carriers to provide network programming to more than 870,000 satellite subscribers. These include hundreds of thousands of rural homes that were left behind by broadcasters and cable providers. Congress should take this opportunity to make permanent the satellite distant-signal license that brings network programming to these rural customers."
+    },
+    {
+     "inicio_corpo": 9849,
+     "fim_corpo": 10635,
+     "trecho": "Now, these laws stubbornly protect broadcasters from the inexorable changes occurring in the video marketplace, and thus distort and stymie innovation and consumer choice. As competition first came from satellite, and now from over-the-top providers, local broadcasters have relied on their special statutory protection to more effectively use the threat of blackouts to dramatically increase retransmission fees. As a result, these broadcasters have dramatically raised retransmission fees, as detailed above. As retransmission fees go up each year, which represent the fastest rising part of consumers’ pay-TV bills, it leaves fewer resources for MVPDs to pay for things like innovative offers, independent programming and the expansion of broadband into rural areas."
+    },
+    {
+     "inicio_corpo": 13308,
+     "fim_corpo": 14142,
+     "trecho": "The first requires broadcasters and MVPDs to negotiate with one another in “good faith.” This requirement serves as an important backstop that places guideposts around negotiations. We still have issues with stations refusing to negotiate or respond to an offer, and the good faith provision helps move those negotiations along. The second provides a statutory copyright license (called the “distant-signal license”), permitting satellite carriers to offer out-of-market network signals to customers who otherwise cannot obtain an over-the-air network signal. DIRECTV and DISH rely on the distant signal license to provide high-quality satellite network TV service to more than 870,000 satellite subscribers. These subscribers include hundreds of thousands of rural locations that were left behind by broadcasters."
+    },
+    {
+     "inicio_corpo": 14549,
+     "fim_corpo": 15657,
+     "trecho": "In addition, the distant signal license allows us to provide distant signals to mobile/recreational vehicles or commercial trucks, thereby allowing long-haul trucks, RV and camping enthusiasts, and tailgating sports fans access to satellite network TV service. In all cases, failure to renew STELAR would remove channels from people who legally receive them today -- many of whom have done so for years -- and who would not understand why those channels were taken away. Finally, Congress should take this opportunity to make the license permanent as it is for cable. Preservation of these customers’ TV services is why it is so important for Congress to permanently reauthorize the distant signal license. Otherwise, these largely rural subscribers will lose access to network TV programming that most Americans take for granted. **** AT&T thanks the committee for holding this important hearing to examine the state of the media marketplace and we look forward to engaging with Members on both sides of the aisle with fresh and creative ideas to benefit onsumers and competition."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0039::Domicílio e arranjo familiar",
+   "unit_id": "W0039",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mrs. Patricia Boyers",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4175,
+     "fim_corpo": 4586,
+     "trecho": "I’d like to talk to you about how the video business looks from my small corner of Missouri, and my story may sound a little different than what you are likely to hear from my esteemed co-panelists. My husband and I started BOYCOM VISION in 1992. With our own money, we built our first system to serve our friends, family, and others living in the foothills of the Ozark Mountains of southeast Missouri."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0039::Educação",
+   "unit_id": "W0039",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mrs. Patricia Boyers",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4377,
+     "fim_corpo": 5184,
+     "trecho": "My husband and I started BOYCOM VISION in 1992. With our own money, we built our first system to serve our friends, family, and others living in the foothills of the Ozark Mountains of southeast Missouri. Because banks weren’t eager to lend to small rural providers and getting Rural Utilities Service loans as a cable operator was impossible, we did it on our own, which meant taking out a second mortgage on our home and our farm as collateral for our capital investment. Over time, we invested more in our systems to ensure that our customers had access to advanced services. Today we provide broadband at speeds comparable to those in urban areas to about 3,000 residential subscribers, local businesses, and anchor institutions, including free service to our middle and elementary schools."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0039::Idade",
+   "unit_id": "W0039",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mrs. Patricia Boyers",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8191,
+     "fim_corpo": 9063,
+     "trecho": "Indeed, in seeking retransmission consent, NAB specifically said that it had nothing to do with networks at all.2 Yet we all know that, in today’s world, most of our subscribers’ fees go to the networks in New York or to huge multi-station conglomerates, and we hear that from the smaller broadcasters who complain to us (but not to you) about the scheme that they too have to live within. And we all know that almost none of these fees goes to local news or other locally originated programming. Third, retransmission consent is merely one government rule in a complex web of regulation, most of which favors broadcasters – hardly a real “marketplace.”3 The drafters of the 1992 Cable Act would be horrified to see the unintended results of their concept. And I’m here to tell you that recent changes in the marketplace have made the situation much worse."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0039::Renda e classe",
+   "unit_id": "W0039",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mrs. Patricia Boyers",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "poverty line",
+     "forma_encontrada": "poverty line",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4965,
+     "fim_corpo": 5894,
+     "trecho": "Today we provide broadband at speeds comparable to those in urban areas to about 3,000 residential subscribers, local businesses, and anchor institutions, including free service to our middle and elementary schools. Our systems are very rural and are these are the kinds of places I hear Congress talk about all the time as needing help to ensure there is broadband everywhere. Let me explain what my reality of Written Statement of Patricia Jo Boyers June 4, 2019 Page 2 providing broadband service looks like in the Ozarks and why I urge you to help small operators like me to help you solve your national challenge of providing world class services everywhere. We have a population density of 18 homes per mile passed. And all eight of our core systems are in what we in Missouri call “perpetually impoverished counties.” This means they have been below the poverty line consistently since the 1960 census."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0039::Urbano e rural",
+   "unit_id": "W0039",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mrs. Patricia Boyers",
+   "n_ocorrencias_no_par": 15,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 9,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1796,
+     "fim_corpo": 2781,
+     "trecho": "This means that broadcasters have more market power than ever before, and certainly more than Congress expected, and cable subscribers pay the price. So things are bad for everyone. But they are especially bad for smaller providers like mine. The FCC says that we pay at least one-third more for retransmission consent than do larger providers – even though the programming is the same and the cost of delivery is the same. Why? Large broadcasters simply don’t care if they aren’t carried on systems like mine, so they can charge more. How bad have things gotten? Some of the smallest providers have exited the video business entirely, and every small provider (including me) has considered the possibility. In the meantime, problems in the retransmission consent market have hindered us from upgrading our broadband networks and deploying in the most rural of areas, all of which contradicts constant bipartisan and bicameral calls for solving the digital divide."
+    },
+    {
+     "inicio_corpo": 4175,
+     "fim_corpo": 4858,
+     "trecho": "I’d like to talk to you about how the video business looks from my small corner of Missouri, and my story may sound a little different than what you are likely to hear from my esteemed co-panelists. My husband and I started BOYCOM VISION in 1992. With our own money, we built our first system to serve our friends, family, and others living in the foothills of the Ozark Mountains of southeast Missouri. Because banks weren’t eager to lend to small rural providers and getting Rural Utilities Service loans as a cable operator was impossible, we did it on our own, which meant taking out a second mortgage on our home and our farm as collateral for our capital investment."
+    },
+    {
+     "inicio_corpo": 4175,
+     "fim_corpo": 4858,
+     "trecho": "I’d like to talk to you about how the video business looks from my small corner of Missouri, and my story may sound a little different than what you are likely to hear from my esteemed co-panelists. My husband and I started BOYCOM VISION in 1992. With our own money, we built our first system to serve our friends, family, and others living in the foothills of the Ozark Mountains of southeast Missouri. Because banks weren’t eager to lend to small rural providers and getting Rural Utilities Service loans as a cable operator was impossible, we did it on our own, which meant taking out a second mortgage on our home and our farm as collateral for our capital investment."
+    },
+    {
+     "inicio_corpo": 4377,
+     "fim_corpo": 5348,
+     "trecho": "My husband and I started BOYCOM VISION in 1992. With our own money, we built our first system to serve our friends, family, and others living in the foothills of the Ozark Mountains of southeast Missouri. Because banks weren’t eager to lend to small rural providers and getting Rural Utilities Service loans as a cable operator was impossible, we did it on our own, which meant taking out a second mortgage on our home and our farm as collateral for our capital investment. Over time, we invested more in our systems to ensure that our customers had access to advanced services. Today we provide broadband at speeds comparable to those in urban areas to about 3,000 residential subscribers, local businesses, and anchor institutions, including free service to our middle and elementary schools. Our systems are very rural and are these are the kinds of places I hear Congress talk about all the time as needing help to ensure there is broadband everywhere."
+    },
+    {
+     "inicio_corpo": 12814,
+     "fim_corpo": 13565,
+     "trecho": "What has this all meant? Broadcasters have even more market power than they did five years ago and charge even higher prices. This means that cable subscribers now pay more and more each month for retransmission consent. It means that blackouts are at or near an all-time high.8 It means that the market is failing, and consumers are paying the price. In terms of what these costs look like since enactment of the retransmission consent rules, consumers have seen quadruple-digit increases in retransmission consent fees and yet have less local content and less choice than before the law was enacted. These changes are bad for everyone. But they are especially bad for small cable operators like mine and for customers in rural areas."
+    },
+    {
+     "inicio_corpo": 14097,
+     "fim_corpo": 14915,
+     "trecho": "You don’t have to take my word for it. Last December, the FCC released a report that contained new information about retransmission consent rates paid to broadcasters by different types of cable operators.9 The report showed that small cable 8 See https://www.americantelevisionalliance.org/wp-content/uploads/2019/05/Retrans-Blackouts-Media- Center-.pdf (containing up-to-date list of blackouts). 9 Communications Marketplace Report, Report, FCC No. 18-181, GN Docket No. 18-231 (rel. Dec. 26, 2018). Written Statement of Patricia Jo Boyers June 4, 2019 Page 6 systems, which we know are primarily located in rural areas, pay even more for broadcast signals than do large systems, which we know are primarily located in urban and suburban areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0040::Administração pública",
+   "unit_id": "W0040",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Dan Stelpflug",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 16541,
+     "fim_corpo": 17507,
+     "trecho": "These parameters are important to ensure providers cannot cherrypick testing frequency and time of day to yield the most favorable results. As an RBE grant recipient, my cooperative will be subject to these requirements, as will many other NRECA members who were awarded bids in the CAF II auction. NRECA will continue working with the FCC toward implementation of the framework with an eye toward ensuring a final implementation plan is workable for small businesses. We will keep Congress apprised of these developments. Further, some level of verification will be needed to ensure accuracy of broadband data filings. Verification could include a challenge process by which consumers have a remedy should they not receive the speeds reported by their provider. Such a process would enable various types of entities, including local governments, existing broadband providers and consumers, to provide public feedback with a determined resolution process."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0040::Domicílio e arranjo familiar",
+   "unit_id": "W0040",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Dan Stelpflug",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8094,
+     "fim_corpo": 8948,
+     "trecho": "Had we known that the subscriber count was inaccurate, our bid per subscriber would have been incrementally higher. While preparing progress reports required by the FCC, we discovered a discrepancy in the number of potential customers; instead of 665 locations as indicated by FCC data, we counted 510, or 23% less than anticipated. The FCC was asked to verify how their count was determined, and it would not verify the process; it would only provide the count. ACEC then developed the following process to determine potential customer sites within the eligible census blocks: 1. Fayette County provided aerial photography (2016) for the eligible census block area. We reviewed the photos to determine any residences and building sites. 2. We looked at the 2010 census data as an indicator of the number of households in each census block."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0040::Educação",
+   "unit_id": "W0040",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Dan Stelpflug",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5387,
+     "fim_corpo": 6299,
+     "trecho": "The primary impetus for ACEC’s investment in its broadband network was, and continues to be, to serve members who lack affordable options to access the internet with at least 25 Megabits per second (Mbps) download speed. The project is the cornerstone of our community development efforts. We heard from economic development professionals and employers that rural broadband access is critical to creating jobs, attracting workers, retaining our youth and young professionals, maintaining a competitive agricultural community, and supporting our seniors through services like telemedicine and telepharmacies. Conversely, the absence of high-speed internet discourages businesses from investing in our communities, which hinders economic development and threatens the viability of anchor institutions like schools and healthcare facilities that require robust connectivity to best serve our community."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0040::Escolaridade e letramento",
+   "unit_id": "W0040",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Dan Stelpflug",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12078,
+     "fim_corpo": 12973,
+     "trecho": "While recognition of its shortcomings has grown and various efforts are underway through congressional proposals and FCC proceedings to address them, electric cooperatives have firsthand experience with the existing maps wrongly excluding areas from eligibility in federal broadband programs. Another frustrating aspect of the Form 477 data is the reporting requirement allowing carriers to report advertised maximum speeds in census blocks even if it can only provide that high speed to one customer. It isn’t an accurate way of reporting and it leaves many residences with unacceptable bandwidth that cannot support everyday applications available in urban areas or simultaneous use of multiple applications or users at a single location. This is especially critical for telehealth, professionals working from home and students who require a robust, reliable internet connection."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0040::Idade",
+   "unit_id": "W0040",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Dan Stelpflug",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "youth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "seniors",
+     "forma_encontrada": "seniors",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5068,
+     "fim_corpo": 6004,
+     "trecho": "Payback of the investment is expected to take an additional five to seven years or longer. The cooperative’s wireless broadband division, AC Skyways, serves 525 subscribers. In recognition of the relatively long time to recoup its investment, AC Skyways has slowed network buildout as it grows its subscriber base. The primary impetus for ACEC’s investment in its broadband network was, and continues to be, to serve members who lack affordable options to access the internet with at least 25 Megabits per second (Mbps) download speed. The project is the cornerstone of our community development efforts. We heard from economic development professionals and employers that rural broadband access is critical to creating jobs, attracting workers, retaining our youth and young professionals, maintaining a competitive agricultural community, and supporting our seniors through services like telemedicine and telepharmacies."
+    },
+    {
+     "inicio_corpo": 5068,
+     "fim_corpo": 6004,
+     "trecho": "Payback of the investment is expected to take an additional five to seven years or longer. The cooperative’s wireless broadband division, AC Skyways, serves 525 subscribers. In recognition of the relatively long time to recoup its investment, AC Skyways has slowed network buildout as it grows its subscriber base. The primary impetus for ACEC’s investment in its broadband network was, and continues to be, to serve members who lack affordable options to access the internet with at least 25 Megabits per second (Mbps) download speed. The project is the cornerstone of our community development efforts. We heard from economic development professionals and employers that rural broadband access is critical to creating jobs, attracting workers, retaining our youth and young professionals, maintaining a competitive agricultural community, and supporting our seniors through services like telemedicine and telepharmacies."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0040::Infraestrutura e porte populacional",
+   "unit_id": "W0040",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Dan Stelpflug",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12973,
+     "fim_corpo": 13773,
+     "trecho": "Grant money is 6 not available in these areas because the FCC assumes the census block is adequately covered with high- speed service. What can be done to help address inadequate mapping information? Recent federal policy changes at the FCC and USDA lay the groundwork for an improved approach to making robust broadband access a reality throughout rural America, but improved data mapping showing broadband availability is an essential element of such an approach. The FCC’s Form 477 is asking the wrong questions. While the devil is always in the details, there are steps FCC can take to vastly improve broadband availability data. 1. More granular data is needed to eliminate the “false positives” in classifying census blocks as served or unserved per the current Form 477 data."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0040::Macrorregião",
+   "unit_id": "W0040",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Dan Stelpflug",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "Territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "Territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 14044,
+     "fim_corpo": 14903,
+     "trecho": "Data Granularity Several proposals among industry, Congress and the FCC could improve the granularity of broadband data. As a small business, ACEC recognizes the need to balance the need for granular data with meaningful, yet simple filing requirements. While address-level data would be the most accurate, it is also potentially the most onerous. There are multiple government and industry lead pilot projects underway, including one to determine the feasibility of an address- level approach. The FCC uses Form 477 census block data to develop the broadband map. However, many providers, including ACEC, create GIS maps of their service areas in shape files or other geolocated formats. Instead of requiring filers to complete the Form 477 spreadsheet, providers could be required to submit shape files or GIS maps of their service territory."
+    },
+    {
+     "inicio_corpo": 14168,
+     "fim_corpo": 15108,
+     "trecho": "As a small business, ACEC recognizes the need to balance the need for granular data with meaningful, yet simple filing requirements. While address-level data would be the most accurate, it is also potentially the most onerous. There are multiple government and industry lead pilot projects underway, including one to determine the feasibility of an address- level approach. The FCC uses Form 477 census block data to develop the broadband map. However, many providers, including ACEC, create GIS maps of their service areas in shape files or other geolocated formats. Instead of requiring filers to complete the Form 477 spreadsheet, providers could be required to submit shape files or GIS maps of their service territory. This would improve accuracy and reduce the reporting burden on providers. There may be some carriers that do not create maps of their service territory and may lack the capability to do so at this time."
+    },
+    {
+     "inicio_corpo": 19753,
+     "fim_corpo": 20577,
+     "trecho": "ACEC identified locations are indicated with a yellow number. The result demonstrates why ACEC found fewer potential locations than the FCC’s data said exist. Figure 1 - Census Block: 190650802001121 Location: Westfield Twp, Sections 32 & 29 2010 Census Housing: 5 FCC Total Locations: 8 ACEC Locations: 5 10 Figure 2 - Census Block: 190650803002011 Location: Fremont Twp, Section 6 2010 Census Housing: 6 FCC Total Locations: 9 ACEC Locations: 5 11 Figure 3 - Census Block: 190650807001093 Location: Windsor Twp, Section 2, 3 & 4 2010 Census Housing: 9 FCC Total Locations: 14 ACEC Locations: 5 in Century Link Territory 4 in Hawkeye Territory (identified on the left side, but these are not in an eligible exchange territory under the RBE grant rules)."
+    },
+    {
+     "inicio_corpo": 19753,
+     "fim_corpo": 20577,
+     "trecho": "ACEC identified locations are indicated with a yellow number. The result demonstrates why ACEC found fewer potential locations than the FCC’s data said exist. Figure 1 - Census Block: 190650802001121 Location: Westfield Twp, Sections 32 & 29 2010 Census Housing: 5 FCC Total Locations: 8 ACEC Locations: 5 10 Figure 2 - Census Block: 190650803002011 Location: Fremont Twp, Section 6 2010 Census Housing: 6 FCC Total Locations: 9 ACEC Locations: 5 11 Figure 3 - Census Block: 190650807001093 Location: Windsor Twp, Section 2, 3 & 4 2010 Census Housing: 9 FCC Total Locations: 14 ACEC Locations: 5 in Century Link Territory 4 in Hawkeye Territory (identified on the left side, but these are not in an eligible exchange territory under the RBE grant rules)."
+    },
+    {
+     "inicio_corpo": 19753,
+     "fim_corpo": 20577,
+     "trecho": "ACEC identified locations are indicated with a yellow number. The result demonstrates why ACEC found fewer potential locations than the FCC’s data said exist. Figure 1 - Census Block: 190650802001121 Location: Westfield Twp, Sections 32 & 29 2010 Census Housing: 5 FCC Total Locations: 8 ACEC Locations: 5 10 Figure 2 - Census Block: 190650803002011 Location: Fremont Twp, Section 6 2010 Census Housing: 6 FCC Total Locations: 9 ACEC Locations: 5 11 Figure 3 - Census Block: 190650807001093 Location: Windsor Twp, Section 2, 3 & 4 2010 Census Housing: 9 FCC Total Locations: 14 ACEC Locations: 5 in Century Link Territory 4 in Hawkeye Territory (identified on the left side, but these are not in an eligible exchange territory under the RBE grant rules)."
+    }
+   ]
+  }
+ ]
+}

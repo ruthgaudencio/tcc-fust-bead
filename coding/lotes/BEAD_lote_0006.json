@@ -1,0 +1,886 @@
+{
+ "caso": "BEAD",
+ "lote": 6,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0024::Escolaridade e letramento",
+   "unit_id": "W0024",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1537,
+     "fim_corpo": 2263,
+     "trecho": "I am disappointed that the FCC has failed to show the leadership I believe is necessary to take on these big challenges. Because on top of these, so many others lie ahead: our national leadership in 5G wireless, the extraordinary cybersecurity challenges facing our networks, and the need for a bolder national broadband goal of 100 megabits—with gigabit speeds in sight—everywhere. We have problems to solve, resources that are constrained, and communities that are having difficulty navigating the digital age. I am optimistic that the right communications policies can help. They can help students caught in the homework gap, stuck without the internet service they need to do their nightly schoolwork."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0024::Idade",
+   "unit_id": "W0024",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2654,
+     "fim_corpo": 3485,
+     "trecho": "I believe it is not too late to change course. It is not too late to refocus our attention on our most basic values—consumer protection, universal service, competition, and public safety. To that end, I have some ideas about where we can start to regain what has been lost. Consumer Protection Consumer protection is always in the public interest. It requires the FCC to be nimble, especially as the communications industry changes at a breakneck pace. But our efforts to stem the growing tide of robocalls have been anything but. At the start of this Administration, American consumers received roughly 2 billion robocalls a month. That number now exceeds 5 billion a month. That is about two thousand robocalls every second every day. So if you think the problem has gotten worse, you’re right."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0024::Infraestrutura e porte populacional",
+   "unit_id": "W0024",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 432,
+     "fim_corpo": 1537,
+     "trecho": "Thank you for the opportunity to appear before you today. I believe the future belongs to the connected. No matter who you are or where you live in this country you need access to modern communications to have a fair shot at 21st century success. Clearing the way for this connected future should be at the heart of everything we do at the Federal Communications Commission. I believe we can do this when we focus on the most basic values in our laws: consumer protection, universal service, competition, and public safety. It saddens me that during the past two years, we have not led with these values. Instead, too often this agency has acted at the behest of the corporate forces that surround it, shortchanging the American people. You see it clearly in our failure to fix robocalls, in our inability to bring broadband to underserved communities, in the mess we made with our roll back of net neutrality, and in our failure to offer anything but silence in response to revelations that our privacy has been violated with the sale of wireless location data on our phones."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0024::Urbano e rural",
+   "unit_id": "W0024",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4295,
+     "fim_corpo": 5174,
+     "trecho": "It’s time for my colleagues to join me in this quest. Third, it’s time for the agency to create a new division in its Enforcement Bureau to focus strictly on robocalls. Robocalls are the largest single source of consumer complaints at this agency. It’s time for the FCC to organize its work to reflect that and I thank those on this Committee who have sought to help this effort. Universal Service Universal service is a cherished value in communications law. As I noted at the outset, no matter who you are or where you live in this country, you need access to modern communications to have a fair shot at 21st century success. But the fact of the matter is that too many Americans lack access to broadband. According to the FCC’s last-published report, 24 million Americans lack access to high- speed internet service, the bulk of them in rural areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0025::Domicílio e arranjo familiar",
+   "unit_id": "W0025",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7818,
+     "fim_corpo": 8678,
+     "trecho": "In particular, providers serving hard to reach areas can face serious financial difficulties if a new government-subsidized provider “competes” to serve existing customers—or worse—takes only the most highly profitable customers. I have seen this situation firsthand within the Commission’s own USF program. It recently came to my attention that new E-Rate- subsidized fiber networks were overbuilding local USF-funded Texas broadband providers and stealing their core anchor customers. By manipulating the contracting process to favor the bids of particular providers or self-provisioned service, some local school districts have been actively undermining local USF-supported providers’ existing investments, and as a result, making it even more difficult to serve surrounding communities where some households may lack any Internet access at all."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0025::Educação",
+   "unit_id": "W0025",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7677,
+     "fim_corpo": 8678,
+     "trecho": "Failure to prevent overbuilding can undermine providers’ existing and future investments and result in extremely problematic outcomes. In particular, providers serving hard to reach areas can face serious financial difficulties if a new government-subsidized provider “competes” to serve existing customers—or worse—takes only the most highly profitable customers. I have seen this situation firsthand within the Commission’s own USF program. It recently came to my attention that new E-Rate- subsidized fiber networks were overbuilding local USF-funded Texas broadband providers and stealing their core anchor customers. By manipulating the contracting process to favor the bids of particular providers or self-provisioned service, some local school districts have been actively undermining local USF-supported providers’ existing investments, and as a result, making it even more difficult to serve surrounding communities where some households may lack any Internet access at all."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0025::Idade",
+   "unit_id": "W0025",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 14342,
+     "fim_corpo": 15090,
+     "trecho": "The report also provides an assessment of whether the diverted funds were used for purposes related in some capacity to public safety or completely unrelated. You may find it shocking that the diversion rate was as high as 90 percent in one state (New York). Beyond creating a problem of public confidence in the fee system itself, fee diversion also shortchanges the budgets of emergency call centers and has prevented much needed upgrades. I’ve been to public safety answering points (PSAP) and I’ve met with the dedicated emergency communications professionals in many of the states subject to diversion. I can assure you that they are continually frustrated by their state politicians who do not have the will to do the right thing."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0025::Infraestrutura e porte populacional",
+   "unit_id": "W0025",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5013,
+     "fim_corpo": 5980,
+     "trecho": "It is hard to imagine any part of our current society that hasn’t been integrated with Internet connectivity: from education and information, to employment and health care, broadband serves as a key component to modern American life and has improved our standard of living in so many ways. This is true no matter the underlying characteristics of the technology used to provide digital access—wired or wireless. In fact, both serve interchangeable functions for increasing numbers of Americans and will likely continue to do so going forward. Similarly, there is consensus among FCC Commissioners that all Americans—including those living in areas with challenging topography and sparse populations—should have the opportunity to access broadband Internet, if they wish to do so. While broadband availability has improved over the years, many unserved areas remain, and we must continue our efforts to expand access in an efficient and timely manner."
+    },
+    {
+     "inicio_corpo": 6356,
+     "fim_corpo": 7237,
+     "trecho": "I know that 4 Chairman Pai is committed to this goal as well, and I was very pleased to hear him announce that the Commission is moving forward on addressing the RAF—in some form—in the near future. At the same time, I worry that the desire to expand broadband infrastructure will lead to wasteful and duplicative spending and adverse consequences for consumers. Recently, Congress allocated new funding for broadband programs at the Department of Agriculture, and there appears to be interest in funding broadband buildout via the Department of Commerce as well. While I would reiterate my humble request from previous testimony that Congress consider the FCC’s Universal Service Fund (USF) as a primary means to distribute new funding, it is my foremost concern that any new funding go to unserved areas, rather than areas where broadband service already exists."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0025::Macrorregião",
+   "unit_id": "W0025",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "Territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11095,
+     "fim_corpo": 12113,
+     "trecho": "6 aftermath of ACA Int’l.2 I would welcome any efforts to codify a more reasoned and clearer approach to these issues. Returning to the problem of illegal calls, I applaud those innovative companies and carriers that have offered or are in the process of offering free call authentication and call blocking services to their customers. To protect and encourage these initiatives, I strongly support the adoption of a safe harbor to protect carriers from Communications Act liability in their call blocking efforts, as well as the one the FCC authorized for a reassigned numbers database. At the same time, carriers must adopt expeditious processes for correcting false-positives and ensuring that legal and legitimate calls are not incorrectly labeled or blocked. Emergency Communications Infrastructure: Ending 9-1-1 Fee Diversion by States & Territories The last issue that I will touch upon today is one that I’ve been very vocal about for the past several years, and that is 9-1-1 fee diversion."
+    },
+    {
+     "inicio_corpo": 11873,
+     "fim_corpo": 12789,
+     "trecho": "Emergency Communications Infrastructure: Ending 9-1-1 Fee Diversion by States & Territories The last issue that I will touch upon today is one that I’ve been very vocal about for the past several years, and that is 9-1-1 fee diversion. This is a very significant problem in terms of importance, though not as widespread as it once was, thankfully. Every month, millions of consumers pay their phone bills and if they look closely enough, they’ll see a line item that generally refers to 9-1-1 emergency services, though the exact wording varies by jurisdiction. In accordance with the line item, consumers appropriately expect that those funds will go toward maintaining and upgrading 9-1-1 emergency calling systems. In some states and territories, however, this money flows into the general treasury and, as a result, only some portion of the collected fees ends up going toward emergency services."
+    },
+    {
+     "inicio_corpo": 12789,
+     "fim_corpo": 13802,
+     "trecho": "On top of being downright deceptive, this is a serious public safety matter that directly affects emergency call centers and personnel, not to mention all the people who live in or visit these states who expect that when they call 9-1-1 the system is up to date. Following the FCC’s December report,3 the 2 Eric Troutman, Waiting Game: Taking Stock of the TCPA One-Year Removed from ACA Int’l, National Law review (March 26, 2019), https://www.natlawreview.com/article/waiting-game-taking-stock-tcpa-one-year- removed-aca-int-l. 3 Tenth Annual Report to Congress on State Collection and Distribution of 911 and Enhanced 911 Fees and Charges for the Period of January 1, 2017 to December 31, 2017 (Dec. 17, 2018), https://www.fcc.gov/files/lothannual9llfeereporttocongresspdf. 7 states and territories guilty of diverting these critical funds for 2017 were: New York, New Jersey, Rhode Island, Montana, Nevada, West Virginia, and the U.S."
+    },
+    {
+     "inicio_corpo": 14342,
+     "fim_corpo": 15457,
+     "trecho": "The report also provides an assessment of whether the diverted funds were used for purposes related in some capacity to public safety or completely unrelated. You may find it shocking that the diversion rate was as high as 90 percent in one state (New York). Beyond creating a problem of public confidence in the fee system itself, fee diversion also shortchanges the budgets of emergency call centers and has prevented much needed upgrades. I’ve been to public safety answering points (PSAP) and I’ve met with the dedicated emergency communications professionals in many of the states subject to diversion. I can assure you that they are continually frustrated by their state politicians who do not have the will to do the right thing. However, I would be remiss if I didn’t also address the positive side of our report. There are many states and territories that have made a concerted effort to get off the list, especially in some cases where the problem was an accounting technicality, and in others where public officials simply did the right thing and rectified their state budget practices."
+    },
+    {
+     "inicio_corpo": 14959,
+     "fim_corpo": 15941,
+     "trecho": "I can assure you that they are continually frustrated by their state politicians who do not have the will to do the right thing. However, I would be remiss if I didn’t also address the positive side of our report. There are many states and territories that have made a concerted effort to get off the list, especially in some cases where the problem was an accounting technicality, and in others where public officials simply did the right thing and rectified their state budget practices. West Virginia has committed to do just this. To those states and their leaders, I tip my cap, and I know that in the long run the people in their states will be better off and their emergency communications systems will be stronger and more reliable. It is also important to remind those states and territories that continue this despicable practice: they remain ineligible for new federal funding to modernize their call centers as the shift to Next Generation 9-1-1 occurs."
+    },
+    {
+     "inicio_corpo": 15457,
+     "fim_corpo": 16317,
+     "trecho": "West Virginia has committed to do just this. To those states and their leaders, I tip my cap, and I know that in the long run the people in their states will be better off and their emergency communications systems will be stronger and more reliable. It is also important to remind those states and territories that continue this despicable practice: they remain ineligible for new federal funding to modernize their call centers as the shift to Next Generation 9-1-1 occurs. NG911 will be costly, but its effectiveness and the resulting improvements to 8 the system will be vital to saving lives. In the Middle Class Tax Relief and Job Creation Act of 2012, this Subcommittee helped created a new grant program for 9-1-1, E9-1-1, and NG911, and the law specifically excluded states and territories that divert fees from receiving these grants."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0025::Urbano e rural",
+   "unit_id": "W0025",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5431,
+     "fim_corpo": 6356,
+     "trecho": "In fact, both serve interchangeable functions for increasing numbers of Americans and will likely continue to do so going forward. Similarly, there is consensus among FCC Commissioners that all Americans—including those living in areas with challenging topography and sparse populations—should have the opportunity to access broadband Internet, if they wish to do so. While broadband availability has improved over the years, many unserved areas remain, and we must continue our efforts to expand access in an efficient and timely manner. That is why I have spent so much time over the years promoting better incentives and greater efficiency within our Universal Service Fund programs, and why I have repeatedly called for the implementation of the Remote Areas Fund (RAF) auction—in order to serve those Americans in the hardest to reach communities, which tend to be more rural and of lower economic status."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0026::Domicílio e arranjo familiar",
+   "unit_id": "W0026",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Christopher Guith",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3342,
+     "fim_corpo": 4278,
+     "trecho": "2 Specifically, we support the reauthorization of the Diesel Emissions Reduction Program, which has proven to be a model example of the cooperative, solutions-focused framework that is central to the Clean Air Act’s success: bringing together a broad and diverse coalition of regulators, manufacturers, and emissions control providers to work together to improve air quality. Similarly, we encourage Congress to also include H.R. 1166, the “Utilizing Significant Emissions with Innovative Technologies Act” (USE IT Act), a bipartisan effort led by Representatives Peters (D-CA), McKinley (R-WV) and others to support carbon utilization and direct air capture research. We also support the legislation’s reauthorization of the Weatherization Assistance Program, which has brought meaningful upgrades to the homes of more than seven million American families, reducing their energy bills an average of $283 annually."
+    },
+    {
+     "inicio_corpo": 25303,
+     "fim_corpo": 25972,
+     "trecho": "This effort also supports funding the creation of a National Water Infrastructure Test Bed Network (TBN), establishing a national program for collaborating and sharing best practices, and promoting exports of water technologies, products, and services. Conclusion The U.S. is in the midst of a historic energy shift. Both from scarcity to abundance, but also to lower-emitting and environmentally sustainable, and all made possible by innovation. The ability to build new systems and facilities harnessing this innovation is crucial to bring the economic and environmental benefits to American businesses and households, and in many case to the world."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0026::Posição no trabalho",
+   "unit_id": "W0026",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Christopher Guith",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9013,
+     "fim_corpo": 9884,
+     "trecho": "1 Strategic Transformer Reserve Report to Congress, U.S. Department of Energy, March 2017 4 For years, the Chamber has supported meaningful action to reinforce our once unequalled infrastructure, and we have continued to offer a slate of potential solutions to prove it. Last year, the Chamber laid out four pillars the Administration and Congress should consider including in the infrastructure modernization debate: 1. Increasing the federal fuel user fee by 5 cents a year for the next 5 years for surface transportation projects. 2. Implementing a multi-faceted approach for leveraging more public and private resources. 3. Streamlining the permitting process at the federal, state, and local levels. 4. Expanding the American workforce through work-based learning and immigration reform."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0026::Urbano e rural",
+   "unit_id": "W0026",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Christopher Guith",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 24316,
+     "fim_corpo": 24997,
+     "trecho": " Regulatory flexibility and efficiency of service—proposing commonsense, flexible policies to improve the enabling environment for businesses to continue creative and innovative approaches.  Resilience—facilitating resilient infrastructure, including water and watershed management and flood control, through funding and policies to support predisaster mitigation and engaging experts and stakeholders.  Small communities and small business needs—providing investments and policy solutions specifically focused on the needs of the agricultural sector, small communities, and small businesses, including improving access to water and sanitation in rural areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0027::Domicílio e arranjo familiar",
+   "unit_id": "W0027",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Daniel Lyons",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4238,
+     "fim_corpo": 4885,
+     "trecho": "The LIFT America Act as a Solution The LIFT America Act reflects an important and valuable step toward solving this problem. It provides $40 billion in appropriations, primarily to fund network construction in unserved areas. It contains several measures designed to increase the likelihood that its large price tag will lead to appreciable gains for this population. Perhaps most significantly, the act adopts a reverse-auction mechanism to disburse funds. This helps assure that taxpayers will get the biggest bang for their buck by awarding funds to projects that will connect the most households using the least amount of money."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0027::Educação",
+   "unit_id": "W0027",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Daniel Lyons",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 719,
+     "trecho": "The American Enterprise Institute (AEI) is a nonpartisan, nonprofit, 501(c)(3) educational organization and does not take institutional positions on any issues. The views expressed in this testimony are those of the author. Statement before the House Committee on Energy and Commerce On LIFT America: Modernizing Our Infrastructure for the Future Solving the Rural Broadband Gap Daniel A. Lyons Visiting Fellow, American Enterprise Institute Professor, Boston College Law School May 22, 2019 2 Chairman Pallone, Ranking Member Walden, and members of the Committee, thank you for the opportunity to appear before you at today’s hearing on the LIFT America Act."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 897,
+     "trecho": "The American Enterprise Institute (AEI) is a nonpartisan, nonprofit, 501(c)(3) educational organization and does not take institutional positions on any issues. The views expressed in this testimony are those of the author. Statement before the House Committee on Energy and Commerce On LIFT America: Modernizing Our Infrastructure for the Future Solving the Rural Broadband Gap Daniel A. Lyons Visiting Fellow, American Enterprise Institute Professor, Boston College Law School May 22, 2019 2 Chairman Pallone, Ranking Member Walden, and members of the Committee, thank you for the opportunity to appear before you at today’s hearing on the LIFT America Act. I am a visiting fellow at the American Enterprise Institute and a professor at Boston College Law School, where I teach and write about telecommunications and internet policy."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0027::Escolaridade e letramento",
+   "unit_id": "W0027",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Daniel Lyons",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "digital literacy",
+     "forma_encontrada": "digital literacy",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10713,
+     "fim_corpo": 11647,
+     "trecho": "Of course, it may be wise to set a benchmark that exceeds current use cases, as a way to “future proof” the Committee’s $40 billion investment. But I would urge the committee to consider carefully the appropriate minimum standard, given the potential trade-off between speed provided to an unserved area and the number of unserved areas the program might reach. 5 Finally, it is important to remember that availability is only one driver of the digital divide. Even in areas where broadband is currently available, survey data by Pew Research suggest that adoption rates are reduced by other factors, such as the cost of monthly service, the cost of computer equipment to get online, and a lack of interest. While a comprehensive approach is beyond the scope of today’s proceeding, tools such as low-income assistance and digital literacy training will also be important in the fight to achieve universal connectivity."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0027::Infraestrutura e porte populacional",
+   "unit_id": "W0027",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Daniel Lyons",
+   "n_ocorrencias_no_par": 14,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 8,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 225,
+     "fim_corpo": 1088,
+     "trecho": "Statement before the House Committee on Energy and Commerce On LIFT America: Modernizing Our Infrastructure for the Future Solving the Rural Broadband Gap Daniel A. Lyons Visiting Fellow, American Enterprise Institute Professor, Boston College Law School May 22, 2019 2 Chairman Pallone, Ranking Member Walden, and members of the Committee, thank you for the opportunity to appear before you at today’s hearing on the LIFT America Act. I am a visiting fellow at the American Enterprise Institute and a professor at Boston College Law School, where I teach and write about telecommunications and internet policy. I will focus my remarks today on the act’s broadband provisions, particularly the Broadband Internet Access Service Program, which seeks to fund new network construction in unserved areas."
+    },
+    {
+     "inicio_corpo": 2392,
+     "fim_corpo": 3058,
+     "trecho": "These efforts have yielded important insights, some of which are reflected in the LIFT America Act. But I, and many others, have long argued that the Universal Service Program is suboptimal due to lack of transparency and the limits of the program’s arcane funding mechanism. The problem would be better addressed through the appropriations process, which would allow Congress to target the problem with a rightsized subsidy subject to direct congressional oversight. It is important to understand the contours of the broadband availability gap. What analysts often refer to as the “unserved” part of the country actually reflects two distinct territories."
+    },
+    {
+     "inicio_corpo": 2392,
+     "fim_corpo": 3259,
+     "trecho": "These efforts have yielded important insights, some of which are reflected in the LIFT America Act. But I, and many others, have long argued that the Universal Service Program is suboptimal due to lack of transparency and the limits of the program’s arcane funding mechanism. The problem would be better addressed through the appropriations process, which would allow Congress to target the problem with a rightsized subsidy subject to direct congressional oversight. It is important to understand the contours of the broadband availability gap. What analysts often refer to as the “unserved” part of the country actually reflects two distinct territories. In some unserved areas, network installation costs make market entry uneconomical, but if those one- time construction costs could be covered, the network could cover its monthly operating expenses."
+    },
+    {
+     "inicio_corpo": 3584,
+     "fim_corpo": 4471,
+     "trecho": "This was a key recommendation of the National Broadband Plan, which the Federal Communications Commission developed in 2010 to address this problem: Government subsidies should focus on upfront network construction costs rather than the ongoing carrier subsidies that marked the telephone-era High-Cost Fund.2 Economist Scott Wallsten showed that almost 60 percent of 3 High-Cost Fund dollars went to “general and administrative expenses” such as planning, government relations, and personnel.3 These generic corporate overhead costs do not contribute directly to network construction and therefore only indirectly affect the availability gap. The LIFT America Act as a Solution The LIFT America Act reflects an important and valuable step toward solving this problem. It provides $40 billion in appropriations, primarily to fund network construction in unserved areas."
+    },
+    {
+     "inicio_corpo": 4615,
+     "fim_corpo": 5582,
+     "trecho": "Perhaps most significantly, the act adopts a reverse-auction mechanism to disburse funds. This helps assure that taxpayers will get the biggest bang for their buck by awarding funds to projects that will connect the most households using the least amount of money. The Federal Communications Commission adopted a reverse-auction mechanism to distribute funds made available in Phase II of the Connect America Fund. Commission Chairman Ajit Pai explained that this design sparked competition that improved the overall efficiency of the program: Areas that the Commission estimated would cost $5 billion to serve were ultimately covered by a $1.5 billion subsidy.4 Similarly, the act explicitly provides that the funds will be distributed on a technology-neutral basis, without favoring one method of broadband delivery over another. This is crucial, as unserved areas exhibit significant geographic diversity, making a one-size-fits-all plan difficult."
+    },
+    {
+     "inicio_corpo": 5692,
+     "fim_corpo": 6556,
+     "trecho": "Traditionally, most consumers receive fixed broadband by wire. But there are natural limits on the effectiveness of wired deployment: A recent study of the history of telephony, electricity, and cable shows that wired deployment typically plateaus at roughly 70 percent of the country, which implies significant subsidies to close the remaining gap.5 In the pay television market, satellite providers such as Dish Network and DirecTV closed the gap through intermodal competition. In the broadband context, Connect America Fund Phase II’s commitment to technology-neutral solutions prompted many nontraditional bidders to compete for funds, including satellite companies, wireless carriers, and electric utilities.6 This intermodal competition increases the chances of finding the most efficient way of serving individual pockets of unserved consumers."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0027::Macrorregião",
+   "unit_id": "W0027",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Daniel Lyons",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2392,
+     "fim_corpo": 3058,
+     "trecho": "These efforts have yielded important insights, some of which are reflected in the LIFT America Act. But I, and many others, have long argued that the Universal Service Program is suboptimal due to lack of transparency and the limits of the program’s arcane funding mechanism. The problem would be better addressed through the appropriations process, which would allow Congress to target the problem with a rightsized subsidy subject to direct congressional oversight. It is important to understand the contours of the broadband availability gap. What analysts often refer to as the “unserved” part of the country actually reflects two distinct territories."
+    },
+    {
+     "inicio_corpo": 2671,
+     "fim_corpo": 3584,
+     "trecho": "The problem would be better addressed through the appropriations process, which would allow Congress to target the problem with a rightsized subsidy subject to direct congressional oversight. It is important to understand the contours of the broadband availability gap. What analysts often refer to as the “unserved” part of the country actually reflects two distinct territories. In some unserved areas, network installation costs make market entry uneconomical, but if those one- time construction costs could be covered, the network could cover its monthly operating expenses. But in the hardest-to-reach areas, even providing a network for free would be insufficient, as there are insufficient consumers to support the company’s costs. To narrow the broadband availability gap, the government should prioritize those territories where a one-time investment will yield sustainable network growth."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0027::Renda e classe",
+   "unit_id": "W0027",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Daniel Lyons",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10713,
+     "fim_corpo": 11647,
+     "trecho": "Of course, it may be wise to set a benchmark that exceeds current use cases, as a way to “future proof” the Committee’s $40 billion investment. But I would urge the committee to consider carefully the appropriate minimum standard, given the potential trade-off between speed provided to an unserved area and the number of unserved areas the program might reach. 5 Finally, it is important to remember that availability is only one driver of the digital divide. Even in areas where broadband is currently available, survey data by Pew Research suggest that adoption rates are reduced by other factors, such as the cost of monthly service, the cost of computer equipment to get online, and a lack of interest. While a comprehensive approach is beyond the scope of today’s proceeding, tools such as low-income assistance and digital literacy training will also be important in the fight to achieve universal connectivity."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0027::Urbano e rural",
+   "unit_id": "W0027",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Daniel Lyons",
+   "n_ocorrencias_no_par": 9,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 3,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 413,
+     "trecho": "The American Enterprise Institute (AEI) is a nonpartisan, nonprofit, 501(c)(3) educational organization and does not take institutional positions on any issues. The views expressed in this testimony are those of the author. Statement before the House Committee on Energy and Commerce On LIFT America: Modernizing Our Infrastructure for the Future Solving the Rural Broadband Gap Daniel A."
+    },
+    {
+     "inicio_corpo": 7581,
+     "fim_corpo": 8414,
+     "trecho": "State officials are closer to the constituents they regulate and therefore are more likely to respond to local concerns, suggesting they are more motivated to monitor compliance with buildout projects and move quickly to completion. Potential Questions and Additional Thoughts While on the whole the LIFT America Act provides a much-needed boost to efforts to close the broadband availability gap, a few areas raise questions. The first is the requirement that state funds be allocated in direct proportion to the population of each state. This methodology may prove suboptimal. Broadband service is most profitably delivered in population-dense areas, where there are more customers per square mile of network deployment. This means that the unserved areas of the country targeted by the act are likely to skew rural."
+    },
+    {
+     "inicio_corpo": 7817,
+     "fim_corpo": 8732,
+     "trecho": "Potential Questions and Additional Thoughts While on the whole the LIFT America Act provides a much-needed boost to efforts to close the broadband availability gap, a few areas raise questions. The first is the requirement that state funds be allocated in direct proportion to the population of each state. This methodology may prove suboptimal. Broadband service is most profitably delivered in population-dense areas, where there are more customers per square mile of network deployment. This means that the unserved areas of the country targeted by the act are likely to skew rural. Allocating dollars based on state population would have the unintended consequence of favoring rural areas that happen to be in a state with a large urban area over rural areas that lack a big city—even though those urban areas are likely to have service and thus tell us little about the state’s availability gap."
+    },
+    {
+     "inicio_corpo": 7817,
+     "fim_corpo": 8732,
+     "trecho": "Potential Questions and Additional Thoughts While on the whole the LIFT America Act provides a much-needed boost to efforts to close the broadband availability gap, a few areas raise questions. The first is the requirement that state funds be allocated in direct proportion to the population of each state. This methodology may prove suboptimal. Broadband service is most profitably delivered in population-dense areas, where there are more customers per square mile of network deployment. This means that the unserved areas of the country targeted by the act are likely to skew rural. Allocating dollars based on state population would have the unintended consequence of favoring rural areas that happen to be in a state with a large urban area over rural areas that lack a big city—even though those urban areas are likely to have service and thus tell us little about the state’s availability gap."
+    },
+    {
+     "inicio_corpo": 11647,
+     "fim_corpo": 12907,
+     "trecho": "Mr. Chairman and Members of the Committee, this completes my testimony. I look forward to answering any questions you may have. 1 Federal Communications Commission, “Report: America’s Digital Divide Narrows Substantially,” press release, February 19, 2019, https://docs.fcc.gov/public/attachments/DOC-356271A1.pdf. 2 Federal Communications Commission, Connecting America: The National Broadband Plan, xiii, https://transition.fcc.gov/national-broadband-plan/national-broadband-plan.pdf. 3 Scott Wallsten, “The Universal Service Fund: What Do High-Cost Subsidies Subsidize?,” (unpublished manuscript, February 14, 2011), https://ssrn.com/abstract=1927933. 4 Wolters Kluwer, “Pai Announces Plan to Create Rural Digital Opportunity Fund,” April 12, 2019, https://lrus.wolterskluwer.com/news/tr-daily/pai-announces-plan-to-create-rural-digital-opportunity-fund/77313/. 5 Brad Smith, “The Rural Broadband Divide: An Urgent National Problem That We Can Solve, ” Microsoft, December 3, 2018, https://blogs.microsoft.com/on-the-issues/2018/12/03/the-rural-broadband-divide-an-urgent- national-problem-that-we-can-solve/. 6 Smith, “The Rural Broadband Divide.” 7 Connect America Fund, 32 FCC Rcd. 968, (2017) (ETC Annual Reports and Certifications)."
+    },
+    {
+     "inicio_corpo": 11647,
+     "fim_corpo": 12907,
+     "trecho": "Mr. Chairman and Members of the Committee, this completes my testimony. I look forward to answering any questions you may have. 1 Federal Communications Commission, “Report: America’s Digital Divide Narrows Substantially,” press release, February 19, 2019, https://docs.fcc.gov/public/attachments/DOC-356271A1.pdf. 2 Federal Communications Commission, Connecting America: The National Broadband Plan, xiii, https://transition.fcc.gov/national-broadband-plan/national-broadband-plan.pdf. 3 Scott Wallsten, “The Universal Service Fund: What Do High-Cost Subsidies Subsidize?,” (unpublished manuscript, February 14, 2011), https://ssrn.com/abstract=1927933. 4 Wolters Kluwer, “Pai Announces Plan to Create Rural Digital Opportunity Fund,” April 12, 2019, https://lrus.wolterskluwer.com/news/tr-daily/pai-announces-plan-to-create-rural-digital-opportunity-fund/77313/. 5 Brad Smith, “The Rural Broadband Divide: An Urgent National Problem That We Can Solve, ” Microsoft, December 3, 2018, https://blogs.microsoft.com/on-the-issues/2018/12/03/the-rural-broadband-divide-an-urgent- national-problem-that-we-can-solve/. 6 Smith, “The Rural Broadband Divide.” 7 Connect America Fund, 32 FCC Rcd. 968, (2017) (ETC Annual Reports and Certifications)."
+    }
+   ]
+  }
+ ]
+}

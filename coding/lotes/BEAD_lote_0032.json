@@ -1,0 +1,843 @@
+{
+ "caso": "BEAD",
+ "lote": 32,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0128::Domicílio e arranjo familiar",
+   "unit_id": "W0128",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Kristin Urquiza",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 367,
+     "fim_corpo": 1332,
+     "trecho": "My name is Kristin Urquiza. I am the co-founder of a grassroots non-profit called Marked By COVID. My partner Christine Keeves and I founded it the day we buried my father, Mark Anthony Urquiza, who died from COVID-19 on June 30, 2020; he was 65. Last summer, I shared an abbreviated version of my story at the Democratic National Convention. I spoke about two themes in my brief remarks: the two Americas that exist (one for the elite and one for everyone else) and that \"my father's only pre-existing condition was trusting Donald Trump and for that, he paid with his life.\" During this 5-minute testimony, I will expand upon these themes. But I must also share with you that while my father's story is tragic, it is not unique. What you might not know about me that every single day since my father has passed, I have spoken to people who have lost close family members and loved ones to COVID, and I am haunted by the eerie similarities between so many of us."
+    },
+    {
+     "inicio_corpo": 1010,
+     "fim_corpo": 1765,
+     "trecho": "But I must also share with you that while my father's story is tragic, it is not unique. What you might not know about me that every single day since my father has passed, I have spoken to people who have lost close family members and loved ones to COVID, and I am haunted by the eerie similarities between so many of us. Let me start by stating something obvious: the primary person and entity responsible for my father's death and hundreds of thousands of people is Donald Trump. Until the day I take my last breath, I will fight for this truth to be recognized and recorded in the history books so that we know the unvarnished truth of what happened and why. My family has hearty genes: we tend to live into our 90s, so I'm in this for the long game."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0128::Educação",
+   "unit_id": "W0128",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Kristin Urquiza",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2214,
+     "fim_corpo": 3131,
+     "trecho": "Marked By COVID is advocating for a Commission to investigate the Federal Government response to the pandemic thoroughly, so we know exactly what happened and why. However, crime and malfeasance aren't always committed by a single actor. Frequently there are accomplices, enablers, and complicit parties. To the people in this room and this sacred body who blindly followed the former President without questioning, who put party over country, you and your colleagues are enablers. The media and, in particular, cable news, the topic of today, was complicit. Cable news may not have pulled the gun's trigger pointed at my father's head, but it indeed drove the getaway car. Let me start by giving you a bit more background on just who my beloved Dad. Besides being a high school state track star, which I wrote about in my Dad's #HonestObituary, he was in the Reserve Officer Training Corps, better known as ROTC."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0128::Idade",
+   "unit_id": "W0128",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Kristin Urquiza",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 367,
+     "fim_corpo": 1099,
+     "trecho": "My name is Kristin Urquiza. I am the co-founder of a grassroots non-profit called Marked By COVID. My partner Christine Keeves and I founded it the day we buried my father, Mark Anthony Urquiza, who died from COVID-19 on June 30, 2020; he was 65. Last summer, I shared an abbreviated version of my story at the Democratic National Convention. I spoke about two themes in my brief remarks: the two Americas that exist (one for the elite and one for everyone else) and that \"my father's only pre-existing condition was trusting Donald Trump and for that, he paid with his life.\" During this 5-minute testimony, I will expand upon these themes. But I must also share with you that while my father's story is tragic, it is not unique."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0128::Saúde",
+   "unit_id": "W0128",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Kristin Urquiza",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5127,
+     "fim_corpo": 6110,
+     "trecho": "As May progressed, the messages I started to hear from my Dad were: \"It's safe. We're on the other side.\" Let me be abundantly clear: my father was not a personal friend of President Donald Trump nor Governor Doug Ducey. He never met the former President. He did not know anyone close to the former President. Like everyone else I know, my Dad received his information through an intermediary. His media of choice since the early 2000s was Fox Cable News when he was at home and Arizona's KTAR News 92.3 radio station when he was driving around the Valley. My Dad was always a voracious consumer of television, radio, and print media. He instilled in me the need to keep updated with news. The second to last picture on his phone was a picture of the television in his hospital room turned onto the news to capture an image of President Trump and Doug Ducey at an unmasked campaign rally they held in Arizona at the time when Arizona had the worst cases per capita in the world."
+    },
+    {
+     "inicio_corpo": 8323,
+     "fim_corpo": 9252,
+     "trecho": "He did what he needed to do for his country, and now he needed to get back out into the world he loved so much and help jump-start the economy. As May progressed, I started to hear more and more of the disinformation about the virus, about the risk, about safety measures coming from my Dad. I did my best to fight back, but there is no way that one person can compete with the microphone of the office of the President nor the propaganda machine that has become Fox Cable News. On June 11, 2020, my Dad woke up with a fever, cough, and exhaustion. Similar symptoms to the news reported that the President had several months later when he contracted the virus. When my father went to the doctor on June 12 for a COVID test, he was not admitted into the hospital under an \"abundance of caution,\" the treatment that elite political COVID deniers like President Trump, Governor Chris Christie, and Mayor Rudolph Guliani received."
+    },
+    {
+     "inicio_corpo": 8467,
+     "fim_corpo": 9361,
+     "trecho": "As May progressed, I started to hear more and more of the disinformation about the virus, about the risk, about safety measures coming from my Dad. I did my best to fight back, but there is no way that one person can compete with the microphone of the office of the President nor the propaganda machine that has become Fox Cable News. On June 11, 2020, my Dad woke up with a fever, cough, and exhaustion. Similar symptoms to the news reported that the President had several months later when he contracted the virus. When my father went to the doctor on June 12 for a COVID test, he was not admitted into the hospital under an \"abundance of caution,\" the treatment that elite political COVID deniers like President Trump, Governor Chris Christie, and Mayor Rudolph Guliani received. No, the doctor told him to go home and report to the hospital if he started to experience trouble breathing."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0128::Saúde e deficiência",
+   "unit_id": "W0128",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Kristin Urquiza",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "blind",
+     "forma_encontrada": "blind",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1673,
+     "fim_corpo": 2697,
+     "trecho": "My family has hearty genes: we tend to live into our 90s, so I'm in this for the long game. A growing body of evidence already substantiates this fact: on October 22, 2020, Cornell University released a study finding the 'Single Largest Driver' of Coronavirus Misinformation: Trump. On September 9, 2020, with the release of audiotapes from interviews with Bob Woodward, we heard the President confess he clearly understood the imminent threat and danger of them as early as February and decided to downplay the virus not to create a panic. Marked By COVID is advocating for a Commission to investigate the Federal Government response to the pandemic thoroughly, so we know exactly what happened and why. However, crime and malfeasance aren't always committed by a single actor. Frequently there are accomplices, enablers, and complicit parties. To the people in this room and this sacred body who blindly followed the former President without questioning, who put party over country, you and your colleagues are enablers."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0129::Educação",
+   "unit_id": "W0129",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Soledad O'Brien",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3456,
+     "fim_corpo": 4473,
+     "trecho": "It also meant a decline in voter participation. A 2014 Study from George Washington University and American University researchers concluded that \"Citizens exposed to a lower volume of coverage are ...less likely to vote ... regardless of levels of political awareness, indicating that the deleterious consequences of a decline in local coverage are widespread, not restricted to the least attentive citizens.\" The decline in local coverage has even affected bond ratings. Paul Gao, a professor of finance at the University of Notre Dame, who studied the decline of local news, found that in the three years following a newspaper closure, the costs for municipal bonds and revenue bonds increased, likely because no watch dogs were reporting on the machinations of government and how the money is spent. A report from the University of North Carolina Huffman School of Journalism found that the United States has lost almost 2,100 papers since 2004, including 70 dailies and more than 2,000 weeklies or nondailies."
+    },
+    {
+     "inicio_corpo": 4260,
+     "fim_corpo": 4954,
+     "trecho": "A report from the University of North Carolina Huffman School of Journalism found that the United States has lost almost 2,100 papers since 2004, including 70 dailies and more than 2,000 weeklies or nondailies. About half of the remaining 6,700 plus papers in the country – roughly 1,250 dailies and 5,500 weeklies – are located in small and rural communities. The average circulation of weeklies – which number around 5,500 – is 8,000. An estimated 1,800 communities which had a local news outlet in 2004 were without one at the beginning of 2020. Today the residents of these towns and cities have no place to find basic reporting, on their planning boards, their schools, their police."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0129::Gênero",
+   "unit_id": "W0129",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Soledad O'Brien",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8389,
+     "fim_corpo": 9340,
+     "trecho": "From the judge's opinion: \"Fox persuasively argues...that given Mr. Carlson’s reputation, any reasonable viewer 'arrive[s] with an appropriate amount of skepticism' about the statements he makes....Whether the Court frames Mr. Carlson’s statements as “exaggeration,” “non-literal commentary,” or simply bloviating for his audience, the conclusion remains the same—the statements are not actionable.\" The harm being done is profound. “If everyone is entitled to their own facts you can no longer have reasoned disagreements and productive compromise.”says Yochai Benkler, co-director of the Berkman Klein Center for Internet & Society at Harvard University. Moreover, the talking heads are not in the least representative of the public. On Meet the Press, Face the Nation, and This Week in 2015, according to Harvard's Shorenstein Center, 80% of guests were White, 12% were women (2% were women of color) and 41% were Republicans, 22% Democrats."
+    },
+    {
+     "inicio_corpo": 8389,
+     "fim_corpo": 9340,
+     "trecho": "From the judge's opinion: \"Fox persuasively argues...that given Mr. Carlson’s reputation, any reasonable viewer 'arrive[s] with an appropriate amount of skepticism' about the statements he makes....Whether the Court frames Mr. Carlson’s statements as “exaggeration,” “non-literal commentary,” or simply bloviating for his audience, the conclusion remains the same—the statements are not actionable.\" The harm being done is profound. “If everyone is entitled to their own facts you can no longer have reasoned disagreements and productive compromise.”says Yochai Benkler, co-director of the Berkman Klein Center for Internet & Society at Harvard University. Moreover, the talking heads are not in the least representative of the public. On Meet the Press, Face the Nation, and This Week in 2015, according to Harvard's Shorenstein Center, 80% of guests were White, 12% were women (2% were women of color) and 41% were Republicans, 22% Democrats."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0129::Idade",
+   "unit_id": "W0129",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Soledad O'Brien",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6405,
+     "fim_corpo": 7297,
+     "trecho": "According to the Pew Research Center, between 2007 and 2012, the percent of CNN evening programming filled with interviews jumped from 30% to 57%. Airtime for edited packages (taped produced stories) dropped from 50% to 24% during the same time period. In December 2012, 90% of MSNBC primetime coverage came in the form of opinion or commentary. Daytime news was no better. Live Breaking News was cut in half from 10% in 2007 to 5% in 2012 (across Fox, MSNBC, CNN). Reporters going live dropped from 23% to 18%. Interviews increased from 39% to 51%. From there, it only got worse. Former Senator Rick Santorum, who once said legalizing same sex marriage was tantamount to the legalization of incest, became a prime time pundit. Kellyanne Conway, senior counselor to President Donald Trump, introduced the media to the notion of “alternative facts” during an airing of NBC’s Meet the Press."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0129::Posição no trabalho",
+   "unit_id": "W0129",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Soledad O'Brien",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9050,
+     "fim_corpo": 9812,
+     "trecho": "Moreover, the talking heads are not in the least representative of the public. On Meet the Press, Face the Nation, and This Week in 2015, according to Harvard's Shorenstein Center, 80% of guests were White, 12% were women (2% were women of color) and 41% were Republicans, 22% Democrats. The media isn’t diverse either, distorting the realities of American life even more. Big media is isolated in coastal cities, disconnected from poor and working class people of all colors, hosting newsrooms with scant diversity of anything -- race, ethnicity, socioeconomic status, anything. About three-quarters of newsroom employees are non-Hispanic white, compared with about two-thirds of all U.S. workers, according to a 2018 analysis from the Pew Research Center."
+    },
+    {
+     "inicio_corpo": 9050,
+     "fim_corpo": 9910,
+     "trecho": "Moreover, the talking heads are not in the least representative of the public. On Meet the Press, Face the Nation, and This Week in 2015, according to Harvard's Shorenstein Center, 80% of guests were White, 12% were women (2% were women of color) and 41% were Republicans, 22% Democrats. The media isn’t diverse either, distorting the realities of American life even more. Big media is isolated in coastal cities, disconnected from poor and working class people of all colors, hosting newsrooms with scant diversity of anything -- race, ethnicity, socioeconomic status, anything. About three-quarters of newsroom employees are non-Hispanic white, compared with about two-thirds of all U.S. workers, according to a 2018 analysis from the Pew Research Center. About half of newsroom staff are white men, compared with about a third of the overall workforce."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0129::Saúde e deficiência",
+   "unit_id": "W0129",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Soledad O'Brien",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "deaf",
+     "forma_encontrada": "deaf",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13502,
+     "fim_corpo": 14411,
+     "trecho": "What Congress can do is shed light on how irresponsible media contributes to disinformation in ways that have consequences for democracy. You can speak up, like I am today, and encourage education that helps the public discern between fact and fiction, opinion and reporting. The public can also speak up and look to educate themselves on disinformation. And, me and my colleagues can also be proactive Here are some examples of what we in the media can and should do: ● Don’t book liars or advance lies. Sure, cover the fact that lies and propaganda are being disseminated but don’t book people to lie on your show because it elevates them and presents them as another “side.” ● Get out of the office and interview people all over the country of all different backgrounds. Cable TV, in particular, infuriates Americans with elitist and tone-deaf coverage that often ignores the plight of regular people."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0129::Urbano e rural",
+   "unit_id": "W0129",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Soledad O'Brien",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3929,
+     "fim_corpo": 4624,
+     "trecho": "Paul Gao, a professor of finance at the University of Notre Dame, who studied the decline of local news, found that in the three years following a newspaper closure, the costs for municipal bonds and revenue bonds increased, likely because no watch dogs were reporting on the machinations of government and how the money is spent. A report from the University of North Carolina Huffman School of Journalism found that the United States has lost almost 2,100 papers since 2004, including 70 dailies and more than 2,000 weeklies or nondailies. About half of the remaining 6,700 plus papers in the country – roughly 1,250 dailies and 5,500 weeklies – are located in small and rural communities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0130::Administração pública",
+   "unit_id": "W0130",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Tom Frieden",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12706,
+     "fim_corpo": 13471,
+     "trecho": "To accomplish this, they require increased resources for flexible needs, but resources should be paired with technical support and capacity building from the CDC. Saying this will not make me popular with my friends in public health, but all too often, funds disbursed to state health departments are not distributed efficiently and effectively, and not sufficiently targeted to the areas most in need of assistance, particularly vulnerable populations, and rural communities. Accountability mechanisms, but not bureaucratic red tape, will be important to ensure new resources are spent in a timely and equitable manner. One good model is the Public Health Emergency Preparedness program, which requires concurrence from local governments to the state application."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0130::Domicílio e arranjo familiar",
+   "unit_id": "W0130",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Tom Frieden",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "Families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 273,
+     "fim_corpo": 1115,
+     "trecho": "I’m Dr. Tom Frieden. I was CDC Director from 2009 to 2017 and New York City Health Commissioner from 2002 until my appointment to lead the CDC. I received my MD and MPH degrees from Columbia University, with advanced training in internal medicine, infectious disease, public health, and epidemiology. I am President and CEO of Resolve to Save Lives, an initiative of global public health organization Vital Strategies, and Senior Fellow for Global Health at the Council on Foreign Relations. Resolve to Save Lives partners with countries to prevent 100 million deaths from heart disease and stroke and to make the world safer from epidemics. It has been more than a century since there has been a pandemic this disruptive. The toll on human lives and livelihoods has been shocking. Families and communities have experienced tremendous loss."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0130::Idade",
+   "unit_id": "W0130",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Tom Frieden",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 765,
+     "trecho": "Testimony of Dr. Tom Frieden, President and Chief Executive Officer of Resolve to Save Lives, an initiative of Vital Strategies Good morning. I thank Chairman Pallone, Ranking Member Rodgers, and distinguished members of the Committee for the opportunity to testify today. I’m Dr. Tom Frieden. I was CDC Director from 2009 to 2017 and New York City Health Commissioner from 2002 until my appointment to lead the CDC. I received my MD and MPH degrees from Columbia University, with advanced training in internal medicine, infectious disease, public health, and epidemiology. I am President and CEO of Resolve to Save Lives, an initiative of global public health organization Vital Strategies, and Senior Fellow for Global Health at the Council on Foreign Relations."
+    },
+    {
+     "inicio_corpo": 8390,
+     "fim_corpo": 9271,
+     "trecho": "Second, build the infrastructure our country needs with a cross-cutting approach, at all levels: community, city, state, federal, and global. CDC has more than 160 different budget lines. While I was NYC Health Commissioner, I had access to 20 times the amount flexible funding I had while I was CDC director. The solution is not to cut or merge these more than 160 lines, but to leave them in place and create additional lines that are cross-cutting and support local, city, state, and global action to protect health. This is funding that is crucial to address urgent and cross-cutting health needs. Third, build our national public health data infrastructure. I want to be frank and direct: this will be a long, difficult, and expensive process. Anyone who tells you there are quick fixes, even with modern technology tools, doesn’t understand the complexity of the challenge."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0130::Infraestrutura e porte populacional",
+   "unit_id": "W0130",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Tom Frieden",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13471,
+     "fim_corpo": 14341,
+     "trecho": "Direct CDC funding to cities in another excellent way to get resources to where they are likely to be used more effectively. Fifth, we must address the chasms between federal and state and, in most states, between state and local public health agencies. A greatly expanded CDC program to embed thousands of epidemiologists and public health implementation specialists in state, city, and local public health departments, with regular rotation of staff back to the Atlanta, Georgia, headquarters after two to five years would help build a common culture and forge a way forward to take practical action to confront the full range of health threats facing the country. These embedded specialists and experts should focus on reducing preventable illness, injury, and death, especially in underserved and Black, Latinx, and Native American/American Indian communities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0130::Posição no trabalho",
+   "unit_id": "W0130",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Tom Frieden",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 273,
+     "fim_corpo": 1198,
+     "trecho": "I’m Dr. Tom Frieden. I was CDC Director from 2009 to 2017 and New York City Health Commissioner from 2002 until my appointment to lead the CDC. I received my MD and MPH degrees from Columbia University, with advanced training in internal medicine, infectious disease, public health, and epidemiology. I am President and CEO of Resolve to Save Lives, an initiative of global public health organization Vital Strategies, and Senior Fellow for Global Health at the Council on Foreign Relations. Resolve to Save Lives partners with countries to prevent 100 million deaths from heart disease and stroke and to make the world safer from epidemics. It has been more than a century since there has been a pandemic this disruptive. The toll on human lives and livelihoods has been shocking. Families and communities have experienced tremendous loss. Health care workers and public health professionals have died in the line of duty."
+    },
+    {
+     "inicio_corpo": 1056,
+     "fim_corpo": 1920,
+     "trecho": "Families and communities have experienced tremendous loss. Health care workers and public health professionals have died in the line of duty. Parents are have had to make the tough decision of whether to work or assist in their child’s remote education for much of the year. Every statistic we see, whether a case, hospitalization, or one of the more than 535,000 reported deaths from COVID-19 in the U.S. represents a mother, father, neighbor, colleague, or friend. We must work together to reduce the toll of this pandemic and do everything in our power to make sure nothing like this ever happens again. In January 2020, Resolve to Save Lives pivoted to working on COVID-19. We offered to assist any government in any part of the world fighting the pandemic. We advise organizations, governments, health systems, doctors, nurses, and other health care workers."
+    },
+    {
+     "inicio_corpo": 1331,
+     "fim_corpo": 2480,
+     "trecho": "Every statistic we see, whether a case, hospitalization, or one of the more than 535,000 reported deaths from COVID-19 in the U.S. represents a mother, father, neighbor, colleague, or friend. We must work together to reduce the toll of this pandemic and do everything in our power to make sure nothing like this ever happens again. In January 2020, Resolve to Save Lives pivoted to working on COVID-19. We offered to assist any government in any part of the world fighting the pandemic. We advise organizations, governments, health systems, doctors, nurses, and other health care workers. We partner with more than 60 countries, learning from and with them and sharing lessons from the front lines of this pandemic. Among other efforts, we support: • Rapid response funds; • Protection of health care workers; and • Tracking and improving systems to improve the ability of communities, health care systems, and countries to base actions on data, including laboratory networks, disease monitoring programs, survey, mobility, and mortality data; and • Global initiatives, including partnerships with development banks and international organizations."
+    },
+    {
+     "inicio_corpo": 6943,
+     "fim_corpo": 7915,
+     "trecho": "This contributed to the United States experiencing one of the highest per-capita mortality rates in the world, nearly double that of Germany, nearly triple that of Canada, and more than ten times that of Norway and Finland, to give just a few examples. We can’t bring back the lives lost. What we can do is make sure a preventable catastrophe on this scale cannot happen again. Now is the time to build the sustainable public health infrastructure we need to prevent, detect, and respond to the next pandemic – a pandemic that could happen 10 years from now, or 10 days from now – the microbes won’t wait. How do we do this? First, make long-term investments. Congress has already taken significant steps to build the public health infrastructure we need by making investments in the previous COVID-19 relief bills. Investments for public health workforce, laboratory capacity, genomic sequencing, data modernization and forecasting, and global health are a great start."
+    },
+    {
+     "inicio_corpo": 9584,
+     "fim_corpo": 10323,
+     "trecho": "Lack of accurate, real-time information was one of the greatest failures of the U.S. response to the COVID-19 pandemic. 1 https://www.reuters.com/article/us-health-coronavirus-china-cdc-exclusiv/exclusive-u-s-slashed-cdc-staff-inside-china-prior-to-coronavirus-outbreak-idUSKBN21C3N5 The elements are in place for a transformational, nationwide approach to public health informatics with data from all providers and reporting and public dissemination at local, state, and national levels. This will require full protection of privacy within the authorities granted to public health. To achieve this goal, it will be necessary to attract data-driven and tech-savvy public health workers, something which will also create good jobs."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0130::Raça e etnia",
+   "unit_id": "W0130",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Tom Frieden",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Native American",
+     "forma_encontrada": "Native American",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "American Indian",
+     "forma_encontrada": "American Indian",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13471,
+     "fim_corpo": 14341,
+     "trecho": "Direct CDC funding to cities in another excellent way to get resources to where they are likely to be used more effectively. Fifth, we must address the chasms between federal and state and, in most states, between state and local public health agencies. A greatly expanded CDC program to embed thousands of epidemiologists and public health implementation specialists in state, city, and local public health departments, with regular rotation of staff back to the Atlanta, Georgia, headquarters after two to five years would help build a common culture and forge a way forward to take practical action to confront the full range of health threats facing the country. These embedded specialists and experts should focus on reducing preventable illness, injury, and death, especially in underserved and Black, Latinx, and Native American/American Indian communities."
+    },
+    {
+     "inicio_corpo": 13471,
+     "fim_corpo": 14341,
+     "trecho": "Direct CDC funding to cities in another excellent way to get resources to where they are likely to be used more effectively. Fifth, we must address the chasms between federal and state and, in most states, between state and local public health agencies. A greatly expanded CDC program to embed thousands of epidemiologists and public health implementation specialists in state, city, and local public health departments, with regular rotation of staff back to the Atlanta, Georgia, headquarters after two to five years would help build a common culture and forge a way forward to take practical action to confront the full range of health threats facing the country. These embedded specialists and experts should focus on reducing preventable illness, injury, and death, especially in underserved and Black, Latinx, and Native American/American Indian communities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0130::Saúde",
+   "unit_id": "W0130",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Tom Frieden",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 574,
+     "fim_corpo": 1462,
+     "trecho": "I am President and CEO of Resolve to Save Lives, an initiative of global public health organization Vital Strategies, and Senior Fellow for Global Health at the Council on Foreign Relations. Resolve to Save Lives partners with countries to prevent 100 million deaths from heart disease and stroke and to make the world safer from epidemics. It has been more than a century since there has been a pandemic this disruptive. The toll on human lives and livelihoods has been shocking. Families and communities have experienced tremendous loss. Health care workers and public health professionals have died in the line of duty. Parents are have had to make the tough decision of whether to work or assist in their child’s remote education for much of the year. Every statistic we see, whether a case, hospitalization, or one of the more than 535,000 reported deaths from COVID-19 in the U.S."
+    },
+    {
+     "inicio_corpo": 10323,
+     "fim_corpo": 11307,
+     "trecho": "This investment—unlike past efforts—must be implemented with modern, agile informatics approaches. Federal funding for state and local public health must be predictable and sustained and should offer local and state health departments a common platform and the flexibility to strengthen the information infrastructure for evidence-based improvements in programs and policies. What would a modern public health informatics infrastructure do for us? We would have access to electronic lab reporting and electronic case reporting (eCR). eCRs would need to include case investigation data, contact tracing, and follow up, and health information exchange (HIE) for enrichment of contact information—all while strictly maintaining confidentiality and protecting privacy. This new architecture would incorporate syndromic surveillance from health care providers and hospital networks to detect unusual spikes in provider or health care utilization and provide an early warning of outbreaks."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0130::Urbano e rural",
+   "unit_id": "W0130",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Tom Frieden",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4740,
+     "fim_corpo": 5604,
+     "trecho": "To prevent the next pandemic, it’s necessary to address some hard facts and plain truths about our country’s public health infrastructure. As COVID-19 spread through the country a year ago, we saw the devastating result of decades of underinvestment. Our nation had a patchwork of underfunded, understaffed, poorly coordinated health departments and decades out-of-date data systems—none of which were equipped to handle a modern-day public health crisis. As a nation we have not adequately invested in public health. The United States spent more than $11,000 per person on health care in 2018, but 40, that’s Four-Zero times less, just $286—for public health. Our local public health departments, those on the front lines of this pandemic, often providing support for rural and vulnerable populations, lost 50,000 jobs between 2008 and 2017 due to funding cuts."
+    },
+    {
+     "inicio_corpo": 12302,
+     "fim_corpo": 13183,
+     "trecho": "These professionals, many of whom faced a barrage of criticism and even some death threats, have been fighting this pandemic in the community. Our health departments, the front lines of our health defense, must be able to respond quickly to all outbreaks and the vast number of other public health issues that face our communities, including COVID-19, influenza, antibiotic-resistant bacteria, and more. To accomplish this, they require increased resources for flexible needs, but resources should be paired with technical support and capacity building from the CDC. Saying this will not make me popular with my friends in public health, but all too often, funds disbursed to state health departments are not distributed efficiently and effectively, and not sufficiently targeted to the areas most in need of assistance, particularly vulnerable populations, and rural communities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0131::Posição no trabalho",
+   "unit_id": "W0131",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Ernest Moniz",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1106,
+     "fim_corpo": 2193,
+     "trecho": "More than half of the U.S population lives in a state or city with an emissions reduction target of 80% or greater by midcentury. Also, the European Union is developing a carbon border adjustment policy scheduled to be released this summer. And finally, the COVID pandemic serves as a constant and critical reminder of the ongoing need for jobs and the almost unparalleled need to support an economic recovery plan. We made energy infrastructure an early priority in my tenure as Secretary at DOE with the drafting and publication of the first installment of the Quadrennial Energy Review, or QER, which was focused on energy infrastructures, including shared infrastructures. This installment made 63 recommendations for building a smarter, cleaner electric grid; promoting workforce training and development; reducing emissions from natural gas systems; supporting the re -investment into our critical waterborne transport systems; and enabling improved siting and permitting issues that are critical steps for deploying innovative systems to the market."
+    },
+    {
+     "inicio_corpo": 21141,
+     "fim_corpo": 22077,
+     "trecho": "In developing offshore wind infrastructure, the US has an opportunity to support high-paying domestic jobs in the steel, manufacturing, and utility sectors. It is critical that any offshore wind policy -- perhaps with a phase-in period for domestic content -- be designed to encourage a build out our domestic supply chain capabilities to support this new industry. Current commitments for Atlantic Coast wind development total 32GW —about three percent of total current U.S. capacity. This capacity could require deployment of about 4,000 turbines, creating tens of thousands of new jobs. About 20 GW of projects are in various stages of planning and development, implying up to $68 billion in capital investments, not including necessary investments in supporting infrastructure, shipping and port capacity, or workforce development.2 2 Special Initiative on Offshore Wind, \"Supply Chain Contracting Forecast for U.S."
+    },
+    {
+     "inicio_corpo": 31911,
+     "fim_corpo": 32621,
+     "trecho": "EFI is evaluating opportunities to create an improved data and analysis framework for better modeling methane leakage fro m the natural gas infrastructure, as a foundation for future policy and regulations to manage its emissions. Natural gas, as noted, is also an essential fuel for the U.S. industrial sector, that currently has few options for mitigating CO2 emissions. Also, as noted, key industries – chemicals, plastics, iron, and steel—use natural gas as a fuel for process heat, and to produce the hydrogen used in a range of other industrial processes. These industries represent a major portion of U.S. GDP and employ hundreds of thousands of workers, across many regions of the country."
+    },
+    {
+     "inicio_corpo": 45333,
+     "fim_corpo": 45928,
+     "trecho": "And this demand growth is not occurring in a vacuum. Net zero targets are increasing demand—and competition—for steel, EVs, batteries, and other key materials and technologies around the world. The need to address these issues was underscored by President Biden’s Executive Order 14017, America’s Supply Chains, which notes that “ More resilient supply chains are secure and diverse —facilitating greater domestic production, a range of supply, buil t-in redundancies, adequate stockpiles, safe and secure digital networks, and a world -class American manufacturing base and workforce."
+    },
+    {
+     "inicio_corpo": 50607,
+     "fim_corpo": 51636,
+     "trecho": "Cyber-Security. Ensuring cybersecurity must be a fundamental consideration when modernizing and expanding U.S. energy infrastructures. The modern energy system —including the electric grid, natural gas systems, on - road and air transport, and manufacturing—will become increasingly dependent upon cyber-physical systems. As the energy system becomes smarter through the integration of information and operational technologies, the risks posed by cyber-attacks will increase. There are, however, also opportunities to engineer cybersecurity into the future energy infrastructure in a way that supports decar bonization, operational resilience, and security. This will include developing intrusion detection systems into critical components, expanding our capability to monitor and track the supply chains for critical components, embedding cybersecurity into training across the entire workforce, building on our strong information sharing programs between the government and private sector and among industry itself."
+    },
+    {
+     "inicio_corpo": 54089,
+     "fim_corpo": 54859,
+     "trecho": "The pre vious Administration discontinued this survey. Understanding its importance, EFI and NASEO have sustained this critical work and released a five -year trend analysis of energy jobs last year. The data in this summary analysis (all pre -COVID) indicated tha t energy jobs were created at twice the rate of overall jobs in the economy, a critical consideration as we work on COVID recovery. Special attention needs to be paid to conventional energy jobs and providing the training and cross-walking to clean energy jobs. Again, offshore wind provides an example. The skills of oil and gas workers who have experience with building and maintaining offshore drilling platforms can be transferred to offshore wind platform construction and maintenance."
+    }
+   ]
+  }
+ ]
+}

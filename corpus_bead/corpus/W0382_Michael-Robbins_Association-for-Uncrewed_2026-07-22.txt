@@ -1,0 +1,885 @@
+# W0382 | Michael Robbins | Association for Uncrewed Vehicle Systems International (AUVSI)
+# 119th Congress | House | 2026-07-22
+# Legislative Hearing on Protecting Communications Networks and Improving Connectivity
+# source: https://www.congress.gov/119/meeting/house/119488/witnesses/HHRG-119-IF16-Wstate-RobbinsM-20260722.pdf
+
+TESTIMONY OF 
+ 
+ 
+Michael Robbins 
+President and Chief Executive Officer 
+Association for Uncrewed Vehicle Systems International (AUVSI) 
+ 
+ 
+BEFORE 
+ 
+ 
+U.S. House of Representatives 
+Committee on Energy and Commerce 
+Subcommittee on Communications and Technology 
+ 
+ 
+“Legislative Hearing on Protecting Communications Networks and Improving Connectivity” 
+ 
+ 
+ON 
+ 
+ 
+July 22, 2026 
+Washington, DC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+2 
+ 
+SUMMARY OF TESTIMONY — AUVSI, the world’s largest nonprofit organization 
+dedicated to advancing uncrewed systems, autonomy, and robotics, testifies in strong support of 
+the Guarding the U.S. Against Adversarial Robotics Dominance (GUARD) Act. AUVSI 
+represented the drone industry as the People’s Republic of China (PRC) captured the U.S. drone 
+market. The PRC is now running the same strategy in robotics but has not yet succeeded, so 
+Congress must act while the cost is low.  
+• The drone lesson. By the time national security restrictions arrived, a single subsidized 
+PRC manufacturer accounted for ninety-six percent of the uncrewed aircraft detected in 
+U.S. airspace. The cost of restricting an adversary’s technology scales with its installed 
+base, which only grows. The GUARD Act is the chance to act on time in robotics.  
+• The national security stakes. Connected robots from PRC firms are mobile, sensor-rich 
+platforms with physical agency, and are subject to PRC laws that compel cooperation 
+with state intelligence. The national security risks — data exposure, sensor access, and 
+remote disruption — are documented and demonstrated. And robotics is the physical 
+embodiment of AI; ceding the U.S. deployment base to the PRC surrenders data on which 
+AI leadership will be built.  
+• Beijing’s strategy — and the closing window to act. China treats robotics as a strategic 
+priority and pours in state resources: over $20 billion in robotics subsidies in 2024–25 
+alone, and a roughly $137 billion AI and robotics national fund, plus purchase subsidies 
+and state-directed buyers. That backing is why Chinese firms shipped roughly ninety 
+percent of the world’s humanoid robots in 2025. This is the same subsidize-saturate-
+export playbook that captured the global drone market. The covered robotic market is still 
+nascent, with global humanoid shipments quintupling but reaching only the low tens of 
+thousands in 2025, so there is a window to act. Yet early capture is already visible in U.S. 
+research institutions and law enforcement, so the time to act is now.   
+• What effective legislation must do. Act early; restrict finished adversary systems now 
+while studying components for potential action later; protect allies in statute; set 
+deadlines with consequences, and impose rigorous oversight; give industry transparency, 
+predictability, and input; and pair risk-based restrictions with investment. The GUARD 
+Act measures well against these principles, and AUVSI offers refinements, including 
+on adjacent uncrewed mobile ground systems.  
+• Minimal disruption today, rising costs tomorrow. The bill’s impact on U.S. commerce 
+is small: China supplies only about four percent of U.S. industrial robotics imports — 
+roughly $30 million in 2024 — and one leading PRC maker of both covered form factors 
+reported total global revenue of about $250 million, of which U.S. sales are a fraction. 
+A broader-scope bill would reach more, yet even that impact would be small. And the bill 
+restricts finished systems, not the components. American industry supports action, and 
+because market disruption grows with the PRC’s installed base in the United States, the 
+costs of inaction far exceeds the costs of acting now.  
+• Completing the strategy — restrictions and investments. Risk-based restrictions must 
+be paired with a national robotics commission, a national strategy, and investment in U.S. 
+industry: secure supply chains for critical inputs like rare-earth magnets, domestic 
+financing, procurement demand signals, and workforce development.  
+AUVSI urges the Committee to advance the GUARD Act, and Congress to pass it.  
+3 
+ 
+I. Introduction 
+Chairman Hudson, Ranking Member Matsui, and distinguished Members of the Subcommittee: 
+thank you for the opportunity to testify today, and thank you for this Committee’s leadership in 
+confronting the national security risks posed by robotics systems produced by foreign 
+adversaries. AUVSI appears today in strong support of the Guarding the U.S. Against 
+Adversarial Robotics Dominance (GUARD) Act, and this testimony explains why we believe it 
+is timely, important, and urgently needed. 
+My name is Michael Robbins, and I serve as President and CEO of the Association for 
+Uncrewed Vehicle Systems International (AUVSI). Founded in 1972, AUVSI is the world’s 
+largest nonprofit organization dedicated to advancing uncrewed systems, autonomy, and 
+robotics. Our approximately 500 member organizations and companies include manufacturers, 
+operators, public safety agencies, logistics providers, network and software companies, and 
+academic institutions. Our membership, which operates in both the defense and commercial 
+sectors, spans every domain in which autonomous technologies operate — air, ground, and 
+maritime — and ranges from drone manufacturers and operators to the companies building 
+America’s humanoid and ground robotics industry, along with the component suppliers, software 
+developers, integrators, researchers, and end users who make up the broader ecosystem. Through 
+our Partnership for Robotics Competitiveness1, AUVSI convenes leading American robotics 
+companies to develop the policy agenda for U.S. robotics leadership, and I have had the privilege 
+of testifying on these issues this year before the House Committee on Homeland Security and the 
+ 
+1AUVSI Partnership for Robotics Competitiveness: Securing U.S. Leadership in Robotics and Physical Artificial 
+Intelligence White Paper, https://www.auvsi.org/wp-content/uploads/2026/02/AUVSI-PFRC-Whitepaper.pdf 
+4 
+ 
+House Committee on Science, Space, and Technology. Our testimony today continues and builds 
+on that record. 
+The breadth of AUVSI’s work is why we begin our testimony not with robotics, but with drones. 
+AUVSI occupies a distinct vantage point on the question before this Subcommittee: we 
+represented the American drone industry as the People’s Republic of China (PRC) captured the 
+U.S. drone market, and we represent the American robotics industry today, as the same strategy 
+is applied again — crucially, before it has succeeded. We watched the first chapter of this story 
+unfold from the front row, and we are watching the second chapter begin. If you act now, 
+Congress has the opportunity to chart a different course for American leadership and national 
+security. The GUARD Act before this Subcommittee is that opportunity, and AUVSI strongly 
+supports it. 
+II. The Drone Lesson: What Happens When Policy Fails American Industry 
+The experience of the U.S. drone market is the essential context for the legislation before this 
+Subcommittee, and it merits careful examination, because its central dynamics are now repeating 
+in robotics. 
+Over roughly a decade, PRC-based manufacturers — above all DJI — came to dominate 
+American skies. By the time meaningful national security-based restrictions arrived, DJI held 
+approximately ninety percent of the global consumer drone market, roughly seventy percent of 
+the overall civilian drone sector, and close to eighty percent of the U.S. commercial segment.2 A 
+2021 survey found that more than ninety percent of U.S. public safety agencies operating drones 
+5 
+ 
+flew DJI aircraft.3 Federally funded research analyzing Remote ID telemetry found that DJI-
+manufactured platforms comprised ninety-six percent of the uncrewed aircraft detected in U.S. 
+airspace through late 2025.4 Share on that scale was engineered in Beijing, not earned in the 
+market. By the time national security restrictions arrived, American operators had built their 
+operations around a single foreign supplier, and that strategic dependence made every later 
+policy choice harder, even if in the best interest of U.S. national security. 
+That concentration carried national security consequences. Drones are flying sensor platforms. 
+At that scale of deployment, aerial imagery and mapping of American cities and critical 
+infrastructure, and detailed patterns of how U.S. public safety agencies operate, accumulated on 
+systems manufactured by companies subject to PRC legal jurisdiction. And because drones are 
+remotely operated flying machines, a compromised or maliciously directed aircraft is not only a 
+collection risk but a potential physical hazard to people and property. The Cybersecurity and 
+Infrastructure Security Agency and the Federal Bureau of Investigation warned in joint guidance 
+that Chinese-manufactured drones present significant risks to critical infrastructure and U.S. 
+national security, given PRC legal authorities that compel companies to provide access to data.5 
+This dominance did not come about because Chinese drones were necessarily superior. It came 
+about because they were cheaper, and they were cheaper because Beijing’s industrial policy 
+ 
+2 Special Competitive Studies Project, 2025 Gaps Analysis: Commercial Drones, https://www.scsp.ai/reports/2025-
+gaps-analysis/gaps-analysis/commercial-drones/. 
+3 AIRT/DRONERESPONDERS public safety survey (2021), https://www.droneresponders.org/post/dji-domination-
+of-public-safety-drone-sector-continues-as-autel-robotics-surges-to-second-position  
+4 ASSURE, Drone Traffic Analysis (A11L.UAS.122): 2025 Annual Report, FAA Center of Excellence for UAS 
+Research (Jan. 15, 2026), https://assureuas.com/wp-content/uploads/2024/07/A83_2025-Annual-
+Report_v5_web.pdf.  
+5 Cybersecurity and Infrastructure Security Agency and Federal Bureau of Investigation, Cybersecurity Guidance: 
+Chinese-Manufactured Unmanned Aircraft Systems, (January 17, 2024), 
+https://www.cisa.gov/sites/default/files/2024-01/Cybersecurity%20Guidance%20Chinese-
+Manufactured%20UAS.pdf. 
+6 
+ 
+made them so, to create strategic dependence. This playbook has been used repeatedly by the 
+Chinese Communist Party (CCP) across industry sectors. Sustained state subsidies enabled 
+below-cost pricing that no commercially based manufacturer, American or allied, could match. 
+American buyers, behaving rationally, bought capable products at the lowest price. The installed 
+base compounded year over year, and training pipelines, maintenance ecosystems, software 
+integrations, and procurement habits organized themselves around the dominant platform. No 
+one set out to build a domestic constituency for a foreign national champion; it emerged one 
+purchase at a time, as the installed base grew and the cost of unwinding it grew with it. 
+The strategic dependence, moreover, ran deeper than the aircraft themselves. Chinese-
+manufactured platforms and Chinese-manufactured components — flight controllers, navigation 
+systems, sensors and cameras, communications links, batteries, and control software — became, 
+in effect, the default supply chain for the American drone ecosystem. Divesting from that 
+position has proven extraordinarily difficult. Replacing a compromised component means 
+requalifying suppliers, redesigning aircraft, and recertifying systems, often on timelines 
+measured in years. Agencies and operators face real transition costs to replace fleets their 
+missions depend on. And American manufacturers seeking to rebuild capacity must enter a 
+market whose prices were anchored below cost by a subsidized incumbent — competing, in 
+practical terms, not against a company but against a state. That untangling is still underway 
+today, and its difficulty is the clearest measure of what delay costs. 
+By the time Washington moved decisively, the remaining options were costly ones. Congress 
+began responding with the American Security Drone Act, which restricted federal procurement 
+and operation of covered foreign-made drones — an important start, though focused only on 
+government use. Then Section 1709 of the Fiscal Year 2025 National Defense Authorization Act 
+7 
+ 
+required a national security review of the leading PRC drone makers within one year, with 
+placement on the Federal Communications Commission’s (FCC) Covered List as the 
+consequence of either an adverse determination or a failure to complete the review. That 
+deadline produced a determination within the statutory year, and in December 2025 the FCC 
+updated the Covered List accordingly.6 AUVSI has long supported strong action on foreign 
+adversary drones, and we believe such measures are most effective — and most durable — when 
+they are based on verified national security risk and focused on foreign adversary systems, rather 
+than sweeping in production from allied and partner nations that present no comparable risk. 
+Nonetheless, this action came after a decade of entrenchment. The American drone ecosystem — 
+manufacturers, operators, public agencies, and the retail channels alike — is now bearing 
+transition costs, supply adjustments, and operational disruptions that would have been a small 
+fraction of their present size had the United States acted when the market was nascent. American 
+manufacturers in the drone industry, for their part, are now scaling admirably into the opening — 
+but they are doing so a decade later than necessary, against an incumbent whose dominance 
+formed during the years in which the United States lacked a policy response. 
+The lesson can be stated precisely: the cost of restricting an adversary’s technology is a function 
+of its installed base, and the installed base only grows. Every year of delay converts a relatively 
+inexpensive decision into a more expensive one. That lesson points in two directions at once — 
+toward timely, well-scoped restrictions on adversary systems, and toward sustained investment 
+in domestic production, the industrial base, and allied supply chains. Both directions run 
+throughout this testimony, and the opportunity now before Congress is to apply them in robotics 
+ 
+6 Federal Communications Commission, Public Safety and Homeland Security Bureau, Public Notice DA 25-1086, 
+https://docs.fcc.gov/public/attachments/DA-25-1086A1.pdf.  
+8 
+ 
+while doing so remains inexpensive. The GUARD Act is precisely that application: the drone 
+lesson, learned on time. 
+III. The Stakes: Cyber-Physical Risk and the Future of Physical AI 
+Before returning to the current state of the robotics market, AUVSI believes it is important to 
+highlight what is at stake — because this is, at its core, a national security issue. The risks that 
+motivated Congress to act on Chinese telecommunications equipment and Chinese drones apply 
+fully to Chinese robotics. Like drones, ground robots are mobile, connected sensor platforms, 
+and each class of mobile system creates its own distinct threat profile. What distinguishes ground 
+robots is where and how they operate: within facilities, workplaces, and homes rather than 
+overhead, and with the ability not only to observe their surroundings but to physically 
+manipulate them — to grasp, carry, open, and actuate. Robots extend the same adversary-access 
+problem into new spaces, and add physical manipulation to it. 
+Connected robots are networked, sensor-rich platforms with physical agency. The risk they 
+present has three dimensions. First, data exposure: these systems continuously collect facility 
+layouts, movement patterns, operational workflows, and records of human-machine interaction. 
+Aggregated across deployments, this data reveals sensitive insight into American manufacturing 
+operations, critical infrastructure, military and government facilities, supply chains, and — as 
+these systems enter homes and care settings — the private lives of American families. Second, 
+sensor access: onboard cameras, microphones, LiDAR, and other sensors can be remotely 
+tasked, converting a commercial product into a surveillance instrument inside the perimeter of a 
+factory, a hospital, a warehouse, or a living room. Third, remote disruption and manipulation: 
+vulnerabilities in software, firmware, or vendor-managed cloud services translate directly into 
+9 
+ 
+physical consequences — halted production lines, safety hazards to workers, or the deliberate 
+misuse of a machine that can move, grasp, and apply force. Because these systems depend on 
+vendor-managed updates, diagnostics, and cloud services for their entire operating life, the 
+access is not a one-time exposure; it is persistent, by design. 
+Mobility compounds all three dimensions. A compromised laptop exposes data; a compromised 
+robot can expose data and also move, map, surveil, and act. A stationary sensor observes one 
+room; a mobile robot traverses its environment, learns the layout, and carries its sensors 
+wherever its legs, wheels, or tracks can go. These are machines designed to operate across the 
+industrial, public, and domestic spaces of American life. 
+These concerns are documented, not hypothetical. Security researchers identified an 
+undocumented backdoor in a leading Chinese quadruped platform that enabled remote access to 
+its cameras and controls.7 Subsequent research found Chinese humanoid robots transmitting data 
+to servers in China at regular intervals, along with an exploit permitting the takeover of entire 
+fleets of connected robots.8 Publicly available footage has shown armed Chinese quadruped 
+robots in People’s Liberation Army training exercises,9 and in June of this year the Department 
+of Defense formally designated Unitree among other PRC robotics manufacturers on its Section 
+1260H list of Chinese Military Companies operating in the United States.10 Nor is the 
+weaponization potential of these commercial platforms speculative: U.S. Marines have publicly 
+ 
+7 Sam Sabin, “Chinese Robotics Manufacturer Left Backdoor in Product,” Axios, (April 1, 2025), 
+https://www.axios.com/2025/04/01/threat-spotlight-backdoor-in-chinese-robots-future-of-cybersecurity. 
+8 Mayoral-Vilches, V., Makris, A., & Finisterre, K. (2025). Cybersecurity AI: Humanoid Robots as Attack Vectors. 
+arXiv:2509.14139. https://arxiv.org/abs/2509.14139 
+9 Jane Tang, “‘The Robot Dog’s Time to Kill’: At China’s Star Robotics Firm, the Military Ties Keep Mounting,” 
+The Brief (Kharon), (July 16, 2025), https://www.kharon.com/brief/unitree-robotics-china-pla. 
+10 
+ 
+experimented with firing a rocket from a commercially available Chinese-made quadruped 
+purchased online, underscoring both how readily these systems convert to kinetic use and how 
+easily commercially available PRC platforms can end up in sensitive environments — including 
+U.S. military training settings — through nothing more than an online purchase.11 Congress has 
+recognized the adjacent risks as well: bipartisan legislation has been introduced in both chambers 
+— including the Securing Infrastructure from Foreign Adversaries Act and the SAFE LiDAR 
+Act — to address the mapping and surveillance risks posed by adversary-manufactured LiDAR 
+deployed in the United States. 
+The risk is structural as well as technical. Under the PRC’s National Intelligence Law of 2017 
+and related data security statutes, Chinese companies are legally obligated to support state 
+intelligence work and prohibited from disclosing that cooperation.12 No contract, no audit, and 
+no firmware update can amend the legal jurisdiction of the manufacturer. The public record on 
+PRC cyber operations against U.S. critical infrastructure shows that pre-positioning access inside 
+American systems is an observed adversary behavior, not a theoretical one. A mobile, sensor-
+rich, remotely updatable machine operating inside American facilities, or moving through 
+American communities, extends that pre-positioning risk into physical space — and adds the 
+dimension of onboard manipulation. 
+ 
+10 U.S. Department of Defense, Entities Identified as Chinese Military Companies Operating in the Uni ted States in 
+Accordance with Section 1260H (June 8, 2026), https://media.defense.gov/2026/Jun/08/2003945537/-1/-
+1/1/ENTITIES-IDENTIFIED-AS-CHINESE-MILITARY-COMPANIES-OPERATING-IN-THE-UNITED-
+STATES-IN-ACCORDANCE-WITH-SECTION-1260H.PDF.  
+11 Konkel, Todd South, "Watch Marines fire rocket from 'creepy' robot goat available on Amazon," Military Times 
+(Oct. 27, 2023), https://www.militarytimes.com/off-duty/military-culture/2023/10/27/watch-marines-fire-rocket-
+from-creepy-robot-goat-available-on-amazon/.  
+12 U.S. Department of Homeland Security, Data Security Business Advisory: Risks and Considerations for 
+Businesses Using Data Services and Equipment from Firms Linked to the People's Republic of China  (Dec. 2020), 
+https://www.dhs.gov/sites/default/files/publications/20_1222_data-security-business-advisory.pdf  
+11 
+ 
+There is a second dimension to the stakes, and it is inseparable from the first. If PRC-subsidized 
+industry captures the American robotics market, the United States does not merely lose market 
+share and economic competitiveness — it forfeits technology leadership in the physical form of 
+artificial intelligence (AI), in both hardware and software, and it locks in the data, access, and 
+sabotage risks described above at national scale, on a lasting basis. 
+On the hardware side, manufacturing scale drives the cost curves, the engineering know-how, the 
+component ecosystems, and the supply-chain depth that determine who can build the next 
+generation of these machines at all. The world has already run this experiment once in robotics: 
+none of the world’s ten largest industrial robotics companies is headquartered in the United 
+States, and America’s industrial robotics sector is a small fraction of China’s.13 Humanoid and 
+mobile ground robotics is the category where that outcome is not yet locked in — where 
+American companies lead in innovation and can still lead in production, if the market they are 
+scaling into is not ceded to a PRC-subsidized competitor first. 
+On the software and data side, advanced robots are embodied AI. As AUVSI stated in testimony 
+before the Science Committee this spring, if AI is the brain, robotics is increasingly the body — 
+the means through which artificial intelligence acts in, and creates value in, the physical world.14 
+Leadership in physical AI will be decided by real-world deployment data, the millions of hours 
+of operation through which these systems learn to perceive, navigate, and manipulate their 
+ 
+13 CSIS ChinaPower Project, How Are China’s Robotics Ambitions Transforming Global Industry? (February 2026), 
+https://chinapower.csis.org/china-industrial-robots/. 
+14 Michael Robbins (AUVSI), Testimony Before the House Science, Space, and Technology Committee, 
+Subcommittee on Research and Technology (Apr. 21, 2026), https://republicans -
+science.house.gov/_cache/files/4/d/4de5c690-938f-4d16-a9bc-
+077f69b65403/6B2EA35B4358D67F144AC9B48CFCEB5D39E4A7EBF4170430E3D0CB5745B73377.04.21.26 -
+robotics-hearing-testimony---mr.-michael-robbins.pdf 
+12 
+ 
+environments. Chinese firms already hold a substantial and widening lead in deployment data.15 
+And because these systems learn from use, the dynamic is circular: deployment generates data, 
+data improves the systems, and better systems win more deployment. The longer PRC platforms 
+are permitted to grow their foothold in the American market, the faster that loop compounds for 
+Beijing’s industry — every additional year of U.S. deployment accelerates the adversary’s 
+improvement. Deployment, in other words, is never neutral. Every PRC robot operating in an 
+American facility is simultaneously revenue for a subsidized competitor, training data for an 
+adversary’s AI ecosystem, and product iteration for the next model. America can lead the world 
+in AI software and still lose the AI era if that software has no American-made systems to run on, 
+and no American deployment base generating the data on which physical AI is built. The 
+converse is the danger: if the PRC dominates the deployment base, the data generated in 
+American factories, warehouses, and homes improves the PRC’s AI — not ours. 
+Losing this market would therefore not be an economic setback alone. It would amount to a 
+national security decision — the forfeiture of American leadership in a defining dual-use 
+technology of the coming decades, combined with the lasting embedding of adversary-controlled 
+machines across our economy and our homes. Congress should not let that decision be made by 
+default. The GUARD Act exists to ensure it is made deliberately. 
+IV. Robotics Today: The Window Is Open — But Closing Fast 
+With those stakes in view, the single most important fact about the robotics market is this: the 
+PRC’s capture effort has begun, but it has not yet succeeded. The window in which Congress can 
+ 
+15 China Power Team, "Is China Leading the Robotics Revolution?", ChinaPower Project, CSIS (Feb. 12, 2026), 
+https://chinapower.csis.org/china-industrial-robots/.  
+13 
+ 
+act at minimal cost is open today. We must act now — and the GUARD Act is the vehicle for 
+doing so. 
+The global market for humanoid robots remains genuinely nascent. Industry analysts estimate 
+that between roughly 13,000 and 16,000 humanoid robots were shipped worldwide in all of 2025 
+— most of them in the United States are for pilot programs, research, and demonstration rather 
+than production use.16 For perspective, that is a global total, across every country and every use 
+case. The U.S. installed base of PRC humanoid and quadruped systems is correspondingly small 
+in absolute terms. Even in the broader and far more mature industrial robotics trade, China 
+accounted for just 16.7 percent of global exports in 2024 — and the United States imports most 
+of its industrial robots from allies such as Japan and Germany, not from China.17 
+But the market is growing explosively — global humanoid shipments more than quintupled from 
+2024 to 202518 — and the early capture dynamics are no longer theoretical. They are observable, 
+on American soil, in the two segments where adoption tends to begin. The covered categories 
+move together here: quadrupeds are the more commercially mature of the two, and what has 
+already happened in the quadruped market is the leading indicator for what is beginning in 
+humanoids. 
+ 
+16 Omdia estimates approximately 13,000 units: “Chinese Firms Dominated Global Humanoid Robot Shipments in 
+2025,” Bloomberg, January 8, 2026, https://www.bloomberg.com/news/articles/2026-01-08/chinese-firms-
+dominated-global-humanoid-robot-shipments-in-2025. Counterpoint Research estimates approximately 16,000 
+units: https://counterpointresearch.com/en/insights/Global-Humanoid-Robot-Installations-Reach-16%2C000-Units-
+in-2025-as-Mass-Production-Picks-Pace. 
+17 China Power Team, "Is China Leading the Robotics Revolution?", ChinaPower Proj ect, CSIS (Feb. 12, 2026), 
+https://chinapower.csis.org/china-industrial-robots/.  
+18 “Chinese Firms Dominated Global Humanoid Robot Shipments in 2025,” Bloomberg, January 8, 2026, 
+https://www.bloomberg.com/news/articles/2026-01-08/chinese-firms-dominated-global-humanoid-robot-shipments-
+in-2025. 
+14 
+ 
+The first segment is research. As Boston Dynamics, an American robotics pioneer and AUVSI 
+member, testified before the House Committee on Homeland Security in March, the U.S. 
+academic and research market for quadruped robots — once led by American platforms — 
+shifted to lower-cost Chinese systems in a span of roughly twelve to eighteen months.19 The 
+research market matters far beyond its size. It is where the next generation of American 
+roboticists is trained, where software ecosystems and tooling form around platforms, and where 
+network effects — the self-reinforcing advantages a platform gains as more people build on it — 
+are born. The platforms our graduate students learn on today are the platforms their companies 
+will buy tomorrow. 
+The second segment is public safety. American law enforcement agencies have begun adopting 
+Chinese-manufactured robot dogs, in a pattern that industry witnesses have compared explicitly 
+to the early years of Chinese drone adoption by public safety agencies.20 The comparison matters 
+because public safety adoption is precisely how the drone dependency became entrenched: once 
+American first responders depend on a platform, restricting it means imposing costs on the 
+agencies that protect our communities, and the path to restriction becomes far more difficult. 
+That constituency is forming again now, one department at a time. Compounding the challenge, 
+Chinese-manufactured robotic systems have appeared in the U.S. market under other brand 
+ 
+19 Testimony of Boston Dynamics before the House Committee on Homeland Security, Subcommittee on 
+Cybersecurity and Infrastructure Protection, March 17, 2026, https://homeland.house.gov/wp -
+content/uploads/2026/03/Subcommittee-on-Cybersecurity-and-Infrastructure-Protection-Hearing-Testimony.pdf. 
+20 Testimony of Boston Dynamics before the House Committee on Homeland Security, Subcommittee on 
+Cybersecurity and Infrastructure Protection, March 17, 2026, https://homeland.house.gov/wp -
+content/uploads/2026/03/Subcommittee-on-Cybersecurity-and-Infrastructure-Protection-Hearing-Testimony.pdf. 
+15 
+ 
+names.21 This mirrors a broader pattern across Chinese-linked industries, where entity-by-entity 
+restrictions have proven insufficient to catch obscured ownership and rebranded products.22  
+AUVSI would ask the Committee to hold these facts together in a particular way. In drones, the 
+statistics we cited in Section II are history — measured, documented, and reversible only at great 
+cost. In robotics, the equivalent statistics are still forecasts. That demonstrates precisely the 
+opportunity: Congress has a chance to legislate while the dependency is a projection rather than a 
+fact, and the growth curve is the measure of how quickly that chance is passing. None of this is 
+happening by accident — which brings us to how it is being engineered by the CCP. 
+V. The Playbook: How Beijing Builds a Monopoly 
+What happened in drones — and what is now beginning in robotics — was not an accident of 
+commerce. It was the execution of a documented industrial strategy, one the PRC has carried to 
+completion in multiple sectors. Understanding that strategy matters, because it tells this 
+Committee what the next five years look like absent action. 
+The playbook has four moves. First, subsidize supply: the Chinese government allocated more 
+than $20 billion in robotics subsidies in late 2024 and early 2025 through grants, loans, tax 
+credits, and state-backed venture capital, while also establishing a one-trillion-yuan (roughly 
+ 
+21 "Thermonator, the Flame-Throwing Robot Dog, Can Now Be Yours for $9,420," Gizmodo (Apr. 23, 2024), 
+https://gizmodo.com/thermonator-the-flame-throwing-robot-dog-can-now-be-y-1851429292; Noah Berman, "While 
+Politicians Fret, Unitree is Selling Robots Across America," The Wire China (Nov. 23, 2025), 
+https://www.thewirechina.com/2025/11/23/while-politicians-fret-unitree-is-selling-robots-across-america-unitree-
+police-robot/. 
+22 Eli Clemens, "How Some Chinese Companies Obscure Ties to China and What Policymakers Should Do About 
+It," ITIF (Nov. 3, 2025), https://itif.org/publications/2025/11/03/some-chinese-companies-obscure-ties-to-china-
+what-policymakers-should-do-about-it/. 
+16 
+ 
+$137 billion) fund to support AI and robotics startups over the next 20 years.23 Second, subsidize 
+demand: the city of Guangzhou has subsidized twenty percent of the purchase price of locally 
+made robots since 2014; Beijing now operates purchase subsidies specifically for humanoid 
+robots; and state-owned enterprises serve as directed buyers — in 2025, state-owned China 
+Mobile awarded a roughly $17 million humanoid robot tender to Unitree Robotics and AgiBot, 
+while simultaneously holding a venture investment in Unitree.24 Sell-side subsidy, buy-side 
+subsidy, and state ownership stakes operate simultaneously; these companies are not required to 
+compete on market terms. Third, saturate the domestic market, then export — the sequence 
+the world watched in solar panels and again in electric vehicles: state-fueled domestic scale first, 
+then a wave of exports at prices no market-financed competitor can match. Analysts at CSIS 
+observe that Beijing’s priority industries have historically followed exactly this pattern, and that 
+Chinese robotics suppliers are already looking to the United States as a growth market.25 Fourth, 
+convert market share into dependence — the move the drone experience makes vivid. Once a 
+subsidized incumbent holds a dominant installed base, restrictions become costly and disruptive 
+for the Americans who rely on its products, and new entrants face a market in which nearly all 
+demand is already captured, prices are anchored below cost, and the incumbent’s ecosystem of 
+software, service, and training locks customers in. At that point, an American company seeking 
+ 
+23 Reuters, "China's AI-powered humanoid robots aim to transform manufacturing" (May 13, 2025), 
+https://www.reuters.com/world/china/chinas-ai-powered-humanoid-robots-aim-transform-manufacturing-2025-05-
+13/.  
+24 Is China Leading the Robotics Revolution?", ChinaPower Project, CSIS (Feb. 12, 2026), 
+https://chinapower.csis.org/china-industrial-robots/. 
+25 Is China Leading the Robotics Revolution?", ChinaPower Project, CSIS (Feb. 12, 2026), 
+https://chinapower.csis.org/china-industrial-robots/. See also testimony of Rush Doshi, before the House Committee 
+on Homeland Security, Subcommittee on Cybersecurity and Infrastructure Protection, (March 17, 2026), 
+https://homeland.house.gov/wp-content/uploads/2026/03/Subcommittee-on-Cybersecurity-and-Infrastructure-
+Protection-Hearing-Testimony.pdf. 
+17 
+ 
+to compete must overcome not a rival firm’s advantages but a foreign government’s balance 
+sheet. 
+It is worth pausing to consider why this competition is structurally asymmetric, because the 
+asymmetry is the heart of the problem. The United States allocates capital through private 
+markets: American robotics companies raise financing investor by investor, round by round, 
+against expectations of commercial return, and they answer for losses. That system is a profound 
+strength — it disciplines investment and rewards genuine innovation — but it means no 
+American firm has access to a sector-wide, loss-tolerant funding source. In the PRC’s state-
+directed model, by contrast, firms across a designated priority sector draw on government funds, 
+state-bank lending, and directed procurement simultaneously, and can sustain years of below-
+cost pricing because the objective is national market capture rather than firm-level profit. When a 
+market-financed company meets a state-financed sector, the outcome is not determined by which 
+builds the better product. Policy — not protectionism, but policy that restores the conditions of 
+fair competition — is the only corrective. 
+The evidence that this playbook is now aimed at robotics is visible in the shipment data 
+described in Section IV, and in who is doing the shipping. Chinese manufacturers accounted for 
+roughly ninety percent of global humanoid robot shipments in 2025.26 The leading PRC maker of 
+both humanoid and quadruped robots, Unitree Robotics, reports shipping approximately 5,500 
+humanoid robots in 2025 alone, with more than 30,000 quadruped robots sold between 2022 and 
+September 2025.27 Unitree advertises its entry-level humanoid, the R1, at $5,90028 and its 
+ 
+26 Omdia, General-Purpose Embodied Intelligent Robots, 2026 (Jan. 2026), 
+https://omdia.tech.informa.com/om143809/omdia-market-radar-generalpurpose-embodied-intelligent-robots-2026.  
+27 Unitree Robotics IPO prospectus disclosures, as reported by Rest of World (2026), 
+https://restofworld.org/2026/unitree-china-humanoid-robot-shanghai-ipo/. 
+18 
+ 
+average humanoid selling price fell from roughly $85,000 in 2023 to roughly $25,000 in 2025 — 
+a price trajectory achieved while reportedly maintaining strong margins, and one that is the 
+signature of subsidized vertical integration rather than market economics.29 At the CES 
+technology show this January, Chinese humanoid exhibitors far outnumbered their American 
+counterparts — by roughly five to one, as Boston Dynamics also observed in its testimony.30 
+Beijing is not concealing its intentions. Robotics is a named priority of the PRC’s industrial 
+planning apparatus, pursued through successive five-year plans and coordinated national 
+programs.31 Wall Street’s long-run forecasts convey the stakes: Morgan Stanley projects a global 
+humanoid robotics market exceeding five trillion dollars by 2050, with China fielding roughly 
+four times as many humanoid robots as the United States in its base case.32 Even if those 
+projections prove only half right, Beijing’s methodology is unchanged: this is a technology that 
+will become foundational across the economy — nascent today, ubiquitous within a generation 
+— and the PRC intends to own the market for it, using the same playbook that worked in solar, 
+worked in drones, and is designed to work again here. That projected gap is not, however, 
+destiny or a fait accompli. It can be changed by policy choices and action — the subject of 
+Section VIII. 
+ 
+28 New Atlas, "Affordable humanoid robot R1 launched by Unitree" (July 29, 2025), https://newatlas.com/ai -
+humanoids/unitree-r1-humanoid-robot/. 
+29 Unitree Robotics IPO prospectus disclosures, as reported by Rest of World (2026), 
+https://restofworld.org/2026/unitree-china-humanoid-robot-shanghai-ipo/. 
+30 Testimony of Boston Dynamics before the House Committee on Homeland Security, Subcommittee on 
+Cybersecurity and Infrastructure Protection, March 17, 2026, https://homeland.house.gov/wp -
+content/uploads/2026/03/Subcommittee-on-Cybersecurity-and-Infrastructure-Protection-Hearing-Testimony.pdf. 
+31 Karen M. Sutter, Congressional Research Service, Made in China 2025 and China's Industrial Policies, IF10964 
+(updated), https://www.congress.gov/crs-product/IF10964.  
+32 Morgan Stanley Research, “Humanoids: A $5 Trillion Market” (May 14, 2025), 
+https://www.morganstanley.com/insights/articles/humanoid-robot-market-5-trillion-by-2050. 
+19 
+ 
+VI. What Effective Legislation Must Do 
+AUVSI wants to offer the principles that, in our judgment — informed by our members’ 
+experience across both the drone and robotics domains — should govern legislation addressing 
+foreign adversary robotics and U.S. robotics industry competitiveness. We will then say plainly 
+how the GUARD Act measures against them, and note refinements the Committee may wish to 
+consider. 
+First, act early — before the installed base exists. The central lesson of the drone experience is 
+that the costs associated with restriction scale with entrenchment, and entrenchment compounds. 
+Legislation that waits until the problem has metastasized — until adversary systems number in 
+the millions — will arrive, as it did in drones, a decade late and at many times the economic and 
+national security cost. The nascency of today’s humanoid and quadruped market is not a reason 
+to wait; it presents the opportunity to act with optimal effect. 
+Second, restrict finished adversary systems now — and study components carefully. 
+Restricting complete advanced mobile robotics systems and their control software addresses the 
+threat where it lives: in the integrated, connected, adversary-controlled product with its vendor-
+managed software and cloud services. Components present a different and more complex 
+question. American manufacturers source components globally, and component-level restrictions 
+implicate supplier requalification, redesign, and recertification on timelines measured in years — 
+burdens that would fall in the first instance on the American companies that smart U.S. policy 
+should aim to protect and promote. The right sequence is therefore to move on finished systems 
+without delay, while directing or conducting a rigorous study of component-level risks. That 
+study should examine not only the security risks but also the impact on American industry and 
+20 
+ 
+the timing considerations of any restriction, including whether a phased approach — one that 
+gives U.S. manufacturers a clear signal and sufficient runway to identify, validate, and scale 
+trusted alternative suppliers — would best serve both security and competitiveness. The National 
+Commission on Robotics that AUVSI has championed, and whose House legislation is now 
+pending before this Committee, would be a natural home for exactly this kind of study. But 
+restrictions on finished systems should not wait for the component question to be resolved. 
+Third, protect allies and partners. Our allies are not the threat; they are essential to the answer. 
+Japan, Germany, and other allied nations supply most of the industrial robots American factories 
+use today,33 allied supply chains are woven through American robotics products, and the durable 
+long-term counter to Beijing’s scale advantage is a trusted robotics market spanning the United 
+States and its allies and partners. Recent experience with drone restrictions showed how 
+implementation can sweep more broadly than Congress may have intended, reaching allied and 
+partner production that poses no significant adversary-related risk and generating avoidable 
+disruption and uncertainty for American industry and trusted allied suppliers alike. Congress 
+should write allied protection into legislative text — expressly and unambiguously — so that it 
+does not depend on the discretion of any future implementation or action. A statute that 
+distinguishes allied from adversary production is not a loophole; it is a feature. 
+Fourth, set deadlines with consequences — or, at minimum, meaningful oversight. 
+Washington’s default outcome for difficult reviews is too often no outcome. However, one way 
+Congress has averted this fate is by pairing a mandatory national security review with an 
+automatic consequence for inaction. Review mechanisms without action-forcing deadlines risk 
+21 
+ 
+becoming open-ended deliberations while the installed base grows. But should Congress choose 
+to adjust or remove the deadline structure, any change should be paired with rigorous oversight 
+— for example, periodic reporting and briefings to the appropriate committees until the review is 
+complete — so that timely completion does not depend on goodwill alone. 
+Fifth, give industry structure, transparency, predictability, and the opportunity to provide 
+input. American companies can adapt to restrictions; they struggle to adapt to unpredictability. 
+Two distinct processes deserve this discipline. The first is the review-and-determination process 
+itself. Here, legislation should provide, or direct the Executive Branch to provide, clear 
+assessment criteria so manufacturers and buyers understand what is being evaluated and why; a 
+defined mechanism for industry and stakeholder input to the reviewing agencies, so that 
+determinations are informed by the technical and market realities industry can most effectively 
+supply; and published timelines — all operating within, and never in place of, the statutory 
+clock. The second is any exemption or specific-determination process that operates after a review 
+concludes. The same virtues apply there: published criteria, a well-defined and responsive 
+procedure, and prompt decisions, within any timeline Congress may choose to impose. In both 
+processes, uncertainty is itself a tax — on trusted manufacturers, and on American buyers 
+making multi-year capital decisions. 
+Sixth, pair restrictions with investment. Restrictions buy time and space; they do not by 
+themselves win the competition. Congress should couple risk-based security measures with an 
+affirmative agenda for American robotics capacity — a subject important enough that we address 
+it separately in Section VIII. AUVSI has consistently advocated this two-pronged approach: risk-
+ 
+33 Foundation for Defense of Democracies, "Section 232 National Security Investigation of Imports of Robotics and 
+Industrial Machinery" (Oct. 17, 2025), https://www.fdd.org/analysis/2025/10/17/section-232-national-security-
+22 
+ 
+based restrictions on adversary systems, and investment in American and allied capability. 
+Neither prong succeeds alone. 
+Measured against these principles, the GUARD Act is vital legislation that Congress should pass. 
+It acts while the market is in its early stages. It covers certain finished advanced mobile robotics 
+systems and their control software — not components. Its rule of construction expressly protects 
+NATO allies and Major Non-NATO Allies. And its review mechanism pairs a mandatory 
+national security evaluation with a deadline that has consequences. AUVSI is proud to support 
+the GUARD Act, and we stand ready to work with this Committee on refinements to the bill, as 
+well as future legislation, consistent with these principles. 
+In that spirit, AUVSI identifies several potential refinements the Committee may wish to 
+consider as the legislation advances. 
+Scope architecture. AUVSI’s judgment is that the bill’s category-based approach — requiring 
+review of a defined class of systems rather than only named companies — is the stronger design, 
+because it is more comprehensive and more resistant to under-inclusion and to PRC evasion 
+tactics such as corporate restructuring and white-labeling. Should Congress instead pursue an 
+entity- or list-based approach, AUVSI would still support the legislation but would encourage 
+Congress to consider pairing it with safeguards against evasion: for example, an express 
+requirement that reviews and restrictions reach subsidiaries, affiliates, joint-venture partners, and 
+licensing relationships of designated entities, including their products marketed under other 
+brand names; and a requirement that the Executive Branch conduct periodic reviews, informed 
+ 
+investigation-of-imports-of-robotics-and-industrial-machinery/  
+23 
+ 
+by consultation with the Intelligence Community, to keep covered-entity designations current 
+and thorough as the sector and threat evolve. 
+Durable allied protection. The Committee may also wish to consider whether allied and partner 
+protection should extend beyond actions taken pursuant to this bill — so that allied production is 
+expressly protected in any robotics-related Covered List action, however initiated. 
+Agency involvement. The Committee should consider adding the Department of Commerce — 
+specifically the Bureau of Industry and Security, with the expertise of its Office of Information 
+and Communications Technology and Services (ICTS) — as a participant in the review the bill 
+mandates. Commerce brings both national security and industry expertise, including the capacity 
+to evaluate impacts on domestic competitiveness and supply chains alongside the security 
+determination. And it maintains important relationships with industry that could be leveraged as 
+part of the review process. 
+Process guardrails. Consistent with the fifth principle above, Congress could direct the 
+reviewing agencies to publish assessment criteria and to provide a public consultation process, 
+drawing on the methodology of the connected-vehicles rulemaking under the ICTS program — 
+while requiring that these processes operate within the bill’s statutory timeline. That rulemaking 
+offers a second lesson beyond consultation: it pairs its prohibitions with a system of general and 
+specific authorizations that gives implementation nuance. Whether comparable authorization 
+mechanisms could operate alongside Covered List additions — through the FCC, or through 
+Commerce’s ICTS authorities — is a question worth the Committee’s examination. The 
+reviewing agencies could also be directed to prioritize the order of their work on a risk-informed 
+basis, taking into account factors such as the sensitivity of the environments in which systems are 
+marketed and deployed. Because these systems are mobile and readily redeployed or resold, 
+24 
+ 
+deployment context is best treated as a factor in prioritizing review rather than as a basis for 
+categorical carve-outs; if Congress wishes context to bear on outcomes, the sounder route is 
+through conditioned authorizations — mitigation measures, binding agreements, monitoring, and 
+consequences for violations — rather than through exemptions by venue. 
+Adjacent systems. Finally, the national security risks we have described attach to what a system 
+can do — function over form. Humanoid and quadruped robots do present risks that are 
+heightened by their particular form: limbed locomotion gives them the widest mobility envelope 
+of any ground system — they can climb stairs, jump over obstacles, and traverse unstructured 
+environments built for people — and theirs is the nascent market where early action is least 
+costly. The urgency of covering these systems is clear. But the core risk characteristics are not 
+confined to limbed systems. Autonomous mobile robots — AMRs, which navigate on wheels — 
+are likewise mobile, sensor-rich, network-connected platforms that operate autonomously or by 
+remote direction, map the facilities in which they work, and depend on vendor-managed software 
+throughout their service life. Their mobility envelope is narrower, but it is purpose-built: 
+wheeled bases deliver stability and efficiency in the structured environments where they operate, 
+and a growing number are fitted with manipulator arms that add reach and manipulation 
+capability. Indeed, the categories are converging from both directions: wheeled platforms are 
+gaining arms, while several manufacturers — including in China — now offer humanoid robots 
+on wheeled bases rather than legs. A humanoid on wheels carries the same kinds of sensors, 
+software dependencies, and arms as a humanoid on legs; only the locomotion differs. And the 
+deployed footprint of wheeled systems is today far larger, spanning strategically significant 
+American supply chains, from logistics and manufacturing to electronics and automotive. Similar 
+national security threats therefore exist with these systems as well, and AUVSI urges Congress 
+25 
+ 
+to also address this issue — whether within this framework, through companion measures, or by 
+directing an assessment of how best to extend coverage — so that coverage keeps pace with 
+capability across the full spectrum of uncrewed mobile ground systems.  
+AUVSI offers these refinements in the spirit of strengthening a sound bill, and we would be 
+pleased to collaborate with the Committee and its staff on any of them. 
+VII. Impact on American Industry and Supply Chains 
+AUVSI believes it important to address directly a question on the Committee’s mind, because it 
+is the question responsible legislators should ask of any market restriction: what would the 
+GUARD Act mean for American industry and its supply chains? The answer, based on the best 
+available evidence, is minimal disruption today — and market preservation tomorrow. 
+The disruption is minimal today because the covered market is nascent. As noted above, 
+global humanoid shipments in 2025 numbered in the low tens of thousands worldwide, 
+concentrated in pilot programs, research, and demonstrations; American reliance on humanoid 
+and quadruped systems in production environments is minimal. The dollar value of PRC 
+humanoid and quadruped systems entering the United States annually is, by every available 
+indicator, very small relative to the American automation economy. Even in the far larger 
+industrial robotics category, the trade is small — small in percentage terms and small in absolute 
+dollars: less than 7 percent of China’s industrial robotics exports come to the United States, 
+amounting to roughly one percent of global trade in the category.34 According to an ITIF analysis 
+of trade data, China supplies only about 4.2 percent of U.S. industrial robotics imports — 
+26 
+ 
+roughly $30 million in 2024 — while allies such as Japan, Germany, and South Korea supply 
+about 65 percent.35 And Unitree Robotics, a leading Chinese maker of both covered form factors, 
+reported total global revenue of only about $250 million in 2025 — of which U.S.-bound sales 
+are a fraction.36 The pattern across every available indicator is consistent: exposure is very small 
+in the covered categories, and small even in the far larger category surrounding them. Notably, 
+precise official statistics on humanoid and quadruped imports do not exist, because no U.S. trade 
+category isolates them — a measurement gap that itself argues for the national strategy and 
+review mechanisms discussed in this testimony, and one Congress can begin closing at low cost, 
+for example by directing the creation of distinct trade-statistics categories for humanoid, 
+quadruped, and other advanced mobile robotics systems. What can be said with confidence is 
+that the window in which restriction is nearly costless is open now. The drone experience shows 
+what it costs to let that window close. 
+The supply-chain impact is limited by the bill’s design. Because the legislation covers 
+finished systems and control software — not components such as actuators, sensors, magnets, 
+batteries, or semiconductors — American manufacturers who source components globally face 
+no disruption from this bill. No American robot requires redesign; no bill of materials requires 
+recertification; no component supplier loses an American customer. And because allied nations 
+are expressly protected by the rule of construction, the supply base American industry actually 
+uses — anchored in Japan, Europe, and other partners — remains untouched. This design choice 
+is deliberate and important. Component-level dependencies are real, and we address them in the 
+ 
+34 AUVSI calculation based on CSIS ChinaPower Project trade data (February 2026), 
+https://chinapower.csis.org/china-industrial-robots/. 
+35 Analysis based on data from ITIF, "A Time to Act: Policies to Strengthen the US Robotics Industry" (July 18, 
+2025), https://itif.org/publications/2025/07/18/time-to-act-policies-to-strengthen-us-robotics-industry/  
+27 
+ 
+next section as an investment opportunity — and, as noted earlier, as the subject for careful study 
+of impacts and timelines. The bill keeps them separate from the restriction on finished systems. 
+American industry wants action. The two-pronged approach this testimony describes — risk-
+based restrictions paired with investment in American capacity — reflects the agenda AUVSI 
+developed with the American robotics companies we convene through our Partnership for 
+Robotics Competitiveness. American robotics leaders have made the case for action on adversary 
+robotics directly to Congress this year — including Boston Dynamics, in testimony before the 
+Committee on Homeland Security.37 And when the GUARD Act was introduced, AUVSI 
+endorsed it, as did a leading American humanoid robotics company that is going public, Agility 
+Robotics, which called the legislation “an important market signal.”38 Indeed, within the 
+American robotics community, the active conversation is not whether Congress should restrict 
+adversary robotics, but how far coverage should ultimately extend — a debate about the ceiling, 
+not the floor. An industry that expected this bill to burden its supply chains would not be 
+discussing whether and how to broaden it. The real burden would be inaction: allowing the PRC 
+to continue its relatively unimpeded effort to dominate the U.S. robotics market would threaten 
+the competitiveness — perhaps the very survival — of American robotics companies, as well as 
+national security. The long-term cost of inaction far exceeds any near-term cost of adjustment.  
+ 
+36 Unitree Robotics IPO prospectus disclosures, as reported by Rest of World (2026), 
+https://restofworld.org/2026/unitree-china-humanoid-robot-shanghai-ipo/. 
+37 "DeepSeek and Unitree Robotics: Examining the National Security Risks of PRC Artificial Intelligence, Robotics, 
+and Autonomous Technologies and Building a Secure U.S. Technology Base," Hous e Committee on Homeland 
+Security, Subcommittee on Cybersecurity and Infrastructure Protection (Mar. 17, 2026), 
+https://homeland.house.gov/hearing/deepseek-and-unitree-robotics-examining-the-national-security-risks-of-prc-
+artificial-intelligence-robotics-and-autonomous-technologies-and-building-a-secure-u-s-technology-base/. 
+38 Press Release: "Moolenaar, Obernolte, McClellan Introduce Legislation to Ban Dangerous Chinese Robots," 
+Select Committee on the Chinese Communist Party (June 3, 2026), 
+https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-obernolte-mcclellan-introduce-legislation-
+to-ban-dangerous-chinese-robots. 
+28 
+ 
+The bill is a demand signal American industry is already scaling to meet. Agility’s phrase — 
+a market signal — captures what this legislation affirmatively does. The American robotics 
+market is small today but growing rapidly, and the growth is ahead of us, not behind us: by one 
+widely cited analysis, only about eight percent of U.S. manufacturing firms currently use robots 
+at all.39 That adoption gap is an enormous domestic opportunity — and the question this 
+Committee’s work will help decide is whether it is filled by trusted systems or captured by 
+subsidized, adversary ones. American manufacturers are investing to meet it: production capacity 
+in the thousands of units per year, committed order books in the hundreds of millions of dollars, 
+and private capital flowing into the sector at scale, including financing rounds approaching a 
+billion dollars for a single American humanoid company.40 What these companies need from 
+Washington is certainty that the fast-growing American market will be won on trust and merit — 
+not captured, as the drone market was, by below-cost systems subsidized by an adversary’s 
+treasury. This legislation provides that certainty. It does not close the American market; allied 
+suppliers will compete here freely, and American firms will have to earn every sale against them. 
+It addresses one strategy specifically: below-cost market capture by firms that answer to Beijing 
+rather than to markets. 
+We also want to be candid about a trade-off. Trusted systems may carry a price premium 
+today, precisely because they are not subsidized by the Chinese state. Some American buyers, in 
+the near term, may pay somewhat more for a trusted robot than they would have paid for a 
+ 
+39 Robert D. Atkinson, Meghan Ostertag, and Trelysa Long, “A Time to Act: Policies to Strengthen the US Robotics 
+Industry,” Information Technology and Innovation Foundation, July 18, 2025, 
+https://itif.org/publications/2025/07/18/time-to-act-policies-to-strengthen-us-robotics-industry/. 
+29 
+ 
+subsidized one. That premium is a function of scale, not a permanent feature of trusted 
+manufacturing. For years, subsidized PRC drone companies sold below cost and denied 
+American manufacturers the volume they needed to drive prices down. Scale was the one 
+advantage the market would not let them earn. As trusted drone companies win back share, they 
+reach the economies of scale that lower unit costs, and the premium begins to close. We are 
+seeing it now in the drone industry: as domestic volume grows, cost comes down. 
+That is not an argument against acting — it is the argument for the second prong, investing in 
+and providing incentives for U.S. industry, to which we now turn. It is also worth stating plainly 
+what the lower sticker price conceals: a discounted robot whose manufacturer is subject to an 
+adversary’s intelligence laws is not inexpensive. Its full cost is deferred, not avoided — and it 
+carries its own unpredictability, in the reliable availability, support, and security of a system 
+whose supplier answers to an adversary government. 
+VIII. Completing the Strategy: Investing in American Robotics Capacity 
+Risk-based national security restrictions are necessary; they are not sufficient. The second prong 
+of the strategy — and the half that determines whether America wins rather than merely defends 
+— is a serious national commitment to American robotics capacity. In addition to protecting, we 
+must also promote. AUVSI, through our Partnership for Robotics Competitiveness, has laid out 
+that agenda in detail, and we want to highlight for the Committee the measures we believe matter 
+most, several of which enjoy bipartisan sponsorship in this Congress. 
+ 
+40 Agility Robotics, "Opening RoboFab: World's First Factory for Humanoid Robots" (Sept. 18, 2023 ), 
+https://www.agilityrobotics.com/content/opening-robofab-worlds-first-factory-for-humanoid-robots (production 
+capacity of more than 10,000 robots per year); Apptronik, "Apptronik Closes Over $935 Million Series A" (Feb. 11, 
+30 
+ 
+A national strategy. The United States lacks one. The CCP plans its robotics sector in five-year 
+increments, with named targets and coordinated financing;41 American robotics policy remains 
+fragmented across agencies, with no central assessment of our position, our gaps, or our plan. 
+The National Commission on Robotics Act — introduced with bipartisan sponsorship in both 
+chambers, with the House bill now pending before this very Committee — would establish an 
+expert commission to evaluate workforce, supply chain, procurement, and regulatory gaps, 
+among other areas, and deliver actionable recommendations to Congress and the Executive 
+Branch. It is the natural companion to the legislation before this Subcommittee: the review 
+mechanism in the GUARD Act addresses the immediate threat; the Commission builds the 
+strategy so that America is never in the position of discovering a dependency after it has formed. 
+The Commission should also be charged with assessing the data the federal government needs to 
+monitor this competition — today, as noted, no U.S. trade category even isolates humanoid or 
+quadruped robots — and with recommending improvements, from distinct statistical categories 
+in the Harmonized Tariff Schedule to better use of existing industrial-base assessment tools. 
+Congress cannot manage a competition it cannot measure. Should Congress prefer to house this 
+work in a national security frame, as some have proposed, AUVSI would welcome that as well; 
+the point is the strategy, not the vehicle. 
+Supply chain security for critical inputs. The component dependencies we noted earlier are 
+real, and they concentrate in a few chokepoints: rare-earth permanent magnets — where the 
+ 
+2026), https://apptronik.com/news-collection/apptronik-closes-over-935-million-series-a (total Series A financing 
+exceeding $935 million). 
+41 Congressional Research Service, “‘Made in China 2025’ Industrial Policies: Issues for Congress,” IF10964 
+(updated December 12, 2024), https://www.congress.gov/crs-product/IF10964; CSIS ChinaPower Project (February 
+2026), https://chinapower.csis.org/china-industrial-robots/. 
+31 
+ 
+United States remains almost entirely import-dependent, overwhelmingly on China,42 and which 
+sit at the heart of every actuator in every robot — along with advanced sensors (such as LiDAR), 
+batteries, and precision components. The Magnets Value Chain Support Act, introduced with 
+bipartisan sponsorship, would create production incentives across the magnet value chain, with 
+guardrails excluding material associated with foreign entities of concern and provisions 
+supporting defense requirements. Recent public-private partnerships in the rare-earth and magnet 
+sector demonstrate that with the right demand signals and financing, this capacity can be built 
+onshore and with allies. This is how component chokepoints are best addressed: by investing in 
+trusted supply and using incentive mechanisms to help it scale. 
+Financing for scale. American robotics companies lead the world in innovation; their challenge 
+is scaling production against a state-financed competitor. The Make More in America Act would 
+strengthen the Export-Import Bank’s domestic financing initiative and expressly extend its 
+support to strategic American industries, including robotics, critical sensing technologies, and 
+critical minerals. Paired with targeted production and investment incentives — not only for 
+robotics manufacturing but for the sensors, actuators, magnets, batteries, and tooling capacity 
+beneath it — this is a financing architecture that would help American firms meet the market 
+opportunity that security legislation helps secure. 
+Government demand signals. Federal procurement is one of the most direct tools and demand 
+signals Washington controls. It can work as a guardrail, and AUVSI has strongly endorsed such 
+risk-based restrictions, including the American Security Robotics Act, which would keep foreign 
+adversary uncrewed ground systems out of federal procurement and operations, and the 
+ 
+42 U.S. Department of Commerce, Bureau of Industry and Security, The Effect of Imports of Neodymium-Iron-Boron 
+(NdFeB) Permanent Magnets on the National Security (June 2022), https://www.bis.gov/media/documents/section-
+32 
+ 
+Humanoid ROBOT Act. These measures would protect government missions while directing 
+federal demand toward trusted platforms. But procurement can also work primarily as an 
+incentive. Congress can use procurement policy and spending affirmatively — through advance 
+commitments, program funding, and domestic-content preferences — to reward trusted platforms 
+and give American manufacturers the demand certainty that justifies capacity investment.43 
+Every trusted robot bought with federal dollars — by agencies or by grantees — helps pull the 
+entire trusted ecosystem down the cost curve, which is, over time, the answer to the price 
+premium we acknowledged earlier. 
+Workforce and adoption. Finally, the deployment gap is as much a human-capital challenge as 
+a hardware challenge. Winning in robotics requires the engineers, technicians, and integrators to 
+build and field these systems, and support for the small and mid-sized American manufacturers 
+— the vast majority of whom have yet to deploy their first robot — to adopt trusted automation. 
+A national robotics strategy should treat workforce development and adoption assistance as core 
+infrastructure. 
+Taken together with risk-based restrictions on adversary systems, this agenda is the two-pronged 
+approach in full: address the adversary’s subsidized strategy directly, and build the American and 
+allied capacity to win the market on the merits. The GUARD Act is an essential element of the 
+first prong. AUVSI urges the Committee to advance this legislation and Congress to pass it. 
+ 
+232-ndfeb-magnets-report-appendices-combined.pdf.  
+43 AUVSI Partnership for Robotics Competitiveness: Securing U.S. Leadership in Robotics and Physical Artificial 
+Intelligence White Paper, https://www.auvsi.org/wp-content/uploads/2026/02/AUVSI-PFRC-Whitepaper.pdf 
+33 
+ 
+IX. Conclusion 
+When Chinese drones first entered the American market, few if any witnesses warned Congress 
+that a subsidized manufacturer would come to account for ninety-six percent of the uncrewed 
+aircraft detected in American skies — because it had not happened yet. By the time it had, the 
+remaining choices were all difficult ones. Today, the equivalent moment for robotics is unfolding 
+in plain view: the pattern documented, the playbook operating in the open, the subsidies flowing, 
+and the early evidence already visible in American research laboratories and police departments. 
+We can see it coming — and Congress has an opportunity to act on time. 
+AUVSI, with the benefit of members across the air and ground domains — the industries that 
+lived the last chapter of this story and are shaping the next one — supports the GUARD Act, 
+urges its advancement alongside the investment measures for the U.S. robotics industry, and 
+stands ready to serve as a partner and resource to this Congress in any way that is useful. 
+Thank you, and I look forward to your questions.

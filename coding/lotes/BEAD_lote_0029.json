@@ -1,0 +1,1065 @@
+{
+ "caso": "BEAD",
+ "lote": 29,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0116::Vínculo institucional",
+   "unit_id": "W0116",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Roslyn Layton",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "Veterans",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 48294,
+     "fim_corpo": 49006,
+     "trecho": "M. Webster, ``The Interdepartment Radio Advisory Committee,'' in Proceedings of the IRE, vol. 33, no. 8, pp. 495-499, Aug. 1945, doi: 10.1109/JRPROC.1945.230506. This statement dispels the view that IRAC acts collectively on behalf of the American people. Rather it is designed to further the interest of vested Federal agencies. Today's members include the Air Force, Army, Navy, Coast Guard, Broadcasting Board of Governors, Federal Aviation Administration; the Postal Service, the National Science Foundation, the National Aeronautics and Space Administration, and the Departments of Commerce, Energy, Homeland Security, Interior, Justice, State, Transportation, Treasury, and Veterans Affairs."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0117::Domicílio e arranjo familiar",
+   "unit_id": "W0117",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Tom Power",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4742,
+     "fim_corpo": 5606,
+     "trecho": "Now, we look forward to working with you on a new spectrum auction pipeline for the years to come. I look forward to discussing these issues with you this morning and thank you again for the opportunity to testify. [The prepared statement of Mr. Power follows:] [...] Prepared Statement of Tom Power, Senior Vice President and General Counsel, CTIA Chairman Thune, Ranking Member Schatz, and members of the Subcommittee, on behalf of CTIA and the U.S. wireless industry, I appreciate the opportunity to testify today. Let me start by expressing our strong appreciation for the leadership exhibited by this Committee and the FCC in responding to the COVID-19 crisis, which has highlighted the critical role that wireless plays in keeping us connected to our family and friends, our jobs, our schools, and our communities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0117::Educação",
+   "unit_id": "W0117",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Tom Power",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "schools",
+     "forma_encontrada": "schools",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4742,
+     "fim_corpo": 5606,
+     "trecho": "Now, we look forward to working with you on a new spectrum auction pipeline for the years to come. I look forward to discussing these issues with you this morning and thank you again for the opportunity to testify. [The prepared statement of Mr. Power follows:] [...] Prepared Statement of Tom Power, Senior Vice President and General Counsel, CTIA Chairman Thune, Ranking Member Schatz, and members of the Subcommittee, on behalf of CTIA and the U.S. wireless industry, I appreciate the opportunity to testify today. Let me start by expressing our strong appreciation for the leadership exhibited by this Committee and the FCC in responding to the COVID-19 crisis, which has highlighted the critical role that wireless plays in keeping us connected to our family and friends, our jobs, our schools, and our communities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0117::Idade",
+   "unit_id": "W0117",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Tom Power",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "SENIOR",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 101,
+     "trecho": "STATEMENT OF TOM POWER, SENIOR VICE PRESIDENT AND GENERAL COUNSEL, CTIA Mr."
+    },
+    {
+     "inicio_corpo": 4008,
+     "fim_corpo": 4960,
+     "trecho": "We similarly wish to recognize Senator Markey's work to incentivize agencies to move all spectrum that could otherwise be reallocated to consumer uses. We also strongly commend Chairman Wicker and Ranking Member Cantwell along with the Senate Armed Services Chairman Inhofe and Ranking Member Reed for their collaboration on the Spectrum IT Modernization Act of 2020. We support this legislation and its effort to make the management of Federal spectrum more efficient. For many years, this committee has paved the way for U.S. leadership in wireless from the MOBILE NOW Act under the leadership of Chairman Thune and former Ranking Member Nelson, to the AIRWAVES Act thanks to Senator Gardner and Senator Hassan. Now, we look forward to working with you on a new spectrum auction pipeline for the years to come. I look forward to discussing these issues with you this morning and thank you again for the opportunity to testify."
+    },
+    {
+     "inicio_corpo": 4163,
+     "fim_corpo": 5232,
+     "trecho": "We also strongly commend Chairman Wicker and Ranking Member Cantwell along with the Senate Armed Services Chairman Inhofe and Ranking Member Reed for their collaboration on the Spectrum IT Modernization Act of 2020. We support this legislation and its effort to make the management of Federal spectrum more efficient. For many years, this committee has paved the way for U.S. leadership in wireless from the MOBILE NOW Act under the leadership of Chairman Thune and former Ranking Member Nelson, to the AIRWAVES Act thanks to Senator Gardner and Senator Hassan. Now, we look forward to working with you on a new spectrum auction pipeline for the years to come. I look forward to discussing these issues with you this morning and thank you again for the opportunity to testify. [The prepared statement of Mr. Power follows:] [...] Prepared Statement of Tom Power, Senior Vice President and General Counsel, CTIA Chairman Thune, Ranking Member Schatz, and members of the Subcommittee, on behalf of CTIA and the U.S."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0117::Saúde",
+   "unit_id": "W0117",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Tom Power",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 822,
+     "fim_corpo": 1800,
+     "trecho": "Treasury. The FCC conducted the first ever incentive auction and the first ever high band auctions. Thanks to Chairman Pai's 5G fast plan and the oversight of Congress, we are on a pretty good streak. We should talk about ways to make it better. But let's acknowledge that for all its imperfections, the current process has delivered some historic wins for the Nation. We are all aware of how this committee's actions have already facilitated America's fast start in the global 5G marketplace. Last year, U.S. wireless providers were the first to employ 5G networks and are investing in a projected $275 billion, creating 3 million jobs and adding $500 billion to GDP. These investments and deployments will improve the lives of Americans from South Dakota to Hawaii and throughout the country, through access to connected hospitals, safer and more efficient smart cities, and the life-changing applications that will grow out of our burgeoning 5G ecosystem."
+    },
+    {
+     "inicio_corpo": 7096,
+     "fim_corpo": 8087,
+     "trecho": "The Current Wireless Landscape: Continuing Demand for Wireless Services, the Importance of Investment, and the Work that Remains This Committee's actions have already facilitated America's fast start in the global 5G marketplace. U.S. wireless providers gained a first mover advantage last year when they were the first to deploy commercial 5G networks.\\1\\ The U.S. wireless industry is projected to invest $275 billion on 5G deployments, create three million jobs, and add $500 billion to GDP. These investments will be made possible by your leadership; the certainty you fostered has driven faster deployment, with residents from South Dakota to Hawaii and beyond already enjoying the benefits of 5G. And with scale, 5G will be even more transformative--improving the lives of all Americans through access to connected hospitals, safer and more efficient smart cities, and the life-changing applications that will grow out of our burgeoning 5G ecosystem."
+    },
+    {
+     "inicio_corpo": 8321,
+     "fim_corpo": 9298,
+     "trecho": "--------------------------------------------------------------------------- Unprecedented Growth in Wireless. The U.S. continues to experience unprecedented growth in demand for wireless services, especially since the onset of the pandemic. In 2018 alone, we saw an 82 percent increase in mobile traffic. The increase from 2018 to 2019 was greater than the total amount of mobile traffic on U.S. networks just four years ago.\\2\\ And when, in a matter of days, much of the U.S. transitioned to staying at home, we witnessed a dramatic increase in demand for wireless services. Almost overnight, voice traffic jumped 20-40 percent; major providers saw a 25 percent increase in texting; data traffic grew nearly 20 percent, with one nationwide provider reporting an increase in mobile device hotspot usage of nearly 40 percent; and applications that provide telehealth and web/video conferencing services saw huge usage increases--well over 1,000 percent.\\3\\ U.S."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0117::Urbano e rural",
+   "unit_id": "W0117",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Tom Power",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11168,
+     "fim_corpo": 12073,
+     "trecho": "led the world in 4G--both as the first mover in network deployment and in market-transforming innovation. We rapidly made available a world-leading 752 megahertz of low-band spectrum,\\7\\ the propagation characteristics of which allowed carriers to quickly deploy 4G networks over large geographic areas. Today carriers have been repurposing some of that low-band spectrum to 5G. Carriers have also gained access to significant amounts of high-band spectrum, which is ideal for delivering very high speeds and low latency over discrete geographic areas. But while this progress on low- and high-band spectrum is important, the key to ensuring U.S. leadership will be the availability of mid-band spectrum, which sits at the 5G ``sweet spot'' offering capacity and coverage. Mid-band spectrum is perfectly suited to deliver higher speeds and improved latency, particularly in more rural areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0117::Vínculo institucional",
+   "unit_id": "W0117",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Tom Power",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veteran",
+     "forma_encontrada": "veteran",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 28923,
+     "fim_corpo": 29906,
+     "trecho": "Strickling and Alexander MacGillivray, AWS-3 Auction Highlights New Approach to Spectrum Policy (Jan. 29, 2015), https://obamawhitehouse.archives.gov/blog/2015/01/29/aws-3-auction- highlights-new-approach-spectrum-policy. --------------------------------------------------------------------------- Maximizing Intergovernmental Cooperation. We are pleased that Congress continues to recognize the respective allocation of responsibilities between the FCC, NTIA, and Federal spectrum users. Commercial spectrum has never been--and should not be--governed by DoD if we want the technological advances and productivity gains that are stimulated by private sector investment. Any consideration of spectrum sharing policy decisions, technologies, or reports involving Federal and non-federal spectrum should be led by the FCC and/or NTIA. But as a veteran of both agencies, I know first-hand the challenges posed by the interagency process and shared spectrum jurisdiction."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0118::Educação",
+   "unit_id": "W0118",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Captain Tony Harrison",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2128,
+     "fim_corpo": 2883,
+     "trecho": "I am here today on behalf of Sheriff Kevin Thom to talk about the FirstNet program as it relates to providing service across the country and our state for first responders. Over 50 percent of the Sheriff Offices in SD, the State of SD itself, 7 of the top 10 largest cities and half of the tribal agencies use FirstNet as their service provider in some capacity. Our agency decided to switch to FirstNet almost 18 months ago because of the promise of having better coverage. After speaking with Lisa Hohn, Pam Bryan and Doug Penniston, and other representatives, they also committed to future build plans that will provide much more reliable coverage in the future. By the way Senator Thune, Pam went to school with you and she says HI."
+    },
+    {
+     "inicio_corpo": 3116,
+     "fim_corpo": 3915,
+     "trecho": "The lowest elevation in Pennington County is about 2100 feet above sea level, near the Badlands. The highest spot in Pennington County is over 7200 feet, near Black Elk Peak. Mt. Rushmore sits at about 5700 feet. You can see the vast difference from one side of our county to the other. When you get in to the Black Hills, radio and phone coverage can get very difficult. One of greatest concerns as we help to ensure the safety of everyone in Pennington County is the ability to communicate. In any critical event, the first thing to go is typically communication. Losing the ability to communicate is devastating and can lead to failed missions, whether the mission is as simple as rescuing someone who has fallen and gotten hurt in the Black Hills or an active threat in a school."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0118::Idade",
+   "unit_id": "W0118",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Captain Tony Harrison",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 394,
+     "trecho": "Prepared Statement of Tony Harrison, Captain, Pennington County Sheriff's Office, Rapid City, South Dakota Ranking Member Schatz, Members of the U.S. Senate Subcommittee on Communications, Technology, Innovation, and the Internet and to my own Senior Senator from the Great State of South Dakota, Chairman John Thune, it is an honor to be speaking with you this morning."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 394,
+     "trecho": "Prepared Statement of Tony Harrison, Captain, Pennington County Sheriff's Office, Rapid City, South Dakota Ranking Member Schatz, Members of the U.S. Senate Subcommittee on Communications, Technology, Innovation, and the Internet and to my own Senior Senator from the Great State of South Dakota, Chairman John Thune, it is an honor to be speaking with you this morning."
+    },
+    {
+     "inicio_corpo": 498,
+     "fim_corpo": 1498,
+     "trecho": "Pennington County is home of the beautiful Black Hills. We are the home of many lakes, hiking trails, Badlands National Park, Ellsworth Air Force Base, and of course, Mt. Rushmore. I have served the great citizens of Rapid City and Pennington County for 24 years. I have worked on the street as a patrol officer, spent 8 years in the narcotics unit as an investigator, undercover operative and supervisor. I have moved through the ranks and currently hold the position of Captain in our Criminal Investigations Division where I oversee every major crime and death investigation that occurs in Pennington County. I command the largest SWAT team in South Dakota, a team that can travel anywhere in the state when requested to help assist other agencies who are typically dealing with someone in a state of crisis. I tell you this hoping to make you comfortable with my vast experience in all aspects of Law Enforcement, which is why I am here today to talk about this important issue."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0119::Administração pública",
+   "unit_id": "W0119",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Edward Parkinson",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 26947,
+     "fim_corpo": 27832,
+     "trecho": "It is the cornerstone of everything we do at the FirstNet Authority. We have focused on maintaining a close working relationship with a diverse group of public safety stakeholders--states, territories, tribes, local governments, Federal agencies, Non-Governmental Organizations (NGOs), and the members of the FirstNet Authority's Public Safety Advisory Committee (PSAC).\\12\\ --------------------------------------------------------------------------- \\12\\ Under the 2012 Act, the FirstNet Authority was required to ``establish a standing public safety advisory committee.'' 2012 Act Sec. 6205(a)(1) (47 U.S.C. Sec. 1425(a)(1)), Pub. L. No. 112-96, 126 Stat. 156 (2012). The FirstNet Authority established the PSAC in February 2013 consisting of member representation across all disciplines of public safety as well as state, territorial, tribal, and local governments."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0119::Gênero",
+   "unit_id": "W0119",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Edward Parkinson",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4160,
+     "fim_corpo": 5084,
+     "trecho": "Our culture at FirstNet is to listen, learn, and evolve. We are constantly striving to improve and to do better. Ultimately, public safety lives and their mission of protecting our communities depends on it. FirstNet is the only public safety broadband network that exists because public safety called for it and that is a responsibility that I and my team take very seriously. For each of us here today, we all know a first responder. These are our neighbors, our friends, the lifelines in the community when we call for help. We're proud to serve them and to connect communities across this country in every state, territory, and tribal nation. We are just over halfway into this initial FirstNet build- out and we've had many successes, yet there is much more to do as we evolve the network for public safety, and we look forward to pushing innovation for the men and women on the front lines."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0119::Macrorregião",
+   "unit_id": "W0119",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Edward Parkinson",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territory",
+     "forma_encontrada": "territory",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3002,
+     "fim_corpo": 3851,
+     "trecho": "In the past, this committee has asked my team if we were running a tight fiscal ship and I'm pleased to report that we continue to do just that. Deployment of this network remains ahead of schedule and it will be delivered within the resources allotted for this project. We are self-sustaining and do not take annual appropriations from Congress. Our recapitalization model, which was established as part of the public/private arrangement that we have with our contractor, AT&T, ensures that continued operations at the FirstNet Authority will not cost the taxpayer one additional dollar and even as we continue to invest in and improve the network over the next 23 years. I encourage everyone listening here today to visit firstnet.gov where we recently launched pages with information specific to each state and territory."
+    },
+    {
+     "inicio_corpo": 4006,
+     "fim_corpo": 4828,
+     "trecho": "Public safety officials can also find their contact information for their FirstNet Authority public safety advisor and encourage them to reach out. Our culture at FirstNet is to listen, learn, and evolve. We are constantly striving to improve and to do better. Ultimately, public safety lives and their mission of protecting our communities depends on it. FirstNet is the only public safety broadband network that exists because public safety called for it and that is a responsibility that I and my team take very seriously. For each of us here today, we all know a first responder. These are our neighbors, our friends, the lifelines in the community when we call for help. We're proud to serve them and to connect communities across this country in every state, territory, and tribal nation."
+    },
+    {
+     "inicio_corpo": 8369,
+     "fim_corpo": 9239,
+     "trecho": "31, No. 10-11, 2007, pp. 605-618. \\3\\ S. Rep No. 112-260, at 3 (2012), available at https:// www.congress.gov/112/crpt/srpt260/CRPT-112srpt260.pdf. --------------------------------------------------------------------------- Recognizing the need for a single, nationwide broadband network dedicated to America's public safety community, Congress created the FirstNet Authority to establish and oversee the FirstNet network. FirstNet uses spectrum reserved specifically for public safety to provide a wireless communications network that is interoperable across jurisdictions and public safety disciplines, with quality of service, priority, preemption (QPP),\\4\\ and market scale. As the FirstNet Authority planned for the Network, we consulted public safety in all 50 States, 5 U.S. territories, and the District of Columbia, and across Indian Country."
+    },
+    {
+     "inicio_corpo": 13219,
+     "fim_corpo": 14259,
+     "trecho": "Senate Committee on Commerce, Science, and Transportation, Subcommittee on Communications, Technology, Innovation, and the Internet (July 20, 2017), available at https://www.commerce.senate.gov/services/files/E9B67AE8-D32F-42A2-AF42- 6A5B9AFC8A13. --------------------------------------------------------------------------- These state plans detailed the initial five-year deployment of the Network for each state, with expanded coverage and capacity in rural, suburban, and urban areas. While Governors had a choice to ``opt-out'' and build their own state networks, all Governors ultimately decided to ``opt-in'' and have the FirstNet Authority oversee and AT&T build the Network in their states. By March 2018, with all states and territories having ``opted-in'' to the Network, the FirstNet Authority and AT&T officially began the nationwide deployment of the Network and offering public safety services, such as priority and preemption, through the dedicated FirstNet Enhanced Packet Core, to FirstNet subscribers."
+    },
+    {
+     "inicio_corpo": 26106,
+     "fim_corpo": 26947,
+     "trecho": "``The event went very well. Communication with the enhanced PTT devices was seamless, and to have the [SatCOLT] on site made our communications between command and patrol boat work flawlessly,'' said Matthew Birdsley, Assistant Fire Chief, Lake Ozark Fire Protection District. These use cases are just a sample of public safety agencies across the country making use of FirstNet. Consultation with Public Safety The FirstNet Authority would like to thank all public safety stakeholders throughout the country who have engaged with us--they have had and will continue to make a direct impact on FirstNet. Since the FirstNet Authority was established in 2012, we have built our programs and activities around direct consultation and engagement with and feedback from the public safety community in every state and territory."
+    },
+    {
+     "inicio_corpo": 26387,
+     "fim_corpo": 27547,
+     "trecho": "These use cases are just a sample of public safety agencies across the country making use of FirstNet. Consultation with Public Safety The FirstNet Authority would like to thank all public safety stakeholders throughout the country who have engaged with us--they have had and will continue to make a direct impact on FirstNet. Since the FirstNet Authority was established in 2012, we have built our programs and activities around direct consultation and engagement with and feedback from the public safety community in every state and territory. It is the cornerstone of everything we do at the FirstNet Authority. We have focused on maintaining a close working relationship with a diverse group of public safety stakeholders--states, territories, tribes, local governments, Federal agencies, Non-Governmental Organizations (NGOs), and the members of the FirstNet Authority's Public Safety Advisory Committee (PSAC).\\12\\ --------------------------------------------------------------------------- \\12\\ Under the 2012 Act, the FirstNet Authority was required to ``establish a standing public safety advisory committee.'' 2012 Act Sec."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0119::Posição no trabalho",
+   "unit_id": "W0119",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Edward Parkinson",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 15514,
+     "fim_corpo": 16549,
+     "trecho": "--------------------------------------------------------------------------- \\9\\ See Jackson, Donny, ``FirstNet tops 1.5 million connections, 13,000 agencies, according to AT&T,'' Urgent Communications (July 24, 2020), available at https://urgentcomm.com/2020/07/24/firstnet-tops-1- 5-million-connections-13000-agencies-according-to-att/. \\10\\ See id. --------------------------------------------------------------------------- Supporting COVID-19 Response, Hurricane Recovery Efforts, and Other Public Safety Operations Upon the deployment of FirstNet and the availability of its services, public safety has relied on the Network to serve its broadband communications needs. Notably, we have seen an increase in the use of FirstNet during the pandemic--a sign that the Network is helping public safety carry out its mission in the face of COVID-19. Health-care workers and responders are using FirstNet services at COVID-19 testing centers, field hospitals, and incident command posts across the country."
+    },
+    {
+     "inicio_corpo": 16390,
+     "fim_corpo": 17188,
+     "trecho": "Health-care workers and responders are using FirstNet services at COVID-19 testing centers, field hospitals, and incident command posts across the country. We are seeing an increase in the use of data to confront the pandemic at nearly two times the rate of consumer data traffic. First responders are taking advantage of FirstNet for telehealth as well as adapting the use of the Network in creative ways to fit the needs of their specific operations. For example, hotspots and smartphones powered by FirstNet are enabling 9-1-1 dispatchers to take calls and dispatch operations from their homes and remote locations. This enables agencies to allow for social distancing among their staff, keeping these frontline essential workers safe so they can continue to serve the community."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0119::Saúde",
+   "unit_id": "W0119",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Edward Parkinson",
+   "n_ocorrencias_no_par": 9,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 3,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospital-s",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "Hospital",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 15858,
+     "fim_corpo": 16549,
+     "trecho": "\\10\\ See id. --------------------------------------------------------------------------- Supporting COVID-19 Response, Hurricane Recovery Efforts, and Other Public Safety Operations Upon the deployment of FirstNet and the availability of its services, public safety has relied on the Network to serve its broadband communications needs. Notably, we have seen an increase in the use of FirstNet during the pandemic--a sign that the Network is helping public safety carry out its mission in the face of COVID-19. Health-care workers and responders are using FirstNet services at COVID-19 testing centers, field hospitals, and incident command posts across the country."
+    },
+    {
+     "inicio_corpo": 15858,
+     "fim_corpo": 16850,
+     "trecho": "\\10\\ See id. --------------------------------------------------------------------------- Supporting COVID-19 Response, Hurricane Recovery Efforts, and Other Public Safety Operations Upon the deployment of FirstNet and the availability of its services, public safety has relied on the Network to serve its broadband communications needs. Notably, we have seen an increase in the use of FirstNet during the pandemic--a sign that the Network is helping public safety carry out its mission in the face of COVID-19. Health-care workers and responders are using FirstNet services at COVID-19 testing centers, field hospitals, and incident command posts across the country. We are seeing an increase in the use of data to confront the pandemic at nearly two times the rate of consumer data traffic. First responders are taking advantage of FirstNet for telehealth as well as adapting the use of the Network in creative ways to fit the needs of their specific operations."
+    },
+    {
+     "inicio_corpo": 17495,
+     "fim_corpo": 18380,
+     "trecho": "The FirstNet Push-to-Talk (PTT) solution, enabling FirstNet phones to act as two-way radios, ensures that telecommunicators working from home are as connected and ready to respond as if they were still back at the call center. FirstNet priority and preemption and access to dedicated Band 14 spectrum has provided the fast and reliable connectivity first responders and medical personnel have needed during the pandemic. Additionally, where FirstNet subscriber agencies have needed additional connectivity, they have a dedicated fleet of deployable Network assets available on request at no cost to the agency. There have been dozens of requests for FirstNet portable cell sites during the pandemic. This included boosting connectivity to the U.S. Navy hospital ship Mercy when it was docked at the Port of Los Angeles; and supporting in- building coverage for the U.S."
+    },
+    {
+     "inicio_corpo": 17495,
+     "fim_corpo": 18550,
+     "trecho": "The FirstNet Push-to-Talk (PTT) solution, enabling FirstNet phones to act as two-way radios, ensures that telecommunicators working from home are as connected and ready to respond as if they were still back at the call center. FirstNet priority and preemption and access to dedicated Band 14 spectrum has provided the fast and reliable connectivity first responders and medical personnel have needed during the pandemic. Additionally, where FirstNet subscriber agencies have needed additional connectivity, they have a dedicated fleet of deployable Network assets available on request at no cost to the agency. There have been dozens of requests for FirstNet portable cell sites during the pandemic. This included boosting connectivity to the U.S. Navy hospital ship Mercy when it was docked at the Port of Los Angeles; and supporting in- building coverage for the U.S. Navy hospital ship Comfort docked in New York Harbor\\11\\ as well as at COVID-19 testing sites, quarantine facilities, field hospitals, and emergency operation centers."
+    },
+    {
+     "inicio_corpo": 17725,
+     "fim_corpo": 18550,
+     "trecho": "FirstNet priority and preemption and access to dedicated Band 14 spectrum has provided the fast and reliable connectivity first responders and medical personnel have needed during the pandemic. Additionally, where FirstNet subscriber agencies have needed additional connectivity, they have a dedicated fleet of deployable Network assets available on request at no cost to the agency. There have been dozens of requests for FirstNet portable cell sites during the pandemic. This included boosting connectivity to the U.S. Navy hospital ship Mercy when it was docked at the Port of Los Angeles; and supporting in- building coverage for the U.S. Navy hospital ship Comfort docked in New York Harbor\\11\\ as well as at COVID-19 testing sites, quarantine facilities, field hospitals, and emergency operation centers."
+    },
+    {
+     "inicio_corpo": 18118,
+     "fim_corpo": 18992,
+     "trecho": "There have been dozens of requests for FirstNet portable cell sites during the pandemic. This included boosting connectivity to the U.S. Navy hospital ship Mercy when it was docked at the Port of Los Angeles; and supporting in- building coverage for the U.S. Navy hospital ship Comfort docked in New York Harbor\\11\\ as well as at COVID-19 testing sites, quarantine facilities, field hospitals, and emergency operation centers. The FirstNet Authority was able to work with its government partners to identify the right points of contact aboard the U.S. Navy ship Comfort so that AT&T FirstNet could install the best solution for the operational needs aboard the ship. --------------------------------------------------------------------------- \\11\\ See Hill, Kelly, ``FirstNet-AT&T supporting naval hospital ships in New York, Los Angeles,'' RCR Wireless (Apr."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0119::Urbano e rural",
+   "unit_id": "W0119",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Edward Parkinson",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8803,
+     "fim_corpo": 9700,
+     "trecho": "FirstNet uses spectrum reserved specifically for public safety to provide a wireless communications network that is interoperable across jurisdictions and public safety disciplines, with quality of service, priority, preemption (QPP),\\4\\ and market scale. As the FirstNet Authority planned for the Network, we consulted public safety in all 50 States, 5 U.S. territories, and the District of Columbia, and across Indian Country. Public safety told us the Network needed to be affordable, reliable, interoperable, and custom-built for the customer. The network solution needed to be designed to work in the most urban areas, where network challenges come in the form of urban canyons, Z- axis geolocation,\\5\\ and in-building coverage dead zones; and in the most rural parts of our country, where previously, the business case did not exist to build networks just for public safety use."
+    },
+    {
+     "inicio_corpo": 13042,
+     "fim_corpo": 13716,
+     "trecho": "--------------------------------------------------------------------------- \\8\\ See Testimony of Michael Poth, Chief Executive Officer, FirstNet Authority, before the U.S. Senate Committee on Commerce, Science, and Transportation, Subcommittee on Communications, Technology, Innovation, and the Internet (July 20, 2017), available at https://www.commerce.senate.gov/services/files/E9B67AE8-D32F-42A2-AF42- 6A5B9AFC8A13. --------------------------------------------------------------------------- These state plans detailed the initial five-year deployment of the Network for each state, with expanded coverage and capacity in rural, suburban, and urban areas."
+    },
+    {
+     "inicio_corpo": 22291,
+     "fim_corpo": 23199,
+     "trecho": "During this year's SeaFair activities, we were able to communicate important safety information without worry of encountering congestion issues.'' EMS: Hattiesburg, Mississippi: AAA Ambulance Service subscribed to FirstNet to help connect its 24-hour emergency and non-emergency medical transport service. FirstNet is helping the ambulance service to seamlessly communicate as they serve 1.2 million residents living across 16 counties in southern Mississippi. Andy Geske, Chief of Information Technology for AAA Ambulance Service, said, ``What's important to me and my crew members is the ease of accessing FirstNet. [It] can put everybody on the same page where that response is best for the patient.'' In facilitating the integration of telemedicine capabilities, FirstNet has allowed the AAA Ambulance Service to swiftly and efficiently deliver care to its patients in rural Mississippi."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0120::Educação",
+   "unit_id": "W0120",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Jason Porter",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 36567,
+     "fim_corpo": 37393,
+     "trecho": "I'm here today on behalf of Sheriff Kevin Thom to talk about the FirstNet Program as it relates to providing services across the country and for our state's first responders. In South Dakota, over 50 percent of the sheriff's offices, the state of South Dakota itself, and seven of the top 10 largest cities as well as half the tribal agencies use FirstNet as their service provider in some capacity. Our agency decided to switch to FirstNet about 18 months ago after the promise of having better coverage. After speaking with Lisa Home, Pam Bryan, and Doug Pennington, and other representatives, they also committed to a future build plan which will provide much more reliable service in the future. By the way, Senator Thune, Pam Bryan said she went to school with you and wanted to tell you hello."
+    },
+    {
+     "inicio_corpo": 37594,
+     "fim_corpo": 38414,
+     "trecho": "The lowest elevation of Pennington County is about 2,100 feet above sea level near the Badlands. The highest spot in Pennington County is over 7,200 feet near Black Elk Peak. Mount Rushmore sits at 5,700 feet. You can see the vast difference from one side of our county to the other. When you get into the Black Hills, oftentimes radio and phone coverage can be very difficult. One of our greatest concerns is as we ensure the safety of everyone in Pennington County is the ability to communicate. In any critical event, the first thing that goes typically is communication. Losing the ability to communicate can be devastating and lead to failed missions whether the mission is something as simple as rescuing someone who's fallen and gotten hurt in the Black Hills or an active threat in a school."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0120::Idade",
+   "unit_id": "W0120",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Jason Porter",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "SENIOR",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 60,
+     "trecho": "STATEMENT OF JASON PORTER, SENIOR VICE PRESIDENT, AT&T INC."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 241,
+     "trecho": "STATEMENT OF JASON PORTER, SENIOR VICE PRESIDENT, AT&T INC. Mr. Porter. Thank you, Chairman Thune, Ranking Member Schatz, and Members of the Committee. I'm Jason Porter, Senior Vice President leading the FirstNet Program at AT&T."
+    },
+    {
+     "inicio_corpo": 4189,
+     "fim_corpo": 4816,
+     "trecho": "Together, the FirstNet Authority and AT&T are delivering a public safety network and solutions ecosystem that gives first responders what Congress intended. As a West Point graduate and former Army officer, I personally view FirstNet as a second opportunity to serve my country by giving back to the public safety and health care workers who are putting their lives on the line for us every day. I'm extremely proud of our support for public safety and I welcome your questions. [The prepared statement of Mr. Porter follows:] [...] Prepared Statement of Jason Porter, Senior Vice President, AT&T Inc."
+    },
+    {
+     "inicio_corpo": 4189,
+     "fim_corpo": 4989,
+     "trecho": "Together, the FirstNet Authority and AT&T are delivering a public safety network and solutions ecosystem that gives first responders what Congress intended. As a West Point graduate and former Army officer, I personally view FirstNet as a second opportunity to serve my country by giving back to the public safety and health care workers who are putting their lives on the line for us every day. I'm extremely proud of our support for public safety and I welcome your questions. [The prepared statement of Mr. Porter follows:] [...] Prepared Statement of Jason Porter, Senior Vice President, AT&T Inc. Thank you, Chairman Thune, Ranking Member Schatz, and Members of the Committee. I am Jason Porter, the Senior Vice President leading the FirstNet program at AT&T."
+    },
+    {
+     "inicio_corpo": 32273,
+     "fim_corpo": 32912,
+     "trecho": "This included SatCOLTs deployed at locations in Paradise and Oroville, California. Conclusion While we are proud of what we've accomplished in a short time, I am even more excited about what the future will bring, as we continue to meet Congress' goal (and our commitment) to give our first responders the advanced communications capabilities that they need to stay connected and help them operate faster, safer and more effectively when lives are on the line. As the leader of the AT&T team supporting FirstNet, I can assure you that AT&T views FirstNet as much more than a business proposition, it is a core mission."
+    },
+    {
+     "inicio_corpo": 33864,
+     "fim_corpo": 34843,
+     "trecho": "I look forward to continuing this important dialogue as FirstNet moves forward. I welcome your questions. Senator Thune. Thank you, Mr. Porter, and thank you for your service to our country. Mr. Porter. Yes, sir. Senator Thune. Next up is Captain Tony Harrison of the Sheriff's Office of Pennington County, South Dakota, someone I've known and been acquainted with for a long time, and I know they are very involved in the work of FirstNet and I'd love to hear what Captain Harrison has to say. So, Tony, if you're out there virtually, please proceed. STAEMENT OF CAPTAIN TONY HARRISON, SHERIFF'S OFFICE, PENNINGTON COUNTY, SOUTH DAKOTA Captain Harrison. Yes, sir. Ranking Member Schatz, Members of the Senate Subcommittee on Communications, Technology Innovation, and the Internet, and to my own Senior Senator from the great state of South Dakota, Chairman John Thune, it's an honor to be speaking with you this morning."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0120::Macrorregião",
+   "unit_id": "W0120",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Jason Porter",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 158,
+     "fim_corpo": 1000,
+     "trecho": "I'm Jason Porter, Senior Vice President leading the FirstNet Program at AT&T. I appreciate the opportunity to update the Subcommittee on the critical role FirstNet is playing to connect first responders during the unprecedented COVID-19 pandemic, the recent hurricanes, and the ongoing wildfires on top of the daily activities of public safety. I'm proud to report that FirstNet is delivering on Congress's vision of a single dedicated and nationwide public safety network. Providing first responders with the capabilities, coverage, and capacity they need to combat one of the greatest challenges of our time. Last time we met with this committee, we celebrated five states opting into FirstNet. FirstNet is now available to first responders in all 50 states, the District of Columbia, and five U.S. territories."
+    },
+    {
+     "inicio_corpo": 9296,
+     "fim_corpo": 9898,
+     "trecho": "When we last briefed the Subcommittee, we had just started our Band 14 build. Today, our nationwide Band 14 coverage build is more than eighty percent (80 percent) complete and ahead of schedule, and usage has exponentially grown--with more than 13,000 first responder and supporting organizations having subscribed and over 1.5 million FirstNet connections now in service. FirstNet is now available to the complete ecosystem of first responders, including physicians and nurses and other frontline healthcare workers, in all 50 states, the District of Columbia, and five U.S. territories."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0120::Posição no trabalho",
+   "unit_id": "W0120",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Jason Porter",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 881,
+     "fim_corpo": 1877,
+     "trecho": "FirstNet is now available to first responders in all 50 states, the District of Columbia, and five U.S. territories. Usage has grown exponentially with more than 13,000 organizations having subscribed and over 1.5 million connections. With Band 14 deployed in more than 700 markets, we have surpassed 80 percent of our Band 14 nationwide coverage target approximately a year ahead of schedule. In an emergency or high-traffic environment, this band is cleared and locked just for FirstNet subscribers, something that first responders will not get anywhere else. The COVID-19 pandemic underscores the need for a nationwide high-speed and interoperable communications platform dedicated to first responders. FirstNet has answered the call. FirstNet is meeting the dynamic communications needs of first responders, including frontline public health workers conducting telehealth and those at quarantine locations, testing sites, health care facilities, and field hospitals."
+    },
+    {
+     "inicio_corpo": 3670,
+     "fim_corpo": 4599,
+     "trecho": "Over 1,000 new purpose- built FirstNet sites are currently planned as part of the initial nationwide FirstNet network expansion, most of those in rural areas. We've launched over 250 of these sites across the country already, including areas, such as Preston County, West Virginia, Zerkel, Minnesota, the Chippewa Reservation in Wisconsin, Bethel, Alaska, Michigan's Upper Peninsula, Roswell, New Mexico, Pennington County, South Dakota, Ashland, Montana, Naselle, Washington, and in Lewisdale, Mississippi. Together, the FirstNet Authority and AT&T are delivering a public safety network and solutions ecosystem that gives first responders what Congress intended. As a West Point graduate and former Army officer, I personally view FirstNet as a second opportunity to serve my country by giving back to the public safety and health care workers who are putting their lives on the line for us every day."
+    },
+    {
+     "inicio_corpo": 4989,
+     "fim_corpo": 5908,
+     "trecho": "I appreciate the opportunity to update the Subcommittee on the critical role the nationwide public safety broadband network (``FirstNet'') is playing in connecting first responders across jurisdictions and disciplines to enable a unified emergency response during the unprecedented coronavirus (COVID-19) pandemic. Built in partnership by AT&T and the First Responder Network Authority (``FirstNet Authority''), FirstNet is delivering on Congress's vision of a single, dedicated, nationwide public safety network, providing first responders with the modern capabilities, broad coverage, and robust capacity they need to combat one of the greatest challenges of our time. FirstNet's COVID-19 Response The COVID-19 pandemic underscores the need for a nationwide, high- speed communications platform dedicated to first responders--which include health care workers battling the pandemic on the front lines."
+    },
+    {
+     "inicio_corpo": 5670,
+     "fim_corpo": 6337,
+     "trecho": "FirstNet's COVID-19 Response The COVID-19 pandemic underscores the need for a nationwide, high- speed communications platform dedicated to first responders--which include health care workers battling the pandemic on the front lines. FirstNet has answered the call. To begin with, FirstNet is providing critical connectivity to support telehealth services, including remote patient monitoring for at-risk patients in their homes. FirstNet has also met the communications needs and supported the operations of first responders, doctors, nurses and public health workers at quarantine locations, testing sites, health care facilities and field hospitals."
+    },
+    {
+     "inicio_corpo": 9296,
+     "fim_corpo": 9885,
+     "trecho": "When we last briefed the Subcommittee, we had just started our Band 14 build. Today, our nationwide Band 14 coverage build is more than eighty percent (80 percent) complete and ahead of schedule, and usage has exponentially grown--with more than 13,000 first responder and supporting organizations having subscribed and over 1.5 million FirstNet connections now in service. FirstNet is now available to the complete ecosystem of first responders, including physicians and nurses and other frontline healthcare workers, in all 50 states, the District of Columbia, and five U.S."
+    },
+    {
+     "inicio_corpo": 15786,
+     "fim_corpo": 16723,
+     "trecho": "FirstNet provides a unique, differentiated, and highly secure network platform, encrypted at its dedicated network core. Priority/Preemption. FirstNet provides its eligible users with priority and, for primary users, pre-emption. ``Priority'' means just that--in times of emergencies and network congestion, FirstNet gives first responder communications precedence and, for ``primary users,'' preempts all other communications. And, if an area is hit with an emergency (e.g., hurricane, wildfire), a local commander can provide elevated priority to the FirstNet users supporting the response. For example, in a hurricane, a commander could upgrade the priority level of evacuation vehicle operators prior to the storm, then shift priority to the medical personnel and utility workers after the storm passes through."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0120::Saúde",
+   "unit_id": "W0120",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "Senate",
+   "data": "",
+   "orador": "Jason Porter",
+   "n_ocorrencias_no_par": 9,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 3,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "health care facilities",
+     "forma_encontrada": "health care facilities",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "health care facilities",
+     "forma_encontrada": "health care facilities",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 881,
+     "fim_corpo": 1877,
+     "trecho": "FirstNet is now available to first responders in all 50 states, the District of Columbia, and five U.S. territories. Usage has grown exponentially with more than 13,000 organizations having subscribed and over 1.5 million connections. With Band 14 deployed in more than 700 markets, we have surpassed 80 percent of our Band 14 nationwide coverage target approximately a year ahead of schedule. In an emergency or high-traffic environment, this band is cleared and locked just for FirstNet subscribers, something that first responders will not get anywhere else. The COVID-19 pandemic underscores the need for a nationwide high-speed and interoperable communications platform dedicated to first responders. FirstNet has answered the call. FirstNet is meeting the dynamic communications needs of first responders, including frontline public health workers conducting telehealth and those at quarantine locations, testing sites, health care facilities, and field hospitals."
+    },
+    {
+     "inicio_corpo": 987,
+     "fim_corpo": 1877,
+     "trecho": "territories. Usage has grown exponentially with more than 13,000 organizations having subscribed and over 1.5 million connections. With Band 14 deployed in more than 700 markets, we have surpassed 80 percent of our Band 14 nationwide coverage target approximately a year ahead of schedule. In an emergency or high-traffic environment, this band is cleared and locked just for FirstNet subscribers, something that first responders will not get anywhere else. The COVID-19 pandemic underscores the need for a nationwide high-speed and interoperable communications platform dedicated to first responders. FirstNet has answered the call. FirstNet is meeting the dynamic communications needs of first responders, including frontline public health workers conducting telehealth and those at quarantine locations, testing sites, health care facilities, and field hospitals."
+    },
+    {
+     "inicio_corpo": 987,
+     "fim_corpo": 1877,
+     "trecho": "territories. Usage has grown exponentially with more than 13,000 organizations having subscribed and over 1.5 million connections. With Band 14 deployed in more than 700 markets, we have surpassed 80 percent of our Band 14 nationwide coverage target approximately a year ahead of schedule. In an emergency or high-traffic environment, this band is cleared and locked just for FirstNet subscribers, something that first responders will not get anywhere else. The COVID-19 pandemic underscores the need for a nationwide high-speed and interoperable communications platform dedicated to first responders. FirstNet has answered the call. FirstNet is meeting the dynamic communications needs of first responders, including frontline public health workers conducting telehealth and those at quarantine locations, testing sites, health care facilities, and field hospitals."
+    },
+    {
+     "inicio_corpo": 5309,
+     "fim_corpo": 6111,
+     "trecho": "Built in partnership by AT&T and the First Responder Network Authority (``FirstNet Authority''), FirstNet is delivering on Congress's vision of a single, dedicated, nationwide public safety network, providing first responders with the modern capabilities, broad coverage, and robust capacity they need to combat one of the greatest challenges of our time. FirstNet's COVID-19 Response The COVID-19 pandemic underscores the need for a nationwide, high- speed communications platform dedicated to first responders--which include health care workers battling the pandemic on the front lines. FirstNet has answered the call. To begin with, FirstNet is providing critical connectivity to support telehealth services, including remote patient monitoring for at-risk patients in their homes."
+    },
+    {
+     "inicio_corpo": 5670,
+     "fim_corpo": 6337,
+     "trecho": "FirstNet's COVID-19 Response The COVID-19 pandemic underscores the need for a nationwide, high- speed communications platform dedicated to first responders--which include health care workers battling the pandemic on the front lines. FirstNet has answered the call. To begin with, FirstNet is providing critical connectivity to support telehealth services, including remote patient monitoring for at-risk patients in their homes. FirstNet has also met the communications needs and supported the operations of first responders, doctors, nurses and public health workers at quarantine locations, testing sites, health care facilities and field hospitals."
+    },
+    {
+     "inicio_corpo": 5670,
+     "fim_corpo": 6337,
+     "trecho": "FirstNet's COVID-19 Response The COVID-19 pandemic underscores the need for a nationwide, high- speed communications platform dedicated to first responders--which include health care workers battling the pandemic on the front lines. FirstNet has answered the call. To begin with, FirstNet is providing critical connectivity to support telehealth services, including remote patient monitoring for at-risk patients in their homes. FirstNet has also met the communications needs and supported the operations of first responders, doctors, nurses and public health workers at quarantine locations, testing sites, health care facilities and field hospitals."
+    }
+   ]
+  }
+ ]
+}

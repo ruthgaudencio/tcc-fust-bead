@@ -1,0 +1,1196 @@
+{
+ "caso": "FUST",
+ "lote": 14,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "S0069::Idade",
+   "unit_id": "S0069",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Luzia Toledo",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovem",
+     "forma_encontrada": "jovem",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8581,
+     "fim_corpo": 9419,
+     "trecho": "Tal carência, obviamente, recai sobre nosso desconhecimento e indisfarçável indiferença com relação ao conteúdo programático das emissoras para as quais autorizamos funcionamento em todo o País. Bem a propósito, a julgar pelos últimos trágicos acontecimentos que abalaram os moradores do Morumbi e a capital paulistana por inteiro, a violência a que estamos diariamente sujeitos pela programação cinematográfica é capaz de gerar verdadeiras monstruosidades. Aparentemente, tudo leva a crer que as causas que motivaram o estudante de Medicina, Mateus Meira, a cometer bárbara chacina na semana passada, em plena sala de cinema do Morumbi Shopping, somente podem ser, minimamente, elucidadas a partir de uma fratura psicopatológica entre o mundo da ficção socialmente compartilhado e a realidade subjetiva vivida pelo jovem atirador."
+    },
+    {
+     "inicio_corpo": 10477,
+     "fim_corpo": 11285,
+     "trecho": "Com esta preocupação em mente, aliás, desde que estourou o caso do atirador em São Paulo, as autoridades reacenderam a velha proposta de adotar medidas mais enérgicas no controle do sexo e da violência na televisão. O próprio Secretário Nacional dos Direitos Humanos, José Gregori, solicitou a todas as emissoras de TV do País que deixem de exibir cenas de sexo e violência em suas programações durante o próximo dia 10 de dezembro, quando se comemora O Dia Mundial dos Direitos Humanos. Em que pese o efeito apenas efêmero da solicitação, a simbologia do ato deve produzir repercussões mais significativas no longo prazo. Num plano mais extenso, o Secretário propõe a classificação etária mais rígida dos filmes, com o objetivo explícito de impedir que sejam vistos por crianças e adolescentes."
+    },
+    {
+     "inicio_corpo": 10477,
+     "fim_corpo": 11528,
+     "trecho": "Com esta preocupação em mente, aliás, desde que estourou o caso do atirador em São Paulo, as autoridades reacenderam a velha proposta de adotar medidas mais enérgicas no controle do sexo e da violência na televisão. O próprio Secretário Nacional dos Direitos Humanos, José Gregori, solicitou a todas as emissoras de TV do País que deixem de exibir cenas de sexo e violência em suas programações durante o próximo dia 10 de dezembro, quando se comemora O Dia Mundial dos Direitos Humanos. Em que pese o efeito apenas efêmero da solicitação, a simbologia do ato deve produzir repercussões mais significativas no longo prazo. Num plano mais extenso, o Secretário propõe a classificação etária mais rígida dos filmes, com o objetivo explícito de impedir que sejam vistos por crianças e adolescentes. Naturalmente, a proposta do Governo consiste em evitar que jovens, ávidos para ver enredos recheados de tiros e mortes, tenham acesso a filmes do teor de Clube da Luta , em cuja exibição o estudante Mateus disparou as dezenas de tiros fatais."
+    },
+    {
+     "inicio_corpo": 10971,
+     "fim_corpo": 11963,
+     "trecho": "Em que pese o efeito apenas efêmero da solicitação, a simbologia do ato deve produzir repercussões mais significativas no longo prazo. Num plano mais extenso, o Secretário propõe a classificação etária mais rígida dos filmes, com o objetivo explícito de impedir que sejam vistos por crianças e adolescentes. Naturalmente, a proposta do Governo consiste em evitar que jovens, ávidos para ver enredos recheados de tiros e mortes, tenham acesso a filmes do teor de Clube da Luta , em cuja exibição o estudante Mateus disparou as dezenas de tiros fatais. No entanto, e bem curiosamente, Laura Ziskin, diretora da distribuidora que lançou o Clube da Luta no Brasil, argumenta que, ao contrário do que se imagina, o roteiro original do filme está repleto de frases e citações contra a cultura eletrônica, como é o caso da seguinte: \"nós somos as crianças criadas pela televisão para acreditar que, algum dia, seremos milionários e astros de cinema e astros do rock, mas não o seremos\"."
+    },
+    {
+     "inicio_corpo": 11285,
+     "fim_corpo": 12128,
+     "trecho": "Naturalmente, a proposta do Governo consiste em evitar que jovens, ávidos para ver enredos recheados de tiros e mortes, tenham acesso a filmes do teor de Clube da Luta , em cuja exibição o estudante Mateus disparou as dezenas de tiros fatais. No entanto, e bem curiosamente, Laura Ziskin, diretora da distribuidora que lançou o Clube da Luta no Brasil, argumenta que, ao contrário do que se imagina, o roteiro original do filme está repleto de frases e citações contra a cultura eletrônica, como é o caso da seguinte: \"nós somos as crianças criadas pela televisão para acreditar que, algum dia, seremos milionários e astros de cinema e astros do rock, mas não o seremos\". Bem ou mal, tal citação sugere uma leitura menos banal do filme, que estaria subliminarmente abrindo a consciência dos jovens para a proposta ilusória da televisão."
+    },
+    {
+     "inicio_corpo": 13505,
+     "fim_corpo": 14743,
+     "trecho": "Tal sugestão foi levantada durante a realização de um seminário sobre direito e comunicação de massa, promovido pela OAB de São Paulo, em setembro último. Com apoio do poder público, o Instituto seria acolhido como uma alternativa bem mais razoável e civilizada à instalação dos famigerados V-chips nos aparelhos televisivos, que funcionariam como dispositivo de controle e censura prévia à programação. Em suma, o debate é amplo e assaz controverso para que cheguemos a proposições conclusivas. O certo é que existem no Brasil cerca de 40 milhões de lares aparelhados com televisores, na frente dos quais outros tantos milhões de crianças se prostram, diariamente, por mais de 3 horas. Diante disso e da crescente onda de violência que assalta tanto o mundo quanto a imagem que se reproduz do mundo, não se pode tergiversar sobre a responsabilidade que, hoje, se deposita nas costas do Congresso Nacional, do Governo e da sociedade brasileira, na expectativa de que uma solução democrática e consensual possa ser alcançada para a melhoria da qualidade da programação televisiva brasileira e, principalmente, para a melhoria da qualidade de vida dos brasileiros. Era o que tinha a dizer. Muito obrigada. ) ¿"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0069::Renda e classe",
+   "unit_id": "S0069",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Luzia Toledo",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "baixa renda",
+     "forma_encontrada": "baixa renda",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5760,
+     "fim_corpo": 6726,
+     "trecho": "Em contraste com tal modelo, a televisão norte-americana, desde sempre, se instalou como um bem privado, pronto a ser produzido e consumido por quem ativamente conduzia e participava da sociedade de trocas tipicamente capitalistas. No Brasil, a influência norte-americana nunca deixou de imprimir suas marcas mais determinantes. No entanto, convém registrar que, quando se inaugurou a televisão brasileira, nos anos 50, a programação da TV TUPI era praticamente preenchida por uma grade dedicada à cultura de elite. Não por acaso, o repertório clássico das grandes companhias de teatro da época foi amplamente incorporado à programação normal, como se houvesse sido convencionado entre os empresários do setor que a televisão não se destinaria às massas, mas sim às elites do País. Isso fazia muito sentido numa sociedade cuja baixa renda per capita , aliada à débil formação de uma classe média consumidora, configurava o panorama da economia nacional."
+    },
+    {
+     "inicio_corpo": 9419,
+     "fim_corpo": 10247,
+     "trecho": "É a pós-modernidade se inscrevendo catastroficamente na cultura social brasileira. De qualquer modo, o que mais impressionou a todos foi que tal agressão criminosa não partiu da iniciativa de um indivíduo tipicamente excluído do circuito brasileiro do consumo e da cidadania. Pelo contrário, Mateus é filho da alta classe média brasileira, oriundo de uma família de médicos, com uma formação educacional potencialmente impecável. Dessa vez, as balas de sua metralhadora não visavam atingir nenhum membro da denominada choldra brasileira, como bem caracteriza Elio Gaspari a classe dos desamparados, mas sim detonar covarde e friamente alguns de seus próprios pares. Em outras palavras, para quem imaginava que a violência era objeto exclusivo e produto restrito às camadas mais pobres da população, ledo engano!"
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0070::Cultura e informação",
+   "unit_id": "S0070",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Mozarildo Cavalcanti",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "bibliotecas",
+     "forma_encontrada": "bibliotecas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5506,
+     "fim_corpo": 6275,
+     "trecho": "Como comparar a qualificação do corpo docente de uma instituição sexagenária com a de uma outra em fase de implantação? O mesmo se diz a propósito da organização didático-pedagógica e das instalações físicas. O maior mérito da avaliação, a meu ver, reside na pressão que exerce sobre as instituições menos sérias. Conhecidas como escolas de fim-de-semana ou balcão de diplomas, muitas se vêem obrigadas a melhorar seus equipamentos pedagógicos para poder elevar o nível de ensino que oferecem. Aumentou significativamente a procura por mestres e doutores. Registra-se disputa por professores de instituições públicas que se aposentaram, em geral os mais qualificados do mercado. Há empenho pela melhoria e modernização de instalações, bibliotecas e laboratórios."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0070::Educação",
+   "unit_id": "S0070",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Mozarildo Cavalcanti",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "escolas",
+     "forma_encontrada": "escolas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5045,
+     "fim_corpo": 6006,
+     "trecho": "Esse procedimento continuaria produzindo resultados relativos, inadequados para avaliações que visam ao aperfeiçoamento, mas seria infinitamente mais barato e mais operacional. Outra impropriedade do processo de avaliação em pauta, e não só do Provão como da Avaliação das Condições de Oferta dos Cursos de Graduação, é a aplicação de critérios uniformes para avaliar faculdades e universidades que se encontram em estágios diferentes de desenvolvimento. Como comparar a qualificação do corpo docente de uma instituição sexagenária com a de uma outra em fase de implantação? O mesmo se diz a propósito da organização didático-pedagógica e das instalações físicas. O maior mérito da avaliação, a meu ver, reside na pressão que exerce sobre as instituições menos sérias. Conhecidas como escolas de fim-de-semana ou balcão de diplomas, muitas se vêem obrigadas a melhorar seus equipamentos pedagógicos para poder elevar o nível de ensino que oferecem."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0070::Escolaridade e letramento",
+   "unit_id": "S0070",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Mozarildo Cavalcanti",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "estudantes",
+     "forma_encontrada": "estudantes",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "aluno",
+     "forma_encontrada": "aluno",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "aluno",
+     "forma_encontrada": "aluno",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "aluno",
+     "forma_encontrada": "aluno",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 447,
+     "trecho": "O SR. MOZARILDO CAVALCANTI (PFL – RR) – Sr. Presidente, Srªs. e Srs. Senadores, a iniciativa do Ministério da Educação de implantar o Processo de Avaliação dos Cursos de Graduação, cumprindo o disposto nas Leis nº 9.131, de 24 de novembro de 1995 e nº 9.394, de 20 de dezembro de 1996, e iniciando, em 1996, pela avaliação de conhecimentos dos estudantes formandos em Direito, Administração e Engenharia Civil, gerou uma grande polêmica nacional."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 829,
+     "trecho": "O SR. MOZARILDO CAVALCANTI (PFL – RR) – Sr. Presidente, Srªs. e Srs. Senadores, a iniciativa do Ministério da Educação de implantar o Processo de Avaliação dos Cursos de Graduação, cumprindo o disposto nas Leis nº 9.131, de 24 de novembro de 1995 e nº 9.394, de 20 de dezembro de 1996, e iniciando, em 1996, pela avaliação de conhecimentos dos estudantes formandos em Direito, Administração e Engenharia Civil, gerou uma grande polêmica nacional. Afinal, nunca se fez nada semelhante no País, em nível do ensino superior, e muito menos com abrangência nacional. A avaliação do ensino superior é feita por intermédio de dois instrumentos: o Exame Nacional de Cursos – o Provão – e a Avaliação das Condições de Oferta dos Cursos de Graduação. O Provão avalia um curso por meio do desempenho dos alunos que estão se formando."
+    },
+    {
+     "inicio_corpo": 2034,
+     "fim_corpo": 3051,
+     "trecho": "Existe um consenso na comunidade acadêmica sobre a necessidade de avaliar a qualidade dos cursos de graduação oferecidos no País. A eficiência dos instrumentos dessa aferição, porém, ainda é muito criticada. Os maus resultados no Exame Nacional de Cursos e na Avaliação de Condições de Oferta devem-se, em grande parte, ao estabelecimento de critérios de qualidade unificados, que não respeitam as diferenças regionais e os diversos estágios das instituições analisadas. Não quero afirmar, Senhoras e Senhores, que o Provão é ruim. O problema é que ele é uma avaliação de massa aplicada a instituições muito diferenciadas. Devido às características da região onde a universidade se localiza, os cursos podem enfatizar especificidades de currículo que têm de ser levadas em conta quando se avalia uma instituição. Essas diferenças acabam criando perfis diferenciados de alunos, o que pode gerar distorções nos resultados de um exame que, como o Provão, é igual, independentemente de onde é aplicado."
+    },
+    {
+     "inicio_corpo": 2170,
+     "fim_corpo": 3185,
+     "trecho": "A eficiência dos instrumentos dessa aferição, porém, ainda é muito criticada. Os maus resultados no Exame Nacional de Cursos e na Avaliação de Condições de Oferta devem-se, em grande parte, ao estabelecimento de critérios de qualidade unificados, que não respeitam as diferenças regionais e os diversos estágios das instituições analisadas. Não quero afirmar, Senhoras e Senhores, que o Provão é ruim. O problema é que ele é uma avaliação de massa aplicada a instituições muito diferenciadas. Devido às características da região onde a universidade se localiza, os cursos podem enfatizar especificidades de currículo que têm de ser levadas em conta quando se avalia uma instituição. Essas diferenças acabam criando perfis diferenciados de alunos, o que pode gerar distorções nos resultados de um exame que, como o Provão, é igual, independentemente de onde é aplicado. Entretanto, o aluno do Nordeste é diferente do que se forma no Sudeste, porque vai trabalhar em outro tipo de indústria e de empresa."
+    },
+    {
+     "inicio_corpo": 3051,
+     "fim_corpo": 4073,
+     "trecho": "Entretanto, o aluno do Nordeste é diferente do que se forma no Sudeste, porque vai trabalhar em outro tipo de indústria e de empresa. A prova é abrangente, mas a realidade do Brasil é muito diferenciada. A prova não dá conta disso. Quando se constrói um instrumento de medida, a primeira preocupação deve ser o seu objetivo. O declarado pelo MEC foi o de que o Provão contribuiria para o aperfeiçoamento dos cursos superiores no País. Nada a opor ao objetivo, muito pelo contrário. No entanto, qualquer aperfeiçoamento, no caso desses cursos superiores, só seria viável se, após a avaliação, ficassem evidentes para eles seus pontos fortes e fracos. O que faz o Provão, Srªs. e Srs. Senadores? Soma acertos, chega a uma nota final para cada aluno, tira a média do curso, junta-a às dos demais cursos da mesma área num grupão, padroniza as notas em percentuais, ordena os cursos pelos escores padronizados e depois os transforma em conceitos, forma pela qual os resultados são comunicados aos cursos e à mídia."
+    },
+    {
+     "inicio_corpo": 3492,
+     "fim_corpo": 4456,
+     "trecho": "Nada a opor ao objetivo, muito pelo contrário. No entanto, qualquer aperfeiçoamento, no caso desses cursos superiores, só seria viável se, após a avaliação, ficassem evidentes para eles seus pontos fortes e fracos. O que faz o Provão, Srªs. e Srs. Senadores? Soma acertos, chega a uma nota final para cada aluno, tira a média do curso, junta-a às dos demais cursos da mesma área num grupão, padroniza as notas em percentuais, ordena os cursos pelos escores padronizados e depois os transforma em conceitos, forma pela qual os resultados são comunicados aos cursos e à mídia. O leigo, ao deparar-se com um \"A\", interpreta-o como pertencendo a um curso forte. Pode até ser. Mas não necessariamente. O Provão é um tipo de teste cuja característica principal é ordenar indivíduos dentro do grupo a que pertencem. Portanto, um \"A\", obtido por um aluno, ou por um curso, pertencente a um grupo fraco, pode representar padrão bastante precário de desempenho."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0070::Macrorregião",
+   "unit_id": "S0070",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-12",
+   "orador": "Mozarildo Cavalcanti",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2248,
+     "fim_corpo": 3185,
+     "trecho": "Os maus resultados no Exame Nacional de Cursos e na Avaliação de Condições de Oferta devem-se, em grande parte, ao estabelecimento de critérios de qualidade unificados, que não respeitam as diferenças regionais e os diversos estágios das instituições analisadas. Não quero afirmar, Senhoras e Senhores, que o Provão é ruim. O problema é que ele é uma avaliação de massa aplicada a instituições muito diferenciadas. Devido às características da região onde a universidade se localiza, os cursos podem enfatizar especificidades de currículo que têm de ser levadas em conta quando se avalia uma instituição. Essas diferenças acabam criando perfis diferenciados de alunos, o que pode gerar distorções nos resultados de um exame que, como o Provão, é igual, independentemente de onde é aplicado. Entretanto, o aluno do Nordeste é diferente do que se forma no Sudeste, porque vai trabalhar em outro tipo de indústria e de empresa."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0071::Escolaridade e letramento",
+   "unit_id": "S0071",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-14",
+   "orador": "Mozarildo Cavalcanti",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "aluno",
+     "forma_encontrada": "Aluno",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11958,
+     "fim_corpo": 12790,
+     "trecho": "Na medida em que o banco destina não mais que um terço dos seus recursos para empresas desse porte e que nas regiões mencionadas predominam essas empresas, o resultado acaba sendo a escassa participação das regiões mais pobres no orçamento do banco. Por isso, devem ser criados mecanismos que viabilizem um maior número de operações com pequenas e médias empresas para que essas regiões não fiquem prejudicadas. Esses mecanismos compreendem uma maior articulação do BNDES com os agentes regionais – Banco do Brasil, Banco do Nordeste, Banco da Amazônia – e a desburocratização do Fundo de Aval, eliminando-se a exigência de garantias reais para todo tipo de empréstimos a pequenas e médias empresas. O segundo motivo mencionado foi a sazonalidade dos grandes projetos estruturantes, tipo Albrás, Camaçari, Alunorte e Carajás."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0071::Macrorregião",
+   "unit_id": "S0071",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-14",
+   "orador": "Mozarildo Cavalcanti",
+   "n_ocorrencias_no_par": 62,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 56,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desenvolvimento regional",
+     "forma_encontrada": "desenvolvimento regional",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6155,
+     "fim_corpo": 6954,
+     "trecho": "Ao deixar para o setor privado a responsabilidade – que durante décadas avocou para si – de dinamizar a vida econômica e gerar empregos, privatizando empresas do porte da Telebrás, Eletrobrás, Vale do Rio Doce ou Companhia Siderúrgica Nacional, o Governo Federal manteve em seu poder pouquíssimos instrumentos aptos à intervenção no processo de desenvolvimento da Nação. Sr. Presidente, Srªs e Srs. Senadores, um desses poucos instrumentos restantes – e o mais importante deles – é o Banco Nacional de Desenvolvimento Econômico e Social – BNDES, o nosso grande banco de fomento, a derradeira ferramenta que o Estado tem para, levando em consideração todas as regiões brasileiras, olhando-as com eqüidistância e igualdade, promover um desenvolvimento regional mais equilibrado, mais harmônico."
+    },
+    {
+     "inicio_corpo": 6954,
+     "fim_corpo": 7918,
+     "trecho": "E, na medida em que o BNDES restou como esse instrumento quase singular, é muito positivo constatar seu expressivo crescimento no período recente. De fato, o banco cresceu tanto nos últimos quatro anos que, hoje, seu orçamento supera folgadamente o do Banco Interamericano de Desenvolvimento - BID. O que é lamentável, porém, é constatar que, embora o combate à desigualdade regional deva ser considerado como responsabilidade prioritária do Governo Federal – e o BNDES disponha de um vasto orçamento que poderia ser orientado para fomentar o desenvolvimento das regiões mais pobres –, o banco não apenas tem falhado nesse particular como, mais do que isso, tem atuado em sentido contrário, contribuindo para alargar o fosso entre as regiões mais ricas e as mais pobres, na medida em que direciona o grosso dos seus investimentos para Regiões Sudeste e Sul, destinando para as Regiões Norte, Nordeste e Centro-Oeste apenas parcelas ínfimas do seu orçamento."
+    },
+    {
+     "inicio_corpo": 6954,
+     "fim_corpo": 7918,
+     "trecho": "E, na medida em que o BNDES restou como esse instrumento quase singular, é muito positivo constatar seu expressivo crescimento no período recente. De fato, o banco cresceu tanto nos últimos quatro anos que, hoje, seu orçamento supera folgadamente o do Banco Interamericano de Desenvolvimento - BID. O que é lamentável, porém, é constatar que, embora o combate à desigualdade regional deva ser considerado como responsabilidade prioritária do Governo Federal – e o BNDES disponha de um vasto orçamento que poderia ser orientado para fomentar o desenvolvimento das regiões mais pobres –, o banco não apenas tem falhado nesse particular como, mais do que isso, tem atuado em sentido contrário, contribuindo para alargar o fosso entre as regiões mais ricas e as mais pobres, na medida em que direciona o grosso dos seus investimentos para Regiões Sudeste e Sul, destinando para as Regiões Norte, Nordeste e Centro-Oeste apenas parcelas ínfimas do seu orçamento."
+    },
+    {
+     "inicio_corpo": 7253,
+     "fim_corpo": 8233,
+     "trecho": "O que é lamentável, porém, é constatar que, embora o combate à desigualdade regional deva ser considerado como responsabilidade prioritária do Governo Federal – e o BNDES disponha de um vasto orçamento que poderia ser orientado para fomentar o desenvolvimento das regiões mais pobres –, o banco não apenas tem falhado nesse particular como, mais do que isso, tem atuado em sentido contrário, contribuindo para alargar o fosso entre as regiões mais ricas e as mais pobres, na medida em que direciona o grosso dos seus investimentos para Regiões Sudeste e Sul, destinando para as Regiões Norte, Nordeste e Centro-Oeste apenas parcelas ínfimas do seu orçamento. Pior ainda: a já escassa destinação de recursos para as áreas menos desenvolvidas do País tem encolhido ainda mais nos últimos anos. Enquanto, no ano de 1994, o BNDES investiu nas Regiões Norte, Nordeste e Centro-Oeste 32% de seu orçamento, no ano passado, essa proporção de desembolsos caiu para apenas 20%."
+    },
+    {
+     "inicio_corpo": 7253,
+     "fim_corpo": 8233,
+     "trecho": "O que é lamentável, porém, é constatar que, embora o combate à desigualdade regional deva ser considerado como responsabilidade prioritária do Governo Federal – e o BNDES disponha de um vasto orçamento que poderia ser orientado para fomentar o desenvolvimento das regiões mais pobres –, o banco não apenas tem falhado nesse particular como, mais do que isso, tem atuado em sentido contrário, contribuindo para alargar o fosso entre as regiões mais ricas e as mais pobres, na medida em que direciona o grosso dos seus investimentos para Regiões Sudeste e Sul, destinando para as Regiões Norte, Nordeste e Centro-Oeste apenas parcelas ínfimas do seu orçamento. Pior ainda: a já escassa destinação de recursos para as áreas menos desenvolvidas do País tem encolhido ainda mais nos últimos anos. Enquanto, no ano de 1994, o BNDES investiu nas Regiões Norte, Nordeste e Centro-Oeste 32% de seu orçamento, no ano passado, essa proporção de desembolsos caiu para apenas 20%."
+    },
+    {
+     "inicio_corpo": 7918,
+     "fim_corpo": 8361,
+     "trecho": "Pior ainda: a já escassa destinação de recursos para as áreas menos desenvolvidas do País tem encolhido ainda mais nos últimos anos. Enquanto, no ano de 1994, o BNDES investiu nas Regiões Norte, Nordeste e Centro-Oeste 32% de seu orçamento, no ano passado, essa proporção de desembolsos caiu para apenas 20%. A minha região, o Norte, é de longe a menos contemplada de todas, uma autêntica \"gata borralheira\" no orçamento do BNDES."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0071::Posição no trabalho",
+   "unit_id": "S0071",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-14",
+   "orador": "Mozarildo Cavalcanti",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8233,
+     "fim_corpo": 9120,
+     "trecho": "A minha região, o Norte, é de longe a menos contemplada de todas, uma autêntica \"gata borralheira\" no orçamento do BNDES. Em 1998, o apoio concedido pelo banco à Região Norte correspondeu a mísero 1,14% de seu orçamento. A Região Centro-Oeste, por seu turno, foi contemplada com 9,72% dos investimentos do banco, e a Região Nordeste teve apoio da ordem de 10,89% dos desembolsos totais. A soma desses índices mostra que as Regiões Norte, Nordeste e Centro-Oeste brasileiras, juntas, contaram com algo em torno de 20% dos recursos do BNDES, enquanto para o Sul e Sudeste foram destinados os 80% restantes do orçamento daquele banco. Sr. Presidente, Srªs e Srs. Senadores, é um absurdo que assim seja. O povo do Norte, do Nordeste e do Centro-Oeste sofre quotidianamente as agruras do desemprego, da pobreza, da falta de oportunidade de geração de renda e da injustiça social."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0071::Renda e classe",
+   "unit_id": "S0071",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-14",
+   "orador": "Mozarildo Cavalcanti",
+   "n_ocorrencias_no_par": 10,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 4,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobres",
+     "forma_encontrada": "pobres",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6954,
+     "fim_corpo": 7918,
+     "trecho": "E, na medida em que o BNDES restou como esse instrumento quase singular, é muito positivo constatar seu expressivo crescimento no período recente. De fato, o banco cresceu tanto nos últimos quatro anos que, hoje, seu orçamento supera folgadamente o do Banco Interamericano de Desenvolvimento - BID. O que é lamentável, porém, é constatar que, embora o combate à desigualdade regional deva ser considerado como responsabilidade prioritária do Governo Federal – e o BNDES disponha de um vasto orçamento que poderia ser orientado para fomentar o desenvolvimento das regiões mais pobres –, o banco não apenas tem falhado nesse particular como, mais do que isso, tem atuado em sentido contrário, contribuindo para alargar o fosso entre as regiões mais ricas e as mais pobres, na medida em que direciona o grosso dos seus investimentos para Regiões Sudeste e Sul, destinando para as Regiões Norte, Nordeste e Centro-Oeste apenas parcelas ínfimas do seu orçamento."
+    },
+    {
+     "inicio_corpo": 6954,
+     "fim_corpo": 7918,
+     "trecho": "E, na medida em que o BNDES restou como esse instrumento quase singular, é muito positivo constatar seu expressivo crescimento no período recente. De fato, o banco cresceu tanto nos últimos quatro anos que, hoje, seu orçamento supera folgadamente o do Banco Interamericano de Desenvolvimento - BID. O que é lamentável, porém, é constatar que, embora o combate à desigualdade regional deva ser considerado como responsabilidade prioritária do Governo Federal – e o BNDES disponha de um vasto orçamento que poderia ser orientado para fomentar o desenvolvimento das regiões mais pobres –, o banco não apenas tem falhado nesse particular como, mais do que isso, tem atuado em sentido contrário, contribuindo para alargar o fosso entre as regiões mais ricas e as mais pobres, na medida em que direciona o grosso dos seus investimentos para Regiões Sudeste e Sul, destinando para as Regiões Norte, Nordeste e Centro-Oeste apenas parcelas ínfimas do seu orçamento."
+    },
+    {
+     "inicio_corpo": 8233,
+     "fim_corpo": 9120,
+     "trecho": "A minha região, o Norte, é de longe a menos contemplada de todas, uma autêntica \"gata borralheira\" no orçamento do BNDES. Em 1998, o apoio concedido pelo banco à Região Norte correspondeu a mísero 1,14% de seu orçamento. A Região Centro-Oeste, por seu turno, foi contemplada com 9,72% dos investimentos do banco, e a Região Nordeste teve apoio da ordem de 10,89% dos desembolsos totais. A soma desses índices mostra que as Regiões Norte, Nordeste e Centro-Oeste brasileiras, juntas, contaram com algo em torno de 20% dos recursos do BNDES, enquanto para o Sul e Sudeste foram destinados os 80% restantes do orçamento daquele banco. Sr. Presidente, Srªs e Srs. Senadores, é um absurdo que assim seja. O povo do Norte, do Nordeste e do Centro-Oeste sofre quotidianamente as agruras do desemprego, da pobreza, da falta de oportunidade de geração de renda e da injustiça social."
+    },
+    {
+     "inicio_corpo": 9684,
+     "fim_corpo": 10588,
+     "trecho": "É preciso colocar essa poderosíssima alavanca indutora de desenvolvimento a serviço da mitigação desse sério problema nacional, até para reverter a tendência atualmente verificada de seu progressivo agravamento. Não é possível que se apliquem 80% dos recursos do BNDES em apenas 7 Estados da Federação e os 20% restantes nos outros 20 Estados. Historicamente, os grandes parceiros das Regiões Norte, Nordeste e Centro-Oeste em seus esforços de desenvolvimento têm sido o Estado e as empresas estatais Hoje, as empresas estatais não mais existem, entregues que foram à iniciativa privada. A administração direta, por seu turno, encontra-se com escassa capacidade financeira para realizar investimentos de monta. Entregues à própria sorte, as regiões mais pobres do país estariam defrontadas com a tenebrosa perspectiva de alargamento cada vez maior do fosso que as separa do Sul desenvolvido."
+    },
+    {
+     "inicio_corpo": 10284,
+     "fim_corpo": 11233,
+     "trecho": "A administração direta, por seu turno, encontra-se com escassa capacidade financeira para realizar investimentos de monta. Entregues à própria sorte, as regiões mais pobres do país estariam defrontadas com a tenebrosa perspectiva de alargamento cada vez maior do fosso que as separa do Sul desenvolvido. Compete, portanto, ao nosso grande banco de fomento preencher essa lacuna, fazendo-se presente, de maneira decisiva, no estímulo do desenvolvimento do Nordeste, da Amazônia e do Brasil Central. Em depoimento prestado perante a Comissão de Assuntos Econômicos do Senado Federal, no primeiro semestre do corrente ano, o então Presidente do Banco Nacional de Desenvolvimento Econômico e Social, Dr. Pio Borges, admitiu serem péssimos os números que indicam a escassa destinação de recursos do banco às regiões mais pobres do País, afirmando, em contrapartida, sua convicção quanto à viabilidade de melhorar esse quadro nos próximos anos."
+    },
+    {
+     "inicio_corpo": 11631,
+     "fim_corpo": 12208,
+     "trecho": "De forma que é importante reverter esse quadro. Na opinião do Dr. Pio Borges, dois são os principais motivos que explicam a pequena participação das Regiões Norte, Nordeste e Centro-Oeste nos desembolsos efetuados pelo BNDES. Em primeiro lugar, cita a vocação natural dessas regiões para a pequena e média empresa. Na medida em que o banco destina não mais que um terço dos seus recursos para empresas desse porte e que nas regiões mencionadas predominam essas empresas, o resultado acaba sendo a escassa participação das regiões mais pobres no orçamento do banco."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0071::Urbano e rural",
+   "unit_id": "S0071",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-14",
+   "orador": "Mozarildo Cavalcanti",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "Campos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 15879,
+     "fim_corpo": 16749,
+     "trecho": "Exª pelo aparte. V. Exª não só enriquece o meu pronunciamento, mas também dá um testemunho como Parlamentar, como representante do Estado do Acre, dessa realidade que aqui estou traçando, da falta de uma política verdadeira de desenvolvimento regional equilibrado. Sr. Presidente, Srªs e Srs. Senadores, o que é bem certo é que potencial para crescer não falta ao Norte, ao Nordeste e ao Centro-Oeste. O próprio BNDES reconhece as possibilidades favoráveis de setores como a fruticultura, os grãos, o turismo e a informática no Nordeste. No Centro-Oeste, a agricultura, a pecuária e a agroindústria já são realidades consolidadas e em vigoroso processo de expansão, cujo limite parece difícil divisar. Na Região Norte, deve-se mencionar, em primeiro lugar, o aproveitamento do gás de Urucum, que é hoje a maior reserva de gás do Brasil, já superando Campos."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0072::Educação",
+   "unit_id": "S0072",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-14",
+   "orador": "Mauro Miranda",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rede pública de ensino",
+     "forma_encontrada": "rede pública de ensino",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 962,
+     "fim_corpo": 1953,
+     "trecho": "Volto ao tema, Senhor Presidente, porque estou convencido de que esse quadro não pode perdurar, sob pena de assinarmos a sentença condenatória de nosso futuro. Com efeito, não há como imaginar um Brasil em condições muito melhores das que hoje temos se não houver o engajamento dos jovens no processo de consolidação da democracia e de adensamento do conceito de cidadania. Tomo, a propósito, por referência, um acontecimento do final de 1999 que em muito me chamou a atenção. Refiro-me ao Projeto O País que Queremos, esplêndida realização compartilhada pelo Unicef – Fundo das Nações Unidas para a Infância; a ANDI – Agência de Notícias dos Direitos da Infância; a Fundação Athos Bulcão – responsável pelo Jornal Radcal, voltado preferencialmente para adolescentes e jovens matriculados na rede pública de ensino; a Fundação Odebrecht; o Cenpec – Centro de Estudos e Pesquisas em Educação, Cultura e Ação Comunitária; e a Fundação Padre Anchieta, por sua TV Cultura-São Paulo."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0072::Escolaridade e letramento",
+   "unit_id": "S0072",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-14",
+   "orador": "Mauro Miranda",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "alunos",
+     "forma_encontrada": "alunos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1953,
+     "fim_corpo": 2829,
+     "trecho": "Após receber mais de mil e trezentos trabalhos, fruto da contribuição enviada por cerca de dois mil e quinhentos jovens residentes nos mais diversos pontos do território nacional, o Projeto produziu seu documento final, a Carta do Adolescente , cujos principais tópicos foram debatidos em programa especial da TV Cultura. Analisando a Carta, síntese do País com o qual nossos jovens sonham, vê-se que os princípios que a embasam estão alicerçados na ética e na vontade de ver vitoriosa uma sociedade fraterna e solidária. Em suma, Senhor Presidente, Senhoras e Senhores Senadores, a juventude brasileira anseia por um Brasil que reforce os valores do amor, da fraternidade e da solidariedade; que valorize a Educação, dotando-a de recursos didáticos e práticas pedagógicas que incentivem os alunos a pensar desde cedo, preparando-os para o trabalho e para a vida."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0072::Idade",
+   "unit_id": "S0072",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-14",
+   "orador": "Mauro Miranda",
+   "n_ocorrencias_no_par": 12,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 6,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "crianças",
+     "forma_encontrada": "crianças",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "jovens",
+     "forma_encontrada": "jovens",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 455,
+     "trecho": "O SR. MAURO MIRANDA (PMDB - GO) – Sr. Presidente, Srªs e Srs. Senadores, quando da passagem do \"Dia Internacional da Juventude\", a 31 de outubro do ano passado, fiz uso da palavra, nesta mesma Tribuna, para registrar a data. Na oportunidade, procurei focalizar aspectos considerados fundamentais para a compreensão do comportamento atual dos jovens, em nosso País e no resto do mundo, bastante diferente daquele observado há três ou quatro décadas atrás."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 807,
+     "trecho": "O SR. MAURO MIRANDA (PMDB - GO) – Sr. Presidente, Srªs e Srs. Senadores, quando da passagem do \"Dia Internacional da Juventude\", a 31 de outubro do ano passado, fiz uso da palavra, nesta mesma Tribuna, para registrar a data. Na oportunidade, procurei focalizar aspectos considerados fundamentais para a compreensão do comportamento atual dos jovens, em nosso País e no resto do mundo, bastante diferente daquele observado há três ou quatro décadas atrás. Fixei-me, então, numa espécie de \"envelhecimento precoce\" da juventude, por adotar idéias e comportamentos conservadores, substituindo o anseio por mudanças – que tão bem caracterizara os jovens a partir de meados da década de 1960 – por \"um profundo estado de apatia diante do status quo , fazendo entorpecer a grande maioria de nossos jovens\"."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 807,
+     "trecho": "O SR. MAURO MIRANDA (PMDB - GO) – Sr. Presidente, Srªs e Srs. Senadores, quando da passagem do \"Dia Internacional da Juventude\", a 31 de outubro do ano passado, fiz uso da palavra, nesta mesma Tribuna, para registrar a data. Na oportunidade, procurei focalizar aspectos considerados fundamentais para a compreensão do comportamento atual dos jovens, em nosso País e no resto do mundo, bastante diferente daquele observado há três ou quatro décadas atrás. Fixei-me, então, numa espécie de \"envelhecimento precoce\" da juventude, por adotar idéias e comportamentos conservadores, substituindo o anseio por mudanças – que tão bem caracterizara os jovens a partir de meados da década de 1960 – por \"um profundo estado de apatia diante do status quo , fazendo entorpecer a grande maioria de nossos jovens\"."
+    },
+    {
+     "inicio_corpo": 455,
+     "fim_corpo": 1342,
+     "trecho": "Fixei-me, então, numa espécie de \"envelhecimento precoce\" da juventude, por adotar idéias e comportamentos conservadores, substituindo o anseio por mudanças – que tão bem caracterizara os jovens a partir de meados da década de 1960 – por \"um profundo estado de apatia diante do status quo , fazendo entorpecer a grande maioria de nossos jovens\". Disso resultaria, como fiz questão de frisar, o acentuado afastamento da mocidade do debate político, vendo nele algo distante e que não lhe diz respeito. Volto ao tema, Senhor Presidente, porque estou convencido de que esse quadro não pode perdurar, sob pena de assinarmos a sentença condenatória de nosso futuro. Com efeito, não há como imaginar um Brasil em condições muito melhores das que hoje temos se não houver o engajamento dos jovens no processo de consolidação da democracia e de adensamento do conceito de cidadania."
+    },
+    {
+     "inicio_corpo": 962,
+     "fim_corpo": 1953,
+     "trecho": "Volto ao tema, Senhor Presidente, porque estou convencido de que esse quadro não pode perdurar, sob pena de assinarmos a sentença condenatória de nosso futuro. Com efeito, não há como imaginar um Brasil em condições muito melhores das que hoje temos se não houver o engajamento dos jovens no processo de consolidação da democracia e de adensamento do conceito de cidadania. Tomo, a propósito, por referência, um acontecimento do final de 1999 que em muito me chamou a atenção. Refiro-me ao Projeto O País que Queremos, esplêndida realização compartilhada pelo Unicef – Fundo das Nações Unidas para a Infância; a ANDI – Agência de Notícias dos Direitos da Infância; a Fundação Athos Bulcão – responsável pelo Jornal Radcal, voltado preferencialmente para adolescentes e jovens matriculados na rede pública de ensino; a Fundação Odebrecht; o Cenpec – Centro de Estudos e Pesquisas em Educação, Cultura e Ação Comunitária; e a Fundação Padre Anchieta, por sua TV Cultura-São Paulo."
+    },
+    {
+     "inicio_corpo": 1342,
+     "fim_corpo": 2281,
+     "trecho": "Tomo, a propósito, por referência, um acontecimento do final de 1999 que em muito me chamou a atenção. Refiro-me ao Projeto O País que Queremos, esplêndida realização compartilhada pelo Unicef – Fundo das Nações Unidas para a Infância; a ANDI – Agência de Notícias dos Direitos da Infância; a Fundação Athos Bulcão – responsável pelo Jornal Radcal, voltado preferencialmente para adolescentes e jovens matriculados na rede pública de ensino; a Fundação Odebrecht; o Cenpec – Centro de Estudos e Pesquisas em Educação, Cultura e Ação Comunitária; e a Fundação Padre Anchieta, por sua TV Cultura-São Paulo. Após receber mais de mil e trezentos trabalhos, fruto da contribuição enviada por cerca de dois mil e quinhentos jovens residentes nos mais diversos pontos do território nacional, o Projeto produziu seu documento final, a Carta do Adolescente , cujos principais tópicos foram debatidos em programa especial da TV Cultura."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0073::Macrorregião",
+   "unit_id": "S0073",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-17",
+   "orador": "Ramez Tebet",
+   "n_ocorrencias_no_par": 17,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 11,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Norte",
+     "forma_encontrada": "Norte",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Nordeste",
+     "forma_encontrada": "Nordeste",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 357,
+     "trecho": "O SR. RAMEZ TEBET (PMDB - MS. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, na semana passada, mais precisamente no dia 13 último, comparecemos, no Palácio do Planalto, à cerimônia de assinatura da Medida Provisória nº 1.988, que traz nova regulamentação dos fundos do Norte, do Nordeste e do Centro-Oeste."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 357,
+     "trecho": "O SR. RAMEZ TEBET (PMDB - MS. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Srªs e Srs. Senadores, na semana passada, mais precisamente no dia 13 último, comparecemos, no Palácio do Planalto, à cerimônia de assinatura da Medida Provisória nº 1.988, que traz nova regulamentação dos fundos do Norte, do Nordeste e do Centro-Oeste."
+    },
+    {
+     "inicio_corpo": 425,
+     "fim_corpo": 1498,
+     "trecho": "Presidente, Srªs e Srs. Senadores, sentimos que, realmente, vale a pena travar o bom combate e lutar pelos nossos objetivos. Agora mesmo, estava na tribuna o Senador Mozarildo Cavalcanti, dizendo que o BNDES deveria aplicar melhor seus recursos e distribuí-los pelas regiões menos favorecidas do nosso País, fazendo coro, portanto, com aqueles que não se conformam com as desigualdades regionais que persistem em nosso País. Eu disse que vale a pena lutar, recordando-me dos idos de 1988, quando presidia a Superintendência do Desenvolvimento da região Centro-Oeste - Sudeco. Na ocasião, Sr. Presidente, Srs. Senadores, as ruas de Brasília estavam enfeitadas com faixas que continham uma frase que hoje ainda ecoa em meus ouvidos e penetra fundo no meu sentimento de brasilidade: \"292 e uma vontade só\". Eram 292 Parlamentares unidos, 292 Parlamentares do Norte, Nordeste e Centro-Oeste com uma só vontade: a de fazer constar da Constituição Federal de 1988 – como realmente consta – um dispositivo que obriga a aplicação de investimentos nessas regiões."
+    },
+    {
+     "inicio_corpo": 425,
+     "fim_corpo": 1498,
+     "trecho": "Presidente, Srªs e Srs. Senadores, sentimos que, realmente, vale a pena travar o bom combate e lutar pelos nossos objetivos. Agora mesmo, estava na tribuna o Senador Mozarildo Cavalcanti, dizendo que o BNDES deveria aplicar melhor seus recursos e distribuí-los pelas regiões menos favorecidas do nosso País, fazendo coro, portanto, com aqueles que não se conformam com as desigualdades regionais que persistem em nosso País. Eu disse que vale a pena lutar, recordando-me dos idos de 1988, quando presidia a Superintendência do Desenvolvimento da região Centro-Oeste - Sudeco. Na ocasião, Sr. Presidente, Srs. Senadores, as ruas de Brasília estavam enfeitadas com faixas que continham uma frase que hoje ainda ecoa em meus ouvidos e penetra fundo no meu sentimento de brasilidade: \"292 e uma vontade só\". Eram 292 Parlamentares unidos, 292 Parlamentares do Norte, Nordeste e Centro-Oeste com uma só vontade: a de fazer constar da Constituição Federal de 1988 – como realmente consta – um dispositivo que obriga a aplicação de investimentos nessas regiões."
+    },
+    {
+     "inicio_corpo": 856,
+     "fim_corpo": 1779,
+     "trecho": "Eu disse que vale a pena lutar, recordando-me dos idos de 1988, quando presidia a Superintendência do Desenvolvimento da região Centro-Oeste - Sudeco. Na ocasião, Sr. Presidente, Srs. Senadores, as ruas de Brasília estavam enfeitadas com faixas que continham uma frase que hoje ainda ecoa em meus ouvidos e penetra fundo no meu sentimento de brasilidade: \"292 e uma vontade só\". Eram 292 Parlamentares unidos, 292 Parlamentares do Norte, Nordeste e Centro-Oeste com uma só vontade: a de fazer constar da Constituição Federal de 1988 – como realmente consta – um dispositivo que obriga a aplicação de investimentos nessas regiões. Tal dispositivo estabelece que 3% do produto da arrecadação dos impostos sobre renda e proventos de qualquer natureza e sobre produtos industrializados devem ser obrigatoriamente aplicados em projetos de financiamento do setor produtivo das regiões Norte, Nordeste e Centro-Oeste."
+    },
+    {
+     "inicio_corpo": 856,
+     "fim_corpo": 1779,
+     "trecho": "Eu disse que vale a pena lutar, recordando-me dos idos de 1988, quando presidia a Superintendência do Desenvolvimento da região Centro-Oeste - Sudeco. Na ocasião, Sr. Presidente, Srs. Senadores, as ruas de Brasília estavam enfeitadas com faixas que continham uma frase que hoje ainda ecoa em meus ouvidos e penetra fundo no meu sentimento de brasilidade: \"292 e uma vontade só\". Eram 292 Parlamentares unidos, 292 Parlamentares do Norte, Nordeste e Centro-Oeste com uma só vontade: a de fazer constar da Constituição Federal de 1988 – como realmente consta – um dispositivo que obriga a aplicação de investimentos nessas regiões. Tal dispositivo estabelece que 3% do produto da arrecadação dos impostos sobre renda e proventos de qualquer natureza e sobre produtos industrializados devem ser obrigatoriamente aplicados em projetos de financiamento do setor produtivo das regiões Norte, Nordeste e Centro-Oeste."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0073::Urbano e rural",
+   "unit_id": "S0073",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-17",
+   "orador": "Ramez Tebet",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "campos",
+     "forma_encontrada": "Campos",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7086,
+     "fim_corpo": 7934,
+     "trecho": "O Sr. Agnelo Alves (PMDB - RN) – V. Exª me concede um aparte, Senador Ramez Tebet? O SR. RAMEZ TEBET (PMDB - MS) – Concedo-lhe o aparte, Senador Agnelo Alves. O Sr. Agnelo Alves (PMDB - RN) – Gostaria de fixar um aspecto da maior importância, além de todos estes, altamente relevantes, que V. Exª tão bem focalizou. É que pela primeira vez, depois que se instalou neste País uma política de combate à correção monetária, à inflação, estamos tendo a oportunidade de acreditar na moeda nacional; uma moeda que, por meio dos fundos constitucionais, não permitirá mais que seja corrigida pelos índices inflacionários. De tal maneira que os tomadores, os que necessitam, principalmente dos setores rural e industrial, possam programar os seus investimentos, ou seja, tomando determinada quantia por determinado prazo, pagará um tanto."
+    },
+    {
+     "inicio_corpo": 11347,
+     "fim_corpo": 12193,
+     "trecho": "O Sr. José Alencar (PMDB - MG) - V. Exª permite-me um aparte? O SR. RAMEZ TEBET (PMDB - MS) - Concedo o aparte a V. Exª. O Sr. José Alencar (PMDB - MG) - Eminente Senador Ramez Tebet, V. Exª aborda o tema com grande maestria. É muito importante que nós, do Senado, levemos nosso aplauso a essa medida, porque, mesmo quando congelamos os preços, num passado não muito remoto, o Governo não deu demonstração de que acreditava no fim da inflação, tanto que é a primeira vez que estamos assistindo à retirada da correção monetária nos contratos de financiamento com recursos oriundos de bancos oficiais. Nunca houve isso durante esses anos de inflação, que vêm desde o início do Governo Militar, quando foi instituída a correção monetária. Ela foi estabelecida no tempo em que o Senador Roberto Campos era Ministro do Planejamento."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0074::Posição no trabalho",
+   "unit_id": "S0074",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-17",
+   "orador": "Marina Silva",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "desemprego",
+     "forma_encontrada": "desemprego",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2661,
+     "fim_corpo": 3598,
+     "trecho": "Então, é essencial que isso seja considerado na votação desta convocação extraordinária. A SRª MARINA SILVA (Bloco/PT - AC) - Agradeço ao Senador Eduardo Suplicy e incorporo ao meu pronunciamento o seu aparte. Apenas para se ter uma idéia da oportunidade desta discussão, trago dados relativos ao comportamento do gasto social do Governo na área federal. Se compararmos o gasto social federal com o gasto não-financeiro federal no período de 1992 a1998, percebemos com tristeza, a partir de 1995 – quando esse percentual era de 60% –, sua tendência claramente declinante, tendo chegado ao final de 1998 a 44%. O aumento assustador do índice de desemprego neste País, a redução das poucas oportunidades de sobrevivência, mesmo no mercado informal, e a queda nos investimentos sociais – de 60% para 44% – representam a gravidade de se reduzir investimento social num período de crise como o que estamos atravessando."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0074::Renda e classe",
+   "unit_id": "S0074",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-17",
+   "orador": "Marina Silva",
+   "n_ocorrencias_no_par": 10,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 4,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "Pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "pobreza",
+     "forma_encontrada": "pobreza",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 843,
+     "trecho": "A SRª MARINA SILVA (Bloco/PT - AC) - Concedo o aparte ao Senador Eduardo Suplicy, pois já me encaminho para a conclusão deste registro. Como falei anteriormente, ainda não vou me ater ao mérito da convocação em si, assunto polêmico que desejo tratar em outra oportunidade. O Sr. Eduardo Suplicy (Bloco/PT - SP) - Senadora Marina Silva, concordo plenamente com V. Exª. Temos conversado sobre esse assunto e precisamos expor com muita clareza, sobretudo na próxima reunião da Comissão de Constituição, Justiça e Cidadania, mas também aqui no Plenário do Senado, que o fato de estarmos examinando apenas a proposta de criação de um Fundo de Combate à Pobreza, em decorrência da proposição do Senador Antonio Carlos Magalhães, e de apenas parte do que foi proposto pela Comissão Mista de Combate à Pobreza, seria algo totalmente inadequado."
+    },
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 843,
+     "trecho": "A SRª MARINA SILVA (Bloco/PT - AC) - Concedo o aparte ao Senador Eduardo Suplicy, pois já me encaminho para a conclusão deste registro. Como falei anteriormente, ainda não vou me ater ao mérito da convocação em si, assunto polêmico que desejo tratar em outra oportunidade. O Sr. Eduardo Suplicy (Bloco/PT - SP) - Senadora Marina Silva, concordo plenamente com V. Exª. Temos conversado sobre esse assunto e precisamos expor com muita clareza, sobretudo na próxima reunião da Comissão de Constituição, Justiça e Cidadania, mas também aqui no Plenário do Senado, que o fato de estarmos examinando apenas a proposta de criação de um Fundo de Combate à Pobreza, em decorrência da proposição do Senador Antonio Carlos Magalhães, e de apenas parte do que foi proposto pela Comissão Mista de Combate à Pobreza, seria algo totalmente inadequado."
+    },
+    {
+     "inicio_corpo": 136,
+     "fim_corpo": 1185,
+     "trecho": "Como falei anteriormente, ainda não vou me ater ao mérito da convocação em si, assunto polêmico que desejo tratar em outra oportunidade. O Sr. Eduardo Suplicy (Bloco/PT - SP) - Senadora Marina Silva, concordo plenamente com V. Exª. Temos conversado sobre esse assunto e precisamos expor com muita clareza, sobretudo na próxima reunião da Comissão de Constituição, Justiça e Cidadania, mas também aqui no Plenário do Senado, que o fato de estarmos examinando apenas a proposta de criação de um Fundo de Combate à Pobreza, em decorrência da proposição do Senador Antonio Carlos Magalhães, e de apenas parte do que foi proposto pela Comissão Mista de Combate à Pobreza, seria algo totalmente inadequado. Quando da reunião de conclusão e votação do relatório da Comissão Mista de Combate à Pobreza, o Deputado Roberto Brant perguntou-nos, diante das observações que todos nós fazíamos, Deputados e Senadores do Bloco de Oposição, se estaríamos de acordo em fazer um voto consensual se porventura ele acatasse as proposições que estávamos fazendo."
+    },
+    {
+     "inicio_corpo": 843,
+     "fim_corpo": 1505,
+     "trecho": "Quando da reunião de conclusão e votação do relatório da Comissão Mista de Combate à Pobreza, o Deputado Roberto Brant perguntou-nos, diante das observações que todos nós fazíamos, Deputados e Senadores do Bloco de Oposição, se estaríamos de acordo em fazer um voto consensual se porventura ele acatasse as proposições que estávamos fazendo. Pois bem, dialogamos a respeito e concordamos. Dessa forma, seria próprio que o Senado Federal agora, ao examinar aquela parte ou as proposições recomendadas pela Comissão Mista de Combate à Pobreza, examinasse-as em sua forma completa, e não apenas aquela parte com a qual o Governo, o PFL e o PSDB estariam de acordo."
+    },
+    {
+     "inicio_corpo": 1185,
+     "fim_corpo": 2022,
+     "trecho": "Pois bem, dialogamos a respeito e concordamos. Dessa forma, seria próprio que o Senado Federal agora, ao examinar aquela parte ou as proposições recomendadas pela Comissão Mista de Combate à Pobreza, examinasse-as em sua forma completa, e não apenas aquela parte com a qual o Governo, o PFL e o PSDB estariam de acordo. Esse seria o procedimento adequado em vista daquela palavra que S. Exª nos disse naquele momento, e que nos parecia até ser um entendimento dos Partidos, que naquela Comissão representavam o Governo. Desse modo, nesta semana, com muita franqueza, temos que dizer aos membros da Comissão de Constituição, Justiça e Cidadania que a sua decisão, na hora de votar o Fundo de Combate à Pobreza, precisa levar em conta também aquelas propostas de emenda à Constituição que constaram da Comissão Mista de Combate à Pobreza."
+    },
+    {
+     "inicio_corpo": 1185,
+     "fim_corpo": 2022,
+     "trecho": "Pois bem, dialogamos a respeito e concordamos. Dessa forma, seria próprio que o Senado Federal agora, ao examinar aquela parte ou as proposições recomendadas pela Comissão Mista de Combate à Pobreza, examinasse-as em sua forma completa, e não apenas aquela parte com a qual o Governo, o PFL e o PSDB estariam de acordo. Esse seria o procedimento adequado em vista daquela palavra que S. Exª nos disse naquele momento, e que nos parecia até ser um entendimento dos Partidos, que naquela Comissão representavam o Governo. Desse modo, nesta semana, com muita franqueza, temos que dizer aos membros da Comissão de Constituição, Justiça e Cidadania que a sua decisão, na hora de votar o Fundo de Combate à Pobreza, precisa levar em conta também aquelas propostas de emenda à Constituição que constaram da Comissão Mista de Combate à Pobreza."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0075::Posição no trabalho",
+   "unit_id": "S0075",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-17",
+   "orador": "Artur da Tavola",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhadores",
+     "forma_encontrada": "trabalhadores",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "trabalhador",
+     "forma_encontrada": "trabalhador",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 980,
+     "trecho": "O SR. ARTUR DA TÁVOLA (Sem Partido – RJ. Pronuncia o seguinte discurso. Sem revisão do orador.) – Sr. Presidente, Sr as e Srs. Senadores, agradeço ao Senador Saturnino Braga a permuta. Deixo com todos a certeza de que S. Exª falará depois de mim, o que será sempre um prazer para esta Casa e para todos que acompanham os nossos debates pela TV Senado . Trago ao conhecimento do Senado algo que já tem aparecido na imprensa e mobilizado forças políticas e sindicais do Rio de Janeiro: o retorno do problema da extinta TV Manchete . A partir de uma negociação que propiciou a venda de parte da TV Manchete , sobretudo do título, orientada no sentido de permitir que aquela atividade não cessasse e, ao mesmo tempo, que trabalhadores da Rede Manchete , que vinham, há mais de ano, com salários atrasados e – pior do que isso –, há 10 anos, sem o recolhimento do Fundo de Garantida por Tempo de Serviço, não ficassem ao abandono a que estavam relegados por uma situação anômala."
+    },
+    {
+     "inicio_corpo": 2812,
+     "fim_corpo": 3584,
+     "trecho": "Estão, portanto, envolvidas nessa matéria muitas questões. Mas, fora dessas considerações, que seriam oportunas, porém longas, há no momento, a partir de uma solução que pareceu bem encaminhada, o retorno de um susto, de uma ameaça muito séria, que já mobilizou o sindicato dos jornalistas profissionais do Município do Rio de Janeiro e igualmente outros sindicatos ligados à atividade de comunicação e que evidentemente já mereceu o apoio de outras correntes sindicais de todo o Brasil. Após terem o que deveria haver sido recolhido de seus salários para o Fundo de Garantia por Tempo de Serviço deixado de entrar no mesmo por 10 anos e após passarem quase um ano sem salários, vivendo toda sorte de humilhações, novamente, essa ameaça volta a esses trabalhadores."
+    },
+    {
+     "inicio_corpo": 4179,
+     "fim_corpo": 5091,
+     "trecho": "E a figura jurídica não está clara, até porque o Congresso Nacional ainda não votou a autorização para a renovação com os novos donos. A matéria está na Câmara dos Deputados. Por tal manobra, por tais circunstâncias, pelo atraso que já se estabeleceu, podemos, com certeza, daqui conclamar o Governo a voltar à matéria, já que é relativa à concessão para uso de uma atividade pública. Até creio que foi bem conduzida; pelo menos chegou a um êxito, à formulação de uma política. Tudo parecia bem encaminhado nesse sentido. Apesar de tudo estar bem encaminhado, acredito que cabe novamente ao Governo Federal uma intervenção bem decidida, razão pela qual conclamo o Ministro das Comunicações, que foi uma das pessoas a possibilitar o entendimento, a intervir na matéria com a energia necessária, partindo do princípio de que o dignatário principal de direitos, primeiro, é o usuário; segundo, o trabalhador."
+    },
+    {
+     "inicio_corpo": 4707,
+     "fim_corpo": 5926,
+     "trecho": "Apesar de tudo estar bem encaminhado, acredito que cabe novamente ao Governo Federal uma intervenção bem decidida, razão pela qual conclamo o Ministro das Comunicações, que foi uma das pessoas a possibilitar o entendimento, a intervir na matéria com a energia necessária, partindo do princípio de que o dignatário principal de direitos, primeiro, é o usuário; segundo, o trabalhador. Não é o proprietário, o dono da empresa, no caso, pois se trata de uma concessão para o uso de um serviço público, que, convenhamos, é altamente benéfica para os que a têm em rádio e televisão, do ponto de vista político, dos ganhos, etc. Não são esses os dignatários prioritários de uma concessão. É o usuário, em primeiro lugar, que tem o direito de receber serviços, de ser informado com amplitude, de ter o seu lazer garantido por alguma atividade, de ter uma base cultural nessa atividade, e também o trabalhador, que é justamente o profissional que faz a matéria: o homem que está atrás das câmeras; o operador de vídeo; o operador de áudio; o diretor de TV; o diretor de cena; todos os envoltórios ligados à atividade de cenarização, de iluminação; os atores; enfim, os que são a vida real de uma emissora de rádio e televisão."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "S0075::Território intraurbano",
+   "unit_id": "S0075",
+   "subcategoria": "Território intraurbano",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.4",
+   "lingua": "pt",
+   "casa_ou_camara": "senado",
+   "data": "2000-01-17",
+   "orador": "Artur da Tavola",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "periferias",
+     "forma_encontrada": "periferias",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "periferias",
+     "forma_encontrada": "periferias",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5926,
+     "fim_corpo": 6718,
+     "trecho": "Portanto, quero trazer a esta tribuna, agradecendo ao Senador Saturnino a gentileza de haver feito a permuta, a preocupação, que já expressei, e, ao mesmo tempo, a conclamação ao Ministro das Comunicações para que interceda nesse caso, deixando bem claro que o acordo que S. Exª mesmo engendrou, ajudou a estabelecer, deve ser cumprido, bem como o outro aspecto que envolve toda a nacionalidade, no sentido de que não tenhamos toda a emissão de televisão do País concentrada em um só Estado. Já dizia Gramsci que a cultura é uma produção do centro. Os centros produzem cultura e acabam por impô-la às periferias, quando, a rigor, o conceito mais profundo de cultura é exatamente o inverso: a cultura está onde ela foi mais preservada e pôde vicejar e existir com plena liberdade."
+    },
+    {
+     "inicio_corpo": 5926,
+     "fim_corpo": 7619,
+     "trecho": "Portanto, quero trazer a esta tribuna, agradecendo ao Senador Saturnino a gentileza de haver feito a permuta, a preocupação, que já expressei, e, ao mesmo tempo, a conclamação ao Ministro das Comunicações para que interceda nesse caso, deixando bem claro que o acordo que S. Exª mesmo engendrou, ajudou a estabelecer, deve ser cumprido, bem como o outro aspecto que envolve toda a nacionalidade, no sentido de que não tenhamos toda a emissão de televisão do País concentrada em um só Estado. Já dizia Gramsci que a cultura é uma produção do centro. Os centros produzem cultura e acabam por impô-la às periferias, quando, a rigor, o conceito mais profundo de cultura é exatamente o inverso: a cultura está onde ela foi mais preservada e pôde vicejar e existir com plena liberdade. Cada vez mais, no Brasil, nós temos uma produção de centro a esmagar a produção cultural das periferias, e este processo se agudiza e se concentra. Por todas essas razões, deixo da tribuna essa preocupação, partindo do princípio de que ela pode ser branda como preocupação, mas muito severa no sentido de defender direitos que foram violentamente transgredidos por ação empresarial e que, de novo, estão ameaçados de serem transgredidos, após um compromisso público, contratos assinados com o aval do Governo, para que se pudesse ter a cicatrização de um processo empresarial em mais uma rede de televisão no País – o que hoje quer dizer muita coisa, tendo em vista a importância, o alcance nacional, tudo aquilo que a tarefa de emissões de televisão significa para o País. Era o que tinha a dizer. Muito obrigado pela atenção, Sr. Presidente, Srªs e Srs. Senadores. acc"
+    }
+   ]
+  }
+ ]
+}

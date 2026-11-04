@@ -1,0 +1,772 @@
+{
+ "caso": "BEAD",
+ "lote": 41,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0165::Saúde",
+   "unit_id": "W0165",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable John Fogle",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2988,
+     "fim_corpo": 3906,
+     "trecho": "Too many American households and businesses remain isolated from reliable internet access, either because of a lack of infrastructure or because of outdated, inequitably distributed, or unaffor dable options. This digital divide has a direct impact on the ability of our communities to attract new businesses and employers, retain residents, provide government services , and educate our young people. Broadband access has evolved from a cutting- edge luxury to an essential utility for participation in daily life. The COVID -19 pandemic further emphasized the fact that internet access is a necessity for all Americans. Kindergartners adjusted to their first experience in public school by logging into virtual classrooms, furloughed workers applied for unemployment benefits through their state’s online portal and frontline health care workers provided telehealth to those unable to leave their homes."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0165::Urbano e rural",
+   "unit_id": "W0165",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable John Fogle",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3395,
+     "fim_corpo": 4279,
+     "trecho": "Broadband access has evolved from a cutting- edge luxury to an essential utility for participation in daily life. The COVID -19 pandemic further emphasized the fact that internet access is a necessity for all Americans. Kindergartners adjusted to their first experience in public school by logging into virtual classrooms, furloughed workers applied for unemployment benefits through their state’s online portal and frontline health care workers provided telehealth to those unable to leave their homes. Connectivity is a public health and safety issue, with resi dents reliant upon fixed and mobile communications networks for health information, emergency alerts, and connection to public safety services like 9-1-1. Insufficient broadband access is not a rural -only problem – more people without broadband at home live in urban and suburban areas than in rural ones."
+    },
+    {
+     "inicio_corpo": 3395,
+     "fim_corpo": 4279,
+     "trecho": "Broadband access has evolved from a cutting- edge luxury to an essential utility for participation in daily life. The COVID -19 pandemic further emphasized the fact that internet access is a necessity for all Americans. Kindergartners adjusted to their first experience in public school by logging into virtual classrooms, furloughed workers applied for unemployment benefits through their state’s online portal and frontline health care workers provided telehealth to those unable to leave their homes. Connectivity is a public health and safety issue, with resi dents reliant upon fixed and mobile communications networks for health information, emergency alerts, and connection to public safety services like 9-1-1. Insufficient broadband access is not a rural -only problem – more people without broadband at home live in urban and suburban areas than in rural ones."
+    },
+    {
+     "inicio_corpo": 3512,
+     "fim_corpo": 4394,
+     "trecho": "The COVID -19 pandemic further emphasized the fact that internet access is a necessity for all Americans. Kindergartners adjusted to their first experience in public school by logging into virtual classrooms, furloughed workers applied for unemployment benefits through their state’s online portal and frontline health care workers provided telehealth to those unable to leave their homes. Connectivity is a public health and safety issue, with resi dents reliant upon fixed and mobile communications networks for health information, emergency alerts, and connection to public safety services like 9-1-1. Insufficient broadband access is not a rural -only problem – more people without broadband at home live in urban and suburban areas than in rural ones. 1 Because more people live in urban areas than rural, most digitally disconnected households are in urban areas."
+    },
+    {
+     "inicio_corpo": 3619,
+     "fim_corpo": 4474,
+     "trecho": "Kindergartners adjusted to their first experience in public school by logging into virtual classrooms, furloughed workers applied for unemployment benefits through their state’s online portal and frontline health care workers provided telehealth to those unable to leave their homes. Connectivity is a public health and safety issue, with resi dents reliant upon fixed and mobile communications networks for health information, emergency alerts, and connection to public safety services like 9-1-1. Insufficient broadband access is not a rural -only problem – more people without broadband at home live in urban and suburban areas than in rural ones. 1 Because more people live in urban areas than rural, most digitally disconnected households are in urban areas. In terms of overall adoption of broadband, rural areas are lagging urban areas."
+    },
+    {
+     "inicio_corpo": 3619,
+     "fim_corpo": 4560,
+     "trecho": "Kindergartners adjusted to their first experience in public school by logging into virtual classrooms, furloughed workers applied for unemployment benefits through their state’s online portal and frontline health care workers provided telehealth to those unable to leave their homes. Connectivity is a public health and safety issue, with resi dents reliant upon fixed and mobile communications networks for health information, emergency alerts, and connection to public safety services like 9-1-1. Insufficient broadband access is not a rural -only problem – more people without broadband at home live in urban and suburban areas than in rural ones. 1 Because more people live in urban areas than rural, most digitally disconnected households are in urban areas. In terms of overall adoption of broadband, rural areas are lagging urban areas. The rural adoption rate is 81 percent compared to urban adoption rate of 86 percent."
+    },
+    {
+     "inicio_corpo": 10495,
+     "fim_corpo": 11296,
+     "trecho": "Access to community broadband, however, is not available for all. More than a third of states have banned it as an option or instituted barriers that make it difficult to set up. Not only does this interfere with the attempts of communities to establish their own networks, but it also impacts the quality of broadband available to residents. According to a study conducted by Brian Whitacre and Roberto Gallardo, cities in states with community broadband restrictions had lower broadband availability rates than states without restrictions, a difference of 3.1 percentage points lower than would be expected without restrictions. 6 These negative impacts of community broadband restrictions were even more pronounced in rural areas, with lower levels of access to high quality broadband."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0166::Educação",
+   "unit_id": "W0166",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Mary Franks",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7348,
+     "fim_corpo": 8169,
+     "trecho": "B. Free Speech But, some argue, the Internet is fundamentally different from cars and cigarettes and hospitals because the product in question is speech, and speech deserves special protection under the First Amendment. There are two important points to note here. First, the way that Section 230 is drafted and currently interpreted protects far more than speech protected by the First Amendment – everything from defamation to credit card transactions to sales of illegal firearms. Second, other speech- focused industries do not enjoy the sweeping immunity of Section 230. Newspapers can be sued. So can television companies and radio stations, book publishers and book distributors. Employers, school districts, and housing authorities can all be sued for discriminatory or otherwise actionable speech."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0166::Gênero",
+   "unit_id": "W0166",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Mary Franks",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10921,
+     "fim_corpo": 11728,
+     "trecho": "There is good reason to be concerned about the influence of tech companies and other powerful private actors over the ability of individuals to express themselves. This is an observation scholars and advocates who work on online abuse issues have been making for years—that some of the most serious threats to free speech come not from the government, but from non-state actors. But the unregulated tech industry—or rather, the selectively regulated tech industry—makes this problem worse, not better. As the Internet multiplies the possibilities of expression, it also multiplies the possibilities of repression. The new forms of communication offered by the Internet have been used to unleash a regressive and censorious backlash against vulnerable groups, in particular women and minorities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0166::Raça e etnia",
+   "unit_id": "W0166",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Mary Franks",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "minorities",
+     "forma_encontrada": "minorities",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 10921,
+     "fim_corpo": 11728,
+     "trecho": "There is good reason to be concerned about the influence of tech companies and other powerful private actors over the ability of individuals to express themselves. This is an observation scholars and advocates who work on online abuse issues have been making for years—that some of the most serious threats to free speech come not from the government, but from non-state actors. But the unregulated tech industry—or rather, the selectively regulated tech industry—makes this problem worse, not better. As the Internet multiplies the possibilities of expression, it also multiplies the possibilities of repression. The new forms of communication offered by the Internet have been used to unleash a regressive and censorious backlash against vulnerable groups, in particular women and minorities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0166::Saúde",
+   "unit_id": "W0166",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Mary Franks",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospitals",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5004,
+     "fim_corpo": 5828,
+     "trecho": "That does not make them automatically liable for those actions. A complex set of facts and relationships not only have to exist, but also have to be established, before any entity can be held legally accountable to another entity. A slightly more sophisticated version of this objection maintains that the risk of liability – the possibility of being sued – will incentivize tech companies to take down any third-party content that could be controversial, resulting in the loss of valuable, First Amendment-protected expression. But every industry (with the possible exception of the firearms industry) has to contend with the risk of liability. Auto manufacturers can be sued when engines catch on fire; cigarette companies can be sued when smokers get lung cancer; hospitals can be sued for botched surgeries."
+    },
+    {
+     "inicio_corpo": 6642,
+     "fim_corpo": 7576,
+     "trecho": "Section 230 preempts plaintiffs from ever bringing suit in many cases and makes it difficult for any suit that is brought to survive a motion to dismiss. Some 3 Section 230 defenders argue that this is as it should be, because many suits against online intermediaries will ultimately fail on the merits. But whether a plaintiff’s claim will ultimately succeed in any given case is always indeterminate. The value of the right to bring the claim does not turn on whether the claim is vindicated in the end. Moreover, in many cases, the discovery process will provide significant value not just to the plaintiff in the case at hand, but to legislators, regulators, future plaintiffs, and the public. B. Free Speech But, some argue, the Internet is fundamentally different from cars and cigarettes and hospitals because the product in question is speech, and speech deserves special protection under the First Amendment."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0167::Educação",
+   "unit_id": "W0167",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Daniel Lyons",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 943,
+     "trecho": "The American Enterprise Institute (AEI) is a nonpartisan, nonprofit, 501(c)(3) educational organization and does not take institutional positions on any issues. The views expressed in this testimony are those of the author. Statement before the House Committee on Energy and Commerce Subcommittee on Communications and Technology On “Holding Big Tech Accountable: Targeted Reforms to Big Tech’s Legal Immunity” Assessing Proposed Reforms to the Twenty-Six Words that Created the Internet Daniel A. Lyons Professor and Associate Dean for Academic Affairs, Boston College Law School Nonresident Senior Fellow, American Enterprise Institute December 1, 2021 2 Chairman Doyle, Ranking Member Latta, Chairman Pallone, Ranking Member McMorris Rodgers, and members of the Committee, thank you for the opportunity to appear before you at today’s hearing on holding Big Tech accountable ."
+    },
+    {
+     "inicio_corpo": 162,
+     "fim_corpo": 1132,
+     "trecho": "The views expressed in this testimony are those of the author. Statement before the House Committee on Energy and Commerce Subcommittee on Communications and Technology On “Holding Big Tech Accountable: Targeted Reforms to Big Tech’s Legal Immunity” Assessing Proposed Reforms to the Twenty-Six Words that Created the Internet Daniel A. Lyons Professor and Associate Dean for Academic Affairs, Boston College Law School Nonresident Senior Fellow, American Enterprise Institute December 1, 2021 2 Chairman Doyle, Ranking Member Latta, Chairman Pallone, Ranking Member McMorris Rodgers, and members of the Committee, thank you for the opportunity to appear before you at today’s hearing on holding Big Tech accountable . I am a nonresident senior fellow at the American Enterprise Institute and a p rofessor at Boston College Law School, where I teach and write about telecommunications and internet policy."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0167::Escolaridade e letramento",
+   "unit_id": "W0167",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Daniel Lyons",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11005,
+     "fim_corpo": 12000,
+     "trecho": "The minimization of personalized algorithms could take the “social” out of “social media.” In the pre-internet era, traditional media lacked detailed information about their audience. As a result, 5 the “Big Three” networks broadcast primarily milquetoast content (such as Gilligan’s Island) designed to appeal mildly to a large number of viewers without aliena ting significant segments, to maximize advertising revenue given the inability to personalize ads. It was this bland, vacuous programming-to-the-middle that then-Federal Communications Commission Chairman Newton Minow criticized as “a vast wasteland,” and which significantly limited programming to niche audiences, including minorities. Perhaps more importantly, this vagueness would likely create a flood of litigation unrelated to the purposes of the statute. As a law professor, I teach my students to ident ify the ambiguous terms in any statute, because they are the terms most likely to prompt litigation."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0167::Idade",
+   "unit_id": "W0167",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Daniel Lyons",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 943,
+     "trecho": "The American Enterprise Institute (AEI) is a nonpartisan, nonprofit, 501(c)(3) educational organization and does not take institutional positions on any issues. The views expressed in this testimony are those of the author. Statement before the House Committee on Energy and Commerce Subcommittee on Communications and Technology On “Holding Big Tech Accountable: Targeted Reforms to Big Tech’s Legal Immunity” Assessing Proposed Reforms to the Twenty-Six Words that Created the Internet Daniel A. Lyons Professor and Associate Dean for Academic Affairs, Boston College Law School Nonresident Senior Fellow, American Enterprise Institute December 1, 2021 2 Chairman Doyle, Ranking Member Latta, Chairman Pallone, Ranking Member McMorris Rodgers, and members of the Committee, thank you for the opportunity to appear before you at today’s hearing on holding Big Tech accountable ."
+    },
+    {
+     "inicio_corpo": 162,
+     "fim_corpo": 1132,
+     "trecho": "The views expressed in this testimony are those of the author. Statement before the House Committee on Energy and Commerce Subcommittee on Communications and Technology On “Holding Big Tech Accountable: Targeted Reforms to Big Tech’s Legal Immunity” Assessing Proposed Reforms to the Twenty-Six Words that Created the Internet Daniel A. Lyons Professor and Associate Dean for Academic Affairs, Boston College Law School Nonresident Senior Fellow, American Enterprise Institute December 1, 2021 2 Chairman Doyle, Ranking Member Latta, Chairman Pallone, Ranking Member McMorris Rodgers, and members of the Committee, thank you for the opportunity to appear before you at today’s hearing on holding Big Tech accountable . I am a nonresident senior fellow at the American Enterprise Institute and a p rofessor at Boston College Law School, where I teach and write about telecommunications and internet policy."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0167::Posição no trabalho",
+   "unit_id": "W0167",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Daniel Lyons",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5342,
+     "fim_corpo": 6486,
+     "trecho": "Congress’s earlier forays into Section 230 reform highlight the risk of such unintended consequences. By passing the Allow States and Victims to Fight Online Sex Trafficking Act of 2017 (FOSTA), Congress amended Section 230 to eliminate immunity from certain claims related to prostitution and sex trafficking, to protect victims from exploitation via online platforms. 8 But the first comprehensive study of the amendment, published earlier this year in the Columbia Human Rights Law Review , concludes that “though the exact legal applicability of FOSTA is speculative, it has already had a wide-reaching practical impact; it is clear that even the threat of an expansive reading of these amendments has had a chilling effect on free speech, has created dangerous working conditions for sex -workers, and has made it more difficult for police to find trafficked individuals.” 9 The Government Accountability Office similarly concluded that the post -FOSTA landscape has heightened the challenges for law enforcement.10 The Challenge of Regulating Algorithms The bills currently under consideration present similar risks."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0167::Raça e etnia",
+   "unit_id": "W0167",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Daniel Lyons",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "minorities",
+     "forma_encontrada": "minorities",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11005,
+     "fim_corpo": 11719,
+     "trecho": "The minimization of personalized algorithms could take the “social” out of “social media.” In the pre-internet era, traditional media lacked detailed information about their audience. As a result, 5 the “Big Three” networks broadcast primarily milquetoast content (such as Gilligan’s Island) designed to appeal mildly to a large number of viewers without aliena ting significant segments, to maximize advertising revenue given the inability to personalize ads. It was this bland, vacuous programming-to-the-middle that then-Federal Communications Commission Chairman Newton Minow criticized as “a vast wasteland,” and which significantly limited programming to niche audiences, including minorities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0168::Educação",
+   "unit_id": "W0168",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Eugen Volokh",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "SCHOOL",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 254,
+     "trecho": "UNIVERSITY OF CALIFORNIA, LOS ANGELES UCLA BERKELEY • DAVIS • IRVINE • LOS ANGELES • MERCED • RIVERSIDE • SAN DIEGO • SAN FRANCISCO SANTA BARBARA • SANTA CRUZ EUGENE VOLOKH GARY T. SCHWARTZ PROFESSOR OF LAW SCHOOL OF LAW 405 HILGARD AVE."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0168::Gênero",
+   "unit_id": "W0168",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Eugen Volokh",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "gender",
+     "forma_encontrada": "gender",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 22641,
+     "fim_corpo": 24378,
+     "trecho": "On one hand, such proposals may indeed make it harder for conspirators , foreign and domestic, to effectively organize and promote their crimes. On the other hand, they are also likely to lead to cautious platforms suppressing even constitutionally pro- tected advocacy, since the platforms will have only limited information about who is post- ing material, why they are posting it, how the posters and their readers are likely to inter- pret it. V. Civil Rights Modernization Act This bill would , among other things, allow liability (civil or criminal) for “target[ed]” paid “advertisements” that may violate • “(A) any Federal, State, or local law, any part of which prohibits discrimination or other adverse action on the basis of a protected class or status [i.e., actual or per- ceived race, color, ethnicity, religion, national origin, sex (including sexual orienta- tion and gender identity), age, disability, familial status, p regnancy, genetic infor- mation, or citizenship or immigration status];” • “(B) any other Federal law that is administered or enforced, in whole or in part, by the Civil Rights Division of the Department of Justice; or” • “(C) any Federal, State, or local law that prohibits the dissemination of false or mis- leading information intended, with respect to an election for public office, to prevent voters from casting their ballots or to prevent voters from voting for the candidate of their choice.” “Targeting” is defined as using technology “to deliver or show a covered advertisement to any particular subset of users who are part of or have a protected class or status.” This would likely cover discriminatorily targeted ads for employment, housing, and the like (under (A))."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0168::Saúde e deficiência",
+   "unit_id": "W0168",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Eugen Volokh",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "disability",
+     "forma_encontrada": "disability",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 22787,
+     "fim_corpo": 24378,
+     "trecho": "On the other hand, they are also likely to lead to cautious platforms suppressing even constitutionally pro- tected advocacy, since the platforms will have only limited information about who is post- ing material, why they are posting it, how the posters and their readers are likely to inter- pret it. V. Civil Rights Modernization Act This bill would , among other things, allow liability (civil or criminal) for “target[ed]” paid “advertisements” that may violate • “(A) any Federal, State, or local law, any part of which prohibits discrimination or other adverse action on the basis of a protected class or status [i.e., actual or per- ceived race, color, ethnicity, religion, national origin, sex (including sexual orienta- tion and gender identity), age, disability, familial status, p regnancy, genetic infor- mation, or citizenship or immigration status];” • “(B) any other Federal law that is administered or enforced, in whole or in part, by the Civil Rights Division of the Department of Justice; or” • “(C) any Federal, State, or local law that prohibits the dissemination of false or mis- leading information intended, with respect to an election for public office, to prevent voters from casting their ballots or to prevent voters from voting for the candidate of their choice.” “Targeting” is defined as using technology “to deliver or show a covered advertisement to any particular subset of users who are part of or have a protected class or status.” This would likely cover discriminatorily targeted ads for employment, housing, and the like (under (A))."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0170::Idade",
+   "unit_id": "W0170",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Matthew Wood",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 625,
+     "trecho": "Attachment—Additional Questions for the Record Subcommittee on Communications and Technology Hearing on “Holding Big Tech Accountable: Targeted Reforms to Tech’s Legal Immunity” December 1, 2021 Mr. Matthew F. Wood, Vice President of Policy and General Counsel, Free Press Action The Honorable Anna G. Eshoo (D-CA) 1. Your testimony recommends the Subcommittee take a close look at H.R. 2000, the Stop Shielding Culpable Platforms Act , which effectively overturns Zeran vs. America Online. If this bill was enacted into law, how do you think platforms would change their behavior in response?"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0173::Domicílio e arranjo familiar",
+   "unit_id": "W0173",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Frances Haugen",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 521,
+     "fim_corpo": 1523,
+     "trecho": "But I am here today because Ibelieve that Facebook’s products harm children, stoke division in our communities, threaten ourdemocracy, weaken our national security and much more. Facebook is a company that has paidfor its immense profits with our safety and security. I am honored to be here today to share what I know, and I am grateful for the level of scrutinythese issues are getting. I hope we can stay focused on the real harms to real people ratherthan talk in abstractions. This is about the teenagers whose mental health is undermined byInstagram. And it is about their parents and teachers who are struggling to deal with theconsequences of that harm. It is about the doctors and nurses who have to cope with theconspiracies about COVID-19 and vaccines. It is about the people who have sufferedharassment online. It is about the families -- at home and around the world -- who live in placeswhere hate, fear, and conflict have been ratcheted up to fever pitch through onlineradicalization."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0173::Saúde e deficiência",
+   "unit_id": "W0173",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Frances Haugen",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "blind",
+     "forma_encontrada": "blind",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6351,
+     "fim_corpo": 7719,
+     "trecho": "Rising to meet these challenges won’t be easy. But democracies must do what they havealways done when the actions of commerce conflict with the interests of the people and societyas a whole -- Democracies must step in and make new laws. Let’s not forget -- we have stood at these crossroads before. When the tobacco companiesclaimed that filtered cigarettes were safer for consumers, it was possible for scientists toindependently invalidate that marketing message and confirm that, in fact, they still posed aserious threat to human health. But today we cannot make this kind of independent assessmentof Facebook. We have to just trust that what Facebook says is true — and they have repeatedlyproved that they do not deserve our blind faith. We need to open up the black box at Facebook. We need additional capacity to investigate theproblems these products cause, and the ability to audit what they tell us, because we havelearned they cannot be trusted. Facebook wants you to get caught up in a long, drawn out debate over the minutiae of differentlegislative approaches. Please don’t fall into that trap.Time is of the essence. There is a lot at stake here. You have a once-in-a-generation opportunity to create new rules forour online world. I came forward, at great personal risk, because I believe we still have time to act. But we mustact now. Thank you. 4"
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0174::Domicílio e arranjo familiar",
+   "unit_id": "W0174",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Kara Frederick",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "Family",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 30499,
+     "fim_corpo": 31544,
+     "trecho": "21 Georgia Wells and Jeff Horwitz, “Facebook’s Effort to Attract Preteens Goes Beyond Instagram Kids, Documents Show,” The Wall Street Journal, September 28, 2021, https://www.wsj.com/articles/facebook-instagram-kids-tweens-attract-11632849667 (accessed November 30, 2021). 22 Ibid. 23 Terry Collins, “Instagram for kids? Facebook explores creating a platform for users under 13,” USA Today, March 18, 2021, https://www.usatoday.com/story/tech/2021/03/18/instagram-kids-facebook-exploring/4757667001/ (accessed November 29, 2021). 24 Brett Molina, “Facebook wants kids under 13 to try new Messenger app,” USA Today, December 4, 2017, https://www.usatoday.com/story/tech/talkingtech/2017/12/04/facebook-rolls-out-kids-version-messenger/918805001/ (accessed November 29, 2021). 25 Shimrit Ben-Yair, “Introducing the newest member of our family, the YouTube Kids app—available on Google Play and the App Store,” YouTube Official Blog, February 23, 2015, https://blog.youtube/news-and-events/youtube-kids/ (accessed November 30, 2021)."
+    },
+    {
+     "inicio_corpo": 34735,
+     "fim_corpo": 35727,
+     "trecho": "39 Gordon Corera, “ISIS 'still evading detection on Facebook', report says,” BBC, July 13, 2020, https://www.bbc.com/news/technology-53389657 (accessed November 30, 2021); and Justin Scheck, Newley Purnell and Jeff Horwitz, “Facebook Employees Flag Drug Cartels and Human Traffickers. The Company’s Response Is Weak, Documents Show,” 9 The Wall Street Journal, September 16, 2021, https://www.wsj.com/articles/facebook-drug-cartels-human-traffickers-response-is- weak-documents-11631812953?mod=article_inline (accessed November 29, 2021). 40 These definitions are often based on nebulous, overly broad conceptions of what constitutes \"harm\" and \"hate.\" The term \"hate\" is used in vague ways by outside organizations that rely on or have relied on for policy input, like the Southern Poverty Law Center (SPLC). For example, SPLC classifies the Family Research Council as an \"anti-gay hate group\" due to their biblical worldview, which represents views held by many conservatives."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0174::Gênero",
+   "unit_id": "W0174",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Kara Frederick",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "gender",
+     "forma_encontrada": "gender",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "gender",
+     "forma_encontrada": "gender",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "gender",
+     "forma_encontrada": "gender",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 11154,
+     "fim_corpo": 12064,
+     "trecho": "28 These platforms also portend broader social impacts. According t o The Wall Street Journal , teenage girls in the United States , the United Kingdom, Canada, and Australia are likely developing verbal and physical tics by watching influencers on TikTok who 4 exhibit the same habits. In one case , Texas Children’s Hospital reported incidents of approximately 60 teens with these behaviors , compared to one to two cases pre-pandemic.29 Every reported incident of an uptick involved the use of TikTok, according to the Journal’s assessment. Author Abigail Shrier also documents social media’s influence on social contagions de rig ueur, stating these sites offer an “endless supply of mentors” to fan the flames of gender dissatisfaction in teen girls.30 Companies like Facebook are aware of these impacts yet continue to double down and expand efforts targeted at children ."
+    },
+    {
+     "inicio_corpo": 23863,
+     "fim_corpo": 25234,
+     "trecho": "ENIGMA SOFTWARE GROUP USA, LLC,” October 13, 2020, U.S. Supreme Court, p.1 & 9, https://www.supremecourt.gov/orders/courtorders/101320zor_8m58.pdf (accessed November 30, 2021). 6 Robert Hart, “Parler’s Popularity Plummets As Data Reveals Little Appetite For Returning ‘Free Speech’ App Favored By Conservatives,” Forbes, June 2, 2021, https://www.forbes.com/sites/roberthart/2021/06/02/parlers-popularity-plummets-as-data- reveals-little-appetite-for-returning-free-speech-app-favored-by-conservatives/?sh=505ef8e85e13 (accessed November 30, 2021). 7 David Rutz, “YouTube Removes Video Georgia Mother Criticizing Mask Mandates for Children: ‘Medical Misinformation’,” Fox News, May 27, 2021, https://www.foxnews.com/media/youtube-takes-down-video-georgia-mother-mask (accessed November 3, 2021); Megan Basham, “Twitter Suspends Conservative Pundit Allie Beth Stuckey for Stating That Transgender Weightlifter Is a Man,” Daily Wire, August 11, 2021, https://www.dailywire.com/news/twitter-suspends-conservative-pundit-allie-beth-stuckey-for- stating-that-transgender-weightlifter-is-a-man (accessed November 3, 2021); Taylor Hatmaker, “Google and YouTube say they won’t allow ads or monetized content pushing climate denial,” Tech Crunch, October 7, 2021, https://techcrunch.com/2021/10/07/google- youtube-climate-change-denial-ban/ (accessed November 1, 2021)."
+    },
+    {
+     "inicio_corpo": 24042,
+     "fim_corpo": 25234,
+     "trecho": "6 Robert Hart, “Parler’s Popularity Plummets As Data Reveals Little Appetite For Returning ‘Free Speech’ App Favored By Conservatives,” Forbes, June 2, 2021, https://www.forbes.com/sites/roberthart/2021/06/02/parlers-popularity-plummets-as-data- reveals-little-appetite-for-returning-free-speech-app-favored-by-conservatives/?sh=505ef8e85e13 (accessed November 30, 2021). 7 David Rutz, “YouTube Removes Video Georgia Mother Criticizing Mask Mandates for Children: ‘Medical Misinformation’,” Fox News, May 27, 2021, https://www.foxnews.com/media/youtube-takes-down-video-georgia-mother-mask (accessed November 3, 2021); Megan Basham, “Twitter Suspends Conservative Pundit Allie Beth Stuckey for Stating That Transgender Weightlifter Is a Man,” Daily Wire, August 11, 2021, https://www.dailywire.com/news/twitter-suspends-conservative-pundit-allie-beth-stuckey-for- stating-that-transgender-weightlifter-is-a-man (accessed November 3, 2021); Taylor Hatmaker, “Google and YouTube say they won’t allow ads or monetized content pushing climate denial,” Tech Crunch, October 7, 2021, https://techcrunch.com/2021/10/07/google- youtube-climate-change-denial-ban/ (accessed November 1, 2021)."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0174::Idade",
+   "unit_id": "W0174",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Kara Frederick",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "youth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7167,
+     "fim_corpo": 8059,
+     "trecho": "Distinctly American nor ms and values flow from a set of rights guaranteed by the Constitution and embedded in our culture , which includes free speech. Even the A merican Civil Liberties Union (ACLU)—not the friends of free expression they once were —is worried about this infringement by tech companies . For instance, ACLU's Senior Legislative Counsel stated in January that: “it should concern everyone when companies like Facebook and Twitter wield the unchecked power to remove people from platforms tha t have become indispensable for the speech of billions… .”15 Russian dissident Alexei Navalny , German chancellor Angela Merkel, and Mexico’s president Andrés Manuel López Obrador—none of whom are particularly sympathetic to American conservatives—also spoke out about the threats this abuse of co nsolidated power poses to freedom of expression writ large."
+    },
+    {
+     "inicio_corpo": 10023,
+     "fim_corpo": 10794,
+     "trecho": "23 (It already has a 6- to 12 -year-old focused Messenger app .24) YouTube Kids invoked children as young as three years old in its rollout in 2015 .25 Up and comers like TikTok , owned by a Beijing - based parent company, are deliberately courting younger markets . According to Statista, 62 percent of TikTok users in the United States are between 10- 29 years old in 2021 and skewing younger .26 Last year, a Pew Research Center survey found that among 9-to-11-year-olds, 30 percent of their parents claim their child uses TikTok, 22 percent of parents estimate their kids use Snapchat, 11 percent Instagram, and 6 percent assess their children are on Facebook.27 This is significant due to the toxic effects of these platforms on American youth."
+    }
+   ]
+  }
+ ]
+}

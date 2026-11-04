@@ -1,0 +1,817 @@
+{
+ "caso": "BEAD",
+ "lote": 75,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0361::Macrorregião",
+   "unit_id": "W0361",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Sheriff Michael Adkinson",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1006,
+     "fim_corpo": 1794,
+     "trecho": "Yet they were hampered by communication systems that were fragmented, incompatible, and overwhelmed. This failure to communicate cost lives. In response, Congress made a deliberate and historic decision—guided by the recommendations of the 9/11 Commission and the urgent appeals of the public safety community—to establish a single, nationwide, interoperable broadband network dedicated exclusively to public safety. That decision became the foundation for legislation creating the Nationwide Public Safety Broadband Network (NPSBN), known as FirstNet. Today, Congress’s vision is an operational reality for our nation’s first responders. FirstNet spans millions of square miles, delivering coverage across urban centers, rural communities, tribal lands, and U.S. territories."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0361::Territórios de povos e comunidades tradicionais",
+   "unit_id": "W0361",
+   "subcategoria": "Territórios de povos e comunidades tradicionais",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Sheriff Michael Adkinson",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "tribal lands",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 878,
+     "fim_corpo": 1781,
+     "trecho": "America's first responders answered the call of duty that day, moving toward danger with unwavering courage and selflessness. Yet they were hampered by communication systems that were fragmented, incompatible, and overwhelmed. This failure to communicate cost lives. In response, Congress made a deliberate and historic decision—guided by the recommendations of the 9/11 Commission and the urgent appeals of the public safety community—to establish a single, nationwide, interoperable broadband network dedicated exclusively to public safety. That decision became the foundation for legislation creating the Nationwide Public Safety Broadband Network (NPSBN), known as FirstNet. Today, Congress’s vision is an operational reality for our nation’s first responders. FirstNet spans millions of square miles, delivering coverage across urban centers, rural communities, tribal lands, and U.S."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0361::Urbano e rural",
+   "unit_id": "W0361",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Sheriff Michael Adkinson",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 878,
+     "fim_corpo": 1781,
+     "trecho": "America's first responders answered the call of duty that day, moving toward danger with unwavering courage and selflessness. Yet they were hampered by communication systems that were fragmented, incompatible, and overwhelmed. This failure to communicate cost lives. In response, Congress made a deliberate and historic decision—guided by the recommendations of the 9/11 Commission and the urgent appeals of the public safety community—to establish a single, nationwide, interoperable broadband network dedicated exclusively to public safety. That decision became the foundation for legislation creating the Nationwide Public Safety Broadband Network (NPSBN), known as FirstNet. Today, Congress’s vision is an operational reality for our nation’s first responders. FirstNet spans millions of square miles, delivering coverage across urban centers, rural communities, tribal lands, and U.S."
+    },
+    {
+     "inicio_corpo": 6145,
+     "fim_corpo": 7110,
+     "trecho": "Congress wisely paired innovation with accountability in the original statute; honoring that balance means continually asking hard questions, refining governance, and ensuring transparency so that FirstNet remains worthy of the trust placed in it by first responders and the American public. A Network Built by and for Public Safety From the start, FirstNet was built with continuous input from the public safety community. The Act requires consultation with federal, state, local, tribal, and territorial stakeholders, and it established the Public Safety Advisory Committee (PSAC) to ensure the network reflects real- world operational needs. Through these channels, public safety informs coverage objectives, network hardening, priority and preemption, mission-critical services, deployable assets, rural and remote coverage, in-building solutions, cybersecurity, and resiliency needed to operate during disasters, major events, and daily incidents."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0364::Idade",
+   "unit_id": "W0364",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Steve Lang",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 835,
+     "trecho": "Securing U.S. Leadership of Communications Technology U.S. House of Representatives Committee on Energy and Commerce Subcommittee on Communications and Technology Testimony by Ambassador (ret.) Stephan A. Lang - 2 - Thank you, Chairman, Ranking Member, and members of the subcommittee. I am honored and grateful for the opportunity to share my perspectives on this important topic — Securing U.S. Leadership of Communications Technology. I had the honor of leading our delegation to the 2023 World Radiocommunication Conference in Dubai while I served as deputy assistant secretary of state in the Bureau of Cyberspace and Digital Policy. I recently retired from the State Department after a 30-year career serving under five Presidents and currently work as a senior advisor with Crest Hill Advisors LLC."
+    },
+    {
+     "inicio_corpo": 4845,
+     "fim_corpo": 5682,
+     "trecho": "We must continue to hold China accountable and urge likeminded partners to do the same. We can do this directly with Chinese leadership in bilateral conversations while urging the ITU to do the same in its negotiation of the host-country agreement with Beijing. This should include demanding mitigating measures to address information security concerns as well as securing commitments to impartial management of the conference. We must then work with partners to make sure China fulfills those commitments before and during the conference. 2. Accelerate U.S. Preparations: The WRC process continues throughout the four years between conferences. The U.S. delegation in the past has too often been disadvantaged by delays in developing U.S. positions through complicated internal negotiations. Senior leadership of U.S."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0365::Educação",
+   "unit_id": "W0365",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Fiona Alexander",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "School",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1264,
+     "fim_corpo": 2366,
+     "trecho": "• Ensure adequate staffing and resources across agencies for both the Plenipotentiary Conference and WRC ; revisit U.S. self -imposed limits on delegation size and contractor participation to enable “all -hands-on-deck.” • Establish an early, robust interagency decision process with meaningful industry and stakeholder input to resolve domestic tradeoffs before the meeting. • Invest in coalition- building (CITEL, OECD, and other allies/issue -specific partners) and pragmatic delegation leadership prepared to negotiate package tradeoffs and whip votes on the ground. Impact : These steps are essential to win elections, shape treaty outcomes, and protect U.S. innovation and national and economic security interests at the ITU. 1 Testimony of Fiona M. Alexander Distinguished Policy Strategist in Residence, School of International Service Distinguished Fellow, Internet Governance Lab American University Before the Committee on Energy and Commerce Subcommittee on Communications and Technology United States House of Representatives Hearing on Securing U.S."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0365::Idade",
+   "unit_id": "W0365",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Fiona Alexander",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 350,
+     "fim_corpo": 1264,
+     "trecho": "Its treaty outcomes materially affect U.S. national, economic, and security interests. The November 2026 Plenipotentiary is the pivotal event this year and its outcomes will impact U.S. success at WRC 2027 . Priority Goals for the United States • Win elections and secure leadership influence (support Secretary -General Doreen Bogdan -Martin , win ITU Council and Radio Regulations Board roles ). • Prevent harmful treaty changes that broaden ITU authority over Internet or AI governance. Top Risks • A failed Plenipotentiary weakens U.S. influence at WRC 2027. • Expanding the ITU remit or convening a WCIT could produce adverse global regulation of the Internet, cybersecurity, or AI. Recommended Immediate Actions • Senate to Confirm the Ambassador -at-Large for Cyberspace and Digital Policy nominee Adam Cassidy swiftly so senior leadership can articulate clear policy goals."
+    },
+    {
+     "inicio_corpo": 10273,
+     "fim_corpo": 11196,
+     "trecho": "As an example, preparations for the 2012 WCIT began in an ITU working group created 3 years prior (2009). The United States actively participated in the many meetings of the working group and worked within CITEL to build opposition to proposals emanating from more authoritarian regimes that would have the ITU regulate the Internet through the ITRs. Recognizing, however, the full scope of the challenge, the United States also built a strong coalition of democratically minded allies and friends through a separate process at the OECD (i.e., OECD’s Internet Policymaking Principles). As the treaty conference hit the anticipated contentious breaking point, the United States was able to leverage the CITEL and OECD work and have senior leaders at the White House make phone calls to the decision makers in world capitals to ensure that when United States stood up and voted no, so did 54 other countries."
+    },
+    {
+     "inicio_corpo": 17506,
+     "fim_corpo": 18343,
+     "trecho": "No other country does this and if the United States is to truly adopt an all-hands-on deck mentality, these restrictions should be revisited. There have also over the years been efforts to limit the size of the U.S. delegations. Again, these are self-imposed and limiting the size of our delegation limits our ability to be effective. No other country does this; in fact our adversaries are only increasing the number of people they send. 12 Positions that the United States advances at the ITU are almost always the result of domestic tradeoffs. To make sure the delegation goes into the meeting with the strongest possible position, a robust and fulsome interagency process needs to be established early so that thoughtful choices can be made and elevated to senior levels when and as needed to adjudicate disputes."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0365::Infraestrutura e porte populacional",
+   "unit_id": "W0365",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Ms. Fiona Alexander",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5242,
+     "fim_corpo": 6116,
+     "trecho": "The ITU Radiocommunications Sector or ITU-R which manages the table of international radio-frequency spectrum and satellite orbits, ensuring interference-free, efficient, and equitable use of wireless services worldwide. And the ITU Development Sector or ITU-D which works to close the digital divide and foster international cooperation to achieve sustainable digital development, particularly in least-developed countries. In most instances, the same government agencies and even individual staff experts represent their country across all three Sectors. Through bottom-up, membership driven 4 processes the ITU allocates global radio spectrum and satellite orbits, develops the technical standards that ensure networks and technologies connect seamlessly, and works to improve access to digital technologies in underserved communities worldwide."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0366::Administração pública",
+   "unit_id": "W0366",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Adam Thierer",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "local government",
+     "forma_encontrada": "local government",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 30576,
+     "fim_corpo": 31900,
+     "trecho": "Unfortunately, the way Congress addressed jurisdictional responsibilities throughout the Act resulted in some continuing confusion and contentious court battles. Supreme Court Justice Antonin Scalia argued the Telecom Act was “a model of ambiguity or indeed even self- contradiction,” because of this. A 2021 Congressional Research Service (CRS) report similarly noted how “[d]elineating the contours of the FCC’s preemption authority can become complex once specific statutory provisions are brought to bear on particular issues.” This confusion flowed from the Act’s back-and-forth provisions regarding some jurisdictional assignments. For example, Section 704 of the law said that “nothing in this Act shall limit or affect the authority of a State or local government … over decisions regarding the placement, construction, and modification of personal wireless service facilities.” However, the Act went on to establish important limitations on this local power by stipulating that governments “shall not unreasonably discriminate among providers of functionally equivalent services; and shall not prohibit or have the effect of prohibiting the provision of personal wireless services.” Congress included other provisions granting the FCC authority to preempt laws that undermined nationwide competition."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0366::Domicílio e arranjo familiar",
+   "unit_id": "W0366",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Adam Thierer",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 26222,
+     "fim_corpo": 27083,
+     "trecho": "Another long fight ensued over whether the FCC could regulate how broadband services were packaged and priced. Once again, lawyers and lobbyists benefited more than anyone else from this until the regulations were finally beat back after a protracted decade-long fight. There were also many other FCC efforts to use its ambiguous authority under the Telecom Act (or previous policies that Congress failed to reform) to regulate in other ways. That includes agency efforts to influence television programming decisions both directly and indirectly (something the FCC is still doing in 2026) by using the threat of agency fines and other penalties. And the law included requirements for new broadcast television ratings to address violent content using a so-called “V-Chip,” which could block rated shows if households programmed their V-Chip to do so."
+    },
+    {
+     "inicio_corpo": 39202,
+     "fim_corpo": 40017,
+     "trecho": "An estimated 88 percent of those FCC rules affect small businesses. Even if some of these rules have pro-competitive intent, most of the agency’s regulations are unnecessary vestiges of a bygone era. Worse yet, many of the regulations benefit incumbents, not the public. “The FCC’s broad grant of authority, combined with its impenetrable complexity, means that it has nearly boundless ability to distribute favors and shape the trillion-dollar technology and media industries,” notes telecom scholar Brent Skorup. For example, universal service subsidy rules have resulted in decades of cost overruns and inefficient delivery of service. For households in need of broadband assistance, subsidies should have long ago been divorced from distortionary FCC regulations that mostly benefited rural carriers."
+    },
+    {
+     "inicio_corpo": 39202,
+     "fim_corpo": 40134,
+     "trecho": "An estimated 88 percent of those FCC rules affect small businesses. Even if some of these rules have pro-competitive intent, most of the agency’s regulations are unnecessary vestiges of a bygone era. Worse yet, many of the regulations benefit incumbents, not the public. “The FCC’s broad grant of authority, combined with its impenetrable complexity, means that it has nearly boundless ability to distribute favors and shape the trillion-dollar technology and media industries,” notes telecom scholar Brent Skorup. For example, universal service subsidy rules have resulted in decades of cost overruns and inefficient delivery of service. For households in need of broadband assistance, subsidies should have long ago been divorced from distortionary FCC regulations that mostly benefited rural carriers. Policymakers should have delivered assistance directly to needy families as targeted, means-tested welfare instead."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0366::Idade",
+   "unit_id": "W0366",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Adam Thierer",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 349,
+     "trecho": "ADAM THIERER TESTIMONY, HEARING ON “THE TELECOMMUNICATIONS ACT OF 1996: 30 YEARS LATER” 2 Chairman Hudson, Ranking Member Matsui, and members of the committee: Thank you for the invitation to participate in this important hearing. My na me is Adam Thierer, and I am a senior fellow at the R Street Institute, where I cover technology policy."
+    },
+    {
+     "inicio_corpo": 35471,
+     "fim_corpo": 36255,
+     "trecho": "Without Section 230, internet entrepreneurs, smartphone apps, and social media platforms would have faced the threat of litigation-happy trial lawyers and countless state regulators. While some critics of the provision think it has been too generous to tech companies, eliminating it would have devastating ramifications. A January 2026 study by Computer & Communications Industry Association said that repealing Section 230 protections would cost investors at least $2.2 trillion amounting to a 3.8 percent decline in the S&P 500. Without this default liability shield, online speech would also be less free and vibrant, as even senior ADAM THIERER TESTIMONY, HEARING ON “THE TELECOMMUNICATIONS ACT OF 1996: 30 YEARS LATER” 21 Trump administration officials have argued."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0366::Urbano e rural",
+   "unit_id": "W0366",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Adam Thierer",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 39202,
+     "fim_corpo": 40017,
+     "trecho": "An estimated 88 percent of those FCC rules affect small businesses. Even if some of these rules have pro-competitive intent, most of the agency’s regulations are unnecessary vestiges of a bygone era. Worse yet, many of the regulations benefit incumbents, not the public. “The FCC’s broad grant of authority, combined with its impenetrable complexity, means that it has nearly boundless ability to distribute favors and shape the trillion-dollar technology and media industries,” notes telecom scholar Brent Skorup. For example, universal service subsidy rules have resulted in decades of cost overruns and inefficient delivery of service. For households in need of broadband assistance, subsidies should have long ago been divorced from distortionary FCC regulations that mostly benefited rural carriers."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0367::Domicílio e arranjo familiar",
+   "unit_id": "W0367",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Matt Woods",
+   "n_ocorrencias_no_par": 8,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 2,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13713,
+     "fim_corpo": 14498,
+     "trecho": "We must fill that vacuum if we want deployment, to quote the Act, “of advanced telecommunications capability to all Americans.” Funding universal broadband and protecting its users requires sound jurisdiction – not regulations tacked on only if ISPs still offer telephone service. We need a flexible but firm framework for public investment and oversight. Corporate forces alone won’t provide affordable, robust access to every corner of your districts. 2. Measuring Broadband Affordability, and Improving Public Support For It. A. Modernizing Lifeline or Renewing ACP to Overcome Digital Divides. Lawmakers must do more too. The Lifeline program remains crucial, but $9.25 a month is inadequate to connect individuals let alone entire households to the internet of today."
+    },
+    {
+     "inicio_corpo": 14830,
+     "fim_corpo": 15709,
+     "trecho": "As Commissioner Gomez explained in her partial dissent last month, many proposals in Carr’s latest Lifeline item duplicate the prohibitions and verification provisions already in place. As she said, such moves would waste public funding and use inaccurate sources, highlighting “the partisan undertones of immigration- related policy proposals that are untethered to demonstrated program integrity issues.” 8 Instead of attacking Lifeline, we should bolster it. But we should find progressive funding sources, not balloon regressive contributions to USF by merely dumping broadband into the base without doing more to protect people from bill -shock and other abuses . Free Press Action’s preferred method for this was renewing the Affordable Connectivity Program, which had connected 23 million households with up to a $30 per month subsidy when it ended in 2024."
+    },
+    {
+     "inicio_corpo": 21237,
+     "fim_corpo": 22113,
+     "trecho": "By far the most comprehensive of these is the Bureau of Labor Statistics’ Consumer Expenditures Survey (“CEX”). Unlike company- specific data, the CE X data captures the entire U.S. broadband market, not just what is happening at large publicly traded firms. Using each publicly traded ISP’s SEC filings, we can often calculate Average Revenue Per User (“ARPU”) for residential broadband, and ARPU or Average Revenue per Account (“ARPA”) for cellular services. Collectively, they tell a story that will surprise no one who pays these bills and tries to manage a budget amidst seemingly endless inflation and wage stagnation. Broadband prices have consistently increased well above the rate of inflation (until the rate of inflation got out of hand because of COVID). Figure 3 represents what the average household that bought internet access paid for that service."
+    },
+    {
+     "inicio_corpo": 21237,
+     "fim_corpo": 22323,
+     "trecho": "By far the most comprehensive of these is the Bureau of Labor Statistics’ Consumer Expenditures Survey (“CEX”). Unlike company- specific data, the CE X data captures the entire U.S. broadband market, not just what is happening at large publicly traded firms. Using each publicly traded ISP’s SEC filings, we can often calculate Average Revenue Per User (“ARPU”) for residential broadband, and ARPU or Average Revenue per Account (“ARPA”) for cellular services. Collectively, they tell a story that will surprise no one who pays these bills and tries to manage a budget amidst seemingly endless inflation and wage stagnation. Broadband prices have consistently increased well above the rate of inflation (until the rate of inflation got out of hand because of COVID). Figure 3 represents what the average household that bought internet access paid for that service. This data shows households writing a monthly check that consistently increased in nominal terms, and only was flat in real terms in recent years due to the unusually high level of overall economic inflation."
+    },
+    {
+     "inicio_corpo": 21498,
+     "fim_corpo": 22448,
+     "trecho": "Using each publicly traded ISP’s SEC filings, we can often calculate Average Revenue Per User (“ARPU”) for residential broadband, and ARPU or Average Revenue per Account (“ARPA”) for cellular services. Collectively, they tell a story that will surprise no one who pays these bills and tries to manage a budget amidst seemingly endless inflation and wage stagnation. Broadband prices have consistently increased well above the rate of inflation (until the rate of inflation got out of hand because of COVID). Figure 3 represents what the average household that bought internet access paid for that service. This data shows households writing a monthly check that consistently increased in nominal terms, and only was flat in real terms in recent years due to the unusually high level of overall economic inflation. 13 Figure 3 Figure 4 represents what the average household that purchased cellular services paid each month."
+    },
+    {
+     "inicio_corpo": 22113,
+     "fim_corpo": 22974,
+     "trecho": "This data shows households writing a monthly check that consistently increased in nominal terms, and only was flat in real terms in recent years due to the unusually high level of overall economic inflation. 13 Figure 3 Figure 4 represents what the average household that purchased cellular services paid each month. This data shows the actual amount paid increasing steadily over time, reaching an all-time high in 2024 (the most -recent published CEX data). Again, the high l evel of overall economic inflation during the post -COVID period, combined with relatively stable nominal cellular prices resulted in a price decline in inflation-adjusted terms since 2019. 14 Figure 4 Company-specific average revenue per user data also reflects continued hikes in the actual prices families pay for home internet access services."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0367::Idade",
+   "unit_id": "W0367",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Matt Woods",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 874,
+     "fim_corpo": 1855,
+     "trecho": "If I had a nickel for every time I’ ve seen someone pull out a smartphone and point at it on a panel like this one . . . well, I’d have several nickels. What I’d like to do today instead is look forward to what Congress and federal agencies still must do to fulfill the 1996 Act’s goals. I’ll also comment on the severe and sometimes shocking departures the current FCC Chairman has made from longstanding Commission practice and precedent, often thumbing his nose at Congress’s laws and the Constitution as he does. Meanwhile, the Trump NTIA ironically prescribed more delay as a remedy for delays it complained of in the last administration, and BEAD funding is barely flowing at last. Despite those threats, and years of industry lobbying against the supposed flaws in this law, anyone who was involved with its passage will tell you that Members writing this landmark legislation knew full-well they were paving the way for the internet revolution just then dawning."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0367::Saúde e deficiência",
+   "unit_id": "W0367",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Matt Woods",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "deaf",
+     "forma_encontrada": "de af",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13429,
+     "fim_corpo": 14174,
+     "trecho": "7 We can disagree on which protections should apply to that service, including Net Neutrality rules often debated in this room; but we cannot sit idly by and let the legal and lobbying assault on Title II erase “advanced telecommunications” from the law Congress wrote in 1996. We must fill that vacuum if we want deployment, to quote the Act, “of advanced telecommunications capability to all Americans.” Funding universal broadband and protecting its users requires sound jurisdiction – not regulations tacked on only if ISPs still offer telephone service. We need a flexible but firm framework for public investment and oversight. Corporate forces alone won’t provide affordable, robust access to every corner of your districts."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0369::Administração pública",
+   "unit_id": "W0369",
+   "subcategoria": "Administração pública",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "local governments",
+     "forma_encontrada": "local governments",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8434,
+     "fim_corpo": 9239,
+     "trecho": "A study somehow turned into vague FCC authorizing language; a deregulatory measure was used to tighten regulations; exemptions were viewed as authorizing monopolies; and a long title, which has no legislative weight, was given undue prominence. My advice is to be very cautious about adding any text or provision solely to gain legislative support. 6. Still Litigating Vague Language – Contrary to the original intent of the law’s architects, who aimed for industry to have clear rules and for focus to be on marketplace competition, several key provisions are still being challenged thirty years later. The most notable issue is the weakening of the preemption language. Allowing states and local governments to interfere with or block interstate commerce has proven to be highly problematic."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0369::Idade",
+   "unit_id": "W0369",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "youth",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1165,
+     "fim_corpo": 1956,
+     "trecho": "• There does not seem to be a strong need or demand for a massive rewrite of communications law at the moment. This notwithstanding, there are several areas for the Subcommittee to consider taking action, including: video services, including expanding FCC forbearance authority; universal service; satellite regulatory treatment; and V oIP. 3 Subcommittee Chairman Hudson, Ranking Member Matsui, Full Committee Chairman Guthrie, and Ranking Member Pallone, thank you for the opportunity to participate in today’s hearing on such an important topic. In the blink of an eye, 30 years have passed since the Telecommunications Act of 1996 became law. In a career timeline, I have gone from a youthful staffer to an overaged policymaker and now an advisor, seemingly overnight."
+    },
+    {
+     "inicio_corpo": 1727,
+     "fim_corpo": 2758,
+     "trecho": "In the blink of an eye, 30 years have passed since the Telecommunications Act of 1996 became law. In a career timeline, I have gone from a youthful staffer to an overaged policymaker and now an advisor, seemingly overnight. For those unfamiliar, I had the privilege of working for then-House Commerce Committee Chairman Tom Bliley (R-V A) and serving as a policy analyst during the crafting and passage of the Telecom Act. It was an exciting time for Capitol Hill, which operated somewhat differently than it does today. I am also one of the few staff members who remained in the legislative field to oversee the Act's implementation from the perspective of the main authorizing congressional committee. Eventually, I left the House of Representatives in 2003 to become a senior advisor to a newly elected Senator from New Hampshire, who astounded me with his interest in communications policy, his willingness to actively engage in the subject, his overall brilliance, and his approach to the job as a Senator."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0369::Raça e etnia",
+   "unit_id": "W0369",
+   "subcategoria": "Raça e etnia",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "minority",
+     "forma_encontrada": "minority",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2159,
+     "fim_corpo": 3028,
+     "trecho": "It was an exciting time for Capitol Hill, which operated somewhat differently than it does today. I am also one of the few staff members who remained in the legislative field to oversee the Act's implementation from the perspective of the main authorizing congressional committee. Eventually, I left the House of Representatives in 2003 to become a senior advisor to a newly elected Senator from New Hampshire, who astounded me with his interest in communications policy, his willingness to actively engage in the subject, his overall brilliance, and his approach to the job as a Senator. After some ups and downs, fate led me to join the Senate leadership staff in 2010 to work for a policymaking titan, Jon Kyl (R-AZ). That position helped facilitate my 2013 appointment and confirmation to a minority seat on the Federal Communications Commission (FCC)."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0369::Saúde e deficiência",
+   "unit_id": "W0369",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Michael O'Rielly",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "deaf",
+     "forma_encontrada": "de af",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "deaf",
+     "forma_encontrada": "de Af",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 350,
+     "fim_corpo": 1165,
+     "trecho": "• This hearing can serve two connected and valuable purposes: review the lessons learned from the Telecom Act—what went right, what went wrong, which aspects remain contested, and what fell outside its scope; and whether Congress should undertake a major rewrite of our nation’s communications laws, focusing primarily on the Communications Act of 1934, and if so, what should be included. • In terms of lessons learned, these were my takeaways from helping to pass the law and following its implementation: comprehensive legislation is extremely difficult; key industries were intentionally excluded or only marginally affected; timeliness and an asymmetrical trade affected outcome; cannot rely on the implementing agency; compromises proved painful; and advocates are still litigating vague language."
+    },
+    {
+     "inicio_corpo": 4955,
+     "fim_corpo": 5959,
+     "trecho": "Although great work can be accomplished piecemeal and married later, if appropriate. 2. Key Industries Were Intentionally Excluded or Only Marginally Affected – Although the Telecom Act included reforms across many areas, some sectors or segments of the industry, such as wireless and the Internet, were not included or were only minimally impacted. Just as Congress addressed wireless spectrum auctions and allocations last year, the Telecom Act excluded these 5 core elements because they had been managed three years prior. Furthermore, contrary to some opinions, the Internet was not a major driving force during the Telecom Act's consideration. Since then, the wireless and Internet sectors have grown to become significant parts of the broader communications industry. 3. Timeliness and an Asymmetrical Trade Affected Outcome – Resolving the local and long-distance telephone disputes, which faced a fairly turbulent process, was driven by older legal and regulatory challenges."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0371::Idade",
+   "unit_id": "W0371",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Shiva Goel",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3817,
+     "fim_corpo": 4657,
+     "trecho": "As intolerable as those costs may be, they pale in comparison to the ones we never see: the breakthroughs never attempted, the companies never formed, and the architectures never designed because regulatory risks and timelines prevented the economics from penciling in. To illustrate just one way that these losses occur, place yourself in the shoes of a small satellite company. Assume that you just raised an initial round of funding and have 30 months before your next milestone – and you absolutely need a license before then. Roughly speaking, you allocate part of that 30 months to system design and part of it to licensing, because you need to know what you are applying for before you file a license application. Now assume that your lawyers tell you that the licensing timeline could consume 24 out of that 30 months."
+    },
+    {
+     "inicio_corpo": 4356,
+     "fim_corpo": 5201,
+     "trecho": "Roughly speaking, you allocate part of that 30 months to system design and part of it to licensing, because you need to know what you are applying for before you file a license application. Now assume that your lawyers tell you that the licensing timeline could consume 24 out of that 30 months. That would leave you with just 6 months to architect your new system. What if the licensing process took 12 months instead of 24? That would leave you with 18 months, rather than 6 months, to design your system – which means you now have triple the time to innovate during this critical period of early development. What if the FCC also made it easier to modify your system after you receive your license? That would reduce pressure to rush to a design freeze and give you the freedom to iterate in response to technology and demand."
+    },
+    {
+     "inicio_corpo": 8119,
+     "fim_corpo": 8941,
+     "trecho": "As a result of that effort, the line between “federal” and “non-federal” spectrum use will continue to blur—and more commercial licensees could seek authority to operate in federally-allocated bands in support of combined commercial and government missions. Providing greater opportunity for efficient sharing, and greater predictability in the coordination process, will be critical, as will ensuring that essential federal missions continue uncompromised. This is hard work that demands serious engineering and policy effort from NTIA, the FCC, and spectrum management officials at agencies across the federal government. To meet the growing needs of commercial industry, they need our support. Thank you again for allowing me to share my thoughts with you this afternoon. I look forward to your questions."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0372::Infraestrutura e porte populacional",
+   "unit_id": "W0372",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Tom Stroup",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 453,
+     "fim_corpo": 1452,
+     "trecho": "I am Tom Stroup, President of the Satellite Industry Association (SIA).1 SIA is a U.S.- based trade association that represents leading satellite operators, service providers, manufacturers, launch services providers, space situational awareness companies, and ground equipment suppliers. Satellites are the backbone of modern society. We rely on them for communications, position, navigation and timing, and remote sensing across the globe. Satellites provide critical services to hundreds of millions of Americans and billions of people around the world every day. With over 14,000 active satellites on orbit today and plans for tens of thousands more through the end of the decade, we are at a time of tremendous innovation.2 Satellite services support all sixteen critical infrastructure sectors. Satellite broadband is connecting millions of previously unserved Americans, while commercial remote sensing provides vital data for national security, agriculture, and disaster response."
+    }
+   ]
+  }
+ ]
+}

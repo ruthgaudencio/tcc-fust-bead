@@ -1,0 +1,993 @@
+{
+ "caso": "BEAD",
+ "lote": 74,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0353::Escolaridade e letramento",
+   "unit_id": "W0353",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Jeannette Sutton",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "student",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "language barriers",
+     "forma_encontrada": "language barriers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8668,
+     "fim_corpo": 9620,
+     "trecho": "There are no requirements for an organization to have an internal policy or procedures on how to use the system, nor are there requirements for demonstrating a minimal capability of effective message writing, the creation of comprehensive templates, or establishing a training plan. This is most troubling because while multiple people within a jurisdiction may have access to the system, only one is required to complete the online training and send a test message, suggesting there will be a gap in individual capabilities. 6 Cain, L.B., Sutton, J., Walpole, H.D., & Olson, M. (under review) Improving AMBER Alerts: Results from a National Experimental Study of Wireless Emergency Alerts. Police Practice and Research. While the updated IPAWS independent study curriculum now includes a section on effective messaging, it remains limited in scope and relies on the student to proactively apply the principles within their jurisdiction."
+    },
+    {
+     "inicio_corpo": 15867,
+     "fim_corpo": 16782,
+     "trecho": "Recommendations With this, I would like to propose three recommendations for the future of alerts and warnings in the United States. First, funding for research to support the design of effective warning systems, including messages, remains vital. In particular, researchers have yet to develop a deep knowledge of how to better reach and 12 Federal Communications Commission. (2025). Wireless Emergency Alerts; Amendments to Part 11 of the Commission's Rules Regarding the Emergency Alert System. Washington, D.C. Retrieved from https://www.fcc.gov/document/fcc-makes-weas-more-responsive-public-safety-and-consumer-needs 13 Sutton, J., & Wood, M. M. (2025). Opting Out: Over-Alerting and Warning Fatigue in the Era of Wireless Emergency Alerts. Journal of Contingencies and Crisis Management, 33(3), e70076. communicate dangers to persons with access and functional needs and language barriers."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0353::Idade",
+   "unit_id": "W0353",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Dr. Jeannette Sutton",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6252,
+     "fim_corpo": 6962,
+     "trecho": "Nationally, there are two recognized alerts for missing and endangered persons; the AMBER Alert and the Ashanti Alert. The AMBER Alert is designed for children under the age of 18 who have been abducted and are in imminent danger of serious bodily injury or death. The Ashanti Alert is designed for adults aged 18 and older who are missing due to abduction or other circumstances that put them in serious danger. Across the country, different state legislatures have created more than 40 additional types of named alerts, with more being added. Examples of state-speciﬁc alerts include the Athena Alert, Levi’s Call, Purple Alert, Silver Alert, Senior Alert, CLEAR Alert, Ebony Alert, and Gold Alert."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0354::Idade",
+   "unit_id": "W0354",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jennifer Manner",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "Senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 0,
+     "fim_corpo": 381,
+     "trecho": "1 Summary of Testimony of Jennifer A. Manner, Senior Vice President, Regulatory Affairs and International Strategy December 16, 2025 • AST SpaceMobile, a Texas-based company, is manufacturing, deploying and operating the first and only space-based platform to deliver mobile broadband services directly to unmodified user devices – no special equipment-- no modifications."
+    },
+    {
+     "inicio_corpo": 806,
+     "fim_corpo": 2041,
+     "trecho": "• AST SpaceMobile also supports the purpose and intent of the Mystic Alerting Act, which will provide consumers with information to ensure that their satellite-based connectivity to their mobile device is always on. We never want to see a day again in Texas or anywhere in America like we did on July 4, 2025. • AST SpaceMobile is also pleased to see Congress considering the Next Generation 9-1-1 Act to provide the public safety community with the resources it needs to make Next Generation 9-1-1 a reality across the country. • Finally, AST SpaceMobile looks forward to the passage of the Public Safety Communications Act and working in closer collaboration with the National Telecommunications and Information Administration and other U.S. government agencies to ensure public safety has access to space-based mobile broadband connectivity. 1 Testimony of Jennifer A. Manner, Senior Vice President, Regulatory Affairs and International Strategy December 16, 2025 Introduction and Background Chairman Hudson, Ranking Member Matsui, Chairman Guthrie, and Ranking Member Pallone, thank you for the opportunity to speak today about legislative improvements to public safety communications in the United States."
+    },
+    {
+     "inicio_corpo": 1561,
+     "fim_corpo": 2577,
+     "trecho": "government agencies to ensure public safety has access to space-based mobile broadband connectivity. 1 Testimony of Jennifer A. Manner, Senior Vice President, Regulatory Affairs and International Strategy December 16, 2025 Introduction and Background Chairman Hudson, Ranking Member Matsui, Chairman Guthrie, and Ranking Member Pallone, thank you for the opportunity to speak today about legislative improvements to public safety communications in the United States. Improving public safety communications through legislation, as well as through American innovation, such as the space-based mobile broadband connectivity my company is providing, will positively influence and improve the lives of all Americans in their everyday activities and during emergencies. My name is Jennifer Manner and I am the Senior Vice President of Regulatory Affairs and International Strategy at AST SpaceMobile, a Midland, Texas-based company, with operating and manufacturing facilities in Maryland and Florida."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0354::Urbano e rural",
+   "unit_id": "W0354",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Jennifer Manner",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3730,
+     "fim_corpo": 4430,
+     "trecho": "AST SpaceMobile is proud to be a part of strengthening economic opportunity and national security while maintaining America's leadership in space technology. Space-Based Broadband is a Critical Component of Addressing Connectivity Gaps Across the Country and Ensuring Reliable Access to Public Safety Communications Despite Americans’ widespread adoption and dependence on smartphones in their daily lives (there are approximately 386 million mobile subscribers in the United States, with 15% relying on smartphones as their primary means of accessing broadband services), approximately 7% of Americans remain unconnected to broadband services, primarily Americans residing in rural areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0355::Cultura e informação",
+   "unit_id": "W0355",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Matthew Gerst",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "library",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12038,
+     "fim_corpo": 13369,
+     "trecho": "to ensure that all Americans can access help and critical information when that help is most urgently needed. CTIA and its member companies are grateful for the Subcommittee’s continued leadership on these issues and welcome the opportunity to work with Congress and our federal, state, and local partners in public safety to further strengthen and modernize the systems that protect American communities nationwide. i Summary of CTIA’s Annual Wireless Industry Survey, CTIA, at 1 (2025), https://api.ctia.org/wp- content/uploads/2025/08/2025-CTIA-Survey-Summary-and-Background.pdf. ii Id. iii The Wireless Industry: Industry Data, CTIA, https://www.ctia.org/the-wireless-industry/infographics-library (last visited Dec. 13, 2025). iv 988 Lifeline Performance Metrics, SUBSTANCE ABUSE AND MENTAL HEALTH SERVICES ADMINISTRATION, https://www.samhsa.gov/mental-health/988/performance-metrics (Nov. 14, 2025). v See Wireless Emergency Alerts (WEA), FCC (Sept. 25, 2025), https://www.fcc.gov/consumers/guides/wireless- emergency-alerts. vi Report: October 4, 2023 Nationwide Emergency Alert Test, FCC, at 5 (June 27, 2024); Wireless Emergency Alerts: September 2022 WEA Performance Exercise, FCC, at 2 (Apr. 24, 2023); Wireless Emergency Alerts: August 11, 2021 Nationwide WEA Test Report, FCC, at 9 (Dec. 30, 2021)."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0355::Urbano e rural",
+   "unit_id": "W0355",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Mr. Matthew Gerst",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9967,
+     "fim_corpo": 10735,
+     "trecho": "The Next Gen 9-1-1 Act, sponsored by Chairman Hudson and R epresentative Carter, and the Public Safety Communications Act, sponsored by Representative Cammac k, offer roadmaps to ensure the federal government has the expertise and resources necessary to help state and local public safety stakeholders expedite and complete the transition to NG911 . CTIA supports the goals of these bills and welcomes Congressional leadership to establish a national, uniform framework for the NG911 transition. LuLu’s Law, sponsored by Representative Palmer, and the Mystic Alert Act, sponsored by Representative Pfluger, recognize the importance of alert originators using WEAs to keep us safe from a wide array of emergency events, including in rural and remote areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0356::Domicílio e arranjo familiar",
+   "unit_id": "W0356",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Anna Gomez",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9071,
+     "fim_corpo": 10018,
+     "trecho": "Without binding protections and clear accountability mechanisms, we are relying on hope rather than duty. At a moment of escalating 2 Byron Tau, How an AM radio station in California weathered the Trump administration’ s assault on media, The Associated Press (Dec. 15, 2025), https://www.ap.org/news-highlights/spotlights/2025/how-an-am-radio-station-in- california-weathered-the-trump-administrations-assault-on-media/. 3 Anna Gomez, Press Release, Gomez Slams FCC Vote to Scrap Cybersecurity Requirements in Response to Salt Typhoon (Nov. 19, 2025), https://docsfcc.gov/public/attachments/DOC-415409A1.pdf. 5 cyber threats, that leaves Americans less protected and signals hesitation where resolve is needed. Question 7: If the FCC declines to set enforceable standards, what message does that send to adversaries targeting U.S. networks, and what message does it send to families who assume their communications are secure?"
+    },
+    {
+     "inicio_corpo": 9620,
+     "fim_corpo": 10435,
+     "trecho": "19, 2025), https://docsfcc.gov/public/attachments/DOC-415409A1.pdf. 5 cyber threats, that leaves Americans less protected and signals hesitation where resolve is needed. Question 7: If the FCC declines to set enforceable standards, what message does that send to adversaries targeting U.S. networks, and what message does it send to families who assume their communications are secure? Answer: It sends the wrong message at the worst possible time. To adversaries, it signals that after the most significant telecommunications breach in our history, the United States chose not to adopt enforceable protections. When foreign actors are actively probing for weaknesses, relying solely on voluntary measures invites further testing of our defenses. To American families, it creates uncertainty."
+    },
+    {
+     "inicio_corpo": 15020,
+     "fim_corpo": 15876,
+     "trecho": "economy this year. Given this massive reliance, how critical is it for the Commission to identify a steady pipeline of new unlicensed spectrum to support this consumer demand and innovation? Answer: Unlicensed spectrum is a key tool for connectivity and sound spectrum management as well as a critical component of the digital economy. That is why, in January 2026, I voted to approve expanded access to unlicensed spectrum for new devices in the 6 GHz band. Back in 2020, the FCC made an important decision to support wireless innovation and meet consumer demand by allowing unlicensed use of the 6 GHz Band. At that time, wireless devices such as appliances, wearables, speakers, and an array of consumer electronics, connecting to the Internet through Wi-Fi and other standards were growing in popularity across consumer households."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0356::Urbano e rural",
+   "unit_id": "W0356",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Anna Gomez",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12885,
+     "fim_corpo": 13962,
+     "trecho": "It supports improved call quality, stronger robocall mitigation, and the full promise of Next Generation 911. As we consider this proceeding, the priority must be ensuring that the transition is seamless, reliable, and grounded in public safety and consumer protection. That includes providing regulatory clarity, avoiding destabilizing shifts, and maintaining reliability as legacy systems are phased out. We must also ensure interoperability, secure routing, and transparent interconnection practices so that modernization strengthens, rather than weakens, our networks. If done correctly, IP interconnection can enhance innovation, reinforce security, and improve consumer experience nationwide while safeguarding public safety. Question 10: Can you please speak to the importance of incorporating policies such as maintaining competition in rural areas and preventing anticompetitive conduct even when the proceeding is pending (such as a rate freeze), and setting reasonable protections for IP- to-IP interconnection to maximize the benefits to consumers?"
+    },
+    {
+     "inicio_corpo": 13158,
+     "fim_corpo": 14062,
+     "trecho": "That includes providing regulatory clarity, avoiding destabilizing shifts, and maintaining reliability as legacy systems are phased out. We must also ensure interoperability, secure routing, and transparent interconnection practices so that modernization strengthens, rather than weakens, our networks. If done correctly, IP interconnection can enhance innovation, reinforce security, and improve consumer experience nationwide while safeguarding public safety. Question 10: Can you please speak to the importance of incorporating policies such as maintaining competition in rural areas and preventing anticompetitive conduct even when the proceeding is pending (such as a rate freeze), and setting reasonable protections for IP- to-IP interconnection to maximize the benefits to consumers? Answer: Maintaining competition, especially in rural areas, is critical during this transition."
+    },
+    {
+     "inicio_corpo": 13297,
+     "fim_corpo": 14146,
+     "trecho": "We must also ensure interoperability, secure routing, and transparent interconnection practices so that modernization strengthens, rather than weakens, our networks. If done correctly, IP interconnection can enhance innovation, reinforce security, and improve consumer experience nationwide while safeguarding public safety. Question 10: Can you please speak to the importance of incorporating policies such as maintaining competition in rural areas and preventing anticompetitive conduct even when the proceeding is pending (such as a rate freeze), and setting reasonable protections for IP- to-IP interconnection to maximize the benefits to consumers? Answer: Maintaining competition, especially in rural areas, is critical during this transition. Rural communities often have fewer provider choices and thinner operating margins."
+    },
+    {
+     "inicio_corpo": 13628,
+     "fim_corpo": 14719,
+     "trecho": "Question 10: Can you please speak to the importance of incorporating policies such as maintaining competition in rural areas and preventing anticompetitive conduct even when the proceeding is pending (such as a rate freeze), and setting reasonable protections for IP- to-IP interconnection to maximize the benefits to consumers? Answer: Maintaining competition, especially in rural areas, is critical during this transition. Rural communities often have fewer provider choices and thinner operating margins. Even small disruptions or anticompetitive conduct can have outsized consequences for consumers who may already have limited alternatives. As this proceeding moves forward, it is important that we guard against conduct that could distort competition. Modernization and competition are not competing goals. They are complementary. If we preserve competition, particularly in rural America, and ensure fair interconnection practices, the transition to IP networks can expand opportunity, strengthen service reliability, and deliver meaningful benefits to consumers."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0357::Domicílio e arranjo familiar",
+   "unit_id": "W0357",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 9,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 3,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "Families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "Families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "Families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9124,
+     "fim_corpo": 10013,
+     "trecho": "I am doing this by holding broadcasters accountable to their public interest obligations to meet the needs of their communities of license; re-examining the relationship between the national networks and the local television stations; unleashing new voices over the airwaves through our licensing process; and removing outdated broadcast regulations. I believe these efforts will promote local news in communities across the country. The Honorable Russ Fulcher 1. I want to discuss the importance of wireless deployment in rural, unserved, and under-served areas such as the area I represent. What can we do to ensure that these communities have access to mobile broadband? Answer: Restoring spectrum auction authority in the Working Families Tax Cut Act was an important and substantive step in getting mobile broadband out to rural, unserved, and under- served areas."
+    },
+    {
+     "inicio_corpo": 26523,
+     "fim_corpo": 27402,
+     "trecho": "Answer: We are engaging with stakeholders on many bands, including this one. The Honorable Tom Kean, Jr. 1. In 2024, the FCC unanimously approved an order creating a nationwide framework for the 4.9 GHz Band. This band, which has been set aside for public safety for over two decades, has historically seen an absence of coordination among public safety agencies, which is in part what initiating the process to select a band manager was intended to address. Can you share an update on how this process is going? When will a band manager be selected? Answer: The order is currently facing multiple legal challenges in the US Court of Appeals for the DC Circuit by several litigants. The FCC continues to work on the relevant issues. 2. The Working Families Tax Cut reinstated the FCC’s spectrum auction authority, which is extended for nearly ten years."
+    },
+    {
+     "inicio_corpo": 26745,
+     "fim_corpo": 27789,
+     "trecho": "This band, which has been set aside for public safety for over two decades, has historically seen an absence of coordination among public safety agencies, which is in part what initiating the process to select a band manager was intended to address. Can you share an update on how this process is going? When will a band manager be selected? Answer: The order is currently facing multiple legal challenges in the US Court of Appeals for the DC Circuit by several litigants. The FCC continues to work on the relevant issues. 2. The Working Families Tax Cut reinstated the FCC’s spectrum auction authority, which is extended for nearly ten years. Can you discuss the viability of this ten-year timeline to get this new, full-power spectrum to market? What is the FCC doing to move quickly to meet growing 5G demand and 6G standardization efforts? Answer: The Working Families Tax Cut Act requires the FCC to auction at least 100 megahertz of spectrum in the Upper C-band by July 2027 and at least 300-megahertz total by 2034."
+    },
+    {
+     "inicio_corpo": 29972,
+     "fim_corpo": 30791,
+     "trecho": "The Task Force further found that, of the estimated 3.1 billion Social Security Administration and IRS government-imposter robocalls targeting Americans during the sampled period, approximately 1.425 billion — nearly half — were facilitated by Inteliquent. The pattern extends beyond government-imposter scams. Between January 2023 and November 2024, roughly 40% of all Industry Traceback Group tracebacks tied to financial- services and order-imposter robocalls were facilitated by Inteliquent. In December 2024 alone, that figure was 38.9%. Mr. Chairman, these are not isolated lapses or edge cases — this appears to be a business model. in which a foreign-owned company profits by enabling fraud that harms American consumers. These abuses affect millions of families, seniors, and small businesses."
+    },
+    {
+     "inicio_corpo": 37497,
+     "fim_corpo": 38361,
+     "trecho": "8. The FCC is currently considering an open proceeding on SIP Interconnection. IP interconnection is key to modernizing our telecommunications networks and realizing some of the innovations which will improve consumer experience, enhance public safety via Next Generation 911, and aid in combating robocalls and robotext. As the FCC considers this proceeding, how is the FCC working to ensure a seamless transition, and how do you plan to support these network enhancements? Answer: The FCC is working to facilitate a successful transition to all-IP interconnection for voice services while enhancing public safety, consumer protection, and competition. 9. The FCC is reviewing the Nexstar-Tegna merger, which would concentrate enormous control over what millions of Americans watch, creating a media giant reaching 80 percent of U.S. households."
+    },
+    {
+     "inicio_corpo": 60885,
+     "fim_corpo": 61946,
+     "trecho": "21 1. During the hearing, Chairman Carr, you asserted that wireless plan prices were down 4.1% between December 2024 and December 2025 and that smartphone prices were down 9.8% during that same period. Please describe and provide any analysis the Commission has undertaken since December 2024 to assess the impact of these and other wireless service pricing trends on consumers eligible for Lifeline support. Answer: This information is available at the U.S. Bureau of Labor Statistics website. Every 2 years, the Commission publishes the Communications Marketplace Report that assesses the state of competition across the communications sector. a. Also, describe and provide any analysis the Commission has undertaken since December 2024 to assess whether the Lifeline support amount of $9.25 monthly represents a level of support sufficient to ensure that Lifeline eligible households, including those that are unbanked and underbanked, can afford to purchase monthly access to widely available, entry level wireless broadband plans."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0357::Idade",
+   "unit_id": "W0357",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "seniors",
+     "forma_encontrada": "seniors",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 29972,
+     "fim_corpo": 30791,
+     "trecho": "The Task Force further found that, of the estimated 3.1 billion Social Security Administration and IRS government-imposter robocalls targeting Americans during the sampled period, approximately 1.425 billion — nearly half — were facilitated by Inteliquent. The pattern extends beyond government-imposter scams. Between January 2023 and November 2024, roughly 40% of all Industry Traceback Group tracebacks tied to financial- services and order-imposter robocalls were facilitated by Inteliquent. In December 2024 alone, that figure was 38.9%. Mr. Chairman, these are not isolated lapses or edge cases — this appears to be a business model. in which a foreign-owned company profits by enabling fraud that harms American consumers. These abuses affect millions of families, seniors, and small businesses."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0357::Infraestrutura e porte populacional",
+   "unit_id": "W0357",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "under-served",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8890,
+     "fim_corpo": 9731,
+     "trecho": "And are there any actions that the FCC can take to foster these local voices? Answer: One of my major initiatives at the Commission is to empower local broadcasters by promoting local news, local reporting, and local journalism. I am doing this by holding broadcasters accountable to their public interest obligations to meet the needs of their communities of license; re-examining the relationship between the national networks and the local television stations; unleashing new voices over the airwaves through our licensing process; and removing outdated broadcast regulations. I believe these efforts will promote local news in communities across the country. The Honorable Russ Fulcher 1. I want to discuss the importance of wireless deployment in rural, unserved, and under-served areas such as the area I represent."
+    },
+    {
+     "inicio_corpo": 8890,
+     "fim_corpo": 9731,
+     "trecho": "And are there any actions that the FCC can take to foster these local voices? Answer: One of my major initiatives at the Commission is to empower local broadcasters by promoting local news, local reporting, and local journalism. I am doing this by holding broadcasters accountable to their public interest obligations to meet the needs of their communities of license; re-examining the relationship between the national networks and the local television stations; unleashing new voices over the airwaves through our licensing process; and removing outdated broadcast regulations. I believe these efforts will promote local news in communities across the country. The Honorable Russ Fulcher 1. I want to discuss the importance of wireless deployment in rural, unserved, and under-served areas such as the area I represent."
+    },
+    {
+     "inicio_corpo": 9124,
+     "fim_corpo": 10013,
+     "trecho": "I am doing this by holding broadcasters accountable to their public interest obligations to meet the needs of their communities of license; re-examining the relationship between the national networks and the local television stations; unleashing new voices over the airwaves through our licensing process; and removing outdated broadcast regulations. I believe these efforts will promote local news in communities across the country. The Honorable Russ Fulcher 1. I want to discuss the importance of wireless deployment in rural, unserved, and under-served areas such as the area I represent. What can we do to ensure that these communities have access to mobile broadband? Answer: Restoring spectrum auction authority in the Working Families Tax Cut Act was an important and substantive step in getting mobile broadband out to rural, unserved, and under- served areas."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0357::Posição no trabalho",
+   "unit_id": "W0357",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 64389,
+     "fim_corpo": 65499,
+     "trecho": "However, in order to maximize the amount of Upper C-Band spectrum repurposed for 5G/6G wireless use, it seems likely that incumbent users, such as those delivering video programming, will need to relocate to other bands like the Ku- and Ka-bands and/or transition to alternative distribution technologies like fiber, which can take time. Do you commit to ensuring that eligible incumbent licensees are able to orderly relocate to other bands able to deliver substantially the same level of service, will be reimbursed for relocation expenses, and that they will have sufficient time to transition from the Upper C-band? Answer: The FCC is actively working on the Upper-C Band proceeding. 4. Chairman Carr, while Nexstar has told investors it achieves economies of scale by consolidating overlapping station operations and technical infrastructure — changes that typically involve workforce reductions — the 117-page Nexstar/Tegna application contains no meaningful workforce impact analysis, no market-by-market staffing disclosures, and no commitments to preserve local newsroom operations."
+    },
+    {
+     "inicio_corpo": 64732,
+     "fim_corpo": 65499,
+     "trecho": "Do you commit to ensuring that eligible incumbent licensees are able to orderly relocate to other bands able to deliver substantially the same level of service, will be reimbursed for relocation expenses, and that they will have sufficient time to transition from the Upper C-band? Answer: The FCC is actively working on the Upper-C Band proceeding. 4. Chairman Carr, while Nexstar has told investors it achieves economies of scale by consolidating overlapping station operations and technical infrastructure — changes that typically involve workforce reductions — the 117-page Nexstar/Tegna application contains no meaningful workforce impact analysis, no market-by-market staffing disclosures, and no commitments to preserve local newsroom operations."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0357::Urbano e rural",
+   "unit_id": "W0357",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 12,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 6,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4094,
+     "fim_corpo": 4899,
+     "trecho": "Modernizing our rules to facilitate an efficient IP transition can therefore strengthen our robocall enforcement framework. If outdated interconnection practices are forcing IP-capable carriers to route traffic through legacy TDM tandem facilities, the FCC will examine this carefully. And we will facilitate greater lines of communication between ILECs and all-IP carriers as we continue our work to advance the transition. The Honorable Robert E. Latta 1. Will you work to incorporate policies successfully utilized in previous auctions which promote equitable access to spectrum, including through reasonable aggregation policies, appropriate reserve prices, sufficiently small license sizes, appropriate power levels, bidding credits, and other tools which may benefit rural areas?"
+    },
+    {
+     "inicio_corpo": 4221,
+     "fim_corpo": 5079,
+     "trecho": "If outdated interconnection practices are forcing IP-capable carriers to route traffic through legacy TDM tandem facilities, the FCC will examine this carefully. And we will facilitate greater lines of communication between ILECs and all-IP carriers as we continue our work to advance the transition. The Honorable Robert E. Latta 1. Will you work to incorporate policies successfully utilized in previous auctions which promote equitable access to spectrum, including through reasonable aggregation policies, appropriate reserve prices, sufficiently small license sizes, appropriate power levels, bidding credits, and other tools which may benefit rural areas? Answer: The FCC seeks comment ahead of each auction to ensure that its spectrum policies promote the public interest, including benefiting the many rural parts of the country."
+    },
+    {
+     "inicio_corpo": 8766,
+     "fim_corpo": 9731,
+     "trecho": "In light of the growing and diverse marketplace, what opportunities/risks are there for local independent media companies? And are there any actions that the FCC can take to foster these local voices? Answer: One of my major initiatives at the Commission is to empower local broadcasters by promoting local news, local reporting, and local journalism. I am doing this by holding broadcasters accountable to their public interest obligations to meet the needs of their communities of license; re-examining the relationship between the national networks and the local television stations; unleashing new voices over the airwaves through our licensing process; and removing outdated broadcast regulations. I believe these efforts will promote local news in communities across the country. The Honorable Russ Fulcher 1. I want to discuss the importance of wireless deployment in rural, unserved, and under-served areas such as the area I represent."
+    },
+    {
+     "inicio_corpo": 9124,
+     "fim_corpo": 10013,
+     "trecho": "I am doing this by holding broadcasters accountable to their public interest obligations to meet the needs of their communities of license; re-examining the relationship between the national networks and the local television stations; unleashing new voices over the airwaves through our licensing process; and removing outdated broadcast regulations. I believe these efforts will promote local news in communities across the country. The Honorable Russ Fulcher 1. I want to discuss the importance of wireless deployment in rural, unserved, and under-served areas such as the area I represent. What can we do to ensure that these communities have access to mobile broadband? Answer: Restoring spectrum auction authority in the Working Families Tax Cut Act was an important and substantive step in getting mobile broadband out to rural, unserved, and under- served areas."
+    },
+    {
+     "inicio_corpo": 9731,
+     "fim_corpo": 10612,
+     "trecho": "What can we do to ensure that these communities have access to mobile broadband? Answer: Restoring spectrum auction authority in the Working Families Tax Cut Act was an important and substantive step in getting mobile broadband out to rural, unserved, and under- served areas. The FCC now has several workstreams under way to auction new spectrum bands that can be put to use across the country. And the FCC is facilitating secondary market transactions that can do the same thing. The Commission under my leadership is also working to enable providers to offer more robust direct-to-cell service from satellites, which would boost mobile broadband in these areas. 2. Commissioner Carr, you have talked about having a “Federal Lands Desk” to help land management agencies better coordinate to ensure rural broadband can utilize funds more efficiently and quickly."
+    },
+    {
+     "inicio_corpo": 18596,
+     "fim_corpo": 19506,
+     "trecho": "Can you walk us through how the FCC is evaluating those concerns as it considers this proposal alongside other viable 6 PNT alternatives, and how the Commission is ensuring existing services are protected as part of that process? Answer: As you reference, the FCC issued a Notice of Inquiry in March 2025 to start building the record to understand what alternatives are out there and weigh the various pros and cons, as well as anticipate any of the consequences. The NOI has given potentially impacted parties the opportunity to weigh in on how to work together to mitigate unintended consequences. The FCC has made no final decisions in this proceeding. The Honorable Erin Houchin 1. My Data BRIDGE Act (H.R. 4950) directs the FCC to incorporate USDA cultivated land data into the National Broadband Map so rural coverage reflects entire farms and fields—not just a farmhouse address."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0360::Domicílio e arranjo familiar",
+   "unit_id": "W0360",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Scott Agnew",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 21368,
+     "fim_corpo": 22532,
+     "trecho": "It is a living, evolving interoperable network that saves lives, empowers public safety agencies, and strengthens communities. AT&T is honored to be the steward of this mission. We will continue to listen to public safety needs, expand coverage, drive innovation, and ensure FirstNet remains a trusted, future-proof platform for first responders well into the decades ahead. AT&T appreciates the Committee’s bipartisan attention to reauthorizing the FirstNet Authority, and we look forward to working closely with you to ensure swift enactment for this vital program. 5 https://www.forsmarsh.com/wp-content/uploads/2024/03/Economic-Impact-of-FirstNet-RAN- Development Executive-Summary.pdf (“FirstNet RAN development was associated with an increase of $8.0 billion in net economic output across all industries and $5.6 billion in total wages and salaries for workers and households across the country” (See Table 1); “Building the FirstNet RAN also created an average of 13,877 jobs per year over the 7-year period, with an estimated range of 103 to 28,460 jobs created per year” (See Table 2)). 9 Thank you and I look forward to your questions."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0360::Infraestrutura e porte populacional",
+   "unit_id": "W0360",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Scott Agnew",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "last mile",
+     "forma_encontrada": "last-mile",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "underserved",
+     "forma_encontrada": "underserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9426,
+     "fim_corpo": 10254,
+     "trecho": "This fleet includes SatCOLTs (Satellite Cell on Light Truck), Compact Rapid Deployables (CRDs), mini-CRDs, and other mobile assets, available at no additional cost to subscribing public safety agencies. ● Deployable assets that connect via satellite backhaul and provide FirstNet wireless service; they require minimal setup time and are designed for rapid deployment in disasters or special events. ● And smaller, more portable assets, like the miniCRD unit, for example, that fits in two fortified suitcases that can be easily transported into an emergency area. These assets offer FirstNet LTE coverage up to ½ mile in challenging environments. The AT&T ROG deployables have been vital in disaster response, special event support, and filling “last-mile” coverage gaps during planned and emergency response events."
+    },
+    {
+     "inicio_corpo": 19050,
+     "fim_corpo": 20067,
+     "trecho": "It is a matter of consumer choice in a competitive marketplace. FirstNet is not just a technical infrastructure; it is a catalyst for broader economic and workforce gains. FirstNet’s build-out has leveraged local labor, construction firms, and regional suppliers, driving regional economic activity in rural and urban communities. A 2024 economic impact study estimated that FirstNet deployment has generated nearly 14,000 jobs per year over seven 8 years and produced approximately $5.6 billion in wages and salaries to date.5 The same study estimated $8.0 billion in net economic output across industries tied to FirstNet’s deployment. These gains are fueled by AT&T’s contracting strategy that supports veterans and a variety of business models in deployment, operations, and maintenance. In addition, the network is focused on serving all public safety by ensuring that traditionally underserved communities, like rural and tribal areas, now benefit from the same baseline of reliable communications."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0360::Macrorregião",
+   "unit_id": "W0360",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Scott Agnew",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "territories",
+     "forma_encontrada": "territories",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4998,
+     "fim_corpo": 5735,
+     "trecho": "This cycle continues today. Public Safety informs priorities for the next phase of enhancements; the FirstNet Board approves network upgrades; those upgrades are funded from ongoing sustainability payments; and AT&T executes the approved plans. The result is a resilient, evolving, and fiscally self-sustaining interoperable network that demonstrates the enduring strength of this public–private partnership. FirstNet Deployment, Coverage, and Adoption: Status and Progress The Initial Build 3 In March 2023, AT&T completed the initial build of the network both on-time and on-budget. The initial build covered more than 2.91 million square miles across all 50 states, the District of Columbia and the five U.S. territories."
+    },
+    {
+     "inicio_corpo": 7073,
+     "fim_corpo": 7982,
+     "trecho": "The Next Phase of the Buildout Since completion of the initial build, the network continues to expand as Congress envisioned. The FirstNet Authority announced the next phase of FirstNet buildout and network evolution that directs $6 billion over the next ten years for 5G network upgrades; a dedicated, physically separate 5G standalone core; research and development in public safety technology solutions, and over $2 billion for additional coverage enhancements. To inform the future coverage buildout, the FirstNet Authority has built a First Responder Impact Model to identify potential areas of interest for future tower investment for public safety. The FirstNet Authority is also hosting joint meetings with AT&T and public safety stakeholders in all 50 states, DC, and the five U.S. territories to solicit feedback from public safety and inform the future buildout of FirstNet coverage."
+    },
+    {
+     "inicio_corpo": 17961,
+     "fim_corpo": 18875,
+     "trecho": "These innovations reflect the FirstNet public-private partnership’s commitment to continuous improvement, future readiness, and responsiveness to first-responder’s feedback and evolving needs. Marketplace, Economic & Community Impact FirstNet’s success has helped create a dynamic public safety communications marketplace. Before FirstNet, the public safety communications ecosystem lacked innovation. First responders were beholden to one or two technology providers who often took their business for granted. Now, any public safety agency can choose to subscribe to FirstNet, Built with AT&T, Verizon’s Frontline or T-Mobile’s T-Priority services, among others. Public safety agencies choose FirstNet over alternative providers because it provides excellent service that meets their needs at a fiercely competitive price. In 2017, all 56 governors of U.S. states and territories opted into FirstNet."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0360::Posição no trabalho",
+   "unit_id": "W0360",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Scott Agnew",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workforce",
+     "forma_encontrada": "workforce",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 18369,
+     "fim_corpo": 19225,
+     "trecho": "First responders were beholden to one or two technology providers who often took their business for granted. Now, any public safety agency can choose to subscribe to FirstNet, Built with AT&T, Verizon’s Frontline or T-Mobile’s T-Priority services, among others. Public safety agencies choose FirstNet over alternative providers because it provides excellent service that meets their needs at a fiercely competitive price. In 2017, all 56 governors of U.S. states and territories opted into FirstNet. There was no federal mandate to do so, nor is any local, state or federal public safety organization mandated to subscribe to FirstNet or an alternative commercial provider. It is a matter of consumer choice in a competitive marketplace. FirstNet is not just a technical infrastructure; it is a catalyst for broader economic and workforce gains."
+    },
+    {
+     "inicio_corpo": 21368,
+     "fim_corpo": 22532,
+     "trecho": "It is a living, evolving interoperable network that saves lives, empowers public safety agencies, and strengthens communities. AT&T is honored to be the steward of this mission. We will continue to listen to public safety needs, expand coverage, drive innovation, and ensure FirstNet remains a trusted, future-proof platform for first responders well into the decades ahead. AT&T appreciates the Committee’s bipartisan attention to reauthorizing the FirstNet Authority, and we look forward to working closely with you to ensure swift enactment for this vital program. 5 https://www.forsmarsh.com/wp-content/uploads/2024/03/Economic-Impact-of-FirstNet-RAN- Development Executive-Summary.pdf (“FirstNet RAN development was associated with an increase of $8.0 billion in net economic output across all industries and $5.6 billion in total wages and salaries for workers and households across the country” (See Table 1); “Building the FirstNet RAN also created an average of 13,877 jobs per year over the 7-year period, with an estimated range of 103 to 28,460 jobs created per year” (See Table 2)). 9 Thank you and I look forward to your questions."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0360::Territórios de povos e comunidades tradicionais",
+   "unit_id": "W0360",
+   "subcategoria": "Territórios de povos e comunidades tradicionais",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Scott Agnew",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "tribal lands",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 7740,
+     "fim_corpo": 8693,
+     "trecho": "The FirstNet Authority is also hosting joint meetings with AT&T and public safety stakeholders in all 50 states, DC, and the five U.S. territories to solicit feedback from public safety and inform the future buildout of FirstNet coverage. In 2024, as part of the FirstNet Authority’s reinvestment announcement, AT&T committed to deploy an additional 1,000 new Band 14 tower sites over 2 years, which were completed ahead of schedule and at no cost to the FirstNet Authority. Today, the FirstNet coverage footprint spans nearly 3 million square miles across urban, suburban, rural, tribal, and territorial areas. The footprint is 200,000 square miles on average larger than competing commercial networks, an area larger than the state of California that is particularly valuable in serving more remote areas. Since the FirstNet buildout began, this effort increased coverage on tribal lands across the United States by more than 64 percent."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0360::Urbano e rural",
+   "unit_id": "W0360",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Scott Agnew",
+   "n_ocorrencias_no_par": 6,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 5246,
+     "fim_corpo": 6257,
+     "trecho": "The result is a resilient, evolving, and fiscally self-sustaining interoperable network that demonstrates the enduring strength of this public–private partnership. FirstNet Deployment, Coverage, and Adoption: Status and Progress The Initial Build 3 In March 2023, AT&T completed the initial build of the network both on-time and on-budget. The initial build covered more than 2.91 million square miles across all 50 states, the District of Columbia and the five U.S. territories. Importantly, FirstNet is an all-band solution, meaning public safety has priority and preemption on the FirstNet Authority’s licensed Band 14 as well as AT&T commercial 5G and LTE spectrum. This means any commercial investment by AT&T to expand coverage and capacity also benefits first responders on FirstNet. As part of the initial FirstNet build, AT&T collaborated with small and rural wireless providers to quickly expand the reach of FirstNet and launched 2,000 FirstNet tower sites in rural and tribal areas."
+    },
+    {
+     "inicio_corpo": 5411,
+     "fim_corpo": 6257,
+     "trecho": "FirstNet Deployment, Coverage, and Adoption: Status and Progress The Initial Build 3 In March 2023, AT&T completed the initial build of the network both on-time and on-budget. The initial build covered more than 2.91 million square miles across all 50 states, the District of Columbia and the five U.S. territories. Importantly, FirstNet is an all-band solution, meaning public safety has priority and preemption on the FirstNet Authority’s licensed Band 14 as well as AT&T commercial 5G and LTE spectrum. This means any commercial investment by AT&T to expand coverage and capacity also benefits first responders on FirstNet. As part of the initial FirstNet build, AT&T collaborated with small and rural wireless providers to quickly expand the reach of FirstNet and launched 2,000 FirstNet tower sites in rural and tribal areas."
+    },
+    {
+     "inicio_corpo": 7547,
+     "fim_corpo": 8361,
+     "trecho": "To inform the future coverage buildout, the FirstNet Authority has built a First Responder Impact Model to identify potential areas of interest for future tower investment for public safety. The FirstNet Authority is also hosting joint meetings with AT&T and public safety stakeholders in all 50 states, DC, and the five U.S. territories to solicit feedback from public safety and inform the future buildout of FirstNet coverage. In 2024, as part of the FirstNet Authority’s reinvestment announcement, AT&T committed to deploy an additional 1,000 new Band 14 tower sites over 2 years, which were completed ahead of schedule and at no cost to the FirstNet Authority. Today, the FirstNet coverage footprint spans nearly 3 million square miles across urban, suburban, rural, tribal, and territorial areas."
+    },
+    {
+     "inicio_corpo": 18479,
+     "fim_corpo": 19385,
+     "trecho": "Now, any public safety agency can choose to subscribe to FirstNet, Built with AT&T, Verizon’s Frontline or T-Mobile’s T-Priority services, among others. Public safety agencies choose FirstNet over alternative providers because it provides excellent service that meets their needs at a fiercely competitive price. In 2017, all 56 governors of U.S. states and territories opted into FirstNet. There was no federal mandate to do so, nor is any local, state or federal public safety organization mandated to subscribe to FirstNet or an alternative commercial provider. It is a matter of consumer choice in a competitive marketplace. FirstNet is not just a technical infrastructure; it is a catalyst for broader economic and workforce gains. FirstNet’s build-out has leveraged local labor, construction firms, and regional suppliers, driving regional economic activity in rural and urban communities."
+    },
+    {
+     "inicio_corpo": 19115,
+     "fim_corpo": 20067,
+     "trecho": "FirstNet is not just a technical infrastructure; it is a catalyst for broader economic and workforce gains. FirstNet’s build-out has leveraged local labor, construction firms, and regional suppliers, driving regional economic activity in rural and urban communities. A 2024 economic impact study estimated that FirstNet deployment has generated nearly 14,000 jobs per year over seven 8 years and produced approximately $5.6 billion in wages and salaries to date.5 The same study estimated $8.0 billion in net economic output across industries tied to FirstNet’s deployment. These gains are fueled by AT&T’s contracting strategy that supports veterans and a variety of business models in deployment, operations, and maintenance. In addition, the network is focused on serving all public safety by ensuring that traditionally underserved communities, like rural and tribal areas, now benefit from the same baseline of reliable communications."
+    },
+    {
+     "inicio_corpo": 19225,
+     "fim_corpo": 20229,
+     "trecho": "FirstNet’s build-out has leveraged local labor, construction firms, and regional suppliers, driving regional economic activity in rural and urban communities. A 2024 economic impact study estimated that FirstNet deployment has generated nearly 14,000 jobs per year over seven 8 years and produced approximately $5.6 billion in wages and salaries to date.5 The same study estimated $8.0 billion in net economic output across industries tied to FirstNet’s deployment. These gains are fueled by AT&T’s contracting strategy that supports veterans and a variety of business models in deployment, operations, and maintenance. In addition, the network is focused on serving all public safety by ensuring that traditionally underserved communities, like rural and tribal areas, now benefit from the same baseline of reliable communications. FirstNet has lowered barriers to entry for small, rural and resource-constrained agencies to have access to advanced broadband tools and reliable connectivity."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0360::Vínculo institucional",
+   "unit_id": "W0360",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "Scott Agnew",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "veterans",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 18875,
+     "fim_corpo": 19852,
+     "trecho": "There was no federal mandate to do so, nor is any local, state or federal public safety organization mandated to subscribe to FirstNet or an alternative commercial provider. It is a matter of consumer choice in a competitive marketplace. FirstNet is not just a technical infrastructure; it is a catalyst for broader economic and workforce gains. FirstNet’s build-out has leveraged local labor, construction firms, and regional suppliers, driving regional economic activity in rural and urban communities. A 2024 economic impact study estimated that FirstNet deployment has generated nearly 14,000 jobs per year over seven 8 years and produced approximately $5.6 billion in wages and salaries to date.5 The same study estimated $8.0 billion in net economic output across industries tied to FirstNet’s deployment. These gains are fueled by AT&T’s contracting strategy that supports veterans and a variety of business models in deployment, operations, and maintenance."
+    }
+   ]
+  }
+ ]
+}

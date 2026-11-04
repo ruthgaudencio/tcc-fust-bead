@@ -1,0 +1,958 @@
+{
+ "caso": "BEAD",
+ "lote": 21,
+ "pares": [
+  {
+   "caso": "BEAD",
+   "par_id": "W0089::Urbano e rural",
+   "unit_id": "W0089",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 3051,
+     "fim_corpo": 3987,
+     "trecho": "I talked to workers who were trenching fiber and powering up small cells to boost capacity there. Why is there so much private sector investment in that lower-income neighborhood? It’s because many households use a wireless connection as their only onramp to the Internet, and the infrastructure rules that the FCC and local officials put in place allow wireless providers to respond to this demand. And that is a good thing because providing more capacity to the Second Ward helps its residents enjoy the benefits of fast broadband like the rest of Houston. Next-generation builds in Houston and other high-density locations are not enough for the U.S. to claim a leadership role in 5G. We cannot let 5G opportunity be a unique privilege of living in a big city. That is why this Commission has focused on making sure that rural America is not left out of the jobs, education, and healthcare innovations built on 5G."
+    },
+    {
+     "inicio_corpo": 6068,
+     "fim_corpo": 6987,
+     "trecho": "All of these jobs created from building the 5G platform have a multiplier effect as, in turn, jobs and services are created using 5G networks. I saw how technologists in the healthcare space used next- gen networks on a recent trip to Toledo. Ranking Member Latta invited me to ProMedica Toledo Hospital where Dr. Jumaa uses telemedicine technology to save lives in far-away communities. For Dr. Jumaa’s stroke patients, every second matters. Someone who is with a stroke victim can within seconds access a secure video app via their smartphone and virtually see Dr. Jumaa and his team. By talking the patient through a few diagnostic tests, Dr. Jumaa can instruct them on immediate responses and where to go next, often preventing more serious brain damage. For years, the FCC has played a key role in supporting the deployment of broadband to these facilities through our Rural Health Care Program."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0089::Vínculo institucional",
+   "unit_id": "W0089",
+   "subcategoria": "Vínculo institucional",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Brendan Carr",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "veterans",
+     "forma_encontrada": "veterans",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6987,
+     "fim_corpo": 7880,
+     "trecho": "But there’s a new trend in telehealth—a trend towards connected care everywhere. The delivery of high-tech, high-quality health care is no longer limited to the 3 confines of connected, brick-and-mortar facilities. With remote patient monitoring and mobile health applications that can be accessed on a smartphone or tablet, we now have the technology to deliver high- quality care directly to patients, regardless of where they are located. We are seeing a shift in healthcare that’s the equivalent of moving from Blockbuster to Netflix. I asked my colleagues at the FCC to support a new initiative in telehealth, which we’re calling the Connected Care Pilot Program. Last August, we took the first step by initiating a proceeding to provide up to $100 million for Connected Care pilots that benefit low-income patients, including those eligible for Medicaid and veterans."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0090::Cultura e informação",
+   "unit_id": "W0090",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 7,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 1,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "libraries",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "Library",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "libraries",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "Libraries",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "library",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "library",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "library",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1034,
+     "fim_corpo": 1780,
+     "trecho": "I’ll also discuss the critical importance of secure telecom networks, particularly with the election season starting early next year. Finally, I’ll close with some thoughts about how the 5G revolution can help us with two of our most pressing issues – the future of work and the future of our environment. The Urgent Problem of Internet Inequality This August, as part of a visit to Tribal Lands in New Mexico, I accompanied Congressman Luján to the Pueblos of San Felipe and Santo Domingo, New Mexico. We heard from community leaders and members of the Middle Rio Grande Valley Tribal Consortium 2 about their quest to bring futureproof fiber connectivity to libraries in communities where many don’t have home broadband service."
+    },
+    {
+     "inicio_corpo": 1034,
+     "fim_corpo": 1961,
+     "trecho": "I’ll also discuss the critical importance of secure telecom networks, particularly with the election season starting early next year. Finally, I’ll close with some thoughts about how the 5G revolution can help us with two of our most pressing issues – the future of work and the future of our environment. The Urgent Problem of Internet Inequality This August, as part of a visit to Tribal Lands in New Mexico, I accompanied Congressman Luján to the Pueblos of San Felipe and Santo Domingo, New Mexico. We heard from community leaders and members of the Middle Rio Grande Valley Tribal Consortium 2 about their quest to bring futureproof fiber connectivity to libraries in communities where many don’t have home broadband service. Ms. Cynthia Aguilar, a librarian with the Santo Domingo Pueblo Library, compared the impact of broadband connectivity to the arrival of the railroad to the Pueblo a century ago."
+    },
+    {
+     "inicio_corpo": 1545,
+     "fim_corpo": 2494,
+     "trecho": "We heard from community leaders and members of the Middle Rio Grande Valley Tribal Consortium 2 about their quest to bring futureproof fiber connectivity to libraries in communities where many don’t have home broadband service. Ms. Cynthia Aguilar, a librarian with the Santo Domingo Pueblo Library, compared the impact of broadband connectivity to the arrival of the railroad to the Pueblo a century ago. I’ve heard similar stories in my travels around the country. During my visit with Congressman Butterfield to Duke University Hospital, I learned about the hospital’s innovative telehealth program, which connects providers in Raleigh with rural North Carolina communities so they can use broadband to provide services ranging from stroke emergency care, to teledentistry, to mental health counseling. I particularly want to single out the efforts by libraries to provide broadband access and education to their communities."
+    },
+    {
+     "inicio_corpo": 1780,
+     "fim_corpo": 2652,
+     "trecho": "Ms. Cynthia Aguilar, a librarian with the Santo Domingo Pueblo Library, compared the impact of broadband connectivity to the arrival of the railroad to the Pueblo a century ago. I’ve heard similar stories in my travels around the country. During my visit with Congressman Butterfield to Duke University Hospital, I learned about the hospital’s innovative telehealth program, which connects providers in Raleigh with rural North Carolina communities so they can use broadband to provide services ranging from stroke emergency care, to teledentistry, to mental health counseling. I particularly want to single out the efforts by libraries to provide broadband access and education to their communities. Libraries from the city of Los Angeles to the town of Gallipolis, Ohio now lend wi-fi hotspots that are so popular that they have weeks-long waiting lists."
+    },
+    {
+     "inicio_corpo": 1961,
+     "fim_corpo": 2785,
+     "trecho": "I’ve heard similar stories in my travels around the country. During my visit with Congressman Butterfield to Duke University Hospital, I learned about the hospital’s innovative telehealth program, which connects providers in Raleigh with rural North Carolina communities so they can use broadband to provide services ranging from stroke emergency care, to teledentistry, to mental health counseling. I particularly want to single out the efforts by libraries to provide broadband access and education to their communities. Libraries from the city of Los Angeles to the town of Gallipolis, Ohio now lend wi-fi hotspots that are so popular that they have weeks-long waiting lists. In Boston’s Roxbury neighborhood, I met Ms. Eleanor, who visits the library’s Grove Hall branch from the adjoining senior center."
+    },
+    {
+     "inicio_corpo": 1961,
+     "fim_corpo": 2970,
+     "trecho": "I’ve heard similar stories in my travels around the country. During my visit with Congressman Butterfield to Duke University Hospital, I learned about the hospital’s innovative telehealth program, which connects providers in Raleigh with rural North Carolina communities so they can use broadband to provide services ranging from stroke emergency care, to teledentistry, to mental health counseling. I particularly want to single out the efforts by libraries to provide broadband access and education to their communities. Libraries from the city of Los Angeles to the town of Gallipolis, Ohio now lend wi-fi hotspots that are so popular that they have weeks-long waiting lists. In Boston’s Roxbury neighborhood, I met Ms. Eleanor, who visits the library’s Grove Hall branch from the adjoining senior center. Ms. Eleanor participated in the library’s “Tech Goes Home” program, which trains residents to use the internet and helps them purchase affordable laptops and home broadband service."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0090::Domicílio e arranjo familiar",
+   "unit_id": "W0090",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "family",
+     "forma_encontrada": "family",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 8649,
+     "fim_corpo": 9364,
+     "trecho": "The high stakes are clear as communities receiving support under CAF-II will not be eligible to do so under the RDOF. Before we send an additional $20 billion dollars out the door, we need to be absolutely sure that all carriers who receive USF funding are stable and designed to meet our buildout requirements to deliver connectivity to communities that are most in need. Fourth, to address rural broadband we must advance a more affordable way for our poorest rural Americans to connect to the internet. Quite simply, the FCC should require USF auction winners to offer an affordable broadband service option. The average family in America spends $2,700 per year on their internet, phone and cable."
+    },
+    {
+     "inicio_corpo": 8649,
+     "fim_corpo": 9472,
+     "trecho": "The high stakes are clear as communities receiving support under CAF-II will not be eligible to do so under the RDOF. Before we send an additional $20 billion dollars out the door, we need to be absolutely sure that all carriers who receive USF funding are stable and designed to meet our buildout requirements to deliver connectivity to communities that are most in need. Fourth, to address rural broadband we must advance a more affordable way for our poorest rural Americans to connect to the internet. Quite simply, the FCC should require USF auction winners to offer an affordable broadband service option. The average family in America spends $2,700 per year on their internet, phone and cable. For many working families dealing with increasing expenses and nearly flat incomes, that’s just too much."
+    },
+    {
+     "inicio_corpo": 8769,
+     "fim_corpo": 9780,
+     "trecho": "Before we send an additional $20 billion dollars out the door, we need to be absolutely sure that all carriers who receive USF funding are stable and designed to meet our buildout requirements to deliver connectivity to communities that are most in need. Fourth, to address rural broadband we must advance a more affordable way for our poorest rural Americans to connect to the internet. Quite simply, the FCC should require USF auction winners to offer an affordable broadband service option. The average family in America spends $2,700 per year on their internet, phone and cable. For many working families dealing with increasing expenses and nearly flat incomes, that’s just too much. Currently, we know that 6 a number of ISPs, including Comcast, Cox, AT&T and Spectrum, among others, provide low- cost internet offerings around $15 or less to families participating in federal school lunch and other programs – a good start for us to examine what an affordable offering may look like."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0090::Educação",
+   "unit_id": "W0090",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 9028,
+     "fim_corpo": 9780,
+     "trecho": "Fourth, to address rural broadband we must advance a more affordable way for our poorest rural Americans to connect to the internet. Quite simply, the FCC should require USF auction winners to offer an affordable broadband service option. The average family in America spends $2,700 per year on their internet, phone and cable. For many working families dealing with increasing expenses and nearly flat incomes, that’s just too much. Currently, we know that 6 a number of ISPs, including Comcast, Cox, AT&T and Spectrum, among others, provide low- cost internet offerings around $15 or less to families participating in federal school lunch and other programs – a good start for us to examine what an affordable offering may look like."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0090::Escolaridade e letramento",
+   "unit_id": "W0090",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12730,
+     "fim_corpo": 13664,
+     "trecho": "5G technology has the opportunity to help drive solutions on issues that matter most in our world. Not just for today, but for our shared tomorrow. One such issue is the future of work. 5G will allow massive IoT networks using automation and artificial intelligence to achieve unprecedented productivity and efficiency. But that transformation could also displace millions of workers. Recent research shows that the automation revolution will disproportionately impact communities of color and women. That’s due to their overrepresentation in roles likely to be automated: truck drivers, machinists, food service workers, and office clerks. But while 5G may disrupt to our current labor structure, it also has tremendous potential to help. Government and industry need to work together to encourage programs that use 5G and 8 other tools to prepare our young people and students for the jobs of the future."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0090::Gênero",
+   "unit_id": "W0090",
+   "subcategoria": "Gênero",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "women",
+     "forma_encontrada": "women",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12348,
+     "fim_corpo": 13246,
+     "trecho": "The FCC has a statutory obligation to protect the national defense, and the security of our elections clearly qualifies. The ultimate goal is clear – make sure that every vote, wherever made, is counted accurately each and every time . Ensuring That the 5G Revolution Benefits All Americans Finally, we must make sure that all Americans share in the benefits of broadband. 5G technology has the opportunity to help drive solutions on issues that matter most in our world. Not just for today, but for our shared tomorrow. One such issue is the future of work. 5G will allow massive IoT networks using automation and artificial intelligence to achieve unprecedented productivity and efficiency. But that transformation could also displace millions of workers. Recent research shows that the automation revolution will disproportionately impact communities of color and women."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0090::Idade",
+   "unit_id": "W0090",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "senior",
+     "forma_encontrada": "senior",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1961,
+     "fim_corpo": 2785,
+     "trecho": "I’ve heard similar stories in my travels around the country. During my visit with Congressman Butterfield to Duke University Hospital, I learned about the hospital’s innovative telehealth program, which connects providers in Raleigh with rural North Carolina communities so they can use broadband to provide services ranging from stroke emergency care, to teledentistry, to mental health counseling. I particularly want to single out the efforts by libraries to provide broadband access and education to their communities. Libraries from the city of Los Angeles to the town of Gallipolis, Ohio now lend wi-fi hotspots that are so popular that they have weeks-long waiting lists. In Boston’s Roxbury neighborhood, I met Ms. Eleanor, who visits the library’s Grove Hall branch from the adjoining senior center."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0090::Infraestrutura e porte populacional",
+   "unit_id": "W0090",
+   "subcategoria": "Infraestrutura e porte populacional",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "unserved",
+     "forma_encontrada": "unserved",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 6105,
+     "fim_corpo": 6886,
+     "trecho": "Once we have improved data and maps, the Commission could then proceed with bulk of the additional support for longer terms. Unfortunately, the RDOF structure adopts a “ready, fire, aim” approach that favors speed of funding over results. Second, to address rural connectivity we must incentivize providers to bring future-proof broadband to our communities. The Commission has a responsibility to ensure that its policies are working, and the USF program is an important example of where we must do better. A close review of the RDOF proposal finds that many communities that will be deemed eligible as currently “unserved” actually previously received federal dollars as recently as five years ago through our high cost program known as Connect America Phase I."
+    },
+    {
+     "inicio_corpo": 7216,
+     "fim_corpo": 7887,
+     "trecho": "Sometimes you have to look back to move forward. That’s why I’ve called for the FCC to conduct a data-driven 10-year look-back on how our high cost programming has performed in bringing broadband to our hardest to reach areas. Where have we succeeded? Where did we 5 miss the mark? Which communities have had their connectivity needs met by the program in the way that we expected? Which haven’t, and why? We must understand why. Here is the point: we must avoid waking up 10 years from now with another $20 billion spent, and yet we still fail to understand with precision which communities remain unserved and how we can accurately finish the job ."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0090::Posição no trabalho",
+   "unit_id": "W0090",
+   "subcategoria": "Posição no trabalho",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "workers",
+     "forma_encontrada": "workers",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 12348,
+     "fim_corpo": 13128,
+     "trecho": "The FCC has a statutory obligation to protect the national defense, and the security of our elections clearly qualifies. The ultimate goal is clear – make sure that every vote, wherever made, is counted accurately each and every time . Ensuring That the 5G Revolution Benefits All Americans Finally, we must make sure that all Americans share in the benefits of broadband. 5G technology has the opportunity to help drive solutions on issues that matter most in our world. Not just for today, but for our shared tomorrow. One such issue is the future of work. 5G will allow massive IoT networks using automation and artificial intelligence to achieve unprecedented productivity and efficiency. But that transformation could also displace millions of workers."
+    },
+    {
+     "inicio_corpo": 12471,
+     "fim_corpo": 13389,
+     "trecho": "The ultimate goal is clear – make sure that every vote, wherever made, is counted accurately each and every time . Ensuring That the 5G Revolution Benefits All Americans Finally, we must make sure that all Americans share in the benefits of broadband. 5G technology has the opportunity to help drive solutions on issues that matter most in our world. Not just for today, but for our shared tomorrow. One such issue is the future of work. 5G will allow massive IoT networks using automation and artificial intelligence to achieve unprecedented productivity and efficiency. But that transformation could also displace millions of workers. Recent research shows that the automation revolution will disproportionately impact communities of color and women. That’s due to their overrepresentation in roles likely to be automated: truck drivers, machinists, food service workers, and office clerks."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0090::Renda e classe",
+   "unit_id": "W0090",
+   "subcategoria": "Renda e classe",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "low-income",
+     "forma_encontrada": "Low-income",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2970,
+     "fim_corpo": 3870,
+     "trecho": "Ms. Eleanor flourished, and told me about her favorite new activity when she’s at home with her first laptop: learning to line dance by watching online videos. Stories like these illustrate the importance of high-quality, affordable broadband service to our country’s citizens. But there are hard-working Americans that fall on the other side of that digital equality line, and remain un-connected. It has been about 25 years since the phrase “digital divide” was first introduced. The fact that we are still talking about the impact of the digital divide after a quarter century proves that we are not dealing with a temporary condition, 3 but a persistent problem that is only growing in urgency – a state that I call an “internet inequality.” Low-income people, people of color, and people in rural areas either aren’t getting online or are making great sacrifices to do so."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0090::Saúde",
+   "unit_id": "W0090",
+   "subcategoria": "Saúde",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "hospital",
+     "forma_encontrada": "Hospital",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "hospitals",
+     "forma_encontrada": "hospital’s",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "telehealth",
+     "forma_encontrada": "telehealth",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1345,
+     "fim_corpo": 2367,
+     "trecho": "The Urgent Problem of Internet Inequality This August, as part of a visit to Tribal Lands in New Mexico, I accompanied Congressman Luján to the Pueblos of San Felipe and Santo Domingo, New Mexico. We heard from community leaders and members of the Middle Rio Grande Valley Tribal Consortium 2 about their quest to bring futureproof fiber connectivity to libraries in communities where many don’t have home broadband service. Ms. Cynthia Aguilar, a librarian with the Santo Domingo Pueblo Library, compared the impact of broadband connectivity to the arrival of the railroad to the Pueblo a century ago. I’ve heard similar stories in my travels around the country. During my visit with Congressman Butterfield to Duke University Hospital, I learned about the hospital’s innovative telehealth program, which connects providers in Raleigh with rural North Carolina communities so they can use broadband to provide services ranging from stroke emergency care, to teledentistry, to mental health counseling."
+    },
+    {
+     "inicio_corpo": 1345,
+     "fim_corpo": 2367,
+     "trecho": "The Urgent Problem of Internet Inequality This August, as part of a visit to Tribal Lands in New Mexico, I accompanied Congressman Luján to the Pueblos of San Felipe and Santo Domingo, New Mexico. We heard from community leaders and members of the Middle Rio Grande Valley Tribal Consortium 2 about their quest to bring futureproof fiber connectivity to libraries in communities where many don’t have home broadband service. Ms. Cynthia Aguilar, a librarian with the Santo Domingo Pueblo Library, compared the impact of broadband connectivity to the arrival of the railroad to the Pueblo a century ago. I’ve heard similar stories in my travels around the country. During my visit with Congressman Butterfield to Duke University Hospital, I learned about the hospital’s innovative telehealth program, which connects providers in Raleigh with rural North Carolina communities so they can use broadband to provide services ranging from stroke emergency care, to teledentistry, to mental health counseling."
+    },
+    {
+     "inicio_corpo": 1345,
+     "fim_corpo": 2367,
+     "trecho": "The Urgent Problem of Internet Inequality This August, as part of a visit to Tribal Lands in New Mexico, I accompanied Congressman Luján to the Pueblos of San Felipe and Santo Domingo, New Mexico. We heard from community leaders and members of the Middle Rio Grande Valley Tribal Consortium 2 about their quest to bring futureproof fiber connectivity to libraries in communities where many don’t have home broadband service. Ms. Cynthia Aguilar, a librarian with the Santo Domingo Pueblo Library, compared the impact of broadband connectivity to the arrival of the railroad to the Pueblo a century ago. I’ve heard similar stories in my travels around the country. During my visit with Congressman Butterfield to Duke University Hospital, I learned about the hospital’s innovative telehealth program, which connects providers in Raleigh with rural North Carolina communities so they can use broadband to provide services ranging from stroke emergency care, to teledentistry, to mental health counseling."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0090::Saúde e deficiência",
+   "unit_id": "W0090",
+   "subcategoria": "Saúde e deficiência",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "deaf",
+     "forma_encontrada": "de af",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 2652,
+     "fim_corpo": 3870,
+     "trecho": "In Boston’s Roxbury neighborhood, I met Ms. Eleanor, who visits the library’s Grove Hall branch from the adjoining senior center. Ms. Eleanor participated in the library’s “Tech Goes Home” program, which trains residents to use the internet and helps them purchase affordable laptops and home broadband service. Ms. Eleanor flourished, and told me about her favorite new activity when she’s at home with her first laptop: learning to line dance by watching online videos. Stories like these illustrate the importance of high-quality, affordable broadband service to our country’s citizens. But there are hard-working Americans that fall on the other side of that digital equality line, and remain un-connected. It has been about 25 years since the phrase “digital divide” was first introduced. The fact that we are still talking about the impact of the digital divide after a quarter century proves that we are not dealing with a temporary condition, 3 but a persistent problem that is only growing in urgency – a state that I call an “internet inequality.” Low-income people, people of color, and people in rural areas either aren’t getting online or are making great sacrifices to do so."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0090::Territórios de povos e comunidades tradicionais",
+   "unit_id": "W0090",
+   "subcategoria": "Territórios de povos e comunidades tradicionais",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.5",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Tribal lands",
+     "forma_encontrada": "Tribal Lands",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 785,
+     "fim_corpo": 1545,
+     "trecho": "That’s why today I want to talk about how the persistent problem of the digital divide is hardening into a state of “Internet Inequality,” and how the FCC needs to improve how it addresses this issue through its Universal Service Fund programs. I’ll also discuss the critical importance of secure telecom networks, particularly with the election season starting early next year. Finally, I’ll close with some thoughts about how the 5G revolution can help us with two of our most pressing issues – the future of work and the future of our environment. The Urgent Problem of Internet Inequality This August, as part of a visit to Tribal Lands in New Mexico, I accompanied Congressman Luján to the Pueblos of San Felipe and Santo Domingo, New Mexico."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0090::Urbano e rural",
+   "unit_id": "W0090",
+   "subcategoria": "Urbano e rural",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Geoffrey Starks",
+   "n_ocorrencias_no_par": 11,
+   "n_janelas_mostradas": 6,
+   "n_janelas_omitidas": 5,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "Rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural areas",
+     "forma_encontrada": "rural areas",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "rural",
+     "forma_encontrada": "rural",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 1345,
+     "fim_corpo": 2367,
+     "trecho": "The Urgent Problem of Internet Inequality This August, as part of a visit to Tribal Lands in New Mexico, I accompanied Congressman Luján to the Pueblos of San Felipe and Santo Domingo, New Mexico. We heard from community leaders and members of the Middle Rio Grande Valley Tribal Consortium 2 about their quest to bring futureproof fiber connectivity to libraries in communities where many don’t have home broadband service. Ms. Cynthia Aguilar, a librarian with the Santo Domingo Pueblo Library, compared the impact of broadband connectivity to the arrival of the railroad to the Pueblo a century ago. I’ve heard similar stories in my travels around the country. During my visit with Congressman Butterfield to Duke University Hospital, I learned about the hospital’s innovative telehealth program, which connects providers in Raleigh with rural North Carolina communities so they can use broadband to provide services ranging from stroke emergency care, to teledentistry, to mental health counseling."
+    },
+    {
+     "inicio_corpo": 2970,
+     "fim_corpo": 3870,
+     "trecho": "Ms. Eleanor flourished, and told me about her favorite new activity when she’s at home with her first laptop: learning to line dance by watching online videos. Stories like these illustrate the importance of high-quality, affordable broadband service to our country’s citizens. But there are hard-working Americans that fall on the other side of that digital equality line, and remain un-connected. It has been about 25 years since the phrase “digital divide” was first introduced. The fact that we are still talking about the impact of the digital divide after a quarter century proves that we are not dealing with a temporary condition, 3 but a persistent problem that is only growing in urgency – a state that I call an “internet inequality.” Low-income people, people of color, and people in rural areas either aren’t getting online or are making great sacrifices to do so."
+    },
+    {
+     "inicio_corpo": 3870,
+     "fim_corpo": 4579,
+     "trecho": "According to a Pew Research study, only 45% of adults with an income under $30k have broadband at home. That means driving to the library to fill - out job applications and joining the waitlist for that Wi-Fi hotspot. We’ve got to do better. The FCC’s Universal Service Programs Need Improvement Increasingly, your ability to get online affects your quality of life. No broadband connection at home means less access to healthcare, education, and government services. That’s why the FCC’s Universal Service Fund programs are so important. We know that millions of Americans in the hardest to serve areas are getting left behind, so I’ve proposed a four-point plan to address rural broadband ."
+    },
+    {
+     "inicio_corpo": 3870,
+     "fim_corpo": 4641,
+     "trecho": "According to a Pew Research study, only 45% of adults with an income under $30k have broadband at home. That means driving to the library to fill - out job applications and joining the waitlist for that Wi-Fi hotspot. We’ve got to do better. The FCC’s Universal Service Programs Need Improvement Increasingly, your ability to get online affects your quality of life. No broadband connection at home means less access to healthcare, education, and government services. That’s why the FCC’s Universal Service Fund programs are so important. We know that millions of Americans in the hardest to serve areas are getting left behind, so I’ve proposed a four-point plan to address rural broadband . First, the FCC must fund rural broadband with fixed maps."
+    },
+    {
+     "inicio_corpo": 3870,
+     "fim_corpo": 4821,
+     "trecho": "According to a Pew Research study, only 45% of adults with an income under $30k have broadband at home. That means driving to the library to fill - out job applications and joining the waitlist for that Wi-Fi hotspot. We’ve got to do better. The FCC’s Universal Service Programs Need Improvement Increasingly, your ability to get online affects your quality of life. No broadband connection at home means less access to healthcare, education, and government services. That’s why the FCC’s Universal Service Fund programs are so important. We know that millions of Americans in the hardest to serve areas are getting left behind, so I’ve proposed a four-point plan to address rural broadband . First, the FCC must fund rural broadband with fixed maps. Good policy requires good data. As this Subcommittee knows, the FCC recently proposed $20.4 billion dollars for the 10- year Rural Digital Opportunity Fund, also known as RDOF."
+    },
+    {
+     "inicio_corpo": 4091,
+     "fim_corpo": 4927,
+     "trecho": "We’ve got to do better. The FCC’s Universal Service Programs Need Improvement Increasingly, your ability to get online affects your quality of life. No broadband connection at home means less access to healthcare, education, and government services. That’s why the FCC’s Universal Service Fund programs are so important. We know that millions of Americans in the hardest to serve areas are getting left behind, so I’ve proposed a four-point plan to address rural broadband . First, the FCC must fund rural broadband with fixed maps. Good policy requires good data. As this Subcommittee knows, the FCC recently proposed $20.4 billion dollars for the 10- year Rural Digital Opportunity Fund, also known as RDOF. I fully support providing the resources needed to adequately address connectivity in rural communities."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0091::Cultura e informação",
+   "unit_id": "W0091",
+   "subcategoria": "Cultura e informação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.3",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 4,
+   "n_janelas_mostradas": 4,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "library",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "library",
+     "forma_encontrada": "library",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "libraries",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "libraries",
+     "forma_encontrada": "libraries",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13762,
+     "fim_corpo": 14857,
+     "trecho": "And continuing to simply auction millimeter wave spectrum while the rest of the world is already working with mid-band airwaves has security consequences because so much of this equipment is available from only one Chinese vendor. So we need to pivot away from auctioning high-band spectrum and prioritize mid-band spectrum. Our next auction should feature the 3.5 GHz band and we should focus on a C-band auction thereafter. Closing the Homework Gap Today seven in ten teachers assign homework that requires Internet access. But FCC data repeatedly show that one in three households do not have broadband. Where those numbers overlap is the Homework Gap. And according to the Senate Joint Economic Committee, it affects twelve million students across the country. You can see it in communities everywhere—kids lingering in the library parking lot after it has closed, pecking out papers at fast food restaurants, and urging parents to shuffle them to the 6 homes of friends and relatives just to cobble together the connectivity they need to do nightly schoolwork."
+    },
+    {
+     "inicio_corpo": 14857,
+     "fim_corpo": 15728,
+     "trecho": "The Homework Gap is the cruelest part of the digital divide. But there are things we can do to solve it. The FCC could start a Homework Gap proceeding to identify solutions and ways our existing programs, like Lifeline can help. The FCC could explore how its universal service programs could support creative solutions like equipping school buses with Wi-Fi to turn ride time into connected time for homework, just as legislation before this Committee recommends. And we could go bigger and establish a national fund to solve the Homework Gap from a portion of the funds raised from the future sale of airwaves. The Homework Gap is a public problem, so let’s use public airwave resources to fix it. This fund could be used to make sure that there are wireless hotspots for loan in every library—including school libraries—across the country."
+    },
+    {
+     "inicio_corpo": 14857,
+     "fim_corpo": 15728,
+     "trecho": "The Homework Gap is the cruelest part of the digital divide. But there are things we can do to solve it. The FCC could start a Homework Gap proceeding to identify solutions and ways our existing programs, like Lifeline can help. The FCC could explore how its universal service programs could support creative solutions like equipping school buses with Wi-Fi to turn ride time into connected time for homework, just as legislation before this Committee recommends. And we could go bigger and establish a national fund to solve the Homework Gap from a portion of the funds raised from the future sale of airwaves. The Homework Gap is a public problem, so let’s use public airwave resources to fix it. This fund could be used to make sure that there are wireless hotspots for loan in every library—including school libraries—across the country."
+    },
+    {
+     "inicio_corpo": 14968,
+     "fim_corpo": 15946,
+     "trecho": "The FCC could start a Homework Gap proceeding to identify solutions and ways our existing programs, like Lifeline can help. The FCC could explore how its universal service programs could support creative solutions like equipping school buses with Wi-Fi to turn ride time into connected time for homework, just as legislation before this Committee recommends. And we could go bigger and establish a national fund to solve the Homework Gap from a portion of the funds raised from the future sale of airwaves. The Homework Gap is a public problem, so let’s use public airwave resources to fix it. This fund could be used to make sure that there are wireless hotspots for loan in every library—including school libraries—across the country. That could make a meaningful difference in the lives of millions of kids and their families. A few libraries are doing this today and it gives every student a fair shot to do their schoolwork and keep up in class."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0091::Domicílio e arranjo familiar",
+   "unit_id": "W0091",
+   "subcategoria": "Domicílio e arranjo familiar",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.4",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "household",
+     "forma_encontrada": "household",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "households",
+     "forma_encontrada": "households",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "families",
+     "forma_encontrada": "families",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4878,
+     "fim_corpo": 5763,
+     "trecho": "Over history, it has inspired innovation, increased choice, and improved our resourcefulness and efficiency. Competition benefits consumers. It is also the reason why the United States has birthed some of the most dynamic companies in the world. But last month the FCC ended a decade-long history of careful wireless merger review that protected this kind of competition in the wireless market. The FCC approved the largest wireless merger in history, allowing three companies to control 99 percent of the wireless market. By any metric, this decision will raise prices, lower quality, and slow innovation, just as we start to deploy the next generation of wireless technology. 3 That’s unfortunate because the United States has more wireless connections than people and over half of the country now lives in a household that relies only on wireless telephones."
+    },
+    {
+     "inicio_corpo": 13486,
+     "fim_corpo": 14386,
+     "trecho": "To date, the FCC has focused its early efforts to support 5G wireless services by bringing only high-band spectrum to market. This is a mistake. The sheer volume of antenna facilities needed to make this service viable will limit deployment to the most populated areas. And continuing to simply auction millimeter wave spectrum while the rest of the world is already working with mid-band airwaves has security consequences because so much of this equipment is available from only one Chinese vendor. So we need to pivot away from auctioning high-band spectrum and prioritize mid-band spectrum. Our next auction should feature the 3.5 GHz band and we should focus on a C-band auction thereafter. Closing the Homework Gap Today seven in ten teachers assign homework that requires Internet access. But FCC data repeatedly show that one in three households do not have broadband."
+    },
+    {
+     "inicio_corpo": 14922,
+     "fim_corpo": 15823,
+     "trecho": "But there are things we can do to solve it. The FCC could start a Homework Gap proceeding to identify solutions and ways our existing programs, like Lifeline can help. The FCC could explore how its universal service programs could support creative solutions like equipping school buses with Wi-Fi to turn ride time into connected time for homework, just as legislation before this Committee recommends. And we could go bigger and establish a national fund to solve the Homework Gap from a portion of the funds raised from the future sale of airwaves. The Homework Gap is a public problem, so let’s use public airwave resources to fix it. This fund could be used to make sure that there are wireless hotspots for loan in every library—including school libraries—across the country. That could make a meaningful difference in the lives of millions of kids and their families."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0091::Educação",
+   "unit_id": "W0091",
+   "subcategoria": "Educação",
+   "categoria": "4 Equipamento público",
+   "codigo": "4.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 5,
+   "n_janelas_mostradas": 5,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita",
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "tolerante"
+    },
+    {
+     "termo_da_lista": "school",
+     "forma_encontrada": "school",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13997,
+     "fim_corpo": 14857,
+     "trecho": "So we need to pivot away from auctioning high-band spectrum and prioritize mid-band spectrum. Our next auction should feature the 3.5 GHz band and we should focus on a C-band auction thereafter. Closing the Homework Gap Today seven in ten teachers assign homework that requires Internet access. But FCC data repeatedly show that one in three households do not have broadband. Where those numbers overlap is the Homework Gap. And according to the Senate Joint Economic Committee, it affects twelve million students across the country. You can see it in communities everywhere—kids lingering in the library parking lot after it has closed, pecking out papers at fast food restaurants, and urging parents to shuffle them to the 6 homes of friends and relatives just to cobble together the connectivity they need to do nightly schoolwork."
+    },
+    {
+     "inicio_corpo": 14386,
+     "fim_corpo": 15340,
+     "trecho": "Where those numbers overlap is the Homework Gap. And according to the Senate Joint Economic Committee, it affects twelve million students across the country. You can see it in communities everywhere—kids lingering in the library parking lot after it has closed, pecking out papers at fast food restaurants, and urging parents to shuffle them to the 6 homes of friends and relatives just to cobble together the connectivity they need to do nightly schoolwork. The Homework Gap is the cruelest part of the digital divide. But there are things we can do to solve it. The FCC could start a Homework Gap proceeding to identify solutions and ways our existing programs, like Lifeline can help. The FCC could explore how its universal service programs could support creative solutions like equipping school buses with Wi-Fi to turn ride time into connected time for homework, just as legislation before this Committee recommends."
+    },
+    {
+     "inicio_corpo": 14857,
+     "fim_corpo": 15728,
+     "trecho": "The Homework Gap is the cruelest part of the digital divide. But there are things we can do to solve it. The FCC could start a Homework Gap proceeding to identify solutions and ways our existing programs, like Lifeline can help. The FCC could explore how its universal service programs could support creative solutions like equipping school buses with Wi-Fi to turn ride time into connected time for homework, just as legislation before this Committee recommends. And we could go bigger and establish a national fund to solve the Homework Gap from a portion of the funds raised from the future sale of airwaves. The Homework Gap is a public problem, so let’s use public airwave resources to fix it. This fund could be used to make sure that there are wireless hotspots for loan in every library—including school libraries—across the country."
+    },
+    {
+     "inicio_corpo": 15097,
+     "fim_corpo": 15946,
+     "trecho": "The FCC could explore how its universal service programs could support creative solutions like equipping school buses with Wi-Fi to turn ride time into connected time for homework, just as legislation before this Committee recommends. And we could go bigger and establish a national fund to solve the Homework Gap from a portion of the funds raised from the future sale of airwaves. The Homework Gap is a public problem, so let’s use public airwave resources to fix it. This fund could be used to make sure that there are wireless hotspots for loan in every library—including school libraries—across the country. That could make a meaningful difference in the lives of millions of kids and their families. A few libraries are doing this today and it gives every student a fair shot to do their schoolwork and keep up in class."
+    },
+    {
+     "inicio_corpo": 15823,
+     "fim_corpo": 17075,
+     "trecho": "A few libraries are doing this today and it gives every student a fair shot to do their schoolwork and keep up in class. But these programs are few and far between and even where they do exist, demand outstrips supply. One way we can fix this right now is by setting up such a fund with the auction of the C-band or any other spectrum bands Congress sees fit to require us to auction down the road. To this end, I am glad the Chairman has announced how we will proceed with the C-band and I think the next step should be exploring how we can solve the Homework Gap through the licensing of these airwaves. If we did this, we could ensure that no child is left offline. We can better prepare students in every community across the country for a successful digital age future. That’s not just a good deal for some kids struggling with schoolwork, it’s a better deal for all of us because our national competitiveness depends on extending the reach of access, education, and opportunity everywhere. Thank you for the opportunity to testify. Thank you for the opportunity to provide my ideas. I think there is good we can do if we connect all and I look forward to answering your questions about how we can do just that."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0091::Escolaridade e letramento",
+   "unit_id": "W0091",
+   "subcategoria": "Escolaridade e letramento",
+   "categoria": "2 Marcadores posicionais",
+   "codigo": "2.2",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 3,
+   "n_janelas_mostradas": 3,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "student",
+     "forma_encontrada": "student",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "students",
+     "forma_encontrada": "students",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 13635,
+     "fim_corpo": 14548,
+     "trecho": "The sheer volume of antenna facilities needed to make this service viable will limit deployment to the most populated areas. And continuing to simply auction millimeter wave spectrum while the rest of the world is already working with mid-band airwaves has security consequences because so much of this equipment is available from only one Chinese vendor. So we need to pivot away from auctioning high-band spectrum and prioritize mid-band spectrum. Our next auction should feature the 3.5 GHz band and we should focus on a C-band auction thereafter. Closing the Homework Gap Today seven in ten teachers assign homework that requires Internet access. But FCC data repeatedly show that one in three households do not have broadband. Where those numbers overlap is the Homework Gap. And according to the Senate Joint Economic Committee, it affects twelve million students across the country."
+    },
+    {
+     "inicio_corpo": 15097,
+     "fim_corpo": 15946,
+     "trecho": "The FCC could explore how its universal service programs could support creative solutions like equipping school buses with Wi-Fi to turn ride time into connected time for homework, just as legislation before this Committee recommends. And we could go bigger and establish a national fund to solve the Homework Gap from a portion of the funds raised from the future sale of airwaves. The Homework Gap is a public problem, so let’s use public airwave resources to fix it. This fund could be used to make sure that there are wireless hotspots for loan in every library—including school libraries—across the country. That could make a meaningful difference in the lives of millions of kids and their families. A few libraries are doing this today and it gives every student a fair shot to do their schoolwork and keep up in class."
+    },
+    {
+     "inicio_corpo": 15728,
+     "fim_corpo": 17075,
+     "trecho": "That could make a meaningful difference in the lives of millions of kids and their families. A few libraries are doing this today and it gives every student a fair shot to do their schoolwork and keep up in class. But these programs are few and far between and even where they do exist, demand outstrips supply. One way we can fix this right now is by setting up such a fund with the auction of the C-band or any other spectrum bands Congress sees fit to require us to auction down the road. To this end, I am glad the Chairman has announced how we will proceed with the C-band and I think the next step should be exploring how we can solve the Homework Gap through the licensing of these airwaves. If we did this, we could ensure that no child is left offline. We can better prepare students in every community across the country for a successful digital age future. That’s not just a good deal for some kids struggling with schoolwork, it’s a better deal for all of us because our national competitiveness depends on extending the reach of access, education, and opportunity everywhere. Thank you for the opportunity to testify. Thank you for the opportunity to provide my ideas. I think there is good we can do if we connect all and I look forward to answering your questions about how we can do just that."
+    }
+   ]
+  },
+  {
+   "caso": "BEAD",
+   "par_id": "W0091::Idade",
+   "unit_id": "W0091",
+   "subcategoria": "Idade",
+   "categoria": "1 Marcadores pessoais",
+   "codigo": "1.1",
+   "lingua": "en",
+   "casa_ou_camara": "House",
+   "data": "",
+   "orador": "The Honorable Jessica Rosenworcel",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "tolerante"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "youth",
+     "forma_encontrada": "you th",
+     "passada": "tolerante"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 364,
+     "fim_corpo": 1239,
+     "trecho": "Thank you for the opportunity to appear before you today. I believe the future belongs to the connected. No matter who you are or where you live in this country you need access to modern communications to have a fair shot at 21st century success. Clearing the way for this connected future should be at the heart of everything we do at the Federal Communications Commission. If we do our job right, we can help expand access to digital age opportunity and create a more safe, prosperous, and connected future for all. It has been nearly seven months since my colleagues and I last sat before you. I wish I could tell you that during that time we put consumers first, made competition a priority, came up with clear policies to extend the reach of broadband and wireless service to all, and made our networks more safe and our digital world more secure."
+    }
+   ]
+  }
+ ]
+}
