@@ -44,8 +44,16 @@ def agregar(disps, diplomas):
         nivel, fonte = "", None
     else:
         nivel, fonte = "ausente", None
+    # A coluna de mecanismo informa o mecanismo VINCULANTE instituído, que é
+    # como o texto a lê. O campo mecanismo_tipo do dispositivo guarda o formato
+    # da cláusula, e uma cláusula de definição pode ter formato de critério de
+    # elegibilidade sem obrigar (vinculante = não), caso em que a célula é
+    # superficial. Emitir o formato ali faria o quadro contradizer a regra de
+    # 3.3, então a célula superficial declara "nenhum".
+    mecanismo = (fonte or {}).get("mecanismo_tipo", "") if nivel == "estrutural" else (
+        "nenhum" if nivel == "superficial" else "")
     return {"nivel": nivel,
-            "mecanismo_tipo": (fonte or {}).get("mecanismo_tipo", ""),
+            "mecanismo_tipo": mecanismo,
             "diploma_evidencia": (fonte or {}).get("diploma", ""),
             "evidencia_verbatim": (fonte or {}).get("trecho_evidencia", ""),
             "n_dispositivos": len(no_escopo), "n_estrutural": len(est),
