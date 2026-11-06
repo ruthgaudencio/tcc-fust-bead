@@ -91,9 +91,16 @@ def main():
         w = csv.DictWriter(fh, fieldnames=cols2); w.writeheader(); w.writerows(linhas2)
 
     # ---------- Tabela 1 validada: unidades lexicais x unidades pertinentes
+    # A base é a mesma do denominador da densidade: pares cujo nível foi
+    # decidido, isto é, estrutural ou superficial. Pares pertinentes de nível
+    # indeterminado ficam fora, pelo mesmo critério que os exclui da base de
+    # cálculo da confiabilidade: o nível não foi decidido porque as janelas
+    # exibidas não bastaram, e contá-los no denominador afirmaria ausência de
+    # fundamentação que a leitura não constatou.
+    NIVEIS_DECIDIDOS = ("estrutural", "superficial")
     unid = defaultdict(set)
     for p in pares:
-        if (p.get("pertinencia") or "").strip().lower() == "sim":
+        if (p.get("nivel_do_par") or "").strip().lower() in NIVEIS_DECIDIDOS:
             unid[(p.get("caso", ""), (p.get("subcategoria") or "").strip())].add(p.get("unit_id", ""))
     linhas1 = []
     for c in cobertura:
