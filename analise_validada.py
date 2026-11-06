@@ -150,11 +150,13 @@ def main():
     nomes = {l["codigo"]: l["subcategoria"] for l in linhas2}
     ax.set_yticks(range(len(vis)))
     ax.set_yticklabels([f"{c} {nomes.get(c, '')}" for c in vis], fontsize=8)
-    ax.set_xlabel("pares estruturais, em % dos pares pertinentes")
-    ax.set_title("Densidade do nível estrutural por subcategoria\n"
-                 "proporção das menções válidas em que há razão declarada e dado",
-                 fontsize=10.5, loc="left", pad=12)
-    ax.grid(axis="y", visible=False)
+    # Sem título dentro da imagem e sem eixo horizontal: o achado vai na legenda
+    # do documento e cada barra traz o seu valor, de modo que a escala é redundante.
+    ax.set_xticks([])
+    for lado in ("bottom", "left"):
+        ax.spines[lado].set_visible(False)
+    ax.tick_params(axis="y", length=0)
+    ax.grid(visible=False)
     ax.legend(handles=[Patch(facecolor=COR[c], hatch=HACHURA[c], edgecolor=SUPERFICIE, label=c)
                        for c in CASOS], loc="lower right", frameon=False, fontsize=8.5)
     ax.margins(x=0.14)

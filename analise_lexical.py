@@ -54,9 +54,11 @@ MATRIZ_FUST = BASE / "fust" / "matriz" / "arguments_matrix_fust.csv"
 
 # paleta validada contra a superfície clara: separação CVD 26,1 e visão normal
 # 33,4, ambas acima do piso, e contraste acima de 3:1 para as duas séries.
-COR = {"FUST": "#2a78d6", "BEAD": "#C8102E"}
-HACHURA = {"FUST": "", "BEAD": "///"}
-TINTA, TINTA2, SUPERFICIE = "#0b0b0b", "#52514e", "#fcfcfb"
+# Paleta neutra: mesma família de cor em dois níveis de luminosidade, de modo a
+# não evocar as bandeiras dos dois países e a continuar legível em escala de cinza.
+COR = {"FUST": "#2e3d49", "BEAD": "#8d9aa5"}
+HACHURA = {"FUST": "", "BEAD": ""}   # preenchimento cheio, sem hachura
+TINTA, TINTA2, SUPERFICIE = "#0b0b0b", "#52514e", "#ffffff"
 MESES_PT = ["jan", "fev", "mar", "abr", "mai", "jun",
             "jul", "ago", "set", "out", "nov", "dez"]
 
@@ -66,8 +68,10 @@ plt.rcParams.update({
     "axes.edgecolor": "#d8d7d2", "axes.labelcolor": TINTA,
     "text.color": TINTA, "xtick.color": TINTA2, "ytick.color": TINTA2,
     "axes.spines.top": False, "axes.spines.right": False,
-    "axes.grid": True, "grid.color": "#ebeae5", "grid.linewidth": 0.6,
+    "axes.grid": False, "grid.color": "#ebeae5", "grid.linewidth": 0.6,
     "savefig.bbox": "tight", "savefig.dpi": 200,
+    # Sem fundo: a figura assume a cor da página em que for inserida.
+    "savefig.transparent": True,
 })
 
 
@@ -225,7 +229,7 @@ def fig_cobertura(cols, linhas, medida: str, titulo: str, rotulo_x: str):
     ax.set_yticks(list(y))
     ax.set_yticklabels([f"{r['codigo']} {r['subcategoria']}" for r in vis], fontsize=8)
     ax.set_xlabel(rotulo_x)
-    ax.set_title(titulo, fontsize=10.5, loc="left", pad=12)
+    # Sem título dentro da imagem: o achado vai na legenda do documento.
     ax.grid(axis="y", visible=False)
     ax.legend(handles=[Patch(facecolor=COR[c], hatch=HACHURA[c],
                              edgecolor=SUPERFICIE, label=c) for c in CASOS],
@@ -290,9 +294,7 @@ def fig_linha_do_tempo(nomes, dados, caso="FUST", marco=None, subtitulo=""):
                     textcoords="offset points", fontsize=7.6, color=TINTA2,
                     va="top", ha="left")
     ax.set_xlabel("data da sessão")
-    ax.set_title(subtitulo or "Quando cada subcategoria é invocada na tramitação do FUST\n"
-                 "área do ponto proporcional ao número de ocorrências na sessão",
-                 fontsize=10.5, loc="left", pad=12)
+    # Sem título dentro da imagem: o achado vai na legenda do documento.
     ax.grid(axis="y", visible=False)
     ax.margins(x=0.02)
     fig.tight_layout()

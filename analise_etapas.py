@@ -137,9 +137,8 @@ def figura_etapas(caso: str, linhas: list[dict]):
     for ax in (a1, a2):
         ax.grid(axis="y", visible=False)
         ax.margins(x=0.18)
-    fig.suptitle(f"Debate sobre desigualdade por etapa do processo legislativo — {caso}",
-                 fontsize=11, x=0.012, ha="left", y=0.99)
-    fig.tight_layout(rect=(0, 0, 1, 0.955))
+    # Sem título dentro da imagem: o achado vai na legenda do documento.
+    fig.tight_layout()
     return fig
 
 
@@ -215,9 +214,8 @@ def figura_etapas_comparada(linhas: list[dict]):
                     label=c) for c, _ in blocos]
     fig.legend(handles=marcas, loc="lower left", bbox_to_anchor=(0.012, 0.0),
                ncol=2, frameon=False, fontsize=9)
-    fig.suptitle("Debate sobre desigualdade por etapa do processo legislativo",
-                 fontsize=11, x=0.012, ha="left", y=0.99)
-    fig.tight_layout(rect=(0, 0.055, 1, 0.955))
+    # Sem título dentro da imagem: o achado vai na legenda do documento.
+    fig.tight_layout(rect=(0, 0.055, 1, 1))
     return fig
 
 

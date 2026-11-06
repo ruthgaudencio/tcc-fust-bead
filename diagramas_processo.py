@@ -28,7 +28,9 @@ SAIDA = BASE / "resultados"
 sys.path.insert(0, str(BASE))
 from analise_lexical import COR, TINTA, TINTA2, SUPERFICIE  # noqa: E402
 
-CLARO = {"FUST": "#eaf2fc", "BEAD": "#fdecef"}
+# Preenchimento neutro: quem distingue os dois casos é a cor da borda, vinda de
+# COR, e não um matiz que evoque as bandeiras dos dois países.
+CLARO = {"FUST": "#e9ecef", "BEAD": "#f5f6f7"}
 
 
 # O desenho usa unidades de conteúdo, e não frações da figura: uma unidade é a
@@ -68,8 +70,8 @@ def seta(ax, p1, p2, rad=0.0):
 
 def finalizar(fig, ax, larg, alt, titulo):
     ax.set_xlim(0, larg); ax.set_ylim(0, alt); ax.axis("off")
-    ax.text(0, alt - 0.55, titulo, fontsize=11.5, color=TINTA, ha="left", va="top")
-    fig.patch.set_facecolor(SUPERFICIE)
+    # Sem título dentro da imagem: o achado vai na legenda do documento.
+    del titulo
     fig.tight_layout(pad=0.6)
 
 
