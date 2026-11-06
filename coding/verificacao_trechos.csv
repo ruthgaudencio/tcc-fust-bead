@@ -2061,6 +2061,8 @@ discursivo,W0197::Educação,BEAD,sim,superficial,ok_janela_estrito,305
 discursivo,W0197::Macrorregião,BEAD,nao,falso_positivo,ok_janela_estrito,132
 discursivo,W0197::Saúde,BEAD,sim,superficial,ok_janela_estrito,70
 discursivo,W0196::Idade,BEAD,nao,falso_positivo,ok_janela_estrito,254
+discursivo,C0035::Macrorregião,FUST,sim,superficial,ok_janela_estrito,910
+discursivo,C0056::Macrorregião,FUST,sim,superficial,ok_janela_estrito,253
 normativo,BEAD::1.2::IIJA Division F::1,BEAD,sim,superficial,ok_janela_estrito,134
 normativo,BEAD::1.2::IIJA Division F::2,BEAD,sim,superficial,ok_janela_estrito,213
 normativo,BEAD::1.2::IIJA Division F::3,BEAD,nao,falso_positivo,ok_janela_estrito,203
@@ -2174,6 +2176,7 @@ normativo,FUST::1.4::Lei 9.998/2000::1,FUST,sim,estrutural,ok_janela_estrito,208
 normativo,FUST::2.1::Lei 9.998/2000::1,FUST,sim,estrutural,ok_janela_estrito,151
 normativo,FUST::2.4::Lei 9.998/2000::1,FUST,nao,falso_positivo,ok_janela_estrito,108
 normativo,FUST::3.1::Lei 9.998/2000::1,FUST,sim,estrutural,ok_janela_estrito,37
+normativo,FUST::3.2::Lei 9.998/2000::1,FUST,sim,estrutural,ok_janela_estrito,242
 normativo,FUST::3.3::Lei 9.998/2000::1,FUST,sim,estrutural,ok_janela_estrito,58
 normativo,FUST::4.1::Lei 9.998/2000::1,FUST,sim,estrutural,ok_janela_estrito,139
 normativo,FUST::4.2::Lei 9.998/2000::1,FUST,sim,estrutural,ok_janela_estrito,186

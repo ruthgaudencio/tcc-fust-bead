@@ -99,3 +99,19 @@ Rodar `--comparar` depois da codificação mostra, célula a célula, o que cada
 escopo produz. A decisão pode, portanto, ser tomada com o resultado à vista, e
 precisa ser declarada na seção 3.3 com o argumento que a sustenta.
 
+
+## Adendo de 5 de novembro de 2026
+
+A lista de termos de macrorregião passou a incluir Sudam e Sudene, por simetria
+com a lista norte-americana da mesma subcategoria, que já trazia territories,
+insular areas e Puerto Rico. Com isso, o art. 5º, § 1º, da Lei nº 9.998, de
+2000, que destina ao menos trinta por cento dos recursos às áreas abrangidas
+pelas duas autarquias, passou a ser lido como mecanismo de percentual destinado
+em macrorregião.
+
+A medida acima fica assim, para o lado brasileiro, em qualquer dos três
+escopos: 10 subcategorias nomeadas lexicalmente, contra 9 antes. A contagem do
+eixo normativo codificado vai de 8 para 9, porque domicílio e arranjo familiar
+segue julgada impertinente. O lado norte-americano não se move.
+
+O escopo adotado permanece o declarado em 31 de outubro de 2026.

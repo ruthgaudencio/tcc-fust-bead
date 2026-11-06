@@ -1,0 +1,80 @@
+{
+ "caso": "FUST",
+ "lote": 61,
+ "pares": [
+  {
+   "caso": "FUST",
+   "par_id": "C0035::Macrorregião",
+   "unit_id": "C0035",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "camara",
+   "data": "1999-12-07",
+   "orador": "Michel Temer",
+   "n_ocorrencias_no_par": 2,
+   "n_janelas_mostradas": 2,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Sudam",
+     "forma_encontrada": "Sudam",
+     "passada": "estrita"
+    },
+    {
+     "termo_da_lista": "Sudam",
+     "forma_encontrada": "Sudam",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 25340,
+     "fim_corpo": 26258,
+     "trecho": "et, de forma a beneficiar em percentuais maiores os estabelecimentos frequentados por população carente, de acordo com a regulamentação do Poder Executivo; VIII — instalação de redes de alta velo- cidade, destinadas ao intercâmbio de sinais e à implantação de serviços de teleconte- rência entre estabelecimentos de ensino e bibliotecas; IX — atendimento a áreas remotas e de fronteira de interesse estratégico; X — implantação de acessos individua- is para órgãos de segurança pública; XI — fornecimento de acessos individu- ais e equipamentos de interface a institui- ções de assistência a deficientes; XIl — fornecimento de acessos indivi- duais e equipamentos de interface a defici- entes carentes; XI — implantação da telefonia rural; S 1º Em cada exercício, pelo menos trinta por cento dos recursos do Fust serão aplicados em programas, projetos e ativida- des nas áreas abrangidas pela Sudam e Su- dene."
+    },
+    {
+     "inicio_corpo": 36749,
+     "fim_corpo": 37005,
+     "trecho": "8 1º Em cada exercício, pelo menos 30% (trinta por cento) dos recursos do Fust serão aplicados, em programas, projetos e atividades executados pelas concessionárias do Sistema Telefônico Fixo Comuta- do — STFC, nas áreas abrangidas pela Sudam e Su- dene."
+    }
+   ]
+  },
+  {
+   "caso": "FUST",
+   "par_id": "C0056::Macrorregião",
+   "unit_id": "C0056",
+   "subcategoria": "Macrorregião",
+   "categoria": "3 Posição territorial",
+   "codigo": "3.2",
+   "lingua": "pt",
+   "casa_ou_camara": "camara",
+   "data": "1999-12-07",
+   "orador": "Michel Temer",
+   "n_ocorrencias_no_par": 1,
+   "n_janelas_mostradas": 1,
+   "n_janelas_omitidas": 0,
+   "passadas": [
+    "estrita"
+   ],
+   "termos": [
+    {
+     "termo_da_lista": "Sudam",
+     "forma_encontrada": "Sudam",
+     "passada": "estrita"
+    }
+   ],
+   "janelas": [
+    {
+     "inicio_corpo": 4664,
+     "fim_corpo": 4919,
+     "trecho": "8 1º Em cada exercício, pelo menos 30% (trinta por cento) dos recursos do Fust serão aplicados, em programas, projetos e atividades executados pelas concessionárias do Sistema Telefônico Fixo Comuta- do- STFC, nas áreas abrangidas pela Sudam e Su- dene."
+    }
+   ]
+  }
+ ]
+}
