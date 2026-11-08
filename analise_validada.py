@@ -145,7 +145,7 @@ def main():
                 ax.text(0.4, y + desl, "sem léxico", va="center", ha="left",
                         fontsize=7.2, style="italic", color=TINTA2, zorder=4)
             else:
-                ax.text(v + 0.5, y + desl, f"{v:.1f}%", va="center", ha="left",
+                ax.text(v + 0.5, y + desl, f"{v:.1f}%".replace(".", ","), va="center", ha="left",
                         fontsize=7.4, color=TINTA2, zorder=4)
     nomes = {l["codigo"]: l["subcategoria"] for l in linhas2}
     ax.set_yticks(range(len(vis)))

@@ -267,7 +267,10 @@ def fig_linha_do_tempo(nomes, dados, caso="FUST", marco=None, subtitulo=""):
                    color=COR[caso], alpha=0.72, edgecolor=SUPERFICIE,
                    linewidth=0.8, zorder=3)
     ax.set_yticks(range(len(codigos)))
-    ax.set_yticklabels([f"{k} {nomes.get(k, k)}" for k in reversed(codigos)], fontsize=8)
+    # A figura entra no documento a 60% da largura nativa, de modo que o corpo
+    # aqui e dimensionado para chegar legivel depois da reducao.
+    ax.set_yticklabels([f"{k} {nomes.get(k, k)}" for k in reversed(codigos)],
+                       fontsize=14)
     # eixo de tempo verdadeiro: a distância horizontal é tempo decorrido
     # a marcação acompanha a amplitude: mês a mês numa tramitação de meses,
     # semestral ou anual num corpus de anos, para o eixo continuar legível
@@ -286,14 +289,14 @@ def fig_linha_do_tempo(nomes, dados, caso="FUST", marco=None, subtitulo=""):
         rotulo = lambda x: str(mdates.num2date(x).year)
     ax.xaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _pos: rotulo(x)))
     for r in ax.get_xticklabels():
-        r.set_rotation(45); r.set_horizontalalignment("right"); r.set_fontsize(7.5)
+        r.set_rotation(45); r.set_horizontalalignment("right"); r.set_fontsize(12.5)
     if marco:
         x = dt.date.fromisoformat(marco[0])
         ax.axvline(x, color=TINTA2, linewidth=1.2, linestyle="--", zorder=2)
         ax.annotate(marco[1], xy=(x, len(codigos) - 0.3), xytext=(6, 0),
-                    textcoords="offset points", fontsize=7.6, color=TINTA2,
+                    textcoords="offset points", fontsize=12.5, color=TINTA2,
                     va="top", ha="left")
-    ax.set_xlabel("data da sessão")
+    ax.set_xlabel("data da sessão", fontsize=13)
     # Sem título dentro da imagem: o achado vai na legenda do documento.
     ax.grid(axis="y", visible=False)
     ax.margins(x=0.02)

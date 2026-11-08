@@ -21,6 +21,7 @@ formação da agenda da fiscalização da execução.
 from __future__ import annotations
 
 import csv
+import textwrap
 import datetime as dt
 import sys
 from collections import defaultdict
@@ -126,7 +127,8 @@ def figura_etapas(caso: str, linhas: list[dict]):
     a2.barh(list(y), den, height=0.56, color=COR[caso], hatch=HACHURA[caso],
             edgecolor=SUPERFICIE, linewidth=1.2, zorder=3)
     for i, (d, l) in enumerate(zip(den, ls)):
-        txt = f"{d:.1f}%" if l["pares_pertinentes"] >= 5 else "base insuficiente"
+        txt = (f"{d:.1f}%".replace(".", ",")
+               if l["pares_pertinentes"] >= 5 else "base insuficiente")
         a2.text(d + max(max(den), 1) * 0.02, i, txt, va="center", ha="left",
                 fontsize=8, color=TINTA2, zorder=4)
     a2.set_xlabel("densidade do nível estrutural, em %")
@@ -168,7 +170,11 @@ def figura_etapas_comparada(linhas: list[dict]):
             ordenadas.append((caso, l))
     ordenadas.reverse()       # barh conta de baixo para cima
 
-    rot = [f"{c}  {l['ordem']}. {l['etapa']}" for c, l in ordenadas]
+    # Rótulo quebrado em duas linhas quando longo: a coluna de rótulos é o
+    # que mais alarga a figura, e quanto mais larga ela sai, mais o Word a
+    # reduz para caber na mancha, o que devolve o texto miúdo.
+    rot = [textwrap.fill(f"{c}  {l['ordem']}. {l['etapa']}", 30)
+           for c, l in ordenadas]
     vol = [l["pares_pertinentes"] for _, l in ordenadas]
     den = [float(l["densidade_estrutural_pct"]) if l["densidade_estrutural_pct"] != "" else 0.0
            for _, l in ordenadas]
@@ -177,7 +183,7 @@ def figura_etapas_comparada(linhas: list[dict]):
     y = list(range(len(ordenadas)))
 
     fig, (a1, a2) = plt.subplots(
-        1, 2, figsize=(12.0, 0.62 * len(ordenadas) + 2.8), sharey=True,
+        1, 2, figsize=(10.0, 0.62 * len(ordenadas) + 2.8), sharey=True,
         gridspec_kw={"width_ratios": [1, 1], "wspace": 0.08})
 
     for ax, dados, rotulo, titulo in (
@@ -186,20 +192,22 @@ def figura_etapas_comparada(linhas: list[dict]):
         for i, (v, cor, h) in enumerate(zip(dados, cores, hachs)):
             ax.barh(i, v, height=0.56, color=cor, hatch=h,
                     edgecolor=SUPERFICIE, linewidth=1.2, zorder=3)
-        ax.set_xlabel(rotulo)
-        ax.set_title(titulo, fontsize=10, loc="left", pad=8)
+        ax.set_xlabel(rotulo, fontsize=15)
+        ax.set_title(titulo, fontsize=18, loc="left", pad=8)
+        ax.tick_params(axis="x", labelsize=13)
         ax.grid(axis="y", visible=False)
         ax.margins(x=0.20)
 
     maxv = max(vol) if vol else 1
     for i, v in enumerate(vol):
         a1.text(v + maxv * 0.015, i, f"{v}", va="center", ha="left",
-                fontsize=8, color=TINTA2, zorder=4)
+                fontsize=14, color=TINTA2, zorder=4)
     maxd = max(max(den), 1)
     for i, (d, (_, l)) in enumerate(zip(den, ordenadas)):
-        txt = f"{d:.1f}%" if l["pares_pertinentes"] >= 5 else "base insuficiente"
+        txt = (f"{d:.1f}%".replace(".", ",")
+               if l["pares_pertinentes"] >= 5 else "base insuficiente")
         a2.text(d + maxd * 0.02, i, txt, va="center", ha="left",
-                fontsize=8, color=TINTA2, zorder=4)
+                fontsize=14, color=TINTA2, zorder=4)
 
     # filete entre os dois blocos
     n_segundo = len(blocos[1][1]) if len(blocos) > 1 else 0
@@ -209,13 +217,14 @@ def figura_etapas_comparada(linhas: list[dict]):
                        alpha=0.35, zorder=2)
 
     a1.set_yticks(y)
-    a1.set_yticklabels(rot, fontsize=8.5)
-    marcas = [Patch(facecolor=COR[c], hatch=HACHURA[c], edgecolor=SUPERFICIE,
-                    label=c) for c, _ in blocos]
-    fig.legend(handles=marcas, loc="lower left", bbox_to_anchor=(0.012, 0.0),
-               ncol=2, frameon=False, fontsize=9)
+    # A figura entra no documento a 49% da largura nativa, de modo que o
+    # corpo aqui e dimensionado para chegar legivel depois da reducao.
+    a1.set_yticklabels(rot, fontsize=15)
+    # Sem legenda de cores: o rótulo de cada linha já começa por FUST ou BEAD,
+    # de modo que a tarja repetia a informação e disputava espaço com o
+    # rótulo do eixo x.
     # Sem título dentro da imagem: o achado vai na legenda do documento.
-    fig.tight_layout(rect=(0, 0.055, 1, 1))
+    fig.tight_layout()
     return fig
 
 

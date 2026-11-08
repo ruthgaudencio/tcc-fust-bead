@@ -38,6 +38,9 @@ CLARO = {"FUST": "#e9ecef", "BEAD": "#f5f6f7"}
 # extensão ocupada. Posicionar em frações fixas quebra assim que um item cresce.
 U_TIT, U_LIN, U_PAD = 1.45, 1.05, 0.75
 ESCALA = 0.235          # polegadas por unidade
+# O contorno arredondado e desenhado 0.12 para fora do retangulo da caixa.
+# Sem esta folga a borda inferior da ultima caixa cai fora do eixo e some.
+MARGEM_INF = 0.6
 
 
 def altura_caixa(titulo, linhas):
@@ -102,12 +105,13 @@ def diagrama_fust():
           "nenhuma unidade no corpus"]),
     ]
     vao, larg = 1.3, 34.0
-    alt = sum(altura_caixa(t, l) for t, l in etapas) + vao * (len(etapas) - 1) + 2.2
+    alt = (sum(altura_caixa(t, l) for t, l in etapas)
+           + vao * (len(etapas) - 1) + 2.2 + MARGEM_INF)
     fig, ax = plt.subplots(figsize=(larg * ESCALA, alt * ESCALA))
     y = alt - 2.2
     for i, (tit, ls) in enumerate(etapas):
         h = altura_caixa(tit, ls)
-        caixa(ax, 0.3, y - h, larg - 0.6, tit, ls, "FUST", destaque=(i == 3))
+        caixa(ax, 0.3, y - h, larg - 0.6, tit, ls, "FUST")
         if i < len(etapas) - 1:
             seta(ax, (larg / 2, y - h), (larg / 2, y - h - vao))
         y -= h + vao
